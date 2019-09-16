@@ -75,6 +75,8 @@ Lecture 1: Welcome; What is Digital Humanities? \[CO and MS\]
 Lecture 2: Data Management and working with Texts in Digital Humanities
 \[MS\]
 
+[Access the slides](Riga2019_L2_Data-mgmt-and-working-with-texts.pdf).
+
 **Tuesday 17 Sep**
 
 Lecture 3: What is Text, What is Text Analysis, and What is Distant
