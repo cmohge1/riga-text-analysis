@@ -17,8 +17,7 @@ language.
 
 **Outcomes:** by the end of the module, students will be able to
 
--   Understand how digital humanities practitioners work with and manage
-    > texts
+-   Understand how digital humanities practitioners work with and manage texts
 
 -   Understand the ways that computation can aid critical interpretation
 
