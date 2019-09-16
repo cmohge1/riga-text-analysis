@@ -70,7 +70,7 @@ Underwood, Ted. *Distant Horizons* (U of Chicago Press, 2019).
 
 Lecture 1: Welcome; What is Digital Humanities? \[CO and MS\]
 
-[Access the slides]().
+[Access the slides](Riga2019_L1_Intro-to-DH.pdf).
 
 Lecture 2: Data Management and working with Texts in Digital Humanities
 \[MS\]
