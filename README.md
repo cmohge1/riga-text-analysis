@@ -57,12 +57,12 @@ Moretti, Franco. *Graphs, Maps, Trees* (Verso, 2007).
 Piper, Andrew. *Enumerations* (U of Chicago P, 2019).
 
 Rockwell, Geoffrey and Stefan Sinclair. *Hermeneutica: Computer-Assisted
-Interpretation in the Humanities* (MIT Press, 2016).
+Interpretation in the Humanities* (MIT P, 2016).
 
 Silge, Julia, and David Robinson. *Text Mining with R: A Tidy Approach*
 (O’Reilly, 2017).
 
-Underwood, Ted. *Distant Horizons* (U of Chicago Press, 2019).
+Underwood, Ted. *Distant Horizons* (U of Chicago P, 2019).
 
 ## Schedule
 
@@ -111,7 +111,7 @@ network graph \[CO\]
 
 Lecture 11: Basic R functions: Lexical uniqueness calculations \[CO\]
 
-Lecture 12: Lexical dispersion plot; Put POS tags into use \[CO\];
+Lecture 12: Lexical dispersion plot; Put POS tags into use \[CO\]
 
 **Wednesday 25 Sep**
 
