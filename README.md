@@ -70,12 +70,12 @@ Underwood, Ted. *Distant Horizons* (U of Chicago P, 2019).
 
 Lecture 1: Welcome; What is Digital Humanities? \[CO and MS\]
 
-[Access the slides](Riga2019_L1_Intro-to-DH.pdf).
+[Access the slides](L1_Intro-to-DH.pdf).
 
 Lecture 2: Data Management and working with Texts in Digital Humanities
 \[MS\]
 
-[Access the slides](Riga2019_L2_Data-mGMT-and-working-with-texts.pdf).
+[Access the slides](L2_Data-mGMT-and-working-with-texts.pdf).
 
 **Tuesday 17 Sep**
 
@@ -87,6 +87,8 @@ Reading? \[MS and CO\]
 Lecture 4: Computer-assisted interpretation: Hathi Trust bookworm
 exercise &c. \[MS\]; Computer-assisted text analysis: Intro to Voyant
 \[CO\]
+
+[Access the slides](L4_web-based-tools.pdf).
 
 **Wednesday 18 Sep**
 
