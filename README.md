@@ -85,16 +85,15 @@ Reading? \[MS and CO\]
 [Access the slides](L3_what-is-text-analysis.pdf).
 
 Lecture 4: Computer-assisted interpretation: Hathi Trust bookworm
-exercise &c. \[MS\]; Computer-assisted text analysis: Intro to Voyant
-\[CO\]
+exercise &c. \[MS\]
 
 [Access the slides](L4_web-based-tools.pdf).
 
 **Wednesday 18 Sep**
 
-Lecture 5: Voyant continued; Intro to Corpus Linguistics \[CO\]
+Lecture 5: Voyant tools \[CO\]
 
-Lecture 6: Corpus analysis with AntConc \[CO\]
+Lecture 6: Intro to corpus linguistics and analysis with AntConc \[CO\]
 
 **Thursday 19 Sep**
 
