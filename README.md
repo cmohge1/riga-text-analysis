@@ -85,7 +85,7 @@ Reading? \[MS and CO\]
 [Access the slides](L3_what-is-text-analysis.pdf).
 
 Lecture 4: Computer-assisted interpretation: Hathi Trust bookworm
-exercise &c. \[MS\]
+exercise. \[MS\]
 
 [Access the slides](L4_web-based-tools.pdf).
 
