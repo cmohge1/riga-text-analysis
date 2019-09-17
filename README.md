@@ -82,6 +82,8 @@ Lecture 2: Data Management and working with Texts in Digital Humanities
 Lecture 3: What is Text, What is Text Analysis, and What is Distant
 Reading? \[MS and CO\]
 
+[Access the slides](L3_what-is-text-analysis.pdf).
+
 Lecture 4: Computer-assisted interpretation: Hathi Trust bookworm
 exercise &c. \[MS\]; Computer-assisted text analysis: Intro to Voyant
 \[CO\]
