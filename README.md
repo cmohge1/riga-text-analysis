@@ -93,7 +93,11 @@ exercise. \[MS\]
 
 Lecture 5: Voyant tools \[CO\]
 
+[Access the slides](L5_Voyant-tools.pdf)
+
 Lecture 6: Intro to corpus linguistics and analysis with AntConc \[CO\]
+
+[Access the slides](L6_AntConc.pdf)
 
 **Thursday 19 Sep**
 
