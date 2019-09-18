@@ -1,0 +1,191 @@
+---
+title: 'Lecture 7: Intro to R, part 1 (Thursday, 19 September 2019)'
+output:
+  html_document:
+  toc: yes
+html_notebook:
+  theme: united
+toc: yes
+---
+
+## What exactly is programming?
+
+Every computer program is a series of instructions---a sequence of separate, small commands. The art of programming is to take a general idea and break it apart into separate steps. (This may be just as important as learning the rules and syntax of a particular language.)
+
+Programming (or code) consists of either imperative or declarative style. R uses imperative style, meaning it strings together instructions to the computer. (Declarative style involves telling the computer what the end result should be, like HTML code.) There are many subdivisions of imperative style, but the primary concern for beginning programmers should be procedural style: that is, describing the steps for achieving a task.
+
+Each step/instruction is a *statement*---words, numbers, or equations that express a thought.
+
+## Why are there so many languages?
+
+The central processing unit (CPU) of the computer does not understand any of them! The CPU only takes in *machine code*, which runs directly on the computer's hardware. Machine code is basically unreadable, though: it's a series of tiny numerical operations.
+
+Several popular computer programming languages are actually translations of machine code; they are literally interpreted---as opposed to a compiled---languages. They bridge the gap between machine code/computer hardware and the human programmer. What we call our *source code* is our set of statements in our preferred language that interacts with machine code.
+
+Source code is simply written in plain text in a text editor. **Do not** use a word processor.
+
+The computer knows understands source code by the file extension. For us, that means the ".R" extension (and the R notebook is ".Rmd").
+
+While you do not need a special program to write code, it is usually a good idea to use an **IDE** (integrated development environment) to help you. Many people (like me) use the [oXygen](https://www.oxygenxml.com/) IDE for editing XML documents and creating transformations with XSLT. Python users often use [Pycharm](https://www.jetbrains.com/pycharm/) or [Anaconda](https://www.anaconda.com/). For R, I like to use [RStudio](https://www.rstudio.com/) (more on that in a moment). 
+
+## Why are we using R?
+
+Short answer: because I like R. I have learned some Python, too, but for some reason R worked better for me. This suggests an important takeaway from this session: there is no single language that is *better* than any other. What you chose to work with will depend on what materials you are working on, what level of comfort you have with a given language, and what kinds of outputs you would like from your code.
+
+For example, if I am primarily interested in text-based edition projects, I would be wise to work mostly with XML technologies: TEI-XML, XPath, XSLT, and XQuery, just to name a few. However, I have seen people use Python and JavaScript to transform XML. While I would advocate XSLT for such an operation, it is better for you to use your preferred language to get things done.
+
+That all said, R does have some distinct advantages:
+  
+- The visualisation libraries are excellent.
+
+- Being so dependent on variables, the code is more readable than many other languages (like JavaScript).
+
+- It was built by data scientists and linguists, so it is optimal for dealing with structured text and data sets.
+
+## The R Environment (for those who are new to R)
+
+When you first launch R, you will see a console:
+  
+  ![R image](https://daedalus.umkc.edu/StatisticalMethods/images/R-Console-300x280.png)
+
+This interface allows you to run R commands just like you would run commands on a Bash scripting shell. 
+
+When you open this file in RStudio, the command line interface (labeled "Console") is below the editing window. When you run a code block in the editing window, you will see the results appear in the Console below.
+
+## About R Markdown
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
+
+## Some basic R functions
+- to activate a package: library(stylo)
+- to set working directory: setwd("path/to/my/file")
+- to find your current location: getwd()
+- to list files in your current location: list.files()
+- to get help: ?<function>, e.g. ?stylo
+- to quit R: q()
+
+R can be good for doing some math. Say I am making a travel budget, and I want to add the cost of hotel and flight prices for a trip to Seattle. The flight is £550 and the hotel price per night is £133. R can do the work for you.
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. (On a Windows machine you would press *[Windows button]+Shift+Enter*.)
+
+```{r}
+550 + 133
+```
+
+R can make all kinds of calculations, so if you want to get the total cost of a five-day trip to Seattle, you can add an operator for multiplication.
+
+```{r}
+550 + 133 * 5
+```
+
+To make this effective, we need to store these kinds of calculations in variables. Variables can be assigned with either <-, =, or ->. Let's do that, and let's compare the price of a 5-day trip to Seattle to a 7-day trip to Paris.
+
+```{r}
+sea.trip.v <- 550 + 133 * 5
+
+paris.trip.v <- 150 + 100 * 7
+```
+
+What is the most expensive trip?
+
+Guess we should go to Paris. What if I just want to do both?
+
+```{r}
+sea.trip.v + paris.trip.v
+```
+
+Suppose further that I wanted to add in an optional 3-day trip to New York City. I want to see which trip would be more expensive if I were to take two out of the three options.
+
+```{r}
+nyc.trip.v <- 300 + 150 * 3
+
+sea.and.nyc <- sea.trip.v + nyc.trip.v 
+
+sea.and.paris <- sea.trip.v + paris.trip.v
+
+sea.and.nyc > sea.and.paris
+```
+
+Above you can see how powerful even simple R programming can be: you can store mathemtical operations in named variables and then use those variables to work with other variables (this becomes very important in word frequency calculations).
+
+You see how this works, and how quickly one can store variables for even practical questions.
+
+## Vectors
+
+There are other important kinds of R data formats that you should know. The first is a vector, which is a numbered list stored under a single name. An easy way to create a vector is to use the `c` command, which basically means "combine."
+
+```{r}
+v1 <- c("i", "wait", "with", "bated", "breath")
+
+# confirm the value of the variable by running v1
+v1
+
+# identify a specific value by indicating it is brackets
+v1[4]
+```
+
+The other important data structure is called a data frame. This is probably the most useful for sophisticated analyses, because it renders the data in a table that is very similar to a spreadsheet. It is also more than that: a data frame is actually a special kind of list of vectors and factors that have the same length. 
+
+It is important to input your data in an Excel or Google docs spreadsheet and then export that data into a comma separated value (.csv) or tab separated value (.tsv) file.
+
+## Generating, loading, and manipulating data frames
+
+Data frames are basically two-dimensional matrices, whereas vectors are unidomensional. Suppose you have a group of texts and you want to keep track of some of their metadata.
+
+David Copperfield / Charles Dickens / novel / British
+Pictures from Italy / Charles Dickens / nonfiction / British
+Leaves of Grass / Walt Whitman / poetry / American
+Sartar Resartus / Thomas Carlyle / nonfiction / British
+
+We can **create** a data frame to arrange this material in tabular format:
+
+```{r}
+title <- c("David Copperfield", "Pictures from Italy", "Leaves of Grass", "Sartar Resartus")
+author <- c("Charles Dickens", "Charles Dickens", "Walt Whitman", "Thomas Carlyle")
+genre <- c("novel", "nonfiction", "poetry", "nonfiction")
+nationality <- c("British", "British", "American", "British")
+```
+
+Here we have just created variables containing vectors. The `data.frame` function, which takes the vector variables as arguments and combines them into a table.
+
+```{r}
+metadata <- data.frame(title, author, genre, nationality)
+
+str(metadata)  
+
+summary(metadata)
+```
+
+You have just created a data frame. The `str` function shows you the structure of the data frame, and the `summary` function shows you the unique values, among other interesting facts. The dollar sign ($) can be used to identify specific variables in the data frame.
+
+```{r}
+metadata$author
+
+metadata$nationality
+```
+This is a fairly simple example to show you the syntax and meaning of a data frame, but most of you will be loading data into R. (Though you should remember that the `data.frame` fucntion is often used in code to transform lists.) Usually that data comes from a spreadsheet software (Microsoft Excel, Apple Numbers, Google Sheets).
+
+To **load** data we use the `read.csv` or `read.table` function. (See Gries, p. 53-54.) From our GitHub site, download the bow-in-the-cloud-metadata-box1.csv file. Let's use that to run some experiments on data frames.
+
+```{r}
+rm(list = ls(all=TRUE))
+bow.metadata <- read.csv(file = "bow-in-the-cloud-metadata-box1.csv", header = TRUE, sep = ",")
+
+str(bow.metadata)
+
+```
+
+```{r}
+bow.metadata$Creator[1:10]
+```
+
+
+You may also want to output a file using `write.table`.
+
+```{r}
+write.table(bow.metadata, file = "bow-metadata-df.csv", sep = "\t", quote = FALSE, row.names = FALSE)
+```
+
+In your working directory you should now have a new csv file that looks quite similar to the original spreadsheet. Again, not particularly interesting here, but in many cases you will find yourself turning vectors into data frames in R, and then outputting your results into csv files. It's also important to know the difference between the `read.csv` and `write.table` functions.
+
+
