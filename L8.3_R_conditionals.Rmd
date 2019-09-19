@@ -1,0 +1,395 @@
+---
+title: "Conditionals and flow control in R"
+output: html_notebook
+---
+
+#### Lecture 8 - Introduction to Conditionals and Flow control
+
+This notebook will introduce the reserved words, use of basic conditionals and flow control in the R programming language. At the end you should have a basic understanding of and experince with the syntax, conditionals and flow control of the R programming language.
+
+
+
+### Reserved words and case sensitivity in R
+
+There are a few reserved words in R, which means you cannot use these words as variable or function names because they have special meanings. The list of reserved words can be viewed by getting help on `reserved`:
+
+```{r}
+?reserved
+```
+
+
+The help panel in R-Studio should show the conditionals which the R langauge recognises, such as the constants `TRUE`, `FALSE` and conditionals such as `for`, `if`, etc.
+
+R will return an error if you attempt to use reserved words as variable or function names:
+
+```{r}
+TRUE <- 'value'
+for <- c('vector', 'of', 'words')
+```
+
+There are only a handful of reserved words, so it is easy enough (and important) to remember them.
+
+
+
+
+### Variables in R
+
+Variables in R are used to store data. The data stored in variables can be changed or used according to your needs, they can be single values or complex objects, and variables can be passed to functions (as a way of passing larger or more complex data, like word vectors, to functions for text processing).
+
+Variable names are cAse seNsitiVe, can contain a combindation of letters, digits, full stops (periods) or underscores (_). They can begin with a letter or full stop, but cannot start with a digit, and as before, reserved words cannot be used as variable names.
+
+```{r}
+8variable <- 'invalid variable'
+```
+
+```{r}
+.myVariaBl3 <- 'valid variable'
+
+# show the variable?
+
+```
+
+
+
+
+### Constants in R
+
+Constants in programming are atomic values themselves and once created cannot be changed. There basic types of constants are numeric and character constants. Numeric constants are numbers (either integers, doubles or floating point numbers [i.e. complex numbers]) and character constants can be combined into strings of text. Constants can be assigned to variables.
+
+```{r}
+typeof(10)
+typeof(5)
+typeof("line of text")
+typeof('10')
+```
+
+Notice that the quote characters around the '10' turn this from a constant of type double to a constant of type character. Single or double quotes can be used to define a character constant. 
+
+
+
+
+### Operators in R
+
+Operations allow you to carroy out mathematics or logical operations, such as addition, subtraction. There are 4 main types of operators:
+
+- Arithmetic
+- Relational
+- Logical
+- Assignment
+
+
+#### Arithmetic operators
+
+Arithmetic operators are used to carry out mathematical operations, like addition and subtraction.
+
+`+` addition
+`-` subtraction
+`*` multiplication
+`/` division
+`^` exponent
+`%%` modulus
+
+For example:
+
+```{r, echo=TRUE} 
+x <- 3
+y <- 20
+```
+
+```{r}
+# 20 to the power of 3?
+y
+```
+
+
+
+
+#### Relational operators
+
+Relational operators are used to compare two values and are used when making a decision to control the flow of the script.
+
+`<` less than
+`>` greater than
+`<=` less than or equal to
+`>=` great than or equal to
+`==` equal to (NB: a single `=` is an assignment, not a relational comparison)
+`!=` not equal to
+
+For example:
+
+```{r}
+x <= 5
+y <= 5.1
+
+# Is x greater than y?
+x
+```
+
+
+The context of the '<=' in the code block above is subtle. The first line is assigning a constant to a variable named 'x'. The last line is comparing two variables using the relational operator.
+
+```{r}
+x<=y
+```
+
+
+Relational operators also work across vectors and will apply to each element of the vector. Using the `c()` function to create vectors we can show how to add 5 to each element in a single operation:
+
+```{r}
+my.v <- c(1,2,3,4,5)
+
+# add 5 to all the elements of the vector variable my.v?
+my.v
+```
+
+You can also add two vectors together, which combines each element in turn. This is called an element-wise operation:
+
+```{r}
+new.v <- c(5,4,9,2,1)
+
+my.v + new.v
+```
+
+If your vectors are of different lengths, element-wise operations repeat the shortest vector and continue to apply element-wise to the longer vector:
+
+```{r}
+short.v <- c(1,2)
+
+my.v + short.v
+```
+
+You don't need to first create a variable either, you can dynamically create a vector as part of the relational operation:
+
+```{r}
+my.v - c(1,2,3,4,4)
+```
+
+Note, that the elements of your vectors must be of compatible types. You can't add a character to a number.
+
+
+
+
+#### Logical operators
+
+Logical operators are used to perform Boolean operations between constants, variables or vectors.
+
+`!` logical NOT
+`&` element-wise logical AND (for use with vectors)
+`&&` logical AND (for use with constants or simple variables)
+`|` element-wise logical OR
+`||` logical OR
+
+Note, the `AND` and `OR` logical operands are different for constant or element wise.
+
+When performing logical operands, non-zero numbers are considered `TRUE` and `0` is considered `FALSE`
+
+For example:
+
+```{r}
+x <- c(TRUE, FALSE, 12, 1)
+y <- c(FALSE, FALSE, 0, 1)
+
+# negate the elements of x?
+x
+```
+
+```{r}
+# perform element wise AND to x and y?
+y
+```
+
+Element-wise logical operands are useful when you start to work with large lists of words. You can quickly create a vector of TRUE/FALSE elements which indicate which items in the vector match which words you might be interested in.
+
+```{r}
+word.v <- c('the', 'quick', 'brown', 'fox')
+
+word.v == 'quick'
+```
+
+You can then use this boolean vector to filter or 'slice' elements out of the word vector, according to their position in the vector (the position of an element is called it's 'index', and square brackets are used to select elements from a vector by their index:
+
+```{r}
+# Find all words which DO NOT MATCH the word 'quick'?
+# (hint, use the last line in the code block above inside the square brackets, and negate the conditional)
+word.v[]
+```
+
+
+When doing text analaysis you will work with a lot of word vectors (lists) and data frames (tables), and a common variable naming convention which you will see throughout this course is to use the full stop followed by a 'v' to indicate that the variable contains a vector object.
+
+Using the scan() function, you can load a file, split it line by line into a vector. The filename.txt below does not exist - you will need to change this to a file which does exist. Try to find a text file on your computer, and display it:
+
+```{r}
+# this variable name suggests the contents of this variable object are a word vector
+# change the file to something which works!
+myfile.v <- scan("filename.txt", what="character", sep="\n", encoding = "UTF-8")
+
+# this variable name suggests the contents of this variable object are vector
+myfile.v
+```
+
+Running the line above will display the entire file! To display a sub-set of elements in a vector you can use the square bracket notation `[x:y]` to slice elements from a vector. So, for example, to slice the 25th to 30th elements you would use [25:30]:
+
+```{r}
+# display the first 15 lines from `myfile.v`
+
+```
+
+
+
+### The IF statement
+
+The `if` statement allows you to make a decision, and is an important part of programming. The `if` statement can use used alone or a sequence of `if..else if...else` statements can be setup in a ladder for a sequence of decisions.
+
+```
+if (condition text) {
+  code to run when condition is true
+  
+} else if (another condition) {
+  cone to run when second condition is true
+  
+} else {
+  code to run otherwise
+  
+}
+```
+
+Let's create some simple vectors of random words to practice with:
+
+```{r}
+words.v <- c('sign', 'chance', 'pricey', 'hot', 'drawer', 'cabbage', 'elated', 'nation', 'offer', 'man', 'zebra')
+numbers.v <- c(1,2,3,4,5,6,7,8,9,10)
+```
+
+We can check if a specific element is a certain value, by combining indices, boolen operators and if statements. Indices use square bracket notation and refer to the position of the element in the vector.
+
+Notice also the single line if syntax works with and without curly brackets:
+
+```{r}
+if (words.v[2] == 'chance') print('The second element is chance')
+
+if (words.v[3] == 'chance') { print('The third element is chance') }  # This will not print anything
+```
+
+Curly brackets are necessary when your if...then...else statement contains more than one line of code. It is often important to use indentation and formatting, to visually group the lines of code together.
+
+```{r}
+if (words.v[2] == 'chance') {
+  print('The third element is chance')
+  print('The third element is chance')
+}
+```
+
+We have been using square bracket notation to target specific elements by their position. The first element of a vector is index 1. If you wanted to test the last element in a vector, you need to know the vector's length.
+
+```{r}
+length(words.v)
+
+# Check if the last word in the vector is 'zebra'? Use the length() function inside the square brackets and add a test for equal to 'zebra'
+if (words.v[]) { print('The last element is zebra') }
+```
+
+
+
+
+### The FOR statement
+
+Some of the operations above implicity loop through vectors to perform element-wise operations, but it is sometimes useful to explicitly loop through vectors to perform specific tests and tasks on each element.
+
+We can use a for loop to go element-wise through our words vector, printing each word out along the way:
+
+```{r}
+for(val in words.v) {
+  # the variable 'val' is reused each iteration. It will contain the last value in the loop.
+  print(val)
+}
+```
+
+
+You can also use vector slicing syntax [x:x] to loop through small sections of vectors:
+
+```{r}
+# Print the first 4 elements?
+for(val in words.v[]) {
+  print(val)
+}
+```
+
+
+Now, let's create a vector of 20 random numbers using for loops. To do this, we use the `runif` function to generate a random number between 0 and 1, and a for loop, looping 20 times, adding each random number to the end of a vector variable.
+
+Let's look at the `runif()` help:
+
+```{r}
+?runif
+```
+
+```{r}
+# What does runif(1) return?
+
+```
+
+
+To generate 20 random numbers, we will need to loop 20 times. We can use the `seq()` function to generate a sequence vector with 20 elements (easier than typing it all out explicitly):
+
+```{r}
+seq(1,20)
+```
+
+So, putting this together, we first create an empty vector object outside the for loop, then loop 20 times, generate and add a new random number to the end of the vector object. Then, once the loop is complete, we print the vector:
+
+```{r}
+random.v <- c()
+for (val in seq(1,20)) {
+  random.v <- c(random.v, runif(1))
+}
+
+random.v
+```
+
+
+This is not an efficient way to generate or iterate vectors, but it is supposed to demonstrate looping and variable re-assignment.
+
+It's much easier to use the built in `runif()` feature to simply generate a vector of any number of random numbers!:
+
+```{r}
+# Generate 20 random numbers using runif()
+runif(20)
+```
+
+
+Now that you know how to loop, let's add some decisons inside the loop which are dependent on the value of each element. Notice that the variable `element` is being tested each time, and that the value of the element variable is changing. This is because the variable is 'scoped' to the for loop.
+
+Print out each random element, and 'TRUE' or 'FALSE' according to when the value is above 0.5:
+
+```{r}
+for (element in runif(20)) {
+  if (element >= 0.5) {
+    print(paste('TRUE  ', element))
+  }
+  # Add else to print 'FALSE' case?
+}
+```
+
+Notice that the code block above used the `paste()` function to print a boolean variable and a number. The paste function concatenates values/objects/constants into printable strings. You can use this to format variables for display and to check if the value is hat you expect.
+
+```{r}
+# Paste and print some variables, elements and constants together and see what happens?
+# e.g. print(paste(x, ',', my.v[1], "blah", words.v[3]))
+
+
+```
+
+There is also shorthand function for doing the same thing, called `cat()`:
+
+```{r}
+?cat
+```
+
+```{r}
+# Try printing elements and variables you have already created at the top of this notebook.
+# e.g. cat(x, ',', my.v[1], "blah", words.v[3])
+
+
+```
+
