@@ -101,15 +101,17 @@ Lecture 6: Intro to corpus linguistics and analysis with AntConc \[CO\]
 
 **Thursday 19 Sep**
 
-Lecture 7: Regular Expressions \[MS\]; Intro to R, part 1 \[CO\]
+Lecture 7: Intro to R, part 1 \[CO\]. [Access the R notebook](L7_intro-to-R1.Rmd). See also the [html file of the notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L7_intro-to-R1.html). **NOTE:** right click on the link and Save Link As, then you will be able to open it in your browser.
 
-Lecture 8: Conditionals \[MS\]; Intro to R, part 2 \[CO\]
+Lecture 8: Regular Expressions \[MS\]. [Access the slides](L8.1_Intro-to-Regex.pdf). Also the [regex cheat sheet](L8.1_Intro-to-Regex-regex-sheet.pdf).
+
+Intro to R, part 2 \[CO\]. [Access the R notebook](L8.2_intro-to-R2.Rmd). See also the [html file of the notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L8.2_intro-to-R2.nb.html).
+
+Over the weekend, review the [notebook on conditionals](L8.3_R_conditionals.Rmd), which we will review on Monday.
 
 **\*\*\***
 
-**Monday 23 Sep**
-
-Lecture 9: Intro to Stylometry; Stylo package in R \[CO\]
+**Monday 23 Sep** Review R syntax and conditionals [MS]; Intro to Stylometry; stylo package in R \[CO\]
 
 Lecture 10: Stylo functions (distance measurements, Craig’s Zeta);
 network graph \[CO\]
