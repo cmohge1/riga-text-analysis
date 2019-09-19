@@ -1,0 +1,124 @@
+---
+title: 'Lecture 8: Introduction to R, Part 2, 19 September 2019'
+output:
+  html_document:
+    toc: yes
+  html_notebook:
+    theme: united
+    toc: yes
+---
+
+### Putting regular expressions to use
+
+There are a few functions in R that use regular expressions.
+
+### Flow control: For-loops and conditionals
+
+Flow control involves **stochastic simulation**, or repetitive operations or pattern recognition---two of the more important reasons why we use programming languages. The most common form of stochastic simulation is the for() loop. This is a logical command with the following syntax
+
+for (`name` in `seq`) {[enter commands]}
+
+This sets a variable called `name` (any thing you choose to assign) equal to each of the elements of the sequence (which is any sequence of values), which is usually a vector. Each of these iterates over the command as many times as is necessary. 
+
+```{r}
+for (i in letters[1:10]){
+  cat(i, ", which is followed by \n")
+}
+```
+
+
+What this literally means is: create a variable called `i` as an index for the loop. The first value of `i` is `a` (the first value of `letters`, after the `in`), and R executes the function within the loop (taking the instructions within the curly brackets). The code above just prints `i` and the text ", which is followed by" with a new line (signified by the regex "\n"). When the closing bracket is reached, `i` moves onto the next value (the second letter). When the loop reaches the last value of the sequence (the tenth of the `letters`), it is completed.
+
+Another simple example is the Fibonacci sequence. A for() loop can automatically generate the first 20 Fibonacci numbers.
+
+```{r}
+Fibonacci <- numeric(20) # creates a vector called Fibonacci that consists of 20 numeric vectors
+
+Fibonacci[1] <- Fibonacci[2] <- 1 # defines the first and second elements as a value of 1. This is important b/c the first two Fibonacci numbers are 1, and the next (3rd) number is gained by adding the first two
+
+for (i in 3:20) Fibonacci[i] <- Fibonacci[i - 2] + Fibonacci[i - 1] # says for each instance of the 3rd through 20th Fibonacci numbers, take the first element - 2 and add that to the next element - 1
+Fibonacci
+```
+
+There is another important component to flow control: the conditional. In programming this takes the form of `if()` statements.
+
+**Syntax**
+
+`if (condition) {commands when TRUE}`
+
+`if (condition) {commands when TRUE} else {commands when FALSE}`
+
+We will not have time to go into details regarding these operations, but it is important to recognize them when you are reading or modifying someone else's code.
+
+Now, using what we know about regular expressions and flow control, let's have look at a for() loop that Matthew Jockers uses in Chapter 4 of his *Text Analysis for Students of Literature*. It's a fairly complicated but useful way of breaking up a novel text into chapters for comparative analysis. Let's use it to process a Dickens novel. 
+
+```{r}
+text.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
+not.blanks.v <- which(text.v!="")
+clean.text.v <- text.v[not.blanks.v]
+
+start.v <- which(clean.text.v == "Chapter I")
+end.v <- which(clean.text.v == "THE END")
+novel.lines.v <- clean.text.v[start.v:end.v]
+chap.positions.v <- grep("^Chapter \\w", novel.lines.v)
+
+novel.lines.v[chap.positions.v]
+
+chapter.raws.l <- list()
+chapter.freqs.l <- list()
+
+for(i in 1:length(chap.positions.v)){
+    if(i != length(chap.positions.v)){
+chapter.title <- novel.lines.v[chap.positions.v[i]]
+start <- chap.positions.v[i]+1
+end <- chap.positions.v[i+1]-1
+chapter.lines.v <- novel.lines.v[start:end]
+chapter.words.v <- tolower(paste(chapter.lines.v, collapse=" ")) 
+chapter.words.l <- strsplit(chapter.words.v, "\\W") 
+chapter.word.v <- unlist(chapter.words.l)
+chapter.word.v <- chapter.word.v[which(chapter.word.v!="")] 
+chapter.freqs.t <- table(chapter.word.v) 
+chapter.raws.l[[chapter.title]] <- chapter.freqs.t 
+chapter.freqs.t.rel <- 100*(chapter.freqs.t/sum(chapter.freqs.t)) 
+chapter.freqs.l[[chapter.title]] <- chapter.freqs.t.rel
+    } 
+}
+
+chapter.freqs.l[1]
+
+length(chapter.freqs.l)[1]
+```
+
+Suppose I wanted to get all relative frequencies of the word "father" in each chapter.
+
+```{r}
+father.freqs <- lapply(chapter.freqs.l, '[', 'father')
+
+father.freqs
+```
+
+You could also use variations of the `which` function to identify the chapters with the highest and lowest frequencies.
+
+```{r}
+which.max(father.freqs)
+
+which.min(father.freqs)
+```
+
+### Exercise
+
+Create a vector that confines your results to only the paragraphs with dialogue.
+
+```{r}
+
+```
+
+### Bonus Exercise
+
+Modify the for loop in Jockers to find word frequencies only of content with dialogue.
+
+```{r}
+
+```
+
+
