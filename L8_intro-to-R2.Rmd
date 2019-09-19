@@ -10,15 +10,20 @@ output:
 
 ### Putting regular expressions to use
 
-There are a few functions in R that use regular expressions.
+There are a few functions in R that use regular expressions: `regexpr`, `gregexpr`, `regmatches`, `sub`, `gsub`.
 
-### Flow control: For-loops and conditionals
+```{r}
+
+```
+
+
+### Flow control: For-loops and conditionals in R
 
 Flow control involves **stochastic simulation**, or repetitive operations or pattern recognition---two of the more important reasons why we use programming languages. The most common form of stochastic simulation is the for() loop. This is a logical command with the following syntax
 
 for (`name` in `seq`) {[enter commands]}
 
-This sets a variable called `name` (any thing you choose to assign) equal to each of the elements of the sequence (which is any sequence of values), which is usually a vector. Each of these iterates over the command as many times as is necessary. 
+This sets a variable called `name` (any thing you choose to assign) equal to each of the elements of the sequence (any sequence of values), which is usually a vector. Each of these iterates over the command as many times as is necessary. 
 
 ```{r}
 for (i in letters[1:10]){

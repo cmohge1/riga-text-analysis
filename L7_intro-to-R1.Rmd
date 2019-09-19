@@ -57,7 +57,7 @@ When you open this file in RStudio, the command line interface (labeled "Console
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
 
 ## Some basic R functions
-- to activate a package: library(stylo)
+- to activate a package: library(XML)
 - to set working directory: setwd("path/to/my/file")
 - to find your current location: getwd()
 - to list files in your current location: list.files()
@@ -187,5 +187,44 @@ write.table(bow.metadata, file = "bow-metadata-df.csv", sep = "\t", quote = FALS
 ```
 
 In your working directory you should now have a new csv file that looks quite similar to the original spreadsheet. Again, not particularly interesting here, but in many cases you will find yourself turning vectors into data frames in R, and then outputting your results into csv files. It's also important to know the difference between the `read.csv` and `write.table` functions.
+
+### Reading Data in R
+
+There are other important kinds of R data formats that you should know. The first is a vector, which is a single variable consisting of an ordered collection numbers and/or words. An easy way to create a vector is to use the `c` command, which basically means "combine."
+
+```{r}
+v1 <- c("i", "wait", "with", "bated", "breath")
+
+# confirm the value of the variable by running v1
+v1
+
+# identify a specific value by indicating it is brackets
+v1[4]
+```
+
+Get used to the functions that help you understand R: `?` and `example()`.
+
+```{r}
+?c
+
+example(c, echo = FALSE) # change the echo value to TRUE to get the results
+```
+
+The `c` function is widely used, but it is really only useful for creating small data sets. Many of you will probably want to load text files.
+
+[Jeff Rydberg-Cox](https://daedalus.umkc.edu/StatisticalMethods/preparing-literary-data.html) provides some helpful tips for preparing data for R processing:
+
+- Download the text(s) from a source repository.
+
+- Remove extraneous material from the text(s).
+
+- Transform the text(s) to answer your research questions.
+
+The best way to load text files is with the `scan` function. (The other important function is `read.table`, which handles csv files.) First, download a text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/great-expectations.txt?dl=0) onto your working directory.
+
+```{r}
+dickens.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
+```
+You have now loaded *Great Expectations* into a variable called `dickens.v`. It is now a vector of lines in the book that can be analysed.
 
 
