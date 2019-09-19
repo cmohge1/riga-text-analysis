@@ -10,12 +10,122 @@ output:
 
 ### Putting regular expressions to use
 
+#### Data wrangling
+
 There are a few functions in R that use regular expressions: `regexpr`, `gregexpr`, `regmatches`, `sub`, `gsub`.
+
+Briefly we will perform a basic data wrangling exercise. Allison Parrish created a data set that gathers all of the poems in Project Gutenberg into one json file, which can be found on [github](https://github.com/aparrish/gutenberg-poetry-corpus). But suppose we do not want to work with json, and we just want a plain text file of all of the poems in Project Gutenberg? That could be useful. We would then use regular expressions to strip out the json and render a plain text file.
+
+```{r} 
+setwd("~/Desktop/") # make sure your notebook file and all other files are saved on your Desktop
+gutenberg.poetry.v <- scan(file = "gutenberg-poetry/gutenberg-poetry-v001-sample500k.nsjson", what="character", sep="\n", encoding = "UTF-8") # you may want to use the smaller file "gutenberg-poetry-v001-sample10k.ndjson" with 10k lines to test
+poetry.strip.s.v <- gsub('\\{"s": "', " ", gutenberg.poetry.v)
+poetry.strip.s.v
+gutenberg.poems.plain.v <- gsub(', "gid": "\\d+"\\}', " ", poetry.strip.s.v)
+gutenberg.poems.plain.v[1:10] # show the first ten lines just to see if it worked
+write.table(unlist(gutenberg.poems.plain.v), "gutenberg-poems.txt")
+```
+
+Now you have a plain text file with a numbered list of lines of poetry. Now you can upload this file into Voyant or run it through AntConc for basic text analysis results.
+
+#### Cleaning up Dickens
+
+If you have not already, download the text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/great-expectations.txt?dl=0) onto your working directory and scan the text.
+
+```{r}
+dickens.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
+```
+You have now loaded *Great Expectations* into a variable called `dickens.v`.
+
+With the text loaded, you can now run quick statistical operations, such as the number of lines and word frequencies.
+
+```{r}
+length(dickens.v) # this finds the number of lines in the book
+
+dickens.lower.v <- tolower(dickens.v) # this makes the whole text lowercased, and each sentence is now in a list
+
+dickens.words <- strsplit(dickens.lower.v, "\\W") # strsplit is very important: it takes each sentence in the lowercased words vector and puts each word in a list by finding non-words, i.e., word boundaries
+# each list item (word) corresponds to an element of the book's sentences that has been split. In the simplest case, x is a single character string, and strsplit outputs a one-item list.
+
+class(dickens.words) # the class function tells you the data structure of your variable
+
+dickens.words.v <- unlist(dickens.words)
+
+class(dickens.words.v)
+
+dickens.words.v[1:20] # find the first 20 ten words in Great Expectations
+```
+
+Did you notice the "\\W" in the `strsplit` argument? What is that again? Regex! Notice that in R you need to use another backslash to indicate a character escape.
+
+Also, did you notice the blank result on the 10th word? This requires a little clean-up step.
+
+```{r}
+not.blanks.v <- which(dickens.words.v!="")
+
+dickens.words.v <- dickens.words.v[not.blanks.v]
+```
+
+Extra white spaces often cause problems for text analysis.
+
+```{r}
+dickens.words.v[1:20]
+```
+
+
+Voila! We might want to examine how many times the third result "father" occurs (the fourth word result, and one that will probably be an important word in this book).
+
+```{r}
+length(dickens.words.v[which(dickens.words.v=="father")])
+```
+
+Or produce a list of all unique words.
+
+```{r}
+unique(sort(dickens.words.v, decreasing = FALSE))[1:50]
+```
+
+Here we find another problem: we find in our unique word list some odd non-words such as "0037m." We should strip those out.
+
+## Exercise
+
+Create a regular expression to remove those non-words in `dickens.words.v`? Remember that you use two backslashes (//) for character escape. For more information on using regex in R, RStudio has a helpful [cheat sheet](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf).
 
 ```{r}
 
 ```
 
+Now let's re-run that not.blanks vector to strip out the blank you just added. 
+
+```{r}
+not.blanks.v <- which(dickens.words.clean.v!="")
+
+dickens.words.clean.v <- dickens.words.clean.v[not.blanks.v]
+
+unique(sort(dickens.words.clean.v, decreasing = FALSE))[1:50]
+```
+
+Returning to basic functions, now that we have done some more clean-up: how many unique words are in the book?
+
+```{r}
+length(unique(dickens.words.clean.v))
+```
+
+Divide this by the amount of words in the whole book to calculate vocabulary density ratios.
+
+```{r}
+unique.words <- length(unique(dickens.words.clean.v))
+
+total.words <- length(dickens.words.clean.v)
+
+unique.words/total.words 
+# you could do this quicker this way: 
+# length(unique(dickens.words.v))/length(dickens.words.v) 
+# BUT it's good to get into the practice of storing results in variables
+```
+That's actually a fairly small density number, 5.7% (*Moby-Dick* by comparison is about 8%).
+
+The other important data structures are tables and data frames. These are probably the most useful for sophisticated analyses, because it renders the data in a table that is very similar to a spreadsheet. It is important to input your data in an Excel or Google docs spreadsheet and then export that data into a comma separated value (.csv) or tab separated value (.tsv) file. Many of the tidytext operations work with data frames, as we'll see later.
 
 ### Flow control: For-loops and conditionals in R
 
@@ -55,7 +165,7 @@ There is another important component to flow control: the conditional. In progra
 
 We will not have time to go into details regarding these operations, but it is important to recognize them when you are reading or modifying someone else's code.
 
-Now, using what we know about regular expressions and flow control, let's have look at a for() loop that Matthew Jockers uses in Chapter 4 of his *Text Analysis for Students of Literature*. It's a fairly complicated but useful way of breaking up a novel text into chapters for comparative analysis. Let's use it to process a Dickens novel. 
+Now, using what we know about regular expressions and flow control, let's have look at a for() loop that Matthew Jockers uses in Chapter 4 of his *Text Analysis for Students of Literature*. It's a fairly complicated but useful way of breaking up a novel text into chapters for analysis. Let's use it to process the Dickens novel. 
 
 ```{r}
 text.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
@@ -125,5 +235,3 @@ Modify the for loop in Jockers to find word frequencies only of content with dia
 ```{r}
 
 ```
-
-

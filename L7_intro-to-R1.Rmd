@@ -225,6 +225,5 @@ The best way to load text files is with the `scan` function. (The other importan
 ```{r}
 dickens.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
 ```
+
 You have now loaded *Great Expectations* into a variable called `dickens.v`. It is now a vector of lines in the book that can be analysed.
-
-
