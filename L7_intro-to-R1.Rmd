@@ -220,10 +220,16 @@ The `c` function is widely used, but it is really only useful for creating small
 
 - Transform the text(s) to answer your research questions.
 
-The best way to load text files is with the `scan` function. (The other important function is `read.table`, which handles csv files.) First, download a text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/great-expectations.txt?dl=0) onto your working directory.
+The best way to load text files is with the `scan` function. (The other important function is `read.table`, which handles csv files.) First, download a text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/dickens_great-expectations.txt?dl=0) onto your working directory (it is also available in our corpus directory, within the c19-20 subdirectory).
 
 ```{r}
-dickens.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
+dickens.v <- scan("dickens_great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
 ```
 
-You have now loaded *Great Expectations* into a variable called `dickens.v`. It is now a vector of lines in the book that can be analysed.
+You have now loaded *Great Expectations* into a variable called `dickens.v`. It is now a vector of lines in the book that can be analysed. Let's see if that is true.
+
+```{r}
+head(dickens.v)
+```
+
+The head function is the same as the basic Unix command for showing the first part of a file. This can be useful for testing whether your code has worked.

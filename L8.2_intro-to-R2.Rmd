@@ -30,7 +30,7 @@ Now you have a plain text file with a numbered list of lines of poetry. Now you 
 
 #### Cleaning up Dickens
 
-If you have not already, download the text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/great-expectations.txt?dl=0) onto your working directory and scan the text.
+If you have not already, download the text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/dickens_great-expectations.txt?dl=0), or copy the file from our github corpus, onto your working directory and scan the text.
 
 ```{r}
 dickens.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
