@@ -101,11 +101,11 @@ Lecture 6: Intro to corpus linguistics and analysis with AntConc \[CO\]
 
 **Thursday 19 Sep**
 
-Lecture 7: Intro to R, part 1 \[CO\]. [Access the R notebook](L7_intro-to-R1.Rmd). See also the [html file of the notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L7_intro-to-R1.html). NOTE: right click on the link and download the file.
+Lecture 7: Intro to R, part 1 \[CO\]. [Access the R notebook](L7_intro-to-R1.Rmd). See also the [html file of the notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L7_intro-to-R1.html). **NOTE:** right click on the link and Save Link As, then you will be able to open it in your browser.
 
 Lecture 8: Regular Expressions \[MS\]. [Access the slides](L8.1_Intro-to-Regex.pdf). Also the [regex cheat sheet](L8.1_Intro-to-Regex-regex-sheet.pdf).
 
-Intro to R, part 2 \[CO\]. [Access the R notebook](L8.2_intro-to-R2.Rmd). See also the [html file of the notebook](L8.2_intro-to-R2.nb.html).
+Intro to R, part 2 \[CO\]. [Access the R notebook](L8.2_intro-to-R2.Rmd). See also the [html file of the notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L8.2_intro-to-R2.nb.html).
 
 Over the weekend, review the [notebook on conditionals](L8.3_R_conditionals.Rmd), which we will review on Monday.
 
