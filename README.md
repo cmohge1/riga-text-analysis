@@ -101,9 +101,9 @@ Lecture 6: Intro to corpus linguistics and analysis with AntConc \[CO\]
 
 **Thursday 19 Sep**
 
-Lecture 7: Conditionals \[MS\]; Intro to R, part 1 \[CO\]
+Lecture 7: Regular Expressions \[MS\]; Intro to R, part 1 \[CO\]
 
-Lecture 8: Regular Expressions \[MS\]; Intro to R, part 2 \[CO\]
+Lecture 8: Conditionals \[MS\]; Intro to R, part 2 \[CO\]
 
 **\*\*\***
 
