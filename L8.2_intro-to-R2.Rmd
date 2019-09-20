@@ -17,7 +17,7 @@ There are a few functions in R that use regular expressions: `regexpr`, `gregexp
 Briefly we will perform a basic data wrangling exercise. Allison Parrish created a data set that gathers all of the poems in Project Gutenberg into one json file, which can be found on [github](https://github.com/aparrish/gutenberg-poetry-corpus). But suppose we do not want to work with json, and we just want a plain text file of all of the poems in Project Gutenberg? That could be useful. We would then use regular expressions to strip out the json and render a plain text file.
 
 ```{r} 
-setwd("~/Desktop/") # make sure your notebook file and all other files are saved on your Desktop
+# make sure your notebook file and all other files are saved on your Desktop
 gutenberg.poetry.v <- scan(file = "gutenberg-poetry/gutenberg-poetry-v001-sample500k.nsjson", what="character", sep="\n", encoding = "UTF-8") # you may want to use the smaller file "gutenberg-poetry-v001-sample10k.ndjson" with 10k lines to test
 poetry.strip.s.v <- gsub('\\{"s": "', " ", gutenberg.poetry.v)
 poetry.strip.s.v
