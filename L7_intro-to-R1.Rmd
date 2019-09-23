@@ -226,7 +226,7 @@ The `c` function is widely used, but it is really only useful for creating small
 
 - Transform the text(s) to answer your research questions.
 
-The best way to load text files is with the `scan` function. (The other important function is `read.table`, which handles csv files.) First, download a text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/dickens_great-expectations.txt?dl=0) onto your working directory (it is also available in our corpus directory, within the c19-20 subdirectory).
+The best way to load text files is with the `scan` function. First, download a text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/dickens_great-expectations.txt?dl=0) onto your working directory (it is also available in our corpus directory, in the c19-20 subdirectory).
 
 ```{r}
 dickens.v <- scan("dickens_great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
