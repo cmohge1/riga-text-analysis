@@ -215,6 +215,16 @@ oppose()
 # in the GUI I have chosen Craig's zeta, which was used above, except I have checked the boxes for visualising differences: "Markers" and "Identify Points".
 ```
 
+The `imposters` fucntion is a technique of authorship verification, based on the General Imposters method.
+
+It compares a disputed text against (a) some texts by a potential author of that text, and (b) several texts written by people who could not have written it (aka the imposters).
+In many random iterations it estimates if the text in question was more likely written by the candidate, or by any of the imposters. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
+
+```{r}
+imposters()
+```
+
+
 What can you gather from here about the probability of majority authorship?
 
 Rolling Stylometry technique (which slices an input text into equal-sized samples and compares them sequentially with reference data; it is good at finding local idiosyncrasies in longer texts). It can also analyse collaborative works and try to determine the authorship of fragments extracted from them. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
