@@ -1,9 +1,14 @@
 ---
 title: "Conditionals and flow control in R"
-output: html_notebook
+output:
+  html_document:
+    toc: yes
+  html_notebook:
+    theme: united
+    toc: yes
 ---
 
-#### Lecture 8 - Introduction to Conditionals and Flow control
+## Lecture 8 - Introduction to Conditionals and Flow control
 
 This notebook will introduce the reserved words, use of basic conditionals and flow control in the R programming language. At the end you should have a basic understanding of and experince with the syntax, conditionals and flow control of the R programming language.
 
@@ -29,9 +34,6 @@ for <- c('vector', 'of', 'words')
 
 There are only a handful of reserved words, so it is easy enough (and important) to remember them.
 
-
-
-
 ### Variables in R
 
 Variables in R are used to store data. The data stored in variables can be changed or used according to your needs, they can be single values or complex objects, and variables can be passed to functions (as a way of passing larger or more complex data, like word vectors, to functions for text processing).
@@ -49,7 +51,7 @@ Variable names are cAse seNsitiVe, can contain a combindation of letters, digits
 
 ```
 
-
+R also does not like it when you use hyphens (-) in variable names.
 
 
 ### Constants in R
