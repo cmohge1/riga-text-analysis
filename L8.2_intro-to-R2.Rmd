@@ -1,5 +1,5 @@
 ---
-title: 'Lecture 8: Introduction to R, Part 2, 19 September 2019'
+title: 'Lecture 8: Introduction to R, Part 2, 19 and 23 September 2019'
 output:
   html_document:
     toc: yes
@@ -168,7 +168,7 @@ We will not have time to go into details regarding these operations, but it is i
 Now, using what we know about regular expressions and flow control, let's have look at a for() loop that Matthew Jockers uses in Chapter 4 of his *Text Analysis for Students of Literature*. It's a fairly complicated but useful way of breaking up a novel text into chapters for analysis. Let's use it to process the Dickens novel. 
 
 ```{r}
-text.v <- scan("great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
+text.v <- scan("dickens_great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
 not.blanks.v <- which(text.v!="")
 clean.text.v <- text.v[not.blanks.v]
 
@@ -182,19 +182,21 @@ novel.lines.v[chap.positions.v]
 chapter.raws.l <- list()
 chapter.freqs.l <- list()
 
+# the following for loop starts by iterating over each item in chap.positions.v
 for(i in 1:length(chap.positions.v)){
+  # in this if stmt: if the value of i is not equal to the length of the vector, keep iterating over the vector
     if(i != length(chap.positions.v)){
-chapter.title <- novel.lines.v[chap.positions.v[i]]
-start <- chap.positions.v[i]+1
-end <- chap.positions.v[i+1]-1
-chapter.lines.v <- novel.lines.v[start:end]
-chapter.words.v <- tolower(paste(chapter.lines.v, collapse=" ")) 
-chapter.words.l <- strsplit(chapter.words.v, "\\W") 
+chapter.title <- novel.lines.v[chap.positions.v[i]] # this variable captures the chapter title in novel.lines.v that is indicated by the value held in the chap.positions.v. If this is confusing, try this: In your console, set i to 1 by running i <- 1. Then run novel.lines.v[chap.positions.v[i]]
+start <- chap.positions.v[i]+1 # i+1 gives me the position of the first line of the chapter text (the first paragraph after the ch title, in other words)
+end <- chap.positions.v[i+1]-1 # run these lines in the console: i <- 1, then chap.positions.v[i+1]. Instead of adding 1 to the value stored in the ith position of chap.positions.v, it adds 1 to i as an index. Instead of extracting the value of the ith item in the vector, the program identifies the value of the item in the next position beyond i in the vector. This line returns the next item in the vector, and the value held in that spot is the position for the start of a new chapter. This ensures the processing of the next chapter. To ignore the words in the chapter heading, you subtract 1 from that value in order to get the line number in novel.lines.v that comes just before the start of a new chapter.
+chapter.lines.v <- novel.lines.v[start:end] # having defined start and end points of each chapter, you extract the lines
+chapter.words.v <- tolower(paste(chapter.lines.v, collapse=" ")) # pastes chapter lines into a single block of text, and lowercases each word
+chapter.words.l <- strsplit(chapter.words.v, "\\W") # split all words in each chapter into a vector of words
 chapter.word.v <- unlist(chapter.words.l)
 chapter.word.v <- chapter.word.v[which(chapter.word.v!="")] 
-chapter.freqs.t <- table(chapter.word.v) 
-chapter.raws.l[[chapter.title]] <- chapter.freqs.t 
-chapter.freqs.t.rel <- 100*(chapter.freqs.t/sum(chapter.freqs.t)) 
+chapter.freqs.t <- table(chapter.word.v) # tabulates vector of words into a frequency count of each word type
+chapter.raws.l[[chapter.title]] <- chapter.freqs.t # here you dump the table of raw frequency counts into the empty list that was created before entering the loop. The double brackets assign a label to the list item; here each item in the list is named with the chapter heading extracted a few lines above
+chapter.freqs.t.rel <- 100*(chapter.freqs.t/sum(chapter.freqs.t)) # converts the raw counts to relative frequencies based on the number of words in the chapter
 chapter.freqs.l[[chapter.title]] <- chapter.freqs.t.rel
     } 
 }
@@ -225,7 +227,10 @@ which.min(father.freqs)
 Create a vector that confines your results to only the paragraphs with dialogue.
 
 ```{r}
+dialogue.v <- grep('("([^"]|"")*")', novel.lines.v) # grep is another regex function
 
+novel.lines.v[dialogue.v][1:20] 
+# check your work by finding all the dialogue lines in novel.lines.v
 ```
 
 ### Bonus Exercise
@@ -233,5 +238,27 @@ Create a vector that confines your results to only the paragraphs with dialogue.
 Modify the for loop in Jockers to find word frequencies only of content with dialogue.
 
 ```{r}
+dialogue.chapter.raws.l <- list()
+dialogue.chapter.freqs.l <- list()
 
+for(i in 1:length(chap.positions.v)){
+    if(i != length(chap.positions.v)){
+chapter.title <- novel.lines.v[chap.positions.v[i]]
+start <- chap.positions.v[i]+1
+end <- chap.positions.v[i+1]-1
+chapter.lines.v <- novel.lines.v[start:end]
+dialogue.lines.v <- grep('"(.*?)"', chapter.lines.v, value = TRUE) # here is the grep again, pruning the chapter.lines vector into lines with dialogue
+chapter.words.v <- tolower(paste(dialogue.lines.v, collapse=" ")) 
+chapter.words.l <- strsplit(chapter.words.v, "\\W")
+chapter.word.v <- unlist(chapter.words.l)
+chapter.word.v <- chapter.word.v[which(chapter.word.v!="")] 
+chapter.freqs.t <- table(chapter.word.v) 
+dialogue.chapter.raws.l[[chapter.title]] <- chapter.freqs.t 
+chapter.freqs.t.rel <- 100*(chapter.freqs.t/sum(chapter.freqs.t)) 
+dialogue.chapter.freqs.l[[chapter.title]] <- chapter.freqs.t.rel
+    } 
+}
+
+dialogue.chapter.freqs.l[1]
 ```
+

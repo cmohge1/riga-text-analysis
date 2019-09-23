@@ -221,7 +221,7 @@ What can you gather from here about the probability of majority authorship?
 Rolling Stylometry technique (which slices an input text into equal-sized samples and compares them sequentially with reference data; it is good at finding local idiosyncrasies in longer texts). It can also analyse collaborative works and try to determine the authorship of fragments extracted from them. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
 
 ```{r}
-rolling.classify(write.png.file = TRUE, mfw = 100, training.set.sampling = "normal.sampling", slice.size = 5000, slice.overlap = 4500)
+rolling.classify(write.png.file = TRUE)
 ```
 What you're seeing is a series of "windows" of the test text as against the reference texts. By “windowing” I mean that each reference text is divided into consecutive, equal-sized samples. It employs the relative frequencies of a (preferably small) set of n words which were also frequent in the reference collection. As Eder et al suggest, " If the curve for a text would show a sudden drop at a given position, this could be indicative of a stylistic change in the text (which might, for instance, be caused by one author taking over from another."
 
