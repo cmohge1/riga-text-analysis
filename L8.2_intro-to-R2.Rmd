@@ -302,7 +302,7 @@ fathers.l <- lapply(chapter.freqs.l, '[', 'father')
 sons.l <- lapply(chapter.freqs.l, '[', 'son')
 ```
 
-Instead of just printing out the values held in this new list, you can capture the results into a single matrix using the `rbind` function.
+Instead of just printing out the values held in this new list, you can capture the results into a single matrix using the `rbind` function. The `do.call` functions binds the contents of each list item into rows; this effectively activate the `rbind` function across the list of "father" and "son" results, respectively.
 
 ```{r}
 fathers.m <- do.call(rbind, fathers.l)
