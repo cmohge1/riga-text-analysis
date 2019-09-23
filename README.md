@@ -127,7 +127,9 @@ Review Intro to R, part 2 \[CO\].
 Finish reviewing Intro to R, part 2; Lexical variety stats and visualisations. \[CO\] 
 
 Lecture 9: Stylo package in R for stylometry (distance measurements, Craig’s Zeta,
-network graph)
+network graph). [CO]
+
+[Access the R notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L9_stylo.Rmd).
 
 **Wednesday 25 Sep**
 
