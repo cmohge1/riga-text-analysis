@@ -1,5 +1,5 @@
 ---
-title: "Lecture 9:"
+title: "Lecture 9: Intro to Stylometry"
 output:
   html_document:
     toc: yes
@@ -8,7 +8,7 @@ output:
     toc: yes
 ---
 
-# Stylometry and Text Analysis
+# Stylometry and Text Analysis with the `stylo` package
 
 ## Installing stylo
 - run RStudio (or the R console)
@@ -78,6 +78,24 @@ For your first experiment you should just click "OK" and see what happens.
 
 The default settings use the ratios of the 100 most frequent words, Classic Delta distance measure, and Ward clustering algorithm to produce a hierarchical clustering dendrogram (think of it as akin to a stylistic family tree).
 
+There are various parameters in `stylo` that are worth exploring further.
+
+- INPUT: the text format
+- LANGUAGE (several options)
+- FEATURES: units to count, either words or characters. Ngram size: 1 for single words or characters, 2 for pairings, and so on. Usually people choose word unigrams (1 word).
+- MFW SETTINGS: how many most frequent words to use. In most cases, you will use a range from Minimum = Maximum ngram size.
+-CULLING filters out unwanted words. 0 = all the words survive culling;
+20 = a given word has to appear in at least 20% texts; 100 = removal of all words that don’t appear in all the texts (this is not typical).
+- DISTANCES: choose how the similarities between texts should be measured
+  - Classic Delta: perhaps a best choice to start; focuses on most common word frequencies
+  - Cosine Delta (aka Wurzburg Delta): perhaps an even better choice
+  - Eder’s Delta: a good choice for highly inflected languages
+- SAMPLING: option for splitting the texts
+  - no sampling: the texts will be analyzed as they are
+  - normal sampling: dividing the texts into equal-sized blocks
+  - random sampling: randomly harvesting N words from each text
+  - number of samples: random harvesting can be repeated n times
+
 Other distance measurements and text paramters can be defined in the GUI. But the GUI is not necessary; one can also use the stylo function with various arguments.
 
 ```{r}
@@ -88,6 +106,8 @@ stylo(frequencies = lee, analysis.type = "BCT",
     mfw.min = 100, mfw.max = 3000, custom.graph.title = "Harper Lee",
     write.png.file = TRUE, gui = FALSE)
 ```
+
+## Creating a network of similarities
 
 Run the chunk below to get the GUI for the network function, which outputs a bootstrap consensus network. Make sure you have installed the "networkD3" package before executing this code.
 
@@ -102,7 +122,7 @@ The relative distances are now mapped on a web browser and can be saved as html 
 In the corpus dircetory above, I have included a subdirectory including by Mark Twain and Charles Dudley Warner. The reason for this is that they were near contemporaries and friends, and they co-wrote a novel called *The Gilded Age*. We are going to run stylo experiments to investigate the differences between the two authors.
 
 ```{r}
-my.corpus <- load.corpus.and.parse(corpus.dir = "corpus/corpus-mt-and-cdw/", markup.type = "text", ngram.size = 1)
+my.corpus <- load.corpus.and.parse(corpus.dir = "corpus", markup.type = "text", ngram.size = 1)
 ```
 
 ```{r}
@@ -115,7 +135,7 @@ mt.cdw.freq.l <- make.frequency.list(my.corpus, value = FALSE, head = NULL,
 
 ```{r}
 
-#these two simple lines of code automatically generate relative frequencies based on the above frequency list
+#these two lines of code automatically generate relative frequencies based on the above frequency list
 
 words = txt.to.words.ext(my.corpus)
 
@@ -159,6 +179,8 @@ frequent.features[100:150]
 
 
 ## More stylo code
+
+The code below puts your stylo results into a variable so that you can call upon different columns from its data frame.
 
 ```{r}
 stylo.results <- stylo()
