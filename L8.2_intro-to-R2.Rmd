@@ -263,3 +263,23 @@ dialogue.chapter.freqs.l[[chapter.title]] <- chapter.freqs.t.rel
 dialogue.chapter.freqs.l[1]
 ```
 
+### Visualising the data with `plot`
+
+```{r}
+# to extract the frequency data from all of the chapters at once
+lapply(chapter.raws.l,mean)
+# putting results into a matric object
+mean.word.use.m <- do.call(rbind, lapply(chapter.raws.l,mean))
+dim(mean.word.use.m)
+# this reports 703 rows in 1 column, but there's more info in the matrix
+
+plot(mean.word.use.m, type = "h", main = "Mean word usage patterns in each chapter of Dickens's Great Expectations", ylab = "mean word use", xlab = "Each chapter)")
+```
+
+```{r}
+# using scale to method has the effect of sub- tracting away the expected value 
+# (expected as calculated by the overall mean) and then showing only the deviations from the mean
+scale(mean.word.use.m)
+plot(scale(mean.word.use.m), type = "h", main = "Scaled mean word usage patterns in each chapter of Dickens's Great Expectations", ylab = "mean word use", xlab = "Each chapter)") 
+```
+
