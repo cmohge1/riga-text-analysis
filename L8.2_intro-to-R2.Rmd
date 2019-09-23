@@ -183,8 +183,9 @@ chapter.raws.l <- list()
 chapter.freqs.l <- list()
 
 # the following for loop starts by iterating over each item in chap.positions.v
+
 for(i in 1:length(chap.positions.v)){
-  # in this if stmt: if the value of i is not equal to the length of the vector, keep iterating over the vector
+  # in this if statement: if the value of i is not equal to the length of the vector, keep iterating over the vector
     if(i != length(chap.positions.v)){
 chapter.title <- novel.lines.v[chap.positions.v[i]] # this variable captures the chapter title in novel.lines.v that is indicated by the value held in the chap.positions.v. If this is confusing, try this: In your console, set i to 1 by running i <- 1. Then run novel.lines.v[chap.positions.v[i]]
 start <- chap.positions.v[i]+1 # i+1 gives me the position of the first line of the chapter text (the first paragraph after the ch title, in other words)
