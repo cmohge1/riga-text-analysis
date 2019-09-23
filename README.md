@@ -81,18 +81,20 @@ See also the [html file of the notebook](https://raw.githubusercontent.com/cmohg
 **NOTE:** right click on the links and Save Link As, then you will be able to open it in your browser.
 
 Lecture 8: Regular Expressions \[MS\]. 
-[Access the slides](L8.1_Intro-to-Regex.pdf). 
-Also the [regex cheat sheet](L8.1_Intro-to-Regex-regex-sheet.pdf).
+[Access the regular expressions slides](L8.1_Intro-to-Regex.pdf). 
+See also the [regex cheat sheet](L8.1_Intro-to-Regex-regex-sheet.pdf).
 
-Intro to R, part 2 \[CO\]. [Access the R notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L8.2_intro-to-R2.Rmd). See also the [html file of the notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L8.2_intro-to-R2.nb.html).
-
-Over the weekend, review the [notebook on conditionals](L8.3_R_conditionals.Rmd), which we will review on Monday.
+Intro to R, part 2 \[CO\]. 
+[Access the R notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L8.2_intro-to-R2.Rmd). 
+See also the [html file of the R notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L8.2_intro-to-R2.nb.html).
 
 **\*\*\***
 
 **Monday 23 Sep** 
 
-Review R syntax and conditionals [MS]. 
+Review R syntax and conditionals [MS].
+
+Access the [R notebook on conditionals](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L8.3_R_conditionals.Rmd).
 
 Review Intro to R, part 2 \[CO\].
 
