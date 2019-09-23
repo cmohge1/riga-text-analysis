@@ -217,8 +217,7 @@ oppose()
 
 What can you gather from here about the probability of majority authorship?
 
-Rolling Stylometry technique (which slices an input text into equal-sized samples and compares them sequentially with reference data; it is good at finding local idiosyncrasies in longer texts). It can also analyse collaborative works and try
-to determine the authorship of fragments extracted from them. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
+Rolling Stylometry technique (which slices an input text into equal-sized samples and compares them sequentially with reference data; it is good at finding local idiosyncrasies in longer texts). It can also analyse collaborative works and try to determine the authorship of fragments extracted from them. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
 
 ```{r}
 rolling.classify()
