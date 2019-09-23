@@ -315,11 +315,21 @@ Let's look at one of these matrices.
 sons.m
 ```
 
+Compare it to the other matrix of "father" results.
+
+```{r}
+fathers.m
+```
+
+Next we create vectors for each search term; the following extracts the father and son values into two new vectors, and uses the `cbind` functions to combine these vectors into a new, two-column matrix consisting of 58 rows and 2 columns.
+
 ```{r}
 fathers.v <- fathers.m[,1]
 sons.v <- sons.m[,1]
 
 fathers.sons.m <- cbind(fathers.v, sons.v)
+
+dim(fathers.sons.m)
 ```
 
 Now we can visualise these two word searches.
