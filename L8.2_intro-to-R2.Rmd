@@ -273,13 +273,60 @@ mean.word.use.m <- do.call(rbind, lapply(chapter.raws.l,mean))
 dim(mean.word.use.m)
 # this reports 703 rows in 1 column, but there's more info in the matrix
 
-plot(mean.word.use.m, type = "h", main = "Mean word usage patterns in each chapter of Dickens's Great Expectations", ylab = "mean word use", xlab = "Each chapter)")
+plot(mean.word.use.m, type = "h", main = "Mean word usage patterns in each chapter of Dickens's Great Expectations", ylab = "mean word use", xlab = "Each chapter")
 ```
 
 ```{r}
 # using scale to method has the effect of sub- tracting away the expected value 
 # (expected as calculated by the overall mean) and then showing only the deviations from the mean
 scale(mean.word.use.m)
-plot(scale(mean.word.use.m), type = "h", main = "Scaled mean word usage patterns in each chapter of Dickens's Great Expectations", ylab = "mean word use", xlab = "Each chapter)") 
+plot(scale(mean.word.use.m), type = "h", main = "Scaled mean word usage patterns in each chapter of Dickens's Great Expectations", ylab = "mean word use", xlab = "Each chapter") 
+```
+
+This gives us a general impression of vocabulary density on a chapter-by-chapter basis. Let's now return to the previous word search of "father." Suppose we wanted to visualise that frequency of "father" alongside a similar concept, "son."
+
+We need to introduce a new function, `lapply`. The `lapply` function is similar to a for loop, in that it iterates over the elements in a data structure, but it is specifically designed for dealing with lists. It also requires a list as a second argument, and the name of some other function.
+
+```{r}
+chapter.freqs.l[[1]]["father"]
+```
+
+```{r}
+chapter.freqs.l[[10]]["son"]
+```
+
+The above is just an example: The word "father" appears with 27% relative frequency (that is, 27 times for every 100 words in the chapter) in the first chapter, and the word "son" appear with a 4% relative frequency in the 10th chapter. Now let's create vectors that store the relative frequencies for each chapter.
+
+```{r}
+fathers.l <- lapply(chapter.freqs.l, '[', 'father')
+sons.l <- lapply(chapter.freqs.l, '[', 'son')
+```
+
+Instead of just printing out the values held in this new list, you can capture the results into a single matrix using the `rbind` function.
+
+```{r}
+fathers.m <- do.call(rbind, fathers.l)
+sons.m <- do.call(rbind, sons.l)
+```
+
+Let's look at one of these matrices.
+
+```{r}
+sons.m
+```
+
+```{r}
+fathers.v <- fathers.m[,1]
+sons.v <- sons.m[,1]
+
+fathers.sons.m <- cbind(fathers.v, sons.v)
+```
+
+Now we can visualise these two word searches.
+
+```{r}
+colnames(fathers.sons.m) <- c("father", "son")
+
+barplot(fathers.sons.m, beside=T, col="grey")
 ```
 
