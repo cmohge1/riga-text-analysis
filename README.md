@@ -38,32 +38,6 @@ R
 RStudio Desktop
 ([*https://www.rstudio.com/products/rstudio/download/*](https://www.rstudio.com/products/rstudio/download/)).
 
-**Suggested Readings**
-
-Eve, Martin. *Close Reading with Computers: Textual Scholarship,
-Computational Formalism, and David Mitchell's* Cloud Atlas (Stanford UP,
-2019).
-
-Gries, Stefan. *Quantitative Corpus Linguistics with R*, 2nd edition
-(Routledge, 2017).
-
-Jockers, Matthew. *Text Analysis with R for Students of Literature*
-(Springer, 2014).
-
-––. *Macroanalysis* (U of Illinois P, 2013).
-
-Moretti, Franco. *Graphs, Maps, Trees* (Verso, 2007).
-
-Piper, Andrew. *Enumerations* (U of Chicago P, 2019).
-
-Rockwell, Geoffrey and Stefan Sinclair. *Hermeneutica: Computer-Assisted
-Interpretation in the Humanities* (MIT P, 2016).
-
-Silge, Julia, and David Robinson. *Text Mining with R: A Tidy Approach*
-(O’Reilly, 2017).
-
-Underwood, Ted. *Distant Horizons* (U of Chicago P, 2019).
-
 ## Schedule
 
 **Monday 16 Sep**
@@ -143,3 +117,29 @@ Lecture 12: Tidy text in R: sentiment analysis \[CO\].
 
 A critique of
 sentiment analysis \[MS\]. Course review
+
+**Suggested Readings**
+
+Eve, Martin. *Close Reading with Computers: Textual Scholarship,
+Computational Formalism, and David Mitchell's* Cloud Atlas (Stanford UP,
+2019).
+
+Gries, Stefan. *Quantitative Corpus Linguistics with R*, 2nd edition
+(Routledge, 2017).
+
+Jockers, Matthew. *Text Analysis with R for Students of Literature*
+(Springer, 2014).
+
+––. *Macroanalysis* (U of Illinois P, 2013).
+
+Moretti, Franco. *Graphs, Maps, Trees* (Verso, 2007).
+
+Piper, Andrew. *Enumerations* (U of Chicago P, 2019).
+
+Rockwell, Geoffrey and Stefan Sinclair. *Hermeneutica: Computer-Assisted
+Interpretation in the Humanities* (MIT P, 2016).
+
+Silge, Julia, and David Robinson. *Text Mining with R: A Tidy Approach*
+(O’Reilly, 2017).
+
+Underwood, Ted. *Distant Horizons* (U of Chicago P, 2019).
