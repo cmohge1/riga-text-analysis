@@ -59,12 +59,10 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 ## Some basic R functions
 - to activate a package: library(XML)
 - to set working directory: setwd("path/to/my/file")
-- to find your current location: getwd(). Or to change it: setwd()
-```{r}
-setwd("~/Desktop")
-```
+- to find your current location: getwd(). Or to change it: setwd(("~/Desktop"))
 
-**Note**: In Windows you would need to type out the file path, so something like `C:\Users\[username]\Desktop`. Use the `tab` button to see a dropdown menu of your current file location.
+**Note**: the ~ takes you to your home directory in a Unix-based system like Mac OS; it's a handy short-cut.
+In Windows you would need to type out the file path, so something like `C:\Users\[username]\Desktop`. A handy tip: start to type your file path and use the `tab` button to see a dropdown menu of your current file location.
 
 - to list files in your current location: list.files()
 - to get help: ?<function>, e.g. ?stylo

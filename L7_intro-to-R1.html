@@ -180,10 +180,13 @@ $(document).ready(function () {
 <ul>
 <li>to activate a package: library(XML)</li>
 <li>to set working directory: setwd(“path/to/my/file”)</li>
-<li><p>to find your current location: getwd()</p></li>
+<li>to find your current location: getwd(). Or to change it: setwd((“~/Desktop”))</li>
+</ul>
+<p><strong>Note</strong>: the ~ takes you to your home directory in a Unix-based system like Mac OS; it’s a handy short-cut. In Windows you would need to type out the file path, so something like <code>C:\Users\[username]\Desktop</code>. A handy tip: start to type your file path and use the <code>tab</code> button to see a dropdown menu of your current file location.</p>
+<ul>
 <li>to list files in your current location: list.files()</li>
 <li>to get help: ?<function>, e.g. ?stylo</li>
-<li><p>to quit R: q()</p></li>
+<li>to quit R: q()</li>
 </ul>
 <p>R can be good for doing some math. Say I am making a travel budget, and I want to add the cost of hotel and flight prices for a trip to Seattle. The flight is £550 and the hotel price per night is £133. R can do the work for you.</p>
 <p>Try executing this chunk by clicking the <em>Run</em> button within the chunk or by placing your cursor inside it and pressing <em>Cmd+Shift+Enter</em>. (On a Windows machine you would press <em>[Windows button]+Shift+Enter</em>.)</p>
@@ -315,7 +318,7 @@ example(c, echo = FALSE) # change the echo value to TRUE to get the results</cod
 <li><p>Remove extraneous material from the text(s).</p></li>
 <li><p>Transform the text(s) to answer your research questions.</p></li>
 </ul>
-<p>The best way to load text files is with the <code>scan</code> function. (The other important function is <code>read.table</code>, which handles csv files.) First, download a text file of Dickens’s <a href="https://www.dropbox.com/s/qji9ueb46ajait9/dickens_great-expectations.txt?dl=0"><em>Great Expectations</em></a> onto your working directory (it is also available in our corpus directory, within the c19-20 subdirectory).</p>
+<p>The best way to load text files is with the <code>scan</code> function. First, download a text file of Dickens’s <a href="https://www.dropbox.com/s/qji9ueb46ajait9/dickens_great-expectations.txt?dl=0"><em>Great Expectations</em></a> onto your working directory (it is also available in our corpus directory, in the c19-20 subdirectory).</p>
 <pre class="r"><code>dickens.v &lt;- scan(&quot;dickens_great-expectations.txt&quot;, what=&quot;character&quot;, sep=&quot;\n&quot;, encoding = &quot;UTF-8&quot;)</code></pre>
 <p>You have now loaded <em>Great Expectations</em> into a variable called <code>dickens.v</code>. It is now a vector of lines in the book that can be analysed. Let’s see if that is true.</p>
 <pre class="r"><code>head(dickens.v)</code></pre>
