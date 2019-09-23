@@ -116,26 +116,28 @@ Over the weekend, review the [notebook on conditionals](L8.3_R_conditionals.Rmd)
 
 **\*\*\***
 
-**Monday 23 Sep** Review R syntax and conditionals [MS]. 
+**Monday 23 Sep** 
 
-Lecture 10: Review Intro to R, part 2 \[CO\].
+Review R syntax and conditionals [MS]. 
+
+Review Intro to R, part 2 \[CO\].
 
 **Tuesday 24 Sep**
 
-Lecture 11: Finish reviewing Intro to R, part 2; Lexical variety stats and visualisations. \[CO\] 
+Finish reviewing Intro to R, part 2; Lexical variety stats and visualisations. \[CO\] 
 
-Lecture 12: Stylo package in R for stylometry (distance measurements, Craig’s Zeta,
+Lecture 9: Stylo package in R for stylometry (distance measurements, Craig’s Zeta,
 network graph)
 
 **Wednesday 25 Sep**
 
-Lecture 13: \[CO\] Lexical dispersion plot; Put POS tags into use. \[CO\]
+Lecture 10: \[CO\] Lexical dispersion plot; Put POS tags into use. \[CO\]
 
-Lecture 14: Tidy text in R: texts into dataframes, gutenbergr package and corpus comparison. \[CO\]
+Lecture 11: Tidy text in R: texts into dataframes, gutenbergr package and corpus comparison. \[CO\]
 
 **Thursday 26 Sep**
 
-Lecture 15: Tidy text in R: sentiment analysis \[CO\].
+Lecture 12: Tidy text in R: sentiment analysis \[CO\].
 
-Lecture 16: A critique of
+A critique of
 sentiment analysis \[MS\]. Course review
