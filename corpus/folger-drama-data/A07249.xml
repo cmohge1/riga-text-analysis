@@ -1,0 +1,5607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.lib.umich.edu/tcp/docs/code/eebo2prf.xml.dtd">
+
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2001-11-26</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, provided ID, and added TYPEs to DIVs in order to validate. Checked for N=""s; none. Checked for GROUP tags; none. Proofed title page. Checked for <SUP>s</SUP>; none. Reviewed structure; added Ns to act DIV2s; removed all LGs and / LGs, unneeded; changed numerous HIs to STAGEs and several midline HIs to SP, SPEAKERs, etc. Checked placement and completeness of PBs; moved countless PBs inside Ls and SPs; added final missing PB REF. Checked for damage GAPs, #s, @s, and UNCLEARs; none. Checked for carry-over words [ (word ] and corrected a handful. Corrected 29 $$Word$$s. Checked for &amp;cs with incorrect spacing; none. Checked for LBs; none. Checked for startqs and endqs, q;s and Qs; none. Checked proofsheets and made corrections. Sample: 6 minutes. Proofing: 30 minutes. Tag review and corrections: 70 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A07249">
+<STC T="S">17644</STC>
+<BIBNO T="umi">99847684</BIBNO>
+<VID>12738</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>THE VIRGIN MARTIR, A TRAGEDIE, AS IT HATH BIN DIVERS times publickely Acted with great Applause, By the Seruants of his Maiesties Reuels.</P>
+<P>Written by <HI>Phillip Messenger</HI> and <HI>Thomas Deker.</HI></P>
+<P>LONDON, Printed by <HI>B, A.</HI> for <HI>Thomas Iones.</HI> 1622.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="2"/>
+<HEAD>The Actors names.</HEAD>
+<P><TABLE>
+<ROW>
+<CELL>Dioclesian</CELL>
+<CELL ROWS="2">Emperours of Rome.</CELL>
+</ROW>
+<ROW>
+<CELL>Maximinus,</CELL>
+</ROW>
+</TABLE>
+<LIST>
+<ITEM>A King of <HI>Pontus.</HI></ITEM>
+<ITEM>A King of <HI>Epire.</HI></ITEM>
+<ITEM>A King of <HI>Macedon.</HI></ITEM>
+<ITEM><HI>Sapritius,</HI> Gouernour of <HI>Caesaria.</HI></ITEM>
+<ITEM><HI>Theophilus,</HI> a zealous persecutor of the Christians.</ITEM>
+<ITEM><HI>Sempronius,</HI> Captaine of <HI>Sapritius</HI> Guards.</ITEM>
+<ITEM><HI>Antoninus,</HI> sonne to <HI>Sapritius.</HI></ITEM>
+<ITEM><HI>Macrinus,</HI> friend to <HI>Antoninus.</HI></ITEM>
+<ITEM><HI>Harpax</HI> an euill spirit, following <HI>Theophilus</HI> in the shape of a Secretary.</ITEM>
+<ITEM><HI>Artemia,</HI> daughter to <HI>Dioclesian.</HI></ITEM>
+</LIST>
+<TABLE>
+<ROW>
+<CELL><HI>Caliste</HI></CELL>
+<CELL ROWS="2">Daughters to <HI>Theophilus.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Christeta.</HI></CELL>
+</ROW>
+</TABLE>
+<LIST>
+<ITEM><HI>Dorothea,</HI> The Virgin Martyr.</ITEM>
+<ITEM><HI>Angelo,</HI> a good spirit, seruing <HI>Darothea</HI> in the habite of a Page.</ITEM>
+<ITEM>A Brittish Slaue.</ITEM>
+</LIST>
+<TABLE>
+<ROW>
+<CELL><HI>Hercius,</HI> a Whoremaster.</CELL>
+<CELL ROWS="2">Seruants to <HI>Darothea.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Spungius,</HI> a Drunkard.</CELL>
+</ROW>
+</TABLE></P>
+<LIST>
+<ITEM>A Priest to <HI>Iupiter.</HI></ITEM>
+<ITEM>Officers and Executioners.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="2"/>
+<HEAD>THE VIRGIN MARTIR.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Actus primus. Scene I.</HEAD>
+<SP>
+<STAGE>Enter Theophilus, Harpax.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>COme to <HI>Casarea</HI> to night?</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Most true Sir,</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>The Emperour in person?</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Do I hue.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Tis wondrous strange, the marches of great Princes</L>
+<L>Like to the motions of prodigious Meteors.</L>
+<L>Are step, by step obseru'd, and lowd tong'd Fame</L>
+<L>The hat binger to prepare their entertainment:</L>
+<L>And were it possible, so great an armie,</L>
+<L>Though couer'd with the night, could be so neere:</L>
+<L>The Gouernour cannot be so vnfriended</L>
+<L>Among the many that attend his person,</L>
+<L>But by some secret meanes he should haue notice</L>
+<L>Of <HI>Casars</HI> purpose in this, then excuse me</L>
+<L>If I appeare indredulous.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>At your pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Theop.</SPEAKER>
+<L>Yet when I call to mind you neuer faild me</L>
+<L>In things more difficult, but haue discouered</L>
+<L>Deeds that were done thousand leagues distant from me,</L>
+<L>When neither woods, nor caues, not secret vaults,</L>
+<L>No nor the power they serue, could keep these Christians,</L>
+<L>Or from my reach or punishment, but thy magicke</L>
+<L>Still layd them open: I begin againe</L>
+<L>To be as confident as heretofore.</L>
+<L>It is not possible thy powerfull art</L>
+<L>Should meete a checke, or fayle.</L>
+</SP>
+<SP>
+<PB REF="3"/>
+<STAGE>Enter a Priest with the image of Iupiter; <HI>Caliste, Christata.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Harp.</SPEAKER>
+<L>Looke on these vestals,</L>
+<L>The holy pledges that the gods haue giu'n you,</L>
+<L>Your chast faire daughters. Wer't not to vpbraid</L>
+<L>A seruice to a maister not vnthankfull,</L>
+<L>I could say this in spite of your preuention,</L>
+<L>Seduc'd by an imagin'd faith, not reason,</L>
+<L>(Which is the strength of Nature) quite for saking</L>
+<L>The Gentile gods, had yeelded vp themselues</L>
+<L>To this new found religion. This I crosd,</L>
+<L>Discouerd their intentions, taught you to vse</L>
+<L>With gentle words and milde perswasions,</L>
+<L>The power, and the authority of a father</L>
+<L>Set of with cruell threats and so reclaimd em,</L>
+<L>And whereas they with torments should haue dy'd,</L>
+<L>(Hels furies to me had they vndergone it) <STAGE>aside</STAGE></L>
+<L>They are now votaries in great Iupiters temple,</L>
+<L>And by his Priest instructed, growne familiar</L>
+<L>With all the Mysteries, nay the most abstruse ones</L>
+<L>Belonging to his Dietie.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>T was a benefit</L>
+<L>For which I euer owe you, Haile <HI>Ioues Flamen,</HI></L>
+<L>Haue these my daughters reconcilde themselues</L>
+<L>(Abandoning for euer the Christian way)</L>
+<L>To your opinion.</L>
+</SP>
+<SP>
+<SPEAKER>Priest.</SPEAKER>
+<L>And are constant in it,</L>
+<L>They teach their teachers with their depth of iudgement,</L>
+<L>And are with arguments able to conuert</L>
+<L>The enemies to our gods and answer all</L>
+<L>They can obiect against vs.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>My deere daughters.</L>
+</SP>
+<SP>
+<SPEAKER>Caliste.</SPEAKER>
+<L>We dare dispute against this new sprung sect</L>
+<L>In priuate or publicke.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>My best Lady.</L>
+<L>Perseuer in it.</L>
+</SP>
+<SP>
+<SPEAKER>Christeta.</SPEAKER>
+<L>And what we maintaine</L>
+<L>We will seale with our bloods.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Braue resolution.</L>
+<L><PB REF="3"/>I eu'n grow fat to see my labors prosper.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>I yong againe to your deuotions.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Doe.</L>
+<L>My prayers be present with you.</L>
+<STAGE>exeunt Priest and daughters</STAGE>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>Oh my <HI>Harpax.</HI></L>
+<L>Thou engine of my wishes, thou that steeldst</L>
+<L>My bloody resolutions, thou that armst</L>
+<L>My eyes gainst womanish teares and soft compassion.</L>
+<L>Instructing me without a sigh to looke on</L>
+<L>Babes torne by violence from their mothers brests</L>
+<L>To feed the fire, and with them make one flame:</L>
+<L>Old men as beasts, in beasts skins torne by dogs:</L>
+<L>Virgins and matrons tire the executioners,</L>
+<L>Yet I vnsatisfied thinke their torments easie.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>And in that iust, not cruell.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>Weare all scepters</L>
+<L>That grace the hands of kings made into one,</L>
+<L>And offerd me, all crownes layd at my feete,</L>
+<L>I would contemne them all, thus spit at them.</L>
+<L>So I to all posterities might be cald</L>
+<L>The strongest champion of the Pagan gods</L>
+<L>And rooter out of Christians.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Oh mine owne,</L>
+<L>Mine owne deere Lord, to further this great worke</L>
+<L>I euer liue thy slaue.</L>
+</SP>
+<SP>
+<STAGE>Enter Saprinus and Sempronius.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>No more the Gouernour.</L>
+</SP>
+<SP>
+<SPEAKER>Sapr.</SPEAKER>
+<L>Keepe the ports close, and let the guards be doubl'd</L>
+<L>Disarme the Christians, call it death in any</L>
+<L>To weare a sword, or in his house to haue one.</L>
+</SP>
+<SP>
+<SPEAKER>Semp.</SPEAKER>
+<L>I shall be carefull Sir,</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>It will well become you.</L>
+<L>Such as refuse to offer sacrifice</L>
+<L>To any of our gods, put to the torture.</L>
+<L>Grub vp this growing mischiefe by the roots,</L>
+<L>And know when we are mercifull to them,</L>
+<L>We to our selues are cruell.</L>
+</SP>
+<SP>
+<SPEAKER>Semp.</SPEAKER>
+<L>You poure oyle</L>
+<L><PB REF="4"/>On fire that burnes already at the height,</L>
+<L>I know the Emperours Edict and my charge,</L>
+<L>And they shall find no fauour.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>My good Lord,</L>
+<L>This care is timely, for the entertainment</L>
+<L>Of our great maister, who this night in person</L>
+<L>Comes here to thanke you.</L>
+</SP>
+<SP>
+<SPEAKER>Sapritius.</SPEAKER>
+<L>Who the Emperour?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>To cleere your doubts, he does return in triumph,</L>
+<L>Kings lackying by his triumphant Chariot,</L>
+<L>And in this glorious victory my Lord,</L>
+<L>You haue an ample share: for know your sonne,</L>
+<L>The nere enough commended <HI>Antoninus,</HI></L>
+<L>So well hath fleshd his maiden sword, and died</L>
+<L>His snowy plumes so deepe in enemies blood,</L>
+<L>That besides publicke grace, beyond his hopes</L>
+<L>There are rewards propounded.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>I would know</L>
+<L>No meane in thine could this be true.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>My head answer the forfeit.</L>
+</SP>
+<SP>
+<SPEAKER>Sapritius.</SPEAKER>
+<L>Of his victory</L>
+<L>There was some rumor, but it was assurd</L>
+<L>The army passd a full dayes iourney higher</L>
+<L>Into the countrey.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>It was so determin'd,</L>
+<L>But for the further honor of your sonne,</L>
+<L>And to obserue the gouernment of the citty,</L>
+<L>And with what rigor, or remisse indulgence</L>
+<L>The Christians are pursude he makes his stay here.</L>
+<L>For proofe his trumpets speake his neere arriuall. <STAGE>Trumpets afarre of.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Haste good <HI>Sempronius,</HI> draw vp our guards,</L>
+<L>And with all ceremonious pompe receiue</L>
+<L>The conquering army. Let our garrison speake</L>
+<L>Their welcome in lowd shouts, the citie shew</L>
+<L>Her state and wealth.</L>
+</SP>
+<SP>
+<SPEAKER>Sempr.</SPEAKER>
+<L>I am gone.</L>
+<STAGE>exit Sempronius</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sapr.</SPEAKER>
+<L>O I am rauish'd</L>
+<L><PB REF="4"/>With this great honour, cherish good <HI>Theophilus</HI></L>
+<L>This knowing scholler, send your faire daughters</L>
+<L>I will present them to the Emperour,</L>
+<L>And in their sweet conuersion, as a mirror</L>
+<L>Expresse your zeale and duty. <STAGE>a lesson of Cornets.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>Fetch them good <HI>Harpax.</HI></L>
+<STAGE>A guard brought in by <HI>Sempronius,</HI> souldiers leading in three kings bound, <HI>Antoninus</HI> and <HI>Macrinus</HI> carrying the Empe∣rors Egles, <HI>Dioelesian</HI> with a guilt laurell on his head, loa∣ding in <HI>Artemia, Sapritius</HI> kisses the Emperors hand, then embraces his sonne, <HI>Harpax</HI> brings in <HI>Caliste</HI> and <HI>Christeta,</HI> lowd showts.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>So at all parts I finde <HI>Caesarea</HI></L>
+<L>Compleatly gouernd, the licentious souldier</L>
+<L>Confin'd in modest limits, and the people</L>
+<L>Taught to obey, and not compeld with rigor;</L>
+<L>The ancient Roman discipline reuin'd,</L>
+<L>(Which raysde Roome to her greatnes, and proclaimd her</L>
+<L>The glorious mistresse of the conquerd world)</L>
+<L>But aboue all the seruice of the gods</L>
+<L>So zealously obseru'd, that (good <HI>Sapritius</HI>)</L>
+<L>In words to thanke you for your care and duty</L>
+<L>Were much vnworthy <HI>Dioclesians</HI> honor</L>
+<L>Or his magnificence to his loyall seruants.</L>
+<L>But I shall find a time with noble titles</L>
+<L>To recompence your merits.</L>
+</SP>
+<SP>
+<SPEAKER>Sapr.</SPEAKER>
+<L>Mightiest <HI>Caesar</HI></L>
+<L>Whose power vpon this globe of earth, is equall</L>
+<L>To <HI>loues</HI> in heauen, whose victorious triumphs</L>
+<L>On prowd rebellious Kings that stir against it</L>
+<L>Are perfit figures of his immortall trophees</L>
+<L>Wonne in the gyants war, whose conquering sword</L>
+<L>Guided by his strong arme, as deadly kils</L>
+<L>As did his thunder, all that I haue done,</L>
+<L>Or if my strength were centupld could do,</L>
+<L>Comes short of what my loyalty must challenge.</L>
+<L>But if in any thing I haue deseru'd</L>
+<L><PB REF="5"/>Great <HI>Casars</HI> smile, tis in my humble care</L>
+<L>Still to preserue the honour of those gods,</L>
+<L>That make him what he is: my zealc to them</L>
+<L>I euer haue expressd in my fell hate</L>
+<L>Against the Christian sect, that with one blow</L>
+<L>Ascribing all things to an vnknowne power,</L>
+<L>Would strike downe all their temples, and allowes them</L>
+<L>Nor sacrifice nor altars.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>Thou in this</L>
+<L>Walkest hend in hand with mee, my will and power</L>
+<L>Shall not alone confirme, but honor all</L>
+<L>That are in this most forward.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Sacred <HI>Casar;</HI></L>
+<L>If your imperiall Maiestie stand pleasd</L>
+<L>To showre your fauours vpon such as are</L>
+<L>The boldest champions of our religion,</L>
+<L>Looke on this reuerend man, to whom the power</L>
+<L>Of serching out, and punishing such delinquents,</L>
+<L>Was by your choyce committed, and for proofe</L>
+<L>He hath deseru'd the grace imposd vpon him,</L>
+<L>And with a fayre and euen hand proceeded</L>
+<L>Partiall to none, not to himselfe, or those</L>
+<L>Of equall neerenesse to himselfe, behold</L>
+<L>This paire of Virgins.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle</SPEAKER>
+<L>What are these?</L>
+</SP>
+<SP>
+<SPEAKER>Sapr.</SPEAKER>
+<L>His daughters.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>Now by your sacred fortune they are faire ones,</L>
+<L>Exceeding faire ones, would 'twere in my power</L>
+<L>To make them mine.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>They are the gods, great Lady,</L>
+<L>They were most happy in your seruice else,</L>
+<L>On these when they fell from their fathers faith</L>
+<L>I vsde a iudges power, entreaties failing</L>
+<L>(They being seduc'd) to win them to adore</L>
+<L>The holy powers we worship, I put on</L>
+<L>The scarlet robe of bold authority,</L>
+<L>And as they had bin strangers to my blood,</L>
+<L>Presented them in the most horrid forms</L>
+<L><PB REF="5"/>All kind of tortures, part of which they sufferd</L>
+<L>With Roman constancy.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>And could you endure</L>
+<L>Being a father, to behold their limbs</L>
+<L>Extended on the racke?</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>I did, but must</L>
+<L>Confesse there was a strange contention in me,</L>
+<L>Betweene the impartiall office of a Iudge,</L>
+<L>And pitty of a father, to helpe Iustice</L>
+<L>Religion stept in, vnder which ods</L>
+<L>Compassion fell: yet still I was a father,</L>
+<L>For euen then, when the flinty hangmans whips</L>
+<L>Were worne with stripes spent on their tender limbs,</L>
+<L>I kneeld, and wept, and begd them though they would</L>
+<L>Be cruell to themselues, they would take pittie</L>
+<L>On my gray haires. Now note a sodaine change,</L>
+<L>Which I with ioy remember, those whom torture</L>
+<L>Nor feare of death could terrifie, were orecome</L>
+<L>By seeing of my suffrings, and so wonne,</L>
+<L>Returning to the faith that they were borne in,</L>
+<L>I gaue them to the gods, and be assurde</L>
+<L>I that vsde iustice with a rigorons hand</L>
+<L>Vpon such beauteous virgins, and mine owne,</L>
+<L>Will vseno fauour where the cause commands me</L>
+<L>To any other, but as rocks be deafe</L>
+<L>To all intreatics.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>Thou deseru'st thy place,</L>
+<L>Still hold it and with honor, things thus orderd</L>
+<L>Touching the gods tis lawfull to descend</L>
+<L>To human cares, and exercise that power</L>
+<L>Heauen has conferd vpon me, which that you</L>
+<L>Rebels and traytors to the power of Rome</L>
+<L>Should not with all extremities vndergoe,</L>
+<L>What can you vrge to qualifie your crimes</L>
+<L>Or mitigate my anger?</L>
+</SP>
+<SP>
+<SPEAKER>Epire.</SPEAKER>
+<L>We are now</L>
+<L>Slaues to thy power, that yesterday were kings,</L>
+<L>And had command ore others, we confesse</L>
+<L>Our grandsires payd yours tribute, yet left vs</L>
+<L><PB REF="6"/>As their forefathers had desire of freedome.</L>
+<L>And if you Romans hold it glorious honor</L>
+<L>Not onely to defend what is your owne,</L>
+<L>But to enlarge your Empire, (though our fortune</L>
+<L>Denies that happinesse) who can accuse</L>
+<L>The famishd mouth if it attempt to feed,</L>
+<L>Or such whose fetters eate into their freedomes,</L>
+<L>If they desire to shake them off.</L>
+</SP>
+<SP>
+<SPEAKER>Pontus.</SPEAKER>
+<L>We stand</L>
+<L>The last examples to proue how vncertaine</L>
+<L>All humane happinesse is, and are prepard</L>
+<L>To endure the worst.</L>
+</SP>
+<SP>
+<SPEAKER>Macedon.</SPEAKER>
+<L>That spoake which now is highest</L>
+<L>In Fortunes wheele, must when she turns it next</L>
+<L>Decline as low as we are. This consider'd</L>
+<L>Taught the <HI>Egyptian Hercules Sesostris</HI></L>
+<L>(That had his chariot drawne by captiue kings)</L>
+<L>To free them from that slauery, but to hope</L>
+<L>Such mercy from a Roman, were meere madnesse.</L>
+<L>We are familiar with what cruelty</L>
+<L>Roome since her infant greatnesse, euer vsde</L>
+<L>Such as she triumphd ouer, age nor sexe</L>
+<L>Exempted from her tyranny: scepterd Princes</L>
+<L>Kept in your common dungeons, and their children!</L>
+<L>In scorne traind vp in base Mechanicke arts</L>
+<L>For publicke bondmen; in the catologue</L>
+<L>Of those vnfortunate men, we exspect to haue</L>
+<L>Our names remembred.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>In all growing Empires</L>
+<L>Eu'n cruelty is vsefull, some must suffer</L>
+<L>And be set vp examples to strike terror</L>
+<L>In others though far of but when a State</L>
+<L>Is raysde to her perfection, and her Bases</L>
+<L>Too firme, to shrinke, or yeeld, we may vse mercy</L>
+<L>And do't with safety, but to whom? not cowards?</L>
+<L>Or such whose basenesse shames the conqueror,</L>
+<L>And robs him of his victorie, as weake <HI>Perseus</HI></L>
+<L>Did great <HI>AEmilius.</HI> Know therefore kings</L>
+<L><PB REF="6"/>Of <HI>Epire, Pontus,</HI> and of <HI>Macedon,</HI></L>
+<L>That I with courtesie can vse my prisoners</L>
+<L>As well as make them mine by force, prouided</L>
+<L>That they are noble enemies: such I found you</L>
+<L>Before I made you mine, and since you were so,</L>
+<L>You haue not lost the courages of Princes,</L>
+<L>Although the Fortune: had you borne your selues</L>
+<L>Deiectedly, and base, no slauery</L>
+<L>Had beene too easie for you, but such is</L>
+<L>The power of noble valour, that we loue it</L>
+<L>Eu'n in our enemies, and taken with it,</L>
+<L>Desire to make them friends, as I will you.</L>
+</SP>
+<SP>
+<SPEAKER>Epire.</SPEAKER>
+<L>Mocke vs not <HI>Caesar.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>By the Gods I do not.</L>
+<L>Vnloosse their bonds, I now as friends embrace you,</L>
+<L>Giue them their Crownes againe.</L>
+</SP>
+<SP>
+<SPEAKER>Pon.</SPEAKER>
+<L>We are twice ouercome,</L>
+<L>By courage and by courtesie.</L>
+</SP>
+<SP>
+<SPEAKER>Mace.</SPEAKER>
+<L>But this latter,</L>
+<L>Shall teach vs to liue euer faithfull Vassals,</L>
+<L>To <HI>Dioclesian</HI> and the power of Rome.</L>
+</SP>
+<SP>
+<SPEAKER>Epire.</SPEAKER>
+<L>All Kingdomes fall before her.</L>
+</SP>
+<SP>
+<SPEAKER>Pon.</SPEAKER>
+<L>And all Kings</L>
+<L>Contend to honour <HI>Cesar.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>I beleeue</L>
+<L>Your tongues are the true Trumpets of your hearts,</L>
+<L>And in it I most happy Queene of fate,</L>
+<L>Imperious Fortune mixe some light disaster</L>
+<L>With my so many ioyes to season em,</L>
+<L>And giue them sweeter rellish, I am girt round</L>
+<L>With true felicity, faithfull subiects here,</L>
+<L>Here bold Commanders, heere with new made friends.</L>
+<L>But what's the crowne of all in thee <HI>Artemia,</HI></L>
+<L>My only child whose loue to me and duty</L>
+<L>Striue to exceede each other,</L>
+</SP>
+<SP>
+<SPEAKER>Ar.</SPEAKER>
+<L>I make payment</L>
+<L>But of a debt which I stand bound to tender</L>
+<L>As a daugher, and a subiect.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>Which requires yet</L>
+<L><PB REF="7"/>A retribution from me <HI>Artemia</HI></L>
+<L>Tyde by a fathers care how to bestow</L>
+<L>Aie well of all things to me most pretious.</L>
+<L>Nor will I therefore longer keepe thee from</L>
+<L>The chiefe ioyes of creation, mariage rites,</L>
+<L>Which that thou mayst with greater pleasure tast of,</L>
+<L>Thou shalt not like with mine eyes but thine owne</L>
+<L>Amongst these kings forgetting they were captiues,</L>
+<L>Or these remembring not they are my subiects,</L>
+<L>Make choyce of any, by <HI>Ioues</HI> dreadfull thunder,</L>
+<L>My will shall ranke with thine.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>It is a bounty</L>
+<L>The daughters of great Princes seldome meete with.</L>
+<L>For they, to make vp breaches in the state,</L>
+<L>Or for some other politicke ends are forc'd</L>
+<L>To match where they affect not, may my life</L>
+<L>Deserue this fauour.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>Speake, I long to know</L>
+<L>The man thou wilt make happy.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>If that titles</L>
+<L>Or the adored name of Queene could take me,</L>
+<L>Here would I fixe mine eyes and looke no farther.</L>
+<L>But these are baites to take a meane borne Lady,</L>
+<L>Nother that boldly may call <HI>Caesar</HI> father.</L>
+<L>In that I can bring honor vnto any</L>
+<L>But from no king that liues receiues addition</L>
+<L>To raise desert and vertue by my fortune,</L>
+<L>Though in a low estate were greater glory,</L>
+<L>Then to mixe greatnesse with a Prince that owes</L>
+<L>No worth but that name onely.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle</SPEAKER>
+<L>I commend thee,</L>
+<L>Tis like thy selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>If then of men beneath me</L>
+<L>My choyce is to be made, where shall I seeke</L>
+<L>But among those that best deserue from you,</L>
+<L>That haue seru'd you most faithfully, that in dangers</L>
+<L>Haue stood next to you, that haue interposd</L>
+<L>Their brests as shields of proofe to dull the swords</L>
+<L><PB REF="7"/>Aimd at your bosome, that haue spent their blood</L>
+<L>To crowne your browes with Lawrell.</L>
+</SP>
+<SP>
+<SPEAKER>Macrinus.</SPEAKER>
+<L>Citherea</L>
+<L>Great Queene of loue be now propitious to me.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Now marke what I foretold.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Her eyes on me,</L>
+<L>Faire <HI>Venus</HI> sonne draw forth a leaden dart,</L>
+<L>And that she may hate me, transfixe her with it,</L>
+<L>Or if thou needs wilt vse a golden one,</L>
+<L>Shoote in the behalfe of any other,</L>
+<L>Thou knowst I am thy votary else where.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>How he blushes!</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Welcome, foole, thy fortune,</L>
+<L>Stand like a blocke when such an Angell courts thee.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>I am no obiect to diuert your eye</L>
+<L>From the beholding.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Rather a bright Sun</L>
+<L>Too glorious for him to gaze vpon</L>
+<L>That tooke not first flight from the Egles aciry.</L>
+<L>As I looke on the temples, or the gods,</L>
+<L>And with that reuerence Lady I behold you,</L>
+<L>And shall do euer.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>And it will become you,</L>
+<L>While thus we stand at distance, but if loue</L>
+<L>(Loue borne out of th'assurance of your vertues)</L>
+<L>Teach me to stoope so low.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>O rather take</L>
+<L>A higher flight.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>Why feare you to be raisd?</L>
+<L>Say I put off the dreadfull a we that waits</L>
+<L>On Maiestie, or with you share my beames,</L>
+<L>Nay make you to outshine me change the name</L>
+<L>Of subiect into Lord, rob you of seruice</L>
+<L>Thats due from you to me, and in me make it</L>
+<L>Duty to honor you, would you refuse me?</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Refuse you Madam, such a worme as I am,</L>
+<L>Refuse, what kings vpon their knees would sue for?</L>
+<L><PB REF="8"/>Call it, great Lady, by another name,</L>
+<L>An humble modesty that would not match</L>
+<L>A Molehill with <HI>Olimpus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>He that's famous</L>
+<L>For honourable actions in the warre;</L>
+<L>As you are <HI>Antoninus,</HI> a prou'd souldier</L>
+<L>Is fellow to a king.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>If you loue valour,</L>
+<L>As 'tis a kingly vertue, seeke it out,</L>
+<L>And cherish it in a king, there it shines brightest,</L>
+<L>And yeelds the brauest lustre. Looke on <HI>Epire,</HI></L>
+<L>A Prince, in whom it is incorporate,</L>
+<L>And let it not disgrace him, that he was</L>
+<L>Orecome by <HI>Casar,</HI> (it was a victory</L>
+<L>To stand so long against him,) had you seene him,</L>
+<L>How in one bloody seene he did discharge</L>
+<L>The parts of a Commander, and a souldier,</L>
+<L>Wise in direction, bold in execution;</L>
+<L>You would haue sayd, great <HI>Caesars</HI> selfe excepted,</L>
+<L>The world yeelds not his equall.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>Yet I haue heard,</L>
+<L>Encountring him alone in the head of his troope,</L>
+<L>You tooke him prisoner.</L>
+</SP>
+<SP>
+<SPEAKER>Epire.</SPEAKER>
+<L>Tis a truth great Princesse.</L>
+<L>Ile not detract from valour.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Twas meere fortune,</L>
+<L>Courage had no hand in it.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>Did euer man</L>
+<L>Striue so against his owne good.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Spiritlesse villaine,</L>
+<L>How I am tortur'd, by the immortall gods</L>
+<L>I now could kill him.</L>
+</SP>
+<SP>
+<SPEAKER>Diocl.</SPEAKER>
+<L>Hold <HI>Sapritius</HI> hold,</L>
+<L>On our displeasure hold.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Why, this would make</L>
+<L>A father mad, tis not to be endur'd,</L>
+<L>Your honours tainted in it.</L>
+</SP>
+<SP>
+<SPEAKER>Sapr.</SPEAKER>
+<L>By heauen it is,</L>
+<L><PB REF="8"/>I shall thinke of't.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>Tis not to be forgotten.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Nay kneele not Sir, I am no rauisher,</L>
+<L>Nor so farre gone in fond affection to you,</L>
+<L>But that I can retire my honour safe.</L>
+<L>Yet say hereafter that thou hast neglected</L>
+<L>What but seene in possession of another</L>
+<L>Will runne thee mad with enuy.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>In her lookes</L>
+<L>Reuenge is written.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>As you loue your life study t'appease her.</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>Gratious madame heare me.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>And be againe refusd?</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>The tender of</L>
+<L>My life, my seruice, not since you vouchsafe it,</L>
+<L>My loue, my heart, my all, and pardon me:</L>
+<L>Pardon dread Princesse that I made some scruple</L>
+<L>To leaue a valley of securitie</L>
+<L>To mount vp to the hill of Maiestie,</L>
+<L>On which the neerer <HI>Ioue</HI> the neerer lightning.</L>
+<L>What knew I but your grace made triall of me?</L>
+<L>Durst I presume to embrace, where but to touch</L>
+<L>With an vnmannerd hand was death? the Foxe</L>
+<L>When he saw first the forrests king, the Lyon</L>
+<L>Was almost drad with feare, the second view</L>
+<L>Onely a little danted him, the third</L>
+<L>He durst salute him boldly: pray you apply this,</L>
+<L>And you shall find a little time will teach me</L>
+<L>To looke with more familiar eyes vpon you</L>
+<L>Then duty yet allowes me.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Well exscusde.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>You may redeeme all yet.</L>
+</SP>
+<SP>
+<SPEAKER>Diocl.</SPEAKER>
+<L>And that he may</L>
+<L>Haue meanes and opportunity to do so,</L>
+<L><HI>Artemia</HI> I leaue you my substitute</L>
+<L>In faire <HI>Casarea.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>And here as your selfe</L>
+<L>We will obey and serue her.</L>
+</SP>
+<SP>
+<PB REF="9"/>
+<SPEAKER>Diocl.</SPEAKER>
+<L>Antoninus</L>
+<L>So you proue hers I wish no other heire,</L>
+<L>Thinke on't, be carefull of your charge <HI>Theophilus,</HI></L>
+<L><HI>Sapritius</HI> be you my daughters guardian.</L>
+<L>Your company I wish confederate Princes</L>
+<L>In our Dismatian wars, which finished</L>
+<L>With victorie I hope, and <HI>Maximinus</HI></L>
+<L>Our brother and copartner in the Empire</L>
+<L>At my request wonne to confirme as much,</L>
+<L>The kingdomes I tooke from you weele restore,</L>
+<L>And make you greater then you were before.</L>
+<STAGE>Exeunt omnes, manent Antoninus &amp; Macrinus. Antoninus, Macrinus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Oh I am lost for euer, lost <HI>Macrinus,</HI></L>
+<L>The anchor of the wretched, hope for sakes me,</L>
+<L>And with one blast of fortune all my light</L>
+<L>Of happinesse is put out.</L>
+</SP>
+<SP>
+<SPEAKER>Macr.</SPEAKER>
+<L>You are like to those</L>
+<L>That are ill onely, cause they are too well,</L>
+<L>That surfetting in the excesse of blessings</L>
+<L>Call their abundance want: what could you wish,</L>
+<L>That is not falne vpon you? honour, greatnesse,</L>
+<L>Respect, wealth, fauour, the whole world for a dowre,</L>
+<L>And with a Princesse, whose excelling forme</L>
+<L>Exccedes her fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Yet poyson still is poyson</L>
+<L>Though drunke in gold, and all these flattring glories</L>
+<L>To me, ready to starue, a painted banquet</L>
+<L>And no essentiall foode: when I am scorchd</L>
+<L>With fire, can flames in any other quench me?</L>
+<L>What is her loue to me, greatnes, or Empire,</L>
+<L>That am slaue to another, who alone</L>
+<L>Can giue me ease or freedome?</L>
+</SP>
+<SP>
+<SPEAKER>Macr.</SPEAKER>
+<L>Sir you point at</L>
+<L>Your dotage on the scornfull <HI>Dorothea,</HI></L>
+<L>Is she though faire the same day to be nam'd</L>
+<L><PB REF="9"/>With best <HI>Artemia?</HI> in all their courses</L>
+<L>Wisemen propose their ends: with sweete <HI>Artemia</HI></L>
+<L>There comes along pleasure, security,</L>
+<L>Vsher'd by all that in this life is precious:</L>
+<L>With <HI>Dorothea,</HI> though her birth be noble,</L>
+<L>The Daughter to a Senator of Rome,</L>
+<L>By him lest rich (yet with a priuate wealth</L>
+<L>And farre inferiour to yours) arriues</L>
+<L>The Emperours frowne (which like a mortall plague</L>
+<L>Speakes death is neere) the Princesse heauy scorne,</L>
+<L>Vnder which you will shrinke, your fathers fury,</L>
+<L>Which to resist euen piety forbids,</L>
+<L>And but remember that she stands suspected</L>
+<L>A fauourer of the Christian Sect, she brings</L>
+<L>Not danger but assured destruction with her:</L>
+<L>This truely wai'd, one smile of great <HI>Artemia</HI></L>
+<L>Is to be cherish't and prefer'd before</L>
+<L>All ioyes in <HI>Dorothea,</HI> therefore leaue her.</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>In what thou think'st thou art most wise, thou art</L>
+<L>Grosely abus'd <HI>Macrinus,</HI> and most foolish.</L>
+<L>For any man to match aboue his ranke,</L>
+<L>Is but to sell his libetty; with <HI>Artemia</HI></L>
+<L>I still must liue a seruant, but enioying</L>
+<L>Diuinest <HI>Dorothea,</HI> I shall rule,</L>
+<L>Rule as becomes a husbands for the dangers,</L>
+<L>Or call it if you will assur'd destruction,</L>
+<L>I sleight it thus. If then thou art my friend,</L>
+<L>As I dares weare thou art, and wilt not take</L>
+<L>A Gouernors place vpon thee, be my helper.</L>
+</SP>
+<SP>
+<SPEAKER>Macri.</SPEAKER>
+<L>You know I dare and will doe any thing.</L>
+<L>Put me vnto the test.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Goe then <HI>Macrinus</HI></L>
+<L>To <HI>Dorothea,</HI> tell her I haue worne,</L>
+<L>In all the battailes I haue fought her figure,</L>
+<L>Her figure in my heart, which like a diety</L>
+<L>Hath still protected me, thou canst speake well,</L>
+<L>And of thy choyself language, spare a little</L>
+<L>To make her vnderstand how much I loue her,</L>
+<L><PB REF="10"/>And how I languish for her, beare her these iewels</L>
+<L>Sent in the way of sacrifice, not seruice,</L>
+<L>As to my goddesse. All lets throwne behind me,</L>
+<L>Or feares that may deter me: say this morning</L>
+<L>I meane to visite her by the name of friendship,</L>
+<L>No words to contradict this.</L>
+</SP>
+<SP>
+<SPEAKER>Macrinus.</SPEAKER>
+<L>I am yours,</L>
+<L>And if my trauell this way be ill spent,</L>
+<L>Iudge not, my reader will, by the euent.</L>
+<STAGE>exeunt</STAGE>
+</SP>
+<TRAILER>Finis actus primus.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Actus 2. Scenus 1.</HEAD>
+<SP>
+<STAGE>Enter Spungins and Hercius.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Turne Christian, wud he that first tempted mee to haue my shooes walke vpon Christian soles, had turn'd me into a Capon, for I am sure now the stones of all my pleasure in this fleshly life are cut off.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>So then, if any Coxecombe has a galloping de∣sire to ride, heres a Gelding, if he can but sit him.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>I kicke for all that like a horse, looke else.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>But thats a kickish Iade, fellow <HI>Spungins,</HI> haue not I as much cause to complaine as thou hast? When I was a Pagan, there was an Infidell Punke of mine, would haue let me come vpon trust for my coruetting, a pox of your christian Coxatrices, they cry like Poulterers wiues, no mo∣ney, no Cony.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P><HI>Bacchus,</HI> the God of brew'd Wine and Sugar, grand Patron of rob pots, vpsie-freesie-tiplers, and super-naculam takers; this <HI>Bacchus,</HI> who is head warden of Vintners Hall, Ale-cunner, Maior of all Victualing houses, the sole liquid Benefactor to bawdy-houses, <HI>Lanze prezado</HI> to red Noses, and inuin cible Adelantado ouer the Armado of pimpled, deepe scarletted, rubified, and carbuncled faces.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<L>What of all this?</L>
+</SP>
+<SP>
+<PB REF="10"/>
+<SPEAKER>Spun.</SPEAKER>
+<L>This boone Bacchanalion stinker, did I make legges to.</L>
+</SP>
+<SP>
+<SPEAKER>Hirc.</SPEAKER>
+<L>Scuruy ones, when thou wert drunke.</L>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>There is no danger of loosing a man yeares by making these Indures, he that will not now and then bee <HI>Calabingo,</HI> is worse then a <HI>Calamosthe:</HI> when I was a Pagan and kneeld to this <HI>Bachhus,</HI> I durst out-drinke a Lord, but your Christian Lords out-boule me: I was in hope to leade a sober life, when I was conuerted, but now amongst the Christians, I can no sooner stagger out of one Alhouse but I reele into another: they haue whole streets of nothing but drinking roomes, and drabbing chambers, iumbled to∣gether.</P>
+</SP>
+<SP>
+<SPEAKER>Hirc.</SPEAKER>
+<P>Bawdy <HI>Priapus,</HI> the first schoolemaister that taught Butchers how to sticke pricks in flesh, and make it swell, thou knowest was the onely Ningle that I cared for vnder the Moone, but since I left him, to follow a scur∣uy Lady, what with her praying and our fasting, if now I come to a wench &amp; offer to vse her any thing hardly (cel∣ling her being a Christian she must endure) she presently handles me as if I were a cloue, &amp; cleaues me with disdaine as if I were a Calues head.</P>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>I see uo remedy fellow <HI>Hircius,</HI> but that thou and I must be halfe Pagans and halfe Christians, for we know very fooles that are Christians.</P>
+</SP>
+<SP>
+<SPEAKER>Hirc.</SPEAKER>
+<P>Right, the quarters of Christians are good for not thing but to feed Crowes.</P>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>True, Christian Brokers, thou knowest, are made vpof the quarters of Christians, parboyle one of these rogues and he is not meate for a dog: no, no, I am re∣solued to haue an Infidels heart, though in shew I carry a Christians face.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Thy Last shall serue my foote, so will I.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Our whimpring Lady and Mistresse sent mee with two great baskets full of Beefe, Mutton, Veale and Goose fellow <HI>Hircius.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>And Woodcocke fellow <HI>Spungins.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>Vpon the poore leane Asse fellow, on which I
+<PB REF="11"/>
+ride, to all the Almswomen: what thinkst thou I hue done with all this good cheere.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Eate it, and be choakt else.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Wud my Asse, basket and all were in thy maw if I did: no, as I am a demy Pagan, I sold the victuals, and coynd the mony into pottle pots of wine.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Therein thou shewdst thy selfe a perfect demy-Christian too, to let the poore beg, starue and hang, or dye a the pip: our puling snotty-nose Lady sent me out like∣wise with a purse of mony, to releeue and release prisoners: did I so thinke you?</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Wud thy ribs were turnd into grates of iron then.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>As I am a totall Pagan, I swore they should be hangd first: for sirra <HI>Spungius,</HI> I lay at my old ward of lechery, and cryed a poxe in your two-penny wards, and so I tooke scuruy common flesh for the mony.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>And wisely done, for our Lady sending it to pri∣soners, had bestowed it out vpon lowsie knaues, and thou to saue that labour casts it away vpon rotten whores.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>All my feare is of that pinke-an-eye Iacke-an Apes boy, her page.</P>
+</SP>
+<SP>
+<SPEAKER>Spnn.</SPEAKER>
+<P>As I am a Pagan, from my cod-peece downward that white-fac'd Monkie, frights me to, I stole but a durty pudding last day out of an almsebasket, to giue my dogge when he was hungry, and the peaking chitface page hit me ith' teeth with it.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>With the durty pudding; so he did me once with a cowturd, which in knauery I would haue crumd into ones porridge, who was halfe a Pagan to: the smug dandiprat smels vs out whatsoeuer we are doing.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Does he! let him take heede I proue not his backe friend; He make him curse his smelling what I doe.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Tis my Lady spoyles the boy, for he is euer at her tayle: and she's neuer well but in his company.</P>
+</SP>
+<SP>
+<STAGE>Enter <HI>Angelo</HI> with a Booke and Taper lighted, they seeing him, counterfeit deuotion.</STAGE>
+</SP>
+<SP>
+<PB REF="11"/>
+<SPEAKER>Ange.</SPEAKER>
+<L>O! now your hearts make ladders of your eyes</L>
+<L>In shew to climbe to heauen, when your deuotion</L>
+<L>Walkes vpon crutches: where did you waste your time</L>
+<L>When the religious man was on his knees,</L>
+<L>Speaking the heauenly languague.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Why fellow <HI>Angelo,</HI> we were speaking in pedlars</L>
+<L>French I hope.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>We ha not bene idle, take it vpon my word.</L>
+</SP>
+<SP>
+<SPEAKER>Ange.</SPEAKER>
+<L>Haue you the baskets emptied which your Lady</L>
+<L>Sent from the charitable hands, to women</L>
+<L>That dwell vpon her pitty?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Emptled em! yes, Ide be loth to haue my belly so emptie, yet I'm sure, I munched not one bit of them nei∣ther.</P>
+</SP>
+<SP>
+<SPEAKER>Ange.</SPEAKER>
+<L>And went your money to the prisoners.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Went no, I carryed it; and with these fingers paid it away.</P>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>What way? the diuels way, the way of sinne,</L>
+<L>The way of hot damnation, way of lust:</L>
+<L>And you to, wash away the poore mans bread</L>
+<L>In bowles of drunkennesse.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Drunkennesse! yes, yes, I vse to bee drunke: our next neighbours man called <HI>Christopher</HI> has often seene me drunke, has he not?</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Or me giuen so to the flesh, my cheekes speake my doings.</P>
+</SP>
+<SP>
+<SPEAKER>Ange.</SPEAKER>
+<L>Auant you theeues, and hollow hypocrites.</L>
+<L>Your hearts to me lie open like blacke bookes,</L>
+<L>And there I reade your doings.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>And what do you read in my heart?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Or in mine? come amiable. <HI>Angelo,</HI> beate the flint of your braines.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>And lets see what sparkes of wit fly out, to kindle your <HI>Carebruns.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Your names euen brand you, you are <HI>Spurgius</HI> cald</L>
+<L>And like a Spunge you sucke vp liquorous wines</L>
+<L>Till your soule reeles to hell.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>To hell! can any drunkards legs carry him so far.</L>
+</SP>
+<SP>
+<PB REF="12"/>
+<SPEAKER>Ang.</SPEAKER>
+<L>For blood of grapes you sold the widowes food.</L>
+<L>And staruing them, tis murder, whats this but hell.</L>
+<L><HI>Hircius</HI> your name, and Goatish is your nature:</L>
+<L>You snatch the meate out of the prisoners mouth,</L>
+<L>To fatten harlots, is not this hell to,</L>
+<L>No Angell, but the diuell waites on you.</L>
+</SP>
+<SP>
+<SPEAKER>Spun</SPEAKER>
+<L>Shall I cut his throate.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>No, better burne him, for I thinke he is a witch, but sooth, soth him.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Fellow <HI>Angelo,</HI> true it is, that falling into the com∣pany of wicked he-Christians for my part.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>And she-ones for mine, we haue 'em swim in sholes hard by.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>We must confesse, I tooke too much of the pot, and he of tother hollow commodity.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Yes indeed, we layd lill on both of vs, we cousen'd the poore, but 'tis a comon thing, many a one that counts himselfe a better Christian then we two, has done it, by this light.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>But pray sweet <HI>Angelo,</HI> play not the tell-tale to my Lady, and if you take vs creeping into any of these mouse∣holes of sin any more, let Cats flea off our skins.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>And put nothing but the poy sond tailes of Rats into those skins.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>Will you dishonor her sweet charity.</L>
+<L>Who sau'd you from the tree of death and shame.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Wud I were haugd rather then thus betold of my faults.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>She tooke vs, tis true, from the gallowes, yet I hope she will not barre yeomen sprats to haue their swinge.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>She comes, beware and mend.</L>
+<STAGE>enter Doro.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Lets breake his necke, and bid him mend.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Haue you my messages (sent to the poore)</L>
+<L>Deliuer'd with good hands, not robbing them</L>
+<L>Of any iot was theirs.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Rob 'em Lady, I hope, neither my fellow nor I am theeues</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Deliuerd with good hands madam, else let me neuer
+<PB REF="12"/>
+licke my fingers more when I eate butterd fish.</P>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Who cheate the poore, and from them plucke their almes.</L>
+<L>Pilfer from Heauen, and there are thunderbolts</L>
+<L>From thence to beate them euer, do not lye,</L>
+<L>Were you both faithfull true distributers?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Lye Madame, what griefe is it to see you turne</L>
+<L>Swaggerer, and giue your poore minded rascally seruants the lye.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I'm glad you doe not, if those wretched people</L>
+<L>Tell you they pine for want of any thing.</L>
+<L>Whisper but to mine eare, and you shall furnish them.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Whisper, nay Lady, for my part Ile cry whoope.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Play no more Villaines with so good a Lady,</L>
+<L>For if you doe — — —.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Are we Christians?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>The fowle Feind snap all Pagans for me.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Away, and once more mend.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Takes vs for Botchers.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>A patch, a patch.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>My booke and Taper.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Heere most holy Mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Thy voyce sends forth such musicke, that I neuer</L>
+<L>Was raisht with a more celestiall sound,</L>
+<L>Were euery seruant in the world like thee,</L>
+<L>So full of goodnesse, Angels would come downe</L>
+<L>To dwell with vs, thy name is <HI>Angelo,</HI></L>
+<L>And like that name thou art, get thee to rest,</L>
+<L>Thy youth with too much watching is opprest.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>No my deare Lady, I could weary slarres,</L>
+<L>And force the wakefull Moone to lose her eyes</L>
+<L>By my late watching, but to waite on you,</L>
+<L>When at your prayers you kneele before the Altar,</L>
+<L>Me thinkes I'm singing with some Quire in Heauen,</L>
+<L>So blest I hold me in your company:</L>
+<L>Therefore my most-lou'd mistresse do not bid</L>
+<L>Your boy so seruiceable to get heuce,</L>
+<L>For then you breake his heart.</L>
+</SP>
+<SP>
+<PB REF="13"/>
+<SPEAKER>Dor.</SPEAKER>
+<L>Bee nye me still then,</L>
+<L>In golden letters downe ile set that day</L>
+<L>Which gaue thee to me, little did I hope</L>
+<L>To meete such worlds of comfort in thy selfe,</L>
+<L>This little pretty body, when I comming</L>
+<L>Forth of the temple, heard my begger-boy,</L>
+<L>My sweete fac'd godly begger-boy, craue an almes,</L>
+<L>Which with glad hand I gaue, with lucky hand,</L>
+<L>And when I tooke thee home, my most chast bo some</L>
+<L>Me thought was fil'd with no hot wanton fire,</L>
+<L>But with a holy flame, mounting since higher</L>
+<L>On wings of Cherubines then did before.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Proud am I that my Ladies modest eye,</L>
+<L>So likes so poore a seruant.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>I haue offerd</L>
+<L>Handfuls of gold but to behold thy Parents,</L>
+<L>I would leaue Kingdomes, were I Queene of some,</L>
+<L>To dwell with thy good father, for the sonne</L>
+<L>Betwitching me so deepely with his presence,</L>
+<L>He that begot him must doo't ten times more,</L>
+<L>I pray thee, my sweete boy, shew me thy parents,</L>
+<L>Be not asham'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>I am not, I did neuer</L>
+<L>Know who any mother was, but by yon Pallace</L>
+<L>Fill'd with bright heauenly Courtiers, I dare assure you,</L>
+<L>And pawne these eyes vpon it, and this hand,</L>
+<L>My father is in Heauen, and pretty Mistresse,</L>
+<L>If your illustrious houre Glasse spend his sand</L>
+<L>No worse then yet it does, vpon my life</L>
+<L>You and I both shall meete my father there,</L>
+<L>And he shall bid you welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>A blessed day,</L>
+<L>We all long to be there, but lose the way.</L>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<STAGE>Macrinus friend to Antoninus enters, being met by Theophslus and Harpax.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Sunne-god of the day guide thee <HI>Macrinus.</HI></L>
+</SP>
+<SP>
+<PB REF="13"/>
+<SPEAKER>Mac.</SPEAKER>
+<L>And thee <HI>Theophilus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Gladst thou in such scorne,</L>
+<L>I call my wish backe.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I'm in hast.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>One word,</L>
+<L>Take the least hand of time vp: stay.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Be briefe.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>As thought: I pritheo tell me good <HI>Macrinus</HI></L>
+<L>How health and our faire Princesse lay together</L>
+<L>This night, for you can tell, Courtiers haue flyes</L>
+<L>That buzze all newes vnto them.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>She slept but ill.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Double thy courtesie, how does <HI>Antoninus?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Ill, well, straight, crooked, I know not how.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Once more,</L>
+<L>Thy head is full of Winde-mils: when does the Princesse</L>
+<L>Fill a bed full of beauty, and bestow it</L>
+<L>On <HI>Antoninus</HI> on the wedding night.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I know not.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>No, thou art the Manunscript</L>
+<L>Where <HI>Antoninus</HI> writes downe all his secrets,</L>
+<L>Honest <HI>Macrinus</HI> tell me.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Fare you well Sir.</L>
+<STAGE>exit</STAGE>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Honesty is some Fiend, and frights him hence,</L>
+<L>A many Courtiers loue it not.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>What peece</L>
+<L>Of this State-wheele (which winds vp <HI>Antoninus</HI>)</L>
+<L>Is broke, it runnes so iarringly? the</L>
+<L>Man is from himselfe deuided: Oh thou the eye</L>
+<L>By which I wonders see, tell me my <HI>Harpax,</HI></L>
+<L>What gad flye tickles so this <HI>Macrinus,</HI></L>
+<L>That vp. flinging thy tayle, he breakes thus from me,</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Oh Sir, his braine-panne is a bed of Snakes,</L>
+<L>Whosestings shoote through his eye-balls, whose poyso∣nous spawne</L>
+<L>Ingenders such a fry of speckled villanies,</L>
+<L>That valesse charmes more strong then Adamant</L>
+<L>Bee vs'd, the Romane Angels wings shall melt,</L>
+<L><PB REF="14"/>And <HI>Caesars</HI> Diadem be from his head</L>
+<L>Spurn'd by base fecte, the Lawrell which he weares</L>
+<L>(Returning victor) be inforc't to kisse</L>
+<L>That which it hates (the fire.) And can this Ram,</L>
+<L>This <HI>Antoninus-Engine,</HI> being made ready</L>
+<L>To so much mischiefe, keepe a steady motion,</L>
+<L>His eyes and feete you see giue strange assaults.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>I'm turnd a marble Statue at thy language,</L>
+<L>Which printed is in such crab'd Charracters,</L>
+<L>It puzzles all my reading, what (ith name</L>
+<L>Of <HI>Pluto</HI>) now is hatching.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>This <HI>Macrinus</HI></L>
+<L>The time is, vpon which loue errands runne</L>
+<L>Twixt <HI>Antoninus</HI> and that ghost of women,</L>
+<L>The bloudlesse <HI>Dorothaea,</HI> who in prayer</L>
+<L>And meditation (mocking all your gods)</L>
+<L>Drinkes vp her ruby colour, yet <HI>Antoninus</HI></L>
+<L>Playes the Endymion to this pale fac'd Moone,</L>
+<L>Courts her, seekes to catch her eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>And what of this?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>These are but creeping Billowes</L>
+<L>Not got to shore yet, but if <HI>Dorothaea</HI></L>
+<L>Fall on his bosome, and be fir'd with loue,</L>
+<L>(Your coldest women do so) had you ynck</L>
+<L>Brew'd from the infernall Stix, and not all that blacknesse</L>
+<L>Can make a thing so foule, as the Dishonours,</L>
+<L>Disgraces, Buffettings, and most base affronts</L>
+<L>Vpon the bright <HI>Artemia,</HI> Starre of Court,</L>
+<L>Great <HI>Caesars</HI> Daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>I now conster thee.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Nay more, a Firmament of Clouds being fild</L>
+<L>With <HI>Iouet</HI> Artillery, shot downe at once</L>
+<L>To pash your Godsin peeces, cannot giue</L>
+<L>With all those Thunderbots so deepe a blow</L>
+<L>To the Religion there, and Pagan lore</L>
+<L>As this; for <HI>Dorothea</HI> hates your gods,</L>
+<L>And if she once blast Antoninus soule,</L>
+<L>Making it foule like hers: Oh the example—</L>
+</SP>
+<SP>
+<PB REF="14"/>
+<SPEAKER>Theo.</SPEAKER>
+<L>Eates through <HI>Cesareas</HI> heart, like liquid poison</L>
+<L>Haue I inuented tortures to tente Christians,</L>
+<L>To see but which, could all that sceles Hels torments</L>
+<L>Haue leaue to stand aloofe heere on earths stage,</L>
+<L>They would be mad till they againe descended,</L>
+<L>Holding the paines most horrid, of such soules,</L>
+<L>May-games to those of mine, has this my hand</L>
+<L>Set downe a Christians execution</L>
+<L>In such dire postures, that the very hangman</L>
+<L>Fell at my foote dead hearing but their figures,</L>
+<L>And shall <HI>Macrinus</HI> and his fellow <HI>Masquer</HI></L>
+<L>Strangle me in a dance.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>No, on, I do hug thee,</L>
+<L>For drilling thy quick braines in this rich plot</L>
+<L>Of tortures gainst these Christians: on, I hug thee.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Both hug and holy me, to this <HI>Dorotheae</HI></L>
+<L>Flye thou and I in thunder.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Not for Kingdomes</L>
+<L>Pil'd vpon Kingdomes, theres a villaine Page</L>
+<L>Waites on her, whom I would not for the world</L>
+<L>Hold trafficke with, I do so hate his sight,</L>
+<L>That should I looke on him I must sinke downe.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>I will not loose thee then, her to confound,</L>
+<L>None but this head with glories shall be crown'd.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Oh, mine owne as I would wish thee.</L>
+<STAGE>exeunt.</STAGE>
+<STAGE>Enter Dorothea, Macrinus, Angelo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>My trusty <HI>Angelo,</HI> with that curious eye</L>
+<L>Of thine, which euer waites vpon my businesse,</L>
+<L>I prithee watch those my still-negligent seruants</L>
+<L>That they performe my willin whats enioyn'd them</L>
+<L>To'th good of others, else will you find them flyes</L>
+<L>Not lying still, yet in them no good lyes:</L>
+<L>Be carefull deare Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Yes, my sweetest Mistresse.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Now Sir, you may goe on.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I then must study,</L>
+<L><PB REF="15"/>A new Arithmatike, to summe vp the vertues</L>
+<L>Which <HI>Antoninus</HI> gracefully become,</L>
+<L>There is in him so much man, so much goodnesse,</L>
+<L>So much of honour, and of all things else</L>
+<L>Which makes our being excellent, that from his store</L>
+<L>He can enough lend others, yet much taken from him,</L>
+<L>The want shall be as little as when Seas</L>
+<L>Lend from their bounty to fill vp the poorenesse</L>
+<L>Of needy Riuers.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<P>Sir, he is more indebted, to you for praise, then you to him that owes it.</P>
+</SP>
+<SP>
+<SPEAKER>Ma</SPEAKER>
+<L>If Queens viewing his presents, paid to the whitenes</L>
+<L>Of your chast hand alone, should be ambitious,</L>
+<L>But to be parted in their numerous shares,</L>
+<L>This he counts nothing: could you see maine Armies</L>
+<L>Make battalles in the quarrell of his vallour,</L>
+<L>That tis best, the truest, this were nothing,</L>
+<L>The greatnesse of his State, his fathers voyce</L>
+<L>And arme, owing <HI>Cesarea,</HI> he neuer boasts of</L>
+<L>The Sun-beames, which the Emperor throwes vpon him,</L>
+<L>Shine there but as in water, and guild him</L>
+<L>Not with one spot of pride, no dearest beauty,</L>
+<L>All these heap'd vp together in one scale,</L>
+<L>Cannot weigh downe the loue he beares to you</L>
+<L>Being put into the other.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Could gold buy you</L>
+<L>To speake thus for your friend, you Sir are worthy</L>
+<L>Of more then I will number, and this your language</L>
+<L>Hath power to win vpon another woman,</L>
+<L>Top of whose heart, the feathers of this World</L>
+<L>Are gaily stuck, but all which first you named,</L>
+<L>And now this last, his loue to me are nothing,</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>You make me a sad Messenger.</L>
+<STAGE>enter Antoninus.</STAGE>
+<L>But him selfe</L>
+<L>Being come in person, shall I hope heare from you</L>
+<L>Musicke more pleasing.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Has your eare <HI>Macrinus</HI></L>
+<L>Heard none then?</L>
+</SP>
+<SP>
+<PB REF="15"/>
+<SPEAKER>Mac.</SPEAKER>
+<L>None I like.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>But can there be</L>
+<L>In such a noble Casker, wherein lies</L>
+<L>Beauty and chastity in their full perfections,</L>
+<L>A rocky heart killing with cruelty</L>
+<L>A life thats prostrated beneath your feete?</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I am guilty of a shame I yet neuer knew,</L>
+<L>Thus to hold parley with you, pray Sir pardon.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Good sweetenesse, you now haue it, and shall goe,</L>
+<L>Be but so mercifull, before your wounding me</L>
+<L>With such a mortall weapon, as Farewell,</L>
+<L>To let me murmure to your Virgin care,</L>
+<L>What I was loath to lay on any tongue</L>
+<L>But this mine owne.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>If one immodest accent</L>
+<L>Flye out, I hate you euerlastingly.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>My true loue dares not doe it.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L><HI>Hermes</HI> inspire thee.</L>
+</SP>
+<SP>
+<STAGE>They whispering below, enter aboue Sapritius, father to Anto∣ninus, &amp; Governor of Cesaria, with him Artemia the Princesse, Theophilies, Spungius and Hercins.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>See you, doe you see, our worke is done, the fish you angle for is nibling at the hooke, and therefore vn∣trusse the Codpeece point of our reward, no matter if the breeches of conscience fall about our heeles.</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>The gold you earne is heere, dam vp your mouthes, and no words of it.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>No, nor no words from you of too much dam∣ming neither; I know women sell themselues dayly, and are <GAP DESC="illegible" REASON="blotted" EXTENT="3 letters" DISP="•••"/>knied out for siluer, why may not we then betray a scuruy mistresse for gold.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>She sau'd vs from the Gallowes, and only to keepe one Prouerbe from breaking his necke, weele hang her.</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Tis well done, go go, yeare my fine white boyes.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>If your red boyes, tis well knowne, more lifa∣uour'd
+<PB REF="16"/>
+faces then ours are painted.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Those fellowes trouble vs.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Away, away.</L>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<L>I to my sweete placket.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>And I to my full pot.</L>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Come, let me tune you, glaze not thus your eyes</L>
+<L>With selfe-loue of a vowed Virginity,</L>
+<L>Make euery man your glasse, you see our Sex</L>
+<L>Doe neuer murder propagation,</L>
+<L>We all desire your sweete society,</L>
+<L>And if you barre me from it, you doe kill me,</L>
+<L>And of my bloud are guilty.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>O base Villaine.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Bridle your rage sweete Princesse.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Could not my fortunes</L>
+<L>(Rear'd higher farre then yours) be worthy of you,</L>
+<L>Me thinkes my deare affection makes you mine.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Sir, for your fortunes were they mines of gold,</L>
+<L>He that I loue is richer; and for worth,</L>
+<L>You are to him lower then any slaue</L>
+<L>Is to a Monarch.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>So insolent, base Christian.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Can I, with wearing out my knees before him</L>
+<L>Get you but be his seruant, you shall boast y'are equall to a King.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Confusion on thee,</L>
+<L>For playing thus the lying Sorcereste.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Your mockes are great ones, none beneath the Sun</L>
+<L>Will I be seruant too: on my knees I beg it,</L>
+<L>Pitty me wondrous maid.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>I curse thy basenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Listen to more.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Oh kneele not Sir to me.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>This Knee is Embleme of an humbled heart,</L>
+<L>That heart which tortur'd is with your disdaine,</L>
+<L>Iustly for scorning others; euen this heart,</L>
+<L>To which for pitty such a Princesse sues,</L>
+<L>As in her hand offers me all the World,</L>
+<L><PB REF="16"/>Great <HI>Caesars</HI> daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>Slaue thou lyest.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Yet this</L>
+<L>Is adamant to her, that melts to you</L>
+<L>In drops of blood.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>A Very dogge.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Perhaps</L>
+<L>Tis my religion makes you knit the brow,</L>
+<L>Yet be you mine, and euer be your owne,</L>
+<L>I nere will screw your conscience from that power</L>
+<L>On which you Christians leane.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>I can no longer,</L>
+<L>Fret out my life with weeping at thee villaine; sirra,</L>
+<L>Would when I got thee, the high thunder hand</L>
+<L>Had strucke thee in the wombe.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>We are betrayde.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>Is that your I doll, traitor, which thou kneelst to,</L>
+<L>Trampling vpon my beauty?</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>Sirra, bandog,</L>
+<L>Wilt thou in peeces teare, our <HI>Iupiter,</HI></L>
+<L>For her? our <HI>Mars,</HI> for her? our <HI>Sol,</HI> for her?</L>
+<L>A whore, a hel-hound, in this globe of braines</L>
+<L>Where a whole world of tortures for such furies</L>
+<L>Haue fought as in a Chaos) which should exceed,</L>
+<L>These nailes shall grubbing lye, from scull to scull,</L>
+<L>To finde one horrider, then all, for you,</L>
+<L>You three.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>Threaten not, but strike, quicke vengeance flies</L>
+<L>Into thy bosome, caitife: here all loues dies.</L>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>O I am thunder-struckel</L>
+<L>Wee are both ore whelm'd.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>With one high raging billow.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>You a souldier,</L>
+<L>And sinke beneath the violence of a woman?</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>A woman! a wrongd Princesse: from such a starre</L>
+<L>Blazing with fires of hate, what can be look'd for</L>
+<L>But tragicall euents? my life is now</L>
+<L>The subiect of her tyranny.</L>
+</SP>
+<SP>
+<PB REF="17"/>
+<SPEAKER>Doro.</SPEAKER>
+<L>That feare, is base,</L>
+<L>Of death, when that death doth but life displace</L>
+<L>Out of her house of earth; you onely dread</L>
+<L>The stroke, and not what followes when you are dead,</L>
+<L>There's the great feare indeed: come, let your eye,</L>
+<L>Dwell where mine doe, youle scorne their tyrannies.</L>
+</SP>
+<SP>
+<STAGE>Enter below, <HI>Artemia, Sapritius, Theophilus</HI> a guard. <HI>Angelo</HI> comes and is close by <HI>Dorothea.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>My fathers nerues put vigour in mine arme,</L>
+<L>And I his strength must vse; because I once</L>
+<L>Shed beames of fauour on thee, and with the Lyon</L>
+<L>Playd with thee gently when thou strokst my heart,</L>
+<L>He not insult on a base humbled prey,</L>
+<L>By lingring out thy terrors, but with one frowne</L>
+<L>Kill thee: hence with 'hem to execution.</L>
+<L>Seize him, but let euen death it selfe be weary</L>
+<L>In torturing her: He change those smiles to shreekes,</L>
+<L>Giue the foole what she is proud of (martyrdome)</L>
+<L>In peeces racke that Bawd to:</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Albeit the reuerence</L>
+<L>Iowe our gods and you, are in my bosome</L>
+<L>Torrents so strong, that pitty quite lies drownd</L>
+<L>From sauing this yong man, yet when I see</L>
+<L>What face death giues him, and that a thing within me,</L>
+<L>Sayes 'tis my sonne, I'am forc'd to be a man,</L>
+<L>And grow fond of his life, which thus I beg.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>And I deny.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Sir you dishonour me,</L>
+<L>To sue for that which I disclay me to haue,</L>
+<L>I shall more glory in my sufferings gaine,</L>
+<L>Then you in giuing iudgement, since I offer</L>
+<L>My blood vp to your anger: nor do I kneele</L>
+<L>To keepe a wretched life of mine from ruine:</L>
+<L>Preserue this temple (builded faire as your is)</L>
+<L>And <HI>Caesar</HI> neuer went in greater triumph</L>
+<L>Then I shall to the scaffold.</L>
+</SP>
+<SP>
+<PB REF="17"/>
+<SPEAKER>Artem.</SPEAKER>
+<L>Are you so braue Sir,</L>
+<L>Set forward to his triumph, and let those two</L>
+<L>Go cursing along with him.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>No, but pittying,</L>
+<L>(For my part, I) that you loose ten times more</L>
+<L>By torturing me, than I that dare your tortures,</L>
+<L>Through all the army of my sinnes, I haue euen</L>
+<L>Lobord to breake, and cope with death to th'face;</L>
+<L>The visage of a hangman frights not me;</L>
+<L>The sight of whips, rackes, gibbets, axes, fires</L>
+<L>Are scaffoldings, by which my soule climbes vp</L>
+<L>To an Eternall habitation.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L><HI>Caesars</HI> imperiall daughter, heare me speake,</L>
+<L>Let not this Christian <HI>Thing,</HI> in this her pagentry</L>
+<L>Of prowd deriding, both our gods and <HI>Caesar,</HI></L>
+<L>Build to her selfe a kingdome in her death</L>
+<L>Going laughing from vs. No, her bitterest torment</L>
+<L>Shall be to seele her constancy beaten downe,</L>
+<L>The brauery of her resolution lie</L>
+<L>Battered by the argument, into such peeces,</L>
+<L>That she agen shall (on her belly) creepe</L>
+<L>To kisse the pauements of our Panim gode.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>How to be done.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>He send my daughers to her,</L>
+<L>And they shall turne her rocky faith to waxe,</L>
+<L>Else spit at me, let me be made your slaue,</L>
+<L>And meete no <HI>Romans</HI> but a villains graue.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>Thy prisoner let her be then: and <HI>Sapritius</HI></L>
+<L>Your sonne, and that be yours: death shall be sent</L>
+<L>To him that suffers them by voyce or letters</L>
+<L>To greet each other. Rifle her estate,</L>
+<L>Christians to beggery brought grow desperate.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Still on the Bread of pouerty let me feed.</L>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>O my admired mistresse; quench not out</L>
+<L>The holy fires within you, though temptations</L>
+<L>Showre downe vpon you: claspe thine armour on,</L>
+<L>Fight well and thou shalt see, after these warres</L>
+<L>Thy head weare Sun beames, and thy feet touch starres.</L>
+</SP>
+<SP>
+<PB REF="18"/>
+<STAGE>Enter <HI>Hircius</HI> and <HI>Spungius.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>How now <HI>Angelo</HI> how ist? how ist? what thred spins</L>
+<L>That whore <HI>Fortune</HI> vpon her wheele now.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L><HI>Comesta, comesta</HI> poore knaue.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L><HI>Com a porte von, com a porte von,</HI> my petite garsoone</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Me partha wee Comrade, my halfe inch of mans</L>
+<L>Flesh, how run the dice of this cheating world, ha?</L>
+</SP>
+<SP>
+<SPEAKER>Ange.</SPEAKER>
+<L>Too well on your sides, you are hid in gold</L>
+<L>Ore head and eares.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>We thanke our fates, the signe of the gingle-boyes hangs at the doores of our pockets.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Who wud thinke that we comming forth of the arse, as it were, or fag end of the world, should yet see the golden age, when so little siluer is stirring.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Nay who can say any citizen is an Asse, for lading his owne backe, with money, till his soule crackes agen, onely to leaue his sonne like a gilded coxccombe behinde him? will not any foole take me for a wiseman now, seeing me draw out of the pit of my treasury, this little god with his belly full of gold.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>And this full of the same meate out of my ambrey</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>That gold will melt to poyson.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Poyson, wudit wud, whole pintes for healths shall downe my throate.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Gold poyson! there's neuer a she-thrasher in <HI>Ca∣sarea</HI> that liues on the flaile of money will call it so.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Like slaues you sold your soules for golden drosse,</L>
+<L>Bewitching her to death, who stept betweene</L>
+<L>You, and the gallowes.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>T was an easie matter to saue vs, she being so well backt.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>The gallowes and we fell out, so she did but part vs</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>The misery of that mistresse is mine owne,</L>
+<L>She beggerd, I left wretched.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>I can but let my Nose drop in sorrow with wet eyes for her.</L>
+</SP>
+<SP>
+<PB REF="18"/>
+<SPEAKER>Spun.</SPEAKER>
+<L>The petticote of her estate is vnlac'd I confesse.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Yes, &amp; the smocke of her charity is now all to peeces</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>For loue you beare to her, for some good turnes</L>
+<L>Done you by me, giue me one peece of siluer.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>How la peece of siluer! if thou wert an Angell of gold</L>
+<L>I would not put thee into white money, vnlesse I weigh'd thee, and I weigh thee not a rush.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>A peece of siluer! I neuer had but two calues in my life, and those my mother left me; Ile rather part from the fat of them, then from a mustard-tokens worth of Argent.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>And so sweet Nit we crawle from thee.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L><HI>Adieu,</HI> demi-dandiprat, <HI>adieu</HI></L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>Stay one word yet, you now are full of gold.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Ide be sorry my dog were so full of the poxc.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Or any Sow of mine of the meazles either.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Go, go, y'are beggers both, you are not worth</L>
+<L>That leather on your feete.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Away, away boy.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Page you do nothing but set patches on the soles of your iests.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>I'am glad I tryde your loue, which see I want not,</L>
+<L>So long as this is full.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>And so long as this.—so long as this.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L><HI>Spungius</HI> y'are a picke-pocket.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L><HI>Horcius</HI> thou hastnimb'd -. so long as, not so much money is left as will buy a louse.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Th'art a thiese, and thou lyest in that gut through which thy wine runs, if thou denyest it.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Thou lyest deeper then the bottome of mine en∣raged pocket, if thou affrontst it.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>No blowes, no bitter language, all your gold gone.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Can the diuell creepe into ones breeches?</L>
+</SP>
+<SP>
+<SPEAKER>Hir</SPEAKER>
+<L>Yes, if his hornes once get into the codpeece,</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Come, sigh not, I so little am in loue</L>
+<L>With that whose losse kils you, that see tis yours,</L>
+<L>All yours, deuide the heape in equall share,</L>
+<L>So you will goe along with me to prison,</L>
+<L>And in our mistresse sorrowes beare a part:</L>
+<L>Say, will you?</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Will we?</L>
+</SP>
+<SP>
+<PB REF="19"/>
+<SPEAKER>Spun.</SPEAKER>
+<L>If she were going to hanging, no gallowes should part vs.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Lets both be turnd into a rope of Onyons if we do</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>follow me then, repaire your bad deeds past,</L>
+<L>Happy are men when their best dayes are last,</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>True master <HI>Angele,</HI> pray sir leade the way.</L>
+<STAGE>exit Au</STAGE>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Let him leade that way, but follow thou me this way.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>I liue in a Iayle.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>A way and shift for our selues, sheele do wel enough there, for prisoners are more hungry after mutton, then Catchpoles after prisoners.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Let her starue then if a whole Iayle will not fill her belly.</L>
+<STAGE>Exeunt Finis Actus secundi.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus 3. Scenus 1.</HEAD>
+<SP>
+<STAGE>Enter <HI>Sapritius, Theophilus, Priest, Caliste, Christeta.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Sapritius.</SPEAKER>
+<L>SIcke to the death I feare.</L>
+</SP>
+<SP>
+<SPEAKER>Theophilus.</SPEAKER>
+<L>I meete your sorrow,</L>
+<L>With my true feeling of it.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>She's a Witch,</L>
+<L>A sorceresse <HI>Theophilus,</HI> my sonne</L>
+<L>Is charm'd by her enticing eyes, and like</L>
+<L>An image made of waxe, her beames of beauty</L>
+<L>Melt him to nothing; all my hopes in him.</L>
+<L>And all his gotten honours finde their graue</L>
+<L>In his strange dotage on her. Would when first</L>
+<L>He saw and lou'd her, that the earth had opend</L>
+<L>And swallowd both aliue.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>There's hope left yet.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Not any, though the Princesse were appeasd,</L>
+<L>All title in her loue surrenderd vp,</L>
+<L>Yet this coy Christian, is so transported</L>
+<L>With her religion, that vnlesse my sonne</L>
+<L>(But let him perish first) drinke the same potion</L>
+<L><PB REF="19"/>And be of her beleefe, sheele not vouchsafe</L>
+<L>To be his lawfull wife.</L>
+</SP>
+<SP>
+<SPEAKER>Priest</SPEAKER>
+<L>but once remou'd</L>
+<L>From her opinion, as I rest assur'd,</L>
+<L>The reason of these holy maydes will win her,</L>
+<L>Youle finde her tractable, to any thing</L>
+<L>For your content or his.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>If she refuse it,</L>
+<L>The Stygian dampes breeding infectious ayres,</L>
+<L>The Mandrakes shreekes, or Basiliks killing eye,</L>
+<L>The dreadfull lightning that does crush the bones</L>
+<L>And neuer singe the skin, shall not appeare</L>
+<L>Lesse fatall to her, then my zeale made hot</L>
+<L>With loue vnto my gods; I haue deferd it</L>
+<L>In hope to draw backe this Apostata,</L>
+<L>Which will be greater honour then her death</L>
+<L>Vnto her fathers faith, and to that end</L>
+<L>Haue brought my daughters hither.</L>
+</SP>
+<SP>
+<SPEAKER>Caliste.</SPEAKER>
+<L>And we doubt not</L>
+<L>To do what you desire.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Let her be sent for,</L>
+<L>Prosper in your good worke, and were I not</L>
+<L>To attend the Princesse, I would see and heare</L>
+<L>How you succeede.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>I am commanded to,</L>
+<L>Ile beare you company.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Giue them your Ring</L>
+<L>To leade her as in triumph if they win her</L>
+<L>Before her highnesse.</L>
+<STAGE>exit Sap.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Spare no promises,</L>
+<L>Perswasions, or threats I do coniure you,</L>
+<L>If you preuayle, 'tis the most glorious worke</L>
+<L>You euer vndertooke.</L>
+</SP>
+<SP>
+<STAGE>Enter <HI>Dorothea</HI> and <HI>Angelo.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Priest.</SPEAKER>
+<L>She comes.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>We leaue you.</L>
+<L>Be constant and be carefull.</L>
+<STAGE>exeunt Theo. Priest.</STAGE>
+</SP>
+<SP>
+<PB REF="20"/>
+<SPEAKER>Calaste.</SPEAKER>
+<L>We are sony</L>
+<L>To meete you vnder guard.</L>
+</SP>
+<SP>
+<SPEAKER>Dorothea.</SPEAKER>
+<L>But I more greeu'd</L>
+<L>You are at libertie, so well I loue you,</L>
+<L>That I could wish, for such a cause as mine</L>
+<L>You were my fellow prisoners: prethee <HI>Angels</HI></L>
+<L>Reach vs some chaires, please you sit?</L>
+</SP>
+<SP>
+<SPEAKER>Caliste.</SPEAKER>
+<L>We thanke you,</L>
+<L>Our visite is for loue, loue to your safetie.</L>
+</SP>
+<SP>
+<SPEAKER>Christ.</SPEAKER>
+<L>Our conference must be priuate, pray you therefore</L>
+<L>Command your boy to leaue vs.</L>
+</SP>
+<SP>
+<SPEAKER>Dorothea.</SPEAKER>
+<L>You may trust him</L>
+<L>With any secret that concernes my life,</L>
+<L>Falshood and he are strangers, had you Ladies</L>
+<L>Bene blest with such a seruant, you had neuer</L>
+<L>Forsooke that way (your iourney euen halfe ended)</L>
+<L>That leade to ioyes eternall. In the place</L>
+<L>Of loose lasciuious mirth, he would haue stird you</L>
+<L>To holy meditations, and so farre</L>
+<L>He is from flattery, that he would haue told you,</L>
+<L>Your pride being at the height, how miserable</L>
+<L>And wretched things you were, that for an howre</L>
+<L>Of pleasure here, haue made a desperate sale</L>
+<L>Of all your right in happinesse hereafter.</L>
+<L>He must not leaue me, without him I fall,</L>
+<L>In this life he is my seruant, in the other</L>
+<L>A wished companion</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>Tis not in the diuell,</L>
+<L>Nor all his wicked arts to shake such goodnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>But you were speaking Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Caliste.</SPEAKER>
+<L>As a friend</L>
+<L>And louer of your safety, and I pray you</L>
+<L>So to receiue it; and if you remember</L>
+<L>How neere in loue our parents were, that we</L>
+<L>En'n from the cradle were brought vp together.</L>
+<L>Our amitie encreasing with our yeeres,</L>
+<L>We cannot stand suspected.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>To the purpose.</L>
+</SP>
+<SP>
+<PB REF="20"/>
+<SPEAKER>Cal.</SPEAKER>
+<L>We come then as good Angels <HI>Dorothea,</HI></L>
+<L>To make you happy, and the meanes so easie,</L>
+<L>That be not you an enemy to your selfe,</L>
+<L>Already you enioy it.</L>
+</SP>
+<SP>
+<SPEAKER>Christeta.</SPEAKER>
+<L>Looke on vs</L>
+<L>Ruin'd as you are once, and brought vnto it</L>
+<L>By your perswasion.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>But what follow'd Lady,</L>
+<L>Leauing those blessings which our gods giues freely,</L>
+<L>And showr'd vpon vs with a prodigall hand,</L>
+<L>As to be noble borne, youth, beauty, wealth,</L>
+<L>And the free vse of these without controule,</L>
+<L>Checke, curbe, or stop, (such is our Lawes indulgence)</L>
+<L>All happinesse forsooke vs, bonds and fetters</L>
+<L>For amorous Twins, the Racke and Hangmans whips</L>
+<L>In place of choise delights, our Parents curses</L>
+<L>Instead of blessings, scorne neglect, contempt</L>
+<L>Fell thick vpon vs.</L>
+</SP>
+<SP>
+<SPEAKER>Chris.</SPEAKER>
+<L>This consider'd wisely,</L>
+<L>We made a faire retreate, and reconcil'd</L>
+<L>To our forsaken gods, we liue againe</L>
+<L>In all prosperity.</L>
+</SP>
+<SP>
+<SPEAKER>Caliste.</SPEAKER>
+<L>By our example</L>
+<L>Bequeathing misery to such as loue it,</L>
+<L>Learne to be happy, the Christian yokes too heauy</L>
+<L>For such a dainty necke, it was fram'd rather</L>
+<L>To be the shrine of <HI>Venus,</HI> or a Pillar</L>
+<L>More precious then Christall to support</L>
+<L>Our <HI>Cupids</HI> Image, our Religion Lady</L>
+<L>Is but a varied pleasure, yours a toyle</L>
+<L>Slaues would shrinke vnder.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>Haue you not clouen feetel are you not diuels?</L>
+<L>Dare any say so much, or dare I heare it</L>
+<L>Without a vertuous and religious anger?</L>
+<L>Now to put on a Virgin modesty,</L>
+<L>Or maiden silence, when his power is question'd</L>
+<L>That is omnipotent, were a greater crime,</L>
+<L>Then in a bad cause to be impudent.</L>
+<L><PB REF="21"/>Your Gods, your temples, brothell houses rather,</L>
+<L>Or wicked actions of the worst of men</L>
+<L>Pursu'd and practis'd, your religious rites,</L>
+<L>O call them rather iugling mysteries,</L>
+<L>The baytes and nets of hell, your soules the prey</L>
+<L>For which the Diuell angles, your false pleasures</L>
+<L>A steepe descent by which you headlong fall</L>
+<L>Into eternall torments.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Doe not tempt</L>
+<L>Our powerfull gods.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Which of your powerfull gods,</L>
+<L>Your gold, your siluer, brasse, or woodden ones?</L>
+<L>That can, nor do me hurt, nor protect you,</L>
+<L>Most pittied women, will you sacrifice</L>
+<L>To such, or call them gods or goddesses,</L>
+<L>Your Parents would disdaine to be the same,</L>
+<L>Or you your selues? O blinded ignorance,</L>
+<L>Tell me <HI>Caliste</HI> by the truth I charge you,</L>
+<L>Or any thing you hold more deere, would you</L>
+<L>To haue him deifide to posterity,</L>
+<L>Desire your father an Adulterer,</L>
+<L>A Rauisher, almost a Paracide,</L>
+<L>A vile incestuous wretch?</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>That pitty</L>
+<L>And duty answere for me.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Or you <HI>Christeta,</HI></L>
+<L>To be heereafter registred a goddesse,</L>
+<L>Giue your chast body vp to the embraces</L>
+<L>Of Goatish lust, haue it writ on your forehead,</L>
+<L>This is the common Whoore, the prostitute,</L>
+<L>The Mistresse in the art of wantonnesse,</L>
+<L>Knowes euery tricke and labyrinth of desires</L>
+<L>That are immodest.</L>
+</SP>
+<SP>
+<SPEAKER>Criste.</SPEAKER>
+<L>You iudge better of me,</L>
+<L>Or my affection is ill plac'd on you,</L>
+<L>Shall I turne Strumpet?</L>
+</SP>
+<SP>
+<SPEAKER>Dor,</SPEAKER>
+<L>No, I thinke you would not,</L>
+<L>Yet <HI>Venus</HI> whom you worship was a whore,</L>
+<L><PB REF="21"/><HI>Flora</HI> the Foundresse of the publike Stewes,</L>
+<L>And has for that her sacrifice: your great god,</L>
+<L>Your <HI>Iupiter,</HI> a loose adulterer,</L>
+<L>Incestuous with his sister, reade but those</L>
+<L>That haue canoniz'd them, youle find them worse</L>
+<L>Then in chast language I can speakes them to you,</L>
+<L>Are they immortall then that did partake</L>
+<L>Of humane weakenesse, and had ample share</L>
+<L>In mens most base affections? subiect to</L>
+<L>Vnchast loues, anger, bondage, wounds, as men are.</L>
+<L>Her <HI>Iupiter</HI> to serue his lust turn'd Bull.</L>
+<L>The ship indeede in which he stole <HI>Europa.</HI></L>
+<L><HI>Neptune</HI> for gaine builds vp the walls of <HI>Troy</HI></L>
+<L>As a day-labourer, <HI>Apollo</HI> keepes</L>
+<L><HI>Admetus</HI> sheepe for bread; the <HI>Le<GAP DESC="illegible" REASON="blotted" EXTENT="3 letters" DISP="•••"/></HI> Smith</L>
+<L>Sweats at the Forge, for hire; <HI>Lyometheus</HI> heere</L>
+<L>With his still growing Liuer feedes the Vulture;</L>
+<L><HI>Saturne</HI> bound fast in hell with adamant chaines;</L>
+<L>And thousands more, on whom abused error</L>
+<L>Bestowes a diety, will you then deere Sisters,</L>
+<L>For I would haue you such, pay your Deuotions</L>
+<L>To things of lesse power then your selues?</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>We worship</L>
+<L>Their good deedes in their Images.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>By whom fashion'd,</L>
+<L>By sinfull men? Ile tell you a short tale,</L>
+<L>Nor can you but confesse it was a true one.</L>
+<L>A King of AEgypt being to errect</L>
+<L>The Image of <HI>Osiris,</HI> whom they honour,</L>
+<L>Tooke from the Matrons necks the richest Iewels</L>
+<L>And purest gold, as the materialls</L>
+<L>To finish vp his worke; which perfected,</L>
+<L>With all solemnity he set it vp</L>
+<L>To be ador'd, and seru'd himselfe his Idoll;</L>
+<L>Desiring it to giue him victory</L>
+<L>Against his enemies, but being ouerthrowne,</L>
+<L>Enrag'd against his god (these are fine gods</L>
+<L>Subiect to humane fury) he tooke downe</L>
+<L><PB REF="22"/>The sencelesse thing, and melting it againe,</L>
+<L>He made a Basing, in which Eunuches wash'd</L>
+<L>His Concubines feete, and for this sor did vse</L>
+<L>Some moneths it seru'd: his mistresse proouing false,</L>
+<L>As most indeede do so, and grace concluded,</L>
+<L>Betweene him and the Priests, of the same Basing</L>
+<L>He made his god againe, thinke, thinke of this,</L>
+<L>And then consider, if all worldly honors</L>
+<L>Or pleasures that do leaue sharpe stings behind them,</L>
+<L>Haue power to win such as haue reasonable soules,</L>
+<L>To put their trust in drosse.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Oh that I had beene borne</L>
+<L>Without a father.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Piety to him</L>
+<L>Hath ruin'd vs for euer.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Thinke not so,</L>
+<L>You may repaire all yet, the Attribute</L>
+<L>That speakes his Godhead most, is mercifull,</L>
+<L>Reuenge is proper to the Fiends you worship,</L>
+<L>Yet cannot strike without his leaue, you weepe,</L>
+<L>Oh tis a heauenly showre, celestiall balme</L>
+<L>To cure your wounded conscience, let it fall,</L>
+<L>Fall thick vpon it, and when that is spent,</L>
+<L>Ile helpe it with another of my teares.</L>
+<L>And may your true repentance proue the child</L>
+<L>Of my true sorrow, neuer mother had</L>
+<L>A birth so happy.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>We are caught our selues</L>
+<L>That came to take you, and assur'd of conquest</L>
+<L>We are your Captiues.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>And in that you triumph,</L>
+<L>Your victory had beene eternall losse,</L>
+<L>And this your losse immortall gaine, fixe heere,</L>
+<L>And you shall feele your selues inwardly arm'd</L>
+<L>Gainst tortures, death, and hell, but take heede sisters,</L>
+<L>That or through weakenesse, threats, or mild perswasions</L>
+<L>Though of a father, you fall not into</L>
+<L>A second and a worse Apostacie.</L>
+</SP>
+<SP>
+<PB REF="22"/>
+<SPEAKER>Cal.</SPEAKER>
+<L>Neuer, oh neuer, steel'd by your example,</L>
+<L>We dare the worst of tyrranny.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Heer's our warrant,</L>
+<L>You shall along and witnesse it.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L><HI>Be</HI> confirm'd then</L>
+<L>And rest assur'd, the more you suffer heere,</L>
+<L>The more your glory, you to heauen more deere.</L>
+<STAGE>excunt.</STAGE>
+</SP>
+<SP>
+<STAGE>Enter Artemia, Sapritius, Theophilus, Harpax.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L><HI>Sapritius</HI> though your sonne deserue no pitty,</L>
+<L>We grieue his sicknesse, his contempt of vs</L>
+<L>We cast behinde vs, aud looke backe vpon</L>
+<L>His seruice done to <HI>Caesar,</HI> that weighs downe</L>
+<L>Our iust displeasure, if his malady</L>
+<L>Haue growth from his restraint, or that you thinke</L>
+<L>His liberty can cure him, let him haue it,</L>
+<L>Say we forgiue him freely.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Your grace hindeys</L>
+<L>Euer your humblest Vassals.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Vse all meanes</L>
+<L>For his recouery, though yet I loue him,</L>
+<L>I will not force affection, if the Christian</L>
+<L>Whose beauty hath out-riuald mine, be wonne</L>
+<L>To be of our beliefe, let him enioy her,</L>
+<L>That all may know when the cause wills, I can</L>
+<L>Command my owne desires.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Be happy then,</L>
+<L>My Lord <HI>Sapritius,</HI> I am confident</L>
+<L>Such eloquence and sweete perswasion dwels</L>
+<L>Vpon my Daughters tongues, that they will worke her</L>
+<L>To any thing they please.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>I wish they may,</L>
+<L>Yet tis no easie taske to vndertake,</L>
+<L>To altar a peruerse and obstinate woman. <STAGE>a shout within, loud Musicke.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>What meanes this shout.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Tis seconded with Musicke,</L>
+<L>Triumphint musicke, ha.</L>
+<STAGE>Enter Sempromus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Semp.</SPEAKER>
+<L>My Lord your Daughters</L>
+<L><PB REF="23"/>The pillars of our faith hauing conuerted,</L>
+<L>For so report giues out: the Christian Lady,</L>
+<L>The Image of great <HI>Iupiter</HI> borne before them</L>
+<L>Sue for accesse.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>My soule diuin'd as much,</L>
+<L>Blest be the time when first they saw this light,</L>
+<L>Their Mother when she bore them to support</L>
+<L>My feeble age, fild not my longing heart</L>
+<L>With so much ioy, as they in this good worke</L>
+<L>Haue throwne vpon me.</L>
+<STAGE>Enter Priest with the Image of Iupiter, Iucense and Consors, followed by Caliste, and Christeta, leading Dorothea,</STAGE>
+<L>Welcome, oh thrice welcome</L>
+<L>Daughters, both of my body and my mind,</L>
+<L>Let me embrace in you my blisse, my comfort,</L>
+<L>And <HI>Dorothea</HI> now more welcome too,</L>
+<L>Then if you neuer had falne off, I am rauish't</L>
+<L>With the excesse of ioy, speake happy daughters</L>
+<L>The blest euent.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>We neuer gain'd so much</L>
+<L>By any vndertaking.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Oh my deare Girle,</L>
+<L>Our gods reward thee.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Nor was euer time</L>
+<L>On my part better spent.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>We are all now</L>
+<L>Of one opinion.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>My best Christeta,</L>
+<L>Madame if euer you did grace to worth,</L>
+<L>Vouchsafe your Princely hands.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Most willingly:</L>
+<L>Doe you refuse it?</L>
+<L>Let vs first deserue it:</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>My owne child still, heere set our god, prepare</L>
+<L>The Incense quickly, come faire <HI>Dorothea,</HI></L>
+<L>I will my selfe support you, now kneele downe</L>
+<L><PB REF="23"/>And pay your vowes to <HI>Iupiter,</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I shall doe it</L>
+<L>Better by their example.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>They shall guide you,</L>
+<L>They are familiar with the sacrifice,</L>
+<L>Forward my Twinnes of comfort, and to teach her</L>
+<L>Make a ioynt ossring.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Thus. Cal. And thus. <STAGE>They both spit at the Image, throw it downe, and spurne it.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Profane</L>
+<L>And impious, stand you now like a Statue?</L>
+<L>Are you the Champion of the Gods? where is</L>
+<L>Your holy zeale, your anger?</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>I am blasted,</L>
+<L>And as my feete were rooted heere, I finde</L>
+<L>I haue no motion, I would I had no sight too,</L>
+<L>Or if my eyes can serue to any vse,</L>
+<L>Giue me thou iniut'd power a sea of teares,</L>
+<L>To expiate this madnesse in my Daughters:</L>
+<L>For being themselues, they would haue trembled at</L>
+<L>So blasphemous a deede in any other,</L>
+<L>For my sake hold a while thy dreadfull thunder,</L>
+<L>And giue me patience to demand a reason</L>
+<L>For this accursed act.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>T was brauely done.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Peace damn'd Enchantres peace, I should looke on you</L>
+<L>With eyes made red with fury, and my hand</L>
+<L>That shakes with rage should much outstrip my tongue,</L>
+<L>And seale my vengeance on your hearts, but nature</L>
+<L>To you that haue falne once, bids meagaine</L>
+<L>To be a father, O how durst you tempt</L>
+<L>The anger of great <HI>Ioue</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>A lacke poore <HI>Ioue,</HI></L>
+<L>He is no Swaggerer, how smug he stands,</L>
+<L>Heele take a kick, or any thing.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Stop her mouth.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>It is the ancientst godling do not feare him,</L>
+<L>He would not hurt the thiese that stole away</L>
+<L>Two of his golden locks, indeede he could not,</L>
+<L><PB REF="24"/>And still tis the same quiet thing.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Blasphemer.</L>
+<L>Ingenious cruelty shall punish this,</L>
+<L>Thou art past hope, but for you yet deare daughters,</L>
+<L>Againe be witcht, the dew of mild forgiuenesse</L>
+<L>May gently fall, prouided you deserue it</L>
+<L>With true contrition, be your selues againe,</L>
+<L>Sue to the offended diety.</L>
+</SP>
+<SP>
+<SPEAKER>Chi.</SPEAKER>
+<L>Not to be</L>
+<L>The Mistresse of the earth.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>I will not offer</L>
+<L>A graine of Incense to it, much lesse kneele,</L>
+<L>Not looke on it but with contempt and scorne,</L>
+<L>To haue a thousand yeeres confer'd vpon me</L>
+<L>Of worldly blessings, we professe our selues</L>
+<L>To be like <HI>Dorothea,</HI> Christians,</L>
+<L>And owe hee for that happinesse.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>My eares</L>
+<L>Receiue in hearing this, all deadly charmes</L>
+<L>Powerfull to make man wretched.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Are these they</L>
+<L>You brag'd could conuert others?</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>That want strength</L>
+<L>To stand themselues?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Your Honour is ingag'd,</L>
+<L>The credit of our cause depends vpon it,</L>
+<L>Something you must doe suddenly,</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>And I will.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>They merit death, but falling by your hand,</L>
+<L>It will be recorded for a iust reuenge</L>
+<L>And holy fury in you.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Doe not blow,</L>
+<L>The Furnace of a wrath thrice hot already,</L>
+<L>AEtna is in my brest, wild fire burnes heere,</L>
+<L>Which onely bloud must quench: incensed power,</L>
+<L>Which from my infancy I haue ador'd,</L>
+<L>Looke downe with fauourable beames vpon</L>
+<L>The Sacrifice (though not allow'd thy Priest)</L>
+<L><PB REF="24"/>Which I will offer to thee, and be pleasde</L>
+<L>(My fierie zeale incidng me to act it)</L>
+<L>To call that iustice, others may stile murther.</L>
+<L>Come you accursd, thus by the haire I drag you</L>
+<L>Before this holy altar; thus looke on you</L>
+<L>Lesse pittifull then Tigres to their prey.</L>
+<L>And thus with mine owne hand I take that life</L>
+<L>Which I gaue to you. <STAGE>kils them.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>O most cruell Butcher.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>My anger ends not here, hels dreadfull porter</L>
+<L>Receiue into thy euer open gates</L>
+<L>Their damned soules, and let the futies whips</L>
+<L>On them alone be wasted: and when death</L>
+<L>Closes these eyes, twill be <HI>Elizium</HI> to me,</L>
+<L>To heare their shreekes and howlings, make me <HI>Pluto</HI></L>
+<L>Thy instruments to furnish thee with soules</L>
+<L>Of this accursed fect, nor let me fall</L>
+<L>Till my fell vengeance hath consum'd them all.</L>
+<STAGE>exit with Harpax hugging him.</STAGE>
+</SP>
+<SP>
+<STAGE>Enter Artemia laughing.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>Tis a braue zeale.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>O call him backe againe,</L>
+<L>Call backe your hangman, here's on prisoner left</L>
+<L>To be the subiect of his knife.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>Not so.</L>
+<L>We are not so neere reconcilde vnto thee,</L>
+<L>Thou shalt not perish such an easie way.</L>
+<L>Be she your charge <HI>Sapritius</HI> now, and suffer</L>
+<L>None to come neere her till we haue found out</L>
+<L>Some torments worthy of her.</L>
+</SP>
+<SP>
+<SPEAKER>Ano.</SPEAKER>
+<L>Courage Mistresse,</L>
+<L>These Martyrs but prepare your glorious fate,</L>
+<L>You shall exceed them and not imitate.</L>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<STAGE>Enter <HI>Spungius</HI> and <HI>Hircius</HI> ragged at seuerall doores.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L><HI>Spunoius.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>My fine rogue, how ist? how goes this totterd world</L>
+</SP>
+<SP>
+<PB REF="25"/>
+<SPEAKER>Hir.</SPEAKER>
+<L>Hast any money?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Money! no, the Tauerne. Iuy clings about my mony and kils it. Hast thou any mony?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>No, my mony is a mad Bull, and finding any gap opend, away it runs.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>I see then a Tauerne and a Bawdy-house haue fa∣ces much like, the one has red grates next dore, the tother has peeping holes within doores; the Tauerne hath euer∣more a bush, the bawdy close sometimes neither hedge nor bush. From a Tauerne a man comes reeling, from a bawdy house not able to stand. In the Tauerne you are cousend with paltry Wine, in a bawdy-house by a painted Where, Money may haue Wine, and a Whore will haue Mony, but neither can you cry, Drawer you Rogue, or keepe doore rotten Bawde, without a siluer 'Whistle, wee are iustly plagued therefore for running from our Mi∣stresse.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Thou didst, I did not; yet I had run to, but that one gaue me turpentine pilles, &amp; that stayde my running.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Well: the thred of my life is drawne through the needle of necessity, whose eye looking vpon my lowsie breeches, cryes out it cannot mend'em: which so prickes the linings of my body, and those are Heart, Lights, Lungs, Guts, and Midriffe, that I beg on my knees to haue <HI>Atro∣pos</HI> (the Tailer to the destinies) to take her sheares and cut my thred in two, or to heate the Iron goose of Mortalitie, and so presse me to death.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Sure thy father was some botcher, and thy hungry tongue bit off these shreds of complaints, to patch vp the elbowes of thy nittie cloquence.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>And what was thy father?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>A low minded Cobler, a Cobler whose zeale set many a woman vpright, the remembrance of whose Awle I now hauing nothing, thrusts such scuruy stitches into my soule, that the heele of my happines has gone awry.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Pitty that ere thou trodst thy shooe awry.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Long I cannot last, for all sowterly waxe of comfort melting away, and misery taking the length of my foote, it
+<PB REF="25"/>
+bootes not me to sue for life when all my hopes are seame. rent, and go wetshod.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>This shews th'at ta Coblers son by going through stirch: O <HI>Hircius</HI> wud thou &amp; I were so happy to be coblers</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>So would I, for both of vs being now wearie of our liues, should then be sure of shoomakers ends.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>I see the beginning of my ende for I am almost staru'd.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>So am not I, but I am more then famishd.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>All the members of my bodie are in rebellion one against another.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>So are mine, and nothing but a cooke being a constable can appease them, presenting to my nose, instead of his painted staffe, a spitfull of rost-meate.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>But in this rebellion, what vprores do they make, my belly cries to my mouth, why dost not gape &amp; feed me</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>And my mouth sets out a throate to my hand why dost not thou lift vp meate and cramme my choppes with it.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Then my hand hath a fling at mine eyes, be∣cause they looke not out and sharke for victuals.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Which mine eyes seeing, full of teares, crie alowd, and curse my feet for not ambling vp and downe to feede Colon, sithence if good meate be in any place, tis knowne my feet can smell.</P>
+</SP>
+<SP>
+<SPEAKER>Spu.</SPEAKER>
+<P>But then my feet like lazie rogues lie still, and had ra∣ther do nothing, then run to and fro, to purchase anything</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Why mong so many millions of people, should thou and I onely bee miserable totterdemalions, rag-a∣muffins, and lowsie desperates.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Thou art a meere <HI>I am-an-o, I am-an-as,</HI> consider the whole world, and tis as we are.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Lowsie, beggerly, thou whorson <HI>Assa Faetida.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Worse, al tottrings, al out of frame, thou <HI>Fooliamini</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>As how <HI>arsnicke:</HI> come make the world smart.</L>
+</SP>
+<SP>
+<SPEAKER>Sp.</SPEAKER>
+<P>Old Honor goes on crutches, beggry rides caroched, honest men make feastes, knaues sit at tables, cowards are laptin veluet, souldiers (as wee) in ragges: Beautie turnes
+<PB REF="26"/>
+Whore; Whore Bawd; and both dye of the poxe: why then when all the world stumbles, should thou and I walke vp∣right?</P>
+<STAGE>Enter <HI>Angelo.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Stop, looke who's yonder.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Fellow <HI>Angelo!</HI> how does my little man? well.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Yes, and would you did so, where are your clothes?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Clothes! you see euery woman almost goe in her loose gowne, and why should not wee haue our clothes loose?</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Wud they were loose.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Why where are they?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Where many a veluet cloke I warrant at this houre keepes them company, they are pawnd to a Broker.</P>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Why pawnd, where's all the gold I left with you?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>The gold! we put that into a Scriueners hands, and he has cousend vs.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>And therefore I prethee <HI>Angelo,</HI> if thou hast ano∣ther purse, let it be confiscate, and brought to deuastation.</P>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Are you made all of lyes? I know which way</L>
+<L>Your gilt-wing'd peeces flew; I will no more</L>
+<L>Be mock'd by you: be sorry for your ryots,</L>
+<L>Tame your wilde flesh by labor, eate the bread</L>
+<L>Got with hard hands: let sorrow be your whip</L>
+<L>To draw drops of repentance from your heart,</L>
+<L>When I reade this amendment in your eyes,</L>
+<L>You shall not want, till then my pitty dies.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Ist not a shame that this scuruy <HI>Puerilis</HI> should giue vs lessons?</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>I haue dwelt thou knowst along time in the Sub∣vrbs of the conscience, and they are euer bawdy, but now my heart shall take a house within the walls of honesty.</P>
+<STAGE>Enter <HI>Harpax</HI> aloose.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>O you drawers of wine, draw me no more to the bar of Beggery; the sound of Score a pottle of sack, is worse then the noyse of a scolding oyster wench, or two Cats in∣corporating.</P>
+</SP>
+<SP>
+<SPEAKER>Harp.</SPEAKER>
+<L>This must not be, I doe not like when conscience</L>
+<L><PB REF="26"/>Thawes, keepe her frozen still: how now my masters?</L>
+<L>Deiected, drooping, drownd in teares, clothes torne,</L>
+<L>Leane, and ill colour'd, sighing! whats the whitlewinde</L>
+<L>Which raiseth all these mischiefes? I haue seene you</L>
+<L>Drawne better on't. O! but a spirit told me</L>
+<L>You both would come to this, when in you thrust</L>
+<L>Your selues into the seruice of that Lady,</L>
+<L>Who shortly now must die; where's now her praying</L>
+<L>What good get you by wearing your our feete,</L>
+<L>To run on scurny errands to the poore,</L>
+<L>And to beare money to a sort of rogues,</L>
+<L>And lowsie prisoners.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>A pox on'em, I neuer prosperd since I did it.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Had I bin a Pagan stil, I could not haue spit white for want of drinke, but come to any Vintner now and bid him trust me, because I turnd Christian, and he cries puh,</P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Y'are righly seru'd; before that peeuish Lady</L>
+<L>Had to doe with you, weomen, wine, and money</L>
+<L>Flow'd in aboundance with you, did it not?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Oh! those dayes, those dayes.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Beat not your breasts, teare not your haire in madnes</L>
+<L>Those dayes shall come agen be rulde by me,</L>
+<L>And better (marke me) better.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>I haue seen you sir as I take it, an attendant on the Lord <HI>Theophilus.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Yes, yes, in shew his seruant, but harke hither.</L>
+<L>Take heed no body listens.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Not a Mouse stirres.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>I am a Prince disguisde.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Disguisde! how! drunke,</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Yes my fine boye, Ile drinke to, and be drunke,</L>
+<L>I am a Prince, and anyaman by me</L>
+<L>(Let him but keepe my rules) shall soone grow rich,</L>
+<L>Exceeding rich, most infinitely rich,</L>
+<L>He that shall serue me, is not staru'd from pleasures</L>
+<L>As other poore knaues are; no, take their fill,</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>But that sir, we are so ragged...</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Youle say, you'd serue me.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Before any master vnder the Zodiake.</L>
+</SP>
+<SP>
+<PB REF="27"/>
+<SPEAKER>Harp.</SPEAKER>
+<L>For clothes no matter; I haue a mind to both.</L>
+<L>And one thing I like in you, now that you see</L>
+<L>The bonefire of your Ladyes state burnt out,</L>
+<L>You giue it ouer, do you not?</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Let her be hangd.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>And poxd.</L>
+</SP>
+<SP>
+<SPEAKER>Harp</SPEAKER>
+<L>Why now y'are mine.</L>
+<L>Come let my hosome touch you.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>We haue bugges Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Ther's mony, fetch your cloths home, theres for you</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Auoid Vermine: giue ouer our mistresse! a man can∣not prosper worse if he serue the diuell.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>How? the diuell! Ile tell you what now of the diuell,</L>
+<L>He's no such horrid creature, clouen footed,</L>
+<L>Blacke, saucer-eyde, his nostrils breathing fire,</L>
+<L>As these lying Christians make him.</L>
+</SP>
+<SP>
+<SPEAKER>Both</SPEAKER>
+<L>No!</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>He's more louing,</L>
+<L>To man, then man to man is.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Is hee so! wud wee two might come acquainted with him.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<P>You shall: he's a wondrous good fellow, loues a cup of wine, a whore, any thing, you haue mony, its ten to one but Ile bring him to some Tauerne to you or other.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Ile be speake the best roome ith; house for him.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Some people he cannot ondure.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Weele giue him no such cause.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>He hates a ciuill Lawyer, as a souldier does peace?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>How a commoner?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Loues him from the teeth outward.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Pray my Lord and Prince, let me encounter you with one foolish question: does the diuell eate any Mace in's broth?</P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<P>Exceeding much, when his burning feauer takes him, and then hee has the knuckles of a Bailiffe boyld to his breakefast.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Then my Lord, he loues a Gatchpole does he not? <HI>Har.</HI> As a Bearward does a dog, a Gatchpole! he has sworn if euer he dies, to make a Serieant his heire, and a Yoeman his euerseer.</P>
+</SP>
+<SP>
+<PB REF="27"/>
+<SPEAKER>Spun.</SPEAKER>
+<L>How if he come to any great mans gate, will the Porter let him come in sit?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Oh, hee loues Porters of great mens gates, because they are euer so neere the wicket.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Doe not they whom he makes much on, for all his stroking their cheekes, leade hellish liues vnder him.</P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<P>No, no, no, no, he will be damn before he hurts a∣ny man. Doe but you (when y'are throughly acquainted with him) aske for any thing, see if it does not come.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Anything!</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Call for a delicate race whore; she's brought you.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Oh my elbow itches: will the diuel keepe the dore?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Be drunke as a begger, he helps you home.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>O my fine diuell! some watchman I warrant, I wonder who's his constable.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Will you sweare, roare, swagger? he claps you.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>How! ath' chops.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>No, ath' shoulder, and cries O my braue boy.</L>
+<L>Will any of you kill a man?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Yes, yes, I, I.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Whats his word, hang, hang, tis nothing.</L>
+<L>Or stab a woman.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Yes, yes, I, I.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Here's the worst word he giues you, a pox on't goe on.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>O inueaglingrascall, I am rauishd.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Go get your clothes, turne vp your glasse of youth,</L>
+<L>And let the sands run merily, nor do I care</L>
+<L>From what a lauish hand your money flies,</L>
+<L>So you giue none away, feed beggers.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Hang 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>And to the scrubbing poore.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Ile see 'em hangd first.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>One seruice you must do me.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Anything.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Your Mistresse <HI>Dorothea,</HI> ere she suffers,</L>
+<L>Is to be put to tortures, haue you hearts</L>
+<L>To teare her into shreekes, to fetch her soule</L>
+<L><PB REF="28"/>Vp in the Pangs of death, yet not to die.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Suppose this shee, and that I had no hands, heere's my teeth.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Suppose this she, and that I had no teeth, heere's my nailes.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>But will not you be there sir.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>No, not for hils of diamonds, the grand Master</L>
+<L>Who schooles her in the Christian discipline,</L>
+<L>Abhorres my company; should I be there,</L>
+<L>You'd thinke all hell broke loose, we shall so quarrell.</L>
+<L>Plie you this businesse; he, her flesh who spares</L>
+<L>Is lost, and in my loue neuer more shares.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Here's a Master you rogue.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Sure lie cannot chuse but haue a horrible number of seruants.</L>
+<STAGE>exeunt</STAGE>
+</SP>
+<TRAILER>Finis Actus tertis.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus 4. Scena 1.</HEAD>
+<SP>
+<STAGE>A bed thrust out, <HI>Antioninus</HI> vpon it sicks, with Physitions about him, <HI>Sapritius</HI> and <HI>Macrinus.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>O You that are halfe gods, lengthen that life</L>
+<L>Their dieties lend vs, turne ore all the volumes</L>
+<L>Of your mysterious <HI>AEsculapian</HI> science</L>
+<L>T'encrease the number of this yong mans dayes,</L>
+<L>And for each minute of his time prolong'd,</L>
+<L>Your fee shall be a peece of Romane gold</L>
+<L>With <HI>Caesars</HI> stampe, such as he sends his Captaines</L>
+<L>When in the warres they earne well: do but saue him,</L>
+<L>And as he is halfe my selfe, be you all mine.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>What art can do, we promise: phisickes hand</L>
+<L>As apt is to destroy, as to preserue,</L>
+<L>If heauen make not the medicine; all this while</L>
+<L>Our skill hath combat held with his disease,</L>
+<L>But tis so armd, and a deepe melancholy</L>
+<L>To be such in part with death, we are in feare</L>
+<L><PB REF="28"/>The graue must mocke our labours.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I haue beene</L>
+<L>His keeper in this sicknesse, with such eyes</L>
+<L>As I haue seene my mother watch ore me,</L>
+<L>And from that obseruation sure I finde,</L>
+<L>It is a Mid wife must deliuer him.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Is he with child, a Mid wife:</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Yes, With child,</L>
+<L>And will I feare lose life if by a woman</L>
+<L>He is not brought to bed: stand by his Pillow</L>
+<L>Some little while and in his broken slumbers</L>
+<L>Him shall you heare cry out on <HI>Dorothea,</HI></L>
+<L>And when his armes flye open to catch her,</L>
+<L>Closing together, he falls fast asleepe,</L>
+<L>Pleas'd with embracings of her airy forme;</L>
+<L>Physicians but torment him, his disease</L>
+<L>Laughs at their gibrish language, let him heare</L>
+<L>The voyce of <HI>Dorothea,</HI> nay but the name,</L>
+<L>He starts vp with high colour in his face,</L>
+<L>Shee or none cures him, and how that can be,</L>
+<L>(The Princesse strick't command, barring that happines)</L>
+<L>To me impossible seemes.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>To me it shall not.</L>
+<L>Ile be no subiect to the greatest <HI>Caesar</HI></L>
+<L>Was euer crown'd with Lawrell, rather then cease</L>
+<L>To be a father.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Silence sit, he wakes.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Thou kilst me <HI>Dorothea,</HI> oh <HI>Dorothea.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Shees heere; I enioy her.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Where, Why doe you mooke me,</L>
+<L>Age on my head hath stuck no white haires yet,</L>
+<L>Yet I'me an old man, a fond doting foole</L>
+<L>Vpon a woman, I to buy her beauty,</L>
+<L>(Truth I am bewitched) offer my life,</L>
+<L>And she for my acquaintance hazirds hers,</L>
+<L>Yet for our equall suffrings, none holds out</L>
+<L>A hand of pitty.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>Let him haue some Musicke.</L>
+</SP>
+<SP>
+<PB REF="29"/>
+<SPEAKER>Ant.</SPEAKER>
+<L>Hell on your fidling.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>Take againe your bed Sir,</L>
+<L>Sleepe is a soueraigne Physicke.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Take an Asses head Sir,</L>
+<L>Confusion on your fooleries, your charmes,</L>
+<L>Thou stinking Glister-pipe, where's the god of rest,</L>
+<L>Thy Pills, and base Apothecary drugges</L>
+<L>Threatned to bring vnto me, out you Impostors,</L>
+<L>Quacksaluing, cheating Mountbankes, your skill</L>
+<L>Is to make sound men sicke, and sicke men kill.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>O be your selfe deare friend.</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<L>My selfe <HI>Macrunis</HI></L>
+<L>How can I be my selfe, when I am mangled</L>
+<L>Into a thousand peeces, heere moues my head,</L>
+<L>But wheres my heart? where euer, that lies dead.</L>
+</SP>
+<SP>
+<STAGE>Enter Sapritius dragging in Dorothea by the Haire, Angelo attending.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Follow me thou damn'd Sorcores, call vp thy spirits,</L>
+<L>'And if they can, now let 'em from my hand</L>
+<L>Vntwine these witching haires.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>I am that spirit,</L>
+<L>Or if I be not (were you not my father)</L>
+<L>One made of Iron should how that hand in peeces</L>
+<L>That so defaees this sweete Monument</L>
+<L>Of my loues beauty?</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Art thou sioke?</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>To death.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Wouldst thou recouer?</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Would I liue in blisse?</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>And doe thine eyes shoote daggers at that man</L>
+<L>That brings thee health?</L>
+</SP>
+<SP>
+<SPEAKER>Aut.</SPEAKER>
+<L>It is not in the world?</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Ist heere?</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Oh Treasure, by enchantment lock'd</L>
+<L>In Caues as deepe as hell, am I as neere.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Breake that enchanted Caut, enter, and rifle</L>
+<L><PB REF="29"/>The spoyles thy lust hunts after, I deseend</L>
+<L>To a base office, and become thy Pandar</L>
+<L>In bringing thee this proud Thing, make her thy Whore,</L>
+<L>Thy health lies heere if she deny to giue it,</L>
+<L>Force it, imagine thou assaultst a towne,</L>
+<L>Weake wall, too't, tis thine owne, beat but this downe,</L>
+<L>Come, and vn seene, be witnesse to this battry,</L>
+<L>How the coy strumpet yeelds.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>Shall the boy stay sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>No matter for the boy,</L>
+<L>Pages are vs'd to these odde bawdy</L>
+<L>Shufflings, and indeede are those</L>
+<L>Little yong snakes in a Furies head</L>
+<L>Will sting worse then the great ones,</L>
+<L>Let the Pimpe stay.</L>
+<STAGE>exeunt aside.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Oh guard me Angels,</L>
+<L>What Tragedy must begin now?</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>When a Tyger</L>
+<L>Leapes into a tymerous heard, with rauenous Iawes</L>
+<L>Being hunger-staru'd, what Tragedy then begins?</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Death I am happy so, you hitherto</L>
+<L>Haue still had goodnes spard within your eyes,</L>
+<L>Let not that Orbe be broken.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Feare not Mistresse,</L>
+<L>If he dare offer violence, we two</L>
+<L>Are strong enough for such a sickly man.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>What is your horrid purpose sir, your eye</L>
+<L>Beares danger in it?</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>I must.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>What.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Speake it out.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Climbe that sweete Virgin tree.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Plague a your trees.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>And pluck that fruit which none I think euer tasted:</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>A souldier, and stand sumbling so.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>O Kill me, <STAGE>Kneeles.</STAGE></L>
+<L>And heauen will take it as a sacrifice,</L>
+<L>But it you play the Rauisher, there is</L>
+<L><PB REF="30"/>A Hell to swallow you.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Let her swallow thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Rise for the Romane Empire (<HI>Dorothea</HI>)</L>
+<L>I would not wound thine honour, pleasure forc'd</L>
+<L>Are vnripe Apples, sowre, not worth the plucking,</L>
+<L>Yet let me tell you, tis my fathers will,</L>
+<L>That I should seize vpon you as my prey.</L>
+<L>Which I abhorre as much as the blackest sinne</L>
+<L>The villany of man did euer act. <STAGE>Sapritius breakes in and Macrinus.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Dye happy for this language.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Dye a slaue,</L>
+<L>A blockish Ideot.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Deare sir, vexe him not.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Yes, and vexe thee too, both I thinke are geldings,</L>
+<L>Cold, Phlegmatike Bastard, th'art no brat of mine,</L>
+<L>One sparke of me, when I had heate like thine</L>
+<L>By this had made a Bonefire: a tempting whore</L>
+<L>(For whom th'art mad) thrust euen into thine armes,</L>
+<L>And standst thou puling? had a Taylor seene her</L>
+<L>Her at this aduantage, he with his crosse-capers</L>
+<L>Had rufled her by this, but thou shalt curse</L>
+<L>Thy dalliance, and heere before her eyes</L>
+<L>Teare thy flesh in peeces, when a slaue</L>
+<L>In hot lust bathes himselfe, and gluts those pleasures</L>
+<L>Thy nicenesse durst not touch, call out a slaue,</L>
+<L>You Captaine of our guard, fetch a slaue hither.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>What will you do deere Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Teach her a trade, which many would learne</L>
+<L>In lesse then halfe an houre, to play the Whore.</L>
+</SP>
+<SP>
+<STAGE>Enter a Slaue.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>A Slaue is to me, what now.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Thou hast bones and flesh</L>
+<L>Enough to ply thy labour, from what country</L>
+<L>Wert thou tane Prisoner, heere to be our slaue.</L>
+</SP>
+<SP>
+<SPEAKER>Slaue.</SPEAKER>
+<L>From Brittaine.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>In the west Ocean.</L>
+</SP>
+<SP>
+<PB REF="30"/>
+<SPEAKER>Sla.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>An Iland.</L>
+</SP>
+<SP>
+<SPEAKER>Sla.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>I am fitted, of all Nations</L>
+<L>Our Romane swords euer conquer'd, none comes neere</L>
+<L>The Brittaine for true whooring: sirrah fellow,</L>
+<L>What wouldst thou doe to gaine thy liberty?</L>
+</SP>
+<SP>
+<SPEAKER>Sla.</SPEAKER>
+<L>Doe! liberty! fight naked with a Lyon,</L>
+<L>Venture to plucke a Standard from the heart</L>
+<L>Of an arm'd Legion: liberty! Ide thus</L>
+<L>Bestride a Rampire, and defiance spit</L>
+<L>I'th face of death; then, when the battring Ram</L>
+<L>Were fetching his careere backward to pash</L>
+<L>Me with his hornes in peeces: to shake my chaines off,</L>
+<L>And that I could not doo't but by thy death,</L>
+<L>Stoodst thou on this dry shore, I on a rock</L>
+<L>Ten Piramids high, downe would I leape to kill thee,</L>
+<L>Or dye my selfe: what is for man to doe</L>
+<L>Ile venture on, to be no more a slaue.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Thou shalt then be no slaue, for I wil set thee</L>
+<L>Vpon a peece of worke is fit for man,</L>
+<L>Braue for a Brittaine, drag that Thing aside</L>
+<L>And rauish her.</L>
+</SP>
+<SP>
+<SPEAKER>Sla.</SPEAKER>
+<L>And rauish her! is this your manly seruice,</L>
+<L>A Diuell scornes to doo't, tis for a beast,</L>
+<L>A villaine, not a man, I am as yet</L>
+<L>But halfe a slaue, but when that worke is past,</L>
+<L>A damned whole one, a blacke vgly slaue,</L>
+<L>The slaue of all base slaues, doo't thy selfe Roman,</L>
+<L>Tis drudgery fit for thee.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Hees bewitch'd too,</L>
+<L>Binde him, and with a Bastinado giue him</L>
+<L>Vpon his naked belly 200. blowes.</L>
+</SP>
+<SP>
+<SPEAKER>Sla.</SPEAKER>
+<L>Thou art more slaue then I.</L>
+<STAGE>exit carried in.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>That power supernall on whom waites my soule,</L>
+<L>Is Captaine ore my chastity.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Good sir giue ore,</L>
+<L>The more you wrong her, your selfes vex'd the more,</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Plagues light on her and thee; thus downe I throw</L>
+<L><PB REF="31"/>Thy Harlot thus bi'th haire, naile her to earth,</L>
+<L>Call in ten slaues, let euery one discouer</L>
+<L>What lust desires, and surfet heere his fill,</L>
+<L>Call in ten flaues.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>They are come sir at your call.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>O oh. <STAGE>Falls downe.</STAGE></L>
+</SP>
+<SP>
+<STAGE>Enter Theophilus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Where is the Gouernour?</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>There's my wretched father.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>My Lord, <HI>Sapritius,</HI> hee's not dead, my Lord,</L>
+<L>That Witch there.</L>
+</SP>
+<SP>
+<SPEAKER>Aut.</SPEAKER>
+<L>T is no Romane gods can strike</L>
+<L>These fearefull terrors, O thou happy maid,</L>
+<L>Forgiue this wicked purpose of my father.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I doe.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Gone, gone, he's peppered: tis thou</L>
+<L>Hast done this act internall.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Heauen pardon you,</L>
+<L>And if my wrongs from thence pull vengeance downe</L>
+<L>(I can no myracles worke) yet from my soule</L>
+<L>Pray to those powers I serue, he may recouer.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>He slirres, helpe, raise him vp, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Where am I?</L>
+</SP>
+<SP>
+<SPEAKER>The</SPEAKER>
+<L>One cheeke is blasted.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Blasted! Wheres the <HI>Lamia</HI></L>
+<L>That teares my entrailes? I'me be witch'd, seize on her?</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I'me heere, do what you please.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Spurne her too'th barre.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Come boy, being there, more neere to heauen we are</L>
+</SP>
+<SP>
+<SPEAKER>Sap</SPEAKER>
+<L>Kicke harder, goe out witch.</L>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>O bloudy hangmen, thine own gods giue thee breth,</L>
+<L>Each of thy tortors is my seuerall death.</L>
+<STAGE>exit.</STAGE>
+<STAGE>Enter Harpax Hircius, and Spungius.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Doe you like my seruice now, say am not I</L>
+<L>A Master worth attendance.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Attendance, I had rather licke cleane the soles of
+<PB REF="31"/>
+your durty bootes, then weare the richest sute of any infec∣ted Lord, whose rotten life hangs betweene the 2 Poles.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>A Lords sute! I wud not giue vp the cloake of your seruice to meet the splay-foot estate of any leftey'd knight aboue the Antipodes, because they are vnlucky to meete.</P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>This day ile try your loues to me, tis onely</L>
+<L>But well to vse the agility of your armes,</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Or legs, I am losty at them.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Orany other member that has no legges.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Thou't runne into some hole.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>If I meet one that's more thē my match, &amp; that I can∣not stand in their hands, I must &amp; will creep on my knees.</P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Heere me my little teeme of villaines, heare me,</L>
+<L>I cannot teach you Fencing with these Cudgels,</L>
+<L>Yet you must vse them, lay them on but soundly,</L>
+<L>Thats all.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Nay if we come to malling once, puh,</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>But what Wall-nut tree is it we must beate.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Your Mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>How! my Mistresse! I begin to haue a Christians heart, made of sweet butter, I melt, I cannot strike a womā.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Not I, vnlesse she scratch, bum my mistresse!</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Y'are Coxecombes, silly Animals,</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Whats that?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Drones, Asses, blinded Moles, that dare not thrust</L>
+<L>Your armes out to catch Fortune, say you fall off,</L>
+<L>It must be done you are conuetted Rascalls,</L>
+<L>And that once spred abroad, why euery slaue</L>
+<L>Will kicke you, call you motley Christians,</L>
+<L>And halfe fac'd Christians.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>The guts of my conscience beginne to be of whit-leather,</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>I doubt me I shall haue no sweet buttet in me.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Deny this, and each Pagan whom you meete</L>
+<L>Shall forked fingers thrust into your eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>If we be Cuckolds.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Doe this, and euery god the Gentiles bow to,</L>
+<L>Shall adde a fadome to your line of yeeres.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>A hundred fadome, I desire no more.</L>
+</SP>
+<SP>
+<PB REF="32"/>
+<SPEAKER>Hir.</SPEAKER>
+<L>I desire but one inch longer,</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>The Senators will as you passe along</L>
+<L>Clap you vpon your shoulders with this hand,</L>
+<L>And with this hand glue you gold when you are dead,</L>
+<L>Happy that man shall be can get a nayle,</L>
+<L>The paring —, they the dort vnder the nayle</L>
+<L>Of any of you both, to say this durt</L>
+<L>Belong'd to <HI>Spungius</HI> or <HI>Hercius.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>They shall not want durt vnder my nayles, ile keepe'em long of purpose, for now my singers itch to bee at her.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>The first thing I doe Ile take her Ore the lips.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>And I the hips, we may strike any where.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Yes, any where.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>Then I know where ile hit her.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Prosper and be mine owne; stand by, I must not</L>
+<L>To see this done, great businesse calls me hence,</L>
+<L>Hee's made can make her eurse his violence.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Feare it not sir, her ribs shall be basted.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>He come vpon her with rounce, robble-hobble, and thwicke thwacke thirlety bouncing.</P>
+</SP>
+<SP>
+<STAGE>Enter Dorothea lead Prisoner, a Guard attending, a Hangman with Cords in some vgly shape, sets vp a Pillar in the middle of the stage, Sapritius and Theophilus sit, Angelo by her.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>According to our Romane customes, binde</L>
+<L>That Christian to a Pillar.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Insernall Furies,</L>
+<L>Could they into my hand thrust all their whips</L>
+<L>To teare thy flesh thy soule, tis not a torture</L>
+<L>Fit to the Vengeance, I should heape on thee,</L>
+<L>For wrongs done me: me! for flagitious facts</L>
+<L>By thee done to our gods, yet (so it stand</L>
+<L>To great <HI>Cesaraes</HI> Gouernors high pleasure)</L>
+<L>Bow but thy Knee to <HI>Iupiter</HI> and offer</L>
+<L>Any slight sacrifice, or doe but sweare</L>
+<L><PB REF="32"/>By <HI>Caesars</HI> fortune, and be free.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Thou shalt.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Not for all <HI>Casar</HI> fortune, were it chaind</L>
+<L>To more worlds, then are kingdomes in the world,</L>
+<L>And all those worlds drawne after him: I defie</L>
+<L>Your hangmen; you now shew me whither to flie.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Are hentormentors ready?</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Shrinke not deere mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>My Lord, we are ready for the businesse.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>You two! whom I like fosterd children fed,</L>
+<L>And lengthen'd out your starued life with bread:</L>
+<L>You be my hangman! whom when vp the ladder</L>
+<L>Death hald you to be strangled, I fetcht downe</L>
+<L>Clothd you, and warmd you, you two my tormentors.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Yes, use.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Diuine powers pardon you.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Strike. <STAGE>strike at her: <HI>Angelo</HI> knee∣ling holds her fast.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Beate out her braines—,</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Receive me you bright Angels.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Faster slaues.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Faster: I am out of breath I'am sure: if I were to beate a bucke, I can strike no harder.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>O mine armes, I cannot list'em to my head.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Ioy aboue ioys, are my tormentors wearie</L>
+<L>In torturing me, and in my suffrings</L>
+<L>I fainting in no linbe: <GAP DESC="illegible" REASON="blotted" EXTENT="4 letters" DISP="••••"/>anto strike home</L>
+<L>And feast your fury full.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>These dogs are ours. <STAGE>come from his seate.</STAGE></L>
+<L>Which snarle, yet bite not: see my Lord, her face</L>
+<L>Has more bewitching beauty then before,</L>
+<L>Prowd whore: it smiles, cannot an eye shart out</L>
+<L>With these.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>No sir, not the bridge of her nose fall, tis full of Iron worke.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Lets view the oudgols, are they not counterfeit.</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>There fixe thine eye still, thy glorious crown must come</L>
+<L>Not from soft pleasure, but by martyrdome,</L>
+<L>There fixe thine eye still, when we next do meet, </L>
+<L><PB REF="33"/>Not thornes, but roses shall beare vp thy feet:</L>
+<L>There fixe thine eye still.</L>
+<STAGE>exit.</STAGE>
+<STAGE>Enter <HI>Harpax</HI> sneaking.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Euer, euer, euer.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<P>Wee are mock'd, these bats haue power downe to fell gyants, yether skin is not fear'd.</P>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>What rogues are these.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Cannot these force a shreeke. <STAGE>beats them.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Oh! a woman has one of my ribs, and now fiue more are broken.</P>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Cannot this make her roare. <STAGE>beates tother he roares</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Sa.</SPEAKER>
+<L>Who hir'd these slaues? what are they?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>We serue that noble Gentleman there, he entisde vs to this dry-beating, oh for one halfe pot.</P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>My seruants! two base rogues, &amp; sometimes seruants</L>
+<L>To her and for that cause forbeare to hurt her.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Vnbinde her, hang vp these.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Hang the two hounds on the next tree.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>Hang vs! master <HI>Harpax,</HI> what a diuell shall we be thus vsde.</P>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>What bandogs but you two wud worry a woman!</L>
+<L>Your mistessell but clapt you, you flew on:</L>
+<L>Say I should get your liues, each rascall begger</L>
+<L>Would when he met you, cry, out helhounds, traitors</L>
+<L>Spit at you, fling durt at you, and no woman</L>
+<L>Euer endure your fight: tis your best course</L>
+<L>(Now had you secret kniues) to stab your selues,</L>
+<L>But since you haue not, goe and be hang'd.</L>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<L>I thanke you.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>I is your best course.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Why stay they trifling here?</L>
+<L>To gallowes drag'em by the heeles: away.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>By the heeles! no sir, wee haue legges to doe vs that seruice.</P>
+</SP>
+<SP>
+<SPEAKER>Hir.</SPEAKER>
+<P>I, I, if no woman can endure my sight, away with me.</P>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Dispatch'em.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>The diuell dispatch thee.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<PB REF="33"/>
+<SPEAKER>Sap.</SPEAKER>
+<L>Death this day ride in triumph, <HI>Theophilus.</HI></L>
+<L>See this witch made away to.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>My soule thirst for it,</L>
+<L>Come, I my selfe, thy hangmans part could play.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Ohhasten me to my coronation day.</L>
+<STAGE>exeunt</STAGE>
+</SP>
+<SP>
+<STAGE>Enter <HI>Antoninus, Macrinus,</HI> seruants.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Is this the place where vertue is to suffer,</L>
+<L>And heauenly beauty leauing this base earth,</L>
+<L>To make a glad returne from whence it came,</L>
+<L>Is it <HI>Macrinus? a scaffold thrust forth</HI></L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>By this preparation</L>
+<L>You well may rest assurd that <HI>Dorethea</HI></L>
+<L>This houre is to die here.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Then with her dies</L>
+<L>The abstract of all sweetnesse that's in woman,</L>
+<L>Set me downe friend, that ere the iron hand</L>
+<L>Of death close vp mine eyes, they may at once</L>
+<L>Take my last leaue both of this light, and her:</L>
+<L>For she being gone, the glorious Sun himselfe</L>
+<L>To me's <HI>Cymerian</HI> darkenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Macr.</SPEAKER>
+<L>Stange affection!</L>
+<L><HI>Cupid</HI> once more hath chang'd his shafts with death,</L>
+<L>And kills in stead of giuing life.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Nay weepe not,</L>
+<L>Though teares of friendship be a soueraigne balme,</L>
+<L>On me they are cast a way: it is decreed</L>
+<L>That I must die with her, our clew of life</L>
+<L>Was spun together.</L>
+</SP>
+<SP>
+<SPEAKER>Macr.</SPEAKER>
+<L>Yet sir tis my wonder</L>
+<L>That you who hearing onely what she suffers,</L>
+<L>Pertake of all her tortures, yet will be</L>
+<L>To adde to vour calamitie, an eye witnesse</L>
+<L>Of her last Ttagicke scene, which must pierce deeper</L>
+<L>And make the wound more desperate.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>O <HI>Macrinus,</HI></L>
+<L>T would linger out my tormentselfe, not kill me,</L>
+<L><PB REF="34"/>Which is the end I aime at, being to die to.</L>
+<L>What instrument more glorious can I wish for,</L>
+<L>Then what is made sharpe by my constant loue</L>
+<L>And true affection. It may be the duty</L>
+<L>And loyall seruice with which I pursude her,</L>
+<L>And seald it with my death, will be remembred</L>
+<L>Among her blessed actions, and what honor</L>
+<L>Can I desire beyond it?</L>
+<STAGE>Enter a guard bringing in <HI>Dorothea,</HI> a headsman before her, followed by <HI>Theophitus, Sapritius, Harpax.</HI></STAGE>
+<L>See she comes,</L>
+<L>How sweet her innocence appeares, more like</L>
+<L>To heauen it selfe then any sacrifice</L>
+<L>That can be offerd to it. By my hopes</L>
+<L>Of ioyes hereafter, the sight makes me doubtfull</L>
+<L>In my beleefe, nor can I thinke our gods</L>
+<L>Are good, or to be seru'd, that take delight</L>
+<L>In offrings of this kinde, that to maintaine</L>
+<L>Their power, do face the master peece of nature,</L>
+<L>Which they themselues come short of she ascends,</L>
+<L>An euery step raises her neerer heauen.</L>
+<L>What god so erethou art that most enioy her,</L>
+<L>Receiue in her a boundlesse happinesse</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>You are too blame</L>
+<L>To let him come abrode.</L>
+</SP>
+<SP>
+<SPEAKER>Macr.</SPEAKER>
+<L>It was his will,</L>
+<L>And we were left to serue him, not command him,</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Good sir be not offended, nor deny</L>
+<L>My last of pleasures in this happy obiect</L>
+<L>That I shall ere be blest with.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Now prowd contemner</L>
+<L>Of vs and of our gods, tremble to thinke</L>
+<L>It is not in the power thou seru'st, to saue thee.</L>
+<L>Not all the riches of the sea increasd</L>
+<L>By violent shipwrackes, nor the vnsearched mines</L>
+<L>Mammons vnknowne exchequer shall redeeme thee.</L>
+<L><PB REF="34"/>And therefore hauing first with horror weigh'd</L>
+<L>What tis to die, and to die yong, to part with</L>
+<L>All pleasures, and delights: lastly, to goe</L>
+<L>Where all <HI>Antipathies</HI> to comfort dwell</L>
+<L>Furies behind, about thee, and before thee,</L>
+<L>And to adde to affliction the remembrance</L>
+<L>Of the <HI>Elizian</HI> ioyes thou might'st haue tasted,</L>
+<L>Hadst thou not turnd Apostata to those gods</L>
+<L>That so reward their seruants, let despayre</L>
+<L>Preuent the hangmans sword, and on this scaffold</L>
+<L>Make thy first entrance into hell.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>She smiles,</L>
+<L>Vnmou'd by <HI>Mars,</HI> as if she were assur'd</L>
+<L>Death looking on her constancy would forget</L>
+<L>The vse of his ineuitable hand.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Derided to? dispatch I say.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Thou foole</L>
+<L>That gloriest in hauing power to rauish</L>
+<L>A trifle from me I am weary of:</L>
+<L>What is this life? to me not worth a thought</L>
+<L>Or if to bee esteemd, 'tis that I loose it</L>
+<L>To win a better, eu'n thy realice serues</L>
+<L>To me but as a ladder to mount vp</L>
+<L>To such a height of happinesse where I shall</L>
+<L>Looke downe with scorne on thee, and on the world,</L>
+<L>Where circl'd with true pleasures, plac'd aboue</L>
+<L>The reach of death or time, twill be my glory</L>
+<L>To thinke at what an, easie price I bought it.</L>
+<L>There's a perpetuall spring, perpetuall youth,</L>
+<L>No ioynt benumming cold, nor scorehing heate,</L>
+<L>Famine nor age haue any being there:</L>
+<L>Forget for shame your Tempe, burie in</L>
+<L>Obliuion, your fainde your <HI>Hesperian</HI> Orchards</L>
+<L>The Golden fruite kept by the watchfull Dragon</L>
+<L>Which did require <HI>Hercules</HI> to get it</L>
+<L>Compar'd with what growes in all plenty there,</L>
+<L>Deserues not to be nam'd. The power I serue</L>
+<L>Laughs at your happy <HI>Arabie,</HI> or the</L>
+<L><PB REF="35"/><HI>Elizian</HI> shades, for he hath made his bowers</L>
+<L>Better indeed then you can fancy yours.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>O take me thither with you.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>Trace my steps</L>
+<L>And be assurd you shall.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>With mine owne hands</L>
+<L>He rather stop that little breath is left thee,</L>
+<L>And rob thy killing feauer.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>By no means,</L>
+<L>Let him go with her, do seduc'd yong man,</L>
+<L>And waite vpon thy saint in death, do, do,</L>
+<L>And when you come to that imagind place,</L>
+<L>That place of all delights, pray you obserue me,</L>
+<L>And meete those cursed things I once call'd daughters,</L>
+<L>Whom I haue sent as harbingers before you,</L>
+<L>If there be any truth in your religion,</L>
+<L>In thankfulnesse to me that with care hasten</L>
+<L>Your iourney thither, pray send me some</L>
+<L>Small pittance of that curious fruit you bost of.</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Grant that I may goe with her, and I will.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Wilt thou in thy last minute dam thy selfe?</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>The gates to hell are open.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Know thou tyrant</L>
+<L>Thou agent for the diuell thy great master</L>
+<L>Though thou art most vnworthy to tast of it,</L>
+<L>I can and will.</L>
+<STAGE>Enter <HI>Angelo</HI> in the Angels habit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Oh! mountaines fall vpon me,</L>
+<L>Or hide me in the bottome of the deepe,</L>
+<L>Where light may neuer find me.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Whats the matter?</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>This is prodigious, and confirms her witch craft.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L><HI>Harpax</HI> my <HI>Harpax</HI> speake.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>I dare not stay,</L>
+<L>Should I but heare her once more I were lost,</L>
+<L>Some whirle winde snatch me from this cursed place,</L>
+<L>To which compar'd (and with what now I suffer)</L>
+<L>Hels totments are sweet slumbers.</L>
+<STAGE>exit Harpax Sap.</STAGE>
+</SP>
+<SP>
+<PB REF="35"/>
+<SPEAKER>Sap.</SPEAKER>
+<L>Follow him.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>He is distracted, and I must not loose him,</L>
+<L>Thy charms vpon my seruant cursed witch,</L>
+<L>Giues thee a short repricue, lethernot die</L>
+<L>Till my returne.</L>
+<STAGE>exeunt Sap. and Theo</STAGE>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>She minds him not, what obiect</L>
+<L>Is her eye fixd on?</L>
+</SP>
+<SP>
+<SPEAKER>Macr.</SPEAKER>
+<L>I see nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Marke her.</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>Thou glorious minister of the power I serue,</L>
+<L>For thou art more then mortall, ist for me</L>
+<L>Poore sinner, thou art pleasd a while to leaue</L>
+<L>Thy heauenly habitation? and vouchsafest</L>
+<L>Though glorified, to take my seruants habit,</L>
+<L>For put off thy diuinitie, so lookd</L>
+<L>My louely <HI>Angelo.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ange.</SPEAKER>
+<L>Know I am the same,</L>
+<L>And still the seruant to your pictie,</L>
+<L>Your zealous prayers and pious deeds first wonne me</L>
+<L>(But 'twas by his command to whom you sent 'em)</L>
+<L>To guide your steps. I tride your charitie,</L>
+<L>When in a beggers shape you tooke me vp</L>
+<L>And clothd my naked limbes, and after fed</L>
+<L>(As you beleeu'd) my famishd mouth. Learne all</L>
+<L>By your example to looke on the poore</L>
+<L>With gentle eyes, for in such habits often</L>
+<L>Angels desire an Almes. I neuer left you,</L>
+<L>Nor will I now, for I am sent to carry</L>
+<L>Your pure and innocent soule to ioyes eternall,</L>
+<L>Your martyrdome once sufferd, and before it</L>
+<L>Aske any thing from me, and rest assur'd</L>
+<L>You shall obtaine it</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>I am largely payd</L>
+<L>For all my torments, since I find such grace</L>
+<L>Grant that the loue of this yong man to me,</L>
+<L>In which he languisheth to death, may be</L>
+<L>Chang'd to the loue of heauen,</L>
+</SP>
+<SP>
+<SPEAKER>Ange.</SPEAKER>
+<L>I will performe it.</L>
+<L><PB REF="36"/>And in that instant when the sword seta free</L>
+<L>Your happy soule his shall haue libertie.</L>
+<L>Is there ought else?</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>For proofe that I foregiue</L>
+<L>My <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/>, who in scornd desir'd</L>
+<L>To tast of that most <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> fruite I go to</L>
+<L>After my death as sent from me, be pleasd</L>
+<L>To giue him of it.</L>
+</SP>
+<SP>
+<SPEAKER>Ange.</SPEAKER>
+<L>Willingly deere Mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I am amaz'd</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>I feels a holy fire</L>
+<L>That yeelds a comfortable heate within me.</L>
+<L>I am quite alterd from the thing I was.</L>
+<L>See I can stand, and goe alone, thus kneels</L>
+<L>To heauenly <HI>Dorothea,</HI> touch her hand</L>
+<L>With a religious kisse.</L>
+</SP>
+<SP>
+<STAGE>Enter <HI>Sapritius</HI> and <HI>Theophilus.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Sapr.</SPEAKER>
+<L>He is well now,</L>
+<L>But will not be drawne <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/>.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>It matters not,</L>
+<L>We can discharge this works without his helpe:</L>
+<L>But see your sonne. <HI>Sapr,</HI> Villaine</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L><HI>Sir</HI> I be seech you,</L>
+<L>Being so neere our ends diuoroe vs not.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>He quickly make a soparation of' om.</L>
+<L>Hast thou ought else to say?</L>
+</SP>
+<SP>
+<SPEAKER>Dorothea.</SPEAKER>
+<L>Nothing but blame</L>
+<L>Thy tardinesse in sending me torest,</L>
+<L>My peace is made with heauen, to which my soule</L>
+<L>Begins to take her flight, strike, O. strike quickly,</L>
+<L>And though you are vn mou'd to be my death</L>
+<L>Hereafter when my story shall be read,</L>
+<L>As they were present now, the hearers shall</L>
+<L>Say this of <HI>Dorothea</HI> with wet eyes</L>
+<L>She liu'd a virgin, and a virgin dies. <STAGE>her head strucke off</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>O take my soule along to waite on mine.</L>
+</SP>
+<SP>
+<SPEAKER>Macr.</SPEAKER>
+<L>Your sonne sinks to. <STAGE>Antonius sinkes</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Already dead.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Die all.</L>
+<L>That are or fauour this accursed Sect,</L>
+<L><PB REF="36"/>I triumph in their ends, and will raise vp</L>
+<L>A hill of their dead Karkatses, to or clooke</L>
+<L>The <HI>Pyrenean</HI> Hils, but ile roote out.</L>
+<L>These superstitious fooles, and leaue the World</L>
+<L>No name of Christian.</L>
+</SP>
+<SP>
+<STAGE>Loud Musicke, exit Angelo leauing first laid his hand vp. on their mouthes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>Ha, hauenly Musicke.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Tis in the ayre.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Illusions of the Diuell</L>
+<L>Wrought by some one of her Religion.</L>
+<L>That faine would make her death a miracle,</L>
+<L>It frights not me: because he is your sonne</L>
+<L>Let him haue buriall, but let her body</L>
+<L>Be cast forth with contempt in some high way,</L>
+<L>And be to Vultures and to Dogea prey.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<TRAILER>The end of the fourth Act.</TRAILER>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>Actus 5. Scena I.</HEAD>
+<SP>
+<STAGE>Enter Theophilus in his study, Bookes about him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Is't Holliday (Oh <HI>Casar</HI>) that thy seruant,</L>
+<L>(Thy Prouost, to see execution done</L>
+<L>On these base Christians in <HI>Casarea</HI>)</L>
+<L>Should now want worke: sheepe these Idolaters</L>
+<L>That none are stirring, As a curious Painter <STAGE>Rises.</STAGE></L>
+<L>When he has made some admirable peece,</L>
+<L>Stands off, and with a searching eye examines</L>
+<L>Each colours how tis sweetned, and then hugs</L>
+<L>Himselfe for his rare workemanship.— So heere <STAGE>Sits.</STAGE></L>
+<L>Will I my Drolleries and bloudy Lantskips</L>
+<L>Long past wrap'd vp vnfold to make me merry</L>
+<L>With shadowes, now I want the substances. <STAGE>Books.</STAGE></L>
+<L>My Muster-booke of Hel-hounds, were the Christians</L>
+<L>Whose names stand heere (aliue) and arm'd, not Rome</L>
+<L>Could mooue vpon her Hindges. What I haue done,</L>
+<L>Or shall heereafter, is not out of hate</L>
+<L>To poore tormented wretches, no I am carried</L>
+<L><PB REF="37"/>With violence of zeale, and streames of seruice</L>
+<L>I owe our Romane gods. <HI>Great Britaine,</HI> what.</L>
+<L>A thousand wiues with brats sucking their brests,</L>
+<L>Had hot Irons pinch 'em off and throwne to swine;</L>
+<L>And then their fleshy backparts he wed with hatchets,</L>
+<L>Were mine'd and bak'd in Pies to feede staru'd Christians. Ha, ha.</L>
+<L>Agen, agen, —<HI>East. Anglas—,</HI> oh, East-Angles,</L>
+<L>Bandogs (kept three dayes hungry) worried</L>
+<L>1000. Brittish Rascals, styed vp, fat</L>
+<L>Of purpose, strip'd naked, and disarm'd.</L>
+<L>I could outstare a yeere of Sunnes and Moones,</L>
+<L>To sit at these sweete Bul-baitings, so I could</L>
+<L>Thereby but one Christian win to fall</L>
+<L>In adoration to my <HI>Iupiter.</HI> Twelue hundred</L>
+<L>Eyes boar'd with Augurs out: oh! eleuen thousand</L>
+<L>Torne by wild beasts: two hundred ram'd i'th earth</L>
+<L>To'th armepits, and full Platters round about'em,</L>
+<L>But farre enough for reaching, eate dogs, ha, ha, ha.</L>
+<L>Tush, all these tortures are but phillipings,</L>
+<L>Flea-bitings; I before the destinies</L>
+<L>My bottome did winde vp, would flesh my selfe</L>
+<L>Once more, vpon some one remarkeable</L>
+<L>Aboue all these, this Christian Slut was well,</L>
+<L>A pretty one, but let such horror follow</L>
+<L>The next I feede with torments, that when Rome</L>
+<L>Shall heare it, her foundation at the sound</L>
+<L>May feele an Earth-quake. How now? <STAGE>Musicke.</STAGE></L>
+<STAGE>Rise Consort, enter Angelo with a Basket fild with fruit and flowers.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Are you amazd'd Sir—so great a Roman spirit and does it tremble.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>How cam'st thou in? to whom thy businesse?</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>To you:</L>
+<L>I had a mistresse late senthence by you</L>
+<L>Vpon a bloudy errand, you intreated</L>
+<L>That when she came into that blessed Garden</L>
+<L>Whither she knew she went, and where (now happy)</L>
+<L>Shee feedes vpon all ioy, she would send to you</L>
+<L>Some of that Garden fruit and flowers, which heere</L>
+<L><PB REF="37"/>To haue her promise sau'd, are brought by me.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Cannot I see this Garden?</L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Yes, if the Master</L>
+<L>Will giue you entrance. <STAGE>Angelo vanisheth.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Tis atempting fruit, and the most bright check'd child I euer view'd,</L>
+<L>Sweete smelling goodly fruit, what flowers are these?</L>
+<L>In <HI>Dioclesians</HI> Gardens, the most beautious</L>
+<L>Compard with these are weedes: is it not February?</L>
+<L>The second day she dyed: Frost, Ice and snowe</L>
+<L>Hang on the beard of Winter, wheres the sunne</L>
+<L>That guilds this summer, pretty sweete boy, say in what Country</L>
+<L>Shall a man find this Garden —, my delicate boy, gonel Vanished!</L>
+<L>Within there, <HI>Iuliarues</HI> and <HI>Gota.</HI> —</L>
+</SP>
+<SP>
+<STAGE>enter two seruants.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Are my gates shut?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>And guarded.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Saw you not — a boy.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Where?</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>Heere hee entred, a young Lad, 1000. blessings danc'd vpon his eyes, a smooth fac'd glorious Thing, that brought this Basket.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>No sir?</L>
+<STAGE>exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Away, but be in reach if my voyce calls you,</L>
+<L>No! vanish'd! and not seene, be thou a spirit</L>
+<L>Sent from that Witch to mock me, I am sure</L>
+<L>This is essentiall, and how ere it growes,</L>
+<L>Will taste it.</L>
+<STAGE>Enter.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Ha, ha, ha, ha. <STAGE>Harpax within.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>So good, ile haue some now sure.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Ha, ha, ha, ha, great lickorish foole.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>What art thou?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>A Fisherman,</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>What doest thou catch;</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Soules, soules, a fish cal'd soules.</L>
+</SP>
+<SP>
+<PB REF="38"/>
+<STAGE>Enter a seruent.</STAGE>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Geta.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Ha, ha, ha, ha. <STAGE>Within.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>What insolent slaue is this dares laugh at me?</L>
+<L>Or what ist the dog grinnes at so?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I neither know my Lord at what, nor whom, for there is none without but my fellow <HI>Iulianus,</HI> and hee's making a Garland for <HI>Iupiter.</HI></P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L><HI>Iupiter!</HI> all within me is not well,</L>
+<L>And yet not sicke.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Ha, ha, ha, ha. <STAGE>lowder.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>What's thy name slaue?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Goe looke. <STAGE>At one end.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Tis <HI>Harpax</HI> voyce.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L><HI>Harpax,</HI> goe drag the Caitiffe to my foote,</L>
+<L>That I may stampe vpon him.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Foole, thou lyest. <STAGE>At tother end.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Hee's yonder now my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Watch thou that end</L>
+<L>Whilst I make good this.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Ha, ha, ha, ha, ha. <STAGE>At the middle.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Hee's at Barli-breake, and the last coulple are now in hell,</L>
+<STAGE>exit seruent.</STAGE>
+<L>Search for him, all this ground me thinke is bloudy,</L>
+<L>And pau'd with thousands of those Christians eyes</L>
+<L>Whom I haue tortu'd, and they stare vpon me;</L>
+<L>What was this apparition? sure it had</L>
+<L>A shape Angelicall; mine eyes (though dazled</L>
+<L>And danted at first sight) tell me, it wore</L>
+<L>A paire of glorious wings, yea they were wings,</L>
+<L>And hence he flew; tis vanished, <HI>Iupiter</HI></L>
+<L>For all my sacrifices done to him</L>
+<L>Neuer once gaue me smile: how can stone smile, <STAGE>musicke.</STAGE></L>
+<L>Or woodden Image laugh? ha! I remember</L>
+<L>Such Musicke gaue a welcome to my eare,</L>
+<L>When the faire youth came to me: tis in the Ayre,</L>
+<L>Or from some better place, a power diuine,</L>
+<L><PB REF="38"/>Through my darke ignorance on my soule does shine,</L>
+<L>And makes me see a conscience all stai'nd ore,</L>
+<L>Nay drown'd and damn'd for euer in Christian gore.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Ha, ha, ha. <STAGE>Within.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Agen, what dainty rellish on my tongue</L>
+<L>This fruit hath left, some Angell hath me fed,</L>
+<L>If so toothfull, I will be banqueted. <STAGE>eates another.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Hold.</L>
+<STAGE>Enter Harpax in a feare∣full shape, fire flashing out of the study.</STAGE>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Not for <HI>Caesar.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>But for me thou shalt.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Thou art no Twin to him that</L>
+<L>Last was heere.</L>
+<L>You powers whom my soule bids me reuerence</L>
+<L>Guard me: What art thou?</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>I'me thy Master.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Mine.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>And thou my euerlasting slaue; that <HI>Harpax,</HI></L>
+<L>Who hand in hand hath led thee to thy Hell</L>
+<L>Am I.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Auant.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>I will not, cast thou downe</L>
+<L>That Basket with the things in't, and fetch vp</L>
+<L>What thou hast swallowed, and then take a drinke</L>
+<L>Which I shall giue thee, and i'me gon.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>My Fruit!</L>
+<L>Does this offend thee? see</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Spet it to'th earth,</L>
+<L>And tread vpon it, or ile peece-meale teare thee.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Art thou with this affrighted? see, heares more. <STAGE>Flow∣ers.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Fling them away, ile take thee else &amp; hang thee</L>
+<L>In a contorted Chaine of Isicles</L>
+<L>I'th frigid Zone: downe with them.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>At the botome,</L>
+<L>One thing I found not yet, see. <STAGE>A crosse of Flowers.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Oh, I'me tortur'd.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Can this doo't? hence thou Fiend infernall hence.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Claspe <HI>Iupiters</HI> Image, and away with that.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>At thee ile fling that <HI>Iupiter,</HI> for me thinkes</L>
+<L><PB REF="39"/>I serue a better Master, he now checkes me</L>
+<L>For murthering my two daughters, put on by thee,</L>
+<L>By thy damn'd Rhetoricke did I hunt the life</L>
+<L>Of <HI>Dorothea,</HI> the holy Virgin Martyr,</L>
+<L>She is not angry with the Axe nor me,</L>
+<L>But sends these presents to me, and its <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/></L>
+<L>Ore worlde to finde her, and from her white hand</L>
+<L>To beg a forgiuenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>No, ile bind thee heere.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>I set up a strength aboue thine: this small wea∣pon me thinkes is Armour hard enough.</L>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Keepe from me. <STAGE>Sinkes a little.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Art poasting to thy center? down hel-hound, down,</L>
+<L>Me hast thou lost; that arme which hurlesthee hence</L>
+<L>Saue me, and set me vp the strong defence</L>
+<L>In the faire Christians quarrel.</L>
+<STAGE>Enter Angele.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>Exit thy foote there,</L>
+<L>Nor be thou shaken with a <HI>Caesars</HI> voyce,</L>
+<L>Though thousand deaths were in it: and I then</L>
+<L>Will bring thee to a Riuer that shall wash</L>
+<L>Thy bloudy hands cleane, and more white then Snow,</L>
+<L>And to that Garden where these blest things grow,</L>
+<L>And to that martyr'd Virgin, who hath sent</L>
+<L>That heauenly token to thee; Spred this braue wing</L>
+<L>And serue then <HI>Caesar,</HI> a farre greater King.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>It is, it is some Angell, vanish'd againe!</L>
+<L>Oh come back rauishing Boy, bright Messenger,</L>
+<L>Thou hast (by these mine eyes fixt on thy beauty)</L>
+<L>Illumined all my soule, now looke I backe</L>
+<L>On my blacke Tyranies, which as they did.</L>
+<L>Out dare the bloudiest, thou blest spirit that leades me,</L>
+<L>Teach me what I must do, and to doe well,</L>
+<L>That my last act, the best may Paralell.</L>
+<STAGE>exit.</STAGE>
+</SP>
+<SP>
+<STAGE>Enter Dioclesian, Maximinus, Epire, Pontus, Macedon, mee∣ting Artemia, attendants.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Glory and Conquest still attend vpon</L>
+<L><PB REF="39"/>Triumphant <HI>Caesar.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Let thy wish faire Daughter</L>
+<L>Be equally deuided, and hereafter</L>
+<L>Learne thou to know and reuerence <HI>Maximinus,</HI></L>
+<L>Whose power with mine vnited makes one <HI>Caesar.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Max.</SPEAKER>
+<L>But that I feare't would be held flattery,</L>
+<L>The bonds consider'd in which we stand tide</L>
+<L>As loue, and Empire, I should say till now</L>
+<L>I nere had seene a Lady I thought worthy</L>
+<L>To be my Mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Sir, you shew yourselfe</L>
+<L>Both Courtier and Souldier, but take heede,</L>
+<L>Take heede my Lord, though my dull pointed beauty</L>
+<L>Stain'd by a harsh refusall in my seruant</L>
+<L>Cannot dart forth such beames as may inflame you,</L>
+<L>You may encounter such a powerfull one,</L>
+<L>That with a pleasing heate will thaw your heart</L>
+<L>Though bound in ribs of Ice, loue still is loue,</L>
+<L>His Bow and Arrowes are the same, great <HI>Iulius</HI></L>
+<L>That to his successors left the name of <HI>Caesar</HI></L>
+<L>Whom warre could neuer tame, that with dry eyes</L>
+<L>Beheld the large plaines of <HI>Pharsalia,</HI> couer'd</L>
+<L>With the dead Karkasses of Senators</L>
+<L>And Citizens of Rome, when the world knew</L>
+<L>No other Lord but him, strucke deepe in yeeres to,</L>
+<L>And men gray haird forget the lusts of youth:</L>
+<L>After all this, meeting faire <HI>Cleapatra,</HI></L>
+<L>A suppliant to the magicke of her eye,</L>
+<L>Euen in his pride of conquest tooke him captiue,</L>
+<L>Nor are you more secure.</L>
+</SP>
+<SP>
+<SPEAKER>Max.</SPEAKER>
+<L>Were you deform'd</L>
+<L>(But by the gods you are most excellent)</L>
+<L>Your grauity and diseretion would o'recome me,</L>
+<L>And I should be more proud in being a Prisoner</L>
+<L>To your faire vertues, then of all the Honours,</L>
+<L>VVealth, Title, Empire, that my sword hath purchac'd</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>This meetes my wishes, welcome it <HI>Artemia</HI></L>
+<L>VVith out-stretch'd armes, and study to forget</L>
+<L><PB REF="40"/>That <HI>Antoninus</HI> euer was thy fate</L>
+<L>Reseru'd thee for this better choise, embrace it.</L>
+</SP>
+<SP>
+<SPEAKER>Ep.</SPEAKER>
+<L>This happy match brings new nerues to giue strength</L>
+<L>To our continued league.</L>
+</SP>
+<SP>
+<SPEAKER>Mace.</SPEAKER>
+<L><HI>Hymen</HI> himselfe</L>
+<L>Will blesse this marriage which we will solemnize</L>
+<L>In the presence of these Kings.</L>
+</SP>
+<SP>
+<SPEAKER>Pon.</SPEAKER>
+<L>Who rest most happy</L>
+<L>To be eye-witnesses of a Match that brings</L>
+<L>Peace to the Empire.</L>
+</SP>
+<SP>
+<SPEAKER>Diocles.</SPEAKER>
+<L>We much thanke your loues,</L>
+<L>But wher's <HI>Sapritius</HI> our Gouernour,</L>
+<L>And our most zealous prouost good <HI>Theophilus?</HI></L>
+<L>If euer Prince were blest in a true seruant,</L>
+<L>Or could the gods be debtors to a man,</L>
+<L>Both they and we stand far ingag'd to cherish</L>
+<L>His pietic and seruice.</L>
+</SP>
+<SP>
+<SPEAKER>Artem.</SPEAKER>
+<L>Sir the Gouernour</L>
+<L>Brookes sadly his sonnes losse although he turnd</L>
+<L>Apostata in death, but bold <HI>Theophilus</HI></L>
+<L>Who for the same cause in my presence seald</L>
+<L>His holy anger on his daughters hearts.</L>
+<L>Hauing with tortutes first tride to conuert her,</L>
+<L>Drag'd the bewitching Christian to the scaffold,</L>
+<L>And saw her loose her head.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>He is all worthy,</L>
+<L>And from his owne mouth I would gladly heare</L>
+<L>The manner how she sufferd.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>'Twill be deliuerd</L>
+<L>With such contempt and scorne, I know his nature</L>
+<L>That rather twill beget your highnesse laughter</L>
+<L>Then the least pittie.</L>
+</SP>
+<SP>
+<STAGE>Enter Theophilus, Sapritius, Macrinus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>To that end I would heare it.</L>
+</SP>
+<SP>
+<SPEAKER>Arte.</SPEAKER>
+<L>He comes, with him the Gouernour.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>O <HI>Sapritius,</HI></L>
+<L>I am to chide you for your tendernesse,</L>
+<L>But yet remembring that you are a father,</L>
+<L>I will forget it, good <HI>Theophilus</HI></L>
+<L>He speake with you anone: neerer your care, to <HI>Sapritius.</HI></L>
+</SP>
+<SP>
+<PB REF="40"/>
+<SPEAKER>Theo.</SPEAKER>
+<L>By <HI>Antoninus</HI> soule I do coniure you,</L>
+<L>And though not for religion, for his friendship,</L>
+<L>Without demanding whats the cause that moues me,</L>
+<L>Receiue my signet, by the power of this</L>
+<L>Go to my prisons, and release all Christian</L>
+<L>That are in fetters there by my command.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>But what shall follow?</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Haste then to the port,</L>
+<L>You there shall finde two tall ships ready rig'd,</L>
+<L>In which embarke the poore distressed soules</L>
+<L>And beare them from the reach of tyranny,</L>
+<L>Enquire not whither you are bound, the dietic</L>
+<L>That they adore will giue you prosperous winds,</L>
+<L>And make your voyage such, and largely pay for</L>
+<L>Your hazard, and your trauaile: leaue me here</L>
+<L>There is a scene that I must act alone.</L>
+<L>Haste good <HI>Macrinus,</HI> and the great God guide you.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>Ile vndertake't, theres some thing prompts me to it</L>
+<L>Tis to saue innocent blood, a Saintlike act,</L>
+<L>And to be mercifull has neuer beene</L>
+<L>By mortall men themselues esteemd a sin.</L>
+<STAGE>exit Mac.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dioc.</SPEAKER>
+<L>You know your charge.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>And will with care obserue it.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>For I professe he is not <HI>Casars</HI> friend</L>
+<L>That sheds a teare for any torture that</L>
+<L>A Christians suffers. Welcome my best seruant</L>
+<L>My carefull, zealous Prouost, thou hast toyld</L>
+<L>To satisfie my will though in extreames,</L>
+<L>I loue thee for't, thou art firme rocke, no changeling:</L>
+<L>Prethee deliuer, and for my sake do it</L>
+<L>Without excesse of bitternesse or seosses</L>
+<L>Before my brother and these kings, how tooke</L>
+<L>The Christian her death.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>And such a presence</L>
+<L>Though euery priuate head in this large roome</L>
+<L>Were circl'd round with an imperiall crowne,</L>
+<L>Her story will deserue, it is so full</L>
+<L>Of excellency and wonder.</L>
+</SP>
+<SP>
+<PB REF="41"/>
+<SPEAKER>Diocle.</SPEAKER>
+<L>Ha! how's this?</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>O marke it therefore, and with that attention,</L>
+<L>As you would here an Embassie from heauen</L>
+<L>By a wing'd Legate, for the truth deliuerd,</L>
+<L>Both how and what this blessed virgin sufferd:</L>
+<L>And <HI>Dorothea</HI> but hereafter nam'd,</L>
+<L>You will rise vp with reuerence, and no more</L>
+<L>As things vn worthy of your thoughts, remember</L>
+<L>What the canoniz'd <HI>Spartan</HI> Ladies were</L>
+<L>Which lying <HI>Greece</HI> so bosts of, your owne matrons</L>
+<L>Your <HI>Romane</HI> dames whose figures you yet keepe</L>
+<L>As holy relickes in her historic</L>
+<L>Will find a second vrne. <HI>Gracohus, Cornelia,</HI></L>
+<L><HI>Paulina</HI> that in death desirde to follow</L>
+<L>Her husband <HI>Seneca,</HI> nor <HI>Brutus Portia</HI></L>
+<L>That swallowd burning coles to ouertake him,</L>
+<L>Though all their seuerall worths were giuen to one</L>
+<L>With this is to be mention'd.</L>
+</SP>
+<SP>
+<SPEAKER>Maximinus.</SPEAKER>
+<L>Is he mad?</L>
+</SP>
+<SP>
+<SPEAKER>Diocl.</SPEAKER>
+<L>Why they did die <HI>Theophilus,</HI> and boldly.</L>
+<L>This did no more.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>They out of desperation</L>
+<L>Are for vaine glory of an aftername</L>
+<L>Parted with life. This had not mutinous sonnes</L>
+<L>As the rash <HI>Gracchi</HI> were, nor was this Saint</L>
+<L>A doting mother as <HI>Cornelia</HI> was:</L>
+<L>This lost no husband in whose ouerthrow</L>
+<L>Her wealth and hononr suncke, no feare of want</L>
+<L>Did make her being redious, but aiming</L>
+<L>At an immortall crowne, and in his cause</L>
+<L>Who onely can bestow it; who sent downe</L>
+<L>Legions of ministring Angels to beare vp</L>
+<L>Her spotlesse soule to heauen; who entertaind it</L>
+<L>With choyce celestiall musicke, equall to</L>
+<L>To the motion of the spheres, she vncompeld</L>
+<L>Chang'd this life for a better. My Lord <HI>Sapritius</HI></L>
+<L>You were present at her death, did you ere here</L>
+<L>Such rauishing sounds?</L>
+</SP>
+<SP>
+<PB REF="41"/>
+<SPEAKER>Sap.</SPEAKER>
+<L>Yet you sayd then it was witchcraft,</L>
+<L>And diuellish illusions.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>I then hard it</L>
+<L>With sinfull cares, and belch'd out blasphemous words</L>
+<L>Against his dietie, which then I knew not,</L>
+<L>Nor did beleeue in him.</L>
+</SP>
+<SP>
+<SPEAKER>Diocl.</SPEAKER>
+<L>Why dost thou now? or dar'st thou in our hearing?</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>Were my voyce</L>
+<L>As lowd as is his thunder, to be heard</L>
+<L>Through al the world, all potentates on earth</L>
+<L>Ready to burst with rage should they but heare it,</L>
+<L>Though hell to ayde their mallice lent her furies</L>
+<L>Yet I would speake, and speake againe, and boldly,</L>
+<L>I am a Christian, and the powers you worship</L>
+<L>But dreames of fooles and madmen.</L>
+</SP>
+<SP>
+<SPEAKER>Maximums.</SPEAKER>
+<L>Lay hands on him.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Thou twice a child (for doting age so makes thee)</L>
+<L>Thou could it not else thy pilgrimage of life,</L>
+<L>Being almost past through in the last moment,</L>
+<L>Destroy what ere thou hast done good or great,</L>
+<L>Thy youth did promise much, and growne a man</L>
+<L>Thou madest it good, and with encrease of yeares</L>
+<L>Thy actions still betterd as the Sunne</L>
+<L>Thou did rise gloriously, kepst a constant course</L>
+<L>In all thy iourney, and now in the cuening</L>
+<L>When thou shouldst passe with honour to thy rest,</L>
+<L>Wilt thou fall like a Metcor?</L>
+</SP>
+<SP>
+<SPEAKER>Sapritius.</SPEAKER>
+<L>Yet confesse</L>
+<L>That thou art mad, and that thy tong and heart</L>
+<L>Had no agreement.</L>
+</SP>
+<SP>
+<SPEAKER>Max.</SPEAKER>
+<L>Doe, no way is left else</L>
+<L>To saue thy life <HI>Theophilus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Diocl.</SPEAKER>
+<L>But refule it</L>
+<L>Destruction as horrid and as sodaine</L>
+<L>Shall fall vpon thee, as if hell stood open</L>
+<L>And thou wert sinking thither.</L>
+</SP>
+<SP>
+<SPEAKER>Theoph.</SPEAKER>
+<L>Here me yet</L>
+<L>Here for my seruice past.</L>
+</SP>
+<SP>
+<PB REF="42"/>
+<SPEAKER>Artem.</SPEAKER>
+<L>What will he say?</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>At cuer I deseru'd your fauour here me,</L>
+<L>And grant one boone, tis not for life I sue for,</L>
+<L>Nor is it fit that I that nere knew pitty</L>
+<L>To any Christian, being one my selfe</L>
+<L>Should looke for any: no, I rather beg</L>
+<L>The vtmost of your cruelty; I stand</L>
+<L>Accomptable for thousand Christians deaths,</L>
+<L>And were it possible that I could die</L>
+<L>A day for euery one, then liue againe</L>
+<L>To be againe tormented, t were to me</L>
+<L>An cafie pennance, and I should passe through</L>
+<L>A gentle clensing fire, but that denyde me,</L>
+<L>It being beyond the strength of feeble nature,</L>
+<L>My sute is you would haue no pitty on me.</L>
+<L>In mine owne house there are a thousand engine</L>
+<L>Of studied crueltie, which I did prepare</L>
+<L>For miserable Christians, let me seele</L>
+<L>As the Sicilian did his brazen bull,</L>
+<L>The horridst you can find, and I will say</L>
+<L>In death that you are mercifull.</L>
+</SP>
+<SP>
+<SPEAKER>Dtoc.</SPEAKER>
+<L>Despaire not</L>
+<L>In this thou shalt preuaile, go fetch 'em hither, <STAGE>some go for the racks.</STAGE></L>
+<L>Death shall put on a thousand shapes at once</L>
+<L>And so appeare before thee, racks, and whips,</L>
+<L>Thy flesh with burning pinsorstorne, shall feed</L>
+<L>The fire that heates them, and whats wanting to</L>
+<L>The torture of thy body, Ile supply</L>
+<L>In punishing thy mind: fetch all the Christians</L>
+<L>That are in hold, and here before his face</L>
+<L>Cut'cm in peeces.</L>
+</SP>
+<SP>
+<SPEAKER>Theo.</SPEAKER>
+<L>Tis not in thy power,</L>
+<L>It was the first good deed I euer did,</L>
+<L>They are remou'd out of thy raceh, how ere</L>
+<L>I was determin'd for my sinnes to die,</L>
+<L>I first tooke order for their liberty,</L>
+<L>And still I dare thy worst.</L>
+</SP>
+<SP>
+<SPEAKER>Diocle.</SPEAKER>
+<L>Dind him I say,</L>
+<L><PB REF="42"/>Make euery artery and sinew crack,</L>
+<L>The slaue that makes him giue the lowdest shrike</L>
+<L>Shall haue ten thousand Drachmes, wretch ile force thee</L>
+<L>To curse the power thou worship'st.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Neuer, neuer,</L>
+<L>No breath of mine shall euer be spent on him, <STAGE>They tor∣ment him.</STAGE></L>
+<L>But what shall speake his Maiesty or mercy:</L>
+<L>I am honour'd in my suffrings, weake tormentors</L>
+<L>More tortures, more: alas you are vnskilfull,</L>
+<L>For Heauens sake more; my brest is yet vntorne:</L>
+<L>Heere purchase the reward that was propounded,</L>
+<L>The Irons coole, heere are armes yet and thighes,</L>
+<L>Spare no part of me.</L>
+</SP>
+<SP>
+<SPEAKER>Max.</SPEAKER>
+<L>He endures beyond</L>
+<L>The suffrance of a man.</L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>No sigh nor grone</L>
+<L>To witnesse he has feeling.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Harder Villaines.</L>
+<STAGE>Enter Harpax.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Har.</SPEAKER>
+<L>Vnlesse that he blaspheme hee's lost for euer,</L>
+<L>Iftorments cuer could bring forth despaire,</L>
+<L>Let these compell him to it. oh me</L>
+<L>My ancient enemies againe, <STAGE>falls downe.</STAGE></L>
+</SP>
+<SP>
+<STAGE>Enter Dcrothea in a white robe, crownes vpon her robe, a Crowne vpon her head, lead in by the Angell. Antoninus, Caliste and Christeta following all in white, but lesse glorious, the Angell with a Crowne for him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Most glorious vision,</L>
+<L>Did ere so hard a bed yeeld man a dreame</L>
+<L>So heauenly as this? I am confirm'd,</L>
+<L>Confirm'd you blessed spirits, and make hast</L>
+<L>To take that crowne of immortality</L>
+<L>You offer to me; death till this blest minute</L>
+<L>I neuer thought thee slow pac'd, nor could I</L>
+<L>Hasten thee now for any paine I suffer,</L>
+<L>But that thou kepst me from a glorious wreath</L>
+<L>Which through this stormy way I would creepe to,</L>
+<L><PB REF="43"/>And humbly kneeling with humility weare it.</L>
+<L>Oh now I feele thee, blessed spirits I come</L>
+<L>And witnesse for me, all these wounds and scarres,</L>
+<L>I die a souldier in the Christian warres. <STAGE>dies.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Sap.</SPEAKER>
+<L>I haue seene thousands tortur'd, but nere yet</L>
+<L>A constancy like this.</L>
+</SP>
+<SP>
+<SPEAKER>Harpax.</SPEAKER>
+<L>I am twise damn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Aug.</SPEAKER>
+<L>Haste to thy place appointed cursed fiend,</L>
+<L>In spite of hell this souldier's not thy prey,</L>
+<L>Tis I haue wonne, thou that hast lost the day.</L>
+<STAGE>exit Angele the diuell sinkes with lightning.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Die.</SPEAKER>
+<L>I thinke the centre of the earth be cracks,</L>
+<L>Yet I still stand vnmou'd, and will go on,</L>
+<L>The persecution that is here begun,</L>
+<L>Through all the world with violence shall run.</L>
+<STAGE>flourish exeunt:</STAGE>
+</SP>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="43"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

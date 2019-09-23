@@ -1,0 +1,3544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2006-08-16</DATE>
+<RESPSTMT>
+<NAME>Alexis Jakobson</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TYPEs to DIVs in order to validate. 
+*Proofed title page(s). 
+*Checked for N=""s. 
+*Checked for GROUP tags. 
+*Checked <SUP>s</SUP>. 
+*Reviewed structure.
+*Checked division-marking material at heads and feet of divisions (HEADS, CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). 
+*Checked for signatures. 
+*Checked placement and completeness of PBs. 
+*Checked for damage GAPs, #s, @s, --s, and UNCLEARs. 
+*Corrected ** <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/>s etc. of **. 
+*Converted __ <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>s to GAP DESC="illegible" RESP="[vendor name]". 
+*Checked spacing of foreign GAPs. 
+*Checked for LBs. 
+*Checked for startqs, endqs, oes, q;s, and Qs. 
+*Checked proofsheets and made corrections found there. 
+*Checked for FIGUREs and decorated initials. 
+*Checked for missing-page GAPs. 
+*Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A07495">
+<STC T="S">17879</STC>
+<BIBNO T="umi">99847818</BIBNO>
+<VID>12879</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<HEAD>THE FAMELIE OF LOVE.</HEAD>
+<P>Acted by the Children of his Maiesties Reuells.</P>
+<P><HI>Lectori. Sydera iungamus, facito mihi Iuppiter adsit, Et tibi Mercurius noster dabit omnia saxo.</HI></P>
+<P><FIGURE>
+</FIGURE></P>
+<P>At London Printed for <HI>Iohn Helmes,</HI> and are to be sold in <HI>Saint Dunstans</HI> Churchyard in Fleetstreet. 1608.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2"/>
+<HEAD>To the Reader.</HEAD>
+<P>TOo soone and too late, this work is published: Too soone, in that it was in the Presse, before <HI>J</HI> had notice of it, by which meanes some faults may escape in the Printing. Too late, for that it was not published when the general voice of the people had seald it for good, and the newnesse of it made it much more desired, then at this time: For Plaies in this Citie are like wenches new falne to the trade, onelie desired of your neatest gallants, whiles the' are fresh: when they grow stale they must be vented by Termers and Cuntrie chapmen. I know not how this labor will please, Sure <HI>J</HI> am it past the censure of the Stage with a generall applause, now (whether <HI>vox populi</HI> be <HI>vox dei</HI> or no) that <HI>I</HI> leaue to be tried by the accute iudgement of the famous six wits of the Citie: Farewell.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<HEAD>Actorum Nomina.</HEAD>
+<LIST>
+<ITEM><HI>Glister</HI>—A Doctor of Physicke.</ITEM>
+<ITEM><HI>Purge</HI>—A Iealous Pothecarie.</ITEM>
+<ITEM><HI>Dryfat</HI>—A Marchant, a brother of the Family.</ITEM>
+<ITEM><HI>Gerardine</HI>—A Louer.</ITEM>
+<ITEM><HI>Lypsalue</HI>—Two Gallants that only pursue Citty Lechery.</ITEM>
+<ITEM><HI>Guggin</HI>—Two Gallants that only pursue Citty Lechery.</ITEM>
+<ITEM><HI>Club</HI>—A Prentice.</ITEM>
+<ITEM><HI>Viall</HI>—Seruant to Glister.</ITEM>
+<ITEM><HI>Smelt and Periwincle.</HI> Pages to the Gallants.</ITEM>
+</LIST>
+<LIST>
+<HEAD>Weomen.</HEAD>
+<ITEM><HI>Mystrisse Glister.</HI></ITEM>
+<ITEM><HI>Mistrisse Purge</HI>—An Elder in the Family.</ITEM>
+<ITEM><HI>Maria</HI>—Neece to Glister.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="prologue">
+<HEAD>PROLOGVS.</HEAD>
+<L>IF for opinion hath not blazd his fame,</L>
+<L>Nor expectation filld the generall round,</L>
+<L>You deeme his labors slight, you both confound</L>
+<L>Your grauer iudgement and his merits.</L>
+<L>Impartiall hearing fits iudicious spirits▪</L>
+<L>Nor let the fruit of many an hower fall,</L>
+<L>By enuies tooth, or base detractions gall.</L>
+<L>Both which are tokens of such abiect spirits,</L>
+<L>Which wanting worth, themselues hate other merits:</L>
+<L>Or els of such, which once made greate by fame,</L>
+<L>Repine at those which seeke t'attaine the same.</L>
+<L>From both we know all truer iudgements free</L>
+<L>To them our muse with blushing modestie</L>
+<L>Patiently to her intreats their fauour,</L>
+<L>Which done, with iudgement praise, or els dislike the labour.</L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="2"/>
+<DIV2 N="1" TYPE="act">
+<HEAD>ACTVS PRIMVS.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus Primus, scena prima.</HEAD>
+<STAGE>Enter Doctor Glister, his wife, and Maria.</STAGE>
+<SP>
+<SPEAKER>Glister.</SPEAKER>
+<P>TRickes and showes; protestations with men are like teares with weomen, forgot ere the cheeke be drie: <HI>Gerardine</HI> is a gentleman, his Lands be in Sta∣tutes: A is not for thee nor thou for him, a is a Gallant, and yong thoughts be most vnconstant.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Yet yong vines yeeld most wine.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Glist.</SPEAKER>
+<P>But old veynes the best, beleeue not these great breecht gallants, they loue for profit, not for affection, if a brings thee to a fooles paradice, a will forsake thee.</P>
+</SP>
+<SP>
+<SPEAKER>Glist.</SPEAKER>
+<P>VVhich fortune, God send my enemy: Loue is a colde heate, a bitter sweete, a pleasure full of paine, a huge losse, and no gaine, why shouldst thou loue him onely?</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>VVords cannot force what destiny hath seald,</L>
+<L>VVho can resist the influence of his stars,</L>
+<L>Or giue a reason why a loues, or hates</L>
+<L>Since our affections are not ruld by will,</L>
+<L>But will by our affections. Tis blasphemy</L>
+<L>Gainst Loues most sacred deity, to axe</L>
+<L>VVhy we do loue, since tis his onely power</L>
+<L>That swayes all our affections, all things which be</L>
+<L>Beasts, Birds, Men, Gods, pay him their fealty</L>
+</SP>
+<SP>
+<SPEAKER>Glister.</SPEAKER>
+<P>Tut, Loue is an idle phantasie, bred by desire, nurst by delight, An humour that begins his dominion in <HI>Leo</HI> the Lyon, the signe of the hart, and ends in <HI>Aries</HI> the Ram, the signe of the head, His power is to stir the bloud, prickes vp the flesh, fills all the body with a libidinous humour, and is indeed the ouerture of all Ladies: which to preuent, J haue banisht <HI>Ge∣rardine</HI> (your dearly beloued) my house, and as for you, since I <GAP DESC="missing" EXTENT="2 pages" DISP="〈2 pages missing〉"/></P>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB REF="3"/>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>In her smile deceitfull.</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Jn her hate reuengeable.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>And in nothing but her death acceptable, Jle tell thee: ther's no creature more desirous of an honest name and <HI>worse keepes it, then a woman,</HI> Dost heere, follow this song &amp; if euer thou forsake thy Country for a wagtayle, let me be whipt to death with ladies hearelaces.</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>Letts heere that worthy song Gentill master <HI>Lipsalue.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lips.</SPEAKER>
+<L>Obserue? <HI>Now if</HI> I <HI>list will I loue no more</HI></L>
+<L><HI>Nor longer waite vpon a gill.</HI></L>
+<L><HI>Since euery place now yeeldes a wench</HI></L>
+<L><HI>If one will not another will</HI>;</L>
+<L><HI>And if what I haue heard be true</HI></L>
+<L><HI>Then young and old, and all will doe</HI>:</L>
+<L>How dost thou like this? man.</L>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<L>No more no more,</L>
+<L>This is the chamber which Confines my loue,</L>
+<L>This is the <HI>Abstract</HI> of the spacious world,</L>
+<L>VVithin it holds a <HI>Iemm,</HI> so ritch so rare</L>
+<L>That Arte or nature neuer yet could set</L>
+<L>A valued prise to her in valued worth.</L>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<L>Vnvalued worth, ha ha ha! VVhy? shees but a woman,</L>
+<L>And they are windy turning veins, loue light as chaffe which when</L>
+<L>Our nourishing graynes are winnow'd from them,</L>
+<L>Vnconstantly they flye at the least wind of passion</L>
+<L>A womans eye, can turne it selfe with quick dexterity</L>
+<L>And in each wanton glasse can comprehend</L>
+<L>Theyr sundry fancy suted to each fend</L>
+<L>tut their loues are all compact of leuitie</L>
+<L>euen like themselues, <HI>Nil muliere lenius.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Tut man euery one knowes their woorth, when they are at a rack rent; In the tearm time, they beare as great a prise as wheat when transportations are.—</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>Peace lets draw nere the window and listen if we may heare her.</P>
+<STAGE>Enter Maria at the window,</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Debard of liberty! Oh that this flesh</L>
+<L>could like swift mouing thoughts transfer it selfe,</L>
+<L><PB REF="3"/>From place to place, vnseen and vndisolued:</L>
+<L>Then should no yron ribbes, or Churlish flinte</L>
+<L>diuide my loue and mee, <HI>Deer Gerardin</HI></L>
+<L>despight of Chaunce or Gardians Tyranny,</L>
+<L>Jde mooue within thy orbe and thou in myne.</L>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>She'd mooue within thy orbe, and thou in hers, blud she talk bawdy to her selfe: <HI>Guggin stand close</HI>;</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>But in vaine do <HI>I</HI> proclaime my greefe,</L>
+<L>when ayre and walls can yeeld me no reliefe.</L>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>The walls are the more stony <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>arted then,</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Peace good <HI>Gudgin</HI> gape not so loude.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Come thou my best companion, thou art sensible</L>
+<L>and canst my wrongs reitterate; Thou and <HI>I.</HI></L>
+<L>will make some myrth in spight of Tyranny:</L>
+<L>The black brow'd night drawn in her pithie wayne</L>
+<L>In starry spangled pride rides now ore heaune</L>
+<L>Now is the time when stealing minutes tell</L>
+<L>The stole delight ioyd by all faythfull louers</L>
+<L>Now louing souls contriue both place &amp; meanes,</L>
+<L>for wished pastimes onely I am pent</L>
+<L>within the closure of this fatall wall</L>
+<L>depriued of all my ioyes.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>My deare Maria be Comforted in this?</L>
+<L>the frame of heauen shall sooner sease to moue,</L>
+<L>bright <HI>Phaebus</HI> Steeds leaue their diurnall race</L>
+<L>and all that is forsake their naturall beeing</L>
+<L>Ere I forget thy loue.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Who'es that protestes so fast?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Thy euer vowed seruant <HI>Gerardine.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>O By your vows it seemes you'd faine get vp</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>I and ryde to.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>I would most lou'd <HI>Maria.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L><HI>I</HI> knew it: he that to get vp to a fair woman</L>
+<L>will stick to vow and swear, may be accounted no man,</L>
+<L>but tell me why hast thou chose this hower to visite me?</L>
+<L>which nor the day nor night can clayme but both</L>
+<L>or neyther, why in this twylight camst thou?</L>
+</SP>
+<SP>
+<PB REF="4"/>
+<SPEAKER>Ger.</SPEAKER>
+<L>T'auoyd suspitious eies, I come deare loue</L>
+<L>To take my last farewell, fitting this hower</L>
+<L>which nor bright day will clame nor pitchy night</L>
+<L>An hower sit to part conioyned soules,</L>
+<L>Since that my natiue soyle will not affoord</L>
+<L>My wisht and best content, I will forsake it</L>
+<L>And proue more strange to it then it to me.</L>
+<L>In times swift course all things shall find euent</L>
+<L>Bee it good or ill, &amp; destenies do graunt</L>
+<L>That most preposterous courses often gaine,</L>
+<L>What labor and direct proceedings misse.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>VVo't thou forsake me then?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Let first blest life forsake me, be constant</L>
+<L>My absence may procure thy more enlarge</L>
+<L>and then —</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Desires conceit is quick, I apprehend thee</L>
+<L>Be thou as loyal, as I constant proue,</L>
+<L>And time shall knit our mutuall knot of loue,</L>
+<L>VVear this my loues true pledge: <HI>I</HI> need not wish</L>
+<L>I know thou wo't returne, or will I say</L>
+<L>Thou mayst conceale thy selfe being return'd</L>
+<L>till <HI>I</HI> may make escape and visite thee.</L>
+<L><HI>I</HI> prethe loue attempt not to ascend</L>
+<L>my Chamber window by a lathered rope?</L>
+<L>th' entrance is to narrow: except this post</L>
+<L>VVhich may with ease, yet that is dangerous:</L>
+<L><HI>I</HI> pre thee do it not I heere some call: Farwell</L>
+<L>my constant loue let after actions tel;</L>
+<STAGE>Exit Maria▪</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>O perfection of women!</L>
+<L>A plague of such perfectiō, How she woes, by negatiues shows</L>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Thee? what to do? vnder colour of disswation</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Shees truely vertuous.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Tut man outward apparance is no authentick instance of the inward desires, women haue sharp faulcons eyes, and can soare aloft, but keepe them like Faulcons from flesh and they soone stoope to a gawdy lure.</P>
+</SP>
+<SP>
+<PB REF="4"/>
+<SPEAKER>Gera.</SPEAKER>
+<P>Why then Hugonot women are admirable An∣gells.</P>
+</SP>
+<SP>
+<SPEAKER>Gugg.</SPEAKER>
+<P>But Angels make them admirable diuels.</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>My loues chast smile to all the world doth speake hir spotles innocence.</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>Womens smiles are more of custome then of cur∣tesy, women are creatures, their hearts and they are full of holes, apte to receiue but not retaine affection; Thou wilt to morrow thou saift be gone, if thou wilt know the worst of a Cuntries marrie before thou goest, for if thou canst indure a curst wife, neuer care what company thou comest in.</P>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<P>Come merry gallants, will you associate me to my Cousin <HI>Purges</HI> the Potticaries, and take part of my parting feasts to night.</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>O his wife is of the family of Loue, Ile thither, per∣haps I may proue of the Fraternity in time, weele thither thats flat.</P>
+</SP>
+<STAGE>Exeunt omnes.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Act. 1. Sena. 3.</HEAD>
+<STAGE>Enter Mistrisse Purge Sola.</STAGE>
+<P>What <HI>Club, Club,</HI> is <HI>Club</HI> within there.</P>
+<STAGE>Enter Club.</STAGE>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Mistrisse.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Purge.</SPEAKER>
+<P>J pray what said Master <HI>Doctor Glister,</HI> will a come.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>A sent word a would, for a was but to carry a diet to one of his pacients; what call you hir, she that paints a day times, and lookes faire and freshe, on the outside, but in the night time is filthier then the inside of Bocardo, and is indeed far more vnsauory that know her forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>Went a to hir.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>A had a receipt for the Grincomes in his hand, and a said a would take that in his way.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>Tis well, and what guest besides him &amp; his wife will be here at supper.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>The first in my Account is Master <HI>Gerarine</HI> your cou∣sin:
+<PB REF="5"/>
+Master Doctor <HI>Glister</HI> and his wife: Master <HI>Drifat</HI> the Marchant, Master <HI>Lipsalue</HI> the Courtier, Master <HI>Guggin</HI> the gallant, and their pages. These J take will be your full num∣ber.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Then belike my roome shall be stuft with Courti∣ers and gallants to night: of all men I loue not these gallants, they'le prate much but do little, they are people most vncer∣taine: They vse great words, but little sence: great Beards, but little wit: Great breeches but no mony.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>That was the last thing they swore away.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Belike they cannot fetch it againe with swearing, for if they could, thers not a page of theirs, but wod be as rich as a monarch.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Ther's nothing mistrisse that is sworne out of date, that returnes; their first oath in times past was by the Masse: And that they haue sworne quite away: Then came they to their Fayth, as by my Faith t'is so: That in a short tyme was sworn away too; For no man beleeues now more then a sees. Then they swore by their honesties, and that Mistrisse you know is sworne quite away: After their honestyes was gone, then came they to their Gentilitie, and swore, as they were Gentlemen: and their Gentilitie they swore a∣waye so fast, that they had almost sworne away all the Auncient Gentrie out of the Land, which indeede are scarce mist: for that Yeomen and Farmars Sonnes, with the helpe of a few welchmen, haue vndertooke to supplie their places. That at the last they came to Siluer; and their Oath was, by the Crosse of this siluer, and swore so fast vppon that, that now they haue scarce left them a Crosse for to Sweare by.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Purge.</SPEAKER>
+<P>And what do they sweare by now their mony is gone.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>VVhy by () and God refuse them.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>And can they not as well say men refuse them, as God refuse them.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>No mistrisse, for men, especially Cittizens and riche
+<PB REF="5"/>
+men, haue refused them their bonds and protestations all∣ready.</P>
+</SP>
+<STAGE>Enter Master Purge.</STAGE>
+<SP>
+<SPEAKER>Mistrisse Pur.</SPEAKER>
+<P>Tis well, see how supper goes forward, and that my shooes be very well blackt, against J goe to the Fa∣milye.</P>
+<STAGE>Exit Club.</STAGE>
+<P>Now sweet Chick, where hast thou beene, in troth law I am not well, J had thought to haue spent the morning at the Fa∣mily, but now I am resolued to take pills, and therefore I prey thee desire Doctor <HI>Glister</HI> that a wud minister to me, in the morning.</P>
+</SP>
+<SP>
+<SPEAKER>Mast. Pur.</SPEAKER>
+<L>Thy will is known, and this for answer say,</L>
+<L>Tis fit that wisemen should their wiues obay.</L>
+<P>And now sweete duck know, I haue beene for my cousin <HI>Ge∣rardines</HI> Will and haue it, a has giuen thee a legacy, but the to∣tall is <HI>Marias.</HI></P>
+<STAGE>Enter Master Glister, Master Dryfatt, and Mistrisse Glister.</STAGE>
+<P>Master Doctour, your wife and master <HI>Dryfat</HI> are most wel∣come, now were my cousin <HI>Gerardine</HI> &amp; Master <HI>Lipsalue</HI> here, our number were complete.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>Is this franticke Will done, will master <HI>Gerardine</HI> to sea, let me tell you I am no whit sorry, let such as will be headstrong bite on the bridle.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Purge.</SPEAKER>
+<P>Tis here master Doctor, all his worth is <HI>Marias</HI> and lockt in a trunke, which by to morrow Sun, shall be deli∣uered to your custody.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Me thinks t'were a reasonable match to bestow your Neece on master <HI>Gerardine</HI>: A is a most hopefull gentleman, and his reuenue such, that hauing your Neeces portion to clere it of all incombraunces, t'will maintaine them both in a very worthy degree.</P>
+</SP>
+<SP>
+<SPEAKER>Doctor Glist.</SPEAKER>
+<P>Tut, you are master <HI>Dryfatt</HI> the Marchant, your skill is greater in Connyskins and Wollpacks, then in Gentlemen, his Lands be in Statutes, you Marchants were wont to bee Marchaunt staplers, but nowe Gentle∣men haue gotten vppe the trade, for there is not one
+<PB REF="6"/>
+gentleman amongst twenty but his land be ingagd in twen∣ty Statutes staple.</P>
+</SP>
+<STAGE>Enter Lipsalue, Gerardine and Guggin.</STAGE>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<L>Let euery man his humour haue, I do at none re∣pine,</L>
+<L>J neuer regard whose wenche J kisse, nor who doth the like by mine:</L>
+<L>Th' indifferent minds I hold still best, what euer does befall,</L>
+<L>For she that will doe with me and thee, will be a wenche for all; and how goes the squares.</L>
+</SP>
+<SP>
+<SPEAKER>Ma. Pur.</SPEAKER>
+<P>Your stay gentleman does wrong to a great many of good stomacks, your suppers expect you.</P>
+</SP>
+<SP>
+<SPEAKER>Guggin.</SPEAKER>
+<P>And we our suppers.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>And from what good exercise come you three.</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>From a play, where we saw most excellent <HI>Sampson</HI> excell the whole world in gate carrying.</P>
+</SP>
+<SP>
+<SPEAKER>Dry▪</SPEAKER>
+<P>Was it performed by the youths.</P>
+</SP>
+<SP>
+<SPEAKER>Lypsal.</SPEAKER>
+<P>By youths: why I tell thee we sawe <HI>Sampson,</HI> and J hope t'is not for youths to play <HI>Sampson</HI>: Beleeue it we sawe <HI>Sampson</HI> beare the Towne gates on his necke, from the lower to the vpper stage, with that life and admirable accord, that it shall neuer be equalled (vnlesse the whole new liuery of Por∣ters set their shoulders)</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>Fie fie, tis pitty young Gentlemen can bestow their time no better, This playing is not lawfull, for I cannot finde that either playes or players were allowed in the prime Church of <HI>Ephesus</HI> by the Elders.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Aha, I thinke she ticklde you there.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Purge.</SPEAKER>
+<P>Cousen <HI>Gerardine,</HI> shall the Will be read before supper?</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>Before supper I beseech you.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>J, I, before supper, for when these womens bellies be ful their bones will be soone at rest.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Well Master Doctor <HI>Pittie</HI> the state of a poore gentle∣man it is in you to stay his iourney, and make him &amp; your self happy in his choice.</P>
+</SP>
+<SP>
+<PB REF="6"/>
+<SPEAKER>Glist.</SPEAKER>
+<P>Hold you content shall this Will be read?</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Purge.</SPEAKER>
+<P>It shall, reade you good Master <HI>Lipsalue.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>Command silence then.</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Silence.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>In the name of God Amen. Know all men by these pre∣sence, that I <HI>Gerardine</HI> being strong of body, and perfect in sence.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Thats false, thers no louer in his perfect sence.</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Peace <HI>Dryfat.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lypsal.</SPEAKER>
+<P>Doe giue and graunt to <HI>Maria Glister</HI>: Daughter of <HI>Iohn Glister,</HI> and Neece to Docter <HI>Glister</HI> Physition, all my leases, lands, Chattels, goods and moueables whatsoeuer: This is starke naught, you cannot giue away your moueables, for Mistris Doctor and Mistris <HI>Purge,</HI> claime both shares in your moueables by reason of their legacies.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Thats true, for their legacies must goe out of your moueables.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>J put it in all my moueables, these following Legacies being paide.</P>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<P>Doe so good Master <HI>Lypsalue.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>Tis done.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Purge.</SPEAKER>
+<P>I pray reade onely the Legacies, for Supper staies.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>Well, the Legacies, first I giue to my Cousin Mistrisse <HI>Purge</HI> A fayre large standing, whats this, O Cup; A fayre large standing cup, with a close stoole.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Tis not so, tis not so.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>I cry you mercy, a close couer tis, To mistris Doctor I giue a fayre Bodkin of gold, with two orient Pearles atten∣ding the same: All which are in my Trunke to be deliuered to the keeping of <HI>Maria,</HI> In witnesse, &amp;c. Is this your VVill?</P>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<P>Tis.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>To it with your hand and seale.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Purge.</SPEAKER>
+<P>How is it Chicke, I must haue the standing Cup, and mistris <HI>Glister</HI> the bodkin.</P>
+</SP>
+<SP>
+<SPEAKER>Mast. Purge▪</SPEAKER>
+<P>Right sweet Duck.</P>
+</SP>
+<SP>
+<PB REF="7"/>
+<SPEAKER>Gerar.</SPEAKER>
+<P>I pray gentlemen put to your hands.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Come, your fists Gentlemen your fists.</P>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<P>Mistrisse <HI>Glister,</HI> I haue found you alwaies more flex∣ible to vnderstand the estate of a poore gentleman, then your husband was willing, therefore I haue thought it a poynt of charity to reueale the wrongs you sustained by your husbands loosenes. Let me tell you in priuate, that the Doctor cuckolds <HI>Purgo</HI> oftener then he visits one of his pacients: what a spares from you, a spends lauishly on hir: These Pothicaries are a kind of panders, looke to it, if a keepe <HI>Maria</HI> long close, it is for some lasciuious end of his owne.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>She is his Neece.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Tut, these Doctours haue tricks, your nicenes is such, that you can endure no polluted showes in your house, take heede least a make you a Bawde before your tyme, looke to it.</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>Come, our hands are testimonies to thy follyes, shall's now to supper, wee'l haue a health goe round to thy voyage.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>I and to all that forsweare mariage, and can be content with other mens wiues.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Of which consort you two are grounds, one touches</L>
+<L>the Base, and the other tickles the minikin.</L>
+<L>But to our cheare, come gentles let's away,</L>
+<L>The Roastmeat's in consumption by our stay.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<TRAILER>Finis Act. Primi.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>ACTVS SECVNDVS.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus Secundus, scena prima.</HEAD>
+<STAGE>Enter Maister Purge.</STAGE>
+<P>THe gray ey'd morning Braues me to my face, and calls me sluggard, tis tyme for Tradesmen to be in their
+<PB REF="7"/>
+shoppes, for he that tends well his shop, and hath an alluring wife, with a gracefull <HI>what de lacke,</HI> shall be sure to haue good dooings, and good doings is that, that crownes so many Cit∣tizens, with the hornes of aboundance. My wife (by ordinary course) should this morning haue been at the Family, but now her soft Pillow hath giuen her counsell to keepe her bed, Master Doctor should (indeed) minister to her: to whose pills she is so much accustomed, that now her body looks for them as duely, as the Moone shakes off the ould, and borrowes new hornes. J smile to my selfe to heare our Knights and gallants say, howe they gull vs Cittizens, when indeede wee gull them, or rather, they gull themselues: Here they come (in Terme tyme,) hyer Chambers, and perhaps kisse our wyues: Well: what loose I by that: Gods blessing on's heart I say still, that makes much of my wife, for they were very hard fauou∣red, that none could find in's heart to loue but our selues: Drugs would be dog cheape but for my priuate well practizd doctor, and such customers. Tut, iealousie is a hell, and they that will thriue, must vtter their wares as they can, and winke at small faults.</P>
+<STAGE>Enter Doctor Glister.</STAGE>
+<SP>
+<SPEAKER>Glist.</SPEAKER>
+<P>The tedious night is past, and the iocond morne lookes more liuely and fresh, then an oulde gentlewomans glazd face in a new perriwigge; By this time my humorous lo∣uer is at Grauesend, and J goe with more ioye to fetche his truncke, than euer the valiaunt <HI>Troianes</HI> did to drawe in the Grecian Iade, his goods shall into the walls of my <HI>Troy,</HI> and be offer'd to a face more liuely, then euer was that thrice rauisht <HI>Helen,</HI> yet with such Caution, that no daunger shall happen to me.</P>
+</SP>
+<STAGE>Lypsalue and Gudgin at seuerall dores, with their Pages, Shrimpe and Periwinde.</STAGE>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Master <HI>Lipsalue,</HI> welcome within ken, we two are so nearly linkt, that if thou beest absent but one two houres, thy acquaintance growes almost mouldy in my memory.</P>
+</SP>
+<SP>
+<PB REF="8"/>
+<SPEAKER>Lip.</SPEAKER>
+<P>And then fly blowne in mine how dost thou doe.</P>
+</SP>
+<SP>
+<SPEAKER>Shrim.</SPEAKER>
+<P>Fellow page, I thinke our acquaintance runs low to, but if it run not o' the lees, lets set it a tylt, and giue 'hem some dregs to their mouldy flye blowne complements.</P>
+</SP>
+<SP>
+<SPEAKER>Peri.</SPEAKER>
+<P>No rather lets pierce the Rundlets of our running heads and giue 'hem a neate cuppe of wagshippe, to put downe their Courtship.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Courtship, Cartship: for the tongues of Complemen∣ters runne on wheeles: but marke 'hem they ha' not done yet.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>And yfaith how yst: me thinkes thou hast been a long vagrant.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>The Rogation hath been long indeed: therefore we may salute as ceremoniously as Lawyers when they meete after a long vacation, who to renew the discontinud state Tale, they strech it out with such length, that whilst they greete before, their Clyents kisse them behind.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>If his nose were put i'the remainder of that state Tale, he would say twere an vnsauory one.</P>
+</SP>
+<SP>
+<SPEAKER>Peri.</SPEAKER>
+<P>J wonder why many men gird so at the Law.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Ile tell thee, because they themselues haue neither Law nor conscience.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>But what newes now? how stands the state of things at Brussels.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Faith weake and limber, weake and lymber: nothing but pride and double dealing, vertue is vices lacky; beggars suck like horsse leaches at the hart of bounty, and loues theame so tyerd and spurgald, that he can be no longer ridden with honesty.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>VVell fare the City yet: there vertue rides a cockhorsse cherisht and kept warme in good sables, and Fox furre, and with the breath of his nostrills, driues pride and couetousnes before him, like's owne shaddow: beggers haue whipping cheare, bounty obliges men too't, giues mony for Scrips and Scrolls, &amp; liberality seald with strong Armes and Herauldry, to out liue mortality: loue there wil see the last man borne, ne∣uer giue ouer while ther's an Arrow i'th Quiuer.</P>
+</SP>
+<SP>
+<PB REF="8"/>
+<SPEAKER>Lip.</SPEAKER>
+<P>Now we talke of loue, I do know not far hence so good a subiect for that humor, that if she would weare but the standing collor, and her things in fashion, our Ladies in the Court were but browne sugarcandy, as grosse as grocery to her.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>She is not so sweet as a potticaries shop is she?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>A plague on you, ha you so good a sent? for my life hee's my Riuall.</P>
+</SP>
+<SP>
+<SPEAKER>Gudgin.</SPEAKER>
+<P>Her Name begins with mistrisse <HI>Purge</HI> dus it not?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>True, the only commet of the City.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>I, if she would let her Ruffes streame out a little wider; but J am sure she is ominous to me, she makes ciuill wars and insurrections in the state of my stomach: J had thought to haue bound my self from loue, but hir purging comfets makes me loose body'd still.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>What has she ministerd to thee then?</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Faith some Lectuary or so.</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>J, I feare she takes too much of that Lectuary to stoope to loue, it keeps her body soluble from sinne, she is not troubled with carnall crudities, nor the binding of the flesh.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Thou hast sounded her then belike.</P>
+</SP>
+<SP>
+<SPEAKER>Lypsalue.</SPEAKER>
+<P>Not I: I am too shallow to sound her, shee's out of my Element, if I shew passion, and discourse of loue to hir, shee tells me I am wide from the right scope, she sayes she has an other Obiect, and aymes at a better Loue then myne.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>O thats her husband.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>No, no, she speakes pure deuotion, shees impenitrable, no gold, or Oratory, no vertue in hearbs, nor no physick will make her loue.</P>
+</SP>
+<SP>
+<SPEAKER>Gudgin.</SPEAKER>
+<P>More is the pitty I saye, that fayre weomen should prooue Saintes, before Age had made them croo∣ked: Tis my lucke to be croft still, but I must not giue ouer the chase.</P>
+</SP>
+<SP>
+<PB REF="9"/>
+<SPEAKER>Lip.</SPEAKER>
+<P>Come hither boy while I thinke on't.</P>
+</SP>
+<STAGE>Lipsalue and Shrimpe conferre.</STAGE>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Faith friend <HI>Lipsalue</HI> I perceiue you would faine play with my loue, a pure creature tis, for whom I haue sought eue∣ry Angle of my braine: but either she scornes Courtiers (as most of them doe, because, they are giuen to boast of their do∣ings) or els shee's exceeding straight lac't: therefore to preuent this smell smock, Ile to my friend Doctor <HI>Glister,</HI> (a man ex∣quisite in th' Arte magicke) who hath toulde me of many rare experimentes auaylable in this case: Farewell friend <HI>Lyp∣salue.</HI></P>
+</SP>
+<STAGE>Exit Gud. and Periwind.</STAGE>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Adieu honest <HI>Gregorio,</HI> frequent my lodging, J haue a Violl de Gambo and good <HI>Tobacco:</HI> Thou wilt doe this feate boy?</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Else knocke my head and my pate together,</P>
+</SP>
+<STAGE>Exit Shrimpe.</STAGE>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Away then bid him bring his measure with him: <HI>Ge∣rardine</HI> is trauel'd, and I must needs be cast into his mould: my flesh growes proude; and <HI>Marias</HI> a sweet wench, &amp;c. But yet I must not let fall my suite with mistrisse <HI>Purge,</HI> least <HI>(Cede va∣canti)</HI> my friend <HI>Gudgin</HI> ioyne issue: Ile rather to my learned Doctor for a spell, for J haue a fire in my liuer, burnes like Hell.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Mistrisse Glister and Maria.</STAGE>
+<SP>
+<SPEAKER>Mist. Glist.</SPEAKER>
+<P>J pray lets haue no polluted feete nor Rumatick chaps enter the house, I shall haue my flowre looke more gre∣sie shortly, then one of your Inne of Court dyning Tables: and now to you good Neece I bend my speeche, let me tell you plainly, you are a foole to be loue-sicke for any man, longer then he is in your company, are you so ignorant in the rules of Courtship, to thinke any one man to beare all the pricke and praise? I tell thee, be he neuer so proper, there is an other to se∣cond him.</P>
+</SP>
+<SP>
+<SPEAKER>Ma▪</SPEAKER>
+<L>Let rules of Courtship be authentick still,</L>
+<L><PB REF="9"/>To such as doe pursue variety,</L>
+<L>But vnto those whose modest thoughts do tend.</L>
+<L>To honord Nuptialls, and a regular life</L>
+<L>As farre from shew of nicenesse, as from that</L>
+<L>Of impure thoughts, all other obiects seeme</L>
+<L>Respectlesse, of no proportion ballanst with esteeme</L>
+<L>Of what their soules affect.</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Glist.</SPEAKER>
+<P>No maruell sure you should regard these men with such reuerend opinion, ther's few good faces, and fewer graces in any of them, if one among a multitude haue a good paire of legs, he neuer leaues <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>iding the ring, till he has quite mar'd the proportion: nay some (as I haue heard) wanting ly∣niaments to their liking, and Calfe to support themselues, are fayne to vse Arte, and supply themselues with quilted Calu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s, which oftentimes in Reuelling fall about their Ancles, and for their behauiour, wit and discourse (except some few that are trauelled) it is as imperfectious and silly, as your Schollers new come from the Vniuersity, by this light I thinke we loose part of our happinesse when we make these weathercocks our equalls.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Disgrace not that for which our sect was made,</L>
+<L>Society in nuptiall beds aboue these ioyes</L>
+<L>Which louers tast, when their conioyned lips</L>
+<L>Suck forth each others soules, the earth the Ayre,</L>
+<L>Yea Gods themselues know none: <HI>Elisiums</HI> sweet</L>
+<L>J all that blisse which Poets pens describe</L>
+<L>Are only known, when soft and amorous foulds,</L>
+<L>Entwine the Corps of two vnited louers,</L>
+<L>VVhere what they wish, they haue yet still desire,</L>
+<L>And sweets are known without society.</L>
+</SP>
+<STAGE>Enter Wall.</STAGE>
+<SP>
+<SPEAKER>Nun.</SPEAKER>
+<P>Heer's <HI>Club</HI> forsooth and his fellowe prentise haue brought master <HI>Gerardines</HI> Trunke.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Glist.</SPEAKER>
+<P>Let them come in if their feete be cleane.</P>
+<STAGE>Ex.</STAGE>
+<P>So then your best beloued is gone, fayre weather after him; all thy passions goe with him, recomfort thy selfe wench in a bet∣ter choice, his loue to thee would haue bin of no longer con∣tinuāce
+<PB REF="10"/>
+then the vntrussing of his hose, then why sholdst thou pine for such a one.</P>
+</SP>
+<SP>
+<SPEAKER>Maria.</SPEAKER>
+<L>Shee's foolish sure, with what imperfect phrase,</L>
+<L>And shallow wit she answers me.</L>
+</SP>
+<STAGE>Enter Club and another with the Trunke.</STAGE>
+<SP>
+<SPEAKER>Mist. Gli.</SPEAKER>
+<P>Honest <HI>Club</HI> welcome, is this master <HI>Gerardines</HI> Trunke? he is gone then?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>I indeed mistris <HI>Glister,</HI> he is departed this transitory Citty, but his whole substāce is here inclosed, which (by com∣mand) we here deliuer to your custody, to the vse of mistrisse <HI>Maria</HI> according to the tenure of the premisses.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Place it here my honest <HI>Club,</HI> well done: and how does thy mistrisse▪ was she at the Family to day,— spit not good <HI>Club,</HI> J can not abide it.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Not to day forsooth, she hath ouercharged her selfe and her memory, she meanes to vse a moderation, and take no more then she can make vse of.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>And I pre thee <HI>Club</HI> what kind of creatures are these Familists, thou art conuersant with them.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>What are they? With reuerence be it spoken, they are the most accomplisht Creatures vnder heauen, in them is all perfection.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>As how good <HI>Club</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Omitting their outward graces, Ile show you only one instāce which includes all other: they loue their neighbors better then themselues.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Not then themselues <HI>Club.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Yes better then themselues, for they loue them beter then their husbands, and husband and wife are all one; there∣fore better then themselues.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Glist.</SPEAKER>
+<P>This is logick. But tell me doth she not endeauor to bring my Doctor of her side and <HI>Fraternity.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Let him resolue that himselfe for here he comes.</P>
+</SP>
+<STAGE>Enter Doctor Glister.</STAGE>
+<SP>
+<SPEAKER>Do. Gli.</SPEAKER>
+<P>O: hast thou brought the Trunk honest <HI>Club,</HI> I com∣mend thy honest care, heer's for thy paines.</P>
+</SP>
+<SP>
+<PB REF="10"/>
+<SPEAKER>Club.</SPEAKER>
+<P>J thank you master Doctor, you are free and liberall still, you'l command me nothing back?</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Doct. Glist.</SPEAKER>
+<P>Nothing but commendations, farewell: your sweet hart <HI>Gerardine</HI> is by this time cold of his hope to enioy thee: he'es gone, and a more equall and able husband shall my care ere long prouide thee: what clyents haue bin here in my absence wife?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Glist.</SPEAKER>
+<P>Faith Mouse none that I know, more then an old woman that had lost her Cat, and came to you for a Spell in the recouery.</P>
+</SP>
+<SP>
+<SPEAKER>Doctor Glist.</SPEAKER>
+<P>I thinke egregious ignorance will goe neere to saue this age, their blindnes takes me for a coniurer: yester∣day a Iustice of peace salutes me, with profer of a brace of An∣gells to helpe him to his footcloth, some 3. dayes before stoln, and was faine to vse his mans cloake in stead on't.</P>
+</SP>
+<STAGE>Enter Viall.</STAGE>
+<SP>
+<SPEAKER>Nun.</SPEAKER>
+<P>Heers a gentleman craues speech with you sir.</P>
+</SP>
+<STAGE>Exeunt Mistris Glister and Maria.</STAGE>
+<SP>
+<SPEAKER>Do. Gli.</SPEAKER>
+<P>Go in sweet wife, and giue my Neece good counsel:
+His name.</P>
+</SP>
+<SP>
+<SPEAKER>Nun.</SPEAKER>
+<P>He will not tell it me.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>His countenance.</P>
+</SP>
+<SP>
+<SPEAKER>Nun.</SPEAKER>
+<P>I can see nothing but his eies; the rest of him is so rapt in cloake, that it suffers no view.</P>
+<STAGE>Enter Lipsalue.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>Admit him, what should he be for a man: what Master <HI>Lipsalue</HI> is't you? why thus obscur'd, what discontent ouershadowes you.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>A discontent indeed Master Doctor, which to shake off, J must haue you extend your Art to the vtmost bounds: you Physitiās are as good as false dores behind hangings to Ladies necessary vses: you know the very hower in which they haue neither will to deny, nor wit to mistrust: faith now by the way, when are women most apt.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Gli.</SPEAKER>
+<P>Shall I vnbutton my selfe vnto you; after the receipt of a purgation▪ for then are their pores most open: but what creature of a Courtier is it, hath drawne your head into the woodcocks noose.</P>
+</SP>
+<SP>
+<PB REF="11"/>
+<SPEAKER>Lyp.</SPEAKER>
+<P>A Courtier? nay by this flesh, J am cleane faln out with them, they haue nothing proportionable.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>O I perceiue then tis some Citty Star that atracts your aspect.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>He knows by his Art —in plaine termes a certain Pothicaries wife.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>Vpon my life master <HI>Purge,</HI> I smell you sir.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>You may smell a man after a purgation indeed: Sir, tis she: Now for that same hath bruted you to be a man expert in negromancy, I would endeauour my selfe to you for euer, would you vouchsafe to let one of your Spirits bring Mistrisse <HI>Purge</HI> into some conuenient place, where I might enioy her: I haue heard of the like, can you performe this.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Gli.</SPEAKER>
+<P>With much facility I assure you: but you must vn∣derstand, that the apparition of a spirit is dreadfull, and with all couetous, and with no small summe of gold hyred to such feates.</P>
+</SP>
+<SP>
+<SPEAKER>Nun.</SPEAKER>
+<P>Sir heers another gentleman muffeld too, that desires present conference with you.</P>
+</SP>
+<SP>
+<SPEAKER>Doct. Glist.</SPEAKER>
+<P>Walke you into that roome, I will bethinke my selfe for your good, and instantly resolue you; let the gentle∣man come in: <HI>Lipsalue</HI> in loue with my vessell of ease? come to me to helpe him to a morsell most affected by mine owne pallat? No more but so, I haue shapt it, the conceit tickles me.</P>
+<STAGE>Enter Gudgin.</STAGE>
+<P>Sir, as a stranger J welcome you, what master <HI>Gudgin</HI> haue J caught you: J thought it was a gallant that walkt muffled, Come, let me behoulde you at full, heere are no Sergeants man.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Master Doctor, this my obscure comming requires an action more obscure: and in briefe this tis; Sir, you are held a man far seene in natures secrets, I know you can effect many things almost impossible; know then I loue mistrisse <HI>Purge,</HI> and oportunity fauours me not, nor indeed is she so tractable as I expected, if either by medicine, or your Art magikall, you can worke her to my will, J haue a poore Gallants rewarde sir.</P>
+</SP>
+<SP>
+<PB REF="11"/>
+<SPEAKER>Doct, Glist.</SPEAKER>
+<P>Thats iust nothing. But how sir would you haue me to procure you accesse to mistrisse <HI>Purge,</HI> you neuer knew a physition a bawde.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Why by coniuration (I tell you) wherin you are said to be as well practiz'd, as in Phisick; heer's the best part of my present store to effect it.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>Not a penny for my selfe, but my Spirits indeede they must be fed; walke you by here, while I thinke vpon a spell. What mystery should this be, <HI>Lipsalue</HI> and <HI>Gudgin</HI> both in loue with mistrisse <HI>Purge,</HI> and come to me to helpe 'hem by Art magicke? Tis some gullery sure; yet if my inuention hold, ile fit them:
+<STAGE>Enter one.</STAGE>
+Whose within there, fetch me in all hast two good whips, I thinke you may haue them not far hence; Jt shall be so, now tell me master <HI>Gudgin</HI> does no man know of your loue to mi∣strisse <HI>Purge</HI>:</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Not a man by my Gentry.</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>Then sir know ile effect it; but vnderstand withal, the apparition will be most horrid, if it appeare in his proper forme, and will so amaze and dull your sences, that your appe∣tite will be lost and weake, though mistrisse <HI>Purge</HI> should at∣tend it naked Now sir, could you name a friend with whome you are most conuersant, in his likenesse should the spirit ap∣peare.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Of all men liuing, my conuersation is most frequent with <HI>Lipsalue</HI> the Courtier.</P>
+</SP>
+<SP>
+<SPEAKER>Doct. Gli.</SPEAKER>
+<P>Tis ynough: ile to my Spirit— are these whips come there?</P>
+</SP>
+<STAGE>Enter one with whips.</STAGE>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<P>Ready here sir.</P>
+</SP>
+<SP>
+<SPEAKER>Doct. Glist.</SPEAKER>
+<P>So lie thou there; my noble gallants ile so firke you: Sir my Spirit agrees in <HI>Lipsalues</HI> shape; to morrow twixt the howres of foure and fiue, shall mistrisse <HI>Purge</HI> be rapt with a whirlwind into <HI>Lypsalues</HI> chamber, thats the fittest place: for by the breake of day <HI>Lipsalue</HI> shall be mounted, and forsake the City for three dayes, so my Spirit resolues me▪ Now sir, by my Art, at that very houre shall his chamber doore fly open,
+<PB REF="12"/>
+into which boldly enter in this sort accoutered: put me on a pure cleane shirt, leaue off your doublet, (for Spirits indure nothing polluted) take me this whip in your hand, and being entred you shall see the Spirit in <HI>Lipsalues</HI> shape, in the selfe same forme that you appeare; speake these words here ready written, take three bold steps forward, then whippe him soundly, who straight vanisheth and leaues mistris <HI>Purge</HI> to your will.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>I but shall your Spirit come arm'd with a whippe too?</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>He shall, but haue no power to strike.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Is this infallible, haue you seen the proofe?</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P><HI>Probatum</HI> vpon my word, I haue seene the expe∣rience, if it fayle, say I am a foole, and no Magician.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Master Doctor I would you had some suite at Court, by the faith of a Courtier, J would beg it for you: Fare you well Sir, I shall reporte of you, as I find your charme.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Doct. Glist.</SPEAKER>
+<P>And no otherwise sir; let me vnderstand how you thriue: ha, ha, ha, now to my friend <HI>Lipsalue,</HI> I must possesse him with the same circumstance, wherein J am assured to get per∣petuall laughter in their follies, and my reuenge.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Maria ouer the Trunke.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>O which way shall J turne, or shift, or goe,</L>
+<L>To loose one thought of care, no soothing hope</L>
+<L>Giues entermission, or beguiles one howre</L>
+<L>Of tedious Time, which neuer will haue end,</L>
+<L>Whilst loue pursues, in vayne my absent friend,</L>
+<L>Thou continent of wealth, whose want of stoare</L>
+<L>For that it could not peiz thvnequall Scale</L>
+<L>Of Auarice giu'st matter to my moane,</L>
+<L>O drosse the leauell of insatiate Eyes</L>
+<L>The Diuells Engine, and the soules corrupter,</L>
+<L>Thou plaist th' Atturney gainst the lawfull force</L>
+<L>Of true affection, dost enterpose a Barr,</L>
+<L>twixt Harts conioyn'd: Curst be thy seede of strife,</L>
+<L><PB REF="12"/>VVhose progresse choakes the naturall course of life.</L>
+</SP>
+<STAGE>Gerardine rising out of the Trunke, she seemes fearefull, and flyes.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>O helpe, helpe, helpe.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Stay sweet <HI>Maria,</HI> I bring thee ample ioy</L>
+<L>To check that sudden feare, let thy sweet heart</L>
+<L>That constant seate of thy affection,</L>
+<L>Repay that bloud exhausted from thy vaines;</L>
+<L>Feare not sweet wench? I am no apparition,</L>
+<L>But the firme substance of thy truest friend,</L>
+<L>Knowst thou me now?</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L><HI>Gerardine</HI> my loue?</L>
+<L>What vnheard of accident presents</L>
+<L>Thy vnexpected selfe, and giues my heart</L>
+<L>Matter of ioy, mixt with astonishment.</L>
+<L>I thought thou hadst bin cabyn'd in thy ship.</L>
+<L>Not Trunkt within my cruell gardyans house.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>That cruelty giues fuell to desire,</L>
+<L>For loue supprest fares like a raging fire</L>
+<L>which burnes all obstacles that stop his course,</L>
+<L>And mounts aloft; the Ocean in his source</L>
+<L>May easier hide himselfe, and be confynd,</L>
+<L>Then Loue can be obscurd; For in the mind,</L>
+<L>She holds her seate, and through that heau'nly essence,</L>
+<L>Is neare, when farre remote; her virtuall presence,</L>
+<L>Fills (like the Ayr) all places, giues delight,</L>
+<L>Hope in despaire and hart, gainst fell despite.</L>
+<L>That worst of men thy cruell gardyan may</L>
+<L>Keepe downe a while, but cannot dissipate</L>
+<L>what heau'n hath ioynd, for fate and prouidence,</L>
+<L>Gaue me this Stratagem, to let him know,</L>
+<L>That Loue will creepe, where tis restraynd to go.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I apprehend the rest: O rare conceit,</L>
+<L>I see thy trauell happily was faynd</L>
+<L>To win accesse, which with small ease thou hast gaynd:</L>
+<L>This Trunk, which he so greedily supposes,</L>
+<L><PB REF="13"/>Contaynes thy substance (as it doth indeed)</L>
+<L>Vpon thy fayre pretence, in liew of loue</L>
+<L>Bequeath'd to me, if death should stop the course,</L>
+<L>This Trunk (J say) he hugs; sink thou or swim,</L>
+<L>So he may feed his wolfe, that roote of Sin;</L>
+<L>His Auarice but heauen (that mocks mans might</L>
+<L>Giues this close meanes t'incist vpon our right.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Ingenious Spirit, true Oracle of loue,</L>
+<L>Thou hast preuented me, this was my plot,</L>
+<L>Whose end and scope I long to imitate,</L>
+<L>With accents free, and vncontrolld with feare,</L>
+<L>Do's oportunity stand fayre?</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Not now,</L>
+<L>Daunger stands centinell.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Then Ile retyre,</L>
+<L>We must be cautilous.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>So so, and Tyme</L>
+<L>Shall not oft turne his howr glasse ere ile find,</L>
+<L>Peace and occasion fitting to thy mind.</L>
+</SP>
+<STAGE>Exeunt,</STAGE>
+<TRAILER>Finis Actus Secundi.</TRAILER>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>ACTVS TERTIVS.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus Tertius scena prima.</HEAD>
+<STAGE>Enter Gerardine and Maria.</STAGE>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>THe coast is cleare, and <HI>Argus</HI> wakefull eies</L>
+<L>Securely sleep: time turnes to vs his front;</L>
+<L>Come sweet <HI>Maria</HI> of th' auspicious howres</L>
+<L>Lets take aduantage.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>With all my hart, J do imbrace the motion with thy selfe:</L>
+<L>Welcome sweet friend to liberty of Ayer,</L>
+<L>Which now me thinks doth promp our breaths to moue</L>
+<L>Sweet accents of delight, the ioyes of loue:</L>
+<L>How dost thou brooke thy little ease, thy Trunk?</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>That Trunke confines this Chest, this Chest contaynes</L>
+<L><PB REF="13"/>Th' vnbounded speculacion of our loue</L>
+<L>Incomprehensible: Griefe, ioy, hope, and feares</L>
+<L>(Thaffections of my mind) are like the spheares,</L>
+<L>VVhich in their iarring motions do agree,</L>
+<L>Through th' influence of loues sweet harmony.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Are not inferiour bodies here on earth,</L>
+<L>Produc'd and gouern'd by those heauenly ones?</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>They are.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>They iar (you say) yet in that strife maintaine</L>
+<L>Perpetuall league: why should their influence</L>
+<L>In rationall soules be checkt by erring sence?</L>
+<L>Or why should mutuall loue (confirmd by heau'n)</L>
+<L>B'infringd by men, me thinks tis most vneuen.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Thou argu'st well <HI>Maria</HI>: and this withall</L>
+<L>That Bruites, nor Animalls do proue a thrall</L>
+<L>To such seruility: soules that are wards</L>
+<L>To gold opinion, or th' undue regards</L>
+<L>Of broking men, wolues that in sheep-skin bands,</L>
+<L>Pray on the harts to ioyne th' vnwilling hands,</L>
+<L>Ruine fayre Stocks, when generous houses die,</L>
+<L>Or propagate their name with Bastardy.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Sterility and barennes ensue,</L>
+<L>Such forced loue: nor shall erronious men</L>
+<L>Peruert my setled thoughts, or turne mine eye</L>
+<L>From thy fayre obiect, which I will pursue,</L>
+<L>Rich in thy loue, prowde of this interuiew.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Ile suck these accents, let our breaths ingender</L>
+<L>A generation of such pleasing sounds,</L>
+<L>To enterchange delights: O my bloud's on fire,</L>
+<L>Sweet let me giue more scope to true desire.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>What wouldst thou more then our minds firm contract?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Tut words are wind▪ thought vnreduct to Art,</L>
+<L>Is but an Embrion in the truest sence.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I am beleagued I had need of sence,</L>
+<L>You make me blush: play faire yet aboue boord:</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Here me exemplify loues Latine word</L>
+<L>Together with thy selfe</L>
+<L><PB REF="14"/>As thus: harts ioynd <HI>Amore</HI>: take <HI>A</HI> from thence,</L>
+<L>Then <HI>more</HI> is the perfect morall sence,</L>
+<L>Plurall in manners, which in thee doe shine</L>
+<L>Saintlike, immortall, spotles and diuine.</L>
+<L>Take <HI>m</HI> away, <HI>ore</HI> in beauties name,</L>
+<L>Craues an eternall Trophee to thy fame,</L>
+<L>Lastly take <HI>o,</HI> in <HI>re</HI> stands all my rest,</L>
+<L>which <HI>I</HI> in <HI>Chaucer</HI> stile do tearm a iest.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>You breake all modest bounds, away, away?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>So when men come behind, do women say.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Come come, I say</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>I thats the word indeed,</L>
+<L>Men that come bold before, are like to speed.</L>
+<STAGE>Enter Lipsalue and Shrimp his Page.</STAGE>
+<P>But who comes here? <HI>monstrum horrendum,</HI> my nostrills haue the ranke sent of knauery, <HI>Maria</HI> lets remoue our selues to the window, and obserue this piece of mans flesh.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Now mistris <HI>Maria</HI> ward your selfe, if my strong hope fayle not, I shall be with you to bring.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>To bring what sir? some more o'your kind.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Faith boy thats mine ayme.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Jle be sworne sir, you haue a good loose, you let fly at chem a pace.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>I haue shot fayre and far off, but now I hope to hit the mark indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Shrim.</SPEAKER>
+<P>God saue it.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>But wher's the Signe?</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>VVhy there.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Thats a speciall thing to be obseru'd.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>I haue heard talke of the <HI>Gemini,</HI> me thinks that should be a Star fauourable to your proceeding.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>The <HI>Gemini,</HI> O I apprehend thee: that's because J am so like <HI>Gerardine,</HI> ha is't not so boy?</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>As if you were spit out ons mouth sir, you must needs be like him, for you are both cut out of a peece: but Lord sir,
+<PB REF="14"/>
+how you hunt this chase of loue, are you not weary?</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>Jndefatigable boy, indefatigable.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Fattigable (quoth you) you may call it leaneable well ynough, for J am sure it is able to make a man leane.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Tis my vocation boy, we must neuer be weary of well doing, loue's as proper to a Courtier, as precisenesse to a Puri∣tane.</P>
+</SP>
+<STAGE>Enter Gerardine and Maria aboue.</STAGE>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Loue (subbandy lust) a Punke in this place <HI>subintelli∣gitur.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lypsalue.</SPEAKER>
+<P>Boy I haue spyd my Saint.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Then downe on your knees.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Fly of, least she take thee for my familiar: Saue thee sweet <HI>Maria,</HI> Nay wonder not (for thou thy selfe art wonder,) To see this vnexpected gratulaion.</P>
+</SP>
+<SP>
+<SPEAKER>Maria.</SPEAKER>
+<L>VVhom do I see? O how my sences wander?</L>
+<L>Am not I <HI>Hero:</HI> art not thou <HI>Leander</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<P>Thar't in the right sweet wench more of that vayne;</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<L>Her passion ouercomes her, tis the kindest soule:</L>
+<L>O excellent deuise; it works, it works boy.</L>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Jt dos in deed sir, like the suds of an Alefat, or a washing Bole.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Ioy not too much, extreames are perillous.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>O weather beaten loue: <HI>Cisley</HI> go make a fire?</L>
+<L>Go fetch my ladder of Ropes, <HI>Leander's</HI> come.</L>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Marke how pretily in her rapture she harpes vpon <HI>Ge∣rardines</HI> trauell, let thextasie haue end for I am <HI>Gerardine.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<P>The diuell you are.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Ha? let me see, my loue so soone returnd.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<L>I neuer trauelld farther then thine eyes,</L>
+<L>My bruted iourney was a happy proiect,</L>
+<L>To cast a myst before thy iealouse gardyan,</L>
+<L>Who now suspectles, giues some hope t'attaine</L>
+<L>My wisht delight, before pursu'd in vaine.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Aske if he straynd not hard for that same proiect.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Has not that proiect ouerrackt thy braine.</L>
+<L><PB REF="15"/>And spent more wit then thou hast left behind.</L>
+</SP>
+<SP>
+<SPEAKER>Shrimp.</SPEAKER>
+<P>By this light she flowts him.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<L>No, wit is infinite I spent some brayne;</L>
+<L>Thy loue did stretch my wit vpon the Tenters</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Then is't like to shrinke in the wetting.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>It cottens well, it cannot choose but beare</L>
+<L>A prety napp; I tender thy capacity,</L>
+<L>A comfortable Caudle cherish it:</L>
+<L>But whers my fauour that I bid thee weare</L>
+<L>As pledge of loue.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Now dost thou put him toot,</L>
+<L>More Tenters for his wit, hee's <HI>Nonplus</HI> quite</L>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<L>I weare it sweet <HI>Maria</HI> but on hy dayes,</L>
+<L>Preserue it from the taynting of the ayre,</L>
+<L>What should J say: tis in my tother hose.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>How in your tother hose? he that J loue</L>
+<L>Shall weare my fauor in those hose he has on.</L>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Fiends and furies: block that I am.</P>
+</SP>
+<SP>
+<SPEAKER>Shrim.</SPEAKER>
+<P>In your tother hose? she talkt of a ladder of Ropes; if she would let it downe; for my life he would hang himselfe in't: Jn your tother hose? why those hose are in Lauender, be∣sides, they haue neuer a Codpeece: but indeed there needs no Iuy where the wine is good. In your tother hose?</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>I said you were too prodigall of wit.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<L>Expostulate no more, grant me accesse,</L>
+<L>Or else ile trauell to the wildernesse.</L>
+</SP>
+<SP>
+<SPEAKER>Maria.</SPEAKER>
+<L>Your onely way, go trauell till you tyer,</L>
+<L>Be rid, and let a gull discharge the hyer.</L>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>Master, the Doctor the Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Where? which way.</P>
+</SP>
+<SP>
+<SPEAKER>Shrim.</SPEAKER>
+<P>This way, that way, some way I heard him com∣ming.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>O boy J am abusd, gulld, disgrac't, my credit's crackt.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>You know thats nothing for a new Courtier.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>O I shall run beside my selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Shr.</SPEAKER>
+<P>No sir, thats my office, ile run by your side.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>My braine is out of temper, what shall J do?</P>
+</SP>
+<SP>
+<PB REF="15"/>
+<SPEAKER>Shr.</SPEAKER>
+<P><GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ke her councell sir, get a cullis to your capacity, a re∣storatiue to your reason, and a warming pan to your wit: he comes he comes.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Follow close boy, let him not see vs.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Doctor Glister.</STAGE>
+<SP>
+<SPEAKER>Doct. Glist.</SPEAKER>
+<P>VVhat more flatterers about my carrion? more battery to my walls? shall I neuer be rid of these Petronell Flashes? As for my friend <HI>Gerardine,</HI> the wind of my rage has blown him to discouer countries, and let the sea purge his loue away and him together, I care not: yong wenches now are all o'the hoigh: we that are gardyans must respect more besides Titles, gold lace, person, or parts, we must haue Lordships and mannors, elsewhere as well as in the man: wealth commands all, and wealth ile haue, or else my mynion shall leade Apes in hell. J must after this gallant too, ile know his randiuous, and what company he keeps.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER><HI>Ma</HI>:</SPEAKER>
+<L>Now must we be abrupt; retyre sweet friend</L>
+<L>To thy small ease; what more remaines to do,</L>
+<L>VVee'l consumate at our next enteruiew.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>So shall J beare my prisonment with pleasure,</L>
+<L>Looke thou but big or cruell, foe will yeeld,</L>
+<L>And giue to <HI>Hymen</HI> the honor of the field.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<STAGE>Enter Mistrisse Purge, and Club before her with a Linke.</STAGE>
+<SP>
+<SPEAKER>Mist. Purge.</SPEAKER>
+<P>Fy fy <HI>Club,</HI> goe a tother side the way, thou collowst me &amp; my ruffe, thou wilt make me an vnclean mem∣ber i'the congregation,</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Jf you be vncleane mistris, you may pure your selfe, you haue my masters ware at your commaundement, but what am I then, that does all the drudgerye in your House.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Thart born to't, why boy I can show thy Indentures thou giu'st no other milke: wee know how to vse all i'theyr kinde.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Y are my better in Barke and Rhyne, but in pith and
+<PB REF="16"/>
+substance I may compare with you: y'are aboue <GAP DESC="illegible" RESP="pdcc" EXTENT="2 words" DISP="〈◊◊〉"/> flesh mistrisse, and thers your boast, but in my tother part, we are all one before God.</P>
+</SP>
+<STAGE>Enter Dryfat.</STAGE>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>All one with me! dost thou sweare too? why then vp and ride.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>VVhither away mistrisse <HI>Purge</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur,</SPEAKER>
+<P>To the Family master <HI>Dryfat</HI> to our exercise.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>VVhat by night?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>O Lord, I sir, with the candles out too, we fructifie best i'th darke, the glance of the Eie is a great matter, it leads vs to other obiects besides the right.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Indeede I thinke we performe those functions best, when we are not thrall to the fetters of the body.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>The fetters of the body, what call you them?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>The Organes of the body, as some terme them.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Organes: fy, fy, they haue a most abominable sque∣king sound in mine eares, they edifie not a whit I detest hem: I hope my body has no Organes.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>To speake more familiarly Mistris <HI>Purge,</HI> they are the senses: the sight, hearing, smelling, tast, and feeling.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>I mary: (<HI>Mary</HI> said J Lord what a words that in my mouth) you speake now Master <HI>Dryfat</HI>: but yet let me tell you where you erre too: this feeling I will proue to be neither Organe nor fetter, it is a thing (a sence did you call it?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P><HI>I,</HI> a sence.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>VVhy then a sense let it be (I say it is that we can∣not be without: for (as I take it) it is a part belonging to vnder∣standing; vnderstanding (you know) lifteth vp the mind from earth; if the mind be lift vp, you know the body goes with it: also it descends into the conscience, and there tickles vs with our workes and doings: so that we make singular vse of fee∣ling.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>And not of the rest?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Not at that time; therefore we hold it not amisse to put out the candles, for the soule sees best it'h darke.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>You come to me now Mistris <HI>Purge.</HI></P>
+</SP>
+<SP>
+<PB REF="16"/>
+<SPEAKER>M. Pu.</SPEAKER>
+<P>Nay J will come to you else Mayster <HI>Dryfat:</HI> those senses (as you terme them) are of much efficacy in carnal mix∣tures, that is, when we crowde and thrust a man and a woman together.</P>
+</SP>
+<STAGE>Enter Purge and ouer heares them.</STAGE>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>What so close at it: I thought this was one end of your exercise. Byrlady I think there is smal profite in this, Ile winck no more for I am now tickled with a conceit that it is a scur∣uy thing to be a Cuckold.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>I commend this zeal in you Mistris <HI>Purge,</HI> J desire much to be of your society.</P>
+</SP>
+<SP>
+<SPEAKER>M. Pu.</SPEAKER>
+<P>Do you indeede, blessing on your heart: are you vp∣right in your dealings?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Yes, J do loue to stand to any thing I do, though J lose by it, in truth J deale but too truely for this worlde: You shall heare how farre I am enter'd in the right way already: Firste I liue in Charity and giue small Almes to such as bee not of the right Sect. J take vnder twenty i'th hunderd, nor no forfeiture of Bonds vnlesse the law tell my conscience I may doo't, I set no pot on a sundaies, but feede on cold meate drest a Satter∣dayes, I keepe no holy daies, nor fasts, but eate most flesh o'fry∣dayes of all dayes i'the week: J do vse to say inspir'd graces able to starue a wicked man with length, I haue <HI>Aminadabs</HI> and <HI>A∣brams</HI> to my god sonnes, and I chide them when they aske me blessing: and I doe hate the red letter, more then J follow the written verity.</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>Heer's Clergy.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>These are the Rudiments indeed Master <HI>Dryfat.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Nay I can tell you I am or will be of the right stampe.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>A pox o'your Stampe.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>Then learne the word for your admittaunce, and you will be much made on by the Congregation.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>I the worde good Mistresse <HI>Purge.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>A Brother in the Family.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Ynough J haue my lesson.</P>
+</SP>
+<SP>
+<SPEAKER>Pu.</SPEAKER>
+<P>So haue <HI>I</HI> myne, A Brother in the family, <HI>I</HI> must be a fa∣milist to day. Ile follow this geare while tis on foote yfayth.</P>
+</SP>
+<SP>
+<PB REF="17"/>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>Then shoare vp your eyes, and lead the way to the goodliest people that euer turnd vp the white o'th eye, giue me my booke <HI>Club,</HI> put out thy Linke, and come behind vs.</P>
+</SP>
+<STAGE>They knocke.</STAGE>
+<SP>
+<SPEAKER>Answer within.</SPEAKER>
+<P>Who's there?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Two brothers and a Sister in the Family—Let in.</P>
+</SP>
+<STAGE><HI>Purge</HI> knocks.</STAGE>
+<SP>
+<SPEAKER>—<HI>Within</HI></SPEAKER>
+<P>Who's there?</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>A Familiar brother.</P>
+</SP>
+<SP>
+<SPEAKER>Within.</SPEAKER>
+<P>Heers no roome for you nor your familiarity.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>How? no roome for me nor my familiarity? why whats the difference between a familiar brother, and a brother in the Family? O I know: J made eclipses of in, in this place where it should haue bin exprest, so that the want of in, put me cleane out; or let me see: may it not be some mysterie drawne from Arithmetick? For my life these Familists loue no substracti∣on, take nothing away, but put in and ad as much as you will, and after addition followes multiplication of a most <HI>Pharasi∣thipocriticall</HI> crue. VVell for my part I like not this family, nor indeed some kind of priuate lecturing that weomen vse: looke toot, you that haue such gadders to your wiues: self willd they are as children, and yfaith capable of not much more then they peeuish by custome, naturally fooles. J remember a prety wodden sentence in a preamble to an exercise, where the Reader prayed: that men of his Coate might grow vp like Cedars to make good waynscot in the house of sincerity, would not this waynscot phrase be writ in Brasse, to publish him that spake it for an Animall: why, such wodden pellets out of earthen Trunks, doe strike these females into admiration, hits 'hem home, sometimes (perhaps) in at one eare, and out at tother, and then they depart in opinion, wiser then their neighbours, fraught with matter, able to take down and mor∣tifie their husbands. VVell ile home now, and bring the true word next time: I shall expect my wife anon red hot with zeale, and big with melting teares; and this night do I expect, (as her manner is) she will weepe me a whole Chamberpot full, <HI>Loquor Lapides</HI>? do J cast pills abroad? tis no matter what I
+<PB REF="17"/>
+say, J talke like a Pothicary (as <HI>I</HI> am) <HI>I</HI> haue onely purgd my selfe of a little choller and passion, and am now armd with a patient resolucion, but how? to put my Hornes in my Poc∣ket? no:</P>
+<L>VVhat wise men beare is not for me to scorne,</L>
+<L>Tis a hornorable thing to weare the horne.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Lipsalue with his whip.</STAGE>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Fortune, deuills turd i'thy teeth, ile turne no more o'thy wheele, Art is aboue thy might: what though my proiect with Mistrisse <HI>Maria</HI> fayld, more waies to the wood then one, thers variety in loue. It is beleeud I am out of towne, my dore is o∣pen, the houre is at hand, all things squard by the Doctors rule, and now I looke for the Spirit to bring me warme comfort, to cloath my nakednesse, and that is Mistris <HI>Purge,</HI> the cordiall of a Familist, and come quickly good Spirit, or else my teeth will chatter for thee.</P>
+</SP>
+<STAGE>Enter Gudgin with his whips.</STAGE>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>O the naked pastymes of loue, the scourge of dulnesse, the purifier of vncleannesse, and the hot house of humanity: I haue taken phisick of master <HI>Purge,</HI> any time this twelue months to purge my humor vpon's wife, &amp; J haue euer found her so fugitiue, from exercise to exercise, and from family to Familie, that <HI>I</HI> could neuer yet open the close stoole of my mind to her: so that I may well say with <HI>Ouid: Hei mihi quod nullus amor est medicabilis herbis</HI>: now am J driuen to proue the violent vertue coniuration, if it hit, and that I yearke my familist out of the Spirit, ile hang vp my Scourge-sticke for a Trophee, and emparadize my thoughts, though the Doctor goe to the diuell, tis no matter: ha let me see; <HI>Lipsalues</HI> doore open! and himselfe out of towne? excellēt Doctor, soothsaying Doctor, oraculous Doctor.</P>
+</SP>
+<STAGE>Enter Doctor Glister aboue.</STAGE>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P><HI>I</HI> haue taken vp this standing to see my Gallants play at Barriers with Scourge-sticks for the honour of my Punke: and in good time <HI>I</HI> see my braue Spirits shining in bright Ar∣mour
+<PB REF="18"/>
+nakedly burning in the Hell fire of Lechery, and ready for the hot encounter: sound Trumpets, the Combatants are mounted.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>The apparition: Mistris <HI>Purge</HI> peeres through him, I see her.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>The spirit appeares: but he might haue come sooner: I am num'd with colde, a shiuering ague hath taken away my Courage.</P>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<P>They are afrayde one of another, looke how they trem∣ble, the flesh and the diuell strengthen 'hem: ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Has a no clouen feete, what a laxatiue feuer shakes me.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Will a not carry me with him to Hell? well I must ven∣ter: <HI>Clogmathos</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>My Cue: <HI>Clogmathathos.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>My Cue <HI>Garrazin.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P><HI>Garragas.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P><HI>Garrazinos.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P><HI>Ton tetuphon.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P><HI>Tes tetuphes.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ambo.</SPEAKER>
+<P>With a <HI>Whirley Twinos</HI>—they lash one another.</P>
+</SP>
+<SP>
+<SPEAKER>Ambo.</SPEAKER>
+<P>Hold, hold, hold, gogs nownes, Gogs blude, a pox, a plague, the Diuell take you, truce, truce, J smart, J smart.</P>
+</SP>
+<SP>
+<SPEAKER>Doctor.</SPEAKER>
+<P>Ha, ha, ha. O for one of the hoopes of my <HI>Cornelius</HI> Tub: I must needs be gone, I shall burst my selfe with laugh∣ing else:</P>
+<L>Magicke hath no such Rule, men can not find,</L>
+<L>Lust euer better handled in his kind.</L>
+<STAGE>Exit Doctor.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>What art thou? with the name of Ioue I coniure thee?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>With any name sauing the whip, ile no more of that coniuration a plague on't.</P>
+</SP>
+<SP>
+<SPEAKER>Gudg.</SPEAKER>
+<P>Speake art not a Spirit, in the likenesse of my friend <HI>Lipsalue,</HI> that should transforme thy selfe to mistris <HI>Purge.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>How? a Spirit? <HI>I</HI> hope Spirits haue no flesh and bloud, &amp; I am sure thou hast drawn bloud out of my flesh with the spi∣rit of thy whip.</P>
+<P>Then shall we proue to be honest Gulls, and the Doctour an errant knaue.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>A plague vpon him for a <HI>Glister▪</HI> he has giuen our loues a suppositar with a Recombentibus—Ile tell thee sirra.</P>
+</SP>
+<SP>
+<PB REF="18"/>
+<SPEAKER>Gud.</SPEAKER>
+<P>Tell not me, let me preuent thee, the winde shall not take the breath of our grosse abuse, we feele the gullery: Ther∣fore let vs sweare by our naked truths, &amp; by the hilts of these our blades, our flesh-tamers, to be reueng'd vpon that Parape∣ropandenticall Doctor, that pocky Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Agreed, wee'l Cuckold him, that hee shall not be able to put his head in at's dores, and make his precise puritanicall, &amp; peculiar Punke his Pothicaries drug there, a knowne Cocka∣trice to the world.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<L>Jf report catch this knauery, we haue lost our reputati∣ons for euer,</L>
+<L>Wherefore lets be secret;</L>
+<L>Ill tax we weomen of Credulity,</L>
+<L>VVhen men are gulld with such grosse foppery.</L>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<L>Come let vs in, and couer both our shames?</L>
+<L>This Coniuration to the world's a nouelty,</L>
+<L>Gallants turnd Spirits and whipt for Lechery.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>Act. 3. Scen. 4.</HEAD>
+<STAGE>Enter Maria and Gerardine out of the Trunke.</STAGE>
+<SP>
+<SPEAKER>Maria.</SPEAKER>
+<L><HI>Gerardine</HI> come forth <HI>Maria</HI> calls?</L>
+<L>Those Ribs shall not infoulde thy buxom Limbs</L>
+<L>One minute longer the cincture of myne armes</L>
+<L>Shall more securely keepe thy soule from harmes.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>VVhat heauenly breath of <HI>Phitonessaes</HI> powre</L>
+<L>(That raysd the dead corpes of her friend to life)</L>
+<L>Preuayles no lesse on me, for euen this vrne</L>
+<L>(The figure of my sadder <HI>Requiem</HI>)</L>
+<L>Giues vp my bones, my loue, my life, and all</L>
+<L>To her, that giues me freedome in my thrall.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Be briefe sweet friend, salute and part in one,</L>
+<L>For niggard time now threats with imminent danger</L>
+<L>Our late ioyd scope: Thy earnest then of loue</L>
+<L>Ere <HI>Sol</HI> haue compast halfe the signes <HI>I</HI> feare</L>
+<L>VVill shew a blushing fault, but t'was thy plot, thyne ayme,</L>
+<L>T'inforce consent in him that bars thy claime.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Loue salues that fault, let time our guilt reueale,</L>
+<L><PB REF="19"/>Ile neare deny my Deed, my hand, and Seale.</L>
+<L>The Elements shall loose their auncient force;</L>
+<L>VVater and earth suppresse the fire and Ayre,</L>
+<L>Nature in all vse, a preposterous course,</L>
+<L>Each kind forget his likenes to repaire,</L>
+<L>Before ile falsifie my faith to thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>The humorous bodies elementall kind,</L>
+<L>Shall sooner lose th' innated heate of loue,</L>
+<L>The Soule in natures bounds shalbe confind,</L>
+<L>Heauens course shall retragrade, &amp; leaue to moue</L>
+<L>Ere I surcease to cherish mutuall fire,</L>
+<L>With thoughts refind in flames of true desire.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>These words are odours in the sacred shrine</L>
+<L>Of Loues best deity: the mariage God</L>
+<L>Longs to performe these ceremonious rites,</L>
+<L>Which terminate our hopes; till mine grow full</L>
+<L>Ile vse that entercourse amongst my friends,</L>
+<L>That earst I did: then in the hight of ioy,</L>
+<L>Ile come to challenge interest in my boy.</L>
+<L>Till then farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Youle come vpon your Cue</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Doubt not of that;</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Then twenty times adieu.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<TRAILER>Finis Actus Tertij.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>ACTVS QVARTVS.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus Quartus, scena prima.</HEAD>
+<STAGE>Enter Lypsalue and Guggin, Shrimp and Periwincle.</STAGE>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>COme Boyes, our clothes boyes, and what is the most currant newes <HI>Periwincle.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Peri.</SPEAKER>
+<P>Faith sir, Fortune hath fauoured vs with no newes, but what the Pedlar brought from Norfolke.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>Is there nothing stirring at Court <HI>Shrimpe?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Shrim.</SPEAKER>
+<P>Faith there is sir, but nothing new.</P>
+</SP>
+<SP>
+<PB REF="19"/>
+<SPEAKER>Lip.</SPEAKER>
+<P>Good wag fayth, thou smellst somwhat of a Courtier, though thy Mother was a Citizens wife, Off with that filthy great Band, nay quick, on with your robe of sanctity; nay sud∣denly man.</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>And why must we shift our selues into this demure habite, if impossible to be of the Family, and keepe our owne fashion.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Tut man the name of a gallant is more hatefull to them, then the sight of a Corner Cap, hadst thou heard the prote∣stations the wife of a bellowsmender made but yesternight, a∣gainst Gallants, thou hadst for euer abiured Crimson bree∣ches. She swore that all Gallants, were persons inferiour to bellowsmenders, for the trade of Bellowsmaking was very ae∣riall &amp; high, And what were men and women but bellowes, for they take wind in at one place, and doe euaporate at ano∣ther; euaporate was her very phrase.</P>
+</SP>
+<SP>
+<SPEAKER>Guggin.</SPEAKER>
+<P>Me thinks her phrase flew with somwhat too strong a vapor.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Nay she proues farther, that all men receiue their being chiefly from bellowes, without which the fire burnes not, without fire the pot seeths not, the pot not seething, powdred Beefe is not to be eaten, of which she then auerr'd our nation was a great deuourer, and without which they could neyther fight for their Country abroad, nor get children at home: For sayd she, powdred beefe is a greate ioyner of nerues toge∣ther.</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>What answer madest thou?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Mary, that I thought a Bawde was a greater ioyner of nerues together, then powdred beefe, with that she protested, that a Bawde was an instrument of the Diuell, and as she had proued that bellowsmakers were of Gods trade, fo Bawdes were of the diuells trade: For (and thereupon she blew her Nose) the diuell and Bawdes did both liue by the sins of the people.</P>
+</SP>
+<STAGE>Enter Club and Mistrisse Purge.</STAGE>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>No more, mistris <HI>Purge</HI> is at hand.</P>
+</SP>
+<SP>
+<SPEAKER>Lyp.</SPEAKER>
+<P>Vanish boyes, away, make hast, before Ioue sheel be
+<PB REF="20"/>
+with vs ere we can be prouided for her.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Aduaunce your Lynke <HI>Club?</HI> At what time wert thou bound <HI>Club?</HI> At Guttyde: Hollantyde, or Candletide?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>I was bound indeed about Mydsommer.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>And when hath thy prentiship end, At Mychael∣tyde next?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>So I take it.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>They say Club you fall very heauy on such you loue not, you neuer learnt that of me.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Indeede mistris <HI>I</HI> must confesse, my falling is rusticke grosse, and butcherlike, marrie yours is a pretty foolish light Court take falling: Yet beleeue mee my master smelles some∣what too grosse of the Purgation, he wants tutering.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>And why <HI>I</HI> pray?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>My maister being set last night in his shoppe, comes maister Doctor Glister (as his maner is) squerting in sudden∣lye, and after some conference, tells my mayster that by his owne knowledge you were young with Childe, to which my maister replied, why maister Doctor, will yoe put me to more Charges yet?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Thou art a foole, In that my husband spake as wife∣lie as if the maister of his company had spoke▪ hee knowes Doctors haue receites for women, which makes them moste apt to conceyue, and hee promising a had ministred the same lately to me, thereupon spake it, Lead on with your link?</P>
+</SP>
+<SP>
+<SPEAKER>Lipsa.</SPEAKER>
+<P>Art ready?</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Readie.</P>
+</SP>
+<SP>
+<SPEAKER>Lips.</SPEAKER>
+<P>Then speak pittifully, looke scuruily, and dissemble cunningly, and we shall quickly prooue two of the fraternity <HI>Benediction and Sanctitie; loue and Charity</HI>: fall on Mistresse <HI>Purge,</HI> Syster of the family.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>And what I pray be you two?</P>
+</SP>
+<SP>
+<SPEAKER>Sa.</SPEAKER>
+<P>Two newly cōuerted from the rags of Christianity; to be∣come good members in the house of the family.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>VVho I pray conuerted you?</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P><HI>Dryfat</HI> the merchant.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pur.</SPEAKER>
+<P>And from what sinnes hath he conuerted you?
+<PB REF="20"/>
+From two very notorious Crimes, The first was from eating fishe on frydaies, and the second from speaking reuerently of the Clergy: but a resolu'd vs, your talent in edifying yong men went far beyond his.</P>
+</SP>
+<STAGE>Enter Mayster Purge.</STAGE>
+<SP>
+<SPEAKER>Ma. Pur.</SPEAKER>
+<P>A tallent I haue therein, I must confesse, nor am I very nice at fit times to show it; for your better instructions therefore, you must neuer hereafter frequent <HI>Tauernes nor Taphouses, no Maskes nor Mummeries, no pastimes nor Play∣houses.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Must we haue no recreation?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Yes, on the dayes which prophane lips call Holli∣dayes, you may take your Spaniell and spend some howres at the Duckingpond.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>What are we bound vnto, during the time we remaine in the Family.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>During the light of the Candle, you are to be very attentiue, which being extinguished, how to behaue your selues, I will deliuer in priuate whisper.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Pur.</SPEAKER>
+<P>Tis now come to a whisper, what yong Familists be these? yfaith Ile make one, ile trip you wife, <HI>I</HI> sent your footing wife.</P>
+<L>For <HI>Gallus</HI> writes, <HI>Paraselsus</HI> can tell,</L>
+<L>Pothicaries haue braines, and Noses eke to smell,</L>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>We shall with much diligence obserue it.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Pur.</SPEAKER>
+<P>J feare I shall haue small cause to thanke that diligence, but doe your worst, He that hath red fine hear-balls in one yeare, can finde a tricke which shall preuent this geare, they are going, follow <HI>Purge,</HI> close, close and softly, like a Horsekeeper in a Ladies matted Chamber at mid∣night.</P>
+</SP>
+<STAGE>Exeunt Gudgin, Lipsalue, and Mistrisse Purge.</STAGE>
+<SP>
+<SPEAKER>Within.</SPEAKER>
+<P>VVho knockes?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Brethren and a Sister in the Family.</P>
+</SP>
+<SP>
+<SPEAKER>Within.</SPEAKER>
+<P>Enter in peace.</P>
+</SP>
+<SP>
+<PB REF="21"/>
+<SPEAKER>Ma. Purge.</SPEAKER>
+<P>Brethren and a sister, thats the word, How bea∣stly was I mistaken last day, J should haue sayd a Brother in the Family—And I said a Familiar brother, for which J and my family were thrust out of dores: but as <HI>Titus Silus</HI> of Holborn bridge most learnedly was wont to say, <HI>qd</HI> —</P>
+</SP>
+<STAGE>He Knockes.</STAGE>
+<SP>
+<SPEAKER>Within.</SPEAKER>
+<P>VVhose there?</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Pu.</SPEAKER>
+<P>A brother in the family.</P>
+</SP>
+<SP>
+<SPEAKER>Within.</SPEAKER>
+<P>Enter, and welcome.</P>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Act. 4. Scena. 2.</HEAD>
+<STAGE>Enter Gerardine.</STAGE>
+<L>Thou sacred Dyety, loue:</L>
+<L>Thou power predominate, more to be admyr'd,</L>
+<L>Then able to be exprest, whose Orbe includes</L>
+<L>All terrene ioyes which are, all States which be,</L>
+<L>Pay to thy sacred Throne, as tribute fee</L>
+<L>Their thoughts &amp; liues like Ioues so must thy acts</L>
+<L>Indure no question, why, thy hidden facts,</L>
+<L>The Gods themselues obay, <HI>Heauen Synod</HI> holds,</L>
+<L>No Gods, but what thy awfull power controwls,</L>
+<L>The Delphian Archer proud with Pythons spoile</L>
+<L>At <HI>Cupids</HI> hand was forst to take the foyle:</L>
+<L>Not <HI>Mars</HI> his warlike Adamantine Targe,</L>
+<L>Could free his warlike brest at <HI>Cupids</HI> charge;</L>
+<L>And <HI>Ioue</HI> whose frowne all mortall liues bereaues</L>
+<L>This marble throne and Iuory Scepter leaues:</L>
+<L>And in the likenes of a Bull was seene,</L>
+<L>As forc't by him to beare the <HI>Tyrian</HI> Queen:</L>
+<L>Through <HI>Neptunes</HI> watry kingdome, if these submit</L>
+<L>My <HI>Metamorphos</HI> is not held vnfit:</L>
+<STAGE>Enter Drifat.</STAGE>
+<P>And see in most wisht occasion <HI>Drifat</HI> the Marchant presents himselfe: Sir, in the best of houres met, my thoughts had markt you out for a man most apt, to do them the fayrest of offices.</P>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>VVhat? art thou a welch Carrier, or a Northern Land∣lord, thart so saucy.</P>
+</SP>
+<SP>
+<PB REF="21"/>
+<SPEAKER>Gera.</SPEAKER>
+<P>Ist possible sir, my disguise should so much foole your knowledge? how, a Northern Landlord? can you thinke J get my liuing by a bell and a Clackdish?</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>By a bell and a Clackdish, how's that?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>VVhy by begging sir, know you me now?</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Ma. <HI>Gerardine,</HI> disguisd &amp; a shore, nay then J smel a Rat.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Master <HI>Dryfat,</HI> shall I repose some trust in you, will you lay by a while your Cities precise humour, will you not de∣ceiue me?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Jf I deceiue your trust, the generall plague seaze me, that is, may I die a Cuckold.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>And I say thou shall die a true Citizen, if thou conceale it: And thus in briefe, It stands with thy knowledge how seri∣ously I haue (and doe still affect <HI>Maria</HI>: Now sir, I haue so wrought it, that if thou couldst procure me a fellow, that could serue in steade of a Cryer, <HI>I</HI> my selfe would play Placket the Parritor, and summon Doctor <HI>Glister</HI> and <HI>Maria</HI> to appeare at thy house, and as he plaies the Parritor, so wouldst thou but assume the shape of a Proctor, I should haue the wench, thou the credit, and the whole City occasion of discourse this nyne dayes.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Hows this, hows this! <HI>I</HI> should procure a fellow to play the Parritor, and <HI>I</HI> my selfe should play the Proctor: but vpon what occasion should they be summoned?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Vpon an accusation, that Doctor <HI>Glister</HI> should get <HI>Maria</HI> his Neece with child, and haue Bastards in the Cuntery which <HI>I</HI> haue a trick to make probable.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>And now <HI>I</HI> recall it to memory, <HI>I</HI> heard somwhat to that effect last night, in master <HI>Beardbush</HI> the Barbers shop, but how will this sort, who shall accuse him?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Refer that to me, <HI>I</HI> say, be that my care, all shall end in merriment, and no disgrace touch either of their reputations.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Then take both word and hand, tis done, <HI>Club</HI> (mistrisse <HI>Purges</HI> prentice) shall be the Sumner.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>O my most pretious <HI>Dryfat,</HI> may none of thy daughters proue vessells with foule bungholes, or none of thy Sons hogsheads, but all true and honorable <HI>Drifats</HI> like thy selfe.</P>
+</SP>
+<SP>
+<PB REF="22"/>
+<SPEAKER>Dri.</SPEAKER>
+<P>VVell Master <HI>Gerardine,</HI> I hope to see you a Familist be∣fore I dy.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Thats most likely, for J hold most of their principles already: <HI>I</HI> neuer rayle nor calumniate any man, but in loue and charity; <HI>I</HI> neuer cousen any man for any ill will <HI>I</HI> beare him, but in loue and charity to my selfe: <HI>I</HI> neuer make my neigh∣bor a Cuckold for any hate or malice <HI>I</HI> beare him, but in loue and charity to his wife.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>And may those principles fructify in your weake mem∣bers: Ile be gone, and with most quick dexterity prouide you a Cryer: To morrow at my house (said you) they should ap∣peare.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Be that the time, most honored <HI>Dryfat,</HI> but be this known to none, most loued sir, saue <HI>Club,</HI> or to some other whom your iudgement shall select, as a fit person for our proiect.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Thus ynough time out of sight.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P><HI>Maria,</HI> thou art mine: earths affecton and natures glory, woman of what an excellency, if her thoughts and acts were squard and leueld with the fi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>st celsitude of her creation:</P>
+<L>T'inioy a creature, whose disheueld locks,</L>
+<L>Like gems against the repercussiue Sun,</L>
+<L>Giues light and splendor▪ whose starlike eyes</L>
+<L>Attract more gazar loues to see them moue</L>
+<L>Then the Tartarians God, when first <HI>Egeons</HI> Hill</L>
+<L>Amounts in triumph, a skin more pure and soft,</L>
+<L>Then is the silke-worme bed, to the more white</L>
+<L>Then newfalne Snow, or shining Iuorie,</L>
+<L>Is happinesse sought by the Gods themselues,</L>
+<L>Celestiall <HI>Venus</HI> borne without a mother,</L>
+<L>Be thou probitious, thee and I implore</L>
+<L>Not vulgar <HI>Venus, Heauens scorne and Mars his whoore.</HI></L>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Mistrisse Glister and Maria.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Good Aunt quiet your selfe, ground not vpon dreames, you know they are euer contrary.</P>
+</SP>
+<SP>
+<SPEAKER>Mi Gli.</SPEAKER>
+<P>Mynion, mynion, coyne no execuses; <HI>I</HI> graunt dreames are deceitfull, but a true iudgement grounded vpon know∣ledge neuer failes: what? haue not <HI>I</HI> obseru▪d the rising and
+<PB REF="22"/>
+falling of the bloud, the comming and going of the counte∣nance, your qualmes, your vnlacings, your longings, most eui∣dent tokens, besides a more certaine signe then all these too, you know't, I need not speake it; nay I am as skilfull in that point as my husband: I can tell you <HI>Aristotle</HI> speakes English enough to tell me these secrets: Body of me, so narrowly lookt too, and yet fly out? well, <HI>I</HI> see maydes will ha'te, in spite of Lawes or lockes that restrayne 'hem, they will open, doe men what they can.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I see my fault appeares, simplicity</L>
+<L>Hath no euasion: tis bootlesse to deny,</L>
+<L>Where guilty bloud, cited by touch of shame,</L>
+<L>Runs through my veines, and leaues my conscience staine,</L>
+<L>Euen in my face for beare I doe beseech you,</L>
+<L>To publish my defame, what I haue done,</L>
+<L>You shall not answer, I must beare mine owne.</L>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Beare your owne? I mary there it goes, what must you beare?</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>My sins forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Your sins forsooth: confesse to me, and goe not a∣bout the bush, you haue bin doing thats flat, you haue caught a clap, thats round, and answer me roundly to the point, or els ile square. Come whose act ist? I can not deuise vnlesse it be my husbands, for none else had accesse to thee; J am sure time has turnd his bald side to thee, and I doe but wonder how thou tookst oportunity: speake, tell me.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Now good Aunt presse me not, let time reueale</L>
+<L>What you suspect, for neuer shall my tongue</L>
+<L>Confesse an Act that tends vnto my wrong.</L>
+</SP>
+<STAGE>Enter Gerardine like a Porter.</STAGE>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>VVill you not boult, I must ha't out on you, and will.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>By your leaue mistrisse.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Passion of my heart, what art thou?</P>
+</SP>
+<SP>
+<SPEAKER>Ger</SPEAKER>
+<P>No Ghost forsooth, tho' I appeare in white.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>No, but a saucy knaue J perceiue by your manners.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>None of that Liuery neither: <HI>I</HI> am of the bearing trade forsooth, you may see by my Smock—frock I wold say: I am (if it please you) of the spick &amp; span new set vp Company of Por∣ters,
+<PB REF="23"/>
+<HI>Heer's my Brest plate, and besides our own Armes</HI> we haue the armes of the Citty to help vs in our burthens, <HI>Ecce signum</HI>: heer's the Crosse, and the sword of Iustice in good Pewter, J can tell you which goes as currant with vs as better mettall.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Whats your name sir?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P><HI>Nicholas Nebulo</HI> ther's but a strawes bredth between that and the Armes, tis in the back side of the Crosse heere, &amp; well knowne in the Citty for an auncient name, and an honest an't like your worship.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>You are none of the 12 are you?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>No forsooth but one of the 24.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Orders of knaues, I thought so, sirra y'are a Rascall to come thus bluntly into my house with your durty Star∣tups, get you without doores like a filthy fellow as you are, a place more fit for you.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>O good words mistresse; I may be warden of my com∣pany for ought you know and for my bluntnesse we haue a clause in our Charter to warrant that for as we beare, so like∣wise we may be borne with, and haue free egresse and regresse where our busines lyes.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>And whats your busines heere?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>I haue a letter an't please you to maister Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>From whence?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>That I cannot shew your VVorship, but I had it of Cur∣tal the Carrier whose lawfull deputy I am.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Leaue your scraping sirra: fye how ranck the knaue smells of grease and Tapsdroppings.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Coughes and spitts.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>VVhat are you Rheumatick too with a vengeance?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Yes indeed mistresse, though I bee but a poore man, <HI>I</HI> haue a spice of the gentleman in mee, Maister Doctor could smell it quickly, by cause hee's a gentleman himselfe; I must to the diet and that is <HI>Tobacco</HI> at the Alehouse, J vse n'other phi∣sick for it.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Did euer such a peasant defile my floare, or breathe so near me: yfayth sirra you would be bumd for your Roguery if you were well seru'd.</P>
+</SP>
+<SP>
+<PB REF="23"/>
+<SPEAKER>Ger.</SPEAKER>
+<P><HI>I</HI> am bum'd well ynough allready Mistresse, look here else; surreuerence in your worship, maister Doctors lips are not made of better stuffe.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>What an impudent Rogue is this: sirra be gone <HI>I</HI> say, I would be rid o'you?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Be rid o'me? I shal gallop then: you mistake me forsooth <HI>I</HI> am a footpost, I do not vse to ride.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gl.</SPEAKER>
+<P>I think the Rascal be humorus or drunk: wel I wil read the letter and send him packing, or else hee will spew or do worse before me: fy on him, I think hee will infect me with some filthy disease.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Or else I loose mine ayme.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>VVhat's heere Your poore nurse <HI>Thomasine Sweed∣lesse</HI> for my life now shall I find out my husbands knauery, <HI>I</HI> haue so long suspected.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>She begins to nibble, twill take yfaith—mistresse</L>
+<L><HI>I</HI> see some discontentment in your looks,</L>
+<L>Care ill befittes so delicate a spirit.</L>
+<L>Be frolick wench for hee that is so neere thee</L>
+<L>has been much neerer?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>That Accent sounds sweet musick, tis my loue.</L>
+<L>That tong breaths life into my liueles spirits</L>
+<L><HI>Gerardine</HI>! ô rapture, why thus disguiz'd!</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>No more, be mute; thus must <HI>I</HI> vary formes</L>
+<L>To bring our Cares to end her Iealousy,</L>
+<L>Ensues this Dryft, which if it take true scope,</L>
+<L>Loues ioy comes next be fearelesse in that hope:</L>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Tis so: Ratsbane: I hate, it rack's on it torments me heere tis, —<HI>Woe worth the time that euer I gaue sucke to a Child that came in at the window god knows how</HI> villanous Lea∣cher; <HI>Yet if you did but see, how like the little red headed knaue is to his Father damnable Doctor</HI>: A Bastard in the Countrey, and an other towardes here J am out of doubt, this is his wo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ke. You are an Arrant Strumpet, Incest, fornication, abomination in my owne house; intollerable; O for long nailes to scratch out his Eyes.</P>
+</SP>
+<SP>
+<SPEAKER>Ger,</SPEAKER>
+<P>Or the breeches to fight with him.</P>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Out of my sight queane, thou shalt to Bridewell —O, I shall be mad with rage.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Then you shall goe to Bedlam.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>Hence you Slaue.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>I must haue a penny, you must pay me for my paines.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>The Diuell pay thee.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>O thats the Doctor, but he wants his hornes.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>But ile furnish him ere long if I liue.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>It works as I would wish, farewell <HI>Maria,</HI></L>
+<L>This storme once past, faire weather euer after.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>VVas euer woman so mou'd? but you shall be talkt withall, and for mine oulde fornicator, he shall ha't as hot as coales yfaith: heers stuffe indeed! Come mynkes come, ther's Law for you both, haue <HI>I</HI> found your knauery: if <HI>I</HI> winke at this, let me be stone blind, or ston'd to death, beare this and beare all.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<STAGE>Enter Lypsalue and Gudgin.</STAGE>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<L>Our hopes are crost, sure thers some prouidence</L>
+<L>VVhich countermaunds libidinous appetites,</L>
+<L>For what we most intend, is countercheckt</L>
+<L>By strange and vnexpected accidents:</L>
+<L>For by disguise procuring full accesse,</L>
+<L>Nay ready to haue feard thexpected prize</L>
+<L>The candle out, steps twixt my hopes and me</L>
+<L>Some pleasant Groine, possest and full inioyd</L>
+<L>That sweet, for which our vigilāt eies haue watcht</L>
+<L>And in one moment frustrates all our hopes.</L>
+</SP>
+<SP>
+<SPEAKER>Gudgin.</SPEAKER>
+<P>Vppon my life we are bewitcht, the greasie Ras∣call, that first seazed Mistrisse <HI>Purge</HI> (by the last reflection of the light) appeared to my sight not much vnlike her hus∣band.</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>The Courtes gall, the Citties plague, and <HI>Europaes</HI> Sea forme be his perpetuall Crest, what ere a was. To loose Mistrisse <HI>Purge</HI> for lacke of dexterity, is a disgrace insalueable. The like oportunity will neuer present it selfe.</P>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>Gudg.</SPEAKER>
+<P>Twas an egregious greefe, <HI>I</HI> must confesse to see a knaue slip betwixt vs both, and take occasion by the foretop, but since these proiects haue had so star crosse euents, lets lay some plot how to reuenge our late disgrace on the Doctor, by making him Cuckold.</P>
+</SP>
+<STAGE>Enter Purge.</STAGE>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>Agreed, but what melancholie sir with a crostick armes now comes from the Family?</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Purge the potecarie, J prethee lets step aside and heare the issue of this discontent.</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>O the miserie of married mens estate!</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>A begins very pittifully.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>O women what are many of you?</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>VVhy disease to batchelers, and plagues to maried men.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>O marriage, the rage of all our miseries, my wife is a de∣sembling strumpet.</P>
+</SP>
+<SP>
+<SPEAKER>Gudgin.</SPEAKER>
+<P>So is manie a mans besides yours, and what of that?</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P><HI>I</HI> would haue a law that all such which pray little should instantly be married, for then would they pray conti∣nually if it were but to be rid of their wiues.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>This is a charitable request and surely would passe the lower House.</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>Surely if affliction can bring a man to heauen I cannot see how any married man can bee damn'd, J haue made my selfe a plaine Cuckold.</P>
+<P>A pile on yee, want you? had you not been soe manable, here are some would haue saued you that labor.</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>VVhat shall I doe in this extremity, had I but witnesse of the fact, I woulde make her answere it before authority, This is my wedding Ringe; Tis hit I knowe it by the posy This I tooke from her finger
+<PB REF="25"/>
+in the dark, and she was therewith very well pleased, were not this tro, a sufficient testimony? She knowes not that it was my selfe got so neare her, J will take councell; well, litle know Batchelers the miseries they vndergo, when they prostrate themselues to women.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>O most true Master <HI>Purge,</HI> little knows a man what Ele∣ments a is to passe, when a puts his head vnder a womans girdle: your passion Master <HI>Purge</HI> is ouer heard, and (plaine tale to tell) we were eye witnesses of your wiues trechery, and if need be will be ready to depose as much.</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>What master <HI>Lipsalue</HI> and master <HI>Guggin</HI> are you disguised testimonies, nay then Reuenge looke big?</P>
+<L>Elphe and Phayrie</L>
+<L>Helpe to reuenge the wronged Poticary?</L>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Why now a speakes like himselfe, get me a Parritor for her straite?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Conceale the Ring, my little <HI>Purge,</HI> let not thy wife know thou hast it, vntill she comes to her triall.</P>
+</SP>
+<STAGE>Enter Drifat and Gerardine.</STAGE>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>Your aduices are very pithy, therefore in priuate let me disclose my intent.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Off boyes, <HI>Shrimpe</HI> what dost thou thinke of thy Ma∣ster, is a not a rare gull?</P>
+</SP>
+<SP>
+<SPEAKER>Per.</SPEAKER>
+<P>J thinke a will swallow, and pocket more disgraces then large consenst Lawyer Fees in a Michaelmasse Terme. Thy master my honest <HI>Periwincle</HI> comes not much shorte of a foole to, but that a is a Courtier.</P>
+</SP>
+<SP>
+<SPEAKER>Shrim.</SPEAKER>
+<P>Draw somewhat neere, and ouer-heare their confe∣rence?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>This shape of the Crier, must <HI>Club</HI> to morrow assume: Are you fitted for Popin the Proctor?</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Excellent! and haue spent some study in the mysticall cases of Venery: J can describe how often a man may lye with another mans wife, before a come to the white sheete.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>How long is that?</P>
+</SP>
+<SP>
+<PB REF="25"/>
+<SPEAKER>Dry.</SPEAKER>
+<P>Why till a be taken tardy.</P>
+<P>How long all women kind may by the statute professe and sweare they are maides.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>And how long is that?</P>
+</SP>
+<SP>
+<SPEAKER>Dryfa.</SPEAKER>
+<P>Why till their bellies bee so bigge that it cannot bee no longer conceal'd, but come forward towardes <HI>Glis∣ters.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>It must be so: let the sumner tickle her, you shall bring in these allegations and let vs alone to sweare them; who's this Mayster <HI>Dryfat?</HI> Oportunely met sir, and whyther so fast? The newes, the newes?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Faith Gentlemen, <HI>I</HI> think to relate for newes what I heere of Doctor <HI>Glister</HI> woulde come stale to your hea∣rings.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>O the getting of his neece with child, tut thats appa∣rantly known to all the companie, but in the name of Jupiter what art thou? or from whence camst thou?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>VVhy sir? I come from compassing the corners of the Land.</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Of what trade in the name of Pluto?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Of the deuils trade, for J liue as hee does, by the sinnes of the people, Jn breefe sir, I am Placket the Paritor.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>As the diuell would, we haue (my noble Partor) instant, imployment for thee; A grey groat is to be purchased without sneaking my little Sūner, wher's thy <HI>Quorum nomina</HI> my ho∣nest Placket?</P>
+</SP>
+<SP>
+<SPEAKER>Gerard.</SPEAKER>
+<P>Sir, according to the old Ballad; my <HI>quorum nomina ready haue I, with my pen and inkehorne hanging by</HI>: her name sir, her name?</P>
+</SP>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>Jst no more but so?</P>
+</SP>
+<SP>
+<SPEAKER>Purg.</SPEAKER>
+<P>I haue most right to her name, her name maister Plac∣ket is my wife, Mistresse <HI>Purge</HI> Sir: To what place dost thou belong?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>To the Commissioners, which sit to morrow at mai∣ster <HI>Dryfats</HI> vpon the crymes of Doctor <HI>Glister</HI> and others.</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>Sits there a commission <HI>Dryfat</HI>? Now for the loue of
+<PB REF="26"/>
+lechery, lets haue mistresse <HI>Purge</HI> summon'd, thether?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Shee makes my <HI>Quorum nomina</HI> reasonable full my graunt Sir and shee shall appeare there vpon a crime of con∣cupiscence, Js not that your meaning?</P>
+</SP>
+<SP>
+<SPEAKER>Pu.</SPEAKER>
+<P>Yes my honest Paritor, heers thy Fee.</P>
+</SP>
+<STAGE>Enter Club and Mistris Purge.</STAGE>
+<SP>
+<SPEAKER>Gug.</SPEAKER>
+<P>And see howe happily it succeeds, mistresse <HI>Purge</HI> is new come from the Familie, let vs step aside whilst Placket the paratour, giues her a Summons?</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>Content · Too her Placket But see for the bri∣berie of twelue pence you strike her not out of your <HI>Quorum nomina.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Feare not sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Forward apace Club.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Your name I take to bee mistresse <HI>Purge</HI> fayre gen∣tlewoman.</P>
+</SP>
+<SP>
+<SPEAKER>M. Pu.</SPEAKER>
+<P><HI>I</HI> am mistresse <HI>Purge,</HI> Purges wife the poticarie: what of that?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Now you shal see him tickle her with a <HI>Quorum nomina</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P><HI>I</HI> cite you by vertue of my <HI>Quorum nomina</HI> to make your personall appearance by eight of the clock in the morrowe morning, before certaine commissioners at master Dryfats howse to answer to an accusation of a crime of concupisence?</P>
+</SP>
+<SP>
+<SPEAKER>M. Pur.</SPEAKER>
+<P>To answere a crime of concupiscence, whats that I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>Why tis to answere a veneriall Crime, for hauing car∣nall copulation with others besides your husband.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>VVhat are you <HI>I</HI> pray?</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>By name Placket, By trade a parator?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Pu.</SPEAKER>
+<P>And must <HI>I</HI> answere say you, to a veneriall Crime? <HI>I</HI> tell thee placket the paritor, I am able to answere thee, or any man else in any veneriall crime theyle put mee to: And so tell your Commissioners:</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>If you fayle your appearance, the penaltie must fall heauy.</P>
+</SP>
+<SP>
+<PB REF="26"/>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<P>If it fall neuer so heauy, I am able to beare it and so set forward Club.</P>
+</SP>
+<STAGE>Exeunt Club and Mistris Purge.</STAGE>
+<SP>
+<SPEAKER>Lips.</SPEAKER>
+<P>Excellent yfaith after your wife <HI>Purge</HI>: Reade Placket thy <HI>quorum nomina</HI> my noble groat monger.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Silence, the first that marcheth in this fayre rancke is, <HI>Thum</HI> the feltmaker, for getting his mayd with child and sen∣ding his prentice to Bridewell for the fact, whyp the Bedel, for letting a punck escape for a nightes lodging, and bribe of ten groates, Batt the belman, for lying with a wench in a Taylers stall at midnight when a shoulde bee performing his office.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>And <HI>Tipple</HI> the Tapster for deflouring a virgin in his sel∣ler. Doctor <HI>Glister,</HI> his wife, <HI>Maria</HI>: mistresse <HI>Purge</HI> These bee the compleate nomber.</P>
+</SP>
+<SP>
+<SPEAKER>Lipsa.</SPEAKER>
+<P>Now dissolue and each to his occasion, till to morrow morning.</P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>ACTVS QVINTVS.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus quintus Seena Prima.</HEAD>
+<STAGE>Doctor Glister and Mistres Glister.</STAGE>
+<SP>
+<SPEAKER>Mi. Gl.</SPEAKER>
+<P>THis was your colour to keepe her close, but what Cloake ha' you for hers and your owne shame? VVhat your owne neece, your brothers daughter besides your bastard in the countrie?</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>Wife range not too farre <HI>I</HI> would aduise you? Come home in time? vex me not beyond sufferance: The two edg'd sword of thy tong, hath drawne bloud o'my? patience, I say thou art all this while in an error.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>No, thou hast been all this while in an Vrinall, thou hast gone out of thy compasse in womens waters, Y'are a con∣iurer (forsooth) and can rouse your Spirits into Circles, a you old Fornicator that euer I saw that read beard of thine; nowe could <HI>I</HI> raile against thy complexion. I think in my conscience the Trases &amp; Caparison of <HI>Venus</HI> coach, are made o'red hayres
+<PB REF="27"/>
+which may be a true Embleme, that no flaxen stuff, or tan'd white-leather drawes loue like 'hem; J thinke thou manurd'st thy Chin with the droppings of Egs and Muskadine, before it brisled: a shame take thee and thy Loadstone: but tis no mat∣ter, Master <HI>Placket</HI> the Parritor has cyted you, and you shall answer it.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>O the raging iealousie of a woman! do you heare wife I will shew my selfe a man of sense, and answer you with si∣lence, or like a man of wisedome, speake in briefe: I say you are a scowld, and beware the Cucking stoole?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Glist.</SPEAKER>
+<P>I say you are a nynnyhammer, and beware the Cuckoe; for as sure as J haue ware, ile traffique with the next Marchant venturer, and in good time here comes gallants of the right trade.</P>
+</SP>
+<STAGE>Enter Lipsalue and Gudgin.</STAGE>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>All alone mistrisse <HI>Glister?</HI> meditating who shalbe your next childs Father.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Indeed me thinks that should be one end of her thought an't be but to crie quittance with her husband, or whose abuse the Towne rings.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>Flax and fire, flax and fire, here are fellowes come in the nick, to light their matches at my tynder.</P>
+</SP>
+<SP>
+<SPEAKER>Lipsalue.</SPEAKER>
+<P>He tells you true mistrisse <HI>Glister,</HI> the Doctor hath made you ordinary in our Ordinaries, Satyres whet their tooths, and steep rods in pisse, Epigrams lye in Poetries pickle and we shall haue ryme out of all reason against you.</P>
+</SP>
+<SP>
+<SPEAKER>Gudgin.</SPEAKER>
+<P>Ere long hee will take vp his station at a Statio∣ners, where wee shall see him doe pennaunce in a Sheete at least.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>O I am netled, my patience is so prouoak't, that I must doffe my modesty: what shall I do? if yee be honest gen∣tlemen, counsell me in my reuenge, teach me what to do, make my Case your own.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>VVhy you are in the common roade of reuenge, take which hand you will, you cannot goe out o'your waye; tis as soone taken, as Tyme by his forepart.</P>
+</SP>
+<SP>
+<PB REF="27"/>
+<SPEAKER>Gud.</SPEAKER>
+<P>Faith since he has strooke with the sword, strike you with the Scabbard: in plaine termes Cuckold him: you may as easilie do't, as lye downe o'your bed.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>This geare cottens yfaith.</P>
+</SP>
+<SP>
+<SPEAKER>Mi▪ Gli▪</SPEAKER>
+<P>I apprehend you gentlemen: Lord how much bet∣ter are two heads then one, to make one large head?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>You say true mistrisse <HI>Glister,</HI> thers help requird in graf∣ting▪ and how happily we come to tender our seruice: let our pretence be to take physicke of the Doctor: and that he may with as much ease minister to vs, as we to you, wee'l take a lodging in his house.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>How say you to this, is the colour good? do'st like you?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Glist.</SPEAKER>
+<P>Passing well: the colour is so good, that you shall weare my fauour out o'the same peece.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Excellent, excellent, now shall we be reuengd for the whipping; mistrisse <HI>Glister</HI> let me be your first man?</P>
+</SP>
+<SP>
+<SPEAKER>Gud</SPEAKER>
+<P>Nay soft sir: I ply'd her as soone as you.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>I shold haue an oare in her boate too by right? <HI>spoke by.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>How ill aduisd were you to marry one with a red beard?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>O master <HI>Lipsalue,</HI> I am not the first that has salne vnder that ensigne: thers no complexion more atractiue in this time for weomen, then gold and red beards: such men are all liuer.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>J, but small hart, and lesse honesty.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Yes, they are honest too (in some kind) for theyle beg before they'l steale.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>Thats true, for, for one that holds vp his hand at the Ses∣sions, you shall haue ten come into the baudy Court.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>VVas euer Beard so backbitten: this were ynough to make red beards turne medley: and dash 'hem cleane out of countenance: but I hope like mine they feare no colours: and you were ten Courtiers ile front you: I must giue you physick with a pox: well, if I pepper ye not, call me Doctor Doddipoll: Master <HI>Lipsalue</HI> and master <HI>Gudgin</HI> you are hartily welcome, I am very glad to see you well.</P>
+</SP>
+<SP>
+<PB REF="28"/>
+<SPEAKER>Lip.</SPEAKER>
+<P>O master Doctor, your salutation is very suspitious?</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>Why master <HI>Lipsalue</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>It can scarce be harty, for physitians are rather glad to see men ill, then well.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>Not so sir, you must distinguish of men: though this J know, vertue is not the end of all science, which commonly keeps the professor poore, some study questuary and gainfull Arts, and euery one would thriue in's calling, but yfaith gen∣tlemen, what wind driues you hither?</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>The wind Collect master Doctor, or some such disease</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>But not the Stone Collect?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>O no sir, we haue no obstructions in those parts, we are loose ynough there.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>If you were troubled with that, my wife can tell you of an excellent remedy.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>We need it not, we need it not: but indeed master Do∣ctor, for some priuate infirmities (which our waters shal make knowne to you) we desire to take some physick of you for a few daies, and to that end we would take a lodging in your house during the time?</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Shall we intreate your fauour?</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>No entreaty gentlemen, you shall commaund me to search the very profundity of my skill for you. Haue them in wife, and show them their lodging? I will thinke vpon an o∣ther receipt, and follow you immediatly.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>And yfaith we shall requite your paines to the full.</P>
+</SP>
+<STAGE>Exeunt Lipsalue, Gudgin, Mistrisse Glister.</STAGE>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>To the foole you meane: I know you ha the horne of plenty for me, which you would deriue vnto me, from the li∣berality of your bawdies, not your minds; here are Lordes, that hauing learnd the <HI>O.P.Q.</HI> of Courtship, trauell vp and down among Cittizens wiues to shew their learning, and bringing vppe: as if the City were not already a good proficient in the Court Hornebooke: yes I warrant they haue heads as capa∣ble as other men; I and some of them can wisely say with
+<PB REF="28"/>
+the philosopher, that in knowing all they know nothing. VVell, because <HI>I</HI> am of the Liuery, and pay Scot and Lot a∣mongst you, doe but obserue how ile fetch ouer my gallants for your sakes; they say <HI>I</HI> am of the right hayre, and indeed they may stand too't, and hould the position good; sauing with my wife: soft, are they not at <HI>pro</HI> and <HI>contra</HI> already? <HI>I</HI> knowe they are hote spurres, and <HI>I</HI> must haue an eye to the maine. They haue bin whipt already for lechery, and yet the pride of the flesh pricks 'hem; well <HI>I</HI> must in, <HI>I</HI> haue giuen them such a Pill shall take 'hem downe, for lust must haue his fill.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Maria aboue.</STAGE>
+<SP>
+<SPEAKER>Ma</SPEAKER>
+<L>Now natures pensill, and the hand of time,</L>
+<L>Giues life and lym, to generations Act;</L>
+<L>My shame and guilt in wordles notes appeare</L>
+<L>The argument of scorne, O now J stand</L>
+<L>The Theame and coment to each liberall tongue,</L>
+<L>Whilst hope breeds comfort, and feare threats my wrong.</L>
+<L>O <HI>Gerardine</HI> how oft thy liuely figure</L>
+<L>(Deadly impressed in my yeelding temper)</L>
+<L>Assures me thou art mine: how fancy paynts</L>
+<L>Thy true proportion in my troubled sleepe,</L>
+<L>Because sole subiect of my dayly thoughts;</L>
+<L>O if thy vowes proue fayn'd, and thou vniust,</L>
+<L>I say and sweare, in men there is no trust.</L>
+</SP>
+<STAGE>Enter Gerardine.</STAGE>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Thus haue J past the Round and Court of Guard,</L>
+<L>Without the word: either conceipt is strong,</L>
+<L>Or else the Body where true lou's confin'd,</L>
+<L>VValkes as a Spirit, and doth force his way</L>
+<L>Through greatest dangers frightfull to those eies,</L>
+<L>That wayt to entercept him: <HI>Maria?</HI></L>
+<L>How like to <HI>Cynthia</HI> in her siluer Orbe</L>
+<L>She seems to me, attended by loues Lampe</L>
+<L>VVhose mutuall Jnfluence, and soules sympathy</L>
+<L><PB REF="29"/>Doth shew, heauens modell in mortality▪</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L><HI>Gerardine?</HI></L>
+<L><HI>Aurora</HI> now the blushing Sons aproache,</L>
+<L>D'art not more comfort to this Vniuerse</L>
+<L>Then thou to me: most acceptably come,</L>
+<L>The Art of number cannot count the howres</L>
+<L>Thou hast bin absent.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Infinity of Loue</L>
+<L>Holds no proportion with Arithmetick.</L>
+<L>Thinke not <HI>Maria</HI> but my hart retaynes</L>
+<L>A deepe impression of such thoughts as these:</L>
+<L>I haue bin forging of a myrthfull Plot,</L>
+<L>To celebrate our wisht Coniunction;</L>
+<L>Which now digested, come to summon thee</L>
+<L>To be an Actresse in the Comedy.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>How, where, whē, speake? myne eares are quick to heare,</L>
+<L>I stand on thornes already to be there.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>At <HI>Dryfats</HI> house the Marchant, ther's our Scene,</L>
+<L>Whose sequell (if I fail not in intent,)</L>
+<P>Shall answer our desires, and each content: But when saw'st thou <HI>Lipsalue</HI> and <HI>Gudgin</HI> our two gallants?</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>They are heere in the house: so handled by myne vncle, that they are the pittifullest patients that euer you beheld.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>No matter, he serues them in their kind, they were in∣famous in the Court &amp; now are grown as notorious in the Ci∣ty: they may happily proue particles in our sport, &amp; fit subiects for laughter: Tyme calls me hence, adieu, prepare to meet.</P>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>I shall outstrip the nimblest in my feet.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Act. 5. Scaena vltima.</HEAD>
+<STAGE>Enter Dryfat and Club.</STAGE>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Come <HI>Club</HI> come, thers a merry Fray towards, we shall see the death of melancholy, wherein thou and I must call a grand Jury of iests together, and passe vpon them with the Club Law.</P>
+</SP>
+<SP>
+<PB REF="29"/>
+<SPEAKER>Club.</SPEAKER>
+<P>Now as I am O, the Crier, &amp; yet but a yong Club, J haue not yet practizd that Law, you haue a whole dryfat on't, I pray you instruct me?</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Why tis a Law inacted (by the common counsell of Sta∣tute Caps) to qualify the rage of the Time, to follow, to call back, and sometimes to encounter gentlemen when they run in arrerages, I tell thee thers no auerment against our Booke Cases: Tis the Law call'd make peace, it makes them euen, when they are at ods, it shews 'hem a flat case, as plaine as a pack staffe, that is, knocks 'hem downe without circumstance</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>I marry I like that law well, tis studyed with the tur∣ning of a hand: ther's no quiddits, nor pedlers French in't, there needs no book for th' exposition o'th tearmes; tis as ea∣sily learned as the felling of wood, and getting of Children, all is but laying on loade the downe right blow.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>I and by the way of exhortation it prints this morall Sentence on their Costards, in Capitall Letters <HI>Agree? for the Law is costly.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Good good; but al this while ther's no Doctor thought on, we must haue one to arbitrate;</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>VVhy (maister <HI>Gerardine</HI>) man, has his name for the pur∣pose, he shall be call'd Doctor <HI>Stickler, Lupus est in Fabula,</HI> heere hee comes.</P>
+</SP>
+<STAGE>Enter Gerardine.</STAGE>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>How now lads do's our Conceit cotten, ha you sum∣mond your wits from wool gathering? Are you frought with matter for this merryment?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Full full, wee are in labor man, and we shall die with∣out midwiferie.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>We are rauisht with delight like the wench that was got with child against her stomach—O but if we could wrest this smock law (now in hand) to our Club law, it were excel∣lent.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Easily, easily, all shall be called the Club law.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>As how?</P>
+</SP>
+<SP>
+<PB REF="30"/>
+<SPEAKER>Dry.</SPEAKER>
+<P>VVhy thus: Club is the Crier, <HI>I</HI> am Poppin the Proctor and you Stickler the Doctor, he calls them to appeare, <HI>I</HI> must be of their counsel, &amp; you must attone them put 'hem together we may know their cases, and be in their Elements (mark you me) but they cannot be in ours, Tut, none knowes our secrets, we can speak fustian aboue their vnderstāding, &amp; make Asses eares attentiue, Ile play <HI>Ambodexter</HI> tell 'hem tis a playn Case and put 'hem downe with the club law; so that (as <HI>Club</HI> saide well ee'now) our knauery is as neere allied, as felling of wood and getting of children.</P>
+</SP>
+<SP>
+<SPEAKER>Gera.</SPEAKER>
+<P>Excellent excellent, by this they are at hand; lets bear these things like our selues; Ile withdraw and put on my habi∣liments and then enter for the Doctor.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Doctor Glister and Purge.</STAGE>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Do so, they come, they come? welcome Master Doctor Glister and maister Purge, ther's a commission to be sat vpon this day, to open a passage for imprisoned trueth, concerning Acts yet in <HI>tenebris.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Do. Gl.</SPEAKER>
+<P>True; I am brought hither by the malice of my wife</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>And <HI>I</HI> haue a iust Appeal against my wife.</P>
+</SP>
+<SP>
+<SPEAKER>D. Gli.</SPEAKER>
+<P>Maister <HI>Exigent</HI> (so I think you are call'd) I vnder∣stand you haue the Law at your fingers ends.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>I can box Cases, and scould &amp; scratch it out amōgst them</P>
+</SP>
+<SP>
+<SPEAKER>Do. Glist.</SPEAKER>
+<P>Indeed fame reports you to be a good Trumpeter of causes, <HI>I</HI> must retaine you sir to sound mine?</P>
+</SP>
+<SP>
+<SPEAKER>Dryfat.</SPEAKER>
+<P>My Sagbut shall do it most pathetically; tell me in briefe the nature of your Case?</P>
+</SP>
+<SP>
+<SPEAKER>Doc.</SPEAKER>
+<P>Faith sir, a scandalous Letter deuisd to wrong my repu∣tation, about a Bastard in the Country which should be mine.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>About a Bastard in the Country which should be yours? hum; tis very like you then, it should seeme.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>O no sir, vnderstand me, only father'd vpon me.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Only father'd vpon you, <HI>cum nemini obtrudi potest; I</HI> vn∣derstand you and like you wel to, you do not flatter your selfe in your own Case, no: tis not good, wel what more:</P>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<P>And about my Neece got with child, in my own house.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Byrlady burthens of some weight, which you make light of—you deny?</P>
+</SP>
+<SP>
+<PB REF="30"/>
+<SPEAKER>Doct.</SPEAKER>
+<P>What else sir, <HI>I</HI> haue reason.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P><HI>I</HI> know it well, <HI>I</HI> take you for no beast: beleue me (ma∣ster Doctor) denyall and reason are two maine grounds, stand vpon them and you cannot erre. Your case master <HI>Purge?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Purg</SPEAKER>
+<P>First take your fee master <HI>Exigent,</HI> that you may haue the more feeling, and vrge it home when you come toot, mine is a discouery of my wyues Iniquity at the Family of loue.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Otherwise call'd the house of Venery, where they hun∣ger and thurst for't.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>True sir, you haue heard of the hole in the wall, where they assemble together in the day time, like so many Bees vnder a hyue.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Come home <HI>Crura Thimo plena,</HI> and lodge among hornets, is't not so?</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>J cannot tell sir, but for my part, I am much noted as I go</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>No doubt of that sir, your wife can furnish you with notes out of her Cotations.</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>I and giue him a two tag'd point to tie 'hem together.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>But how came you to detect her?</P>
+</SP>
+<SP>
+<SPEAKER>Pu.</SPEAKER>
+<P>Why thus sir: getting the word, I dogd her to the Family where closing with her I whispered so pleasing a tale in her ear, that J got from her her wedding Ring, &amp; heer tis.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Well, out of that ring we wil wring matter that shal carry meat ith mouth. But what witnesse or proofe can you produce to make good your wiues iniquity, and your own Cuccoldry</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>Master <HI>Lipsalue,</HI> and Maister <HI>Gudgin,</HI> who were her cō∣panions at that same time.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Very good a, re they cited in the <HI>quorum nomina?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>they will be heere sir.</P>
+</SP>
+<SP>
+<SPEAKER>D. <HI>Gli.</HI></SPEAKER>
+<P>If they be they will beray all.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>So much the better twill sauor well for Master <HI>Purge.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pu.</SPEAKER>
+<P>You vnderstand my case now? D.<HI>Gl.</HI> And mine too sir?</P>
+</SP>
+<SP>
+<SPEAKER>Dri,</SPEAKER>
+<P>I do J do, they are as different as a Doctor &amp; a Dunce, a man and a beast, heers the Compēdium; yours master Doctor stands vpon the negatiue, &amp; yours master <HI>Purge</HI> vpon the affir∣matiue <HI>Pauca sapienti,</HI> J ha't, J ha't.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>Myne is very currant sir, J can shew you good gilt.</P>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Dry.</SPEAKER>
+<P>I marry, there spoke an Angell, guilt's currant indeed, let me feel't let me feelt.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>I meane my wiues guilt.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>Master Poppin, you shall haue Innocence to speak for me?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Tut, Innocence is a foole, I care not for's company, I can speake ynough without him.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>Then J hope you will be as good to vs, as the fiue-fin∣ger at Maw.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>No rather as <HI>Hercules,</HI> to lip labor 'hem with the Club Law, tut let me alone.</P>
+</SP>
+<STAGE>Enter Mistrisse Glister, Mistrisse Purge, and Maria.</STAGE>
+<SP>
+<SPEAKER>Mi. Glist.</SPEAKER>
+<P>O are you here sir, I haue brought you a full barne to glut your greedy appetite if you haue any maw, feede here till you choak againe: Now shall J see the whole Carkas of your knauery ript vp, if thou hast any grace, now will thy red beard turne white vpon't.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<L>O how haue I been tost from post to piller,</L>
+<L>Jn this libidinous world: the yoake I beare</L>
+<L>Is so vneu'n, as if an Innocent Lamb</L>
+<L>And a mad hare-braind Oxe should draw together:</L>
+<L>But I must haue patience ther's no remedy.</L>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Thers some difference between these two tempers.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>J would giue a hundred pounds my wife had so gentle a spirit.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>My wife must needs be gentle, for she can beare double.</P>
+</SP>
+<STAGE>Enter Gerardine.</STAGE>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Here comes master Doctour, now rig vp your vessells, e∣uery one to his Tackling.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Good day to all at once, and peace amongst you: fy how I sweate, J think <HI>Vulcan</HI> nere toyld so at his Anuill, as J haue done, and all to make maydes water to slake <HI>Cupids</HI> fire, and to turn his shafts from the fetherbed to the bed post, from the hart to the heele: Come master <HI>Poppin</HI> shall we to this geare?</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Reuerend Doctor we haue staid your comming: Cryer cry silence?</P>
+<STAGE>He cries.</STAGE>
+<P>Master Doctor: I haue heard in generall termes, the
+<PB REF="31"/>
+Tales of master Doctor <HI>Glister,</HI> and master <HI>Purge,</HI> which haue in mutuall manner iumped into the Quagmyre of my minde, out of which quagmyre (by your enforcement, and mine own duty) I plucke them vp by the eares, and thus in naked appa∣rance I present them.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P><HI>Ad rem, ad rem</HI> master Poppin: leaue your alegories,
+your metaphors, and Circumlocutions, and to the point?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Then briefly thus: I haue compared their tales, how short they will come of their wiues I know not: and first for mistrisse <HI>Purge,</HI> Cryer call mistrisse <HI>Purge</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P><HI>Rebecca Purge,</HI> wife to <HI>Peter Purge</HI> Pothicary, apeare vpon thy purgation, vpon paine of excommunication.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pu.</SPEAKER>
+<L>Here I am: O times impiety!</L>
+<L>Hither <HI>I</HI> come from out the harmlesse fold,</L>
+<L>To haue my good name eaten vp by wolues:</L>
+<L>See how they grin? well, the weake must to the wall,</L>
+<L><HI>I</HI> must beare wrong, but shame shall them befall.</L>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>VVho is her accuser?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Her own husband vpon the late discouery of a Crewe of narrow Ruste straite lac't, yet loose body'd Dames, with a Route of <HI>Omnium gatherums,</HI> assembled by the title of the fa∣mily of loue; which master Doctor if they be not punisht and supprest by our Club Law, each mans coppy hold, will become free hold, specialties will turne to generalities and so from v∣nity to parity, from parity to plurality, &amp; from plurality to vni∣uersalitie, their wiues, the onely ornaments of their houses and of all their wares, goods and Chattell, the chiefe moueables wil be made common.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>Most Voluble and eloquent proctor.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Byrladie these Enormities must and shall bee redrest, otherwise I see their Charter will bee infringd, and their aun∣cient Staffe of gouernment the Club (from whence wee de∣riue our law of Castigation) this club I say (they seeming no∣thlng lesse then men by their forepart) will be turnd vpon their owne heads. Speake <HI>Rebecca Purge</HI> art thou one of this fami∣ly? hast thou euer knowne the body of any man there, or else∣where Concupiscentically?</P>
+</SP>
+<SP>
+<PB REF="32"/>
+<SPEAKER>Mi. P.</SPEAKER>
+<P>No M. Doctor, those are but deuises of the wicked to trap the Innocēt, but I thank my spirit I haue feare before my eyes, which my husband sees not, because somthing hangs in's light.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>That's my hornes: she flowts me to my face, and I will not endure it: I shall carry her mark to my graue: master <HI>Doc∣tor</HI> she has giuen me that, that <HI>Esculapius</HI> (were he now extāt) could not heale, nor <HI>Edax rerum</HI> take away?</P>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<P>Produce your witnesse M. <HI>Purge,</HI> and blow not your owne horne?</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>Master <HI>Lipsalue</HI> and master <HI>Gudgin,</HI> let them be call'd.</P>
+</SP>
+<SP>
+<SPEAKER>Cl.</SPEAKER>
+<P><HI>Laurence Lipsalue</HI> &amp; <HI>Gregory Gudgen</HI> late of <HI>hic &amp; vbi{que}</HI> in the County of <HI>nusquam</HI> Gentlemen, come into the Court, and giue your euidence, vppon payne of that which shall en∣sue.</P>
+</SP>
+<STAGE>Enter Lipsalue and Gudgin.</STAGE>
+<SP>
+<SPEAKER>Doctor.</SPEAKER>
+<P>Heere they come, in payne I warrant them: how workes your physicke Gallantes? doe you goe well to the ground? now Cuckold the Doctor? wife who's your first man now, now strike with the scabbard: ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>A villanous Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Lip.</SPEAKER>
+<P>Mountybank y'are a rascall, and wee will cast about to be reueng'd.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Cast about this way, and beray what you can concer∣ning Mistrisse <HI>Purge,</HI> who stands heere vpon her purgation, either to prooue mundified or contaminated, according to the tenor peece of your principall Euidence, first giue 'hem the Booke?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Come, lay your hands vpon the Booke: you shall speake and auerre no more, nor wade no farther into the Creame pots of this womans cryme, then the naked trueth, and the cart-rope of your conscience shall conduct you, so helpe you the contents: kisse the booke.</P>
+</SP>
+<SP>
+<SPEAKER>Lips.</SPEAKER>
+<P>Alasse, we are not in case to answer largely, but if you will haue our euidence in briefe, I thinke I kist her at the Fa∣mily
+<PB REF="32"/>
+some three times; once at comming, once at going, and once in the middest, otherwise neuer knewe her disho∣nestlie.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>I, marke that middle kisse master Doctor?</P>
+</SP>
+<SP>
+<SPEAKER>Gud.</SPEAKER>
+<P>And for my part I haue bin more mortified by her, then euer I was prouokt.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>How say you to this master <HI>Purge,</HI> your witnesse is weake, and surreuerence on, without sounder proofe, they may depart to the close stoole whence they came, and you to your Pothicaries shop.</P>
+</SP>
+<SP>
+<SPEAKER>Pur.</SPEAKER>
+<P>No master Doctor, I haue an other boult to shoot, that shall strike her dead, she shall not haue a word to say.</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Answer me to this Mistrisse <HI>Purge,</HI> wher's your wed∣ding Ring?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>My wedding Ring? why what should J doe with vnnecessary things about me, when the poore begs at my gate readie to starue; is it not better (as I learned last Lecture) to send my substance before me, where I may find it, then to leaue it behind me, where I must forgoe it? yes verily; wherefore (to put you out of doubt) I haue giuen that Ring to charitable v∣ses?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Nay now she falters: my Clyent can shew that Ring, got from her at the Family, when these two Courtling had at the same time beleaguerd her Fort.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>This alters the Case cleane, what starting hole ha you now mistrisse <HI>Purge</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Purge.</SPEAKER>
+<P>Eene the Sanctuarie of a safe conscience: now truelie, truelie, (how euer he came by that Ring) by my Sisterhood I gaue it to the reliefe of the distressed <HI>Geneua.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>How! to the reliefe of the distressed <HI>Geneua</HI>? Justice master Doctor: I may now decline <HI>victus victa victum,</HI> one word more shall ouerthrow her: I my selfe was a Familist that day, who more Iealous then zealous in deuotion, thrust in amongst the rest (as I had most right) on purpose to sound her, to finde out the knauerie: short tale to make, <HI>I</HI> gotte her Ring, and heere it is? let her denye it if she can; and
+<PB REF="33"/>
+what more <HI>I</HI> discouer'd, <HI>non est nunc narrandi locus.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>Husband, <HI>I</HI> see you are hudwynck't in the right vse of feeling and knowledge, as if J knew you not then, as wel as the Child knowes his owne father, looke in the posye of my Ringe: does it not tell you that we two are one flesh? and hath not fellow feeling taught vs to know one another as wel by night as by day? husband husband, will you do as the blind Iade, breake your neck downe a hill because you see it not? ha you no light of nature in that flesh of yours? Now (as true as I liue maister Doctor I had a secret operation, and J knew him then to be my husband eene by very instinct.</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>Impudence dost not blush? art not asham'd to lie so abhominable.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Pur.</SPEAKER>
+<P>No husband, rather be you ashamed of your owne weaknesse, for, for my part J neither feare nor shame what man can doe vnto me.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Master <HI>Purge</HI> J see you haue spent your pith; therefore best make a full point at the ring, and attend our pleasure, mai∣ster Exigent proceed to the rest?</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Crier, call Doctor <HI>Glister?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>Doctor <HI>Glister, alias suppositar</HI> doctor of physicke, ap∣peare vpon thy purgation, vpon the bellie paine that may en∣sue therein.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>Here master Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>VVho is his accuser?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>His clamorous wife, who seems to enforce a separation about a Bastard in the Countrie, which should be his, only fa∣ther'd vpon him.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>VVhat proofe of that?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Gli.</SPEAKER>
+<P>Proofe vnaunswerable master Doctor, the Nurses Letter: let it be red, but first obserue his countenance? it may be his blushing will bewray his guilt.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Now by this light, <HI>I</HI> thought it had indeed, but <HI>I</HI> see tis but the reflexion of his beard, Reade the Letter Master Exigent?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>After my harty commendations remembred vnto
+<PB REF="33"/>
+your worshipfull doctorship, trusting in god that you are as∣well as <HI>I</HI> was at the making heereof thanks be to him there∣fore, The cause of my writing vnto you at this time is, to let you vnderstand that your litle sonne is turned a ragged colt, a verie stripling, for beeing now stript of all his cloathing, his backside wants a tayle-peece commendes it selfe to your fa∣therly Consideratiō. Wo worth the time that euer I gaue suck to a child that came in at the window, god knowes how. Yet if you did but see how like the peart little read headed knaue is, to his Father: and how like a Cock sparrow he mouses and touses my little Besse already, you would take him for your owne, and pay me my hier, <HI>I</HI> write not of the want of one thing for I want all things, wherfore take some speedy order or else as naked as he came from the mother will I send him to the father. From Pis. the xxii of —</P>
+<P>Your poore nurse <HI>Thomasiue Tweed es.</HI></P>
+</SP>
+<SP>
+<SPEAKER><HI>Doctor</HI>:</SPEAKER>
+<P>Maister doctor: Truth needes not the foyle of Rhe∣torick, <HI>I</HI> will onely in <HI>Monosillaba</HI> aunswere for my selfe, (as sometimes a wise man did) such and such things are laide to my charge, which J deny, you may thinke of mee what you please, but <HI>I</HI> am as innocent in this, as the child new borne.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>VVhy thers partly a confession: the child wee know is innocent and not new borne neyther: for it should seeme by the letter he is able to call his dad, knaue.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>You take me wrong master Proctor?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>Vnder correction thus much can I say for my clients Justification; Indeed hee hath trauel'd well in the beating of pulses, and hath been much conuersant in womens <HI>Iordanes,</HI> but he had euer a care to raise his patient, beeing before cast downe: his charitable disposition hath beene such to poore folke, that he neuer tooke aboue foure pence for the casting of a water, which good custome was so well knowne among all his patients, that if sixpence were at any time offered him they might be bold to aske and haue two pence againe. Hee hath been so skilfull and painfull withall, in the cure of the greene sicknes, that of my knowledge) hee hath risen at all
+<PB REF="34"/>
+houres in the night to pleasure maides that haue had it. And for that foule mouth'd disease tearm'd by a fine phrase— a pox on't what dee cal't? ô! the <HI>Grincomes,</HI> at that he hath plaid his doctors prize, and writes <HI>Nil vltra to all Bountibāckes.</HI> So that the wise woman in Pissing alley, nor she in Do-little lane are more famous for good deeds thē he. Then maister Doct∣or, out of these presumptions, besides his flatte denyall (a more infallible ground) you may gather his innocence, and let him haue his purgation.</P>
+</SP>
+<SP>
+<SPEAKER>Gerardine.</SPEAKER>
+<P>No Maister <HI>Exigent</HI> it is not so to be foysted off.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gl.</SPEAKER>
+<P>Nay mayster Doctor what saye you to his own Neece that looks big vpon him, an arrow that sticks for the vpshot against al commers, which by his restraint of her, from master <HI>Gerardine</HI> an honest Gentleman that lou'd her, and vpon that Colour from the sight and enter-course of other men, must by all presumptions be his owne Act.</P>
+</SP>
+<SP>
+<SPEAKER>Gerar.</SPEAKER>
+<P>O monstrous! this is a foule Blot in your Tables in∣deede.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>VVife thou hast no shame nor womanhood in thee, thy conscience knowes mee.</P>
+</SP>
+<SP>
+<SPEAKER>Mi. Gli.</SPEAKER>
+<P>True of thy flesh who knowes not that? thy bearde speakes for thee: I, J, thou liest by me like a Stone, but abroade th' art like a stone horse you old Timelifter.</P>
+</SP>
+<SP>
+<SPEAKER>Dri.</SPEAKER>
+<P>Cease your clamour, and attend my speach; most Wor∣shipfull, reuerend and iudiciall Doctor, for the quickning of your memory I will giue you a Breuiat of all that hath beene spoken: <HI>Master Doctor Glister</HI> hath a cradlefull and a bellie full (you see) thrust vpon him, and master <HI>Purge</HI> a head foole. Your wife is an angry honilesse waspe, whose sting I hope you need not feare? and yours carries honny in her mouth, but her sting makes your forehead swell: your wife makes you deafe with the shrill treble of her tong, and yours makes you horne mad with the tenor of her Taile. In fine, mayster Doctors re∣fuge is his conscience, and Master <HI>Purge</HI> runnes at his wiues Ring.</P>
+</SP>
+<SP>
+<PB REF="34"/>
+<SPEAKER>Ger.</SPEAKER>
+<P><HI>Summa totalis,</HI> a good Audit, ha you made master <HI>Exi∣gent</HI>: now attend my Arbitterment: For you Gallants though you haue incurd the daunger of the Law, by vsing counter∣fet keyes, and putting your hands into the wrong pocket; yet because <HI>I</HI> see you punisht and purgd already, my aduise is, that you learne the A.B.C. of better manners, goe backe and tell how you haue beene vs'd in the Citty, and beeing thus scour'd keepe your selues cleane, and the bedd vndefiled. For you Master <HI>Purge,</HI> because <HI>I</HI> see your Euidence insufficient, and indeed too weake to foyle your wiues vprightnesse, and seeing Iealousy and vnkindnesse, hath onely made her a stranger in your land of <HI>Ham</HI>; my counsell is that you readuance your Standard, giue her new presse mony?</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>You may enioyne me sir but —</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>But not at mee man, I will inioyne you, and conioyne you, and briefly thus, you haue your Ring that has made this combustion and vproare, that keepe still, weare it, and here by my edict bee it proclaymed, to all that are iealous, to weare theyr wiues Ring still on their fingers, as best for their securi∣tie, and the only charme against Cuckoldry.</P>
+</SP>
+<SP>
+<SPEAKER>Purge.</SPEAKER>
+<P>Then wife at master Doctors enioyntment (so thou wilt promise me to come no more at the Familie) <HI>I</HI> receiue thee into the lists of my fauor.</P>
+</SP>
+<SP>
+<SPEAKER>Mistr. Purge.</SPEAKER>
+<P>Truelie Husband my loue must be free still to Gods creatures, yea neuerthelesse preseruing you still as the head of my bodie, <HI>I</HI> will doe as the Spirite shall inable me.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Go too: thou hast a good wife, and there an end: vpon you master Doctor (beeing solicited by so apparant proofe) J can doe no lesse then pronounce a seuere sentence: and yet yfaith the reuerence of your calling and profession doth some∣what checke my austeritie, what if master <HI>Gerardine</HI> (by my perswasion would yet be induced to take your Neece and fa∣ther the child, would you launch with a thousand pound, be∣sides her fathers portion?</P>
+</SP>
+<SP>
+<PB REF="35"/>
+<SPEAKER>Doct.</SPEAKER>
+<P>Master Doctor I would, were it but to redeeme her lost good name.</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<P>Then foreknowing what would happen, I thought good in master <HI>Gerardines</HI> name, to haue this bond ready, which if you seale to, he shall take her with all faults.</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<P>That will <HI>I</HI> instantly—So, this is done, which to∣gether with my Neece doe I deliuer by these presents to the vse of master <HI>Gerardine.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>He thanks you hartily, and lets you know <HI>(they discouer themselues</HI></L>
+<L>That Indian mines and <HI>Tagus</HI> glistering oare</L>
+<L>To this bequest were vnto me but poore.</L>
+</SP>
+<SP>
+<SPEAKER>Doct. Gli.</SPEAKER>
+<P>What! <HI>Gerardine, Dryfat</HI> and <HI>Club</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Dry.</SPEAKER>
+<P>The very same: your are welcome to our Club Lawe?</P>
+</SP>
+<SP>
+<SPEAKER>Club.</SPEAKER>
+<P>The very same: your are welcome to our Club Lawe?</P>
+</SP>
+<SP>
+<SPEAKER>Ger.</SPEAKER>
+<L>Cease admiration here! what doubt remaynes</L>
+<L>Ile satisfie at full, now ioyne with me,</L>
+<L>For approbation of our Famylie.</L>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="epilogue">
+<HEAD>EPILOGVS.</HEAD>
+<L>Gentles whose fauor haue or' spread this place,</L>
+<L>And shed the reall influence of grace</L>
+<L>On harmlesse myrth▪ we thanke you, for our hope</L>
+<L>Atracts such vigor and vnmeasur'd scope</L>
+<L>From the reflecting splendor of your eyes,</L>
+<L>That grace presumd, feare in obliuion dies.</L>
+<L>Your iudgement as it is the Touch and Tryer</L>
+<L>Of good from bad, so from your harts comes fier,</L>
+<L>That giues both ardor to the wit refin'd,</L>
+<L>And sweetnesse th' Incense of each willing mind:</L>
+<L>O may that fier nere dye, nor let your sauors</L>
+<L>Depart from vs: giue countnance to their labors</L>
+<L>Propos'd a Sacrifice, which may no lesse</L>
+<L>Their strong desires, then our true zeales expresse.</L>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="35"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

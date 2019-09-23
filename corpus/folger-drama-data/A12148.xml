@@ -1,0 +1,5668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2005-02-23</DATE>
+<RESPSTMT>
+<NAME>Rachel Losh</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked <SUP>s</SUP>. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A12148">
+<STC T="S">22452</STC>
+<BIBNO T="oclc">21347995</BIBNO>
+<VID>23924</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>THE OPPORTVNITIE</P>
+<P>A COMEDY,</P>
+<P>As it was presented by her Majesties Servants, at the private House in <HI>Drury</HI> Lane.</P>
+<P>Written by IAMES SHIRLEY.</P>
+<P><FIGURE>
+</FIGURE></P>
+<P>Printed for <HI>Andrew Crooke,</HI> and are to be sold at the Castle Gate in <HI>Dublin.</HI> 1640.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y"/>
+<PB REF="2"/>
+<HEAD>TO MY TRVLY NOBLE, And my ever honored Friend, Captaine <HI>Richard Owen.</HI></HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P><SEG REND="decorInit">T</SEG>His Poeme, at my returne with you, from another Kingdome (wherein I enjoyd, as your imployments would permit, the happi∣nesse of your knowledge, and conversa∣tion) emergent from the Presse, and prepar'd to seeke entertainment abroad, I tooke boldnesse thus farre to direct to your name and acceptance; promised by my confidence in your love to Poesie, wherein your cleare judgement and excellent abilities would at first have made mee lesse adventurous. Be pleasd till time mature a worthy satisfaction to your favours, to smile upon this tender of my gratitude, and while your ser∣vices call you hence to enlarge your honour, by mak∣ing your faith and valour more exemplary against a rebellious enemy, let me preserve a peace at home, in the contemplation of your friendship, and be happy to professe my selfe</P>
+<CLOSER><SIGNED>Your humble Servant and Honoror, IA. SHIRLEY.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="3"/>
+<HEAD>The Actors Names.</HEAD>
+<LIST>
+<ITEM>Aurelio.</ITEM>
+<ITEM>Pisauro.</ITEM>
+<ITEM>Pimponio.</ITEM>
+<ITEM>Lucio.</ITEM>
+<ITEM>Pietro.</ITEM>
+<ITEM>Julio.</ITEM>
+<ITEM>Mercutio.</ITEM>
+<ITEM>Dutchesse and Ladies.</ITEM>
+<ITEM>Ferrara.</ITEM>
+<ITEM>Vrsini.</ITEM>
+<ITEM>Cornelia.</ITEM>
+<ITEM>Melinda.</ITEM>
+<ITEM>Laura.</ITEM>
+<ITEM>Borgia.</ITEM>
+<ITEM>Ascanio a Boy.</ITEM>
+<ITEM>Asca.</ITEM>
+<ITEM>Grutty.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="3"/>
+<HEAD>THE OPPORTVNITIE.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Act 1.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scene 1.</HEAD>
+<STAGE>Enter Aurelio, Pisauro, and Pimponio.</STAGE>
+<SP>
+<SPEAKER>Aur.</SPEAKER>
+<L><SEG REND="decorInit">E</SEG>Xpect me an howre hence, my friend and I</L>
+<L>Will walke and see the Citie, make it your</L>
+<L>Caroto get Supper ready.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>If I doe not</L>
+<L>I know who's like to fare the worse.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>And be not</L>
+<L>Drunke Sirra at our returne.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>Yes I doe use</L>
+<L>To be drunke before you often.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>About your businesse:</L>
+<L>And how dost like the towne, and situation.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Trouble me not to answer▪ such dull questions,</L>
+<L>I see nere a handsome girle yet, not a peece</L>
+<L>Of a <HI>bonaroba;</HI> and the Dutchesse hold</L>
+<L>But the complexion of those we ha seene,</L>
+<L>I wonot be corrupted with the pallace</L>
+<L>To be her bed-fellow.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>You'l change opinion;</L>
+<L>Perhaps we ha seene none but the rubbish, yet</L>
+<L>
+
+
+
+<PB REF="4"/>There may be beauties signior will tempt</L>
+<L>Your most fastidious appetite, I feare</L>
+<L>I shall have much adoe to stave thee from 'em,</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>To quit that feare le<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>s leave the Citie instantly;</L>
+<L>The meale wonot disgest women, I eate int.</L>
+<L>Not stave me from em?</L>
+<L>We are for the warres;</L>
+<L>This towne will turne my blood, I wonot give</L>
+<L>A <HI>I<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>lio</HI> for my courage i<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/> twelve houres,</L>
+<L>Vnlesse they tie their women <GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>p.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Thou hast,</L>
+<L>A minde to shew thou canst be satyre, patience</L>
+<L>But till to morrow and wee'l hence.</L>
+</SP>
+<STAGE>Enter Lucio.</STAGE>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>Sir, let my heart present your welcome home,</L>
+<L>Y'ave beene too long a stranger, I am happy</L>
+<L>To imbrace you agen.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Me, meaning me, dee know me?</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>I hope you are not jealous of my friendship,</L>
+<L>I thought our familiaritie before</L>
+<L>The sad misfortune came that made you banish</L>
+<L>Your selfe from <HI>Urbin</HI> had possest you throughly,</L>
+<L>How firme I dare be to you.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Doe you know him?</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Dost thou know him? I nere saw his eyes before</L>
+<L>To my best memory, are you not mistaken.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Perhaps in your affection which no art</L>
+<L>Hath ever made me guiltie to deserve,</L>
+<L>I never did betray my friend to make you</L>
+<L>Affect these clouds, but be it so.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>There is</L>
+<L>But one halfe hower added to our ages</L>
+<L>Since first we saw the Citie.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>In good time.</L>
+<L>I will be bold to acquaint some bawd else</L>
+<L>In whom you have more faith.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>What Riddle's this.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Is not the Gentleman o'th to sides on<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/> wits?</L>
+<L>
+
+
+<PB REF="4"/>What did he call you.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Nay I know not, he</L>
+<L>Said we had beene familiar, in his dreame sure,</L>
+<L>For waking I nere saw him.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>You should have ask'd his name.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>To what purpose prithee. <STAGE>Enter Pietro.</STAGE></L>
+<L>Why does that Gentleman stare upon us so.</L>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<L>Are you return'd, this is confidence</L>
+<L>You may repent.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Save you signior.</P>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>And you too.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Dee meane both on<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>?</P>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>One has some neede, yo're welcome Signior to <HI>Urbin.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Thanke you, what's your name I pray.</P>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<L>If you ha forgot mine, I remember <HI>Borgia.</HI></L>
+<L>A friend of yours, desires but to renew</L>
+<L>Acquaintance we'e.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>What friend.</P>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>You will heare more.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Iigges, shall I after him and knocke</L>
+<L>Him o're the pate.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>For what.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>For looking on's</L>
+<L>So scurvily.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>That may be dangerous,</L>
+<L>Did he not name <HI>Borgia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>But whether</L>
+<L>He meant himselfe or you I understand not.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>He might as well ha cald me <HI>B<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>thlem Gabor;</HI></L>
+<L>Lets walke on still.</L>
+</SP>
+<STAGE>Enter Julio.</STAGE>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Ha <HI>Borgia,</HI> tis he, my noble friend returnd,</L>
+<L>Welcome, a thousand welcomes in thy bosome;</L>
+<L>Why doe you weare this strangenesse in your face,</L>
+<L>Can a few yeares render me lost to <HI>Borgia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Sure he does call me <HI>Borgia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Thou wert</L>
+<L>Vnkinde in thy departure, with what devotion</L>
+<L>
+
+
+<PB REF="5"/>Could I have beene a partner in thy travell</L>
+<L>And have unequall fortune, being absent</L>
+<L>Why was not I summond to wait upon thee</L>
+<L>In any part o'th world, but againe welcome,</L>
+<L>When arriv'd yee.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>I am very likesome body,</L>
+<L>They all mistake me thus, we ha seene no friends since.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>Is this Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>One deare in my acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I am your servant, thy unexpected sight</L>
+<L>Will glad <HI>Mercutios</HI> heart, your noble father</L>
+<L>Who hath long mourn'd your absence.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Good old man,</L>
+<L>He will rejoyce to see him here no doubt on't.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Remember my fathers name.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>You have lost an Vncle, but all his estate</L>
+<L>Your Father is possest of.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Dead!</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>His age</L>
+<L>Was fit for heaven, his wealth is added to</L>
+<L>Your fathers to make yours the greater fortuue.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Take it upon you.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Pardon noble friend,</L>
+<L>I was perswaded time and absence had</L>
+<L>Wrought such a change upon my face, that no man</L>
+<L>Would know me agen, but tho I may to some</L>
+<L>Appeare a stranger, I must stand discover'd</L>
+<L>To a friends penetrating eye, agen</L>
+<L>Possest your faithfull servant, whats my name.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>Deare <HI>Borgia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P><HI>Borgia</HI> I must remember you.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>Shall I waite on you to your father Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>What were I best to doe.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Your sisters growne a gallant gentlewoman,</L>
+<L>The onely beautie of <HI>Urbin,</HI> and waits on</L>
+<L>The Dutchesse, her soft lips will seale your welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>A handsome gentlewoman, goe.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>He does but jeast, they are all witches here.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>No more Ieeres▪</L>
+<L>Go or be lame for ever.</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="5"/>Au.</SPEAKER>
+<L>Is she growne</L>
+<L>Worthy that houre you expresse, and has</L>
+<L>The Dutchesse taken her to grace.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Tis more then whisper'd,</L>
+<L>The favorite loves her.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Who.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>He that was cause</L>
+<L>Of your remove <HI>Ursini.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Cry you mercy,</L>
+<L>I know him well enough; but does he love her?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>Tis rumord so ith court.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>You will be tripping,</L>
+<L>Your owne heeles up.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>I hope my sisters honest.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>Who <HI>Cornelia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Remember that name too.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Let me alone</L>
+<L>To remember her, <HI>Cornelia</HI> for more</L>
+<L>Securitie, Ile put her in my table booke.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>There is no Lady in the preserves</L>
+<L>A clearer fame, as modest as shees faire,</L>
+<L>And so ingenious.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>I would excuse</L>
+<L>Her modestie, but she may be converted</L>
+<L>In time; tho sturdy Oake we know, and so forth</L>
+</SP>
+<STAGE>Enter Mercutio, Lucio</STAGE>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>You speake a welcome Character.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Your father</L>
+<L>It seemes his willing eare hath catchd the newes</L>
+<L>Of your arive.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Kneele downe.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>See if he first knows me,</L>
+<L>Tis a wise father now knowes his owne child.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>My dearest <HI>Borgia,</HI> comfort of my age.</L>
+<L>My joy of soule, a fatherr prayers and blessing</L>
+<L>Make thee a happy man, my eyes must speake</L>
+<L>Part of my joy in teares, welcome from <HI>Naples.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Your pardon Sir</L>
+<L>That thus I steale upon you, I wod hope</L>
+<L>My sister—</L>
+</SP>
+<SP>
+<SPEAKER>Pi.</SPEAKER>
+<P>Cornelia.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="6"/>Au.</SPEAKER>
+<P><HI>Cornelia</HI> is in health.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>And will be a glad soule to imbrace her brother</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Your pardon Sir that I seem'd strange to you.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>'Tis recompence now that you please to owne me.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L><HI>Iulio</HI> an honest gentleman, and one</L>
+<L>That loves us <HI>Borgia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>I <GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>eare my Vncle</L>
+<L>Has left us—</L>
+</SP>
+<SP>
+<SPEAKER>Pi.</SPEAKER>
+<L>A good estate, ther's the lesse cause</L>
+<L>To mourne for him.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>We must all tread that path,</L>
+<L>Here is a friend of mine to whose trust and favour</L>
+<L>I have beene much engag'd.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Sir what I want</L>
+<L>In language, Ile supply with other welcome,</L>
+<L>Please you to honour my poore wife.</L>
+</SP>
+<SP>
+<SPEAKER>Pis:</SPEAKER>
+<L>The service</L>
+<L>Of my unworthy life is yours, command it,</L>
+<L>I wod you had another handsome daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>I presume you were presented a glad object</L>
+<L>To <HI>Lucio,</HI> your affections grew from children.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>To <HI>Lucio</HI> we carry but one heart.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Doe not forget his name now.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>But my sonne</L>
+<L>We dwell to long thus publique, let us perfect <STAGE>Enter Pietro.</STAGE></L>
+<L>Our ceremony at home, <HI>Pietro</HI></L>
+<L>One of the favorits creatures.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Tis the Dutchesse,</L>
+<L>Command <HI>Mercutio</HI> you waite upon her</L>
+<L>Presently at Court, and bring young <HI>Borgia</HI></L>
+<L>Along wee to expect her graces pleasure.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>We must obey.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>What makes your countenance change Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>My feares poore <HI>Borgia</HI> for thee.</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>For me.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Howes that? his feares?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>While my ag'd armes are in,</L>
+<L>
+
+
+<PB REF="6"/>A loving contention to imbrace thee,</L>
+<L>I wish thee from hence this ground betrayd thee,</L>
+<L>Embarke agen, the Seas have usd thee kindly,</L>
+<L>Trust them agen, or any land but this:</L>
+<L>This will undoe us both, the joy of seeing thee</L>
+<L>Made me forget thy danger.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Danger Sir,</L>
+<L>What have I done, to call these feares upon you?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Take heede, be wise, I know not what to thinke on't</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>What ha<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>t done saist, nothing to dishonour thee,</L>
+<L>Thou kildst him fairely.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Kild I thinke; you were best</L>
+<L>Be <HI>Aurelio</HI> agen, and leave your sister</L>
+<L>But Ile fish out the circumstance, walke melancholy.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>Prithee doe.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Although your sonne has pleasd</L>
+<L>To call me friend, I finde he has reservd</L>
+<L>Something he wod not credit to my bosome;</L>
+<L>I have observ'd his trouble, but unwilling</L>
+<L>By moving questions to renew his sufferings:</L>
+<L>If my particular knowledge of his fate</L>
+<L>May be no prejudice, tho it be without</L>
+<L>My verge to serve him, I can willingly</L>
+<L>Share in their griefe that love him.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>You speake nobly,</L>
+<L>Twas his misfortune Sir provok'd to kill</L>
+<L>A Gentleman, brother to <HI>Vrsini,</HI> who</L>
+<L>Was favorite to the Duke deceasd, and now</L>
+<L>Grac'd by the Dutchesse, by whose power he may</L>
+<L>Command him dead, these summons I suspect;</L>
+<L>But take my counsell <HI>Borgia,</HI> and deceive</L>
+<L>His expectation of revenge, once more</L>
+<L>He bids thee flie; would slay thee in his heart,</L>
+<L>Let me runne their displeasure.</L>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<L>Not for me Sir,</L>
+<L>I am resolv'd, 'tis better dye at home,</L>
+<L>Then wast my life an exile, Ile to Court we'<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Y'are not mad▪</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="7"/>Au.</SPEAKER>
+<L>Thou art a foole, cannot I cast</L>
+<L><HI>Borgies</HI> skin off when I please, I must</L>
+<L>See my faire sister at a minuts warning,</L>
+<L>Thou art evidence for me; father I waite you,</L>
+<L>My sisters there you say, doe not doubt me;</L>
+<L>At worst, Ile have a tricke to keepe my head on:</L>
+<L>Come friend and Gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>We attend.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Dutchesse, Ursini, Cornelia, Melinda, Laura▪</STAGE>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>You have prevail'd <HI>Vrsini:</HI> yet we thought</L>
+<L>Of all men living you would least have beene</L>
+<L>A sutor for his pardon, but tis sign'd</L>
+<L>He owes you for his life.</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<L>Your mercy rather,</L>
+<L>I have consider'd madam I did lose</L>
+<L>A brother, whose repaire I shall not finde</L>
+<L>Now in anothers blood, the Gentleman</L>
+<L>Hath suffer'd, though not what the Lawes determine▪</L>
+<L>Many yeares pennance, so severe, perhaps</L>
+<L>That he is come by offering himselfe now</L>
+<L>A sacrifice to your justice, to prevent</L>
+<L>A death more killing, still to live a stranger</L>
+<L>To his owne friends and countrey.</L>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>If your charitie</L>
+<L>Extend so farre, the rest we have dispenc'd with,</L>
+<L>He is return'd for certaine? he is either</L>
+<L>Wearie of life, or master of a confidence</L>
+<L>That might have beene his ruine.</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<L>This will make</L>
+<L>Your art of mercy shine the brighter Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>It will, but let me aske you good my Lord,</L>
+<L>Does this proceede out of a cleare forgivenesse:</L>
+<L>Time I allow may qualifie the thought</L>
+<L>Of our revenge, and something else of pittie</L>
+<L>May so take off the roughnesse of our soule</L>
+<L>That we may have a noble charitie</L>
+<L>To our enemy, but has your end no mixture</L>
+<L>Of something else, that may advance a hope</L>
+<L>
+
+
+<PB REF="7"/>To satisfie desire some other way?</L>
+<L>No turne to profit or delight? be plaine;</L>
+<L>For I must know your brest.</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<L>You shall see through me,</L>
+<L>I dare not weare a thought lesse than transparent,</L>
+<L>I love his sister Madam, faire <HI>Cornelia</HI></L>
+<L>With those intents become me, in that flame</L>
+<L>I sacrifice all thoughts that wound her brother</L>
+<L>And wish no happier satisfaction,</L>
+<L>And by that charme of her consent to love</L>
+<L>My brother is redevivd in <HI>Borgia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Y'are briefe, yet plaine; how point <HI>Cornelias</HI></L>
+<L>Affections.</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<L>I have wooed her but in complement,</L>
+<L>And tho there may be sonnes to admit</L>
+<L>My services, I finde she is all obedience</L>
+<L>To her father, whom the apprehension</L>
+<L>Of his sonnes fortune may have indisposd</L>
+<L>To a present reconcilement.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>This one act</L>
+<L>Will make him kinde, and forme him to your wishes.</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<L>If they might have the happinesse to be</L>
+<L>Propounded by your highnesse to <HI>Mercutio,</HI></L>
+<L>I prophesie successe, pardon great Madam,</L>
+<L>If after all your princely favors I</L>
+<L>Begge this with many blushes, love is grac'd</L>
+<L>By dwelling on your breath.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L><HI>Ursini</HI> since</L>
+<L>The Duke dyed you have found no losse in out</L>
+<L>Esteeme, to his ashes I have paid that dutie</L>
+<L>To grace whom he affected, and be confident</L>
+<L>We shall not deny this, is he not come yet?</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>He will attend your grace—who waite.</P>
+</SP>
+<STAGE>Enter Pietro.</STAGE>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Signior <HI>Mercutio</HI></L>
+<L>Expects your graces pleasure, with him his sonne</L>
+<L><HI>Borgia</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>My brother.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Tho we pardon him</L>
+<L>
+
+
+<PB REF="8"/>We must put on a brow of some displeasure</L>
+<L>And chide his fault, he may be encourag'd else</L>
+<L>To a second insolence.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Gently I beseech you,</L>
+<L>There may be a punishment within your eye</L>
+<L>To kill him, and so make the benefit</L>
+<L>Is meant him, of no vertue, or to himselfe,</L>
+<L>Or my designe.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>How is the name of gentleman</L>
+<L>Dishonor'd by such desperate undertakings;</L>
+<L>That more then guiltie of humane blood, doe kill</L>
+<L>Even Charity.</L>
+</SP>
+<STAGE>Enter Mecutio, Borgia, Pisauro.</STAGE>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Th'are admitted.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Is that he?</L>
+<L>We sent for you <HI>Mercutio</HI> to tell you</L>
+<L>How much you owe to good <HI>Ursinis</HI> love,</L>
+<L>At whose earnest solicite we have sign'd</L>
+<L>Young <HI>Borgias</HI> pardon, if you examine well;</L>
+<L>You will have cause to place him in the first</L>
+<L>Ranke of your friends.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Shall I beleeve my eyes,</L>
+<L>My nnderstanding? how is <HI>Mercutio</HI> blest?</L>
+<L>Looke boy the pardon, heaven reward thy charities;</L>
+<L>My Lord for saving one, command the lives</L>
+<L>Of all our family, thou soule of honour;</L>
+<L>Looke <HI>Borgia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>What de'e meane</L>
+<L>Kneele to the Dutchesse and acknowledge.</L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<P>What.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>A pardon for your life.</P>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>I am lost here</L>
+<L><HI>Pisauro,</HI> an excellent creature.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>You'l spoile all,</L>
+<L>Shee's yet your sister, I doe like her too;</L>
+<L>Kneele for your pardon, and you may choose your gallowes</L>
+<L>In time, wood I were hanged on no worse peece</L>
+<L>Of timber, how nimbly would I climbe the Ladder,</L>
+<L>
+
+
+<PB REF="8"/>Ha you no sense? humble your knees to thanke</L>
+<L>Her highnesse and that gentleman.</L>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>Why does</L>
+<L>That fellow kneele <HI>Ursini.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>'Tis Signior <HI>Borgia,</HI></L>
+<L>His heart is full of thankes.</L>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>I looke not for em,</L>
+<L>What doe I feele? command him rise.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Deare Madam.</L>
+<L>Looke calme upon him.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Shee'l reverse the pardon.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Are you my brother Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>As sure as you are my sister; do you doubt me?</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>How now <HI>Cornelia,</HI> pray excuse me brother,</L>
+<L>My joy to see you safe doth halfe transport me.</L>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<P>Mercutio.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>I am converted now,</L>
+<L>And doe beleeve there are some hansome women;</L>
+<L>Young Gentleman, not too much, too much at once,</L>
+<L>Remember y'are her brother, he is taken.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Your grace is pleasd to enlarge my happinesse;</L>
+<L>My daughter is much honor'd, but I must</L>
+<L>Beseech your Lordship to allow we may</L>
+<L>In such a cause as this, enquire her judgement,</L>
+<L>And since by'th bounty of your highnesse, I</L>
+<L>Have a sonne now, whose joy may be concernd in't;</L>
+<L>I would not willingly conclude her marriage</L>
+<L>Without his voyce too.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>I am confident</L>
+<L>To incline his favour, since she has declar'd</L>
+<L>Herselfe no enemy.</L>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<P>Cornelia.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Sir I have a suite to you.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>You have deserv'd</L>
+<L>My life, which ought to waste it selfe in service.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>I am an honorer of your faire sister,</L>
+<L>It rests in you to perfect my ambition.</L>
+<L>And make her mine.</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="9"/>Bo.</SPEAKER>
+<P>How do you meane my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Now hee's put toot, she is <HI>Ursinis</HI> mistresse.</L>
+<L>As he is <HI>Borgia,</HI> he can have no</L>
+<L>Pretence to oppose him, if he discover</L>
+<L>And be <HI>Aurelio</HI> agen, he destroyes all</L>
+<L>Hope for himselfe, for I perceive hee's taken with her,</L>
+<L>I know by the motion of his nose, which pants</L>
+<L>Like the Bellowes of an Organ.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Sir your fathers</L>
+<L>Voyce speakes in yours, you now command my destinie</L>
+<L>If you will make me happy.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Noble Sir,</L>
+<L>I am sorry where such infinite merits plead</L>
+<L>I have no power to serve your noble wishes,</L>
+<L>And keepe the honour of a gentleman.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Your family I take it can receive</L>
+<L>No staine by my alliance.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>'Twere a blessing.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>How will he come off?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Mistake not I beseech you,</L>
+<L>I have already engaged my selfe to a Gentleman</L>
+<L>Of a noble house in <HI>Millan,</HI> one <HI>Aurelio</HI></L>
+<L><HI>Andreozzi.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Thats himselfe.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Who on the fight of</L>
+<L>Her picture which I gave him, courted me</L>
+<L>To wooe the substance for him, promising</L>
+<L>To follow me in person, being one</L>
+<L>To whom I had many obligations</L>
+<L>In the <HI>Millan</HI> Court, I paund the credit</L>
+<L>Of a gentleman, to assist his faire desires,</L>
+<L>If in few dayes he come to <HI>Urbin;</HI> but</L>
+<L>I am confident his young affections</L>
+<L>Which had no other life but what a dead</L>
+<L>Representation could infuse, will soone</L>
+<L>Vanish agen, and leave▪ me to be serviceable</L>
+<L>In what you will command me, and be sure</L>
+<L>I will not racke your patience to much length;</L>
+<L>
+
+
+<PB REF="9"/>If in few dayes he appeare not, I will thinke</L>
+<L>My promise disobliged, and direct all</L>
+<L>My abilities to make your wishes prosper:</L>
+<L>It will become my gratitude.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>You speake nobly.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>The pleasures of the Court will so abate</L>
+<L>His thoughts this way, that I presume your Lordship</L>
+<L>Will soone be master of that amorous province</L>
+<L>You ayme at, and much honour your poore servant.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Let this confirme, I am yours.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>So so, this was indifferently well carried, I was jealous</L>
+<L>Of a more lame come off.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Adde this one</L>
+<L>To your other princely favours Madam, and</L>
+<L>Admit this gentleman to kisse your hand.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Without much suite my heart would have conveyd</L>
+<L>That to my lip, a very handsome gentleman.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>What sayd the Dutchesse? doe not her eyes fix</L>
+<L>Upon my brother? how now <HI>Cornelia,</HI></L>
+<L>I am his sister; yet I had</L>
+<L>No acquaintance with this turbulent passions</L>
+<L>When I last saw him.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>What does her highnesse meane,</L>
+<L>She speakes to <HI>Ursini,</HI> but her eye directs</L>
+<L>Some language this way, <HI>Borgia</HI> dost observe?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>And wonder, but I see nothing in her eyes</L>
+<L>To be afraid of.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>If the Dutchesse should be in love with him</L>
+<L>Here were a purchase, I doe verily</L>
+<L>Beleeve here will be an end of all our warres,</L>
+<L>If he have but the grace to march upon</L>
+<L>This service and charge home: smiles, smiles upon him;</L>
+<L>Well <HI>Aurelio Andreozzi,</HI> tis very possible</L>
+<L>You may meete with your match if he mount her,</L>
+<L>Ile bring a Ladder to his sisters fort</L>
+<L>And then the town's our owne, she calls him to her.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P><HI>Cornelia,</HI> canst thou interpret this?</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Her grace is very pleasant, good good heart</L>
+<L>
+
+
+<PB REF="10"/>Bē patient.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>She plases with him, good, better,</L>
+<L>I, is your spirit up my nimble Dutchesse?</L>
+<L>Would I had the conjuring of it downe▪ <HI>Vrsini</HI></L>
+<L>Lookes like a whelpe had lost his taile alreadie.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>I was jealous she would chide and frowne upon him, praid her be gentle, and looke calme, Ist come To this?</P>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L><HI>Vrsini,</HI> I have thought how to supply</L>
+<L>That place of Secretary that is vacant, see</L>
+<L>That <HI>Borgia</HI> be sworne, we apprehend</L>
+<L>His fitnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<P>Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>I hope this will please you</L>
+<L><HI>Vrsini,</HI> we can grace whom you present▪</L>
+<L>He is more gentleman than to forget</L>
+<L>How for your sake we honor him; I shall</L>
+<L>Betray too much of women, <HI>Borgia</HI></L>
+<L>Attend us; come <HI>Cornelia, Vrsini,</HI></L>
+<L><HI>Mercutio,</HI> make the Court not so much stranger.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Ile follow: what dost thinke of this <HI>Pisauro.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>I thinke the Dutćhesse loves thee, and make use on't,</L>
+<L>Lose no applications, that't her Secretary▪</L>
+<L>A degree to more inward indeerements,</L>
+<L>If she doe love thee, and—</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>What prethee?</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Shee knowes best</L>
+<L>What appetite she has, let mē counsell thee,</L>
+<L>Be not modest, we are made.</L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<P>What?</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Thy father a Count, thou a Duke, <HI>Vrsini</HI></L>
+<L>A Coxcombe, I a fine gentleman, and one</L>
+<L>That would be glad of the worst of your</L>
+<L>New female acquaintances.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>There are no faces here.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>B<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/> not you a Tyrant, Ile doe pennance</L>
+<L>In a white sheete with thy sister for't.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB REF="10"/>
+<HEAD>Actus Secundus.</HEAD>
+<STAGE>Enter Pimponio.</STAGE>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>NO Signior <HI>Aurelio</HI> come yet? No master to be heard on, he is a fine Gentleman to use his Squire o' this fashion; where should he be, hee commanded me not to bee drunke, he is drunke; and drunke and dead drunke, hee would have had the grace to reele home to his lodging before this time of night else: let me see, what if the flesh have led him a to side? He is falne into some brake, some wench has tyed him by the legges, and nothing else can excuse him to me; yet now I thinke on't, he does forget <HI>Pimponio,</HI> he was not wont to be his owne purveyor, my art for the choice of his Pullin, has beene allow'd if he doe get and so forth an excuse for Physicke, and come home founderd, the disease was none of my choo∣sing, it came not through my office; stay, what if my Signior be dead? umph? dead? my heart misgives, they may be kild, my master has the spirit of fighting in him, and his companion is the Divell at it, an aglet hole or two in their hearts, and in a strange place, my Signiors, are never mist, tis so, if he bee dead—bring forth the Port-Mantue.</P>
+</SP>
+<STAGE>Enter Ascanio, a Boy.</STAGE>
+<SP>
+<SPEAKER>Ase.</SPEAKER>
+<P>Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Bring forth my Port-mantue my deminitive knave, and tell thy father I would speake with him, he is dead, he would not have trusted me so long with his mony else, now will I make my selfe his heire, defie the world and <HI>Aurelios</HI> Ghost; but first of all I must ourface mine hoast, so let me examine; very good lynings, bagge and baggage, you are mine owne,</P>
+<STAGE>Enter Asca.</STAGE>
+<P>Thy father call him hither.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>He is comming Sir, tis very late.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Never too late to tell money, fetch me a brace of gen∣nets I will mount em, a Covey of Curtisans; stay <HI>Pimponio,</HI> be not mad before thy time, who shall I say I am? a Prince at least, I have it;</P>
+<STAGE>Enter Grutty.</STAGE>
+<P>
+
+
+<PB REF="11"/>Here comes mine Host.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>What would this fellow have, no newes of your master?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Speake that word no more on thy allegiance, here goe to bed and rise with a cleane shirt.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>This is gold, what does the fellow meane?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>No fellowes neither, tis time to shew my selfe, where is thy boy?</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Here Signior.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Kneele downe and aske me blessing.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>This does looke a blessing, shall I aske another?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Aske any thing but what I am.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>You are—</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Stay there, 'tis dangerous to pronounce me yet, I will be still disguisd, my men are absent.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Your men.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Thou art wise, thine eare, I am a Prince.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>How Signior.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>The reason of my shape thou shat know hereafter, thus <HI>Iove</HI> has beene disguisd.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Is not your name <HI>Pimponio?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>It was my pleasure they should call me so, I have not found 'em trustie;</L>
+<L>How fares the Dutchesse?</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>What doe I heare?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>This boy shall waite on me, Ile have yee all.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Whether?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>What Countrey shall I choose? to be a Prince of <HI>Ita∣ly</HI> is too well knowne, <HI>Spaine</HI> stands convenient, and far enough, where I have beene too, Ile have you all to <HI>Spaine.</HI></P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>What to doe Signior?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>For your preferments, when thou hast got a chapman for this tub thou liv'st in, let me know't.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Boy this a <HI>Spanish</HI> Prince.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>A Prince of Oranges, he a <HI>Spanish</HI> Prince?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>They wonnot travell thither to disprove me, to tell the truth, I suspect my two Groomes have betrayd me; I come hi∣ther to be a suitor to your Dutchesse.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>In these cloathes?</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="11"/>Pim.</SPEAKER>
+<P>You doe not know my plot, these Gentlemen my ser∣vants should cunningly have prefer'd mee to be the Dutchesse Foole.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Her Foole? tis very likely.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>But for a time, there's mystery in that</L>
+<L>By this meanes I resolv'd to try her nature</L>
+<L>And disposition ere I married her,</L>
+<L>For I can have at this present foure Kings daughters, the eldest of 'em is but seven yeares old, which shewes the parents dote upon me, and wod make sure of me betimes.</L>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>I doe beleeve your grace.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Grace, umph, thou must be advanc'd, let me see, what office, oh, thou shalt have a place at my returne in the Gallies, dost heare, a yerking preferment.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>And what shall I bee?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Thou shalt be—a <HI>Picaro,</HI> in your language a Page, my chiefe <HI>Picaro;</HI> by degrees you may send for all your generation, I will see them mounted.</P>
+</SP>
+<STAGE>Enter Pisauro.</STAGE>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Where's <HI>Pimponio.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>A pox Pimpe you, they are alive agen, now am I a dead man.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>There is a certaine moveable ecclip'd a Port-mantue.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Wod your tongue had beene clip'd.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Wherein there are some golden friends of ours.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>All your friends are well.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Let me see their complexions, where are they? looke for the Signior your master a moneth hence?</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>His master, de'e observe?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Does hee not carry it hansomely, hee knowes not I have discovered my selfe to you.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>With your pardon Sir, is not this Signior a Prince dis∣guisd▪</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>A Prince of Puppets, who <HI>Pimponio?</HI></P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>And you one of his servants, to whom with</L>
+<L>Your other fellow cal'd Signior <HI>Aurelio,</HI></L>
+<L>His person stands discover'd, he came hither</L>
+<L>To court our Dutchesse, he has promisd us</L>
+<L>At his returne to <HI>Spaine</HI> to make us Grandees.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Has he betrayd himselfe, nay then my dutie</L>
+<L>
+
+
+<PB REF="12"/>If please your excellence.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Away, away.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>A Prince cannot be hid tho under mountaines,</L>
+<L>But my deere Prince, the bagges must goe with me</L>
+<L>While you keepe state ith Inne.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Who shall maintaine.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>If I did thinke thou wouldst carry it hansomly▪</L>
+<L>Well, Ile excuse thee to thy master, here</L>
+<L>When thou hast domineerd away this bagge</L>
+<L>Thou maist heare more; keepe thine owne counsell, and</L>
+<L>Thy master shannot owne thee, if thou hast</L>
+<L>Any fagary, drinke, and indulge thy <HI>Genius;</HI></L>
+<L>Ile see thee agen before thy raigne be out,</L>
+<L>No words but be a prince, and scorne to know us</L>
+<L>And so I take leave of your excellence.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>I shannot know my selfe, am not I a Prince</L>
+<L>Indeed, that have beene long conceald? this is a bagge</L>
+<L>And full of golden friends, umph, however I will</L>
+<L>Spend it like an Emperour, these are not robes</L>
+<L>Fit for a Prince I take it, <HI>Grutti,</HI> boy</L>
+<L>I entertaine you both my Groome and Page, and</L>
+<L>Say unto you, Snakes goe cast your coates▪</L>
+<L>Here's earnest for new skins, when things are ripe</L>
+<L>We will to Court.</L>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>What thinkes your grace of going to bed</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>I am too sober, let the whole house be drunke first▪ 'twill please us well to see the servants gamboll, we purpose</L>
+<L>To be drunke our selves in state too:</L>
+<L>Let me have fiftie strumpets.</L>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Fiftie trumpets.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Strumpets I say, they'l make the greater noise.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Your grace will be a <HI>Hercules.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>I will, and thou shalt be Captaine of the <HI>Pigmies</HI> under me, this roome's too narrow, beate downe the walls on both sides, advance your lights and call the Country in, if there be a Taylor amongst 'em he shall first take measure of my highnesse, for I must not longer walke in <HI>Quirpo.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<P>We attend your excellence.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<STAGE>Enter Julio and Lucio,</STAGE>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>I'me lost i'th wonder <HI>Iulio.</HI></P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="12"/>Iu.</SPEAKER>
+<L>A strange turne</L>
+<L>From that could temper we imagin'd</L>
+<L>In her Highnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>I have heard of charmes and philters.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>If travell have these glorious effects</L>
+<L>Ile abroad too.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>He has a hansome person.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>And discourses grant it.</P>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>Is master of a noble soule.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Soule, nay let that alone, Ladies doe not looke</L>
+<L>After the soule so much, the body will serve their</L>
+<L>Turne, so it be nimble, and at their devotion,</L>
+<L>If you observe, he is grac'd by all the Ladies</L>
+<L>As if he were their generall minion,</L>
+<L>I doe not like his sisters eyes upon him,</L>
+<L>They whirle too much and seem'd to shoot an envie</L>
+<L>Vpon the Dutchesse favors.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>I am confident</L>
+<L>Thou hast no murmer in thy thoughts against him.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I but expresse my wonder,</L>
+<L>In that I thinke the whole Court had a share:</L>
+<L>He knowes I love him, twill become his feare</L>
+<L>How to secure <HI>Ursini.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lu:</SPEAKER>
+<L>He preferd him</L>
+<L>First to her highnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Not with expectation</L>
+<L>To be supplanted, I make question</L>
+<L>If the humor hold, whether shee may not marry him,</L>
+<L>That's a round higher then her favorite:</L>
+<L>Had hope to climbe.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Although I honour <HI>Borgia</HI></L>
+<L>And wish him heartily advanc'd, I wod not</L>
+<L>Kneele to him, my voyce is for <HI>Ferrara</HI></L>
+<L>He is a Prince, I wod not for my state</L>
+<L>This shod breake off his treatie.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Thy Embassador</L>
+<L><GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> his master, he is scarce minded.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Come she cannot,</L>
+<L>
+
+
+<PB REF="13"/>Fall so low, the passion is too violent <STAGE>Enter Ursini, and Ferrara.</STAGE></L>
+<L>To last—who are these?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>The Embassadour and <HI>Ursini,</HI> whats the matter?</L>
+<L>I feare some discontent.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>My Lord let me</L>
+<L>Prevaile so farre, I hope you imagine I</L>
+<L>Am firme to you, I have more cause to be</L>
+<L>Impatient, my whole strength at Court's concernd,</L>
+<L>But have more noble thoughts then to suspect</L>
+<L>You can be flighted, thinke tis but a dreame</L>
+<L>In justice to your cause, and royall master</L>
+<L>Put on no face of discontent, returne</L>
+<L>And see how things will close</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>'Tis an affront</L>
+<L>Bove satisfaction, but the disgrace</L>
+<L>Reflects beyond my person.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Had she studied</L>
+<L>Honours to his ambition, it had</L>
+<L>Not wrong'd her prudence, to have shewne you more</L>
+<L>Respect.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>But I was not considerable;</L>
+<L>The<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/> oung Gentleman had taken up her eyes,</L>
+<L>Her tongue, her feete, her understanding too,</L>
+<L>I might have witherd in my seate, no beame,</L>
+<L>No discourse this way, but that once she was pleasd</L>
+<L>To aske me how I lik'd the gallants dancing,</L>
+<L>Ile not disturbe her revels.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Yet my Lord</L>
+<L>Have so much fortitude, 'twill be a meanes</L>
+<L>If you returne, to make her finde her errour</L>
+<L>To your person, were she not my Princesse</L>
+<L>I should professe my selfe asham'd, out come</L>
+<L>Let me beseech you to goe backe, leave not</L>
+<L>The presence so, for your owne honour Sir</L>
+<L>Observe a little more, I hope you shannot</L>
+<L>Repent my counsell.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I wod ye wod excuse me,</L>
+<L>I shall but vex my eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Expect a change.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="13"/>Fer.</SPEAKER>
+<P>You have power with me my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>You honour me.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>What will become o this, what thinke you now?</L>
+<L>They doe resent it, and for ought I heare</L>
+<L>Have little hope to mend it.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Can she be</L>
+<L>In love so soone, well <HI>Borgia,</HI> if this</L>
+<L>Hold, Ile applaud thy fate.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>For after this</L>
+<L>Allowance, hee'l be Duke of <HI>Urbin</HI> tomorrow,</L>
+<L>Give thee joy bully, let me see if he</L>
+<L>Turne Prince, tis best for us turne beggers.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>Beggers?</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Court beggers, Hee'l deny us nothing,</L>
+<L>Now for some witty knave to finde out suits,</L>
+<L>I must keepe some in pension for that purpose,</L>
+<L>They are profitable vermine, <STAGE>Enter Pisauro.</STAGE></L>
+<L>His companion.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Save you Gentlemen, what de'e meane?</L>
+<L>Why stand yee bare?</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>In being <HI>Borgias</HI> friend</L>
+<L>It will become us.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>He knowes no title yet,</L>
+<L>But chiefe secretary to her highnesse, what honours</L>
+<L>Are in her brest laid▪up for him, we know not</L>
+<L>He has a mounting fate, and in his we</L>
+<L>Pronounce you happy.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>We shall all be Princes</L>
+<L>In time▪ but Gentlemen lets be more familiar</L>
+<L>We thinke so well of things, does he preserve</L>
+<L>The Dutchesse smile, or does she use to make</L>
+<L>At some time o' the Moone sport with her subjects.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>You are wide all the heaven Sir, had you come</L>
+<L>A little sooner you had heard discourse. <STAGE>Enter Borgia.</STAGE></L>
+<L>To cleare your doubt, hee's here himselfe.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L><HI>Pisauro,</HI></L>
+<L>What will become on's, tis as thou saist?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>What prethee?</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="14"/>Bo.</SPEAKER>
+<P>The Dutchesse is mad▪</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>How!</P>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>Why she is certainly in love, shat in and see</L>
+<L>How I am us'd, and yet I now come forth</L>
+<L>To recover breath, I ha danc'd my selfe to a jellie,</L>
+<L>The Ladies ha no mercy; but the Dutchesse</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>What prethee.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Is as I told thee mad, I prethee counsell me</L>
+<L>Altho her grace be pleasd to shew me favors</L>
+<L>'Twere boldnesse to beleeve, and thanke her.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>How?</L>
+<L>I hope thou art not mad.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I know not whether</L>
+<L>The fit will last, I may hold some proportion</L>
+<L>With <HI>Cornelia,</HI> my suppos'd sister, she</L>
+<L>Poore wretch does cast such speaking eyes upon me</L>
+<L>As she were Iealous of the Dutchesse too,</L>
+<L>And wrings me by the hand when I dance with her.</L>
+</SP>
+<STAGE>Enter Pietro.</STAGE>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>The Dutchesse Sir calls for you.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I attend;</L>
+<L>What were I best to doe?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Dost make a question</L>
+<L>Lose not the fortune that's presented in</L>
+<L>The Dutchesse love, thy starres ordaind thee for her;</L>
+<L>Ile make a shift with <HI>Cornelia,</HI> looke high</L>
+<L>And prosper, when th'art a Duke, I say no more</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>What shall's doe with <HI>Pimponio?</HI> that foole</L>
+<L>May betray all.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>He is a Prince before you</L>
+<L>I ha made him sure, and swolne him into a pride,</L>
+<L>He shall not know you, but of that hereafter,</L>
+<L>Away and please the Dutchesse.</L>
+</SP>
+<STAGE>Enter Dutchesse, Ladies, Ferrara, Ursini.</STAGE>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Your our graces pardon?</P>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<P>'Tis late, good night my Lord Embassador.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>'Tis well I am bid goodnight, yet all my hopes</L>
+<L>Vanish in mists, what thinke you now cosin?</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="14"/>Urs.</SPEAKER>
+<L>I know not what to thinke, let me waite on you</L>
+<L>To your lodgings.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>They joyne toth' Court▪</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>'Tis the lesse service▪</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>To morrow morning if I may be honor'd</L>
+<L>With your presence, I will impart a secret to you,</L>
+<L>And be happy in your Counsell.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>I obey</L>
+<L>Any commands.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>For this time give me pardon, goodnight my Lord.</P>
+<STAGE>Ex.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>A happy night to your Lordship,</L>
+<L>After so many yeares spent in the Court,</L>
+<L>I am to learne the tricke on't, these are actions</L>
+<L>Gainst my first rules, I am ignorant▪</L>
+<L>Of this new Court philosophy, what should</L>
+<L>The Dutchesse meane, so prodigall of her graces</L>
+<L>To one she searse remembers, with such open</L>
+<L>Neglect to th' Dukes' Embassador? I was carefull</L>
+<L>She wod not use him kindely enough, wert not</L>
+<L>Affection to his sister, lyes up my</L>
+<L>Revenge, Ide drop it on his heart, but I</L>
+<L>Must worke with art, and by a Counter magicke</L>
+<L>Dissolve his spell, or forme him to my purpose. <STAGE>Enter Laura and Melanda.</STAGE></L>
+<L>You have beene waiting on the Dutchesse Ladies?</L>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<P>She dismis'd us.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>With what circumstance?</L>
+<L>Is she still pleasant?</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>Strangely altered</L>
+<L>Since young <HI>Borgia</HI> tooke his leave and melancholly:</L>
+<L>Well, I suspect—</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<P>What Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>Sheele scarse sleepe</L>
+<L>To night, for dreaming oth' Gentleman.</L>
+</SP>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<P>He is gone then?</P>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<L>Yes, we saw his departure my Lord,</L>
+<L>He kist us both, but we put forward sirst,</L>
+<L>He is the hansomst Gentleman; dee thinke</L>
+<L>He weares his owne haire?</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="15"/>Mil.</SPEAKER>
+<L>I was about</L>
+<L>To aske him once, but thought he was modest</L>
+<L>And wod ha blushd, I wod I had his picture.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>His substance Madam, but take heede, the Datchesse</L>
+<L>Must have no rivall, how dee affect his talke?</L>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<L>That was not my part to observe, we did divide</L>
+<L>Our Provences, each Lady tooke a member</L>
+<L>To examine, when we have conferd our notes</L>
+<L>Ile tell yee what the body of Ladies thinke on him.</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>Nay wee'l take him a peeces e're we ha done.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>And who shall set him together agen? my Ladies</L>
+<L>I waite on you.</L>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<P>Your Lordship will too much honour us.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>'Tis the way to my owne lodging.</P>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>If it were not the way my Lord, your Lordship</L>
+<L>Could not be destitute of a lodging at Court.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Your Charitie would releeve me, use my service.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Ferrara and Pietro with a light.</STAGE>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>There is no such affliction to the soule</L>
+<L>As that which should preserve it, love, a passion</L>
+<L>That with consent betrayes our understanding,</L>
+<L>And leaves man but a heape of flame and ruins;</L>
+<L>I was safe till I had seene her, busie fame</L>
+<L>Tooke but possession of my eare, my owne</L>
+<L>Rashnesse and vanitie engagd my person</L>
+<L>To see what was commended, and I suffer for't,</L>
+<L>Leave me.</L>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>Tis darke my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Thou ly'st, tis light</L>
+<L>And by these fires I see too much, away,</L>
+<L>I shall soone reach my lodgings, night and I</L>
+<L>Shall agree well together, if my stay</L>
+<L>Be long, remember that you left me under</L>
+<L>The pallace windowes, leave to be officious</L>
+<L>And obey me—till this night she gave me faire <STAGE>Exit.</STAGE></L>
+<L>Respect, and seem'd to allow the loving treatie,</L>
+<L>I was dull not to uncloud me all this while</L>
+<L>The knowledge of my person had engagd her</L>
+<L>
+
+
+<PB REF="15"/>Beside my act of love, and so much confidence</L>
+<L>Past all retreate, and yet she is a woman,</L>
+<L>Whose nature is unsteady as the waves,</L>
+<L>Vpon which foolish man runnes desperate</L>
+<L>To me a ruine.</L>
+</SP>
+<STAGE>Enter Borgi<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>.</STAGE>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>Fortune thou smilst too much, I shall suspect</L>
+<L>Thy giddinesse, take eyes to thee and see</L>
+<L>To what a flattering height thou hast exalted</L>
+<L>A credulous man.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What voice is that, it had</L>
+<L>A sound of melancholy, darkenesse secure me.</L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>But why make I ridiculous application</L>
+<L>To fortune? love is onely active here;</L>
+<L>The tyrant love, more blinde then chance, I am</L>
+<L>Full of distraction, there's a labyrinth</L>
+<L>Within, and more I tread, the more I am lost</L>
+<L>Betwixt the Dutchesse and <HI>Cornelia</HI></L>
+<L>My soule divids, I must not be a foole,</L>
+<L>And for the fable of amorous love</L>
+<L>Leave state that courts me with a glorious title,</L>
+<L>And yet <HI>Cornelia</HI> is fury, and lookes</L>
+<L>Withall the charmes of love upon her brow,</L>
+<L>What will she doe when she beleeves I am</L>
+<L>No brother?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Tis the new ague <HI>Borgia</HI></L>
+<L>That shakes the court, how confidently he talkes</L>
+<L>To himselfe, a light strikes from the Dutchesse window</L>
+<L>And mucsike; Ile observe, the gallant may</L>
+<L>Have some appointment.</L>
+<STAGE>Song. Cornelia above.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Alas poore love-sicke Lady, what if I</L>
+<L>Attempted farther, the excuse will fall</L>
+<L>More easie on a stranger, Lady, hist.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Whoe's that?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>One that does wish the happinesse</L>
+<L>To see your face, you have blest my eares already.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>What are you?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>My name's <HI>Borgia,</HI> if you be</L>
+<L>A faire one of the court, time is not old</L>
+<L>
+
+
+<PB REF="16"/>Since I was a guest there.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>'Tis he, Ile not lose</L>
+<L>This opportunitie, Sir your boldnesse</L>
+<L>Speakes you a stranger, and in part excuses</L>
+<L>You are alone.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I am.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I expect not</L>
+<L>Vpon so small acquaintance you should know</L>
+<L>My voyce agen, I am the Dutchesse Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Your graces humble creature, may I hope</L>
+<L>You'l pardon this attempt.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Vpon condition</L>
+<L>You will forget the freedome of our nature</L>
+<L>And not grow insolent upon our favours,</L>
+<L>We were late pleas'd to shew you, 'twas not love</L>
+<L>But mirth, we meant our court the wantonnesse</L>
+<L>Of reveling nights, which we upon retirements</L>
+<L>Know how to checke and punnish too in men,</L>
+<L>That dare licentiously apply to our</L>
+<L>Dishonour: if your service in that place</L>
+<L>Of secretary we have nam'd you for</L>
+<L>Be diligent and faithfull, we repent not</L>
+<L>That choise, but on your life feede no ambition</L>
+<L>Higher, it will be a degree next treason</L>
+<L>To us, and the honour of <HI>Ferrara's</HI> Duke,</L>
+<L>With whom because you are our secretary</L>
+<L>We let you know our thoughts are fixt to marry,</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What blessing hath my eare tooke in? she is</L>
+<L>Resolv'd to my desires.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Are you gone Sit?</L>
+<L>Sleepe wisely if you can, we shall expect</L>
+<L>Your attendance in the morning, but no thought</L>
+<L>On forfeit of your life bey ond whats dutie.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I have enough to morrow I resolve</L>
+<L>To be my selfe, and with a state becomming</L>
+<L><HI>Ferraras</HI> Duke, challenge this happinesse,</L>
+<L>Forgive deare Princesse I suspected thee.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Dutchesse above.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>The Dutchesse shee'l spoyle all.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="16"/>Dut.</SPEAKER>
+<L>I heard your voyce more loud then usuall,</L>
+<L>Whom spake you to?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Heer's no body and please your grace.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>You hold some dialogue at the window then,</L>
+<L>Ile know.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>My brother <HI>Borgia</HI> Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P><HI>Borgia,</HI> leave us.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>I hope hee's gone.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I must confesse you are my Princesse Madam,</L>
+<L>To whose least command I owe my blood and fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>He speaks to me, how does he know I am here?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>And doe not thinke I can be lost so much</L>
+<L>In dutie to interpret there was any thing</L>
+<L>In me, that could deserve more then your pastime;</L>
+<L>And let me fall and dye beneath your anger,</L>
+<L>When I transgresse so farre, as to sorget</L>
+<L>My humble fate which onely can be blest</L>
+<L>With my obedience to you, I had not</L>
+<L>One sawcie application of your favours,</L>
+<L>My heart shall bleed to death ere it shall sinde</L>
+<L>One thought of so much impudence.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Howes this?</L>
+<L>Since <HI>Cornelia</HI> has usurped my name</L>
+<L>And frighted him, what should make her officious</L>
+<L>He is her brother, I must heare no more</L>
+<L>Of this—you are mistaken all this while,</L>
+<L>I am <HI>Cornelia</HI> your sister.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Is the Dutchesse gone?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>You well distinguish voyces, yet shee's gone.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>My joy of soule, deerest <HI>Cornelia.</HI></L>
+<L>Tis she that I must trust to.</L>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>I'st e'en so?</L>
+<L>Deare brother, leaving all your studied complements</L>
+<L>I doe not like your dilatory reasons</L>
+<L>To <HI>Ursini,</HI> I may heare you as a brother,</L>
+<L>But must not trouble you to choose my husband;</L>
+<L>It is the Dutchesse pleasure, I should marry</L>
+<L><HI>Ursini,</HI> an advancement more then I</L>
+<L>Can hope, from your election of a stranger</L>
+<L>
+
+
+<PB REF="17"/>And set your heart at rest, how ere I seem'd</L>
+<L>Inclining, destinie is not more fixt,</L>
+<L>Then the affection I owe <HI>Ursini,</HI></L>
+<L>Him I resolve to marry, and before</L>
+<L>The next daies light is wasted.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I am undone</L>
+<L>A 'both sides, heare me yet but speake.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>What would you say brother?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I am not thy brother.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>How, not <HI>Borgia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Not <HI>Borgia,</HI> the whole towne's mistaken</L>
+<L>My name is <HI>Aurelio Andreozzi,</HI></L>
+<L>I was borne in <HI>Millan,</HI> with my friend design'd</L>
+<L>To see some service in the German warres;</L>
+<L>At the first sight I must confesse I lov'd thee:</L>
+<L>To enjoy thy conversation more freely,</L>
+<L>I was content to seeme what men would call me</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>You tell me wonders.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I can give thee proofe,</L>
+<L>But to no purpose now, and tell thee too</L>
+<L>Enough to make thee thinke I may be worthy,</L>
+<L>But since 'tis so, I am glad you ha' discover'd</L>
+<L>Your resolution so soone, good night te'e,</L>
+<L>Ile make no noyse to morrow, when I take</L>
+<L>My journey.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Stay, he must not be fo lost,</L>
+<L>This is a strange discovery, if you can</L>
+<L>Bring testimony that you are not <HI>Borgia,</HI></L>
+<L>You shall not Sir repent your comming hither,</L>
+<L>Nor yet despaire of any noble wayes</L>
+<L>That may reward your good opinion,</L>
+<L>Tis late; a lovers dreame charme all your senses,</L>
+<L>And waking finde your wishes, if you please</L>
+<L>Vntill I aske a further satisfaction,</L>
+<L>Be still conceal'd.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>There may be hope, although</L>
+<L>My first love I confesse reflect on this,</L>
+<L>The Dutchesse yet, had not beene much amisse,</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<PB REF="17"/>
+<HEAD>Actus Tertius.</HEAD>
+<STAGE>Enter Grutti and Ascanio.</STAGE>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>VVHy, I shall hardly take thee for my owne natu∣rall child.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Let me alone with my <GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>on, if I do not fit him, let me never finde the way into my owne breeches agen, I would be loath to die in a wrong case and bee mistaken in another world; is the musicke ready, and the wine father? can the fellowes doe their dance hansomely, in stead of a maske to entertaine his highnesse, I am sorry my legges are out of tune, I have a great minde to be capering.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>My owne wit, my owne naturall wit to a haire.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Not too much haire of your owne, and wit together, fa∣ther, tis not the fashion: de' heare, whatsoever I say, be you drunk time enough to justifie it, the bills shall be discharged without scrupulous examination, sowse in wine and give him Sea roome, if his head leake we will pumpe his breeches, he shall not sinke with all his ballast I warrant him.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>A witty cracke, and my owne boy still.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Your owne boy? take heed what you say, lest you bee driven to justifie it, you have no minde to wake my mother from her grave, tis enough I aske you blessing, I doe long to be metamorphosd, and pursue his princely humor out of breath—Musicke, tis well, his grace is upon entrance.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Dispatch boy.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>I know my cue to enter.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Pimponio, like a Spanish Don, and Servants.</STAGE>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>And how, and how doe things become? We were in clouds but now.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Your highnesse is broken out.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Broken out, where?</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Out of the clouds and please you.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>There is no infidell among you then,</L>
+<L>You all beleeve I am a Prince, de'e heare,</L>
+<L>At all adventures let it goe no further,</L>
+<L>There are no traytors I hope amongst yee▪</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="18"/>Gr.</SPEAKER>
+<P>Traytors, we will cut off any mans necke that dares but thinke so.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Doe and I will justifie it, hang necks among friends, although I am pleasd to reveale the majestie of my person to you, it is not fit every one should know so much, you are <GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>∣gers, and therefore I dare trust you, but the Dutchesse must not heare on't upon your lives; she and I must be better acquainted when I see my time; Ile tell you, <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> <GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>oy may take me i'th head to looke like a foole agen, it may, greatnesse is given to humors, and giddinesse will runne in a blood, if it doe, doe not know me.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>For what?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>For any other then I seeme.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Not a foole.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Thou art an asse, a Prince may play the foole within his owne dominions, or any other; provided they bee of his owne allies and confederates: I know where I am, but we are not merr<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>y reach me a chaire and a bottle of wine, every one take his charge.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>Will not your highnesse have the dance first?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>They will dance the better when they are three quar∣ters drunke.</P>
+</SP>
+<SP>
+<SPEAKER>1. Ser.</SPEAKER>
+<P>We do not observe men of your nation to be so joviall.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Not subjects I grant you that, but we <STAGE>Sound a health.</STAGE> have priviledge musique, and give fire at once—so, but me thinkes it were necessary there were some difference in our drinkings; all are not Princes, reach me a bigger bottle, <STAGE>Sound a health.</STAGE> I will preserve my state, this is a Princely draught— <STAGE>We drinke alone.</STAGE> so—Why have we not a Concubine?</P>
+</SP>
+<SP>
+<SPEAKER>2. Ser.</SPEAKER>
+<P>Brave Prince, with what a majestie he drinkes.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Now let em friske the dance you have prepard, I am ready to accept it.</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<L>And it shall please your grace, <STAGE>The dance which ended.</STAGE></L>
+<L>There is a high German desires to speak with you.</L>
+<STAGE>Enter Grut.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1. Ser.</SPEAKER>
+<P>The high German that was at Court, hee's a man of mightie parts and knowne to all the Princes in Christendome, what comes he for?</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>I feare you are betrayd Sir, and that the Dutchesse has sent for you.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="18"/>Pim.</SPEAKER>
+<P>For me, I wonnot come yet.</P>
+</SP>
+<SP>
+<SPEAKER>2. Ser.</SPEAKER>
+<P>Doe not affront him Sir, for your owne sake, this high German has beaten all the Fencers in <HI>Europe.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Let him beate all the world, whats that to me? shall he ma<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> a prize of me?</P>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>But if he come Embassador from the Dutchesse.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>That's another matter, give me the tother bottle—</L>
+<L>Now let all the Cantons of <HI>Swisse</HI> come. <STAGE>Enter Ascanio in Swizzers habit.</STAGE></L>
+<L>Which is the high German? let me see him.</L>
+</SP>
+<SP>
+<SPEAKER>Gr.</SPEAKER>
+<P>That Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Hee's one of the lowest high Germans that e're I lookd upon.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>I kisse thy highnesse hand.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>And we embrace this lownesse: de'e heare Sir, are you a high German?</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>I was so at the beginning of the warres, what wee are beaten to you may discerne.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Are you beaten to that? you'l be a very little nation and the warres continue.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>I have a message to deliver you,</L>
+<L>The faire Dutchesse of <HI>Urbin,</HI> whom I waite on,</L>
+<L>Hearing a person of your blood and qualitie</L>
+<L>So meanely lodg'd, by me desires you would</L>
+<L>Accept an entertainement in her Court.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>We give the Dutchesse thankes, how knew shee I was here?</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>It was impossible</L>
+<L>You should stay undiscover'd many howers.</L>
+<L>Princes have strange intelligence, and you may</L>
+<L>As soone tie up the Sunne beames in a net</L>
+<L>As keepe your selfe unknowne; for my owne part</L>
+<L>I am honord in the embassie, and shall</L>
+<L>Be proud to write my selfe your pensioner</L>
+<L>As I am to all the royall blood in Christendome.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>O Pensioner, tis the least honour we intend thee, I am a naturall Prince as sure as I live; here weare this gold, there's more to drinke our health, wee are pleasd no man be sober at our returne, as he will answer it, you may be all my subjects▪ if I marry the Dutchesse Ile hang you all.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="19"/>Ors.</SPEAKER>
+<P>How?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>In chaines of preferment, drinke I say, and drinke to purpose, what will become of me now? stay, a word with you high German, what will the Dutchesse doe with me doe you thinke?</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>'Twere sinne to say shee'l honour you, for you</L>
+<L>Are above all addition but her love;</L>
+<L>Your wit, your blood, your person, doe not lose</L>
+<L>The opportunitie, yet I prophesie</L>
+<L>You will be affronted.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>No matter, I ha beene affronted a hundred times, but by whom?</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Questionlesse by some great ones,</L>
+<L>And perhaps beaten.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>I have beene beaten too upon good occasion,</L>
+<L>And will agen to save my honour; beaten?</L>
+<L>I can take the strappado, beside in this part</L>
+<L>I am insensible, a kicke is cast away.</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>If you be valiant and indure, it will</L>
+<L>Engage her love the more, but I know</L>
+<L>Your breeding will afford you impudence</L>
+<L>To overcome their envies, and secure</L>
+<L>This Dukedome to your selfe, goe on boldly,</L>
+<L>My counsell shall attend.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>I will goe on, and feare no beating, well</L>
+<L>I cannot knight thee, yet prove but a witch</L>
+<L>Ile make thee one of my privy counsellors.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Mercutio, Iulio, and Lucio.</STAGE>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>No more, my dutie will not let me heare it.</P>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>How not your dutie Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<P>You are not angry?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>You are his friends, I should not else be pleas'd.</P>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>We have said nothing to afflict you thus,</L>
+<L>We did expect this wod ha' made you merry.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>A sonnes preferment was not wont to be</L>
+<L>Such discord to a father, a loving father,</L>
+<L>For so we tooke your constitution.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>Preferment? tis too poore a word.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="19"/>Mer.</SPEAKER>
+<P>You were best tell me too he may be Duke.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>He is i'th rode, I know not how hee'l misse it.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>This is three quarters treason, tho I love</L>
+<L>My sonne, I must not cherish this ambition.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>But it will be more then three quarters treason</L>
+<L>If you presume to checke the Dutchesse pleasure,</L>
+<L>And murmur thus if she resolve to marry,</L>
+<L>And make your sonne a Duke, you'l not turne rebell.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Defend allegiance, Gentlemen mistake not</L>
+<L>Altho I love my sonne, Ile not be guiltie</L>
+<L>Of any thought to crosse her, but I should</L>
+<L>Be sorry he should cast away himselfe.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>How de'e meane?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>As men doe use when they</L>
+<L>Doe hange or drowne themselves.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Have you sence</L>
+<L>And talke thus wildly.</L>
+<L>The riddles you have told me.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Yes and understand</P>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Doe you count</L>
+<L>Your sonne lost by the Dutchesse loving him?</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Goe finde your wits agen, and use 'em better,</L>
+<L>Can you be so rediculous to thinke,</L>
+<L>So wise, so modest, so religious</L>
+<L>A Lady can forget her state and honour</L>
+<L>To place affection on my sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>There have beene</L>
+<L>Presidents to make it seeme no wonder.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>She had better taine his head off, there had ended</L>
+<L>My cares, the boy t'runne madde, and what can follow</L>
+<L>Thinke yee? goe to, Ile to her highnesse presently.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>What to doe?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>To pray her leave him to a naturall death,</L>
+<L>And choose some other to undoe with pride</L>
+<L>Of her large favours; gentlemen examine</L>
+<L>But your selves, could either of you two promise</L>
+<L>To keepe your wits, if such a grace were offerd</L>
+<L>To you? would it not tempt you to be mad,</L>
+<L>To thinke of being a Duke? speake honestly,</L>
+<L>
+
+
+<PB REF="20"/>I'st fit indeed you should be lesse than mad?</L>
+<L>There be some men ith' world ha' lost their senses</L>
+<L>When they but chewd the Cud of a bare Lordship,</L>
+<L>I ha' knowne a knighthood has turn'd some mens wits,</L>
+<L>The very noyse o'th spurres; then doe not blame me</L>
+<L>If I desire my sonne sober and sensible,</L>
+<L>And now I thinke on't Ile first seeke him out.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Laura and Melinda.</STAGE>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>I thinke the old mans mad indeed,</L>
+<L>Deare Madam <HI>Laura,</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<P>Sweet Sir I cannot stay.</P>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>Then I can walke and waite on you.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>You have the same haste too,</L>
+<L>Thou art a peece of the Dutchesse Cabinet,</L>
+<L>I must heare some newes.</L>
+</SP>
+<SP>
+<SPEAKER>Me.</SPEAKER>
+<P>Alas the Court is barren.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I know a tricke to make thee fruitfull yet,</L>
+<L>Nay I can mend my pace Lady an you put me toot.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Cornelia, and Pisauro.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Good Sir the reason why you wonder at me</L>
+<L>Above all other women, what in me</L>
+<L>Appeares so full of prodigie.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Ile tell you,</L>
+<L>Y'are young and hansome.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Should I grant I were,</L>
+<L>This were no miracle.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Withall this youth and hansomnesse y'are a maid</L>
+<L>And live at Court too, this I hope's not ordinary.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>What wonder will your fancy create next.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Y'are sound too, or your phisnomy deceives me.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>The priviledge of my brothers friend must not</L>
+<L>Engage me to a mockery.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>I was</L>
+<L>About to say y'are patient too, I see</L>
+<L>Something wud make you angry, but returne</L>
+<L>To your first temper, and I'le soone acquaint you</L>
+<L>With all my purpose Lady, to all these</L>
+<L>Commendations, which meet not in all women,</L>
+<L>
+
+
+<PB REF="20"/>You have birth and fortune, and the favour of</L>
+<L>The Dutchesse.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>All these carry no such wonder</L>
+<L>If I have understanding.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>No, no, you</L>
+<L>Are all the wonder Madam that with these</L>
+<L>Advantages a your side to draw up mens</L>
+<L>Affections, yet as you despaire to have</L>
+<L>A Husband to the discredit of your sex,</L>
+<L>Who article at twelve to be dissemblers;</L>
+<L>You are in love.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>In love, is that a sinne?</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Nay, nay, you court a Gentleman with eyes</L>
+<L>That are not lawfull.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>How Sir, be not rude.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>I can say more.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Is it your mirth or madnesse.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>No, no, you are mad, worse, Ile prove it,</L>
+<L>You dote upon your brother, come tis impious,</L>
+<L>Purge, purge betime, your blood is foule, Ime plaine</L>
+<L>There's some ont in your face now that would blush</L>
+<L>I see through your hearts, a little more</L>
+<L>Had spoild him quite, he had forgot all lawes</L>
+<L>Of nature and religion, and beene fond</L>
+<L>To both your shames; a brother, and a sister</L>
+<L>Tempt one another, good heaven where is conscience</L>
+<L>And modestie become? preserve your selfe</L>
+<L>You have yet a good name, keepe it and drinke Julips,</L>
+<L>You'l finde the benefit in your veines.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>You have</L>
+<L>Beene very bould upon my constitution.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>I know it better then your Doctor, Come</L>
+<L>Doe not deny it, I make no proclamation;</L>
+<L>What i'st to me more then my Christian care</L>
+<L>You should not hurt your soules, he is my friend</L>
+<L>Betray him not, tis no good sisters part</L>
+<L>I can assure you, if you be not dull</L>
+<L>Or blinde with giddy passion, you may see</L>
+<L>
+
+
+<PB REF="21"/>Another starre shoot influence on him;</L>
+<L>Be wise and envie not the Dutchesse favours,</L>
+<L>Your vessell may be rigg'd, and trim'd, and lanch'd</L>
+<L>Into a calmer Sea, and returne fraught</L>
+<L>With lawfull prise hereafter, I ha stirrd her,</L>
+<L>But must not be too hasty.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I shall shew</L>
+<L>My selfe too full of guilt.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>You are troubled at it,</L>
+<L>A signe of grace; how ere you thinke of me</L>
+<L>Now in the heate of Counsell I'me your friend,</L>
+<L>You'l finde it so, I kisse your hand, farewell.</L>
+<L>De'e heare? but two words more, if you doe finde</L>
+<L>As being acquainted best with your owne body,</L>
+<L>No disposition to hold out longer,</L>
+<L>I ha' that will cure you, and Ile justify't</L>
+<L>Before the colledge—Take me,</L>
+<L>De'e marke, that does it, I kisse your hand,</L>
+<L>Agen farewell, and have a conscience,</L>
+<L>Ile tell you more next time, this way may worke.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>This Gentlemans discourse though somewhat wild</L>
+<L>And without method shakes me, I am lost</L>
+<L>If I obey, I know not what within me</L>
+<L>Too Prompts me to a love so irreligious;</L>
+<L>He is my brother, holy thoughts possesse me,</L>
+<L>And when a furious passion seekes to invade</L>
+<L>My will, destroy it heaven—hee's here I dare <STAGE>Enter Dutchesse and Borgia.</STAGE></L>
+<L>Not stay to tempt my frailtie, let them move</L>
+<L>With joy, I am not in my spheare of love.</L>
+<STAGE>Exit▪</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>But tell me signior, nay we are pleas'd</L>
+<L>You should be free, upon what confidence</L>
+<L>Knowing your guilt, and danger to reward it</L>
+<L>Durst you returne to <HI>Urbin.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I was more fortunate</L>
+<L>Then I have reason for, and yet my country</L>
+<L>And friends were pretious madam, nor could life</L>
+<L>In such a wildernesse abroad, where none</L>
+<L>
+
+
+<PB REF="21"/>Durst owne me, be a benifit; there was</L>
+<L>A bessing in my fate to meete your mercy</L>
+<L>That gave me boldnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Cunningly dissembled,</L>
+<L>You met no Lady then in all your travell,</L>
+<L>I meane none whom you cald mistresse, with</L>
+<L>Her loving magicke to lay charmes upon you</L>
+<L>And forc'd your stay.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>None Madam, I was not</L>
+<L>Worth any Ladies thought, none were so lost</L>
+<L>To their owne Iudgements to imagine me</L>
+<L>More then a walking shaddow, or if any</L>
+<L>Had cherish'd better thought of me a stranger,</L>
+<L>They quickly found, they had not plac'd it right,</L>
+<L>On so much barrennesse which left their charity</L>
+<L>To pay it selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>You doe not promise such</L>
+<L>A hard and horrid composition,</L>
+<L>But love may finde a shift to enter more</L>
+<L>Then skinne deepe in your bosome, but perhaps</L>
+<L>You left your heart at home, and could not then</L>
+<L>Dispence with new ingagements, it was so,</L>
+<L>And for her sake you willingly forgot</L>
+<L>Your danger to returne, nay be not troubled,</L>
+<L>Confession will not injure you, I like</L>
+<L>You should preferre the beauties of your country.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>It Cannot be thought flattery, if I</L>
+<L>Acknowledge with the narrowest observation</L>
+<L>My eyes could take, no place hath beene more fruitfull</L>
+<L>In beautie then your owne, and it doth hold</L>
+<L>Proportion with your excellence, all should</L>
+<L>Be faire and imitate your first example.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>I see you can be when you lift a Courtier,</L>
+<L>But this confirmes your love is planted here;</L>
+<L>And since we are falne by accident upon</L>
+<L>This subject, wee'l pursui't a little further;</L>
+<L>Come I must know your Mistris, doe not doubt</L>
+<L>I shall disturbe the progresse of your loves.</L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>What answer shall I frame, things are not ripe</L>
+<L>
+
+
+<PB REF="22"/>Yet for discovery, so please your highnesse</L>
+<L>You would be modest, and excuse, be wiser</L>
+<L>And apprehend my meaning to advance</L>
+<L>Your wishes, tis within my power to effect</L>
+<L>As much as your ambition can ayme at:</L>
+<L>Who is it if her heart be stubborne, we</L>
+<L>Can make it soft; if great above your fortune,</L>
+<L>We can raise you to her equality,</L>
+<L>Or bring her downe to your levell, since we ha' promist</L>
+<L>In hope not to repent: either declare</L>
+<L>The mistresse of your thoughts, and finde them prosper,</L>
+<L>We are not us'd to expresse such bounteous language,</L>
+<L>But be the proudest, greatest in our Dutchy▪</L>
+<L>Without all limitation, she shall carry</L>
+<L>No birth or state here, to despise the service</L>
+<L>You fairely meane her▪ if we faile in this,</L>
+<L>We will not thinke our strength worth the preserving</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>If I have any wit.</P>
+</SP>
+<STAGE>Enter Cornelio.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Madam the Duke.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>What Duke?</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>The Duke of <HI>Ferrara</HI> with a glorious traine</L>
+<L>Is come to Court, and as the loud voyce is</L>
+<L>Given out by himselfe, to claime you for his wife,</L>
+<L>For which he has your promise.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>How our promise?</L>
+<L>Can Princes be so insolent, beshrew</L>
+<L>His haste, but we shall lose much of our honour</L>
+<L>To give no ceremony to his person?</L>
+<L>How e're our thoughts point, we will entertaine him</L>
+<L>And dresse our face in smiles.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>His lookes renew</L>
+<L>My sufferings, I have not power to manage</L>
+<L>My wilde affection, my heart will not</L>
+<L>Be denied but by a secret destinie.</L>
+</SP>
+<STAGE>Runnes to imbrace him—<HI>Brother.</HI></STAGE>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Ha, <HI>Cornelia</HI></L>
+<L>I hope you are not courting <HI>Borgia,</HI></L>
+<L>He is your brother, know your place within</L>
+<L>
+
+
+<PB REF="22"/>Our traine.</L>
+<STAGE><GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/>▪</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Shee's jealous, jealous, starres I thanke you,</L>
+<L>Tis cleare as light shee does affect me now:</L>
+<L>Did she not put me too't, to name my mistris,</L>
+<L>Yet in a shaddow pointed at her selfe?</L>
+<L>Be she the proudest, greatest in our Dutchy</L>
+<L>Without all limitation, I mark'd that</L>
+<L>And had my sense—if great above your fortune</L>
+<L>We can raise you to her equalitie:</L>
+<L>Fine moralls, poore <HI>Cornelia</HI> loves me too,</L>
+<L>But I must give her no encouragement:</L>
+<L>Her grace is much the better woman—ha, <STAGE>Loud Musicke.</STAGE></L>
+<STAGE>A passage over the Stage, Duke, Dutchesse, Ursini, Iulio, Lucio, Pietro, Ladies.</STAGE>
+<L>She appeard discontent when first <HI>Cornelia</HI></L>
+<L>Brought her the newes, yet they march lovingly</L>
+<L>Together, but that ceremony must</L>
+<L>Be allow'd at Court, where shift of face and tongue</L>
+<L>Are wisely to be practiz'd—my good Lord.</L>
+</SP>
+<STAGE>Enter Ursini and Pietro.</STAGE>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Your servant <HI>Borgia.</HI></L>
+<L>Tis her graces pleasure every gentleman</L>
+<L>That has relation to the Duke, taste all</L>
+<L>The bounties of her Court.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>How's this?</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>None dare</L>
+<L>To affront a Groome on forfeit of his place,</L>
+<L>Let all the offices of entertainment</L>
+<L>Be free and open.</L>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<L>I shall signifie</L>
+<L>These her commands.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>And they that of her owne</L>
+<L>Court are ambitious to expresse their duties</L>
+<L>Let it appeare in keeping this day solemne</L>
+<L>To wine and mirth, that every brow may speake</L>
+<L>A joy and welcome to the Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>I shall.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Here's like to be a triumph, with your Lordships</L>
+<L>Pardon; was that the Duke of <HI>Ferrara</HI></L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="23"/>Urs.</SPEAKER>
+<L>Yes of <HI>Urbin</HI> shortly, when their marriage</L>
+<L>Is perfect, every subjects heart prayes for it,</L>
+<L>And sent their acclamations to heaven</L>
+<L>To see her highnesse lovingly salute him,</L>
+<L>Hee's a brave Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>A good round gentleman,</L>
+<L>He did not flie hither; I heard talke of an</L>
+<L>Embassadour.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>A cloud for his owne person</L>
+<L>Till his affaires came to maturitie.</L>
+<L>He stood conceal'd toth' Dutchesse, but last night</L>
+<L>He gain'd her princely word to marry him,</L>
+<L>And is this morning bright in his owne glories.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Last night.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Ile build more faith upon his honour</L>
+<L>Fast as a contract.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>To what painted Paradise</L>
+<L>Would she ha' led me? wood I had my sister now.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>With this joy</L>
+<L>I had forgot my owne, <HI>Borgia;</HI> Brother</L>
+<L>Let not the sound be unwelcome, tis the Dutchesses</L>
+<L>Pleasure to honour her unworthy creature</L>
+<L><HI>Ursini,</HI> by appointment of our marriage</L>
+<L>To Waite on hers.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>What marriage?</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>With your sister,</L>
+<L>Ile not suspect your love, since faire <HI>Cornelia</HI></L>
+<L>Is not displeasd to be directed by</L>
+<L>Her highnesse, and be confident my love</L>
+<L>Shall make the memory of it welcome to you;</L>
+<L>You will excuse me if I take my leave,</L>
+<L>These houres are full of businesse, and I have</L>
+<L>Many commands upon me.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>In good time,</L>
+<L>I am in a good state agen, I was an asse</L>
+<L>To thinke the Dutchesse meant me any thing</L>
+<L>But mockery, she told me so before</L>
+<L>To make more sport, I ha' lost my sister too,</L>
+<L>Shees for <HI>Ursinis</HI> carving, I could curse</L>
+<L>
+
+
+<PB REF="23"/>My selfe to <HI>Millan,</HI> but tis not impossible</L>
+<L>I may retrive <HI>Cornelia,</HI> by giving her</L>
+<L>A timely satisfaction, I am not</L>
+<L>Her brother <HI>Borgia:</HI></L>
+<L>Ther's all the hope is left, I shall be loath</L>
+<L>To hunt two hares, and after lose them both.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus Quartus.</HEAD>
+<STAGE>Enter Mercutio and Borgia at severall dores.</STAGE>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>SOnne y'are well met.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Your pleasure Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>No great pleasure, I am almost hoarse with</L>
+<L>Enquiring for you, I must aske you a question,</L>
+<L>First let me examine your countenance.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Your meaning Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>I have no skill in Metaposcopie,</L>
+<L>De'e know me?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I am not discover'd sure,</L>
+<L>What crotchet's this?</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Hee's proud, he wonnot know me:</L>
+<L>'Tis so, hee's lost, he is undone, nay, nay,</L>
+<L>It will become me to stand bare to you Sir,</L>
+<L>And teach my hammes the officious cringe; be cover'd.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I know not how to interpret Sir your language;</L>
+<L>Yet I would hope you mocke me not, altho</L>
+<L>It was the Dutchesse pleasure to create</L>
+<L>Mirth from this barren heape, and counterfeit</L>
+<L>Favors to try my duty, joyne not you</L>
+<L>With others to enlarge my scorne, I am not</L>
+<L>So tame of soule, but I have sense of all</L>
+<L>Their Ieeres.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Their Ieeres? whom doe you point upon?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I dare not name the Dutchesse; I am all</L>
+<L>Obedience to her person, yet she might</L>
+<L>Have plac'd her giddy humor somewhere else</L>
+<L>It swells not me with expectation,</L>
+<L>I was not made for state.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Doe not you then</L>
+<L>Thinke to be Duke.</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="24"/>Bo.</SPEAKER>
+<L>Should any but your selfe</L>
+<L>Name such a title to me, I should answer</L>
+<L>His question with a frowne, and something else</L>
+<L>To waite upon't, tho I engag'd my life</L>
+<L>To a fresh danger, but I am instructed</L>
+<L>By nature and religion to be calme</L>
+<L>At what you say.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>On this condition</L>
+<L>Ile give thee leave to beate me, 'twas my feare</L>
+<L>Thou hadstan easie faith, and wert transported</L>
+<L>Indeede out of thy wits, but since I see</L>
+<L>Thou art not madde, I will commend a wife to the<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/></L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>To me, I thanke you Sir, not yet,</L>
+<L>I shall be madde indeed then, I will marry</L>
+<L>None but my sister, take my word.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Thy sister?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I cannot raile upon the Dutchesse safely;</L>
+<L>A wife, my mother's dead.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Thoud'st not have her?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I thinke you wod not have her out of heaven.</L>
+<L>T'were little Charrity, and the whole sex</L>
+<L>Were in a dead sleepe wer't not finne to wake 'em;</L>
+<L>A wife, Ile seeke my sister.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Stay and take</L>
+<L>My keyes▪ this opens to my gould, goe home</L>
+<L>And take out ten bagges.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>What to doe Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>To spend 'em, all's thine owne, leave something for</L>
+<L><HI>Cornelia,</HI> because perhaps shee'l marry,</L>
+<L>And I am satisfied, a prudent boy,</L>
+<L>How am I bound to heaven that hee's not proud,</L>
+<L>Nor taken in the subtle toyles of women?</L>
+<L>Hee'l never marry, how shall I consume</L>
+<L>My estate? Dost heare, a little portion</L>
+<L>Will serve <HI>Vrsini</HI> with thy sister▪</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Must</L>
+<L>He marry her?</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>I let him, we shall please</L>
+<L>The Dutchesse too, and when she is disposd</L>
+<L>The rest is ours to revell with.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Ile thinke ont.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Iulio and Lucio.</STAGE>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Did you not meet my sonne?</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>Yes somewhat melancholy.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="24"/>Mer.</SPEAKER>
+<L>You are deceiv'd, hee's cholericke, and let</L>
+<L>Me advise you gentlemen, although I know</L>
+<L>He loves you, doe not mocke him, hee's no foole;</L>
+<L>No bladder to be swolne with breath of praise</L>
+<L>And Ladies Iigges, he is sensible he is,</L>
+<L>And will not be the hatefull stocke of pastime</L>
+<L>To Groomes and Pages.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>What doe you meane my Lord?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Call him not Duke, I counsell you.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>We doe not.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Nor do'e not thinke it possible it may be</P>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Have patience, and we doe not, we have alter'd</L>
+<L>Our opinions, and are cleare of your side now.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>As the wheeles move we doe thinke nothing lesse,</L>
+<L>Your sonne shall not be Duke, there is no feare on't</L>
+<L>Whilst <HI>Ferrara</HI> lives.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>He shall not.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>So we say, sleepe quietly.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>He shall not, very peremptory,</L>
+<L>You are no Oracles, would I were Dutchesse</L>
+<L>For halfe an houre, he shud be Duke, de'e heare now;</L>
+<L>No matter who repented: I thought you</L>
+<L>Had beene his friend, he shannot be a Duke?</L>
+<L>How ere I thought on't, it becomes not you</L>
+<L>To circumscribe his fortune, he can number</L>
+<L>Descents of noble blood, and had his breeding;</L>
+<L>Has none of the worst faces, heads, nor hearts,</L>
+<L>How ere you value him and discharge your boults</L>
+<L>At randome thus, he shannot.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>Heare us Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>He shall not be a Duke.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>Did not I say he was mad?</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>That was dissembled,</L>
+<L>He has cause now to see a turne i'th streame,</L>
+<L>And <HI>Ferrara</HI> onely hopefull with the Dutchesse, <STAGE>Enter Pisauro and Aseanio.</STAGE></L>
+<L>What thing is that?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Is he so confident?</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>He will lay about like a Prince, de'e thinke</L>
+<L>
+
+
+<PB REF="25"/>We may present him safely? if you say</L>
+<L>The word Ile winde him up to an Emperour.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Keep thy shape boy, we wonnot lose the sport,</L>
+<L>And happily I will acquaint these gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>If I</L>
+<L>Should be whipt heartily for my conceit,</L>
+<L>The little high German wud not take it kindly,</L>
+<L>It may be the court largesse; but no matter,</L>
+<L>I have some gold and dare venter the last</L>
+<L>At any time for coyne of this complexion.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>Are you in earnest.</P>
+</SP>
+<SP>
+<SPEAKER>In.</SPEAKER>
+<L>'Twill be excellent,</L>
+<L>And please her highnesse, she has commanded</L>
+<L>All libertie of mirth, Ile undertake</L>
+<L>To prepare her.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>About it then, Ile have</L>
+<L>My part i'th enterlude, lose no time boy,</L>
+<L>Thou shalt be Prince of Pigmieland for this:</L>
+<L>The Dutchesse, Ile withdraw.</L>
+</SP>
+<STAGE>Enter Dutchesse, Ferrara, Ursini, Borgia, Cornelia Ladies.</STAGE>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>My Lord, you make me wonder, challenge me</L>
+<L>Of promises? tho I acknowledge it,</L>
+<L>No act that could reflect with a dishonour</L>
+<L>Vpon our person, yet we must not be</L>
+<L>So jeasted into marriage, you are a Prince</L>
+<L>Of an unquestiond merit, take not these</L>
+<L>Imaginary wayes to advance your hopes</L>
+<L>In us, we are yet free as you my Lord,</L>
+<L>And shall not in a dreame give up our selfe,</L>
+<L>Were we disposd to marry or contract</L>
+<L>Our selfe, the day shall witnesse it without</L>
+<L>A blush, let guiltie soules call night to cover</L>
+<L>Their promises, we are innocent.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Good Madam</L>
+<L>Render me not so lost to my owne senses,</L>
+<L>To the honour of a Prince basely to coine</L>
+<L>A language for my purpose, though you may</L>
+<L>Repent the last nights freedome, and correct</L>
+<L>Your judgement of me, make me not so miserable</L>
+<L>
+
+
+<PB REF="25"/>To let the Court thinke I invented this</L>
+<L>As destitute of nobler wayes to move you,</L>
+<L>But I presume this is to try my patience</L>
+<L>And make my joyes at last more pretious</L>
+<L>By this delay; I know you are all vertue</L>
+<L>And cannot staine your selfe by a denyall</L>
+<L>Of any syllable you speake.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>With pardon</L>
+<L>Of your grace, I shall laugh if you persist thus:</L>
+<L>You had a pleasant dreame, but lovers</L>
+<L>Are flatterd in their sleepe, I speake to you.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Then Madam I take leave, to tell you tis not</L>
+<L>Done like a Princesse of that character</L>
+<L>We have receiv'd, and if I had no witnesse</L>
+<L>I see what mirth we are prepar'd for.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Witnesse</L>
+<L>There is too much at stake my Lord already,</L>
+<L>To racke this argument for your owne fame,</L>
+<L>Proceede not to enlarge it, we would rather</L>
+<L>Confesse some guilt against our selfe, then let</L>
+<L>You honour be expos'd to such strait censure</L>
+<L>For loving us, yet if you would be silent</L>
+<L>In this we shall be proud, in other things</L>
+<L>To have denyed you nothing, and be asham'd</L>
+<L>You tooke our Court so unprepard to honour you.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Was ever such a mockery, I see</L>
+<L>I must produce more testimony, you see</L>
+<L>Can justifie if you please, I have affirm'd</L>
+<L>Nothing but truth, altho my willing eare</L>
+<L>Catch'd up the voyce, she spake it to you signior.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>What my good Lord?</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>That she resolv'd to marry us.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Your excellence</L>
+<L>Must pardon me, I heard her highnesse speake</L>
+<L>No language to that purpose.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>We honour</L>
+<L>You <HI>Borgia</HI> for acquitting us.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Tis truth her highnesse never spake so, but I did</L>
+<L>
+
+
+<PB REF="26"/>Whom supposd the Dutchesse, and this must</L>
+<L>Sound hope in him to be so negative.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>It seemes you have concluded, Madam, I</L>
+<L>Must be the generall mirth.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>I finde <HI>Cornelias</HI></L>
+<L>Cunning in this and must apply some complement</L>
+<L>For our owne honour, good my Lord your privacie.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>How er'e her grace be a little impudent</L>
+<L>I had beene madde to justifie the Duke</L>
+<L>In such a cause, she has no minde to marry him,</L>
+<L>And perhaps talk'd to me last night to try</L>
+<L>My strength of wit, women are subtill creatures,</L>
+<L>No matter tho <HI>Usini</HI> court my sister,</L>
+<L>My ambitions faire a tother side agen.</L>
+</SP>
+<STAGE>Enter Iulio, and Lucio, and whisper with the Dutchesse.</STAGE>
+<SP>
+<SPEAKER>Vrs.</SPEAKER>
+<P>Tis strange the Dutchesse should so mistake.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Vpon</L>
+<L>My conscience she heard the words.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Yet She denies.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>I must beleeve her too:</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>You speak a riddle Maddam.</P>
+</SP>
+<SP>
+<SPEAKER>Du.</SPEAKER>
+<L>Will you my Lord</L>
+<L>Admit of so much mirth.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>You shall command me.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Remit 'em then, the rest Ile cleare hereafter</L>
+<L>To your satisfactition.</L>
+</SP>
+<STAGE>Enter Ascanio, Pimponio, Pisauro</STAGE>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>De'e heare, what Prince de'e meane to call your selfe?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Why any Prince in <HI>Spaine.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pis</SPEAKER>
+<L>No Ile advise you</L>
+<L>You shall be an <HI>Italian</HI> Prince in <HI>Spanish</HI> habit,</L>
+<L>Now I thinke better on't, tis queint, and will</L>
+<L>Be gratefull for the witty noveltie:</L>
+<L>Every common Prince goes in his countries fashion</L>
+<L>Such as you are not ordinary, be bould.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Why didst bring him hither.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Peace I may doe you a curtesie,</L>
+<L>Keepe your owne counsell and be ignorant</L>
+<L>Of this strange Creature, say you are—</L>
+<L>The Duke of—thus disguisd for reasons</L>
+<L>Knowne to your selfe.</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="26"/>Pim.</SPEAKER>
+<P>Duke of—let me alone.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>And be not beaten out of't.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>I wonnot, let the high German first present mee in a speech,</L>
+<L>Is that the Dutchesse? so, so.</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>I warrant you.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>My master or his ghost?</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>You wonnot be a foole and lose your selfe,</L>
+<L>And heaven knowes what scorne to take notice on him,</L>
+<L>Remember who you are.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Vmph, umph, stand by fellow.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Dutchesse of <HI>Urbin</HI> never was your Court</L>
+<L>Grac'd with the presence of so brave a Prince</L>
+<L>As this the darling and delight of Christendome.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>He seemes no lesse.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>What pageants ha' we got.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>And cosen not your selves he is no <HI>Spaniard.</HI></L>
+<L>But of <HI>Italian</HI> sprightly breed, a man</L>
+<L>Famous in Arts and Armes, as shall appeare</L>
+<L>If any man dares question him, should your grace</L>
+<L>But see him at some royall exercise</L>
+<L>You wud thinke him more then mortall, he shall pitch</L>
+<L>The Barre with any of your Guard, or drink with 'em;</L>
+<L>Wrastle with both the West and North Olympicks,</L>
+<L>Sings like the <HI>Arabian</HI> Bird, and can out-dance.</L>
+<L>The nimble Elephant, so rarely skil'd</L>
+<L>In musicke, that he has a great ambition</L>
+<L>To goe to hell to challenge <HI>Orpheus</HI></L>
+<L>To play with him on any Instrument</L>
+<L>From the Organ to the Iewes-trumpe.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Miracles!</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>These are the outside of his qualities,</L>
+<L>But looke within him, and your grace shall finde</L>
+<L>Enough to ravish you.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Tell how I love her.</P>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>With all these vertues and advantages</L>
+<L>Of blood and state he comes to court your highnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>We are infinitely honord, and wud thank him,</L>
+<L>But that we know not yet this Princes name.</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>Duke of <HI>Ferrara</HI> Madam is his title.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="27"/>Fer.</SPEAKER>
+<P>How sirrah?</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>That is the Duke of <HI>Ferrara,</HI> what de'e meane?</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Stand too't and say he is a counterfeit</L>
+<L>A meere impostor, be not beaten out on't.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>Are you Duke of <HI>Ferrara</HI> sirrah, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>I am Duke of all the world, what's that to thee?</L>
+<L>High German stand close to me.</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<P>A true Prince needs no buckler.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>Sirrah darst usurpe my name?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>Tis mine, thou art a counterfeit,</L>
+<L>I hope your grace will know me another time.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>A base affront my Lord, and suspect</L>
+<L>A plot of <HI>Borgias</HI> to dishonour you▪</L>
+<L>He durst not stay to face it.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Ile have's heare,</L>
+<L>As for this wretch.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Doe, doe, I look'd for this, a true Prince can beare.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam you have not usd me well.</L>
+<L>I say no more.</L>
+<STAGE>Exit. Fer. and Urs.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Let him goe madam, Ile call him to account hereafter.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>We are displeasd, hence with that foole and whip him.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Whats the matter?</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>You must be whipt and strip'd my scurvie Don.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Whip a Prince? what de'e meane?</P>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<P>You must be Duke of <HI>Ferrara.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>Duke of a Fiddle-sticke, you doe not meane, to let me</L>
+<L>Catch an Ague Gentlemen?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>The lash when the fit comes will keepe you warme, doe you know one <HI>Pimponis,</HI> he was a footman, you will be in case to overtake him presently, hee has the heeles on you, and you cannot give him so much weight, now you are light, stay but a little wee'l send you a whip.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>How am I transform'd, Duke of <HI>Ferrara</HI> quotha, wud I were any thing, I know not what I am as they have handled me.</P>
+</SP>
+<STAGE>Enter Dutchesse and Pietro.</STAGE>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Is the Duke gone?</P>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>Yes Madam.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="27"/>Dut.</SPEAKER>
+<P>Ile have the foole hang'd then▪</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>That's I.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Alas poore fellow, ha, ha, ha, what art thou?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Nothing, I hope she does not know me agen, I must deny my selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Come hither Sirrah,</L>
+<L>Whose devise was it to bid you say you were</L>
+<L>Duke of <HI>Ferrara?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>Alas not I Madam, he is gone.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Who is gone?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>The insolent fellow that made a foole of your high∣nesse.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Whether is he gone?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>To obey your grace and be whip'd.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Why doe you shake so?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>I'me very warme and please your grace.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Where be your cloathes?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>My cloathes? I never wore any more in my life, I sweat with these.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>He has punishment enough, who waites?</L>
+<L>Bid <HI>Borgia</HI> attend us.</L>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>I shall Madam.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Borgia.</STAGE>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<P>How now sirrah, what are you?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>A Tumbler, doe you know me?</P>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<P>I know thee?</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>What not <HI>Pimp.</HI> honest <HI>Pimponio.</HI></P>
+</SP>
+<STAGE>Enter Pietro.</STAGE>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>Signior <HI>Borgia</HI> her grace calls for you.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I attend.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>How signior <HI>Borgia?</HI> then I am not I, and there is no Staying here to finde my selfe, as I remember some friends of mine, did promise me a comfortable whip, Ile rather venture a cold then stay fort, I must be Dukified, be perswaded into kickes—they'l returne, I wonnot tempt my destinie, she pro∣misd to hang me, and I can doe that for my selfe when I have a minde toot.</P>
+</SP>
+<STAGE>Enter Iulio, and Lucio.</STAGE>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<P>Kicke that fellow out of the Court.</P>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<P>You are mistaken Sir, he meanes some body else, I have beene kicked already.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Dutchesse and Borgia▪</STAGE>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Madam you let fall.</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="28"/>Dut.</SPEAKER>
+<P>Let it re ward your paines.</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>Observ'd you that.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Convey this to <HI>Mercutio,</HI> it creates him</L>
+<L>Controuler of our houshold, this I hope</L>
+<L>Will merit more of his acquaintance with</L>
+<L>Our Court.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>You honour your poore creatures.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Leave us, <STAGE>Exit.</STAGE></L>
+<L>You may stay Sir, what suite, what that you named?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Suite Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Did not you say you had a suite to us,</L>
+<L>I hope your modestie will teach you how</L>
+<L>To lim it your request, that it may be</L>
+<L>Such as may both become our grant and your</L>
+<L>Acceptance, speake what i'st</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>My suite Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>But in the confidence of your discretion</L>
+<L>Name and enjoy what you desire.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>This bounty</L>
+<L>Of language is beyond all my ambition.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Well Sir to'th purpose, I would have you speake</L>
+<L>To purpose now.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>To purpose, would I durst,</L>
+<L>This exceeds all the rest, shall I be mad</L>
+<L>And lose this opportunitie.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>We are prepar'd</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Better? my happinesse flowes upon me</L>
+<L>My suite is Madam, you would be pleas'd to—</L>
+<L>What shall I say, she lookes so keene and tempting,</L>
+<L>I have a great mind to kisse her.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Not resolv'd yet?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Long since, my humble suite is to you Madam, that—</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>What?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>I may be number'd still among your creatures</L>
+<L>And keepe a blessing in your gracious smiles</L>
+<L>Vpon my humble service.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>A smile and humblest service, is this all?</L>
+<L>You wonnot purchase much by being a Courtier.</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="28"/>Bo.</SPEAKER>
+<L>The greatest rise by favour, I ha lost</L>
+<L>An opportunitie.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Is there nothing else?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>She Askes agen, now Ile put her toot,</L>
+<L>We are private, I have another suite Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>A courtier should have many, what i'st made on?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Of love.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>A prettie winter wearing, and keepes well</L>
+<L>In fashion.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>May I presume to as aske your grace.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>A question? yes Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Doe you love me Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>How Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Does your grace love me?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Audacious Groome, how dares thy soule imagine</L>
+<L>So great an impudence, almost treason to us,</L>
+<L>Are all our favours thought so cheape? and we</L>
+<L>Consider'd in the crowd of other women</L>
+<L>Fit for your mixture, to be stain'd with loose</L>
+<L>And desperate proffers of your wanton service?</L>
+<L>Have we no more distinction in our birth</L>
+<L>And titles? Or de'e hope we are disarm'd</L>
+<L>Of strength to punish such an insolence?</L>
+<L>Had smiles tane such possession of our brow</L>
+<L>Thou couldst expect no killing frowne for this?</L>
+<L>Was our eye growne so tame nothing could quicken it</L>
+<L>Into a flame, into a consuming lightning,</L>
+<L>When such an object durst appeare to vex it?</L>
+<L>Thus we could spurne thy sawcy head off—but</L>
+<L>We pardon it, de'e heare? we freely pardon it,</L>
+<L>To shew mercy is above all fault,</L>
+<L>And that we are at home Queene of our passions,</L>
+<L>Nor shall you suffer under the remembrance,</L>
+<L>Tis now as it had never beene, and you keepe</L>
+<L>The first place in our thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Ha'?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Wisely preserve'em</L>
+<L>And rather chide your timerous understanding</L>
+<L>
+
+
+<PB REF="29"/>Then thinke us angry, had your sinne beene greater</L>
+<L>We should have met it charitably, come,</L>
+<L>You are our Secretary, write as we shall dictate.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Did ever Sunne-shine breake so suddenly</L>
+<L>From such a blacke and most prodigious cloud?</L>
+<L>I would ha' sold my body for a beane stalke</L>
+<L>Within two minuts, sh'as an excellent wit</L>
+<L>And cunningly she reines it, whats your pleasure</L>
+<L>I shall write Madam?</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>A letter, a love letter, are you ready,</L>
+<L>Write as I bid upon your life,—I love you.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I am perpar'd.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Write I love you Sir, de'e not understand me?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Shee'l make me mad, I ha'done, I love you.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>How Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>There wanted Sir, I love you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>And if you be not short of apprehension.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>And if, &amp;c.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>You'l wisely entertaine it.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>You'l wisely, &amp;c.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>All errors be forgot, meete me this evening</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>All errors, &amp;c.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>I'th privie Garden, and receive more testimony.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I'th privie garden, &amp;c.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Meane time heere is my hand, that in the morning I'le marry you.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Meane time, &amp;c▪—What a divell does she meane?</L>
+<L>I ha' done, it wants your confirmation—so.</L>
+<L>To whom shall I direct it?</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>You will be trustie, there's danger else.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>To whom?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>To him that loves me best,</L>
+<L>Deceive me not farewell.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I love you Sir, &amp;c. tis a letter, and I wrote it,</L>
+<L>To whom, to him that loves her best, if none love her better,</L>
+<L>Tis to my selfe? Why am I so scrupulous?</L>
+<L>She has made me Chancellor in the cause,</L>
+<L>There's noe particular nam'd, yet she was angry,</L>
+<L>Yet she was pleasd agen, and had my crime</L>
+<L>Beene greater, she had met it charitably.</L>
+<L>Come I perceive the whole device as sure</L>
+<L>
+
+
+<PB REF="29"/>As I have any sense, she does affect me,</L>
+<L>And tries me at the last weapon of wit</L>
+<L>How Ile behave my selfe, are you there Dutchesse;</L>
+<L>She is my owne, and this invites me to▪</L>
+<L>The close of all my happinesse, if I</L>
+<L>Forfeit this opportunitie, let <HI>Midas</HI></L>
+<L>Transplant his goodly eares to this dull head,</L>
+<L>And let all women laugh at me, my starres</L>
+<L>I bow to you, and kisse your influence,</L>
+<L>I am exalted to your spheare already,</L>
+<L>Where, with the Dutchesse I will sit and shine</L>
+<L>A constellation.</L>
+</SP>
+<STAGE>Enter Ferrara.</STAGE>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Y'are well met Sir,</L>
+<L><HI>Borgia</HI> I take it.</L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>You may change that name</L>
+<L>And call me servant.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>You have prostrate language,</L>
+<L>But carry treason in your heart, you know me?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Duke of <HI>Ferrara.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>So, was't your plot to bring</L>
+<L>That puppet to affront me 'fore the Dutchesse?</L>
+<L>Was there noe other name to be usurp'd,</L>
+<L>Dishonor'd, and prophan'd by hounds and monkies</L>
+<L>But mine?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I understand you not, your anger</L>
+<L>Is not directed right my Lord, I am not</L>
+<L>Guiltie in thought.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>Your feares shall not excuse.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>You are abus'd.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I know I am Sir, and</L>
+<L>Will print revenge upon your heart, 'tshall carry</L>
+<L>The character of a villaine.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I must tell you Duke.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>What Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Were you master of the world,</L>
+<L>Could you shoot death beyond a Basiliske,</L>
+<L>Or had you mischiefe in your breath above</L>
+<L>The <HI>Lernean</HI> vapours, or the killing steame</L>
+<L>Of the hot lake that poysons innocent Birds</L>
+<L>But daring to flie over, I would rise</L>
+<L>
+
+
+<PB REF="30"/>With as much confidence to scorne this calumnie</L>
+<L>As I would quench my thirst, or chide my Groome</L>
+<L>The drudges for me, Duke I am no villaine,</L>
+<L>And tho my blood runnes not so deépe a purple</L>
+<L>There's no corruption in the chapest veine</L>
+<L>My Liver feeds, 'tis cleare and honest sir,</L>
+<L>In thy owne Court Ile meet and tell thee so</L>
+<L>Mauger thy guards, and gawdy Butter-flies,</L>
+<L>I dare, by innocence, I dare.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>You thinke</L>
+<L>The place protects you now.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Were it in a Church</L>
+<L>No drop of mine could staine it, Duke I cannot</L>
+<L>Feare and be master of a sword, that needs</L>
+<L>No valour in a cause so just as mine</L>
+<L>To stirre the point, by all my hopes.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Thy hopes,</L>
+<L>Of what reversion? what Groomes place is vacant?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Come tis not done becommingly</L>
+<L>To insult because you have a priviledge</L>
+<L>Of Duke above you, I am here a servant</L>
+<L>To a most gracious Princesse.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>At that name I drew</L>
+<L>New flame, and should I credit thy soule free</L>
+<L>From this dishonour, thou hast sinne enough</L>
+<L>In thy ambition to pull ruine on thee,</L>
+<L>Are we too fit to be in competition Sir?</L>
+<L>Hast thou a thought so proud, so daring in thee</L>
+<L>To be my rivall? Have I courted her</L>
+<L>To her owne height, a Prince? and shall her vassall</L>
+<L>Looke on her with an eye, lesse then serves</L>
+<L>The Altar with, because she is pleasd some time</L>
+<L>To laugh, and seeme indulgent to your services</L>
+<L>For her owne sake, can you have braine to thinke</L>
+<L>Such treason to her judgement, that she loves you?</L>
+<L>Or can she be so lost to truth and honour</L>
+<L>Not to make good her promises to me</L>
+<L>Religious as a contract, has she not</L>
+<L>Declard me worthy of her, and my love</L>
+<L>
+
+
+<PB REF="30"/>The best of all the world.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>How was that Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>The best of all the world, tis not that I</L>
+<L>Can be so poore in my esteeme of her</L>
+<L>Whose mention is sacred, or my selfe</L>
+<L>That I have any jealousie thou canst</L>
+<L>Inherit possibly the hundredth part</L>
+<L>Of any thought that points upon affection</L>
+<L>Hast thou no soule to apprehend thy scorne?</L>
+<L>Nay did she not, fearing thou might'st grow insolent</L>
+<L>Vpon her favours late declare herselfe,</L>
+<L>It was not love but mirth and wantonnesse</L>
+<L>Of revelling nights, commanding on thy life</L>
+<L>Thou feede no ambition higher, or feede a thought</L>
+<L>To her, beyond what waited upon dutie</L>
+<L>You may remember this.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Tis cleare, this none</L>
+<L>Could tell him but her selfe, I finde too plaine</L>
+<L>Who is the may-game of the Court, this last</L>
+<L>Convinces me, your pardon mightie Sir</L>
+<L>You love the Dutchesse.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Best she will acknowledge</L>
+<L>Of all mankind.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I have a letter to you,</L>
+<L>I will not doubt my pardon when you reade it,</L>
+<L>Tis to you Sir if there can bee a joy beyond what's there con∣tain'd▪</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Ha? I am blest,</L>
+<L><HI>Borgia</HI> let me imbrace thee my best friend</L>
+<L>Dwell in my heart, divide with me <HI>Ferrara</HI></L>
+<L>Or <HI>Urbin,</HI> any thing but the Dutchesse, say</L>
+<L>Ile meet her in the Garden were it walld</L>
+<L>With flaming Dragons, I have not a soule</L>
+<L>Spacious enough to entertaine this happinesse</L>
+<L>Beyond my hope, above my life deare <HI>Borgia.</HI></L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Beyond his hope? it seemes this joy was not</L>
+<L>Expected umph, and I had no commission</L>
+<L>To give it him, after all this if shee</L>
+<L>Meant it not this way, I ha'made fine worke,</L>
+<L>She might ha'namd him, wud I had the paper▪</L>
+<L>Agen, now doe I prophesie I have</L>
+<L>
+
+
+<PB REF="31"/>Vndone my selfe, and onely her grace meant</L>
+<L>That I should meet her, curse upon my easinesse;</L>
+<L>I have lost an opportunitie, no fate</L>
+<L>Flatterd a mortall with the like, dull braines,</L>
+<L>There's yet prevention, <HI>genius</HI> I thanke thee,</L>
+<L>Tis possible I may secure the Garden</L>
+<L>And boldly meet her first, if any destinie</L>
+<L>Owe me this blessing with this art I may</L>
+<L>Redeeme my folly, never man but I</L>
+<L>Wud lose so rich an opportunitie.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>Ectus Quintus.</HEAD>
+<STAGE>Enter Dutchesse, Mercutio, Ladies.</STAGE>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>MAdam I know not what to say, my heart</L>
+<L>Is full of heartie zeale to obey you, but the place</L>
+<L>You have confer'd upon my yeares, is much</L>
+<L>Above my strength to satisfie, yet I thanke you.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>You have deserv'd we should encourage you</L>
+<L>For what is past, your sonne is full of hope</L>
+<L>And may grow up a statesman.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>He owes all</L>
+<L>To your infinite favors Madam, a young man,</L>
+<L>And would be active upon your commands.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Leave us, stay my Lord we must employ you.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>I have not life enough to serve you Madam,</L>
+<L>My age is now a burthen, that I could</L>
+<L>Shake off a score of winters.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>There's no such</L>
+<L>Necessitie of youth to execute</L>
+<L>The service you designe, you love your sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Above my owne health Madam, and let me</L>
+<L>Be bold to tell your grace, I love him better</L>
+<L>For your sake.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>For our sake.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>That he can carry</L>
+<L>Himselfe so hansomely to deserve your good</L>
+<L>Opinion, every Courtier that's advanc'd</L>
+<L>To a warme place, does not behave himselfe</L>
+<L>Alwayes to purpose.</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="31"/>Dut.</SPEAKER>
+<P>To what purpose Signior?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>To please his Mistresse, and I am, I must</L>
+<L>Confesse proud of his expectations,</L>
+<L>It makes my blood dance Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>You are very merry▪</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>I hope to have more cause▪</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Well Sir, while we▪</L>
+<L>Retire into the Garden, be it your care</L>
+<L>We be not interrupted, give accesse</L>
+<L>To none but <HI>Borgia,</HI> we have some privacie▪</L>
+<L>Onely concerne his knowledge.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>My sonne <HI>Borgia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Your sonne, if you doe call him <HI>Borgia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Shall I goe for him?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Hee'l be so officious</L>
+<L>Perhaps to spare that trouble, if he come</L>
+<L>Be diligent and admit him.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>I shall Madam;</L>
+<L>Shee's gone into the Garden, and commands</L>
+<L>I give accesse to none but <HI>Borgia;</HI></L>
+<L>If he come, she has given me another office</L>
+<L>To keepe the doore, it has beene a preferment.</L>
+<L>I will do't now in spight of my owne humour,</L>
+<L>Ha boy! something will come on't, if he have</L>
+<L>The grace to nicke this opportunitie.</L>
+</SP>
+<STAGE>Enter Ferrara.</STAGE>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>The evening wastes a pace, I cannot be</L>
+<L>Too soone at my desires, whoes that?</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Hee's come;</L>
+<L>Already <HI>Borgia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>One stands Centinell,</L>
+<L>Is that the word? who names <HI>Borgia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>My sonne.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>The same.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>This evening make thee happy, enter, no ceremony</L>
+<L>I am not now against thy being a Duke,</L>
+<L>Prove fortunate my boy, and blesse thy father. <STAGE>Exit Fer.</STAGE></L>
+<L>So, so, if it were noone, and the Sunne look'd</L>
+<L>With his broad brightest eye upon's, there are</L>
+<L>
+
+
+<PB REF="32"/>Convenient cozining Arbors, cost bestow'd</L>
+<L>On pretty mazes, <GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>a<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>y <GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>ths of love,</L>
+<L>You might be there secure, and entertaine</L>
+<L>Sweet time, most tall and fashionable hedges</L>
+<L>In whose inclosures, Ladies that are willing</L>
+<L>May lose themselves, and the next walke no wiser▪</L>
+<L>Now I thinke ont, this Cloyster with the helpe</L>
+<L>Of such an evening might be darke enough</L>
+<L>For such a turne; many a gentle woman</L>
+<L>Has beene content to embrace upon worse termes</L>
+<L>Oh the Court lobbies, but I tell no tales, <STAGE>Enter Borgia.</STAGE></L>
+<L>Another moving this way, by his favour</L>
+<L>The Gardens taken up.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Tis the best way</L>
+<L>To say I am the Duke, that if he follow</L>
+<L>He may prevent his owne accesse.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Vmph, umph.</P>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>That name will make the gates fly open to me</L>
+<L>And I passe undiscoverd.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>What are you?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Here doe thy office, I am the Duke.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>The Duke</L>
+<L>Your grace must pardon me, I am commanded</L>
+<L>To admit none, her highnesse will enjoy</L>
+<L>The garden privatly.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Lord <HI>Mercutio.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Your servant, but in this my dutie must</L>
+<L>Ayme at anothers pleasure, if you be</L>
+<L>The Duke I cannot helpe it, I am but</L>
+<L>Greene in my honours, and I would not forfeit 'em</L>
+<L>With my owne head to boot in her first service.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Then Ile discover I am <HI>Borgia</HI></L>
+<L>Your sonne, your happy <HI>Borgia,</HI> be not you</L>
+<L>The enemy, an̄d barre my glorious fortune,</L>
+<L>The Dutchesse has commanded me this evening</L>
+<L>To meete her in the Garden, I can tell</L>
+<L>Thee wonders old <HI>Mercutio,</HI> she loves me,</L>
+<L>More I have an assurance from her hand</L>
+<L>
+
+
+<PB REF="32"/>Shee'l make me Duke old lad.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Be not transported</L>
+<L>For if you be my sonne doe you observe</L>
+<L>You are yet but <HI>Borgia,</HI> and I your father</L>
+<L>Old <HI>Mercutio,</HI> and old lad.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Your pardon Sir,</L>
+<L>My joy of such a blisse allowes no bound,</L>
+<L>Why are you slow to make your sonne the happiest</L>
+<L>Of all mankinde, the evenings bigge with glory</L>
+<L>The winds doe whisper gently whose I am,</L>
+<L>The birds with Musicke waite to entertaine me</L>
+<L>Into Loves Bower, the Trees bow to my entrance▪</L>
+<L>And she that is the Mistresse of all these</L>
+<L>Will bid me welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Are you <HI>Borgia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>There's death in these delayes, doe not you know me?</L>
+<L>Or dare you not beleeve what I affirme</L>
+<L>Touching the Dutchesse.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>I beleeve you are</L>
+<L><HI>Borgia</HI> to my griefe, and doe beleeve</L>
+<L>What you have said; her grace did appoint me</L>
+<L>To waite here, and commanded I should give</L>
+<L>Accesse to none but <HI>Borgia,</HI> de'e marke?</L>
+<L>She was pleasd to tell me, she had businesse onely</L>
+<L>Concern'd your knowledge I dispute not what,</L>
+<L>But 'tis some excellent affaire I am confident,</L>
+<L>She was so merry about the lippes and eyes</L>
+<L>And praisd you to my face.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>If this have faith w'ee</L>
+<L>Why am not I admitted▪</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>All in good time.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>The gates should spread themselves.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>They shall not neede, Ile reach them with lesse trouble▪</L>
+<L>But first I have a suite to you.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>To me,</L>
+<L>Speake and command it.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Tis within mans remembrance</L>
+<L>That you did want a pardon, now begge mine,</L>
+<L>
+
+
+<PB REF="33"/>And make what other conditions with the Dutchesse</L>
+<L>You please.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Your pardon?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Yes I am parcell Traytor</L>
+<L>Against my will, and too much care about</L>
+<L>My office made me abuse it, I admitted</L>
+<L>Another gentleman, that deceiv'd me with</L>
+<L>Your name, and how her grace may punish me</L>
+<L>Is in my feares, unlesse you mediate for me.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Did any take my name.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Yes, and at first</L>
+<L>Sound I discharg'd my dutie the wrong way</L>
+<L>And let him in.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>In? whether?</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Into the Dutchesse.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>I am undone, this minute, I am blasted;</L>
+<L>It was the Duke upon my life.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>The Duke, it may be so, although 'twere duskish</L>
+<L>Me thought he carried more compasse with him;</L>
+<L>But why should he take your name?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Lost for ever.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>You found I had no zeale to his, how ever</L>
+<L>Lose no more time; your power with her grace</L>
+<L>May set all streight▪ and purchase me a pardon.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Be rather loft as I am in thy dotage,</L>
+<L>Thou hast depriv'd me of the wealthiest harvest</L>
+<L>That ever Sunne-beames shin'd on</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Does he thou me?</L>
+<L>How would he domineere and he were Duke?</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>My fortune bleeds to death, tis now too late</L>
+<L>That paper ruines all my hope, and were</L>
+<L>We equall, the would scorne my want of confidence</L>
+<L>And laugh me out o'th world.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Hee's very passionate.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>But there's no dwelling in this Wildernesse,</L>
+<L>Things past are past sorrow, there is yet</L>
+<L>A way to binde my wound up and secure</L>
+<L>My health, though not a life with so much state</L>
+<L>
+
+
+<PB REF="33"/>As was expected, instantly Ile to</L>
+<L><HI>Cornelia,</HI> I know she loves me still,</L>
+<L>At worst a little passion bestow'd</L>
+<L>On her, with clearing I am another brother</L>
+<L>Makes her my owne, and keepes me from the Pasquill;</L>
+<L>I shall be jeer'd to dust else, there's my rest,</L>
+<L>He that loves more then one is seldome blest.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Hee's gone and I am like to suffer for't,</L>
+<L>By your highnesse favour I will waite no longer</L>
+<L>To be chastiz'd, but when your grace is weary,</L>
+<L>You shall not neede to strike me at the doore;</L>
+<L>Tis open and I vanish in the darke;</L>
+<L>Stay and Ile send some others to attend you,</L>
+<L>You will want light, my sonne shall be no Duke</L>
+<L>I perceive now, nor will I be a Courtier;</L>
+<L>Put me to keepe the dore?</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>Enter Cornelia, Laura, and Melinda.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Did she dismisse you then?</P>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<L>'Twas not her pleasure</L>
+<L>We should attend.</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>We left my Lord <HI>Mercutio</HI></L>
+<L>Your father with her.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Went she towards the Garden?</P>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<P>Yes, where's your brother <HI>Borgia?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>I know not.</P>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>He is infinitely beholding to her grace,</L>
+<L>She never mentions him without a flourish:</L>
+<L>I know not, but if I have any skill</L>
+<L>In lookes or language, there is something more</L>
+<L>Then common in her highnesse breast meant toward him</L>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<P>Shee may be in love.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>In love with whom?</P>
+</SP>
+<SP>
+<SPEAKER>Laus</SPEAKER>
+<P>Your brother.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I blush to heare your weakenesse, I hope he</L>
+<L>Hath more wit then to build vaine hopes on that;</L>
+<L>Eagles stoope not to flies.</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>But the Wren</L>
+<L>Couch'd underneath the aspiring Eagles wings.</L>
+<L>
+
+
+<PB REF="34"/>Quickly advance it selfe when to'thers mounted</L>
+<L>And glories in her hight, tis but a step</L>
+<L>And the small thing is King of birds, the fable</L>
+<L>Has pretty moralls in't.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I am not sure</L>
+<L>A rebell in my nature to his fortune,</L>
+<L>But dare not pawne my owne discretion</L>
+<L>To take up your opinions.</L>
+<STAGE>Enter Pietro:</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<L>Signior <HI>Pisauro</HI> your brothers friend desires</L>
+<L>To speake with you.</L>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<L>Wee'l leave you Madam, by this time her grace</L>
+<L>May want our duties.</L>
+</SP>
+<STAGE>Enter Pisauro.</STAGE>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Did I fright you Ladies, looke better on me.</P>
+</SP>
+<SP>
+<SPEAKER>Lau.</SPEAKER>
+<P>We have seene you round Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>But doe not know what's in me.</P>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>We desire</L>
+<L>To die in that pretions ignorance.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>This Lady I hope's not of your minde.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Your pleasure</L>
+<L>My servant saies you would speake with me?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>If you</L>
+<L>Remember Lady I was bold to urge</L>
+<L>A little counsell on you, how it fastens</L>
+<L>I come to understand.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>What counsell Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>About your brother Signior <HI>Borgia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Please you assist my memory.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Why it was</L>
+<L>But this, I had a kinde of feare you lovd</L>
+<L>This brother Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Would you have me be</L>
+<L>So impious not to affect my brother.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>But you lov'd him the wrong way▪ de'e heare lustily</L>
+<L>You understand, with the desire of coupling:</L>
+<L>There lies no dispensation for that locke,</L>
+<L>Tis impious and abhominable, you had better</L>
+<L>I'th state you are in keepe a Pensioner</L>
+<L>To give you heats, a fellow that will venture</L>
+<L>
+
+
+<PB REF="34"/>His body at all houres; then to offend once</L>
+<L>With so much sinne to nature.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Doe you thinke</L>
+<L>Iam a Monster Signior?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Better marry</L>
+<L>An honest man and make one a great deale:</L>
+<L>Your husband may be excusdi'th progresse Lady,</L>
+<L>Besides he may have faults, a negligence</L>
+<L>In's visits, or mistaking of his times,</L>
+<L>When you are invited by another Lord</L>
+<L>To a banquet, or take physicke, or the aire</L>
+<L>Appointed by your Doctor, there are reasons</L>
+<L>To excuse an active Lady that is married</L>
+<L>But to affect your brother so, inexpiable.</L>
+</SP>
+<SP>
+<SPEAKER>Cor</SPEAKER>
+<L>You have invention enough to furnish</L>
+<L>The Court with vice, how e're you seeme to have</L>
+<L>Care of my soule, pray give me pardon Sir,</L>
+<L>Doe you ever meane to marry?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Marry? oh yes.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Not a Court Lady sure.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>One of that tribe to chuse.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Without the feare</L>
+<L>Of being such a monster made by her</L>
+<L>Whose wantonnesse you wittily have charactred.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>I'ha read my destinie, she that I shall marry</L>
+<L>Will be very honest, exceeding chast as I</L>
+<L>Shall be to her, I did but tell you what</L>
+<L>Whirligigs are i'th world, and that 'twere better</L>
+<L>And safer for your conscience to be one</L>
+<L>Of <HI>Venus</HI> order, and keepe tame a Groome</L>
+<L>A stallian Dormant then embrace a brother.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>What should incline you</L>
+<L>To imagine me so lost to modestie?</L>
+<L>What have you read in me to make you thinke</L>
+<L>I love my brother so?</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>My charitie.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>There's little charitie in those suspitions▪</L>
+<L>
+
+
+<PB REF="35"/>Have you no other argument.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Your brother</L>
+<L>Told me himselfe you lov'd him strangely.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>So, so.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Nay, nay he was i'th same pickle.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>He told</L>
+<L>You that himselfe too.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Yes, yes, till I tamper'd with him</L>
+<L>And sacrific'd his flesh with ghostly counsell,</L>
+<L>Read Law and Lectures, I will tell you Madam</L>
+<L>He was once so overgrowne with love, he had</L>
+<L>Resolv'd to tell you he was not your brother,</L>
+<L>And rather then be frustrate of his hopes</L>
+<L>Vow'd to forsweare it, and subborne testimony</L>
+<L>He was no kin to you, borne I know not where,</L>
+<L>And never saw the towne afore, whose people</L>
+<L>Had all this while cozend themselves, with an</L>
+<L>Opinion he was <HI>Borgia;</HI> here's a youth now,</L>
+<L>Did he ne're deale with you to such a purpose.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Never, he wud not be so wicked sure.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Did you ever heare the like? you know it now,</L>
+<L>Thanke heaven and a good friend that told you this;</L>
+<L>A friend that wud not see this pretty vessell</L>
+<L>Lost i'th' quick-sands, when both goods and it</L>
+<L>May be his owne another day: I love you</L>
+<L>And none shall doe you wrong.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I should be ingratefull</L>
+<L>Not to acknowledge Sir this noble office</L>
+<L>Meant to preserve me.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>That was my pure meaning,</L>
+<L>You may requite it if you please.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>With love.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>'Tis the reward my ambition first aymes at.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I love my brother now in his owne place,</L>
+<L>And being his bosome friend I will not question,</L>
+<L>But to enlarge my knowledge of your worth</L>
+<L>And take me nearer to me for his Character,</L>
+<L>
+
+
+<PB REF="35"/>And free consent.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Vmph, now you blesse me Lady,</L>
+<L>If his hopes thrive in the Dutchesse as I doubt not</L>
+<L>I am made, Ile seeke him out, I wish no better</L>
+<L>Testimony, he shall not gi<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>t you unders hand.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>No haste.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>He knowes me to a thought, nay, nay</L>
+<L>He shall doo't presently, if I can light on him.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>To morrow Signior, I suspect it not.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>It does concerne my honour, tis done instantly,</L>
+<L>She may be cold e're morning, Ile not lose</L>
+<L>This opportunitie, I am made for ever.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>He has an odde way of Courtship, sure my brother,</L>
+<L>Vnlesse he know him better then this wildnesse</L>
+<L>Can promise, will be sparing to contract</L>
+<L>Our hearts too fast, he has but a rough outside,</L>
+<L>But my strange thoughts within me are corrected,</L>
+<L>And I possesse my selfe againe thanke providence,</L>
+<L><HI>Ursini.</HI></L>
+</SP>
+<STAGE>Enter Ursini.</STAGE>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Madam I am bold to presse</L>
+<L>On your retirement, but when you remember</L>
+<L>I bring no mutinous thoughts, but such as are</L>
+<L>Devoted to your service, you will thinke it</L>
+<L>A trespasse that may soone invite a pardon.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>You must first practise to offend my Lord,</L>
+<L>This is favour to me.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>Still such goodnesse</L>
+<L>Flowes from your language to me at the first</L>
+<L>Encounter; but when I take▪ boldnesse to</L>
+<L>Have some assurance from you alone,</L>
+<L>Which I have hop'd and serv'd for, with the truth</L>
+<L>Of your best honorer, you decline the subject,</L>
+<L>Or flie the sweet conclusion.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>My Lord,</L>
+<L>That you have lov'd, at least profess'd so much,</L>
+<L>May easily be granted, but let me</L>
+<L>
+
+
+<PB REF="36"/>Beseech you Sir, did you upon the first</L>
+<L>Motion that wrought upon your minde to thinke</L>
+<L>Me worthy of your love acquaint me with it.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>No Madam,</L>
+<L>I long cherish'd the soft fire</L>
+<L>That tryed the purenesse of it, and the object</L>
+<L>That shot so bright a flame into my bosome,</L>
+<L>And had supprest it still, but that your vertue</L>
+<L>Grew up too powerfull against it, then</L>
+<L>I tooke leave to expresse how much I wish'd</L>
+<L>To be your votary.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Give me equall licence</L>
+<L>My Lord in the same cause to try my selfe,</L>
+<L>I have thoughts too would be compos'd of something</L>
+<L>In you to be examin'd.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>I submit,</L>
+<L>And shall obey your censure, life and death</L>
+<L>Hange on your lippe, I come to be determin'd</L>
+<L>Your servant or your sacrifice, for to languish</L>
+<L>At distance thus.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Then you expect an answer</L>
+<L>Presently, I much feare my Lord I shannot,</L>
+<L>In that particular, satisfie your Lordship.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>You want no knowledge of me, there is nothing</L>
+<L>In my past fate but may appeare to you,</L>
+<L>My nature needs no glosse, my blood, my fortune</L>
+<L>Cleare to your view, my person not much witherd;</L>
+<L>If these together want a charme, I can</L>
+<L>Deserve you may love, for I know best</L>
+<L>The extent of my devotions, and the heart</L>
+<L>That tho you should despise it must still serve you.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>But good my Lord what answer you to this?</L>
+<L>Is it becomming the discretion</L>
+<L>Of a noble servant to persue his mistris</L>
+<L>By unruly wayes, and interpose commands</L>
+<L>And power of great ones to enforce the heart</L>
+<L>Of any Lady: though I must confesse</L>
+<L>
+
+
+<PB REF="36"/>Her grace may challenge my obedience</L>
+<L>To her law and person, it has beene yet a rule,</L>
+<L>And love and religion cannot be compel'd</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>You doe not conclude me, if I obtain'd</L>
+<L>A favour from the Dutchesse to propound</L>
+<L>My wishes, and plead for me, I know well</L>
+<L>The soule is not her subject, could her power</L>
+<L>Bestow your body on me, and that I</L>
+<L>Could boast my selfe Lord of beautious frame</L>
+<L>Without your minde, I were more tyrant to</L>
+<L>Accept then she to force, and answer for</L>
+<L>A crime more fatall then the ravishers.</L>
+</SP>
+<STAGE>Enter Pietro.</STAGE>
+<SP>
+<SPEAKER>Pie.</SPEAKER>
+<P>Your brother Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>If I have any power</L>
+<L>My Lord you must not leave me, yet I would</L>
+<L>Entreate your small retreate behinde the hangings</L>
+<L>For a few minuts.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Your command's a favour.</P>
+</SP>
+<STAGE>Enter Borgia.</STAGE>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Oh <HI>Cornelia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>What's the matter brother.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>Are you alone.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>You see my company.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>De'e love me.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Love you brother, what have I</L>
+<L>Done to beget your doubt.</L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>But doe you love me</L>
+<L>More then a sister? if I were not <HI>Borgia,</HI></L>
+<L>Remove from us the common tie of blood</L>
+<L>Which is not love, but forc'd of nature in us,</L>
+<L>Could you affect me then, then if I answerd</L>
+<L>This honour with a true and noble flame</L>
+<L>Vpon such brave conditions, <HI>Cornelia</HI></L>
+<L>Could our hearts meete and marry?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>This were strange,</L>
+<L>But not so strange that we should love.</L>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="37"/>Bo.</SPEAKER>
+<L>Then pardon</L>
+<L>Fairest <HI>Cornelia,</HI> and make him blest</L>
+<L>Whose very soule dotes on thee, I have but</L>
+<L>Vsurp'd the name of <HI>Borgia,</HI> I can give</L>
+<L>Thee proofe.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>'Tis come about.</P>
+</SP>
+<STAGE>Enter Pisauro.</STAGE>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L><HI>Pisauro</HI> welcome</L>
+<L>The man of all mankind, most wishd for welcome:</L>
+<L>Madam this gentleman can witnesse I am</L>
+<L>None of your brother, we were bred together,</L>
+<L>Both borne in <HI>Millan,</HI> and my name is</L>
+<L><HI>Aurelio Androzzi</HI> sonne to <HI>Paulo</HI></L>
+<L><HI>Androzzi</HI> major <HI>domo</HI> to the Dukedome,</L>
+<L>My friend too of a noble family.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Did not I tell you this.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Weary of home</L>
+<L>We both engag'd our selves to try our fortune</L>
+<L>Abroad, and for the warres had last designd</L>
+<L>Our selves, we tooke but <HI>Urbin</HI> in the way,</L>
+<L>Where some good starres detain'd us, and I taken</L>
+<L>For <HI>Borgia</HI> pursued thus farre the story.</L>
+</SP>
+<SP>
+<SPEAKER>Cor</SPEAKER>
+<P>Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>De'e laugh at me, <HI>Pisauro</HI> shee's incredulous.</L>
+<L>Speake and convince her with thy testimony.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>I have told enough already.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>She wants faith.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>That gentleman prepar'd me for this history▪</L>
+<L>Doe you not blush brother? Sir I thanke you.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>I am sorry for his impudence.</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L><HI>Cornelia,</HI></L>
+<L><HI>Pisauro</HI> Why art thou silent.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>I tell you I did speake to her.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>'Tis time I then dispose my selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Now my happinesse.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>My Lord I pray come forth.</L>
+<L><STAGE>
+
+
+<PB REF="37"/>Enter Ursini.</STAGE> You Gentlemen by your owne confessions</L>
+<L>Are strangers to me, and altho I doe not</L>
+<L>Distrust heavens providence, I shall not sinne</L>
+<L>To give my freedome up where I am knowne;</L>
+<L>My Lord if you accept <HI>Cornelia</HI></L>
+<L>Shee's thus confirm'd your owne.</L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>With greater joy</L>
+<L>Then I would take an Empire, this drops peace</L>
+<L>Vpon my brothers ashes, and unites</L>
+<L>For ever our two families.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Where's the Dutchesse?</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I prithee doe not vexe me.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<L>Doe not vexe</L>
+<L>Thy selfe, come wee're at large, our constitution</L>
+<L>Would ha'beene troubled with a wife, we have</L>
+<L>The world before us, store of game is necessary▪</L>
+<L>The Dutchesse.</L>
+</SP>
+<STAGE>Enter Dutchesse, Ferrara, Pietro, Iulio, Lucio Laura Melinda.</STAGE>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>You now possesse us freely, the next morning</L>
+<L>Shall spread thls joy through <HI>Urbin.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<L>We are happy</L>
+<L>And every heart congratulates.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>We thanke you</L>
+<L>Signior <HI>Ursini,</HI> you have beene faithfull to us.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Is your name <HI>Borgia?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>No Madam,</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Where's our letter?</L>
+<L>We did not thinke y'ad beene so apprehensive,</L>
+<L>You see it now confirm'd, we hope you had</L>
+<L>No thought we meant it otherwise, be prudent</L>
+<L>And carefull in your province, heaven I see</L>
+<L>Wud have it thus, and rectifie our folly.</L>
+</SP>
+<STAGE>Enter Mercutio.</STAGE>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Your pardon gratious Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Signior,</L>
+<L>We thanke your diligencē, possesse our favour.</L>
+<L>
+
+
+<PB REF="38"/>And know the Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>I am one of the worst keepers of a dore,</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>No more, all's well.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>I'me glad ont.</P>
+</SP>
+<SP>
+<SPEAKER>Urs.</SPEAKER>
+<P>Sir your blessing.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Madam your smiles upon us and we cannot</L>
+<L>Despaire of happinesse.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>But where's <HI>Borgia?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<P>I know not Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>Rise ever fortunate.</P>
+<STAGE>Pimponio within.</STAGE>
+<P>Oyes, oyes.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>What's the matter?</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>A foole has lost his master, and thus cries him</L>
+<L>About the Court▪</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P><HI>Pimponio</HI> a<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>my conscience.</P>
+</SP>
+<STAGE>Enter Pimponio.</STAGE>
+<SP>
+<SPEAKER>Pim</SPEAKER>
+<LG>
+<L>Oyes;</L>
+<L>If any man there be</L>
+<L>In towne or in countree</L>
+<L>Can tell me of a wight</L>
+<L>Was lost but yester night,</L>
+<L>His name was I know</L>
+<L>Signior <HI>Aurelio,</HI></L>
+<L>By these markes he is knowne,</L>
+<L>He had a bush of his owne,</L>
+<L>Two eyes in their place</L>
+<L>And a nose on his face,</L>
+<L>His beard is very thinne</L>
+<L>But no haire on his chinne,</L>
+<L>Bring word to the cryer</L>
+<L>His desolate squire,</L>
+<L>And for this fine feate</L>
+<L>Take what you can get;</L>
+<L>And heaven blesse <HI>Pimponio,</HI> for no body knownes me</L>
+<L>And I know no body else to pray for.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Hee's not my brother indeed then.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>Nor my sonne.</P>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>'Tis too true Maddam, here, here's thy master</P>
+</SP>
+<SP>
+<SPEAKER>
+
+
+<PB REF="38"/>Pim.</SPEAKER>
+<P>No, no, that's Signior <HI>Borgia,</HI> doe not deceive your selfe</P>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>We are both deceiv'd <HI>Pimponio</HI> shall I hope</L>
+<L>Of your free pardon Madam for all trespasses?</L>
+<L>My Lord your breath is powerfull.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Rise <HI>Aurelio.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>And be deare to us.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<P>I hope the pardon's firme.</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<P>Irrevocable.</P>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>I▪le dispatch letters then to <HI>Naples,</HI> thence</L>
+<L>He did salute me last, how were we cosend!</L>
+<L>But Sir I thanke you for my <HI>Borgias</HI> pardon.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Although it be cleare now y'are not my brother</L>
+<L>Pray take my poore acknowledgement, I shall</L>
+<L>Be proud for your sake, to preserve your friendship.</L>
+</SP>
+<SP>
+<SPEAKER>Bor.</SPEAKER>
+<L>May your hopes prosper in him; now we two</L>
+<L>With licence of your excellence may</L>
+<L>Prosecute our designe agen for the warre<GAP DESC="illegible" EXTENT="1+ letters" DISP="•…"/>.</L>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>If nothing else at Court invite your stay</L>
+<L>We lay commands upon you as our servant</L>
+<L>That you see all our ceremonies finish'd,</L>
+<L>To celebrate this happy union</L>
+<L>You must be both our guests.</L>
+</SP>
+<SP>
+<SPEAKER>Pim.</SPEAKER>
+<L>Doe let us feast</L>
+<L>And fortifie our selves, we shall have</L>
+<L>Our bellies full of fighting time enough.</L>
+</SP>
+<SP>
+<SPEAKER>Pis.</SPEAKER>
+<P>Thinkes your grace so?</P>
+</SP>
+<SP>
+<SPEAKER>Dut.</SPEAKER>
+<L>Subjects may love as their rude sense imparts,</L>
+<L>But heaven doth onely governe Princes hearts.</L>
+</SP>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

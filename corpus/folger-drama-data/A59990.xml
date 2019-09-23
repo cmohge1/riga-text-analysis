@@ -1,0 +1,5737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-05-09</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; added SALUTE to CLOSER. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected $s. Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, abq's, oes, q;s, Ae's, and Qs. Check proofsheets and make corrections. Checked for CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, and BYLINEs. Sample: 6 minutes. Proofing: 20 minutes. Tag review and corrections: 55 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A59990">
+<STC T="W">S3482</STC>
+<BIBNO T="oclc">11761415</BIBNO>
+<VID>48695</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>THE POLITITIAN, A TRAGEDY, Presented at <HI>Salisbury</HI> Court BY HER MAIESTIES SERVANTS;</P>
+<P>WRITTEN By JAMES SHIRLEY.</P>
+<P><HI>LONDON,</HI> Printed for <HI>Humphrey Moseley</HI> and are to be sold at his Shop at the <HI>Princes Armes</HI> in St. <HI>Pauls</HI> Church-yard. 1655.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y"/>
+<PB REF="2"/>
+<HEAD>To the very much Honored WALTER MOYLE, <ABBR>Esq</ABBR></HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P><SEG REND="decorInit">T</SEG>Hough the severity of the times took a∣way those dramatique recreations (whose language so much glorified the English Scene) and perhaps looking at some abuses of the common Theaters, which were not so happily purg'd from scurrility, and under-wit, (the onely entertainment of vulgar Capacities) they have outed the more noble and ingenious acti∣ons of the eminent stages; The rage yet hath not been Epidemicall, there are left many lovers of this exiled Posie, who are great Masters of reason, and that dare conscientiously own this musicall part of Humane learning, when it is presented without the staines of impudence and profanation.</P>
+<P>Among these persons, sir you deserve an honora∣ble inscription. For my own part; this is the last which is like to salute the publique view in this
+<PB REF="3"/>
+kind, and I have onely to say, that I Congratulate my own happiness to conclude with so judicious a Patron.</P>
+<P>To make a doubt of your fair receiving this piece: were to dishonor your Character, and make my self undeserving. Read at your leisure, what is humbly presented to your eye and judgment, while I pre∣serve my confidence in your vertue and good thoughts upon</P>
+<CLOSER><SALUTE>Sir,</SALUTE>
+<SIGNED>The most humble honorer of your worth <HI>JAMES SHIRLEY</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="3"/>
+<HEAD>The names and small Characters of the Persons.</HEAD>
+<LIST>
+<ITEM><SEG REND="decorInit">K</SEG>Ing of <HI>Norway,</HI> easie and cre∣dulous in his nature, and passionately doting upon Queen <HI>Marpisa.</HI></ITEM>
+<ITEM><HI>Gotharus,</HI> the polititian, active to serve his pleasures and ambition, a great favo∣rite of the Queen.</ITEM>
+<ITEM><HI>Turgesius,</HI> the Prince, of a gallant dispositi∣on, and honoured by the souldier.</ITEM>
+<ITEM>Duke <HI>Olaus,</HI> the Kings Uncle, old, chole∣rique and distast'd with the Court-procee∣dings, disaffected to <HI>Gotharus,</HI> and the Queen, but resolute, and faithfull to the Prince.</ITEM>
+<ITEM><HI>Haraldus</HI> Son to <HI>Marpisa,</HI> young, of a sweet and noble disposition, whom <HI>Gotharus</HI> would form more bold, and ambitious for the greatness he had design'd.</ITEM>
+<ITEM><HI>Reginaldus, Aquinas</HI> Captaines.</ITEM>
+<ITEM><HI>Hormenus, Cortes</HI> two honest Courtiers.</ITEM>
+<ITEM><PB REF="4"/><HI>Sueno, Helga</HI> a couple of Court-Parasites.</ITEM>
+<ITEM>Souldiers.</ITEM>
+<ITEM>Rebells.</ITEM>
+<ITEM>Attendants.</ITEM>
+</LIST>
+<LIST>
+<ITEM><HI>Marvisa</HI> the Queen, a 'proud subtle and re∣vengefull Lady, from the widow of Count <HI>Altomarus,</HI> advanc'd to royall condition, by the practise of her creature and confident, <HI>Gotharus.</HI></ITEM>
+<ITEM><HI>Albina,</HI> wife to <HI>Gotharus</HI> a vertuous but suffering Lady, under the tyranny of an imperious, and disloyall husband.</ITEM>
+</LIST>
+<P><HI>Scene Norway.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="masque">
+<PB REF="4"/>
+<HEAD>THE POLITITIAN.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Act. 1.</HEAD>
+<STAGE><HI>Enter</HI> Cortes <HI>and</HI> Hormenus.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L><SEG REND="decorInit">I</SEG>T was a strange and suddaine mar∣riage.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>Could he not love her for the game, and so forth,</L>
+<L>But he must thus exalt her? no lesse title</L>
+<L>Then Queen, to satisfie her ambition?</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>'Tis a brave rise!</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>I did not prophesie,</L>
+<L>When the honest Count her husband <HI>Altomarus</HI></L>
+<L>Liv'd, she would bring us on our knees.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>I hope</L>
+<L>She'l love the King for't.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>And in his absence,</L>
+<L><HI>Gotharus</HI> the Kings Minion, her old friend,</L>
+<L>He has done this royall service; beside, what</L>
+<L>Rests on accompts in her old husbands dayes.</L>
+<L><PB N="2" REF="5"/>I do suspect her Son <HI>Haraldus</HI> was</L>
+<L>Got with more heat, and blood, then <HI>Altomarus</HI></L>
+<L>Age could assure her, but hee's dead.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>—Be with him;</L>
+<L>Although I wo'not make oath for her chastity,</L>
+<L>That boyes good nature is an argument</L>
+<L>To me, <HI>Gotharus</HI> had no share in him:</L>
+<L>Hee's honest, of a gentle disposition,</L>
+<L>And on my Conscience does pray sometimes.</L>
+</SP>
+<STAGE><HI>Enter</HI> Gotharus <HI>reading a Letter.</HI></STAGE>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>No more, we have a Wolfe by'th'eare, what news</L>
+<L>From Hell? he cannot want intelligence, he has</L>
+<L>So many friends there—he's displeas'd, there is</L>
+<L>Some goodness in that Letter, I will pawne</L>
+<L>My head, that makes him angry.</L>
+<STAGE><HI>Enter some with Petitions,</HI> Gotharus <HI>frowns upon 'em, they returne hastily.</HI></STAGE>
+<L>How his frown</L>
+<L>Hath scatterrd 'em like leaves, they fly from him</L>
+<L>As nimbly, as their bodyes had no more weight</L>
+<L>Then their Petitions; I would give an eye-tooth,</L>
+<L>To read but three lines.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Curse upon his victory!</L>
+<L>I meant him not this safety, when I wrought</L>
+<L>The King to send him forth to warre, but hop'd</L>
+<L>His active spirit would have met some engine</L>
+<L>To have translated him to another world;</L>
+<L>He's now upon return.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Would I had but</L>
+<L>The harrowing of your skull; my genius gives me▪</L>
+<L>That Paper is some good news of the Prince,</L>
+<L>I would I knew it but concern'd him.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>'Twas</L>
+<L>My wonder, the King would send his Son abroad</L>
+<L><PB N="3" REF="5"/>To warres, the onely pledge of his succession.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>He had a Councellor, this Polititian,</L>
+<L>That would prefer the Prince to Heaven, a place</L>
+<L>His Lordship has no hope to be acquainted with;</L>
+<L>The Prince, and his great Uncle Duke <HI>Olaus,</HI></L>
+<L>Would not allow these pranks of State, nor see</L>
+<L>The King betrai'd to a Concubine;</L>
+<L>Therefore it was thought fit they should be engag'd</L>
+<L>To forraigne dangers.</L>
+<STAGE><HI>Enter</HI> Albina, <HI>and her waiting woman.</HI></STAGE>
+<L>'Tis Madam <HI>Albina,</HI></L>
+<L>Our great mans wife.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>The King did seem to affect her,</L>
+<L>Before he married her to his favorite.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>Dost think she's honest?</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>Ile not stake my soul on't,</L>
+<L>But I believe she is too good for him,</L>
+<L>Although the King and she have private conference.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>She looks as she were discontent.
+<STAGE>Exit Al.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>She has cause</L>
+<L>In being <HI>Gotharus</HI> wife, some say she lov'd him</L>
+<L>Most passionately.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>'Twas her destiny;</L>
+<L>She has him now, and if she love him still,</L>
+<L>'Tis not impossible she may be a Martyr,</L>
+<L>His proud and rugged nature will advance</L>
+<L>Her patience too't.</L>
+</SP>
+<STAGE><HI>Enter</HI> Helga <HI>and</HI> Sueno.</STAGE>
+<SP>
+<SPEAKER>Hel.</SPEAKER>
+<L>Avoid the Gallery.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>The King is coming, oh my Lord, your par∣don:</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Nay we must all obey.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>I near lik'd</L>
+<L>This fellow.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>He is one of fortunes Minions▪</L>
+<L><PB N="4" REF="6"/>The love of the choice Ladyes of the Landry,</L>
+<L>That's one that draws in the same team, but more</L>
+<L>Inclin'd to'th Knave; he is a kind of Pendant</L>
+<L>To the Kings ear, an everlasting parasite:</L>
+<L>The King? <HI>Albina</HI> return'd with him.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE><HI>Enter</HI> King <HI>and</HI> Albina.</STAGE>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Leave us.</L>
+<L>Y'are most unkind to your self in my opinion,</L>
+<L>You know well who I am, and what I have</L>
+<L>Advanc'd you too; neither in virgin state</L>
+<L>Nor marriage, to allow your King a favour?</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Sir, let the humble duty of a subject,</L>
+<L>Who shall with zealous prayers solicite heaven</L>
+<L>For you, and your fair Queen—</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Had you been wise,</L>
+<L>That might have been your Title, but the God</L>
+<L>Of love had with his Arrow so engraven</L>
+<L><HI>Gotharus</HI> in your heart; you had no language</L>
+<L>But what concern'd his praise, scarce any thought</L>
+<L>At liberty; I did imagine, when</L>
+<L>I had compassion of your sufferings,</L>
+<L>And gave thee a fair Bride to my <HI>Gotharus,</HI></L>
+<L>You would not lose the memory of my benefit,</L>
+<L>But (now in state, and nature to reward it)</L>
+<L>Consented to returne me love.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Be pleas'd</L>
+<L>To excuse the boldnesse of one question.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Be free <HI>Albina.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Do not you love my husband?</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>There wants no testimony, beside the rest,</L>
+<L>My giving thee to him, dear to my thoughts,</L>
+<L>Is argument I love him.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Would you take</L>
+<L>Me back agen? you but betraid his faith,</L>
+<L>And your own gift, to tempt me to forsake him.</L>
+</SP>
+<SP>
+<PB N="5" REF="6"/>
+<SPEAKER>K.</SPEAKER>
+<L>You are more apprehensive, if you please</L>
+<L>He shall possesse you still, I but desire</L>
+<L>Sometimes a neere and loving conversation,</L>
+<L>Though he should know't, considering how much</L>
+<L>I may deserve, he would be wise enough</L>
+<L>To love thee near the worse; he's not the first</L>
+<L>Lord that hath purchas'd offices by the free</L>
+<L>Surrender of his wife to the Kings use,</L>
+<L>'Tis frequent in all common-wealths to lend</L>
+<L>Their play-fellows to a friend.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Oh do not think</L>
+<L><HI>Gotharus</HI> can be worth your love, to be</L>
+<L>So most degenerate, and lost to honour;</L>
+<L>You have a Queen, to whom your vow is sacred,</L>
+<L>Be just to her, the blessing is yet warm</L>
+<L>Pronounc'd by holy Priest, stain not a passion</L>
+<L>To wander from that beauty, richer far</L>
+<L>Then Mine; let your souls meet and kiss each other,</L>
+<L>That while you live, the examples of chaste love</L>
+<L>(Most glorious in a King and Queene) we may</L>
+<L>Grow up in vertue by the spring of yours,</L>
+<L>Till our top-boughs reach heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>You are resolved then</L>
+<L>We must be strangers, should my life depend</L>
+<L>On the possession of your bosome, I</L>
+<L>Should languish and expire, I see.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Good heaven</L>
+<L>Will not permit the King want so much goodness,</L>
+<L>To think the enjoying of forbidden pleasure</L>
+<L>Could benefit his life, rather let mine</L>
+<L>Ebbe at some wound, and wander with my blood</L>
+<L>By your command ta'ne from me, on my knee—</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Rise, I may kiss <HI>Albina</HI>—</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Ha!
+<STAGE>Enter <HI>Gotharus.</HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>'Thas shot</L>
+<L>Another flame into me, come you must—</L>
+</SP>
+<SP>
+<PB N="6" REF="7"/>
+<SPEAKER>Alb.</SPEAKER>
+<L>What?</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Be a woman, do't, or ile complain.</L>
+</SP>
+<SP>
+<SPEAKER>Alb.</SPEAKER>
+<L>To whom?</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Thy husband.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Horror!</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Think upon't.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>What will become of miserable <HI>Albina</HI>?</L>
+<L>Like a poor Deere pursu'd to a steep precipice,</L>
+<L>That overlooks the Sea, by some fierce hound;</L>
+<L>The Iust of a wild King doth threaten here,</L>
+<L>Before me, the neglects of him I love,</L>
+<L><HI>Gotharus</HI> my unkind Lord, like the waves,</L>
+<L>And full as deafe affright me.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>How now Madam?</L>
+<L>Come, can you kiss?</L>
+</SP>
+<SP>
+<SPEAKER>Alb.</SPEAKER>
+<L>Kiss sir?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>What difference</L>
+<L>Between his touch and mine now? his perhaps</L>
+<L>Was with more heat, but mine was soft enough.</L>
+<L>What has he promis'd thee, but that's no matter,</L>
+<L>Thou wo't be wise enough to make thy bargain,</L>
+<L>I father all, onely the King shall give it</L>
+<L>A name, he'l make it master of a Province.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>What means my Lord:</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thou thinkst I am jealous now, not I, I knew</L>
+<L>Before he doated on thee, and it is</L>
+<L>To be presum'd, having a veile to hide</L>
+<L>Thy blushes, (I do mean our marriage)</L>
+<L>Thou maist find out some time to meet, and mingle</L>
+<L>Stories and limbs, it may be necessary;</L>
+<L>And 'cause I will be dutifull to the King,</L>
+<L>We will converse no more abed, ile be</L>
+<L>Thy husband still <HI>Albina,</HI> and weare my buds</L>
+<L>Under my haire close like a prudent Statesman;</L>
+<L>But 'twere not much amisse, as I advis'd</L>
+<L>Before, and these new premises consider'd,</L>
+<L><PB N="7" REF="7"/>You appear abroad with a less train, your Wardrobe</L>
+<L>Will make you more suspected, if it be</L>
+<L>Too rich; and some whole dayes to keepe your Chamber,</L>
+<L>Will make the King know where to find you cer∣tain.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Will you have patience my Lord to hear me?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>The world doth partly think thee honest too,</L>
+<L>That will help much, if you observe good rules</L>
+<L>And dyet, without tedious progresses,</L>
+<L>And visiting of Ladyes, expert in</L>
+<L>Night Revels, Masks, and twenty other torments</L>
+<L>To an estate; your Doctors must be left too,</L>
+<L>I wo'not pay a fee to have your pulse</L>
+<L>Felt, and your hand roll'd up like wax, by one</L>
+<L>Whose footcloth must attend, while he makes leggs,</L>
+<L>And every other morning comes to tell</L>
+<L>Your Ladyship a story out of <HI>Aretine,</HI></L>
+<L>That can set you a longing for diseases,</L>
+<L>That he may cure you, and your waiting-woman,</L>
+<L>Whose curiosity would taste your Glister,</L>
+<L>Commend the operation from her stomack.</L>
+<L>Should you be sick, and sick to death, I wo'd</L>
+<L>Not counsell you to physick; women are</L>
+<L>Fraile things, and should a cordiall miscarry,</L>
+<L>My conscience would be arraign'd, and I</L>
+<L>Might be suspected for your poisoner.</L>
+<L>No, no, I thank you, y'are in a fine course</L>
+<L>To ease me wife; or if you must be loose,</L>
+<L>I'th spring and fall, let the King bear the charges.</L>
+<L>He will, if you apply your selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>I am wretched;</L>
+<L>Why do you without hearing thus condemn me?</L>
+<L>The Lady lives not with a purer faith</L>
+<L>To her lov'd Lord, then I have; nor shall greatness,</L>
+<L>Nor death it selfe, have power to break it.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Come,</L>
+<L><PB N="8" REF="8"/>These are but painted teares, leave this, have you</L>
+<L>Prepar'd your last accompts?</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>They are ready sir;</L>
+<L>Never was Lady slav'd thus like <HI>Albina,</HI></L>
+<L>A stipendary, worse, a servile steward,</L>
+<L>To give him an accompt of all my expences.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I'le have it so in spight of customes heart,</L>
+<L>While you are mine; accountless liberty</L>
+<L>Is ruine of whole families: now leave me,
+<STAGE>Exit Al.</STAGE></L>
+<L>We may talk more anon, I have observ'd</L>
+<L>This privacy before, search here <HI>Gotharus,</HI></L>
+<L>'Tis here from whence mutinous thoughts conspi∣ring</L>
+<L>With witty melancholly, shal beget</L>
+<L>A strong born mischiefe, I'le admit she be</L>
+<L>Honest, I love her not, and if he tempt her</L>
+<L>To sinne, that's paid him back in his wives loosness;</L>
+<L>From whom I took my first ambition,</L>
+<L>And must go on, till we can sway the Kingdom,</L>
+<L>Though we clime to't o're many deaths. I first</L>
+<L>Practise at home, my unkindness to <HI>Albina,</HI></L>
+<L>If she do love me must needs break her heart.</L>
+<STAGE><HI>Enter</HI> Haraldus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>My honour'd Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Most dear <HI>Haraldus</HI> welcome,</L>
+<L>Preciously welcome to <HI>Gotharus</HI> heart.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>The Queen my mother, sir, would speake with you.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>How excellently do those words become thee,</L>
+<L>'Tis fit <HI>Haraldus</HI> Mother be a Queene,</L>
+<L>Th'art worth a princely fate; I will attend her.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Ile tell her so.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>'Tis not an office for you.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>It is my duty sir, to wait upon</L>
+<L>My mother.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Who i'th Court is not your servant?</L>
+<L><PB N="9" REF="8"/>You doe not exercise command enough,</L>
+<L>You are too gentle in your fortunes sir,</L>
+<L>And weare your greatnesse, as you were not born</L>
+<L>To be a Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>My birth sure gave me not</L>
+<L>That title, I was born with the condition</L>
+<L>To obey, not govern.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Do not wrong those Starres,</L>
+<L>Which early as you did salute the world,</L>
+<L>Design'd this glorious fate; I did consult,</L>
+<L>And in the happy minute of thy birth,</L>
+<L>Collect what was decreed in heaven about thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Those books are 'bove my reading, but what</L>
+<L>E're my stars determine of me, 'tis but late</L>
+<L>I heard my mother say, you are on earth,</L>
+<L>To whom I am most bound for what I am:</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>'Tis a shrewd truth, if thou knew'st all.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>You have</L>
+<L>Been more a father then a friend to us.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Friend to thy Mother, I confess in private,</L>
+<L>The other followes by a consequence,
+<STAGE>aside.</STAGE></L>
+<L>A father my <HI>Haraldus</HI>? I confess</L>
+<L>I was from thy nativity inclin'd</L>
+<L>By a most strange and secret force of nature,</L>
+<L>Or sympathy to love thee like my owne;</L>
+<L>And let me tell thee, though thy mother had</L>
+<L>Merit enough to engage my se<GAP DESC="illegible" REASON="missing" EXTENT="4 letters" DISP="••••"/>es;</L>
+<L>Yet there was something more in thee consider'd,</L>
+<L>That rais'd my thoughts, and study to advance</L>
+<L>Thee to these pregnant hopes of state, methinks</L>
+<L>I see thee a King already.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Good sir, do not</L>
+<L>Prompt me to that ambition, I possess</L>
+<L>Too much already, and I could, so pleas'd</L>
+<L>My Mother, travell where I should not hear</L>
+<L>Of these great titles, and it comes now aptly,</L>
+<L><PB N="10" REF="9"/>I should entreat your Lordshp to assist me</L>
+<L>In a request to her, I know she loves you,</L>
+<L>And will deny you nothing; I would faine</L>
+<L>Visit the University for study,</L>
+<L>I do lose time methinks.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Fie <HI>Haraldus,</HI></L>
+<L>And leave the Court? how you forget your selfe?</L>
+<L>Study to be King,</L>
+<L>I shall halfe repent my care,</L>
+<L>If you permit these dull and phlegmatick</L>
+<L>Thoughts to usurpe, they'l stifle your whole reason,</L>
+<L>Catch at the Sunne, devest him of his beame,</L>
+<L>And in your eye wear his proud rayes; let day</L>
+<L>Be when you smile, and when your anger points,</L>
+<L>Shoot death in every frowne: covet a shade,</L>
+<L>Affect a solitude, and books, and forfeit,</L>
+<L>So brave an expectation?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Of what?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Of <HI>Norwayes</HI> Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Could there be any thought</L>
+<L>Within me so ambitious, with what hope</L>
+<L>Could it be cherished, when I have no title?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I that have thus farre studied thy fortune,</L>
+<L>May find a way.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>The King —</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Is not immortal while he has Physitians.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>What's that vnsaid? The King is happy,</L>
+<L>And the whole Nation treasure up their hopes</L>
+<L>In Prince <HI>Turgesius,</HI> who with his great uncle</L>
+<L>Valiant <HI>Olaus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Are sent to'th warres, where 'twill con∣cerne 'm,</L>
+<L>To think of fame, and how to march to honour</L>
+<L>Through death.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I dare not hear him.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Or if they</L>
+<L><PB N="11" REF="9"/>Return—</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>They will be welcome to all good</L>
+<L>Mens hearts, and next the King, none with more joy</L>
+<L>Congratulate their safeties, then your selfe:</L>
+<L>I am confident my Lord you will remember</L>
+<L>To see my Mother, and excuse me if</L>
+<L>To finish something else I had in charge,</L>
+<L>I take my leave, all good dwell with your Lordship.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>But that I have <HI>Marpisas</HI> faith, I could</L>
+<L>Suspect him not the issue of my blood,</L>
+<L>He is too tame, and honest, at his yeers</L>
+<L>I was prodigiously in love with greatnesse;</L>
+<L>Or if not mine, let him inherit but</L>
+<L>His Mothers soule, she has pride enough, and spirit</L>
+<L>To catch at flames, his education</L>
+<L>Has been too soft, I must new form the boy</L>
+<L>Into more vice, and daring, strange, we must</L>
+<L>Study at Court, how to corrupt our Children▪</L>
+<STAGE><HI>Enter</HI> Marpisa.</STAGE>
+<L>The Queene!</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>My expectation to speak</L>
+<L>With thee <HI>Gotharus,</HI> was too painfull to me;</L>
+<L>I feare we are all undone; dost hear the news?</L>
+<L>The Prince is comming back with victory,</L>
+<L>Our day will be o're-cast.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>These eyes will force</L>
+<L>A brighter from those clouds; are not you Queene?</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>But how <HI>Turgesius,</HI> and his bold uncle</L>
+<L>Wil look upon me.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Let 'em stare out</L>
+<L>Their eyeballs, be you mistress still of the</L>
+<L>Kings heart, and let their gall spout in their sto∣mack,</L>
+<L>We'l be secure.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Thou art my fate.</L>
+</SP>
+<SP>
+<PB N="12" REF="10"/>
+<SPEAKER>Go.</SPEAKER>
+<L>I must confesse</L>
+<L>I was troubled when I heard it first; seem not</L>
+<L>You pale at their return, but put on smiles</L>
+<L>To grace their triumph; now you have most need</L>
+<L>Of womans art, dissemble cunningly.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>My best <HI>Gotharus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>They shall find stratagems in peace, more fatal</L>
+<L>Then all the Engines of the war; what mischiefe</L>
+<L>Will not <HI>Gotharus</HI> fly to, to assure</L>
+<L>The fair <HI>Marpisa's</HI> greatness, and his own,</L>
+<L>In being hers (an Empire 'bove the world)</L>
+<L>There is a heaven in either eye, that calls</L>
+<L>My adoration, such Promethean fire,</L>
+<L>As were I struck dead in my works, shouldst thou</L>
+<L>But dart one look upon me, it would quicken</L>
+<L>My cold dust, and informe it with a soul</L>
+<L>More daring then the first.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Still my resolv'd <HI>Gotharus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Let weak Statesmen think of conscience,</L>
+<L>I am arm'd against a thousand stings, and laugh at</L>
+<L>The tales of Hell, and other worlds, we must</L>
+<L>Possess our joyes in this, and know no other</L>
+<L>But what our fancy every minute shall</L>
+<L>Create to please us.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>This is harmony,</L>
+<L>How dull is the Kings language, I could dwell</L>
+<L>Upon thy lips; why should not we engender</L>
+<L>At every sense?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Now you put me in mind,</L>
+<L>The pledge of both our hopes, and blood, <HI>Haral∣dus,</HI></L>
+<L>Is not well bred, he talks too morally,</L>
+<L>He must have other discipline, and be fashion'd</L>
+<L>For our great aims upon him; a Crown never</L>
+<L>Became a Stoick, pray let me commend</L>
+<L>Some conversation to his youth.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>He is thine.
+<STAGE><HI>Enter</HI> Helga.</STAGE></L>
+</SP>
+<SP>
+<PB N="13" REF="10"/>
+<SPEAKER>Ge.</SPEAKER>
+<L>He shall be every way my own.</L>
+</SP>
+<SP>
+<SPEAKER>Hel.</SPEAKER>
+<L>The King desires your presence Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I attend, you'l follow —
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thee to death, and triumph in</L>
+<L>My ruines for thy sake, a thousand forms</L>
+<L>Throng in my braine, that is the best, which speeds,</L>
+<L>Who looks at Crowns, must have no thought who bleeds.
+<STAGE>Exit.</STAGE></L>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Act. 2.</HEAD>
+<STAGE>Enter <HI>King, Hormenus, Cortes, Sueno.</HI></STAGE>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>THis musick doth but add to melancholly,</L>
+<L>Ile hear no more.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>He's strangely mov'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>I cannot think a cause,</L>
+<L>You were wont to fool him into mirth; Where's <HI>Helga</HI></L>
+<L>Your dear companion? no device between you</L>
+<L>To raise his thoughts?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I am nothing without my fellow,</L>
+<L>Musick is best in Consort.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>Your buffonry is musical belike.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>Your Juglers cannot do some o'their tricks</L>
+<L>Without confederacy.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I'le try alone.</L>
+<L>If please your Majesty there is—</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>That for your unseasonable and saucie foo∣ling.
+<STAGE>strikes him.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>That was a musical box o'th'ear.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Leave us.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>'Tis nothing without a fellow, he knows</L>
+<L>Musick is best in Consort.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Would you had your parts?</L>
+</SP>
+<SP>
+<PB N="14" REF="11"/>
+<SPEAKER>K.</SPEAKER>
+<L><HI>Hormenus</HI> you may stay.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Your pleasure sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Men do account thee honest.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>'Tis possible</L>
+<L>I May fare the worse.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>And wise; canst tell the cause why I am sad?</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Not I sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Nor I my self, 'tis strange I should be subject</L>
+<L>To a dull passion, and no reason for it.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>These things are frequent.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Sometimes ominous,</L>
+<L>And do portend.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>If you enjoy a health,</L>
+<L>What is in fate?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I am King</L>
+<L>Still, and I not?</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>We are all happy in't,</L>
+<L>And when time shall with the consent of nature,</L>
+<L>Call you an old man from this world to heaven,</L>
+<L>May he that shall suceed you, Prince <HI>Turgesius,</HI></L>
+<L>The glory of our hope, be no less fortunate.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>My Son,</L>
+<L>I was too rash to part with him.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>We should</L>
+<L>Have thought his stay a blessing, and did wish</L>
+<L>You would not have expos'd such tender years</L>
+<L>To the rough warre; but your commands met with</L>
+<L>His duty, and our obedience.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>It is very</L>
+<L>Strange, we of late hear no success, I hope</L>
+<L>This sadnesse is not for his loss, he has</L>
+<L>A kinsman with him, loves him dearly, 'tis</L>
+<L>The Queen.
+<STAGE><HI>Enter</HI> Queen <HI>and</HI> Helga.</STAGE></L>
+<L>I feel my drooping thoughts fall off,</L>
+<L>And my clouds fly before the wind, her presence</L>
+<L>Hath an infusion to restore dead nature.</L>
+<L><PB N="15" REF="11"/>My sweet, my dear <HI>Marpisa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>You sent for me.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I am but the shadow of my selfe without thee.</L>
+<STAGE><HI>Enter</HI> Cort. Sueno.</STAGE>
+<L>No wonder I was sad, my soul had plac'd</L>
+<L>All her delight in these fair eyes, and could not</L>
+<L>But think it selfe an exile in thy absence,</L>
+<L>Why should we ever part, but chaine our selves</L>
+<L>Together thus?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>He's in a better humour I hope;</L>
+<L>I do not think but his Majestie would cuffe well,</L>
+<L>His hand carryes a princely weight.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>A favour.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Would you might weare such another in your eare.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Come hither—on this side.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>You were on that side before.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>wo'dst not thou lose thy life, to do a service</L>
+<L>My Queen would smile upon?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Alas, My life</L>
+<L>Is the least thing to be imagin'd, he</L>
+<L>Is not a faithful subject would refuse</L>
+<L>To kill his wife and children, after that</L>
+<L>To hang himselfe, to do the Queen a service.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Come hither <HI>Helga.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hel.</SPEAKER>
+<L>Royal sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>What would affright thy undertaking, to de∣serve</L>
+<L>The least grace from my Queen?</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>I cannot tell,</L>
+<L>But I've an opinion, the Devill could not;</L>
+<L>My life is nothing fir, to obtaine her favour,</L>
+<L>I would hazard more; I have heard talk of hell,</L>
+<L>So farre she should command me.</L>
+</SP>
+<SP>
+<SPEAKER>Hor.</SPEAKER>
+<L>Bless me goodness!</L>
+<L>What wretched Parasites are these? how can</L>
+<L>The King be patient at 'em? here is flattery</L>
+<L><PB N="16" REF="12"/>So thick and grosse, it would endure a hand-saw.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>His judgement's I fear stupified.</L>
+</SP>
+<SP>
+<SPEAKER>Hor.</SPEAKER>
+<L>Come hither,</L>
+<L>Which of you can resolve, what serpent spawn'd you?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>You are pleasant.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>My good Lord, it hurts not you,</L>
+<L>There is necessity of some knaves, and so</L>
+<L>Your Lordship be exempted, why should you</L>
+<L>Trouble your selfe, and murmur at our courses?</L>
+</SP>
+<STAGE><HI>Enter</HI> Aquinus <HI>hastily.</HI></STAGE>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>The King.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Peace.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Your businesse?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>News from the field.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Good?</L>
+</SP>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>Good.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>How?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>How prethee?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>The day, the field, the safety, O the glory</L>
+<L>Of warre is <HI>Norwaies,</HI> Letters to the King—</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Give 'em to me.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Or me.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Trust not a fool with things of consequence,</L>
+<L>He's the Kings mirth, let me present the news.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Sir, I should know you; this is a knave,</L>
+<L>Would take to him all the glory of your report;</L>
+<L>If please you, let me present the Letters.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>My Leige!</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>My Soveraigne!</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>News!</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Good news!</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Excellent newes!</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>The Prince▪</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>The Prince is—</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>The enemy is—o'rethrown.</L>
+</SP>
+<SP>
+<PB N="17" REF="12"/>
+<SPEAKER>He.</SPEAKER>
+<L>They have lost the day.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Defeated utterly.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>And are all slain.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Madam, will you hear the news?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Say on, what is't you would relate?</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>One of my creatures sir hath brought you Letters,
+<STAGE>Aquinus <HI>delivers the Letters.</HI></STAGE></L>
+<L>My servant sir, one strengthened to your service</L>
+<L>Out of my maintenance, an instrument of mine,</L>
+<L>So please you to consider my duty in his service.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Why hark you Gentlemen, I have but mock'd</L>
+<L>Your greedy zeals, there's no such matter in</L>
+<L>Those Letters as you have told; we have lost all,</L>
+<L>And the Prince taken prisoner, will you not</L>
+<L>Stay for the reward, you know I'm but your Crea∣ture,</L>
+<L>I look for nothing but your courtly faces</L>
+<L>To pay my travel.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>We wo'not appear yet—
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>How the Rats vanish.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Read here my best <HI>Marpisa,</HI> news that makes</L>
+<L>A triumph in my heart, great as the conquest</L>
+<L>Upon our enemies; <HI>Hormenus, Cortes,</HI></L>
+<L>Our Son will prove a Souldier, was my sadnesse</L>
+<L>Omen to this good fate? or nature fear'd</L>
+<L>The extasie of my joy would else o'recome me?</L>
+<L>They are return'd victorious.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Thanks to heaven!</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>And some reward is due to thee; wear that</L>
+<L>For the Kings sake.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>You too much honour me.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>But something in <HI>Marpisa's</HI> face, shews not</L>
+<L>So clear a joy as we express, forbear,
+<STAGE>Exeunt.</STAGE></L>
+<L>Wait till we call; can this offend my Queen,</L>
+<L>To hear of happinesse to my Son? O let</L>
+<L>Thy eyes look bright, there shine hath force to make</L>
+<L><PB N="18" REF="13"/>The wreath of Laurel grow upon his temples;</L>
+<L>Why dost thou weep? this dew will kill the victory,</L>
+<L>And turn his Bay to Cipresse.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Witnesse heaven,</L>
+<L>There's not a teare that mourns for him, his safety</L>
+<L>And conquest is most welcome, and he shall</L>
+<L>Have still my prayers, he may grow up in fame,</L>
+<L>And all the glorious fortunes of a Prince:</L>
+<L>But while my wishes fly to heaven for blessings</L>
+<L>Upon his head, at the same time, I must</L>
+<L>Remember in what miserable condition</L>
+<L>My stars have plac'd me.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>What can make thy state</L>
+<L>Guilty of such a name, and so deject</L>
+<L>Thy nobler thoughts? am not I still the King?</L>
+<L>And is not fair <HI>Marpisa</HI> mine by marriage?</L>
+<L>Crown'd here my Queen immortally.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>Though I be</L>
+<L>By royall bounty of your love, possest</L>
+<L>Of that great Title sir, I have some fears.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>You amaze me, speak thy doubts at large.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>The Prince</L>
+<L>(Dear to your love, and I still wish him so)</L>
+<L>(Dear to your peoples hearts) I fear, will think</L>
+<L>Our marriage his dishonour, and <HI>Olaus</HI></L>
+<L>Your passionate Uncle, no good friend of mine,</L>
+<L>When he shall see to what a height your love</L>
+<L>And holy vow hath rais'd me, most unworthy,</L>
+<L>Will but salute <HI>Marpisa</HI> with his scorn,</L>
+<L>And by his counsell, or some waies of force</L>
+<L>Unchain our hearts, and throw me from your bo∣some</L>
+<L>To death, or worse, to shame; oh think upon me,</L>
+<L>And if you have one fear that's kin to mine,</L>
+<L>Prevent their tyrannie, and give me doom</L>
+<L>Of exile e're their cruelty arrive:</L>
+<L><PB N="19" REF="13"/>Ile take my sentence kindly from your lips,</L>
+<L>Though it be killing.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Let my Son or Uncle,</L>
+<L>Dare but affront three in a look, I shall</L>
+<L>Forget the ties of nature, and discharge 'em</L>
+<L>Like the corruption in my blood.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>I can</L>
+<L>Submit my selfe to them, and would you please</L>
+<L>To allow my humblenesse no staine to what</L>
+<L>You have advanc'd me to, I can be their servant,</L>
+<L>And with as true a duty wait upon 'em—</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Thou art all goodnesse, twenty Kingdoms are</L>
+<L>Too little for thy dowry; who attends?</L>
+<STAGE><HI>Enter</HI> Horm. <HI>and</HI> Cortes.</STAGE>
+<L>Thus every minute I will marry thee,</L>
+<L>And wear thee in my heart, vanish the thought</L>
+<L>Of all thy sex beside, and what can else</L>
+<L>Attempt our separation: th'art obscure,</L>
+<L>And liv'st in Court but like a maskquing star,</L>
+<L>Shut from us by the unkindnesse of a cloud</L>
+<L>When <HI>Cynthia</HI> goes to Revels: I will have</L>
+<L>A chariot for my Queen richer then er'e</L>
+<L>Was shewn in Roman triumph, and thou shalt</L>
+<L>Be drawn with Horses white as Venus doves,</L>
+<L>Till heaven it selfe in envy of our bliss,</L>
+<L>Snatch thee from earth to place thee in his Orbe,</L>
+<L>The brightest constellation.</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>He dotes strangely.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L><HI>Hormenus, Cortes,</HI> I would have you all</L>
+<L>Search your inventions to advance new joyes;</L>
+<L>Proclaime all pleasures free, and while my fair</L>
+<L>Queen smiles, it shall be death for any man</L>
+<L>I'th Court to frown.
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>You ha' not so much love i'th Court <HI>Aqninus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>How do you like the Queen?</L>
+</SP>
+<SP>
+<PB N="20" REF="14"/>
+<SPEAKER>Aq.</SPEAKER>
+<L>Why she's not married,</L>
+<L>He does but call her so.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>And lyes with her.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>The Prince yet knows it not.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Hee'l meet it coming home.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Aquinus?
+<STAGE>Enter Gotharus.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>You brought Letters from the Camp.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>I did my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>What in the name of Policy is now hatching?</L>
+<L>I do not like those fawning postures in him,</L>
+<L>How kind they are.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>That Souldier is thought honest.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>But if he cringe once more I shall suspect him,</L>
+<L>That leg confirms he is corrupt already.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>How does he like his fathers marriage?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>We had no fame on't there when I set forth.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>'T was strange and suddain, but we are all happy</L>
+<L>In the good Princes health and victory;</L>
+<L>The Duke <HI>Olaus</HI> too I hope is well.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>He was design'd at my departure,</L>
+<L>To be here before the Army.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>He will be welcome:</L>
+<L>You shall accept the price of a new Armour,</L>
+<L>And wherein any power of mine can serve you</L>
+<L>I'th Court, command.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>I am your Lord-ships creature.
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>They are gone, I long to see the Prince▪</L>
+<L>How do you think his Highnesse will</L>
+<L>Behave himself to his new mother Queen?</L>
+<L>Will it be treason not to aske her blessing?</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>I am confident his Uncle, brave <HI>Olaus.</HI></L>
+<STAGE><HI>Enter</HI> Haraldus.</STAGE>
+<L>Wo'not run mad for joy of the Kings marriage?</L>
+</SP>
+<SP>
+<PB N="21" REF="14"/>
+<SPEAKER>Ho.</SPEAKER>
+<L>Let them look to't, there may be alterations.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>They talk sure of my mother and the King.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Secure as they account themselves, the Prince</L>
+<L>Must be receiv'd spight of <HI>Marpisa's</HI> greatnesse,</L>
+<L>And all the tricks of her incarnate fiend</L>
+<L><HI>Gotharus,</HI> who both plot I fear, to raise</L>
+<L>That Composition of their blood,</L>
+<L>Haraldus—</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>How was that?</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>The strange effect</L>
+<L>Of their luxurious appetites, though in him</L>
+<L>Poor innocence, suspecting not their sin,</L>
+<L>We read no such ambition.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Oh my shame!</L>
+<L>What have my ears receiv'd? am I a bastard?</L>
+<L>'Tis malice that doth wound my Mothers honour;</L>
+<L>How many bleed at once? yet now I call</L>
+<L>To memory, <HI>Gotharus</HI> at our loving</L>
+<L>Late conference, did much insult upon</L>
+<L>The name of a Father, and his care of me</L>
+<L>By some strange force of nature: ha! my fears</L>
+<L>Shoot an Ice through me, I must know the truth</L>
+<L>Although it kill me.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>Who was that <HI>Haraldus?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>I hope he did not hear us, again <HI>Gotharus.</HI></L>
+<L>And the two squirrels; more devices yet.</L>
+<STAGE><HI>Enter Gotharus, Sueno,</HI> and <HI>Helga.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Let us alone my Lord, we'l quicken him.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>You must use all your art to win him to't.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Let us alone to make him drink, we are the credit</L>
+<L>Of the Court for that, he's but a child alas, we'l take our time.</L>
+<STAGE><HI>Enter</HI> Olaus <HI>attended with Captains.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Hormenus.</L>
+</SP>
+<SP>
+<PB N="22" REF="15"/>
+<SPEAKER>Ho.</SPEAKER>
+<L>My good Lord <HI>Olaus,</HI> I</L>
+<L>Joy in your safe return, how fares the Prince?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Well, where's the King?</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Kissing his new made Queen <HI>Marpisa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Ha!</L>
+<L>The King is married then.
+<STAGE><HI>Exit Su.</HI> &amp; <HI>Ho.</HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Away, the Duke <HI>Olaus,</HI> sir—</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>I am too stiffe for Complement,</L>
+<L>My Lord, I have rid hard—
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>He has met the intelligence,</L>
+<L>And is displeas'd with me the state of things at home;</L>
+<L>This marriage stings him, let it, we must have</L>
+<L>No trembling hearts, not fall into an ague,</L>
+<L>Like Children at the sight of a portent:</L>
+<L>But like a Rock when wind and waves go highest,</L>
+<L>And the insulting billowes dash against</L>
+<L>Her ribs, be unmov'd. The King must be saluted</L>
+<L>With other Letters, which must counterfet</L>
+<L>The Princes character, I was his Secretary</L>
+<L>And know the Art, malice inspire my brain</L>
+<L>To poyson his opinion of his Son;</L>
+<L>Ile form it cunningly.</L>
+<L>Ha! 'tis <HI>Haraldus.</HI></L>
+<STAGE><HI>Enter</HI> Haraldus.</STAGE>
+<L>He looks sad.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I dare not aske</L>
+<L>My mother, 'twere a crime, but one degree</L>
+<L>Beneath the sinfull act that gave me life</L>
+<L>To question her, and yet to have this fright</L>
+<L>Dwell in my apprehension, without</L>
+<L>The knowledge of some truth, must needs distract</L>
+<L>My poor wits quite; 'tis he, I will take boldnesse</L>
+<L>And know the worst of him, If I be what</L>
+<L>I am already charactred, he can</L>
+<L>Resolved my shame too well.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>How is't my Lord?</L>
+</SP>
+<SP>
+<PB N="23" REF="15"/>
+<SPEAKER>Ha.</SPEAKER>
+<L>Never so ill sir.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Art sick?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Most dangerously.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Where?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Here, at heart, which bleeds with such a wound,</L>
+<L>As none but you, can cure.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Ile drop my soul</L>
+<L>Into it, shew me how I may</L>
+<L>Be thy Physitian, to restore thy blood</L>
+<L>I will lose all mine, speak child.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>This very love</L>
+<L>Is a fresh suffering, and your readinesse</L>
+<L>To cure my sorrow, is another wound;</L>
+<L>You are too kind, why are you so? what is</L>
+<L>Or can be thought in me fit to deserve it?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thou dost talk wildly; to accuse me thus</L>
+<L>For loving thee, could the world tempt me here,</L>
+<L>And court me with her glories to forsake thee,</L>
+<L>Thus I would dwell about thy neck, and not</L>
+<L>Be bought from kissing thee for all her provinces:</L>
+<L>There is a charme upon my soul to love thee,</L>
+<L>And I must do't.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Then I must dye.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Forbid it gentler fates.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>If I could hear you wish</L>
+<L>Me dead, I should have hope to live; although</L>
+<L>I would not willingly deserve your anger,</L>
+<L>By any impious deed, you do not know</L>
+<L>What comfort it would be to heare you curse me.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>He's mad; <HI>Haraldus,</HI> prethee do not talk so.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Or if you think a curse too much to help me,</L>
+<L>Yet rail upon me, but do't heartily, and call me</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>What?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Vilaine, or Bastard, sir,</L>
+<L>The worst is best from you.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thou dost amaze me.</L>
+</SP>
+<SP>
+<PB N="24" REF="16"/>
+<SPEAKER>Ha.</SPEAKER>
+<L>Will you not for me?</L>
+<L>Then for my mothers sake if you do love her,</L>
+<L>Or ever did esteem her worth your friendship,</L>
+<L>Let me entreat you draw your sword, and give me</L>
+<L>Something to wear in blood upom my bosome;</L>
+<L>Write but one letter of your name upon</L>
+<L>My brest, Ile call you father, by your love;</L>
+<L>Do something that may make me bleed a little.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>By that I dare not, thou hast nam'd <HI>Haraldus</HI></L>
+<L>A father.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I but call you so, I know</L>
+<L>You are a stranger to my blood, although</L>
+<L>Indeed to me your great affection</L>
+<L>Appears a wonder; nor can nature shew</L>
+<L>More in a Parent to a child; but if</L>
+<L>I be.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>What?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I shall blush sir to pronounce it,</L>
+<L>There's something that concerns my mother, will not</L>
+<L>Give it a name; yet I would be resolv'd,</L>
+<L>That I might place my duty right; If I</L>
+<L>Must answer to your Sonne, you may imagine</L>
+<L>I shall no more aske you a reason, why</L>
+<L>You have been so kind to me; and to my mother.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thou hast said it, th'art mine own, 'twas na∣ture in me,</L>
+<L>That could not hide the actions of a Father.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I am your base seed then.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Stain not thy self</L>
+<L>With such a name, but look upon thy mother</L>
+<L>Now made a Queene.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>You made her first a strumpet,</L>
+<L>And it would aske the piety of her Sonne,</L>
+<L>To dye upon that man that stole her honour:</L>
+<L>Why did you so undo us? why did you</L>
+<L>Betray my mother to this shame? or when</L>
+<L><PB N="25" REF="16"/>She had consented, why should both your lust</L>
+<L>Curse my unsinning heart, oh I must be</L>
+<L>For your vice scorn'd, though innocent.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>None dare—</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I should not by your vertue have been sav'd,</L>
+<L>Where shall I hide my life, I must no more</L>
+<L>Converse with men—</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thou art too passionate.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I will entreat my mother we may go</L>
+<L>Into some wildernesse, where we may find</L>
+<L>Some Creatures that are spotted like our selves,</L>
+<L>And live and dye there, be companion</L>
+<L>To the wild Panther, and the Leopard, yet</L>
+<L>They are too good for their converse, we are</L>
+<L>By ours, defil'd, their spots do make them fair.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>'Tis time that <HI>Sueno</HI> and his companion,</L>
+<L>Dispers'd these clouds; now to the King, with whom</L>
+<L>If the Queens beauty keep her magick, then</L>
+<L>Our Engine mount, and day grows bright agen.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Act. 3.</HEAD>
+<STAGE>Enter <HI>King, Queene, Olaus, Reginaldus, Aguinus, Helga.</HI></STAGE>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>UNcle, I am glad to see you.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>I am not glad</L>
+<L>To see you sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Not me?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Consorted thus.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>If <HI>Olaus</HI> be forgetfull of good manners,</L>
+<L>I shall forget his years, and blood; be temperate.</L>
+</SP>
+<SP>
+<PB N="26" REF="17"/>
+<SPEAKER>Ol.</SPEAKER>
+<L>There's something in your blood that will undoe</L>
+<L>Your state and fame eternally, purge that,</L>
+<L>You know I never flatter'd you, that woman</L>
+<L>Will prove thy evill Genius.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Y'are too saucy.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Do not I know her, was she not wife</L>
+<L>To the Count <HI>Altomarus</HI> a weak Lord?</L>
+<L>But too good for her, charm'd by the flattery</L>
+<L>And magick of her face, and tongue, to dote</L>
+<L>And Marry her, born of a private Family,</L>
+<L>Advanc'd thus, she grew insolent, and I fear</L>
+<L>By pride and liberty, and some trick she had,</L>
+<L>Broke her good husbands heart.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Sir, you much wrong me,</L>
+<L>And now exceed the priviledge of your birth</L>
+<L>To injure mine.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>We all know you can plead</L>
+<L>Your own defence, you have a womans wit,</L>
+<L>Heaven send you equall modesty, I am plain.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>It would be held an insolence in others,</L>
+<L>And saucy boldnesse in the sacred presence</L>
+<L>Thus of the King, to accuse, whom he hath pleas'd</L>
+<L>To take companion of his bed; and though</L>
+<L>It would become the justice of my cause</L>
+<L>And honour, to desire these black aspersions</L>
+<L>May be examin'd further, and the Author</L>
+<L>Call'd to make proof of such a passionate language,</L>
+<L>(Which will betray his accusation was</L>
+<L>But envy of my fortunes) I remember</L>
+<L>Y'are the Kings Uncle, and 'tis possible</L>
+<L>You may be abus'd by some malicious tale</L>
+<L>Fram'd to dishonour me, and therefore I</L>
+<L>Beseech you humbly sir, to let this passe</L>
+<L>But as an act in him of honest freedom,</L>
+<L>Beside what else may give you priviledge</L>
+<L><PB N="27" REF="17"/>Being a Souldier, and not us'd to file</L>
+<L>His language, blunt and rugged wayes of speech</L>
+<L>Becoming your profession.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Very good!</L>
+<L>Although we ha' not the device of tongue</L>
+<L>And soft phrase Madam, which you make an Idol</L>
+<L>At Court, and use it to disguise your heart,</L>
+<L>We can speak truth in our unpollish'd words,</L>
+<L>Thou art—</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>What am I?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Not the Queen.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>She is</L>
+<L>My wife <HI>Olaus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>I must never kneel to her,</L>
+<L>Nor the good Prince your son, the hope of war,</L>
+<L>And peaces darling, honour of our blood,</L>
+<L>And worth a better Kingdom then he's born to—</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>What of him?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Must never call her Mother.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Dare you instruct him</L>
+<L>Against his duty, leave us.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>You have lost</L>
+<L>More honour in those minutes you were married,</L>
+<L>Then we have gain'd in months abroad, with all</L>
+<L>Our triumph purchas'd for you with our blood;</L>
+<L>Is this the payment, the reward for all</L>
+<L>Our faith? when thy young Son, whose springing valour</L>
+<L>And name, already makes the confines tremble,</L>
+<L>Returns like young <HI>Augustus</HI> crown'd with victo∣ries;</L>
+<L>Must a stepdame first salute him,</L>
+<L>And tread upon his Laurel?</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Leave the Court.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>May it not prove an Hospital, 'tis i'th way</L>
+<L>To change a title, lust and all the riots</L>
+<L>Of licence reeling in it, by th'example</L>
+<L><PB N="28" REF="18"/>Of one should least prophane it, I am still</L>
+<L><HI>O laus,</HI> and your fathers brother.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Take heed</L>
+<L>You do not talk your head off, we have Scaffolds,</L>
+<L>But the old man raves, come my <HI>Marpisa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Then I will talke, threaten my head,</L>
+<L>Command that Parasite that dares do most</L>
+<L>In wickednesse, to shew himselfe your servant;</L>
+<L>Give him his engine, and his fee for hangman,</L>
+<L>Let him take boldness but to move one hair</L>
+<L>That withers on my head out of his posture,</L>
+<L>He shall have more hope to o'recome the Devil</L>
+<L>In single duel, then to scape my fury.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Sir—</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Our guard.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Look you, i'le bring no danger to your person,</L>
+<L>I love you too well; I did alwayes use</L>
+<L>To speak, your father lik'd me near the worse.</L>
+<L>And now I am coole againe—</L>
+<L>You say you are married—</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>We are.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Then between you, and I, and let none heare us,</L>
+<L>To make your selfe, your Son, and Kingdome pro∣sper,</L>
+<L>Be counsel'd to a divorce.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Not, not</L>
+<L>To save thy soule, my sonnes life added</L>
+<L>To thine, and lives of all the Army shall</L>
+<L>Be divorc'd from this world first, you are my fa∣thers</L>
+<L>Brother, and if you love my sonne, your pupil,</L>
+<L>So hopeful in your thoughts, teach him to come</L>
+<L>More humbly to us, without thought to question</L>
+<L>Our marriage, or i'le find a chastisement</L>
+<L>For his rebellious heart, we will.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ol,</SPEAKER>
+<L>You must not; I wo'not leave him yet.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<PB N="29" REF="18"/>
+<SPEAKER>Re.</SPEAKER>
+<L>This freedome may engage his life to danger,</L>
+<L>He is too passionate.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>He has said too much,</L>
+<L>Ile venter speaking to him.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>He's alone, now to him.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Noble sir— I have a suit to you.</L>
+</SP>
+<SP>
+<SPEAKER>Re.</SPEAKER>
+<L>A Courtier aske a suit of a Souldier?</L>
+<L>You'l wear no Buffe nor Iron?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I come very impudently, and I hope to thrive</L>
+<L>The better for't; this Gentleman my friend,</L>
+<L>A man of quality, and in some grace with</L>
+<L>The King, hath laid a wager with me of</L>
+<L>Two hundred Crowns, I dare not pull a haire</L>
+<L>From your most reverend Beard: now if you please</L>
+<L>To give me leave, i'le win the Crownes, laugh at him,</L>
+<L>And drink your health at supper.</L>
+</SP>
+<SP>
+<SPEAKER>Re.</SPEAKER>
+<L>A hair from my beard?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>But one hair, if shall please you.</L>
+</SP>
+<SP>
+<SPEAKER>Re.</SPEAKER>
+<L>Come, take it.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I have pul'd three noble sir.</L>
+</SP>
+<SP>
+<SPEAKER>Re.</SPEAKER>
+<L>'Twas more then your commssion, there's one</L>
+<STAGE>Kicks him.</STAGE>
+<L>That's another, and that will make you an upright Courtier.
+<STAGE>Strikes him.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>Ha, ha.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Sir, I beseech you—</L>
+</SP>
+<SP>
+<SPEAKER>Re.</SPEAKER>
+<L>Beg modestly hereafter, take within your bounds,</L>
+<L>You have small beard to play upon. 'tis fit</L>
+<L>My fist should make an answer to your wit.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I have it to a hair, the cholerick Duke agen?</L>
+<L>I am gone.
+<STAGE>Exeunt. Ent. Ol. &amp; Aqui.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Sir, you have been too blame.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>How dare you talk to me sir?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>'Tis my duty, and I must tell you,</L>
+<L>Y'ave built too much upon him as a kinsman,</L>
+<L><PB N="30" REF="19"/>And have forgot the King.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Take that for your impudence.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE>Strikes him with his Cane.</STAGE>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>I have it, and I thank you.</L>
+</SP>
+<STAGE><HI>Enter</HI> King, <HI>reading of Letters,</HI> Queen.</STAGE>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>They are gone sir, but have left Prints of their fury,</L>
+<L>The angry Duke has broke <HI>Aquinus</HI> head,</L>
+<L>For speaking dutifully on your behalfe;</L>
+<L>To'ther mute man of war stroke <HI>Sueno</HI> sir.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I heare his language humming in my head still.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L><HI>Aquinus</HI>? strike so near our presence?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Nay these Souldiers will strike a man, if he doe not</L>
+<L>Carry himselfe to a hairs breadth, I know that.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>They shall repent this impudence, look up</L>
+<L>My dear <HI>Marpisa,</HI> there's no tempest shall</L>
+<L>Approach to hurt thee, they have rais'd a storm</L>
+<L>To their own ruines.</L>
+</SP>
+<STAGE>Enter a Souldier.</STAGE>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Sir, if you'l bring me</L>
+<L>To'th King. you shall do an office worth your la∣bour,</L>
+<L>I have Letters will be welcome.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>You must give</L>
+<L>Me leave sir to present 'em from the Prince:</L>
+<L>Most excellent, sir, my Soveraigne.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L><HI>Letters</HI>? If you have a chaine of gold—</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Go hang thy selfe.
+<STAGE><HI>Souldier gives</HI> Helga <HI>the Letters, &amp; Exit.</HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>I am most fortunate to present you sir</L>
+<L>With Letters from the Prince, and if your Majestie</L>
+<L>Knew with what zeale I tender these.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>He frowns, where's the Soldade? you'l goe my half.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Who brought these Letters? where's the mes∣senger</L>
+</SP>
+<SP>
+<PB N="31" REF="19"/>
+<SPEAKER>Ho.</SPEAKER>
+<L>He was here but now, he's vanish'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Vanish thee too, and creep into the earth.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>I shall sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>The impudence of Children, read <HI>Marpisa,</HI></L>
+<L>More Letters from the proud ambitious boy,</L>
+<L>He dares to give us precepts, and writes here,</L>
+<L>We have too much forgot our selfe and honour,</L>
+<L>In making thee our Queen, puts on his grace</L>
+<L>A discontent, and sayes, the triumph he</L>
+<L>Expected, the reward of his young merit,</L>
+<L>Will be ungloried in our suddaine match,</L>
+<L>And weak election.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>This was my fear.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>He threatens us, if we proceed with his</L>
+<L>Command and power i'th Army; raise new Forces</L>
+<L>To oppose 'm, and proclaime 'm Rebels, Trayters—</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>Sir, I beseech you for the generall good,</L>
+<L>Temper your rage, these are but words of passion,</L>
+<L>The Prince will soon be sorry for't, suspect not</L>
+<L>His duty, rather then disgrace your Son,</L>
+<L>Divide me from your heart, the people love him.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I'le hate him for't, <HI>Gotharus</HI>; where's <HI>Gotharus,</HI></L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>This Letter tast's of his invention,</L>
+<L>He's active, it concerns us both. <HI>Albina.</HI></L>
+<STAGE><HI>Enter</HI> Albina.</STAGE>
+<L>Nay, you may forward Madam.</L>
+</SP>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>I beseech</L>
+<L>Your pardon, I did hope to have found my Lord</L>
+<L><HI>Gotharus</HI> here.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>The King ask'd for him,</L>
+<L>And is but new retyr'd, who I presume</L>
+<L>If he had known of your approach, w'od not</L>
+<L>Have gone so soon.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>I have no businesse Madam</L>
+<L>With the King.</L>
+</SP>
+<SP>
+<PB N="32" REF="20"/>
+<SPEAKER>M.</SPEAKER>
+<L>Come do not disguise it thus,</L>
+<L>I am covetous to know your suit;</L>
+<L>But I am confident he will deny</L>
+<L>You nothing, and your husband is of my</L>
+<L>Opinion lately.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>By your goodnesse Madam,</L>
+<L>Let me not suffer in your thoughts, I see</L>
+<L>There is some poison thrown upon my innocence,</L>
+<L>And tis not well done of my Lord <HI>Gotharus,</HI></L>
+<L>To render me to your suspition</L>
+<L>So unhappy, 'tis too much he has withdrawn</L>
+<L>His own heart, he will shew no seeds of charity,</L>
+<L>To make all others scorn me.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>If he do,</L>
+<L>You can return it, but take heed your wayes</L>
+<L>Be straite to your revenge, let not my fame</L>
+<L>And honour be concern'd with the least wound.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>I understand not what you mean.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>I cannot</L>
+<L>Be patient, to hear the King commend</L>
+<L>Your lip.</L>
+</SP>
+<SP>
+<SPEAKER>Al</SPEAKER>
+<L>I am betraid.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>My phrase is modest,</L>
+<L>Do not you love the King?</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Yes, with the duty—</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>Of one that wants no cunning to dissemble</L>
+<L>Her pride, and loose desires.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>You are the Queen.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>What then?</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>I should else tell you, 'tis ill done</L>
+<L>To oppresse one that groans beneath the weight▪</L>
+<L>Of griefe already, and I durst take boldnesse</L>
+<L>To say, you were unjust.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>So, so.</L>
+</SP>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>I can</L>
+<L>Contain no longer, take from my sad heart</L>
+<L><PB N="33" REF="20"/>What hitherto I have conceal'd, (in that</L>
+<L>You may call me dissembler of my sorrows)</L>
+<L>I am weary of my life, and fear not what</L>
+<L>Your power and rage can execute; would you</L>
+<L>Had no more guilt upon your blood, then I</L>
+<L>Have sinne in my accounts that way, My Lord</L>
+<L><HI>Gotharus</HI> would not be so unkind to me.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>What's that you said so impudently <HI>Albina</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>What I did think should have consum'd me here</L>
+<L>In silence, but your injuries are mighty,</L>
+<L>And though I do expect to have my name</L>
+<L>In your black Register design'd for death,</L>
+<L>To which my husband will I know consent;</L>
+<L>I cannot thus provok'd, but speak what wounds me.</L>
+<L>Yet here agen I shut the Casket up,</L>
+<L>Never to let this secret forth, to spread</L>
+<L>So wide a shame hereafter.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>Thou hast wak'd</L>
+<L>A Lyonness.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Death cannot more undo me,</L>
+<L>And since I live an exile from my husband,</L>
+<L>I will not doubt but you may soon prevaile,</L>
+<L>To give my weary soul a full discharge</L>
+<L>Some way or other; and i'th minute when</L>
+<L>It takes her flight to an eternall dwelling,</L>
+<L>I will forgive you both, and pray for you,</L>
+<L>But let not your revenge be to long idle,</L>
+<L>Least the unmeasur'd pile of my affections</L>
+<L>Weigh me to death before your anger comes,</L>
+<L>And so you lose the triumph of your envies.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>You sha'not be forgotten, feare it not,</L>
+<L>And but that something nearer doth concern us,</L>
+<L>You should soon find a punishment. The King.
+<STAGE>Ex.</STAGE></L>
+</SP>
+<STAGE><HI>Enter</HI> King, Gotharus, <HI>with a Letter.</HI></STAGE>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>He struck <HI>Aquinus, Helga</HI> saw him bleed.</L>
+</SP>
+<SP>
+<PB N="34" REF="21"/>
+<SPEAKER>Go.</SPEAKER>
+<L>These are strange insolencies, one goe for <HI>Aquinus.</HI></L>
+<L>Did <HI>Olaus</HI> bring these Letters?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>No, some spirit,</L>
+<L>For he soon vanish'd.</L>
+<L>I have given my sonne</L>
+<L>To the most violent men under the Planets,</L>
+<L>These Souldiers.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>And they'l cling to him like Ivie,</L>
+<L>Embrace him even to death.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Like Brees to Cattel</L>
+<L>In summer, they'l not let him feed.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>But make</L>
+<L>Him fling, unquiet.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Most repineful, spleeny.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Ready to break the twist of his Allegiance.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Which they fret every day—</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>These put upon his young blood discontents.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Dangerous—</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Extreamly dangerous.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Swell him up</L>
+<L>With the alluring shapes of rule, and Empire—</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>And speak his strength with a proud Emphasis;</L>
+<L>Yours, with a faint cold-hearted voice; was ever</L>
+<L>Such peremptory lines writ to a father?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Thy counsell, while the dangers yet aloofe.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Aloofe? take heed, hils in a piece of landskip</L>
+<L>May seem to stand a hundred leagues, yet measure,</L>
+<L>There's but an inch in distance; oh ambition</L>
+<L>Is a most cunning, infinite dissembler,</L>
+<L>But quick i'th execution.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Thy counsell.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>He that aspires hath no Religion,</L>
+<L>He knows no kindred.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>I aske for thy advice.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Have you not seen a great Oke cleft asunder,</L>
+<L><PB N="35" REF="21" MS="y"/>With a small wedge cut from the very heart</L>
+<L>Of the same tree?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>It frights me to apply it;</L>
+<L>Oh my mis-fortune, this is torment, not</L>
+<L>A cure.
+<STAGE>Enter Aquinus</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L><HI>Aquinus,</HI> Speak him gently sir,</L>
+<L>And leave me to encourage him in a service</L>
+<L>Worth his attempt, and needful to your safety.</L>
+<L>Noble <HI>Aquinus,</HI> our good King has sence</L>
+<L>Of the affront you suffered from his Uncle,</L>
+<L>And as he is inform'd, for speaking but</L>
+<L>The duty of a subject.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>This is true sir,</L>
+<L>I wear his bloody favour still, I never</L>
+<L>Took any blow so long on trust.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I know thy spirit's daring, and it shal become</L>
+<L>My justice to reward thy suffering;</L>
+<L>A storm now hovers o're my Kingdom,</L>
+<L>When the aire is clear, and our sky fair agen,</L>
+<L>Expect, nay challenge, we shall recompence</L>
+<L>What thou hast suffer'd for us, with a bounty</L>
+<L>Worth all thy merits, i'th mean time apply</L>
+<L>Thy selfe to my <HI>Gotharus,</HI> and be counsel'd.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>My duty.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Th'hast no alliance to my blood;</L>
+<L>Yet if thou think'st I do not flatter thee,</L>
+<L>I feel a friendly touch of thy dishonour,</L>
+<L>The blow, 'twas not well done of Duke <HI>Olaus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>You great men think you may do what you please,</L>
+<L>And if y'have a mind to pound us in a morter</L>
+<L>We must obey.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>That law is none of natures,</L>
+<L>And this distinction of birth and royalty</L>
+<L>Is not so firme a proofe, but there are men</L>
+<L>Have swords to pierce it through, and make the hearts</L>
+<L><PB N="36" REF="22"/>Of those that take this priviledge from their blood,</L>
+<L>Repent they were injurious.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>My sword</L>
+<L>Was quiet when he beat me.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>He did not, could not beat thee.</L>
+</SP>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>'Twas worse, he cudgel'd me, I feel it yet,</L>
+<L>Nor durst I strike agen.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>It could not be</L>
+<L>A tamenesse in thy spirit, but quick thought</L>
+<L>That 'twas <HI>Olaus,</HI> not, that in thy heart</L>
+<L>There was no will to be reveng'd, for he</L>
+<L>Is false to nature, loves his injury,</L>
+<L>But that there was no safety to return</L>
+<L>Thy anger on his person.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Y'are i'th right,</L>
+<L>That frighted me.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>For he is not reveng'd,</L>
+<L>That kills his enemy and destroyes himselfe,</L>
+<L>For doing his own justice, therefore men</L>
+<L>That are not slaves, but free, these we receive</L>
+<L>Born, and bred Gentlemen in fair employments,</L>
+<L>That have, and dare bid high agen for honour,</L>
+<L>When they are wrong'd by men 'bove them in title,</L>
+<L>As they are thought worthy a personall wound,</L>
+<L>In that are rais'd and level'd with the injurer;</L>
+<L>And he that shall provoke me with his weapon,</L>
+<L>By making me his enemy, makes me equal,</L>
+<L>And on those terms I kill him: But there is</L>
+<L>Another caution to wise men, who ought</L>
+<L>To cast and make themselves secure, that when</L>
+<L>They have return'd full payment for their sufferings</L>
+<L>In fame, they may be safe without a guard.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>That sir is the prudence.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Yet I can direct thee</L>
+<L>To be reveng'd with safety unto this,</L>
+<L>What if I add therein, thou shalt do service</L>
+<L><PB N="37" REF="22"/>That will oblige the common-wealth, that groans</L>
+<L>With fear of innovation, and make</L>
+<L>The King thy friend by one expence of courage;</L>
+<L>And having nam'd the king thus, it must make</L>
+<L>Thy thoughts secure from future losse, and in</L>
+<L>The present act no danger.</L>
+</SP>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>Sir, be cleere,</L>
+<L>Make good what you have promis'd,</L>
+<L>And see if I be frighted, I have help'd</L>
+<L>Many give up the ghost.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L><HI>Olaus</HI> us'd</L>
+<L>Thee basely, how much would the Kingdome suffer</L>
+<L>If he were dead and laid into his Tombe,</L>
+<L>Perhaps a year sooner then nature meant,</L>
+<L>To make his bones fit.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>I dare kill him sir,</L>
+<L>If I were sure the King would pardon me,</L>
+<L>That in my own revenge, and any other</L>
+<L>Whom he calls enemy without exception,</L>
+<L>To this I am bound in conscience; sir, there needs</L>
+<L>No conjuration for this, nor art</L>
+<L>To heighten me, let me but hear the King</L>
+<L>Will have it, and secure me.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thou deserv'st him,</L>
+<L>And maist a statue, for our great deliverer,</L>
+<L>Yet, now I have thought better on't, we may</L>
+<L>Save trouble in <HI>Olaus</HI> Tragedy,</L>
+<L>And kill him through another.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Whom?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>One that</L>
+<L>Sits heavier on the Kings heart, and dwels in't</L>
+<L>Such a disease, as if no resolute hand</L>
+<L>Cure him.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>I'le be his Chyrurgion.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>When I name him,</L>
+<L>One that has had no will to advance thee</L>
+<L><PB N="38" REF="23"/>To thy deserts in wars, for all thy former</L>
+<L>And thy late services, rewarded with</L>
+<L>A dull command of Captain, but incenst</L>
+<L>By <HI>Olaus</HI> now who rules his heart, lesse hope</L>
+<L>To be repair'd in fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Let him be the Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>'Tis he.</L>
+</SP>
+<SP>
+<SPEAKER>A.</SPEAKER>
+<L>It honours my attempt;</L>
+<L>And while his father holds him disobedient,</L>
+<L>I think him lesse then subject.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Disobedient? look there.
+<STAGE>Shews a Let∣ter.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>This is the Princes hand.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>But read his heart.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Impious! above the reach</L>
+<L>Of common faith.</L>
+<L>I am satisfied, he must not live; the way:</L>
+<L>They would not trust me with his cup to poyson it,</L>
+<L>Shew me the way— the King and Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Lets study.
+<STAGE><HI>Enter King</HI> and <HI>Queen.</HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Q.</SPEAKER>
+<L>You have a faithful servant in <HI>Gotharus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Upon his wisdome we depend.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I have it,</L>
+<L>He shall dye like a Souldier, thus—
+<STAGE>Whispers.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Their malice</L>
+<L>Doth onely aime at me, and if you please</L>
+<L>To give me up a sacrifice to their fury.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Not for a thousand Sons, my life and honors</L>
+<L>Must sit with thine <HI>Marpisa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Sir, 'tis done.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>This act shall make thee great, the King and Queene</L>
+<L>Look cheerefull royal sir, and think of honour</L>
+<L>To crown the merit of this Captain, let</L>
+<L>No trouble shake a thought, he will deserve</L>
+<L>Your bosome sir.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>He shall possesse it; how my <HI>Gotharus?</HI></L>
+</SP>
+<SP>
+<PB N="39" REF="23"/>
+<SPEAKER>Go.</SPEAKER>
+<L>Pray leave it to me, it is not ripe yet for your knowledge sir.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>We'l trust thee, come <HI>Marpisa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Dearest Madam! come <HI>Aquinus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>I attend your Lorship.
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter <HI>Haraldus, Sueno, Helga,</HI> at a banquet.</STAGE>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>My Lord, you honour us.</L>
+</SP>
+<SP>
+<SPEAKER>Hel.</SPEAKER>
+<L>If we knew how to expresse our duties.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>No more ceremony,</L>
+<L>Your loves engage me, if some discontents</L>
+<L>Make me not seem unpleasant; yet I must</L>
+<L>Confesse I was more prompted to th'acceptance,</L>
+<L>In hope to cure a melancholly.</L>
+</SP>
+<SP>
+<SPEAKER>H.</SPEAKER>
+<L>With your pardon,</L>
+<L>It does too much usurpe on your sweet nature,</L>
+<L>But if your Lordship please, there is a way</L>
+<L>To banish all those thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I would call him doctor</L>
+<L>That could assure me that.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I am of his</L>
+<L>Opinion sir, and know the best receipt</L>
+<L>I'th world for sadness.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Prethee what?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Good wine.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I have heard 'em talk so, If I thought there were</L>
+<L>That operation—</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Try sir.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>My humble duty—'tis excellent wine!</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Helga.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Your Lordships servant.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>'Tis pleasant.
+<STAGE>Drinkes.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>It has spirit, will you please</L>
+<L>Another tryall, that prepares more sweetness,</L>
+<L>Health to the Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I thank you.</L>
+</SP>
+<SP>
+<PB N="40" REF="24"/>
+<SPEAKER>He.</SPEAKER>
+<L>With your pardon, fill to me,</L>
+<L>Your grace should have it last.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>She is my mother.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>She is our royall mistress, heaven preserve her;</L>
+<L>Does not your Lordship feel more inclination</L>
+<STAGE>Har. drinkes</STAGE>
+<L>To mirth, there is no spell 'gainst sorrow, like</L>
+<L>Two or three cups of wine.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Nothing believ't,</L>
+<L>Will make your soul so active, take it liberally.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I dare not trust my brain.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>You never tryed.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>You'l never know the pleasure then of drin∣king</L>
+<L>I have drunk my selfe into an Emperour.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>In thy own thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Why is't not rare, that wine</L>
+<L>Taken to the extent, should so delightfully</L>
+<L>Possess the imagination, I have had my Queens</L>
+<L>And Concubines—</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Fine fancies.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>The Kings health,</L>
+<L>Give me't in greater volum, these are acorns</L>
+<L><HI>Sueno</HI> to thee, I'me sprightly but to look out.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>What rare things will the flowing vertue raise,</L>
+<L>If but, the sight exalt you? to your grace,</L>
+<L>The Kings health.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Let it come, i'le trespasse once.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>That smile became you sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>This Cup doth warm me,
+<STAGE>Drinkes.</STAGE></L>
+<L>Methinks I could be merry.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Will your grace have any musick?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Any thing.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Strike lustily.
+<STAGE>Musicke.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I have begun no health yet Gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Now you must honour us.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Health to the Prince.</L>
+</SP>
+<SP>
+<PB N="41" REF="24"/>
+<SPEAKER>He.</SPEAKER>
+<L>That is your title sir,</L>
+<L>As you are Sonne to a Queene,</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>My father was no King, father? i'le drown</L>
+<L>The memory of that name.
+<STAGE>Drinkes.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>The Prince <HI>Turgesius</HI> health.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>He's not far off</L>
+<L>By the Court Computation—happinesse now</L>
+<L>To Prince <HI>Haraldus</HI> mistress.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>With devotion.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Alas, I am too young to have a mistress.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>Sir, you must crown it.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>These are complements</L>
+</SP>
+<STAGE>At Court, where none must want a drinking mistress.</STAGE>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Methinks loud musick should attend these Healths—</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>So, shall we dance?
+<STAGE>Drinkes.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>We want Ladies.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I am as light, thou shalt go for a Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Shall I?
+<STAGE>Dance.</STAGE></L>
+<L>Is not this better, then to sigh away</L>
+<L>Our spirits now?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I'me hot.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>A cup of wine is the most naturall cooler.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>You are my Physitians Gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Make it a health to my Lord <HI>Gotharus.</HI> <STAGE>Drinks:</STAGE></L>
+<L>I'le pledge it as heartily as he were my father.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Whose father?
+<STAGE><HI>Throws wine in</HI> Sueno's <HI>face.</HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Mine, I said.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Cry mercy.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Nay, 'tis but so much wine lost, fill't again.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I'le drink no more.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>What think you of a song?
+<STAGE>Song.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>A catch, to't boyes.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Shall we to bed Gentlemen?</L>
+<L>I did not sleep last night.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>If your Grace</L>
+<L><PB N="42" REF="25"/>Desire to sleep, there's nothing to prepare it</L>
+<L>Like to 'ther cup.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>A health to both your Mistresses.
+<STAGE>Drinks</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>You do us grace.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>There's hope of his conversion▪</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I am nos well, what wheels are in my brains?</L>
+<L>Philosophy affirms the earth moves not,</L>
+<L>'Tis here me thinks confuted, Gentlemen,</L>
+<L>You must be faine to lead me to some couch,</L>
+<L>Where I may take a nap, and then i'le thank you,</L>
+<L>I'le come agen to morrow.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Every day</L>
+<L>For a twelve-month.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>That will make you a good fellow.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE><HI>Enter Prince</HI> Turgesius, Reginaldus, <HI>Souldiers march∣ing,</HI> Olaus <HI>meets, they salute and whisper.</HI></STAGE>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>You tell me wonders.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>'Tis all truth, we must</L>
+<L>Stand on our guard, 'tis well we are provided.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>Is it not some device to make us feare,</L>
+<L>That at our entertainment we may find</L>
+<L>Our joyes more spatious.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>There is some device in't.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>It is not possible a father should</L>
+<L>Be so unkind to his own blood and honour.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>My life was threatned.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>Who durst threaten it?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>The King your father.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>Oh say not so good sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>And if you please him not with your behavi∣our,</L>
+<L>Your head may be soon humbled to the axe,</L>
+<L>And sent a token of his love, to your stepdame</L>
+<L>The Queen, I trifle not.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>For what sinnes</L>
+<L>Hath angry heaven decreed to punish <HI>Norway,</HI></L>
+<L>And lay the Scene of wrath in her own bowels?</L>
+<L><PB N="39" REF="25"/>I did suspect when none came forth to meet</L>
+<L>Our victory, to have heard of some mis-fortune,</L>
+<L>Some prodigies egendring: down with all</L>
+<L>Our pride of war, the Garlands we bring home</L>
+<L>Will but adorne us for the sacrifice;</L>
+<L>And while our hairs are deck'd with flowers and ribbands,</L>
+<L>We shall but march more gloriously to death.</L>
+<L>Are all good women dead within the Kingdom,</L>
+<L>There could be found none worth my fathers love,</L>
+<L>But one whose fame and honour is suspected?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Woulst they were but suspected.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>Marpisa?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Her preferment was no doubt</L>
+<L><HI>Gotharus</HI> act, for which 'tis whisper'd,</L>
+<L>She payes him fair conditions, while they both</L>
+<L>Case up the Kings eyes, or confine him to</L>
+<L>Look through such cunning opticks as they please.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>I'le have his heart.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>But how will you come by't?</L>
+<L>He's safe in the Kings bosome, who keeps warm</L>
+<L>A serpent, till he find a time to gnaw</L>
+<L>Out his preserver.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>We had dyed with honour</L>
+<L>By the Enemies sword, something might have been read</L>
+<L>In such a fall, as might have left no shame</L>
+<L>Upon our story, since 'tis chance of war,</L>
+<L>Not want of valour, gives the victory;</L>
+<L>This ship-wracks all, and eates into the soule</L>
+<L>Of all our fame, it withers all the deeds</L>
+<L>Is owing to our name.</L>
+</SP>
+<STAGE><HI>Entter</HI> Cortes.</STAGE>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>Health to the Prince,</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L><HI>Cortes,</HI> welcome, what news?</L>
+</SP>
+<SP>
+<PB N="40" REF="26"/>
+<SPEAKER>Co.</SPEAKER>
+<L>These Letters will inform his highness.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Sent, from the King <HI>Cortes?</HI> has he thought upon't?</L>
+<L>Are we considerable at last, and shall</L>
+<L>The Lady <HI>Geugaw,</HI> that is pearch'd upon</L>
+<L>His throne, be counsell'd not to take too much</L>
+<L>Upon her? will <HI>Gotharus</HI> give us leave</L>
+<L>To be acquainted with the King agen? ha!</L>
+</SP>
+<SP>
+<SPEAKER>Co.</SPEAKER>
+<L>These Letters came sir from <HI>Aquinus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>How?</L>
+<L>I hope he mentions not the broken pate</L>
+<L>I gave him, and complains on't to the Prince,</L>
+<L>I may be apt to make him an amends</L>
+<L>With such another.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>What's the matter?</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>Read, I am planet-stroke, cursed <HI>Gotharus!</HI></L>
+<L>What would the traytor have?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>'Tis here, I take it, he would have you sent</L>
+<L>Yonder, and has tooke order with <HI>Aquinus</HI></L>
+<L>For your conveyance hence, at both their charges;</L>
+<L>But now you know the plot, you wo' not trust</L>
+<L>Your life as he directs.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>Not trust <HI>Aquinus</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>You are desperate, hark you, I do suspect him,</L>
+<L>And I ha' cause, I broke his head at Court</L>
+<L>For his impertinent counsell, when I was</L>
+<L>In passion with the King, you sha'not trust him,</L>
+<L>This may be cunning to revenge himselfe,</L>
+<L>I know he has a spirit, come you sha' not</L>
+<L>Be cheated of your life, while I have one</L>
+<L>To counsell you.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>Uncle, I am unmov'd,</L>
+<L>He is a Souldier, to that name and honour</L>
+<L>I'le trust a Princes life, he dares not be</L>
+<L>A traytor.</L>
+</SP>
+<SP>
+<PB N="41" REF="26"/>
+<SPEAKER>Ol.</SPEAKER>
+<L>I have read that one Prince was</L>
+<L>So credulous, and scap'd, but <HI>Alexander,</HI></L>
+<L>Though he were great, was not so wise a Gentle∣man,</L>
+<L>As heaven in that occasion might have made him,</L>
+<L>The valiant confidence in his doctor, might</L>
+<L>Ha' gnawn his bowels up, and where had been</L>
+<L>My gallant Macedonian? come you shall</L>
+<L>Consider on't.</L>
+</SP>
+<SP>
+<SPEAKER>P.</SPEAKER>
+<L>I am resolv'd already,</L>
+<L>March to the City, every thought doth more</L>
+<L>Confirm me, passion will not let you see,</L>
+<L>Good Uncle with your pardon, the true worth</L>
+<L>And inside of <HI>Aquinus,</HI> he is faithfull,</L>
+<L>Should I miscarry, 'tis my single life,</L>
+<L>And 'tis obedience to give up our breath,</L>
+<L>When fathers shall conspire their Childrens death</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Act. 4.</HEAD>
+<STAGE><HI>Enter</HI> King, Gotharus.</STAGE>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>YOu may surrender up your Crown, 'twell shew</L>
+<L>Brave on <HI>Turgesius</HI> Temples, whose ambition</L>
+<L>Expects it.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Nay <HI>Gotharus</HI>—</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Has my care</L>
+<L>Cast to prevent your shame, how to preserve</L>
+<L>The glories you possesse, by cutting off</L>
+<L>A Canker that would eat into your trunck,</L>
+<L>And hinder your fair growth, and do you make</L>
+<L>A scruple to be cured?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I did but mention,</L>
+<L>And nature may excuse, he is my son.</L>
+</SP>
+<SP>
+<PB N="42" REF="27"/>
+<SPEAKER>Go.</SPEAKER>
+<L>The more your danger, when he dares be impious,</L>
+<L>The forfeit of his duty in this bold</L>
+<L>And hostile manner to affright your subjects,</L>
+<L>And threaten you with articles, is already</L>
+<L>The killing of your honour, and a treason</L>
+<L>Nature abhors, a guilt heaven trembles at,</L>
+<L>And you are bound in care of your own province,</L>
+<L>To shew your justice, and not be partiall</L>
+<L>To your own blood; but let your Kingdome suffer,</L>
+<L>Her heart be torn by civill Wars; 'tis none</L>
+<L>Of mine, and let him in the blood of many</L>
+<L>Fathers, be made a King, your King; and you</L>
+<L>That now command, be taught obedience,</L>
+<L>Creep to your child, exchange your pallace for</L>
+<L>A prison, and be humbled till you think</L>
+<L>Death a preferment, I have but a life—</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Which I will cherish, be not passionate,</L>
+<L>And I consent to all thou hast contained;</L>
+<L>Thou art my friend.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I would be sir, your honest Chyrurgion,</L>
+<L>And when you have a Gangrene in your limb,</L>
+<L>Not flatter you to death, but tell you plainly</L>
+<L>If you would live, the part so poyson'd must be</L>
+<L>Cut from your body.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>And I wo'not shake</L>
+<L>With horror of the wound, but meet my safety</L>
+<L>And thank my best preserver; but art sure</L>
+<L><HI>Aquinus</HI> will be resolute?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Suspect not,</L>
+<L>He is my Creature.</L>
+</SP>
+<STAGE><HI>Enter</HI> Hormenus.</STAGE>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>The Prince your Sonne—</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Is a bold Traytor.</L>
+<L>And they are Rebels joyne with him.</L>
+</SP>
+<SP>
+<PB N="43" REF="27"/>
+<SPEAKER>Go.</SPEAKER>
+<L>What of the Prince <HI>Hormenus</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>He is very near the City with his Army.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Are the walls fortified?</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>They are?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>We wo'not trust him, nor the Ruffian</L>
+<L><HI>Olaus,</HI> that Incendiary.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>The Queen.
+<STAGE>Enter Marpisa.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>O sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>There are more wounds in those sad accents,</L>
+<L>Then their rebellion can give my Kingdome.</L>
+</SP>
+<SP>
+<SPEAKER>Q.</SPEAKER>
+<L>My boy, my child, <HI>Haraldus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>What of him?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Is sick, is dying sir.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Forbid it heavens, he was in health—</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>But if I mean to see him</L>
+<L>A live, they say I must make hast,</L>
+<L>The comforts of my life expire with him.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>The Devils up in arms, and fates conspire</L>
+<L>Against us.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Mischiefes tumble like waves upon us.</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Sir, It will be necessary</L>
+<L>You lend your person to direct, what shall</L>
+<L>Be further done i'th City, <HI>Aquinus</HI> hath</L>
+<L>Charge of the Gate and Walls, that offer</L>
+<L>The first view to the Enemy.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>He is trusty, and</L>
+<L>A daring Souldier; what at stand <HI>Gotharus</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I was thinking of the Queen sir, and <HI>Haraldus,</HI></L>
+<L>And grieve for the sweet child.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Some feaver, would my</L>
+<L>Son were in his state, but soon we shall</L>
+<L>Conclude his destiny, if <HI>Aquinus</HI> prosper;</L>
+<L>But to the walls.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I attend, my very soule</L>
+<L>Is in a sweat, <HI>Hormenus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>I wait on you.
+<STAGE>Exeunt:</STAGE></L>
+</SP>
+<STAGE><PB N="44" REF="28"/>Enter <HI>Prince Turgesius, Olaus, Cortes, Re∣ginaldus, Souldiers.</HI></STAGE>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>The Gates are shut against us Souldiers.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Let our Engines</L>
+<L>Teare 'em, and batter down the walls.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Good Uncle,</L>
+<L>Your counsell I obey'd i'th wars abroad,</L>
+<L>We did there fight for honour, and might use</L>
+<L>All the most horrid formes of death to fright</L>
+<L>Our enemies, and cut our way to victory:</L>
+<L>But give me leave to tell you sir, at home</L>
+<L>Our conquest will be losse, and every wound</L>
+<L>We give our Country, is a crimson teare</L>
+<L>From our own heart, they are a viperous brood</L>
+<L>Gnaw through the bowels of their parent, I</L>
+<L>Will rather dye without a monument,</L>
+<L>Then have it bear my name, to have defaced</L>
+<L>One heap of stones.</L>
+</SP>
+<STAGE><HI>Enter</HI> Gotharus <HI>on the walls,</HI> Ho. Aqui.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L><HI>Gotharus</HI> on the walls?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L><HI>Hormonus</HI> and <HI>Aquinus</HI>? now a speech,</L>
+<L>And 'twere at Gallowes would become him better.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Thus from my master, to the Prince of <HI>Nor∣way,</HI></L>
+<L>We did expect, and had prepar'd to meet</L>
+<L>Your victory with triumphs, and with Garlands</L>
+<L>Due to your fate and valours, entertain'd you▪</L>
+<L>Nor has your Army sacrific'd so many</L>
+<L>Warm drops of blood, as we have shot up prayers</L>
+<L>That you might prosper, and return the pledge</L>
+<L>Of all our hope and glory. But when pride</L>
+<L>Of your own fames, and conquest in a war,</L>
+<L>Hath poyson'd the obedience of a Sonne,</L>
+<L>And tempted you to advance your sword, new bath'd</L>
+<L><PB N="45" REF="28"/>In enemies blood 'gainst your Countries bosome;</L>
+<L>Thus we receive you, and declare your pietie,</L>
+<L>And faith lost to your Country, and your Father.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>My Lord, all this concerns not me, we have</L>
+<L>But done our dutyes, and return to lay</L>
+<L>The Trophies at his feet, whose justice did</L>
+<L>Make us victorious more then our own valour,</L>
+<L>And now without all titles but his sonne,</L>
+<L>I dare hells accusation, to blast</L>
+<L>My humble thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Sir, give us leave to feare,</L>
+<L>Not your own nature, calme as the soft aire,</L>
+<L>When no rude wind conspires a mutiny—</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Leave Rethorique, and to'th point, why do not</L>
+<L>The Gates spread to receive us? and your joyes</L>
+<L>Shoot up in acclamations? I would have</L>
+<L>Thy house give good example to the City▪</L>
+<L>And make us the first-born fire.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Good heaven knows,</L>
+<L>How willingly I would sacrifice my selfe,</L>
+<L>To do a grateful service to the Prince:</L>
+<L>And I could wish my Lord, you were less passionate,</L>
+<L>And not inflame his Highnesse gentle spirit</L>
+<L>To these attempts.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I am ignorant <HI>Gotharus</HI></L>
+<L>Of what you mean, where is the King my father?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Where a sad father is, to know his Sonne</L>
+<L>Bring arms against his life.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>How now <HI>Aquinus,</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Dare you be saucy?</L>
+<L>O that Gentleman</L>
+<L>Is angry, his head akes with the remembrance of</L>
+<L>My Truncheon.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>'Twas a valiant act,</L>
+<L>And did become the greatness of <HI>Olaus,</HI></L>
+<L>Who by the priviledge of his birth, may do</L>
+<L><PB N="46" REF="29"/>A wrong and boast it.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Shall these Groomes affront us?</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Have you commission to be thus insolent,</L>
+<L>They do not know us?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Yes, and in our hearts</L>
+<L>Bleed, that our fears of your unjust demand,</L>
+<L>Compell us to this separation.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Demands? is it injustice for a Sonne</L>
+<L>To aske his fathers blessing? by thy duty</L>
+<L><HI>Gotharus,</HI> I command thee, tell my father</L>
+<L>His Sonne desires access, let me but speak with him.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I have not in your absence sir neglected,</L>
+<L>What did become my service to your highnesse,</L>
+<L>To take his anger off.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>What Riddles this?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>But let me with a pardon tell your Grace,</L>
+<L>The Letters that you sent, were not so dutyfull,</L>
+<L>You were to blame, to chide and Article</L>
+<L>So with a King and Father; yet I said,</L>
+<L>And pawn'd my Conscience 'twas no act of yours,</L>
+<L>I mean intyre, but wrought and form'd by some</L>
+<L>Rash spirits, to corrupt you with ambition,</L>
+<L>Feeding your youth with thought of hasty empire</L>
+<L>To serve their ends, whose counsell all this while</L>
+<L>Did starve that sweetness in you we all hop'd for.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Devices! more devices!</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I am amaz'd,</L>
+<L>And if the King will not vouchsafe me conference,</L>
+<L>I shall accuse thy cunning to have poyson'd</L>
+<L>My Fathers good opinion.
+<STAGE><HI>Enter</HI> King.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Innocence</L>
+<L>May thus be stain'd, pray let your justice clear me.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>What would our Sonne?</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Thus pay his filiall duty.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>'Tis but counterfet, if you bring no thought</L>
+<L>To force our blessing in this rude manner, how</L>
+<L><PB N="47" REF="29"/>Dare you approach? dismiss your souldiers.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Not the meanest knapsack,</L>
+<L>That were a way to bring us to the mercy</L>
+<L>Of wolves indeed, <HI>Gotharus</HI> grinds his teeth</L>
+<L>Already at us.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>We shall talk with you sir</L>
+<L>Hereafter, I command thee by thy duty</L>
+<L>Thou ow'st a father and a King, dismiss</L>
+<L>Your Troops.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I will.</L>
+</SP>
+<SP>
+<SPEAKER>Ola.</SPEAKER>
+<L>You shall not, that were fine,</L>
+<L>So we may run our heads into their noose,</L>
+<L>You give away your safty.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I will not</L>
+<L>Dispute my power, let my intreat prevaile</L>
+<L>For their dimission.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>You may dimiss</L>
+<L>Your head and mine, and be laugh'd at, these men</L>
+<L>Are honest, and dare fight for us.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I know</L>
+<L>Their loves, and will rewait; dear, dear Uncle.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>How he prepares his Tragedy <HI>Aquinus,</HI></L>
+<L>Let not thy hand shake.</L>
+</SP>
+<SP>
+<SPEAKER>Aqu.</SPEAKER>
+<L>I am resolute.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>And I, for thy reward, 'tis done, the souldiers</L>
+<L>Disperse already.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>If any mischiefe follow this,</L>
+<L>Thank your credulitie.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>May I now hope for access?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Descend <HI>Gotharus</HI> and <HI>Aquinus</HI></L>
+<L>To meet the Prince, while he containes within</L>
+<L>The piety of a Son, we shall imbrace him.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>When I degenerate, let me be accurst</L>
+<L>By heaven and you.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Are you not pale to think on't.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>It puzzels me to think my father guilty.</L>
+</SP>
+<SP>
+<PB N="48" REF="30"/>
+<SPEAKER>Ol.</SPEAKER>
+<L>I do not like things yet.</L>
+</SP>
+<STAGE>As the Prince is going forth, a Pistoll is dischar∣ged within, he falls.</STAGE>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>O I am shot, I am murder'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Inhumane Trayton, villaine.</L>
+</SP>
+<STAGE><HI>Olaus</HI> wounds <HI>Aquinus.</HI></STAGE>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>So, so, his <GAP DESC="illegible" REASON="blotted" EXTENT="2 letters" DISP="••"/>nd has saved my execution,</L>
+<L>'Tis not safe for me to stay, they are both sped rarely.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>O my dear Cousin, treason, treason.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Where?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>In thy own bosome, thou hast kil'd thy Sonne,</L>
+<L>Convey his body, guard it safe, and this</L>
+<L>Perfidious trunke i'le have it punish't</L>
+<L>Past death, and scatter his torn flesh about</L>
+<L>The world to affright mankind, thou art</L>
+<L>A murthdren, no blood of mine▪</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>'Tis done,</L>
+<L>And all the guilt dyes with <HI>Aquinus,</HI> falne</L>
+<L>By <HI>Olaus</HI> sword most happily, who but</L>
+<L>Prevented mine, this act concludes all feare.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>He was my sonne, I must needs drop a teare.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Haraldus <HI>discovered sicke,</HI> Queen, Doctors.</STAGE>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>It is not possible, he<GAP DESC="illegible" REASON="blotted" EXTENT="4 letters" DISP="••••"/>ch a feavor</L>
+<L>By excess of wine? he was all temperance.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>He had a soft and tender constitution,</L>
+<L>Apt to be inflam'd, they that are most abstemious,</L>
+<L>Feel the disorder with more violence.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Where, who assisted him in this mis-fortune?</L>
+<L>He had some company.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>He was invited</L>
+<L>He sayes by <HI>Sueno,</HI> and <HI>Helga,</HI> to a banquet,</L>
+<L>Where in their mirth, they careless of his health,</L>
+<L><PB N="49" REF="30"/>Suffered him drink too much.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>They poyson'd him,</L>
+<L>Go apprehend the murtherers of my child,</L>
+<L>If he recover not, their death shall wait</L>
+<L>Upon <HI>Haraldus</HI>; but pray you tell me Gentlemen,</L>
+<L>Is there no hope of life, have you not art</L>
+<L>Enough to cure a feavor?</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>We find Madam,</L>
+<L>His disease more malignant by some thought</L>
+<L>Or apprehensions of griefe.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>What griefe?</L>
+<L>Y'are all impostors, and are Ignorant</L>
+<L>But how to kill.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Is not my mother come?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Yes my deare sonne, and here shall weep my selfe</L>
+<L>Till I turne <HI>Niobe,</HI> unlesse thou givest me</L>
+<L>Some hope of thy own life.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I would say something</L>
+<L>Were you alone.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Leave us; now my <HI>Haraldus,</HI></L>
+<L>How is it with my child?</L>
+</SP>
+<SP>
+<SPEAKER>Hal.</SPEAKER>
+<L>I know you love me,</L>
+<L>Yet I must tell you truth, I cannot live,</L>
+<L>And let this comfort you, death will not come</L>
+<L>Unwelcome to your sonne, I do not dye</L>
+<L>Against my will, and having my desires,</L>
+<L>You have less cause to mourne.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>What is't has made</L>
+<L>The thought of life unpleasant, which does court</L>
+<L>Thy dwelling here with all delights that nature</L>
+<L>And art can study for thee, rich in all things</L>
+<L>Thy wish can be ambitious of, yet all</L>
+<L>These treasures nothing to thy mothers love,</L>
+<L>Which to enjoy thee would defer a while</L>
+<L>Her thought of going to heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Oh take heed mother, heaven</L>
+<L><PB N="50" REF="31"/>Has a spatious eare and power to punish,</L>
+<L>Your too much love with my eternal absence,</L>
+<L>I begge your prayers and blessing.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Th'art dejected,</L>
+<L>Have but a will and live.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>'Tis in vaine mother.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Sinke with a feavour into earth?</L>
+<L>Look up, thou shalt not dye.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I have a wound within</L>
+<L>You do not see, more killing then all feavors.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>A wound? where? who has murder'd thee?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Gotharus—</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Ha! furies persecute him.</L>
+</SP>
+<SP>
+<SPEAKER>Ha▪</SPEAKER>
+<L>Oh pray for him!</L>
+<L>'Tis my duty, though he gave me death,</L>
+<L>He is my father.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>How? thy father?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>He told me so, and with that breath destroy'd me,</L>
+<L>I felt it strike upon my spirits; mother,</L>
+<L>Would I had neer been born!</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Believe him not.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Oh do not add another sinne to what</L>
+<L>Is done already, death is charitable</L>
+<L>To quit me from the scorn of all the world.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>By all my hopes <HI>Gotharus</HI> has abus'd thee,</L>
+<L>Thou art the lawful burden of my wombe,</L>
+<L>Thy father, <HI>Altomarus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Ha?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Before whose spirit long since taken up,</L>
+<L>To meet with Saints and Troops Angelicall,</L>
+<L>I dare agen repeat thou art his Sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Ten thousand blessings now reward my mo∣ther!</L>
+<L>Speake it againe, and I may live, a stream</L>
+<L>Of pious joy runnes through me, to my soule</L>
+<L>Y'ave stroke a harmony next that in heaven;</L>
+<L>Can you without a blush, call me your Child,</L>
+<L><PB N="51" REF="31"/>And sonne of <HI>Altomarus</HI>? all that's holy</L>
+<L>Dwell in your blood for ever, speak it once,</L>
+<L>But once agen.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Were it my latest breath,</L>
+<L>Thou art his and mine.</L>
+<L>Enough, my tears do flow</L>
+<L>To give you thanks for't; I would you could resolve me</L>
+<L>But one truth more, why did my Lord <HI>Gotharus</HI></L>
+<L>Call me the issue of his blood?</L>
+</SP>
+<SP>
+<SPEAKER>Qu,</SPEAKER>
+<L>Alas, he thinks thou art—</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>What are those words? I am undone</L>
+<L>Agen.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Ha?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>'Tis too late to call 'em back, he thinks I am his son—</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I have confess'd too much, and tremble with</L>
+<L>The imagination, forgive me child,</L>
+<L>And heaven, if there be mercy to a crime</L>
+<L>So black, as I must now to quit thy fears,</L>
+<L>Say I have been guilty off, we have been sinful,</L>
+<L>And I was not unwilling to oblige</L>
+<L>His active braine for thy advancement, by</L>
+<L>Abusing his beliefe thou wer't his own,</L>
+<L>But thou hast no such staine, thy birth is innocent,</L>
+<L>Or may I perish ever, 'tis a strange</L>
+<L>Confession to a child, but it may drop</L>
+<L>A balsome to thy wound; live my <HI>Haraldus,</HI></L>
+<L>If not for this, to see my penitence,</L>
+<L>And with what tears i'le wash away my sinne.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I am no bastard then.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Thou art not.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>But I am not found while you are lost,</L>
+<L>No time can restore you,</L>
+<L>My spirits faint.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Will nothing comfort thee?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>My duty to the Kign.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>He's here.
+<STAGE>Enter King.</STAGE></L>
+</SP>
+<SP>
+<PB N="52" REF="32"/>
+<SPEAKER>Ki.</SPEAKER>
+<L>How is't <HI>Haraldus?</HI></L>
+<L>Death sits in's face.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Give me you blessing, and within my heart</L>
+<L>Ile pray you may have many, my soul flyes</L>
+<L>'Bove this vain world, good Mother close mine eyes</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Never dyed so much sweetnesse in his years.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Be comforted, I have lost my sonne too,</L>
+<L>The Prince is slaine, how now.</L>
+</SP>
+<STAGE><HI>Enter officers with</HI> Helga.</STAGE>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Justice upon the murderer of my sonne,</L>
+<L>This villaine <HI>Helga,</HI> and his companion</L>
+<L><HI>Sueno,</HI> have kil'd him, where's the other?</L>
+</SP>
+<SP>
+<SPEAKER>Offi.</SPEAKER>
+<L>Fled Madam,</L>
+<L>But <HI>Helga</HI> does confesse he made him drunk.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>But not dead drunk, I do beseech you Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Look here what your base surfet has destroy'd.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>'Twas <HI>Sueno</HI> as well as I, my Lord <HI>Gotharus</HI></L>
+<L>Gave us commission for what we did.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Again <HI>Gotharus,</HI> sure he plotted this.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Hang him up straight.</L>
+</SP>
+<SP>
+<SPEAKER>He.</SPEAKER>
+<L>I left no drink behind me,</L>
+<L>If I must dye let me have equall justice,</L>
+<L>And let one of your guard drink me to death sir;</L>
+<L>Or if you please to let me live till</L>
+<L><HI>Sueno</HI> is taken, we will drink and reele</L>
+<L>Out of the world together.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Hence, and hang him.
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE><HI>Enter</HI> Hormonus.</STAGE>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Sir, you must make provision against</L>
+<L>New danger, discontent is broke into</L>
+<L>A wild rebellion, and many of your subjects</L>
+<L>Gather in tumults, and give out they will</L>
+<L>Revenge the Princes death.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>This I did feare,</L>
+<L>Where's <HI>Gotharus</HI>? O my fright, my conscience,</L>
+<L><PB N="53" REF="32"/>Has furies in't, where's <HI>Gotharus</HI>?—</L>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Not in the Court.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I tremble with confusions.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I am resolv'd, my joyes are all expir'd,</L>
+<L>Nor can ambition more concern me now,</L>
+<L><HI>Gotharus</HI> has undone me in the death</L>
+<L>Of my loved Sonne, his fate is next, while I</L>
+<L>Move resolute i'le command his destiny.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE><HI>Enter</HI> Gotharus.</STAGE>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>How are we lost, the Prince <HI>Turgesius</HI> death</L>
+<L>Is of no use, since 'tis unprofitable</L>
+<L>To the great hope we stored up in <HI>Haraldus,</HI></L>
+<L>It was a cursed plot directed me</L>
+<L>To raise his spirit, by those giddy engines</L>
+<L>That have undone him, their souls reel to hell for't</L>
+<L>How will <HI>Marpisa</HI> weep her selfe into</L>
+<L>The obscure shades, and leave me here to grow</L>
+<L>A statue with the wonder of our fate.</L>
+</SP>
+<STAGE><HI>Enter</HI> Albina.</STAGE>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Do not trouble me.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Although</L>
+<L>I am not partner of your joyes or comfort,</L>
+<L>Yet let your cruelty be so mindfull of me</L>
+<L>I may divide your sorrows.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Would thy sufferings</L>
+<L>Could ease me of the weight, I would</L>
+<L>Empty my heart of all that's ill, to sinke thee,</L>
+<L>And bury thee alive, thy sight is hatefull,</L>
+<L>Aske me not why, but in obedience</L>
+<L>Fly hence into some wildernesse. The Queeen.</L>
+</SP>
+<STAGE>Enter Queene.</STAGE>
+<STAGE><HI>Exit</HI> Alb.</STAGE>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Great Queen, did any sorrow lade my bosome,</L>
+<L>But what does almost melt it for <HI>Haraldus,</HI></L>
+<L><PB N="54" REF="33"/>Your presence would revive me, but it seems</L>
+<L>Our hopes and joyes in him grew up so mighty,</L>
+<L>Heaven became jealous, we should undervalue</L>
+<L>The bliss of th'other world, and build in him</L>
+<L>A richer Paradice.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I have mourn'd already</L>
+<L>A mothers part, and fearing thy excess</L>
+<L>Of griefe, present my selfe to comfort thee,</L>
+<L>Tears will not call him back, and 'twill become us</L>
+<L>Since we two are the world unto our selves,</L>
+<L>(Nothing without the circle of our arm's</L>
+<L>Precious and welcome) to take heed our griefe</L>
+<L>Make us not oversoon, like him that dead,</L>
+<L>And our blood useless.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Were you present Madam,</L>
+<L>When your Sonne dyed?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I was.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>And did you weepe;</L>
+<L>And wish him live, and would not heaven at</L>
+<L>Your wish, return his wandering Ghost agen?</L>
+<L>Your voyce should make another out of Atomes;</L>
+<L>I do adore the harmony, and from</L>
+<L>One pleasant look, draw in more blessings</L>
+<L>Then death knows how to kill.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>He is recovered from his passion.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Whats this? ha?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Where?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Here, like a sudden winter</L>
+<L>Struck on my heart, I am not well o'th sudden, ha?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>My Lord, make use of this, 'tis Cordial,</L>
+<STAGE>Gives him a box of poyson.</STAGE>
+<L>I am often subject to these passions,</L>
+<L>And dare not walk without this Ivory box</L>
+<L>To prevent danger, they are pleasant,</L>
+<L>'Tis a most happy opportunity.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Let me present my thanks to my preserver,</L>
+<STAGE><PB N="55" REF="33"/><HI>Enter Albina.</HI></STAGE>
+<L>And kiss your hand.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Our lips will meet more lovingly.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>My heart will break.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Your Lady, we are betray'd,</L>
+<L>She see us kiss, and I shall hate her for't.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Does this offend your vertue?</L>
+</SP>
+<SP>
+<SPEAKER>Alb.</SPEAKER>
+<L>Y'are merciless,</L>
+<L>You shall be a less▪ Tyrant sir to kill me,</L>
+<L>Injurious Queen!</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Shall I be here affronted?</L>
+<L>I shall not think <HI>Gotharus</HI> worth my love,</L>
+<L>To let her breath forth my dishonour, which</L>
+<L>Her passion hath already dared to publish,</L>
+<L>Nor wanted she before an impudence</L>
+<L>To throw this poyson in my face.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I'le tame her.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Alb.</SPEAKER>
+<L>I wo'not curse you Madam, but you are</L>
+<L>The Cruel'st of all woman kind,</L>
+<L>I am prepared to meet your tyrannies.</L>
+</SP>
+<STAGE><HI>Enter</HI> Gotharus <HI>with a Pistol, at the other doore, a servant.</HI></STAGE>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>My Lord,</L>
+<L>We are undone, the common people are</L>
+<L>In arms, and violently assault our house,</L>
+<L>Threatning your Lordship with a thousand deaths,</L>
+<L>For the good Prince, whose murther they exclaime</L>
+<L>Contriv'd by you.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>The frends of hell will shew more mercy to me,</L>
+<L>Where shall I hide me?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Alas they'l kill me too.</L>
+</SP>
+<SP>
+<SPEAKER>Se.</SPEAKER>
+<L>There's no staying, they have broke the wall of the first Court,</L>
+<L>Down at some window sir.</L>
+</SP>
+<STAGE>Albina <HI>takes up the Pistoll.</HI></STAGE>
+<SP>
+<PB N="56" REF="34"/>
+<SPEAKER>Go.</SPEAKER>
+<L>Helpe me, O help me, i' me lost.</L>
+<L><STAGE>Within—</STAGE>
+Down with the doors,</L>
+<L>This way, this way.
+<STAGE>Enter Rebels.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>He that first moves this way</L>
+<L>Comes on his death, I can dispatch but one,</L>
+<L>And take your choise.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Alas good Madam, we do not come to trouble you</L>
+<L>You have sorrow enough, we would talk</L>
+<L>With my Lord your pagan husband.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>I, I, where is he?</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>That Traytor.</L>
+</SP>
+<SP>
+<SPEAKER>4.</SPEAKER>
+<L>Murderer of our Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Y'are not well informed,</L>
+<L><HI>Aquinus</HI> kill'd the Prince.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>But by my Lords correction</L>
+<L>We know his heart, and do meane to eat it.</L>
+<L>Therefore let him appeare, knock down the Lady</L>
+<L>You with the long bill.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>How dare you runne the hazard of your lives</L>
+<L>And fortunes, thus like out-laws, without authority</L>
+<L>To break into our houses, when you have done,</L>
+<L>What fury leads you to 't, you will buy too dear</L>
+<L>Repentance at the Gallows.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Hang the Gallowes, and give us my Lord your husband.</L>
+</SP>
+<STAGE>Enter Servant.</STAGE>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>He's escap'd Madam, now they may search.</L>
+</SP>
+<STAGE>Enter more Rebels.</STAGE>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>But where's the Queene, she must not be be∣trai'd.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>This way, this way, he got out of a window,</L>
+<L>And leap'd a wall, follow, follow.</L>
+<L><STAGE>Within—</STAGE>
+Follow, follow, follow.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>O my poor <HI>Gotharus.</HI></L>
+</SP>
+<STAGE><HI>Enter</HI> Queen.</STAGE>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Madam, you are secure, though you pursued</L>
+<L>My death, I wish you safety,</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I have been</L>
+<L><PB N="57" REF="34"/>Too cruell, but my fate compell'd me to't.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>I am become the extreamest of all miseries.</L>
+<L>Oh my unhappy Lord.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE><HI>Enter</HI> Sueno.</STAGE>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L><HI>Helga</HI> is hanged, what will become of me?</L>
+<L>I think I were best turn Rebel, there's no hope</L>
+<L>To walk without a guard, and that I shall not</L>
+<L>Want to the Gallowes, heathen Halberdiers</L>
+<L>Are used to have a care, and do rejoyce</L>
+<L>To see men have good ends.</L>
+</SP>
+<STAGE><HI>Enter</HI> Gotharus.</STAGE>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I am pursued.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<P>My Lord <HI>Gotharus</HI>? worse and worse, oh for a mist before his eyes.</P>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>You sha'not betray me sir.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Hold my Lord, I am your servant, honest <HI>Sueno.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L><HI>Sueno,</HI> off with that case, it may secure me,</L>
+<L>Quickly, or—</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Oh my Lord, you shall command my skin,</L>
+<L>Alas poor Gentleman, I'm glad I have it</L>
+<L>To do your Lordship service.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Nay, your beard too?</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Yes, yes, any thing:</L>
+<L>Alas my good Lord, how comes this?</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Leave your untimely prating, help,</L>
+<L>You'l not betray me.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>I'le first be hanged.</L>
+<L><STAGE>VVithin</STAGE>
+—Follow, follow.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Hell stop their throats; so, so, now thy re∣ward</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>It was my duty, troth sir I will have nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Yes, take that, and that, for killing of <HI>Haral∣dus.</HI>
+<STAGE>VVounds him.</STAGE></L>
+<L>Now I'm sure you will not prate.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>O murther.</L>
+<L><STAGE>VVithin</STAGE>
+—Follow, follow.</L>
+</SP>
+<SP>
+<PB N="58" REF="35"/>
+<SPEAKER>Go.</SPEAKER>
+<L>I cannot scape, oh help invention.</L>
+</SP>
+<STAGE><HI>He bloodies himselfe with</HI> Sueno's <HI>blood, and falls down as dead.</HI></STAGE>
+<STAGE>Enter Rebels.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>This way they say he went, what's he?</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>One of our company I think,</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>Who kil'd him?</L>
+</SP>
+<SP>
+<SPEAKER>4.</SPEAKER>
+<L>I know not.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Lets away, if we can find that Traytor,</L>
+<L>He shall pay for all▪</L>
+</SP>
+<SP>
+<SPEAKER>4.</SPEAKER>
+<L>Oh that I had him here, I'de teach him—</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>This way, this way.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Oh.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>Stay, There's one groans.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Oh—</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Nay 'twas here abouts, another dead?</L>
+</SP>
+<SP>
+<SPEAKER>4.</SPEAKER>
+<L>He has good cloathes, <HI>Gotharus?</HI> the very cur.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>'Tis <HI>Gotharus,</HI> I have seen the dog.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>'Tis he, 'tis he.</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L>Oh.
+<STAGE><HI>Exit</HI> Gotha.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Now 'tis not he, if thou canst speak my friend—</L>
+</SP>
+<SP>
+<SPEAKER>Su.</SPEAKER>
+<L><HI>Gotharus</HI> murdered me, and shifted cloathes,</L>
+<L>He cannot be far off, oh.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Thats he that lyes dead yonder, O that he were</L>
+<L>Alive againe, that we might kill him one after ano∣ther.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>He's gone:</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>The Devill he is, follow, follow.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>This way, he cannot scape us, farewell friend,</L>
+<L>i'le doe thee a courtecy.</L>
+<L>Follow, follow.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE>Enter <HI>Olaus, Prince, Aquinus.</HI></STAGE>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>So, so, in this disguise you may to'th Army,</L>
+<L>Who though they seem to scatter, are to meet</L>
+<L><PB N="59" REF="35"/>By my directions, honest <HI>Aquinus,</HI> you</L>
+<L>You wait on the Prince, but sir—
+<STAGE>Whispers.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Were you not wounded?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>I prepared a privie Coat, for that I knew <HI>Go∣tharus</HI></L>
+<L>Would have been too busie with my flesh else,</L>
+<L>But he thinks I'm slaine by the Duke, and hugges</L>
+<L>His fortune in't.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>You'l follow.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>And bring you news, perhaps the Rabble are</L>
+<L>In hot pursuite after the Polititian,</L>
+<L>He cannot scape them, they'l teare him like</L>
+<L>So many hungry Mastives.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I could wish they had him.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Lose no time, <HI>Cortes</HI> stay you with me,</L>
+<L>Not that I think my house will want your guard.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Command me sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Whas ever such a practise by a father,</L>
+<L>To take away his Sonnes life?</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I would hope he may not be so guilty, yet I know not</L>
+<L>How his false terrors multiplied by the Art</L>
+<L>Of this <HI>Gotharus</HI> may prevaile upon him,</L>
+<L>And win consent.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L><HI>Aquinus</HI> has been faithfull,</L>
+<L>And deceived all their treasons, but the Prince</L>
+<L>Is still thought dead, this empty Coffine shall</L>
+<L>Confirme the people in his funerall,</L>
+<L>To keep their thoughts revengeful,</L>
+<L><STAGE>VVithin.</STAGE>
+Follow, follow—</L>
+<L>Till we are possest of him that plotted all.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>The cry draws this way,</L>
+<L>They are excellent Blood-hounds.</L>
+</SP>
+<STAGE><HI>Enter</HI> Gotharus.</STAGE>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>As you are men, defend me from the rage</L>
+<L>Of the devouring multitude; I have</L>
+<L><PB N="60" REF="36"/>Deserv'd your anger, and a death, but let not</L>
+<L>My limbs inhumanely be torne by them,</L>
+<L>O save me.</L>
+<L><STAGE>VVithin.</STAGE>
+Follow, foll—</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Blest occasion.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>I am forced to take your house, and now im∣plore</L>
+<L>Your mercy, but to rescue me from them,</L>
+<L>And be your own revenger, yet my life</L>
+<L>Is worth your preservation for a time,</L>
+<L>Do it, and i'le reward you with a story</L>
+<L>You'l not repent to know.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>You cannot be safe here,</L>
+<L>Their rage is high, and every doore</L>
+<L>Must be left open to their violence,</L>
+<L>Unlesse you will obscure you in this Coffin,</L>
+<L>Prepared for the sweet Prince that's murder'd,</L>
+<L>And but expects his body which is now imbalming.</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>That, O y'are charitable.</L>
+<L><STAGE>VVithin.</STAGE>
+Follow, fol—</L>
+</SP>
+<SP>
+<SPEAKER>Go.</SPEAKER>
+<L>Their noise is Thunder to my soul,</L>
+<STAGE>He goes into the Coffin.</STAGE>
+<L>So, so.</L>
+<STAGE><HI>Enter</HI> Rebels.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ola.</SPEAKER>
+<L>How now Gentlemen, what means this Tu∣mult,</L>
+<L>Do you know that I possesse this dwelling?</L>
+</SP>
+<SP>
+<SPEAKER>Reb.</SPEAKER>
+<L>Yes my Lord,</L>
+<L>But we were told my Lord <HI>Gotharus</HI> entred,</L>
+<L>And we beseech you give him to our justice,</L>
+<L>He is the common enemy, and we know he killed the Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>You may search if you please,</L>
+<L>He can presume of small protection here,</L>
+<L>But I much thank you for your loyalties,</L>
+<L>And service to the Prince, whose bloodless ruines</L>
+<L>Are there, and do but wait when it will please</L>
+<L><PB N="61" REF="36"/>His father to reverse a cruell sentence,</L>
+<L>That keeps him from a buriall with his Ancestors,</L>
+<L>We are forbid to do him rights of funerall.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>How, not bury him?</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Forbid to bury our good Prince? we'l bury him,</L>
+<L>And see what Priest dare not assist us.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>Not bury him? we'l do't, and carry his body in triumph</L>
+<L>Through the City, and see him laid i'th great Tombs</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Not bury our Prince? that were a jest indeed.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>'Tis their love and duty.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>We'l pull the Church down, but we'l have our will.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>Deare Prince, how sweet he smels.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Come Countrymen march, and see who dares</L>
+<L>Take his body from us.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>You cannot helpe.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>They'l bury him alive.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>He's in a fright.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>So may all Traytors thrive.
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>Act. 5.</HEAD>
+<STAGE><HI>Enter</HI> King <HI>and</HI> Queene.</STAGE>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>OH I am lost, and my soul bleeds to thinke</L>
+<L>By my own dotage upon thee.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I was curst</L>
+<L>When I first saw thee, poor wind-shaken King!</L>
+<L>I have lost my Sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Thy honour impious woman,</L>
+<L>Of more price then a Sonne, or thy own life,</L>
+<L>I had a sonne too, whom my rashness sent</L>
+<L>To another world, my poor <HI>Turgesius,</HI></L>
+<L><PB N="62" REF="37"/>What sorcery of thy tongue and eyes betraid me?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I would I had been a Basilisk, to have shot</L>
+<L>A death to thy dissembling heart, when I</L>
+<L>Gave my selfe up thy Queen; I was secure,</L>
+<L>Till thou with the temptation of greatness</L>
+<L>And flattery, didst poyson my sweet peace,</L>
+<L>And shall thy base feares leave me now a prey</L>
+<L>To Rebels?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I had been happy to have left</L>
+<L>Thee sooner, but be gone, get to some wildernesse</L>
+<L>Peopled with Serpents, and engender with</L>
+<L>Some Dragon like thy self.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Ha, ha.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Dost laugh thou prodigie? thou shame of wo∣man?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Yes, and despise thee dotard, vex till thy soul</L>
+<L>Break from thy rotten flesh, I will be merry</L>
+<L>At thy last groan.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>O my poor boy! my sonne!</L>
+<L>His wound is printed here, that false <HI>Gotharus,</HI></L>
+<L>Your wanton Goat I feare, practis'd with thee</L>
+<L>His death.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>'Twas thy own act and timerous heart, in hope</L>
+<L>To be secure, I glory in the mention</L>
+<L>Thou murderer of thy sonne.</L>
+</SP>
+<STAGE><HI>Enter</HI> Hormenus.</STAGE>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<L>Oh sir, if ever, stand upon your guard,</L>
+<L>The Army which you thought scattered and broke,</L>
+<L>Is grown into a great and threatning body,</L>
+<L>Lead by the Duke <HI>Olaus</HI> your lov'd Uncle,</L>
+<L>Is marching hither, all your subjects fly to him.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Ha, ha.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Curse on thy spleene, is this a time for laugh∣ter,</L>
+<L>When horror should afflict thy guilty soule?</L>
+<L>Hence mischiefe.</L>
+</SP>
+<SP>
+<PB N="63" REF="37"/>
+<SPEAKER>Qu.</SPEAKER>
+<L>Not to obey thee, (shadow of a King)</L>
+<L>Am I content to leave thee, and but I wo'not</L>
+<L>Prevent thy greater sorrow and vexation,</L>
+<L>Now I would kill thee coward.</L>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Treason, treason.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I, I, Who comes to your rescue?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Are all fled?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Slaves do it naturally.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Canst thou hope to scape?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I am mistress of my fate, and do not feare</L>
+<L>Their inundation, their Army comming,</L>
+<L>It does prepare my triumph, they shall give</L>
+<L>Me libertie, and punish thee to live.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Undone, forsaken, miserable King!</L>
+</SP>
+<STAGE>Exeunt severally.</STAGE>
+<STAGE>Enter Prince, Olaus, Cortes, Aquinus, Souldiers.</STAGE>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Worthy <HI>Aquinus,</HI> I must honour thee,</L>
+<L>Thou hast preserv'd us all, thy service will</L>
+<L>Deserve a greater monument then thanks.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Thank the Duke, for breaking o' my pate.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>I know 'twas well bestow'd, but we have now</L>
+<L>Proof of thy honest heart.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>But what with your highness favour, do you meane</L>
+<L>To do with your father?</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Pay my duty to him,</L>
+<L>He may be sensible of his cruelty,</L>
+<L>And not repent to see me live.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>But with your favour, something else must be</L>
+<L>Considered, there's a thing he calls his Queen,</L>
+<L>A limbe of Lucifer, she must be rosted</L>
+<L>For the Armies satisfaction.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>They'l ne'r digest her,</L>
+<L>The Kings hounds may be kept hungry</L>
+<L>Enough perhaps, and make a feast upon her.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>I wonder how the rabble will bestow</L>
+<L><PB N="64" REF="38"/>The Coffin.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Why, they'l bury him alive</L>
+<L>I hope.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Did they suppose my body there?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>I'm sorry, he will fare so much the better,</L>
+<L>I would the Queen were there to comfort him,</L>
+<L>Oh they would smell, and sweat together rarely.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>He dare as soon be damn'd as make a noise,</L>
+<L>Or stirre, or cough.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>If he should sneeze.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>'Tis his best course to go into the ground</L>
+<L>With silence.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>March on, stay, what Trumpets that?</L>
+</SP>
+<STAGE>Enter Rebels with a Trumpet before the Coffin marching.</STAGE>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>They are no enemies, I know the Coffin.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>What rusty Regiment ha' we here?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>They are going to bury him, he's not yet disco∣vered;</L>
+<L>Oh do not hinder 'em, 'tis a work of charity:</L>
+<L>Yet now I do consider better on't,</L>
+<L>You may do well to shew your selfe, that may</L>
+<L>Be a meanes to waken the good Gentleman,</L>
+<L>And make some sport before the rascall smell,</L>
+<L>And yet he's in my nostrill, he has perfum'd</L>
+<L>His box already.</L>
+</SP>
+<SP>
+<SPEAKER>Om. Reb.</SPEAKER>
+<L>'Tis he, 'tis he, the Prince alive! hey.</L>
+</SP>
+<STAGE>They see the Prince throw downe the Coffin, and runne to kneele and embrace him.</STAGE>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>What would he give but for a knife to cut</L>
+<L>His own throat now?</L>
+</SP>
+<SP>
+<SPEAKER>Om. Rebel.</SPEAKER>
+<L>Our noble Prince alive?</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>That owes himselfe to all your loves.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>What? what trinkets ha' you there?</L>
+</SP>
+<SP>
+<SPEAKER>Reb.</SPEAKER>
+<L>The Duke <HI>Olaus</HI> told us 'twas the Princes bo∣dy,</L>
+<L><PB N="65" REF="38"/>Which we resolv'd to bury with magnificence.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>So it appeares.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>'Tis better as it is.</L>
+</SP>
+<SP>
+<SPEAKER>2. <HI>Reb.</HI></SPEAKER>
+<L>There's something in't, my shoulder is still sensible,</L>
+<L>Lets search, stand off—</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Now do you sent him Gentlemen? he wo'd forgive</L>
+<L>The hangman to dispatch him out o'th way;</L>
+<L>Now will these Masties use him like a Cat,</L>
+<L>Most dreadfull Rogues at an execution:</L>
+<L>Now, now.</L>
+</SP>
+<SP>
+<SPEAKER>1. <HI>Reb.</HI></SPEAKER>
+<L>'Tis a man, ha <HI>Gotharus,</HI> the thing we whet our teeth for.</L>
+</SP>
+<SP>
+<SPEAKER>Om. Reb.</SPEAKER>
+<L>Out with the traytor, and with the mur∣derer, hey, drag him.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>I told you.</L>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Reb.</HI></SPEAKER>
+<L>Hold, know your dutie fellow renagades,</L>
+<L>We do beseech thee high and mighty Prince,</L>
+<L>Let us dispose of what we brought, this traytor</L>
+<L>He was given us by the Duke, fortune has</L>
+<L>Thrown him into our teeth.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>And they'l devour him.</L>
+</SP>
+<SP>
+<SPEAKER>Om.</SPEAKER>
+<L>We beseech your highness.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>I doe acknowledge it, good sir grant their boone,</L>
+<L>And try the Caniballs.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Ile have an arme.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>Ile have a legge, I am a Shoomaker,</L>
+<L>His shinbone may be useful.</L>
+</SP>
+<SP>
+<SPEAKER>4.</SPEAKER>
+<L>I want a signe, give me his head.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Stay, let's first see him, is he not stifled?</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>I had rather my wife were speechlesse.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>The Coffin sir was never close.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>He does not stirre.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>We'l make him stir, hang him, he's but asleepe.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>He's dead, hum.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Dead? Then the Devill is not so wise as I took him.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>He's dead, and has prevented all their fury.</L>
+</SP>
+<SP>
+<PB N="66" REF="39"/>
+<SPEAKER>Aq.</SPEAKER>
+<L>He was not smother'd, the Coffin had aire enough.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>He might ha' liv'd to give these Gentlemen some content.</L>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Reb.</HI></SPEAKER>
+<L>Oh let us teare his limbs.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Let none use any violence to his body,</L>
+<L>I feare he has met reward above your punishment.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Let me have but his clothes.</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>He is a Taylor.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Onely to cut out a sute for a Tarytor by 'em,</L>
+<L>Or any man, my conscience would wish hang'd.</L>
+</SP>
+<SP>
+<SPEAKER>4.</SPEAKER>
+<L>Let me have a button for a relique—</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>No more.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>There is some mystery in his death.</L>
+<STAGE>Enter King.</STAGE>
+<L>The King? obscure a little nephew—</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>To whom now must I kneel? where is the King?</L>
+<L>For I am nothing, and deserve to be so,</L>
+<L>Unto you Uncle must I bow, and give</L>
+<L>My Crown, pray take it, with it give me leave</L>
+<L>To tell you, what it brings the hapless wearer,</L>
+<L>Beside the outside glory: for I am</L>
+<L>Read in the miserable fate of Kings.</L>
+<L>You thinke it glorious to command, but are</L>
+<L>More suject then the poorest payes you dutie,</L>
+<L>And must obey your fears, your want of sleepe,</L>
+<L>Rebellion from your Vassals, wounds even from</L>
+<L>Their very tongues, whose quietnesse you sweat for,</L>
+<L>For whose dear health you waste, and fright your</L>
+<L>Strength to palenesse, and your blood into a frost.</L>
+<L>You are not certaine of a friend or servant,</L>
+<L>To build your faith upon, your life is but</L>
+<L>Your subjects murmur, &amp; your death their sacrifice;</L>
+<L>When looking past your selfe, to make them blest</L>
+<L>In your succession, which a wife must bring you;</L>
+<L>You may give up your libertie for a smile</L>
+<L><PB N="67" REF="39"/>As I ha' done, and in your bosome cherish</L>
+<L>More danger then a warre or famine brings,</L>
+<L>Or if you have a sonne—my spirits faile me</L>
+<L>At naming of a sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Oh my deare father.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Ha! do not fright me in my tears, which should</L>
+<L>Be rather blood, for yeelding to thy death,</L>
+<L>I have let fall my penitence, though I was</L>
+<L>Counsel'd by him whose truth I now suspect,</L>
+<L>In the amaze and puzzle of my state—</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Dear sir, Let not one thought afflict you more,</L>
+<L>I am preserv'd to be your humble sonne still,</L>
+<L>Although <HI>Gotharus</HI> had contriv'd my ruine,</L>
+<L>'Twas counterplotted by this honest Captaine.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>I know not what to credit, art <HI>Turgesius</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>And do account your blessing, and forgiveness</L>
+<L>(If I have err'd) above the whole worlds Empire▪</L>
+<L>The Armie sir is yours.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Upon conditions—</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Good sir—and all safety meant your person▪</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Right, but for your gipsie Queene, that Co∣catrice.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>She's lost.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>The Devil find her.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>She's false.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>That Gentleman</L>
+<L>Jack in a Box, if he could speake,</L>
+<L>Would cleare that point.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Forgive me gentle boy.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Dear sir no more.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Best dismiss these Gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>The Princes bountie, now you may go home;</L>
+<L>And d'ee heare, be drunk to night, the cause re∣quires it.</L>
+</SP>
+<SP>
+<SPEAKER>R.</SPEAKER>
+<L>We'l shew our selves good subjects.</L>
+</SP>
+<SP>
+<SPEAKER>Om.</SPEAKER>
+<L>Heaven bless the King and Prince, and the good Duke.
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<SP>
+<PB N="68" REF="40"/>
+<SPEAKER>Ki.</SPEAKER>
+<L>My comforts are too mighty, let me poure</L>
+<L>More blessings on my boy.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Sir, I am blest▪</L>
+<L>If I stand faire in your opinion.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>And welcome▪ good <HI>Olaus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Y'are deceiv'd,</L>
+<L>I am a Ruffian, and my head must off</L>
+<L>To please the Monkey Madam that bewitch'd you,</L>
+<L>For being too honest to you.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>We are friends.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Upon condition that you will —</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>What?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Now have I forgot what I would have,</L>
+<L>Oh that my Ladie <HI>Circe</HI> that transform'd you,</L>
+<L>May be sent — whether? I ha' forgot agen,</L>
+<L>To the Devil, any whether, far enough:</L>
+<L>A curse upon her, she troubles me both when</L>
+<L>I think on her, and when I forget her.</L>
+</SP>
+<STAGE>Enter Albina.</STAGE>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L><HI>Gotharus</HI> wife, the sorrowful <HI>Albina.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>If pittie dwell within your royal bosome,</L>
+<L>Let me be heard; I come to find a husband,</L>
+<L>Ile not believe what the hard hearted rebels</L>
+<L>Told me, that he is dead, (they lov'd him not▪</L>
+<L>And wish it so) for you would not permit</L>
+<L>His murder here. You gave me, sir, to him</L>
+<L>In holy marriage, i'le not say, what sorrow</L>
+<L>My poor heart since hath been acquainted with,</L>
+<L>But give him now to me, and i'le account</L>
+<L>No blessing like that bountie; where, oh where</L>
+<L>Is my poor Lord? none tell me? are you all</L>
+<L>Silent, or deaf as Rocks? yet they sometimes</L>
+<L>Do with their hollow murmurs, answer men.</L>
+<L>This does increase my fears, none speak to me?</L>
+<L>I aske my Lord from you sir, you once lov'd him,</L>
+<L><PB N="69" REF="40"/>He had your bosome, who hath torne him thence?</L>
+<L>Why do you shake your head? and turn away?</L>
+<L>Can you resolve me sir? the Prince alive?</L>
+<L>Whose death they would revenge upon <HI>Gotharus.</HI></L>
+<L>O let me kisse your hand, a joy to see</L>
+<L>You safe, doth interrupt my griefe, I may</L>
+<L>Hope now my Lord is saf too, I like not</L>
+<L>That melancholly gesture; why do you make</L>
+<L>So dark your face, and hide your eies, as they</L>
+<L>Would shew an interest in sorrow with me.</L>
+<L>Where is my Lord? can you or any tell me</L>
+<L>Where I may find the comfort of mine eies,</L>
+<L>My husband; or but tell me that he lives,</L>
+<L>And I will pray for you—then he is dead</L>
+<L>Indeed I feare.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Poor Ladie.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Madam be comforted.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Why that's well said, I thank you gentle sir,</L>
+<L>You bid me be comforted, blessing on you,</L>
+<L>Shew me now reason for it, tell me something</L>
+<L>I may believe.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Madam, your husbands dead.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>And did you bid me sir be comforted</L>
+<L>For that? oh you were cruel▪ dead? who murdered him?</L>
+<L>For though he lov'd not me in life, I must</L>
+<L>Revenge his death.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Alas you cannot.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>No?</L>
+<L>Will not heaven heare me think you? for i'le pray</L>
+<L>That horror may pursue the guiltie head</L>
+<L>Of his black murderer, you doe not know</L>
+<L>How fierce and fatall is a widowes curse;</L>
+<L>Who kil'd him? saie.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>We know not.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Y'are unjust.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Pursue not sorrow with such inquisition</L>
+<L>Ladie.</L>
+</SP>
+<SP>
+<PB N="70" REF="41"/>
+<SPEAKER>Al.</SPEAKER>
+<L>Not I? who hath more interest?</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>The knowledge of what circumstance depriv'd him</L>
+<L>Of life, will not availe to his return;</L>
+<L>Or if it would, none here know more, then that</L>
+<L>He was brought hither dead in that inclosure.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Where?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>In that Coffin Ladie.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Was it charitie</L>
+<L>Made this provision for him? oh my Lord</L>
+<L>Now may I kisse thy wither'd lip, discharge</L>
+<L>Upon thy bosome a poor widowes tears;</L>
+<L>There's something tempts my heart to shew more dutie,</L>
+<L>And wait on thee to death, in whose pale dresse</L>
+<L>Thou dost invite me to be reconcil'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Remove that Coffin.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Y'are uncharitable;</L>
+<L>Is't not enough that he is rob'd of life</L>
+<L>Among you, but you'l rob me of his bodie?</L>
+<L>Poor remnant of my Lord; I have not had</L>
+<L>Indeed so many kisses a great while,</L>
+<L>Pray do not envie me, for sure I sha'not</L>
+<L>Die of this surfet, he thought not I was</L>
+<L>So neare to attend him in his last and long</L>
+<L>Progresse, that built this funerall tenement</L>
+<L>Without a roome for me; the sad <HI>Albina</HI></L>
+<L>Must sleepe by her dead Lord, I feel death coming,</L>
+<L>And as it did suspect, I durst not look</L>
+<L>On his grim visage, he has drawn a curtaine</L>
+<L>Of mist before my eies.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Look to the Ladie.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Look to <HI>Albina,</HI> our Physitians,</L>
+<L>There is not so much vertue more i'th Kingdome:</L>
+<L>If she survive this passion, she is worth</L>
+<L>A Prince, and I will court her as my blessing.</L>
+<L>Say, is there hope?</L>
+</SP>
+<SP>
+<SPEAKER>Phy.</SPEAKER>
+<L>There is.</L>
+</SP>
+<SP>
+<PB N="71" REF="41"/>
+<SPEAKER>Pr.</SPEAKER>
+<L>Above your lives preserve her.</L>
+</SP>
+<SP>
+<SPEAKER>Phy.</SPEAKER>
+<L>With our best art and care.</L>
+</SP>
+<STAGE><HI>Exit with</HI> Albina.</STAGE>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>She has almost made me woman too; but</L>
+<L>Come to other businesse.</L>
+</SP>
+<STAGE>Enter Queene.</STAGE>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>Is not this the Queene?</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>The Queen of hell, give her no hearing, but</L>
+<L>Shoot, shoot her presently without more repentance,</L>
+<L>There is a leacherous Devil in her eye,</L>
+<L>Give him more fire, his hell's not hot enough,</L>
+<L>Now shoot.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Be temperate good sir.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Nay let his cholerick highness be obey'd.</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>She is shot-free.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>The Prince alive? where is <HI>Gotharus?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Your friend that was.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>It is confest.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Your Stallion.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>He has more titles sure.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Let but some strangle her in her own haire.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>The office will become a noble hangman.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Whore—</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Ile not spend my breath upon thee,</L>
+<L>I have more use on't, does <HI>Gotharus</HI> live?</L>
+</SP>
+<SP>
+<SPEAKER>Aq.</SPEAKER>
+<L>You may conjecture Madam, if you turn</L>
+<L>Your eyes upon that object.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>It has wrought then.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>What has wrought?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>His Physick sir,</L>
+<L>For the state Megrim.</L>
+<L>A wholsome poyson, which in his poor feares,</L>
+<L>And fainting when the Rebels first pursu'd him,</L>
+<L>It was my happinesse to minister</L>
+<L>In my poor boyes revenge, kil'd by his practise.</L>
+</SP>
+<SP>
+<PB N="72" REF="42"/>
+<SPEAKER>Pr.</SPEAKER>
+<L>Poyson'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>She is turn'd Doctor.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>He becomes</L>
+<L>Deaths pale complexion, and now I'm prepar'd</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>For what?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>To die.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Prepar'd to be damn'd, a seven years killing</L>
+<L>Will be too little.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I pitty your poor rage,</L>
+<L>I sha'not stay so long, nor shall you have</L>
+<L>The honour sir to kill me.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>No, let me trie.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Ha, ha.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Dost thou laugh Helcat?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Yes, and scorne all your furies, I was not</L>
+<L>So improvident, to give <HI>Gotharus</HI> all</L>
+<L>My cordiall, you may trust the operation,</L>
+<L>Here's some to spare, if any have a mind</L>
+<L>To taste, and be assur'd, will you my Lord?</L>
+<L>'Twill purge your choler rarely.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Ile not be your patient I thank you.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>This box was ever my companion,</L>
+<L>Since I grew wicked with that Polititian,</L>
+<L>To prevent shameful death, nor am I coy</L>
+<L>To pleasure a friend in't.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Devils charity.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>It works with method, and doth kill dis∣creetly</L>
+<L>Without a noise, your Mercury is a rude</L>
+<L>And troublesome destroyer to this medicine;</L>
+<L>I feel it gently seize upon my vitals,</L>
+<L>'Tis now the time to steale into my heart.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Hast thou no thought of heaven?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Yes, I do think</L>
+<L>Sometimes, but have not heart enough to pray;</L>
+<L>Some vapour now rises 'twixt me and heaven,</L>
+<L>I cannot see't, lust and ambition ruin'd me:</L>
+<L><PB N="73" REF="42"/>If greatnesse were a priviledge i'th other</L>
+<L>World, it were a happiness to die a Queene,</L>
+<L>I find my conscience too late, 'tis bloody,</L>
+<L>And full of staines, oh I have been so wicked,</L>
+<L>'Twere almost impudence to aske a pardon,</L>
+<L>Yet for your own sakes pitty me; survive</L>
+<L>All happie, and if you can, forgive, forgive.</L>
+</SP>
+<STAGE>Moritun.</STAGE>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Those accents yet may be repentance.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>See's dead.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Some take their bodies hence.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Let them have buriall.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>'Tis in thee <HI>Turgesius</HI></L>
+<L>To dispose all, to whom I give my Crown;</L>
+<L>Salute him King by my example.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Stay,</L>
+<L>Upon your dutie staie, will you be traytors,</L>
+<L>Consent your lawful King should be depos'd?</L>
+<L>Sir, do not wound your Son, and lay so great</L>
+<L>A staine upon his hopeful, his green honour,</L>
+<L>I now enjoy good mens opinions,</L>
+<L>This change will make 'em think I did conspire,</L>
+<L>And force your resignation, were it still</L>
+<L>By justice and your selfe, it shall not touch</L>
+<L>My brow, till death translate you to a Kingdome</L>
+<L>More glorious, and you leave me to succeed,</L>
+<L>Better'd by your example in the practise</L>
+<L>Of a Kings power and dutie.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>This obedience</L>
+<L>Will with excess of comfort kill thy father,</L>
+<L>And hasten that command thou wouldst decline.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>Receive this Captain, and reward his faith</L>
+<L>To you and me.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>Be Captaine of our guard.</L>
+<L>And my good Uncle, to your eare I leave</L>
+<L>The Souldiers, let the largesse speak our bountie</L>
+<L>And your love.</L>
+</SP>
+<SP>
+<PB N="74" REF="43"/>
+<SPEAKER>Ol.</SPEAKER>
+<L>I, this sounds well fellow Souldiers,</L>
+<L>Trust me beside your pay for the Kings bountie.</L>
+<L><STAGE>Within Sol.</STAGE>
+Heaven preserve</L>
+<L>The King and Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Not a short prayer for me?</L>
+</SP>
+<SP>
+<SPEAKER>Om. Sol.</SPEAKER>
+<L>Heaven bless the Duke, heaven bless the Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Ol.</SPEAKER>
+<L>Why so, money will do much.</L>
+</SP>
+<SP>
+<SPEAKER>Ki.</SPEAKER>
+<L>A bright daie shines upon us, come my sonne,</L>
+<L>Too long a stranger to the Court, it now</L>
+<L>Shall bid thee wellcome, I do feel my years</L>
+<L>Slide off, and joy drown sorrow in my tears.</L>
+</SP>
+<STAGE>Exeunt omnes.</STAGE>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

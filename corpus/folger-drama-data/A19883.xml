@@ -1,0 +1,5949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2006-01-18</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked <SUP>s</SUP>. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 36 $s of 61. Converted 25 $s to GAP DESC="illegible" RESP="OXF". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A19883">
+<STC T="S">6309</STC>
+<BIBNO T="umi">99844961</BIBNO>
+<VID>9820</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="license">
+<PB REF="1"/>
+<P>THis Play, called <HI>THE WITTS,</HI> as it was Acted without offence, may bee Printed, not otherwise.</P>
+<CLOSER><DATELINE><DATE><HI>19. Ianuary 1635.</HI></DATE></DATELINE> <SIGNED>HENRY HERBERT.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>THE VVITTS.</P>
+<P>A Comedie, PRESENTED AT THE Private House in Blacke Fryers, by his Majesties Servants.</P>
+<P>The Authour <HI>VVILLIAM D'AVENANT,</HI> Servant to Her Majestie.</P>
+<P>LONDON, Printed for RICHARD MEIGHEN, next to the Middle Temple in Fleetstreet. 1636.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO THE CHIEFLY Belov'd of all that are Ingenious, and Noble, ENDYMION PORTER, of his Majesties Bedchamber.</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P><SEG REND="decorInit">T</SEG>Hough you covet not acknowledge∣ments, receive what belongs to you by a double title: your goodnesse hath preserv'd life in the Author; then rescu'd his worke from a cruel Faction; vvhich nothing but the forces of your reason, and your reputation could subdue. If it become your pleasure novv, as vvhen it had the advantage of presentation on the Stage, I shall be taught, to boast some merit in my selfe; but vvith this inference; you still (as in that doubtfull day of my triall) endeavour to make shevv of so much justice, as may countenance the love you beare to</P>
+<CLOSER><SIGNED>Your most oblieg'd, and thankfull humble Servant, <HI>WILLIAM DAVENANT.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3"/>
+<HEAD>TO THE READER OF M<SUP>r</SUP>. <HI>WILLIAM D'AVENANT</HI>'S Play.</HEAD>
+<L>IT hath been said of old, that Playes are Feasts,</L>
+<L>Poets the Cookes, and the Spectators Guests,</L>
+<L>The Actors Waiters: From this Similie,</L>
+<L>Some have deriv'd an unsafe libertie</L>
+<L>To use their Judgements as their Tastes, which chuse</L>
+<L>Without controule, this Dish, and that refuse:</L>
+<L>But Wit allowes not this large Priviledge,</L>
+<L>Either you must confesse, or feele it's edge;</L>
+<L>Nor shall you make a currant inference</L>
+<L>If you trans-fer your reason to your sense:</L>
+<L>Things are distinct, and must the same appeare</L>
+<L>To every piercing Eye, or well-tun'd Eare.</L>
+<L>Though sweets with yours, sharps best with my taste meet,</L>
+<L>Both must agree this meat's or sharpe or sweet:</L>
+<L>But if I sent a stench or a perfume,</L>
+<L>Whilst you smell nought at all, I may presume</L>
+<L>You have that sense imperfect: So you may</L>
+<L>Affect a sad, merry, or humerous Play,</L>
+<L>If, though the kind distaste or please, the Good</L>
+<L>And Bad, be by your Judgement understood;</L>
+<L>But if, as in this Play, where with delight</L>
+<L>I feast my Epicurean appetite</L>
+<L>With rellishes so curious, as dispence</L>
+<L>The utmost pleasure to the ravisht sense,</L>
+<L>You should professe that you can nothing meet</L>
+<L>That hits your taste, either with sharpe or sweet,</L>
+<L>But cry out, 'tis insipid; your bold Tongue</L>
+<L>May doe it's Master, not the Author wrong;</L>
+<L>For Men of better Pallat will by it</L>
+<L>Take the just elevation of your Wit.</L>
+<CLOSER><SIGNED>T. CAREVV.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="3"/>
+<HEAD>THE PROLOGVE.</HEAD>
+<L>BLesse mee you kinder Stars! How are wee throng'd?</L>
+<L>Alas! whom, hath our long sick-Poet wrong'd,</L>
+<L>That hee should meet together in one day</L>
+<L>A Session and a Faction at his Play?</L>
+<L>To Iudge, and to Condemne: For't cannot be</L>
+<L>Amongst so many here, all should agree.</L>
+<L>Then 'tis to such vast expectation rais'd,</L>
+<L>As it were to be wonder'd at, not prais'd:</L>
+<L>And this, good faith Sir Poet (if I've read</L>
+<L>Customes, or Men) strikes you, and your Muse dead!</L>
+<L>Conceave now too, how much, how oft each Eare</L>
+<L>Hath surfeited in this our Hemispheare,</L>
+<L>With various, pure, eternall Wit; and then</L>
+<L>My fine young Comick Sir, y'are kill'd agen.</L>
+<L>But 'bove the mischiefe of these feares, a sort</L>
+<L>Of cruell Spies (wee heare) intend a sport</L>
+<L>Among themselves; our mirth must not at all</L>
+<L>Tickle, or stir their Lungs, but shake their Gall.</L>
+<L>So this joyn'd with the rest, makes mee agin</L>
+<L>To say, You and your Lady Muse within</L>
+<L>Will have but a sad doome; and your trim Brow</L>
+<L>Which long'd for Wreathes, you must weare naked now;</L>
+<L>'Lesse some resolve out of a courteous pride,</L>
+<L>To like and praise what others shall deride:</L>
+<L>So they've their humor too; and wee in spight</L>
+<L>Of our dull Braines, will thinke each side i'th right.</L>
+<L>Such is your pleasant judgements upon Playes,</L>
+<L>Like Par'lells that run straight, though sev'rall wayes.</L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="4"/>
+<HEAD>The Persons of the Comedy.</HEAD>
+<LIST>
+<ITEM><HI>Pallatine the Elder,</HI> Richly Landed, and a Witt.</ITEM>
+<ITEM><HI>Pallatine the Younger,</HI> A Witt too, but lives on his exhi∣bition in Towne.</ITEM>
+<ITEM>Sir <HI>Morglay Thwack,</HI> A humorous rich old Knight.</ITEM>
+<ITEM>Sir <HI>Tirant Thrift,</HI> Guardian to the Lady <HI>Ample.</HI></ITEM>
+<ITEM><HI>Meager,</HI> A Souldier newly come from Holland</ITEM>
+<ITEM><HI>Pert,</HI> His Comrade.</ITEM>
+<ITEM><HI>Engine,</HI> Steward to Sir <HI>Tirant Thrift.</HI></ITEM>
+<ITEM>The Lady <HI>Ample,</HI> An Inheretrix, and Ward to Sir <HI>Tirant Thrift.</HI></ITEM>
+<ITEM><HI>Lucy,</HI> Mistresse to the Younger <HI>Pallatine.</HI></ITEM>
+<ITEM><HI>Ginet,</HI> Woman to the Lady <HI>Ample.</HI></ITEM>
+<ITEM><HI>Snore,</HI> A Constable.</ITEM>
+<ITEM>Mistresse <HI>Snore,</HI> His wife.</ITEM>
+<ITEM>Mistresse <HI>Queasie,</HI> Her Neighbour.</ITEM>
+<ITEM><HI>Watchmen, &amp;c.</HI> </ITEM>
+</LIST>
+<P>The Scene <HI>LONDON.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<HEAD><PB REF="4"/>THE VVITS.</HEAD>
+<DIV1 N="1" TYPE="act">
+<HEAD>ACT. 1. SCEN. 1.</HEAD>
+<STAGE>Enter Young Pallatine, Meager, Pert. Young Pallatine.</STAGE>
+<L><SEG REND="decorInit">W</SEG>Elcome o'shore <HI>Meager</HI>! Give me thy hand!</L>
+<L>Tis a true one, and will no more forsake</L>
+<L>A Bond, or Bill, then a good Sword; a hand</L>
+<L>That will shift for the Body, till the Lawes</L>
+<L>Provide for both.</L>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>Old Wine, and new Cloathes Sir,</L>
+<L>Make you wanton! D'you not see <HI>Pert,</HI> my Comrade?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Ambiguous <HI>Pert!</HI> hast thou danc'd to the Drum too?</L>
+<L>Could a Taff<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ta scarfe, a long Estridge whing,</L>
+<L>A stiffe Iron Doublet, and a Brazeele Pole</L>
+<L>Tempt thee from Cambrick sheets, fine active Thighs,</L>
+<L>From Caudles where the precious Amber swims?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Faith, wee have been to kill, wee know not whom,</L>
+<L>Nor why: Led on to break a Commandement,</L>
+<L>With the consent of Custom and the Lawes.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>Mine was a certaine inclination Sir</L>
+<L>To doe mischiefe, where good men of the Iury,</L>
+<L>And a dull Congregation of gray Beards</L>
+<L>Might urge no tedious Statute 'gainst my life!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Nothing but Honor could seduce thee, <HI>Pert!</HI></L>
+<L>Honor! which is the hope of the Youthfull,</L>
+<L>And the old Souldiers wealth, a jealousie</L>
+<L>To the Noble, and mist'ry to the wise.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>It was Sir, no Geographicall fancie</L>
+<L>(Cause in our Maps, I lik'd this Region here</L>
+<L>More than that Countrey lying there) made mee</L>
+<L>Partiall which to fight for.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>True, sage <HI>Pert.</HI></L>
+<L>What is't to thee whether one <HI>Don Diego</HI></L>
+<L><PB REF="5"/>A Prince, or <HI>Hans van Holme,</HI> Fritter seller</L>
+<L>Of <HI>Bombell,</HI> doe Conquer that Parapet,</L>
+<L>Redout, or Towne, which thou nere saw'st before?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Not a brasse Thimble to mee! but Honor!—</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Why right! els wherfore shouldst thou bleed for him,</L>
+<L>Whose Money, Wine, nor Wench, thou nere hast us'd?</L>
+<L>Or why destroy some poore Root-eating Souldier,</L>
+<L>That never gave thee the ly, deny'd to pledge</L>
+<L>Thy Cockatrices health, nere spit upon</L>
+<L>Thy Dog, jear'd thy Spur-leather, or return'd</L>
+<L>Thy Tooth-pick ragged, which hee borrowed whole?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Never to my knowledge!</P>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>Comrade! tis time —</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>What, to unship your Trunkes at <HI>Billings gate?</HI></L>
+<L>Fierce <HI>Meager!</HI> why such haste? doe not I know,</L>
+<L>That a Mouse yoak'd to a Pescod, may draw</L>
+<L>With the fraile Cordage of one haire, your Goods</L>
+<L>About the World?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Why wee have Linnen Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pallat.</SPEAKER>
+<L>As much Sir as will fill a Tinder Box,</L>
+<L>Or make a Frog a shirt. I like not friends,</L>
+<L>This quiet, 'mo iest posture of your Shoulders!</L>
+<L>Why stir you not, as you were practising</L>
+<L>To Fence, or doe you hide your Cattell, least</L>
+<L>The Skipper make you pay their passage over?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Know <HI>Pallatine</HI>! Truth is a naked Lady,</L>
+<L>Shee will shew all! <HI>Meager,</HI> and I have not—</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>The Treasure of Saint <HI>Marks</HI> I believe Sir,</L>
+<L>Though you are as rich as cast Servingmen,</L>
+<L>Or Bawdes led thrice into Captivity!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Thou hast a heart of the right stamp; I find</L>
+<L>It is not comely in thine eyes, to see</L>
+<L>Vs Sons of war walke by the pleasant Vines</L>
+<L>Of Gascoiny, as wee believ'd the Grapes</L>
+<L>Forbidden Fruit: sneake through a Taverne with</L>
+<L>Remorse, as wee had read the Alcharon,</L>
+<L>And made it our best Faith.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>And abstaine flesh,</L>
+<L>As if our English Beefe were all reserv'd</L>
+<L>For Sacrifice.</L>
+</SP>
+<SP>
+<PB REF="5"/>
+<SPEAKER>Pert</SPEAKER>
+<L>Whilst <HI>Colon</HI> keepes more noyse</L>
+<L>Than Mariners at Playes, or Apple-wives</L>
+<L>That wrangle for a Sive!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>Contribute, come!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Stand there close on you lives! here in this house</L>
+<L>Lives a rich old Hen, whose young Egge. (though not</L>
+<L>Of her owne laying) I have in the Embers!</L>
+<L>Shee may prove a Morsell for a discreet Mouth,</L>
+<L>If the kind Fates have but the leasure to</L>
+<L>Betray the old one.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L><HI>Pallatine.</HI></L>
+<L>No plots upon generation; wee two</L>
+<L>Have fasted so long, that wee cannot thinke</L>
+<L>Of begetting any thing, unlesse</L>
+<L>Like Cannibals, wee might eate our owne Issue.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<P>I say close; shrinke in your Morions! goe!</P>
+</SP>
+<SP>
+<SPEAKER>Meager.</SPEAKER>
+<P>Why hidden thus? a Souldier may appeare.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Yes in a Sutlers Hut on the Pay-day:</L>
+<L>But doe you know the silence of this house,</L>
+<L>The gravity and awe? here dwels a Lady,</L>
+<L>That hath not seene a street, since good King <HI>Harry</HI></L>
+<L>Cald her to a Masque: shee is more devout</L>
+<L>Then a Weaver of <HI>Banbury,</HI> that hopes</L>
+<L>T'intice Heaven (by singing) to make him Lord</L>
+<L>Of twenty Loomes. I never saw her yet:</L>
+<L>And to arrive at my preferment first,</L>
+<L>In your sweet company will (I take it)</L>
+<L>Add but little to my hopes. Retire! goe!</L>
+</SP>
+<STAGE>They step aside, whilst he cals betweene the Hangings</STAGE>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>We shall obey, but doe not tempt us now</L>
+<L>With sweet meates for the neather Pallat! doe not—</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>VVhat <HI>Lucy! Luce!</HI> now is the old Beldame</L>
+<L>Misleading her to a Cushion; where she</L>
+<L>Must pray, and sigh, and fast, untill her knees</L>
+<L>Grow smaller then her Knockles. <HI>Lucy! Luce.</HI></L>
+<L>No hope! she is undone! shele number o're</L>
+<L>As many Orisons, as if she had</L>
+<L>A Bushell of Beades to her Rosary!</L>
+<L><HI>Lucy!</HI> my Aprill love! my Mistresse speake! —</L>
+</SP>
+<STAGE>Enter Lucy.</STAGE>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Pallatine, for Heavens sake keepe in your voice!</L>
+<L><PB REF="6"/>My cruell Aunt will heare, and I am lost.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>VVhat can she heare, when her old eares are <GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/>uff'd</L>
+<L>With as much warme waxe, as will seale nine Leases?</L>
+<L>What a pox does she listning upon earth?</L>
+<L>I'st not time for her t'affect privacie?</L>
+<L>To creepe into a close darke Vault, there gossip.</L>
+<L>With wormes, and such small tame creatures, as Heaven</L>
+<L>Provided to accompany old People?</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Still better'd unto worse! but that my heart</L>
+<L>Consents not to disfigure thee, thou wouldst be torne</L>
+<L>To pieces numberlesse as sand, or as</L>
+<L>The doubts of guilt, or love, in Cowards are!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>How now <HI>Luce!</HI> from what strange coast this storm! hah!</P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Thou dost out-drinke the youth of <HI>Norway</HI> at</L>
+<L>Their Marriage feasts, out-sweare a puny Gamster</L>
+<L>When his first misfortune rages out quarrell,</L>
+<L>One that rides post, and is stopt by a Cart:</L>
+<L>Thy walking houres are later in the night,</L>
+<L>Then those which Drawers, Traytors, or Constables</L>
+<L>Th<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>mselves doe keepe; for VVatchmen know thee better</L>
+<L>Then their Lanthorne! and here's your Surgeons Bill,</L>
+<L>Your kind thrift (I thanke you) hath sent it me</L>
+<L>To pay, as if the poore exhibition</L>
+<L>My Aunt allowes for Aprons, would maintaine</L>
+<L>You in Seareclothes.—
+<STAGE>Gives him a paper.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Meger.</SPEAKER>
+<L>Can the Daughters of <HI>Brabant</HI></L>
+<L>Talke thus when <HI>Younker-gheek</HI> leads'em to a Stove?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>I say (<HI>Meager</HI>) there is a small parcell</L>
+<L>Of Man, that rebels more then all the rest</L>
+<L>Of his body, and I shall need (if I</L>
+<L>Stay here) no Elixer of Beefe to exalt</L>
+<L>Nature, though I were leaner then a groat!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>This Surgeon's a Rogue <HI>(Luce)</HI> a fellow <HI>Luce</HI></L>
+<L>That hath no more care of a Gentlemans</L>
+<L>Credit, then of the Lint, he hath twice us'd!</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>VVell Sir, but what's that Instrument he names?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall</SPEAKER>
+<L>He writes down here for a toole of Injection</L>
+<L><HI>Luce,</HI> a small water Engine which I bought</L>
+<L>For my Taylors Child to squirt at Prentises!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>I Sir, he sins more against wit then Heaven,</L>
+<L><PB REF="6"/>That knowes not how t'excuse what he hath done!</L>
+<L>I shall be old at twenty <HI>Pallatine,</HI></L>
+<L>My griefe to see thy manners, and thy mind</L>
+<L>Hath wrought so much upon my heart!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>I'de as live keepe our Marriage Supper</L>
+<L>In a Churchyard, and beget our Children</L>
+<L>In a Coffin, as heare thee prophesie;</L>
+<L><HI>Luce,</HI> thou art drunke <HI>Luce</HI>; farre gone in Almond Milke,</L>
+<L>Kisse me!—</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Now I dissolve like an Eringo?</P>
+</SP>
+<SP>
+<SPEAKER>Meager.</SPEAKER>
+<P>He's ploughing o'the Indies, good Gold appeare!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>I am a new man <HI>Luce</HI>; thou shalt find me</L>
+<L>In a Geneva-band, that was reduc'd</L>
+<L>From an old Alder-mans Cuffe; no more haire left</L>
+<L>Then will shakle a flea; this debash'd Whineyard,</L>
+<L>I will reclaime to comely Bow and Arrowes,</L>
+<L>And shoot with Haberdashers at <HI>Finsbury,</HI></L>
+<L>And be thought the Grand-child of <HI>Adam-Bell</HI>!</L>
+<L>And more (my <HI>Luce</HI>) hang at my velvet Girdle,</L>
+<L>A Booke wrapp'd in a greene Dimity Bagge,</L>
+<L>And squire thy untooth'd Aunt to an exercise.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>Nothing but strict Lawes, and age will tame you.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<P>What money hast thou <HI>Luce?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>I there's your busines.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>It is the busines of the world: Injuries grow.</L>
+<L>To get it, Iustice sits for the same end;</L>
+<L>Men are not wise without it; for it makes</L>
+<L>Wisedome knowne; and to be a Foole, and poore,</L>
+<L>Is next t'old Aches and bad Fame; tis worse</L>
+<L>Than to have six new Creditors, they each</L>
+<L>Twelve Children, and not bread enough to make</L>
+<L>The Landlord a Tost, when hee cals for Ale</L>
+<L>And Rent. Think on that, and rob thy Aunts Trunks</L>
+<L>Ere shee hath time to make an Inventory.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>A cunning Pioner! hee works to th'bottome.</P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Hast thou no taste of Heav'n? wert thou begot</L>
+<L>In a Prison, and bred up in a Galley?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L><HI>Luce</HI>! I speake like one that hath seene the Booke</L>
+<L>Of Fate: I'm loath (for thy sake) to mount a Coach</L>
+<L>With two wheeles; whilst the Damzels of the Shop</L>
+<L><PB REF="7"/>Cry out, A goodly strait chin'd Gentleman!</L>
+<L>Hee dyes, for robbing an Atturnies Cloak-bag</L>
+<L>Of Copper-seales, foule Night-caps, together</L>
+<L>With his wives Bracelet of Mill-Testers!</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>There Sir!—
+<STAGE>Flings him a Purse.</STAGE></L>
+<L>Tis gold! my Pendants, Carckanets, and Rings,</L>
+<L>My Christning Caudle-cup, and Spoones</L>
+<L>Are dissolv'd into that Lumpe. Nay, take all!</L>
+<L>And with it as much anger as would make</L>
+<L>Thy Mother write thee illegitemate!</L>
+<L>See me no more! I will not stay to blesse</L>
+<L>My gift; lest I should teach my patience suffer</L>
+<L>Till I convert it into Sin.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Temptations will not thrive. This Bagadge sleeps</L>
+<L>Crosse legg'd, and the Devill has no more power</L>
+<L>O're that charme, than dead Men o're their lewd Heires.</L>
+<L>I must marry her, and spend my revenue</L>
+<L>In Cradles, Pins, and Sope! That's th'end of all</L>
+<L>That scape a deepe River, and a tall Bough.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P><HI>Pallatine!</HI> How much?</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Honorable <HI>Pall!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Gentlemen, you must accept without gaging</L>
+<L>Your corporall Oathes, to repay in three dayes!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Not wee <HI>(Pall)</HI> in three Iubilies, feare not!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Nor shall you charge mee with loud vehemence</L>
+<L>(Thrice before company) to wait you in</L>
+<L>My chamber such a night; for then, a certaine</L>
+<L>Drover of the South comes to pay you money!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>On our new Faithes!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>On our Allegiance <HI>Pall</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Go then!—shift, and brush your skins well, d'you hear!</L>
+<L>Meet me at the new Play; faire, and perfum'd!</L>
+<L>There are strange words hang on the lips of Rumor!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Language of joy deere <HI>Pall</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>This day is come</L>
+<L>To Towne, the Minion of the womb (my Lads)</L>
+<L>My elder Brother, and hee moves like some</L>
+<L>Assyrian Prince; his Chariots measure Leagues</L>
+<L>Witty, as youthfull Poets in their wine!</L>
+<L>Bold as a Centaure at a Feast, and kind</L>
+<L><PB REF="7"/>As Virgins that were nere beguild with love!</L>
+<L>I seeke him now, meet and triumph!</L>
+<L><HI>Meager,</HI> King <HI>Pall</HI>!—
+<STAGE>Exeunt Omnes.</STAGE></L>
+<L><HI>Pert.</HI></L>
+</SP>
+<STAGE>Enter Sir Morglay Thwack, Eld. Pallatine, new and richly clothed, buttoning themselves.</STAGE>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>Sir <HI>Morglay!</HI> come! the houres have wings, and you</L>
+<L>Are growne too old, t'overtake them: The Towne</L>
+<L>Lookes (me thinkes) as it would invite the Countrey</L>
+<L>To a Feast.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>At which Serjeants and their Yeomen</L>
+<L>Must be no Waiters <HI>(Pallatine)</HI> lest some</L>
+<L>O'the Guests pretend busines: how dost like me?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>As one, old women shall no more avoid,</L>
+<L>Then they can warme Furs or Muskadell!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack,</SPEAKER>
+<L><HI>Pallatine</HI>! to have a volatile Ache,</L>
+<L>That removes oftner then the Tartars Campe;</L>
+<L>To have a stich that fucks a man awry,</L>
+<L>Till he shew crooked as a Chestnut Bough,</L>
+<L>Or stand in the deform'd Guard of a Fencer;</L>
+<L>To have these hid in Flesh, that has liv'd sinfull</L>
+<L>Fifty long yeares; yet husband, so much strength</L>
+<L>As could convay mee hither, fourscore Miles</L>
+<L>On a disigne of Wit, and glory may</L>
+<L>Be Registred for a strange Northerne Act.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>I cannot boast those Noble Malladies</L>
+<L>As yet; but Time (deare Knight) as I have heard,</L>
+<L>May make mans knowledge bold upon himselfe.</L>
+<L>We travell in the grand cause! These smooth Rags,</L>
+<L>These Iewels too, that seeme to smile e're they</L>
+<L>Betray, are certaine silly snares, in which</L>
+<L>Your Lady-wits, and their wise Compeers-Male</L>
+<L>May chance be caught!</L>
+</SP>
+<STAGE>Enter Young Pallatine.</STAGE>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Your welcome (Noble Brother)</L>
+<L>Must be hereafter spoke, for I have lost</L>
+<L>With glad haste to find you, much of my Breath! —</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<P>Your joy becomes you it hath Courtship in't!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Sir <HI>Morglay Thwack!</HI> I did expect to see</L>
+<L>The Archer <HI>Cimbeline,</HI> or old King <HI>Lud</HI></L>
+<L><PB REF="8"/>Advance his Fauchion here agen, e're you</L>
+<L>'Mongst so much smoke, diseases, Law, and noyse!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>What your Towne gets by mee, let'um lay up</L>
+<L>For their Orphans, and Record in their Annals!</L>
+<L>I come to borrow where Ile never lend,</L>
+<L>And buy what Ile never pay for.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<P>Not your Debts?</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>No Sir, though to a poore Brownists widdow!</L>
+<L>Though shee sigh all night, and have the next morning</L>
+<L>Nothing to drinke, but her owne Teares.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>Nor shalt thou lend money to a sick friend,</L>
+<L>Though the sad worme ly morgag'd in his bed</L>
+<L>For the hire of his Sheets.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>These are Resolves,</L>
+<L>That give mee newer wonder than your Cloathes;</L>
+<L>Why in such shining Trim, like Men that come</L>
+<L>From rifled Tents, loaden with victory?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>Yes Brother, or like eager heires new dipp'd</L>
+<L>In Inke, that seal'd the day before in haste,</L>
+<L>Lest Parchment should grow deere. Know Youth wee come</L>
+<L>To be the businesse of all Eyes, to take</L>
+<L>The wall of our S<SUP>t</SUP>. <HI>George</HI> on his Feast day!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Yes, and then imbarke at <HI>Dover,</HI> and doe</L>
+<L>The like to S<SUP>t</SUP>. <HI>Dennis:</HI> All this (young Sir)</L>
+<L>Without charge too; I meane, to us; wee bring</L>
+<L>A humerous odd Phylosophy to Towne</L>
+<L>That sayes, pay nothing!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>Why, where have I liv'd?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>Brother be calme, and edifie! But first</L>
+<L>Receive a Principle, never hereafter</L>
+<L>(From this warme breathing, till your last cold sigh)</L>
+<L>Will I disburse for you agen; Never!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Brother mine, if that be your Argument,</L>
+<L>I deny the Maior!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>Resist Principles?</P>
+</SP>
+<SP>
+<SPEAKER>El. Pal.</SPEAKER>
+<L>Good faith, though you should send me more Epistles</L>
+<L>Than young Factors in their first voyage write</L>
+<L>Vnto their short hair'd Friends; than absent Lovers</L>
+<L>Pen neere their Mariage weeke, t'excuse the slow</L>
+<L>Arrivall of the License, and the Ring,</L>
+<L>Not one clipp'd penny should depart my reach.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>This Doctrine will not passe, how shall I live?</P>
+</SP>
+<SP>
+<PB REF="8"/>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>As we intend to doe, by our good witts!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>How, Brother, how?</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Truth is a pleasant knowledge;</L>
+<L>Yet you shall have her cheape, Sir <HI>Morglay</HI> here,</L>
+<L>(My kind Disciple) and my selfe, have leas'd</L>
+<L>Out all our Rents and Lands for pious uses!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>What, <HI>Co-founders!</HI> give Legacies ere death!</L>
+<L><HI>Pallatine</HI> the pious, and S<SUP>t</SUP> <HI>Morglay!</HI></L>
+<L>Your names will sound but ill ith Kallender.</L>
+<L>How long must this fierce raging zeale continue?</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Till we subsist here no more by our wit,</L>
+<L>Then weele renounce the Towne, and patiently</L>
+<L>Vouchsafe to reassume our Mother Earth,</L>
+<L>Lead on our Ploughs into their rugged walkes</L>
+<L>Agen, grope our young Heifers in the flanke,</L>
+<L>And swagger in the wooll, wee shall borrow</L>
+<L>From our owne flocks.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>But ere we goe, we may</L>
+<L>From the vast treasure purchas'd by our wit,</L>
+<L>Leave heere some Monument to speake our Fame.</L>
+<L>I have a strong mind to reedifie</L>
+<L>The decayes of <HI>Fleet-Ditch,</HI> from whence I heare</L>
+<L>The roaring <HI>Vestals</HI> late are fled, through heat</L>
+<L>Of persecution.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>What a small star have I,</L>
+<L>That never yet could light mee to this way!</L>
+<L>Live by our wits?</L>
+</SP>
+<SP>
+<SPEAKER>El: Pall.</SPEAKER>
+<L>So live, that Usurers,</L>
+<L>Shall call their Moneys in, remove their Banke</L>
+<L>T' Ordinaries, Spring-garden, and Hide-parke,</L>
+<L>Whilst their glad Sons are left seven for their chance,</L>
+<L>At Hazard, Hundred, and all made at Sent;</L>
+<L>Three motly Cocks o'th right Derby straine,</L>
+<L>Together with a Foale of Beggibrigge!</L>
+</SP>
+<SP>
+<SPEAKER>Thwa.</SPEAKER>
+<L>Sir, I will match my Lord Maiors horse, make <HI>Iockeys</HI></L>
+<L>Of his Hench-boyes, and run 'em through Cheap-side.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>What beauties Girles of feature governe now</L>
+<L>I'th towne? tis long since wee did traffique here,</L>
+<L>In midnight whispers, when the Dialect</L>
+<L>Of Loves loose Wit, is frighted into signes,</L>
+<L>And secret laughter stifled into smiles:</L>
+<L>When nothing's loud but the old Nurses Cough!</L>
+<L>Who keepes the Game up, hah! who misled now?</L>
+</SP>
+<SP>
+<PB REF="9"/>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Not Sir, that if wee wooe, weele be at charge</L>
+<L>For Looks; or if wee marry, make a <HI>Ioynture,</HI></L>
+<L>Entaile Land on women? entaile a <HI>Back,</HI></L>
+<L>And so much else of Man, as <HI>Nature</HI> did</L>
+<L>Provide for the first wife.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>I could keepe thee,</L>
+<L>Thy future Pride, thy Surfets, and thy Lust,</L>
+<L>(I meane, in such a garb as may become</L>
+<L>A <HI>Christian Gentleman</HI>) with the sole Tithe</L>
+<L>Of <HI>Tribute,</HI> I shall now receive from Ladies.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Your Brother, and my selfe have seal'd to <HI>Covenants</HI>!</L>
+<L>The Female Youth o'th towne are his; but all</L>
+<L>From forty to fourscore, mine owne: A widow</L>
+<L>(You'l say) is a wise, solemne, wary Creature;</L>
+<L>Though she hath liv'd to'th cunning of dispatch,</L>
+<L>Clos'd up nine Husbands eies, and have the wealth</L>
+<L>Of all their <HI>Testaments,</HI> in one Month Sir,</L>
+<L>I will waste her to her first Wedding-smock,</L>
+<L>Her single Ring, Bodkin, and Velvet-Muffe.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Your Rents expos'd at home, for Pious uses</L>
+<L>Must expiate your behaviour here; Tell mee,</L>
+<L>Is that the subtle plot you have on <HI>Heaven?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Thwack</SPEAKER>
+<L>The worm of your worships conscience would appear</L>
+<L>As big as a <HI>Conger,</HI> but a good eye</L>
+<L>May chance to find it slender as a <HI>Grigge!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Amazement knowes no ease, but in demands,</L>
+<L>Pray tell mee Gentlemen, to all this vaste</L>
+<L>Disignment (which so strikes my Eare) deduct</L>
+<L>You nought from your revenue, nought that may</L>
+<L>Like Fuell, feed the flame of your expense?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Brother, not so much as will find a <HI>Iew</HI></L>
+<L>Bacon to his Egges: These gay tempting Weeds,</L>
+<L>These Easterne stones of cunning foile, bespoke</L>
+<L>Gainst our arrivall here, together with</L>
+<L>A certaine stock of Crownes in eithers purse,</L>
+<L>Is all the charge that from our proper owne,</L>
+<L>Begins or furthers the magnifique plot,</L>
+<L>And of these Crownes, not one must be usurp'd</L>
+<L>By you.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>No reliefe, but Wit and good Counsell!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>The stock my Father left you, if your care</L>
+<L>Had purpos'd so discreet a course might well</L>
+<L><PB REF="9"/>Have set you up i'th Trade, but we spend light!</L>
+<L>Our Coach is yet unwheel'd, Sir <HI>Morglay,</HI> come,</L>
+<L>Lets sute those <HI>Friesland</HI> horse with our owne straine!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<P>Why Gentlemen, will the disigne keepe horses?</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>May be Sir they shall live by their Wits too!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Their Masters are bad <HI>Tutors</HI> else; well, how</L>
+<L>You'l worke the Ladies, and weake Gentry here</L>
+<L>By your fine gilded Pills, a Faith that is</L>
+<L>Not old may guesse without distrust. But Sirs,</L>
+<L>The Citty (take't on my experiment)</L>
+<L>Will not be gull'd!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Not gull'd? they dare not be</L>
+<L>So impudent! I say they shall be gull'd,</L>
+<L>And trust, and breake, and pawne their <HI>Charter</HI> too!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Is it lawfull (Brother) for me to laugh</L>
+<L>That have no money?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<P>Yes Sir, at your selfe!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Two that have tasted <HI>Natures</HI> kindnesse Arts,</L>
+<L>And men, have shin'd in moving Camps; have seene</L>
+<L>Courts in their solemne businesse, and vaine pride;</L>
+<L>Convers'd so long i'th towne here, that you know</L>
+<L>Each Signe, and Pibble in the streets; for you</L>
+<L>(After a long retirement) to lease forth</L>
+<L>Your wealthy pleasant Lands, to feed <HI>Iohn Crump,</HI></L>
+<L>The <HI>Cripple, Widow Needy,</HI> and <HI>Abraham</HI></L>
+<L><HI>Sloath,</HI> the <HI>Beads-man</HI> of <HI>More-dale?</HI> Then (forsooth)</L>
+<L>Perswade your selves to live here by your Wits.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack</SPEAKER>
+<L>Where wee nere cheated in our Youth, we resolve</L>
+<L>To couzen in our Age.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>Brother, I came</L>
+<L>To be your wise example in the Arts</L>
+<L>That lead to thriving glory, and supreame life;</L>
+<L>Not through the humble wayes wherein dull Lords</L>
+<L>Of Lands, and Sheepe doe walke; Men that depend</L>
+<L>On the fantastick winds on fleeting Clowds,</L>
+<L>On seasons more uncertaine than themselves,</L>
+<L>When they would hope or feare; But you are warme</L>
+<L>In anothers silke, and make your tame ease</L>
+<L>Virtue, call it content, and quietnesse!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack</SPEAKER>
+<L>Write Letters to your Brother! do! and be</L>
+<L>Forsworne, in every long <HI>Parenthesis,</HI></L>
+<L>For twenty pound sent you in Butchers silver!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Rebukes are precious! cast them not away!</P>
+</SP>
+<SP>
+<PB REF="10"/>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Neither of these Philosophers were borne</L>
+<L>To above five Senses; why then should they</L>
+<L>Have hope, to doe things greater, and more new</L>
+<L>I'th world, than I? This Devill Plenty thrusts</L>
+<L>Strange boldnesse upon Men! well, you may laugh</L>
+<L>With so much violence, till it consume</L>
+<L>Your breath! Though sullein want, the Enemy</L>
+<L>Of Wit, have sunke her low; if pregnant Wine</L>
+<L>Can raise her up, this day she shall be mine.
+<STAGE>Exit.</STAGE></L>
+</SP>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<HEAD>ACT. 2. SCEN. 1.</HEAD>
+<STAGE>Enter the Lady Ample, Engine, Ginet.</STAGE>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>My Guardian hors'd? this evening say'st thou <HI>Engine?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>It's an houre (Madam) since hee smelt the Towne?</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Saw'st thou his slender empty leg in th'Stirrop?</L>
+<L>His Iv'ry Box on his smooth Ebon staffe</L>
+<L>New civitted, and tyed to's gouty wrist?</L>
+<L>With his warp'd face close button'd in his Hood,</L>
+<L>That Men may take him for a Monke disguis'd,</L>
+<L>And fled post from a Pursevant!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>(Madam) beware I pray, lest th'Age and cunning</L>
+<L>Hee is Master of, prepare you a Revenge,</L>
+<L>And such as your fine wit shall nere intreat</L>
+<L>Your patience to disgest. To morrow night</L>
+<L>Th'extreamest Minute of your Wardship is</L>
+<L>Expir'd, and wee Magicians of the house</L>
+<L>Believe this hasty Iourney hee hath tane</L>
+<L>Is to provide a Husband for your sheets!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>And such a one, as judgement and nine Eies</L>
+<L>Must needs dislike, that's composition may</L>
+<L>Grow up to his owne thrifty wish.</L>
+</SP>
+<SP>
+<SPEAKER>Eng.</SPEAKER>
+<L>Madam.</L>
+<L>Your Arrow was well aym'd; I call him Master,</L>
+<L>But I am Servant unto Truth, and You.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>He chuse a Husband, fit to guide, and sway</L>
+<L>My Beauties wealthy Dowry, and my heart?</L>
+<L>Ile make Election to delight my selfe:</L>
+<L>What composition strictest Lawes will give;</L>
+<L>His Guardianship may take from the rich Banke</L>
+<L><PB REF="10"/>My Father left, and not devour my Land.</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>Your Ladyship has liv'd six yeares beneath</L>
+<L>His roofe, therefore may guesse the colour</L>
+<L>Of his heart, and what his braines doe weigh.</L>
+<L>But <HI>Engine</HI> (Madam) is your humble Creature.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>I have bounty, <HI>Engine!</HI></L>
+<L>And thou shalt largely taste it, when the next</L>
+<L>Faire Sun is set, for then my Wardship ends—
+<STAGE>Knocking within.</STAGE></L>
+<L>That speaks command, or hast open the doore.</L>
+<STAGE>Enter Lucy.</STAGE>
+<L><HI>Lucy!</HI> weeping my wench? melting thine Eies,</L>
+<L>As they had trespass'd against light, and thou</L>
+<L>Wouldst give them darknesse for a punishment.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Vndone (Madam) without all hope, but what</L>
+<L>Your pitty will vouchsafe to minister!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Hast thou been struck by infamy? or com'st</L>
+<L>A Mourner from the Funerall of Love?</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>I am the Mourner, and the Mourn'd; dead to</L>
+<L>My selfe; but left not rich enough to buy a Grave:</L>
+<L>My cruell Aunt hath banish'd me her Roofe,</L>
+<L>Expos'd me to the night, the winds, and what</L>
+<L>The raging Elements on wandrers lay,</L>
+<L>Left naked, as first Infancie or Truth.</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>I could nere indure that old moist ey'd Lady!</L>
+<L>Me thought she pray'd too oft.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>A meere receipt</L>
+<L>To make her long winded, which our devout</L>
+<L>Phisitians now prescribe to defer death.</L>
+<L>But <HI>Lucy,</HI> can she urge no cause for this</L>
+<L>Strange wrath, that you would willingly conceale!</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Suspitions of my Chastity; which heaven</L>
+<L>Must needs resist as false; though she accus'd</L>
+<L>Mee even in dreame, where thoughts commit by chance,</L>
+<L>Not Apetite.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>What ground had her suspect?</P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Young <HI>Pallatine</HI> (that woo'd my heart untill</L>
+<L>Hee gather'd Fondnesse where hee planted Love)</L>
+<L>Was falne into such want, as eager blood,</L>
+<L>And Youth could not endure, and keepe the Lawes</L>
+<L>Inviolate. I to prevent my feare,</L>
+<L>Sold all my Iewels, and my trifling wealth</L>
+<L>Bestow'd them on him; and she thinks a more</L>
+<L><PB REF="11"/>Vnholy consequence attends the guift.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>This <HI>Luce,</HI> is such Apostacie in Wit,</L>
+<L>As <HI>Nature</HI> must degrade her selfe in woman to</L>
+<L>Forgive? shall <HI>Love</HI> put thee to charge? couldst thou</L>
+<L>Permit thy <HI>Lover</HI> to become thy <HI>Pensioner?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>Her sence will now be tickled till it ake!</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Thy feature and thy wit, are wealth enough</L>
+<L>To keepe thee high in all those vanities</L>
+<L>That wilde ambition, or expensive pride</L>
+<L>Performe in youth; but thou invertst their use</L>
+<L>Thy <HI>Lover</HI> like the foolish <HI>Adamant,</HI></L>
+<L>The steele; thou fiercely dost allure, and draw,</L>
+<L>To spend thy virtue, not to get by it.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>This Doctrine (Madam) is but new to mee.</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>How have I liv'd thinkst thou? e'en by my Wits!</L>
+<L>My Guardians contribution gave us Gownes;</L>
+<L>But cut from th'curtaines of a Cariers bed:</L>
+<L>Iewels wee wore, but such as Potters wives</L>
+<L>Bake in the Furnace for their daughters wrists!</L>
+<L>My womans Smock's so course, as they were spun</L>
+<L>O'th tackling of a Ship.</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>A Coat of <HI>Male</HI></L>
+<L>Quilted with Wyre, was soft sarsnet to 'um.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Our dyet, scarse so much as is prescrib'd</L>
+<L>To mortifie; Two Egges of Emmets poach'd</L>
+<L>A single Bird no bigger than a Bee,</L>
+<L>Made up a Feast.</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>He had starv'd me, but that</L>
+<L>The Green-sicknesse tooke away my stomack!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Thy disease (<HI>Ginet</HI>) made thee in love with Morter,</L>
+<L>And tho'eatst him up two foot of an old wall!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>A priviledge my Master onely gave</L>
+<L>Vnto her teeth, none else o'th house durst do't.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>When (<HI>Lucy</HI>) I perceiv'd this straitned life,</L>
+<L><HI>Nature</HI> (my <HI>Steward</HI>) I did call t'acompt,</L>
+<L>And tooke from her <HI>Exchequer</HI> so much Wit</L>
+<L>As h<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s maintain'd mee since. I led my fine</L>
+<L>Trim bearded Males in a small subtle string</L>
+<L>Of my soft haire; made 'um to offer up,</L>
+<L>And bow, and laugh'd at the Idolatry.</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<P>A jewell for a kisse, and that halfe ravish'd.</P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>I feel<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> I am inclin'd t'indeavour in</L>
+<L>A Calling (Madam) Ild be glad to live!</L>
+</SP>
+<SP>
+<PB REF="11"/>
+<SPEAKER>Ample.</SPEAKER>
+<L>Know (<HI>Luce</HI>) this is no Hospitall for Fooles!</L>
+<L>My Bed is yours, but on condition <HI>Luce,</HI></L>
+<L>That you redeeme the Credit of your Sex;</L>
+<L>That you beginne to tempt, and when the snare</L>
+<L>Hath caught the Fowle, you plume him till you get</L>
+<L>More feathers then you lost to <HI>Pallatine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>I shall not waste my houres in winding Silke,</L>
+<L>Or shealing Pescods with your Ladiship!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Frosts on my heart! what? give unto a Suitor!</L>
+<L>Know? I would faine behold, that silly Monarch,</L>
+<L>(Bearded Man!) that durst wooe mee with halfe</L>
+<L>So impudent a hope!</L>
+</SP>
+<SP>
+<SPEAKER>Eng.</SPEAKER>
+<L>Madam, you are</L>
+<L>Not farre from the possession of your wish,</L>
+<L>There is no language heard, no businesse now</L>
+<L>In towne, but what proclaimes th'arrivall heere</L>
+<L>(This morne) of th'elder <HI>Pallatine,</HI> Brother</L>
+<L>To him you nam'd, and with him such an old</L>
+<L>Imperiall buskin Knight as th'Isle nere saw.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>What's their designe?</P>
+</SP>
+<SP>
+<SPEAKER>Eng.</SPEAKER>
+<L>They wil immure thēselves</L>
+<L>With Diamonds, with all refulgent Stones,</L>
+<L>That merit price: aske 'em who payes? why Ladies!</L>
+<L>They'le feast with rich Provinciall vvines, who payes?</L>
+<L>Ladies. They'le shine in various habit, like</L>
+<L>Eternall Bridegromes of the day, aske 'em</L>
+<L>VVho payes? Ladies. Lie with those Ladies too,</L>
+<L>And pay'em but with Issue-Male, that shall</L>
+<L>Inherit nothing but their witt, and doe</L>
+<L>The like to Ladies, when they grow to age.</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>My eares receiv'd a taste of them before.</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L><HI>Engine,</HI> how shall we see them? blesse me, <HI>Engine,</HI></L>
+<L>With thy kind voyce.</L>
+</SP>
+<SP>
+<SPEAKER>Eng.</SPEAKER>
+<L>Though Miracles are ceas'd,</L>
+<L>This (Madam's) in the power of Thought, and Time.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>I would kisse <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>hee <HI>Engine,</HI> but for an odd</L>
+<L>Nice humour in my lips; they blister at</L>
+<L>Inferiour breath! This Ring, and all my hopes</L>
+<L>Are thine; deare <HI>Engine</HI> now project, and live!</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<P>Ide loose my VVedding to behold these Dagonets!</P>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>My Guardean's out o' Towne! let us triumph</L>
+<L>Like <HI>Caesars,</HI> till to morrow night! thou knowst</L>
+<L>I'm then no more o'th Family! I would</L>
+<L><PB REF="12"/>Like a departing Lampe) before I leave</L>
+<L>You in the darke, spread in a glorious blaze!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>Madam, command the Keyes, the house, and me.</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Spoke like the bold <HI>Cophetua's</HI> Son!</L>
+<L>Let us contrive within to tempt 'um hither:</L>
+<L>Follow my <HI>Luce,</HI> restore thy self to Fame!—
+<STAGE>Ex. Eng. Amp. Gin. Young Pallatine beckens Lucy from between the Hangings, as shee is going.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P><HI>Luce! Luce!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>Death on my Eyes! how came you hither?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>I'm <HI>Luce,</HI> a kind of peremptory Fly,</L>
+<L>Shift houses still to follow the Sun-beames!</L>
+<L>I must needs play in the flames of thy beauty!</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>Y'have us'd me with a Christian care, have you not?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Come I know all! I'have been at thy Aunts house▪</L>
+<L>And there committed more disorder than</L>
+<L>A storme in a Ship, or a Canon Bullet</L>
+<L>Shot through a Kitchin among shelves of Pewter.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>This madnesse is not true I hope!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Yes Faith.</L>
+<L>Witnesse a shower of Malmsey Lees, drop'd from</L>
+<L>Thy Aunts owne Vrinall, on this new Morion!—</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>Why you have seene her then?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>Yes, and she lookes like the old Slut of <HI>Babylon</HI></L>
+<L>Thou hast read of. I told her she must dye.</L>
+<L>And her beloved Velvet-Hood be fold</L>
+<L>To some Dutch Brewer of <HI>Ratcliffe,</HI> to make</L>
+<L>His <HI>You Frowe</HI> slippers.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Speake low! I am deprived</L>
+<L>By thy rash wine of all atonement now,</L>
+<L>Vnto her after Legacies or Love!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>My <HI>Luce</HI>! be magnifi'd! I am all plot!</L>
+<L>All Stratagem! My Brother is in towne;</L>
+<L>My Lady <HI>Ample's</HI> Fame hath caught him Girle:</L>
+<L>I'm told he meanes an instant visit hither.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>What happinesse from this?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<L>As hee departs</L>
+<L>From hence, I'have laid two Instruments, <HI>Meager</HI></L>
+<L>And <HI>Pert,</HI> that shall encounter his long eares:</L>
+<L>With tales lesse true than those of <HI>Troy,</HI> they shall</L>
+<L>Endanger him maugre his active wits,</L>
+<L><PB REF="12"/>And mount thee little <HI>Luce,</HI> that thou mayst reach</L>
+<L>To dandle Fate, to sooth them till they give</L>
+<L>Vs leave to make, or alter destinies!</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>You are too lowd! whisper your plots within.
+<STAGE>Exeunt</STAGE></P>
+</SP>
+<STAGE>Enter Engine, Elder Pallatine, Thwack.</STAGE>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>You call, and governe Gentlemen, as if</L>
+<L>Your businesse were above your haste, but know</L>
+<L>You where you are?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>Sir <HI>Tirant Thrift</HI> dwels here!</L>
+<L>The Lady <HI>Ample</HI> is his Ward; shee is</L>
+<L>Within, and wee must see her; No excuses!</L>
+<L>Shee is not old enough to be lock'd up</L>
+<L>To sey new <HI>Perukes,</HI> or purge for <HI>Rhume.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Tell her, that a young devout Knight, made gray</L>
+<L>By a charme (t'avoid temptation in others)</L>
+<L>Would speake with her.</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>I shall deliver you both,</L>
+<L>These Tygers hunt their pray with a strange Nosthrill!</L>
+<L>Come unsent for so aptly to our wish?—
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<L>But this Sir <HI>Morglay</HI> will not doe, In troth</L>
+<L>You breake our <HI>Covenants.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>Why heare me plead!</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<L>From forty to fourscore, the written Law</L>
+<L>Runs so; this Lady's in her Nonage yet,</L>
+<L>And you to presse into my company</L>
+<L>Where visitations are decreed mine owne,</L>
+<L>Argues a heat that my rebukes must coole.</L>
+</SP>
+<SP>
+<SPEAKER>Thwa.</SPEAKER>
+<L>What should I do? wouldst have me keepe my chamber</L>
+<L>And mend <HI>Darke Lanthornes</HI>; invent steele <HI>Matocks,</HI></L>
+<L>Or weigh <HI>Gun-powder,</HI> sollitude leads mee</L>
+<L>To nothing lesse than Treason; I shall conspire</L>
+<L>To dig, and blow up all rather than sit still.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<L>Follow your Taske! you see how early I</L>
+<L>Have found this young <HI>Inheretrix,</HI> goe seeke</L>
+<L>The aged out; <HI>Bones,</HI> unto <HI>Bones!</HI> Like <HI>Cards</HI></L>
+<L>Ill pack'd, shuffle your selves together till</L>
+<L>You each dislike the game!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Tis the cause I</L>
+<L>Come for; a wither'd Mid-wife, or a Nurse</L>
+<L>Who drawes her lips together, like an eye</L>
+<L>That gives the cautionary winke, are those</L>
+<L>I would find here; so they be rich, and fat!—</L>
+</SP>
+<STAGE><PB REF="13"/><HI>Enter Ginet.</HI></STAGE>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>My Lady understands your haste, and she</L>
+<L>Her selfe, consults now in affaires of haste,</L>
+<L>But yet will hastely approach, to see</L>
+<L>You Gentlemen, and then in haste returne!
+<STAGE>exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld Pall.</SPEAKER>
+<P>What's this the Superscription of a Packet?</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>Now does my blood wamble! you! Sucket eater!</P>
+</SP>
+<STAGE>offers to follow her, Pallatine staies him.</STAGE>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>These Covenants (Knight) will never be observ'd,</L>
+<L>Il'e sue the forfeiture, leave you so poore</L>
+<L>Till for preferment you become an E<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>n<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>uch,</L>
+<L>And sing a Trebble; in a Chauntry, Knight.</L>
+</SP>
+<STAGE>Enter Ample, Lucy, Ginet, Elder Pallatine, and Thwak. addresse to kisse them, and are thrust backe.</STAGE>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Stay Gentlemen! good soules! they have seene (<HI>Lucy</HI>)</L>
+<L>The Country Turtles bill, and thinke our lipps</L>
+<L>I'th Towne, and Court, are worne for the same use.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Pray how doe the Ladies there? poore Villagers</L>
+<L>They churne still, keepe their Dayrles, and lay up</L>
+<L>For Imbroidered Mantles, against the Heires birth!</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<P>Who is begot i'th Christmas Holydaies.</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Yes surely, when the Spirit of Mince-Pie</L>
+<L>Raignes in the blood.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl</SPEAKER>
+<L>What? penny Gleek I hope's</L>
+<L>In fashion yet, and the trecherous foot</L>
+<L>Not wanting on the Table frame to jogge</L>
+<L>The Husband, lest he lose the Noble that</L>
+<L>Should pay the Grocers Man, for Spice and Fruit!</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>The good old Buttler shares too, with his Lady</L>
+<L>In the Box, bating for Candles that were burnt</L>
+<L>After the Clocke struck Ten.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>He doth indeed,</L>
+<L>Poore Country Madams th'are in Subjection still,</L>
+<L>The beasts their husbands make 'em sit on three</L>
+<L>Legg'd stooles, like homely Daughters of an Hospitall,</L>
+<L>To knit sockes for their cloven feet.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>And when these Tirant! Husbands too, grow old</L>
+<L>(A<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> th<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>y have still th'impudence to live long)</L>
+<L>Good Ladies they are faine to waste the sweet</L>
+<L>And pleasant seasons of the day, in boyling</L>
+<L><GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ellies for them, and rowling little Pills</L>
+<L><PB REF="13"/>Of Cambrick Lint to stuffe their hollow teeth.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>And then the Evenings (warrant yee) they spend</L>
+<L>With mother Spectacle the Curats wife,</L>
+<L>Who does inveigh 'gainst curling and dyde Cheekes,</L>
+<L>Heaves her devout impatient nose at oyle</L>
+<L>Of <HI>Iessamin,</HI> and thinkes powder of <HI>Paris</HI> more</L>
+<L>Prophane then th'ashes of a Romish Martyr.</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>And in the dayes of joy, and triumph Sir,</L>
+<L>Which come as Seldome to them as new gownes</L>
+<L>Then humble wretches, they doe friske and dance</L>
+<L>In narrow Parlers, to a single Fidle,</L>
+<L>That squekes foorth tunes, like a departing Pigge.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Whilst the mad Hinds, shake from their feet more dirt</L>
+<L>Then did the Cedar-Rootes, that danc'd to <HI>Orpheus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Doe they not powre their wine too, from an Ewre,</L>
+<L>Or small guilt Cruce, like Orange-water kept</L>
+<L>To sprinkle hollyday Beards?</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>And when a Stranger comes, send seven miles post</L>
+<L>By Moone-shine, for another pint?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>All these indeed are heauy truthes, but what</L>
+<L>Doe you (th'exemplar Madams of the Towne?)</L>
+<L>Play away your youth, as our hasty Gamesters</L>
+<L>Their light Gold, not with desire to lose it,</L>
+<L>But in a fond mistake that it will fit</L>
+<L>No other use?</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>And then reserve your age</L>
+<L>As superstitious Sinners ill got wealth</L>
+<L>Perhaps for'th Church, perhaps for Hospitals.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>If rich you come to Court, there learne to be</L>
+<L>At charge to teach your Paraqueeto's French,</L>
+<L>And then allow them their Interpreters,</L>
+<L>Least the Sage Fowle should lose their wisdome on</L>
+<L>Such Pages of the presence, and the Guard</L>
+<L>As have not past the Seas.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>But if y'are poore,</L>
+<L>Like wanton Monkies, chain'd from Fruit,</L>
+<L>You feede upon the itch of your owne Tailes.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P>Rose-Vineger to wash that Ruffians mouth!</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>They come to live here by their Wits, let them use'em!</P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>They have so few, and those they spend so fast,</L>
+<L>They will leave none remaining to maintaine them.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>You shall maintaine us; a communitie</L>
+<L><PB REF="14"/>The subtle have decreed of late: You shall</L>
+<L>Endow us with your Bodies, and your Goods;</L>
+<L>Yet use no manacles cald dull Matrimony</L>
+<L>To obliege affection against wise Nature,</L>
+<L>Where it is lost (perhaps) through a disparity</L>
+<L>Of yeares, or justly through distaste of crimes.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>Most excellent Resolves!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>But if you'l needs marry,</L>
+<L>Expect not a single <HI><GAP DESC="illegible" RESP="oxf" EXTENT="1 word" DISP="〈◊〉"/></HI> for a Ioynture;</L>
+<L>Not so much Land as will allow a Grasshopper</L>
+<L>A Salad!</L>
+</SP>
+<SP>
+<SPEAKER>Thwac.</SPEAKER>
+<L>I would no more doubt t'enjoy</L>
+<L>You two in all variety of wishes,</L>
+<L>(Wer't not for certaine Covenants that I lately</L>
+<L>Sign'd to in my drinke) then I would feare <HI>Vsurie</HI></L>
+<L>In a small Poet, or a cast <HI>Corporall.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>You would not!</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>But looke to your old Widowes!</L>
+<L>There my title's good; see they be rich too;</L>
+<L>Lest I shall leave their <HI>Twins</HI> upon the <HI>Parish,</HI></L>
+<L>To whom the Deputy o'th Ward will deny</L>
+<L>Blew Coates at <HI>Easter,</HI> Loaves at Funerals,</L>
+<L>Cause they were Sons of an old Countrey Wit!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Why all for Widowes Sir, can nothing that</L>
+<L>Is young affect your mouldy apetite?</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>No in sooth, Damsels at your yeares are wont</L>
+<L>To talke too much over their <HI>Marmaled,</HI></L>
+<L>They cann't fare well, but all the Towne must hear't!</L>
+<L>Their love's so full of prayses, and so loud,</L>
+<L>A man may with lesse noyse, lye with a Drum!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>Thinke you so Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Give me an old widow that commits Sin</L>
+<L>With the gravity of a corrupt Iudge,</L>
+<L>Accepts of Benefits i'th darke, and can</L>
+<L>Conceale them from the light.—
+<STAGE>Ample takes Elder Pall: apart.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Pray Sir allow mee but your eare aside!</L>
+<L>Though this rude <HI>Clime i'th Clough,</HI> presume</L>
+<L>In his desires more than his strength can justifie,</L>
+<L>You should have nobler kindnesse than to thinke</L>
+<L>All Ladies rellish of an apetite,</L>
+<L>Bad as the worst your evill chance hath found.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>All are alike to mee: at least, I'le make</L>
+<L><PB REF="14"/>Them so, with thin perswasions, and a short</L>
+<L>Expence of time.</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Then I have cast away</L>
+<L>My sight; my eyes have look'd themselves into</L>
+<L>A strong disease, but they shall bleed for it.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Troth Lady mine, I find small remedy!</P>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Why came you hither Sir, she that shall sigh</L>
+<L>Her easie spirits into wind for you,</L>
+<L>Must not have hope the kindnesse of your breath</L>
+<L>Will ere recover her.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>What doe I heare? <HI>Hymen</HI> defend?</L>
+<L>But three good corners to your little heart,</L>
+<L>And two already broyling on Loves Altar?</L>
+<L>Does this become her <HI>Ginet,</HI> speake?</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<P>As age, and halfe a smock would become me.</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>Th'ast caught her <HI>Pallatine</HI>; insinuate Rogue?—</P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Love him, you must recant, or the small God</L>
+<L>And I shall quarrell, when wee meet i'th Clouds.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>S'light, see how she stands, speake to her.</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Peace Knight! it is apt cunning that we goe;</L>
+<L>Disdaine is like to water pour'd on Ice,</L>
+<L>Quenches the flame a while to raise it higher.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<P><HI>Engine</HI> shew them their way. —
+<STAGE>Enter Engine.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Engine.</SPEAKER>
+<P>It lies here Gentlemen!—</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>There needs small sūmons, we are gone! but d'you hear,</L>
+<L>We will receive no Letters, we, though sent</L>
+<L>By'th incorporiall spy your Dwarffe, or <HI>Audry</HI></L>
+<L>Of the Chamber, that would deliver them</L>
+<L>With as much caution, as they were Atachments</L>
+<L>Vpon money newly paid.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Nor no message</L>
+<L>From the old Widdow your Mother (if you</L>
+<L>Have one) no, though she send for me when she</L>
+<L>Is giving up her testy Ghost; and lies</L>
+<L>Halfe drown'd in Rhume, those floods of Rhume, in which</L>
+<L>Her Maids doe daily dive to seeke the Teeth</L>
+<L>She cough'd out last. —
+<STAGE>Exeunt Engine, Eld. Pall. Thwack.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Lasse! good old Gentleman!</L>
+<L>Wee shall see him shortly in as many Nightcaps,</L>
+<L>As would make sick <HI>Mahomet</HI> a Turband</L>
+<L>For the Winter.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>Are they gone <HI>Luce?</HI></P>
+</SP>
+<SP>
+<PB REF="15"/>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Not like the houres, for they'l returne agen</L>
+<L>Ere long▪ O you carry'd your false love rarely!</L>
+</SP>
+<SP>
+<SPEAKER>Amp</SPEAKER>
+<P>How impudent these Country fellows are?</P>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>He thinks y'are caught; he has you between's teeth,</L>
+<L>And intends you for the very next bit</L>
+<L>He meanes to swallow.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L><HI>Luce,</HI> I have a thousand thoughts</L>
+<L>More than a Kerchiefe can keepe in: Quick Girle!</L>
+<L>Let us consult, and thou shalt find what silly Snipes</L>
+<L>These witty Gentlemen shall prove, and in</L>
+<L>Their owne confession too, or I'le cry Flownders else,</L>
+<L>And walke with my Petti-coat tuck'd up like</L>
+<L>A long mayd of <HI>Almaineny.</HI>
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter Yo: Pallatine, Meager, Pert, the two last being new cloath'd.</STAGE>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L><HI>Don Meager,</HI> and <HI>Don Pert,</HI> you neither found</L>
+<L>These imbroaderd skins in your mothers womb:</L>
+<L>Surely Natures Wardrobe is not thus lac'd!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>We flourish <HI>Pall,</HI> by th'Charter of thy smiles,</L>
+<L>A little magnify'd, with shew, and thought</L>
+<L>Of our new plot.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>The chambers bravely hung!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>To thy owne wish, a Bed and Canopy</L>
+<L>Prepar'd all from our numbred pence; if it</L>
+<L>Should faile, <HI>Meager,</HI> and I, must creep into</L>
+<L>Our quondam rags, a transmigration <HI>Pall,</HI></L>
+<L>Which our Divinity can ill indure.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>If I have more left t'maintaine a large stomacke,</L>
+<L>And a long Bladder, than one comely Shilling,</L>
+<L>Together with a single ounce of Hope;</L>
+<L>I am the Son of a Carman.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Doe you suspect my pro∣phecies,</L>
+<L>That am your Mint, your grand Exchequer?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L><HI>Pall,</HI> no suspitions <HI>Pall,</HI> but we that imbarque</L>
+<L>Our whole stock in one vessell, would be glad</L>
+<L>To have all Pyrats o'shore, and the winds</L>
+<L>In a calme humor!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>How fares th'intelligence?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>I left 'um at the Lady <HI>Ample's</HI> house</L>
+<L>This street they needs must passe, if they reach home.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>O I would faine project 'gainst the old Knight,</L>
+<L>Can we not share him too?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>This wheele must move</L>
+<L>Alone, Sir <HI>Morglay Thwack's</HI> too rugged yet,</L>
+<L><PB REF="15"/>He'ld interrupt the course, a little more</L>
+<L>O'th File, will smooth him fit to be screw'd up;</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Shrinke off <HI>Pall,</HI> I heare 'em!</P>
+</SP>
+<STAGE>Enter Thwack, Elder Pallatine.</STAGE>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Th'hast not the art of patient leisure to</L>
+<L>Attend the aptitude of things; wouldst thou</L>
+<L>Run on like a rude Bull, on every object that</L>
+<L>Doth heat the blood? this cunning abstinence</L>
+<L>Will make her passions grow more violent.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>But <HI>Pallatine,</HI> I doe not find I have</L>
+<L>The cruelty, or grace, to let a Lady</L>
+<L>Starve for a warm morsell.—
+<STAGE>Pert and Meager take the Elder Pal∣latine aside.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pallat.</SPEAKER>
+<P>Now my fine <HI>Pert</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Sir, we have businesse for your Eare; it may</L>
+<L>Concerne you much, therefore tis fit it be</L>
+<L>Particular.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>From whom!</P>
+</SP>
+<SP>
+<SPEAKER>Meager.</SPEAKER>
+<L>A young Lady Sir.</L>
+<L>It is a secret will exact much care</L>
+<L>And wisdome i'th delivery; you should</L>
+<L>Dismisse that Gentleman!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<L>A young Lady! good!</L>
+<L>All the best Stars i'th Firmament are mine!</L>
+<L>Our Coach attends us Knight i'th botome of</L>
+<L>The hither street, you must goe home alone.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Ile sooner kill a Serjeant, choose my Iury</L>
+<L>In the City, and be hang'd for a Taverne Bush!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Will't ruine all our destinies hath built?</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Come, what are those sly silk-worms there that creep</L>
+<L>So close into their wooll, as they would spin</L>
+<L>For none but their deare selves. I heard 'em name a Lady!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>You heard them say then, she was young, and what</L>
+<L>Our Covenants are, remember!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Young, how young?</L>
+<L>She left her Wormeseed, and her Corall whistle</L>
+<L>But a Month since: doe they meane so?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P><HI>Morglay,</HI> our Covenants is all I aske!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>May be shee hath a mind to mee, for there's</L>
+<L>A reverend humor in the blood, which thou</L>
+<L>Nere knewst; perhaps she would have Boyes begot</L>
+<L>Should be deliver'd with long Beards, till thou</L>
+<L>Arive at my full growth, thou'lt yield the world</L>
+<L>Nought above Dwarfe, or Page.</L>
+</SP>
+<SP>
+<PB REF="16"/>
+<SPEAKER>Elder Pallat.</SPEAKER>
+<P>Our Covenants still, I cry!</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Faith, I'le stride my Mule too morrow, and away</L>
+<L>To'th homely Village in the North!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Why so?</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Alas, these silly Covenants (you know)</L>
+<L>I seal'd too in my drinke, and certaine feares</L>
+<L>Lurke in a remote comer of my head,</L>
+<L>That say the game will all be yours.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<L>But what successe canst thou expect, since w'have</L>
+<L>Not yet enjoy'd the City a full day?</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>I say, let me have Woman; be shee young,</L>
+<L>Or old, <HI>Grandam</HI> or <HI>Babe,</HI> I must have Woman!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Carry but thy patience like a Gentleman,</L>
+<L>And let mee singly mannage this adventure,</L>
+<L>It will too morrow cancell our old deeds,</L>
+<L>And leave thee to subscribe to what thy free</L>
+<L>Pleasure shall direct.</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Wee'l equally injoy</L>
+<L>Virgin, Wife, and Widow, the younger Kerchiefe with</L>
+<L>The aged Hood.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>What I have said, if I had leisure now</L>
+<L>I'd ratifie with oathes of thy owne chusing.</L>
+</SP>
+<SP>
+<SPEAKER>Thwac.</SPEAKER>
+<L>Goe! propagate! fill the shops with thy notch'd</L>
+<L>Issue, that when our Money's spent, wee may</L>
+<L>Be trusted, breake, and couz'n in our owne Tribe.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Leave me to fortune!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>D'you here <HI>Pallatine.</HI></L>
+<L>Perhaps this young Lady has a Mother!—</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>No more, good night! —
+<STAGE>Exit Thwack.</STAGE></L>
+<L>I have obay'd you Gentlemen, no Eares</L>
+<L>Are neere us, but our owne, what's your affaire!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>Wee'l lead you to the Ladies Mansion Sir,</L>
+<L>'Tis hard by.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Hard by!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>So neere, that if your Lungs be good,</L>
+<L>You may spit thither: that is the house!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>These appeare Gentlemen,</L>
+<L>And of some ranke! I will in!
+<STAGE>Exeunt Eld. Pall. Meager. Pert.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>So, so! the hooke has caught him by the Gils;</L>
+<L>And it is fastned to a line will hold</L>
+<L>You Sir, though your wits were stronger than your purse!</L>
+<L>Sir <HI>Morglay Thwack's</HI> gone home; his lodging I</L>
+<L>Have learn'd, and there are certaine Gins prepar'd,</L>
+<L>In which his wary feete may chance to be</L>
+<L>Insnar'd; though he could weare his Eyes upon his Toes!</L>
+<L><PB REF="16"/>I must follow the game close! He is enter'd,</L>
+<L>And ere this amaz'd, at the strange complexion</L>
+<L>Of the house, but, 'twas the best our friendship</L>
+<L>And our treasure could procure.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE>Eld: Pallatine, Meager, Pert, with Lights.</STAGE>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Gentlemen (if you please) lead me no further!</L>
+<L>I have so little faith to believe this,</L>
+<L>The Mansion of a Lady, that I thinke</L>
+<L>'Tis rather the decayes of hell; a sad</L>
+<L>Retirement for the Fiend, to sleepe in when</L>
+<L>Hee's sicke with drinking Sulphure.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Sir you shall see this upper roome is hung!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>With Cobwebs Sir, and those so large, they may</L>
+<L>Catch and ensnare Dragons instead of Flies.</L>
+<L>Where sit a melancholly race of old</L>
+<L><HI>Norman</HI> Spyders, that came in with'Conqueror.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>This chamber will refresh your Eyes, when you</L>
+<L>Have cause to enter it.—
+<STAGE>Leads him to look in 'tween the hangings.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<L>A Bed, and Canopy!</L>
+<L>Ther's shew of entertainment there indeed;</L>
+<L>There Lovers may have place to celebrate</L>
+<L>Their warme wishes, and not take cold: but Gentlemen,</L>
+<L>How comes the rest of this blind house so nak'd,</L>
+<L>So ruinous, and deform'd?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Pray Sir sit downe:</L>
+<L>If you have seene ought strange, or fit for wonder,</L>
+<L>It but declares the hasty shifts, to which</L>
+<L>The poore distressed Lady is expos'd,</L>
+<L>In pursuit of your love. Shee hath good fame,</L>
+<L>Great dignity and wealth; and would be loth</L>
+<L>To cheapen these by making-her dull family</L>
+<L>Bold witnesses of her desires with you:</L>
+<L>Therefore, t'avoyd suspition, to this place,</L>
+<L>Sh'ath sent part of her neglected Wardrobe.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>And will ere Time growes older by an hower,</L>
+<L>Guild all this homely furniture at charge</L>
+<L>Of her owne Eies; her beames can doe it Sir!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<P>My manners will not suffer me to doubt!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Wee hope so too: besides though ev'ry one</L>
+<L>That hath a heart of's owne, may thinke his pleasure;</L>
+<L>We should be loth, your thoughts should throw mistakes</L>
+<L><PB REF="17"/>On us; that are the humble Ministers</L>
+<L>Of your kind stars: for sure, though wee looke not</L>
+<L>Like men that make Plantation on some Isle</L>
+<L>That's uninhabited; yet you believe</L>
+<L>We would teach Sexes mingle, to increase Men!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>Squires of the Placket, wee know you thinke us.</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Excuse my courage Gentlemen! good faith</L>
+<L>I am not bold enough to thinke you so.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Nor will you yet be woo'd to such mistake?</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Not all the Art, nor Flattery you have</L>
+<L>Can render you to my beliefe worse than</L>
+<L>My selfe: Panders, and Bawds, good Gentlemen</L>
+<L>I shall be angry, if you perswade mee to</L>
+<L>So vile a thought!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Sir you have cause!</L>
+<L>And in good faith▪ if you should thinke us such,</L>
+<L>Wee would make bold to cut that slender throat.</L>
+</SP>
+<SP>
+<SPEAKER>Eld Pall.</SPEAKER>
+<P>How Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>That very throat, through which the lusty Grape,</L>
+<L>And sav'ry Morsell in the Gamesters dish,</L>
+<L>Steale downe so leasurely, with Kingly gust!</L>
+</SP>
+<SP>
+<SPEAKER>Meag</SPEAKER>
+<L>Sir it should open wide, as th'widest Oyster</L>
+<L>I'th <HI>Venecian</HI> Lake!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Gentlemen, it should!</L>
+<L>It is a throat I can so little hide</L>
+<L>In such a cause, that I would whet your Razor for't</L>
+<L>On my owne shooe.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Enough! you shall know all!</L>
+<L>This Lady hath a Noble Mind; but 'tis</L>
+<L>So much o'remastred by her blood, we feare</L>
+<L>Nothing but death, or you can be her remedy!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<P>And she is young?</P>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>O! as the <HI>Aprill Bud!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>'Twere pitty faith, she should be cast away!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>You have a soft, and blessed heart! and to</L>
+<L>Prevent so sad a period of her sweet breath;</L>
+<L>Our selves, this house, the habit of this roome,</L>
+<L>The Bed within, and your faire person wee</L>
+<L>Have all assembled in a trice.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Sure Gentlemen,</L>
+<L>In my opinion more could not bee done,</L>
+<L>Were shee <HI>Inheretrix</HI> of all the East!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>But Sir the excellence of your pure fame,</L>
+<L>Hath given us boldnesse to make sute, that if</L>
+<L><PB REF="17"/>You can reclaime her apetite with chaste</L>
+<L>And wholsome homilies; such Counsell as</L>
+<L>Befits your knowne morality, you will</L>
+<L>Be pleas'd to save her life, and not undoe her honour?</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>We hope you will afford her Med'cine by</L>
+<L>Your meeke and holy Lectures, rather than</L>
+<L>From any manly exercise, for such</L>
+<L>In troth Sir you appeare to our weake sight!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Brothers, and friends a stile more distant now</L>
+<L>Cannot be given: though you were in compasse</L>
+<L>Thick, as the Aspes, I must embrace you both —</L>
+<L>Y'have hit the very Center, unto which</L>
+<L>The toyles and comforts of my studies tend!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Alas we drew our Arrow but by ayme!</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Why Gentlemen I have converted more</L>
+<L>Than ever Gold or Aretine misled:</L>
+<L>I've Disciples of all degrees in Nature</L>
+<L>From your little Punque in Purple, to your</L>
+<L>Tall Canvas Girle, from your Sattin Slipper</L>
+<L>To your Iron Pattin, and your Norway Shooe!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>And can you mollifie the Mother Sir,</L>
+<L>In a strong fit.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Sure Gentlemen I can.</L>
+<L>If bookes penn'd with a cleane and wholsome spirit,</L>
+<L>Have any might to edifie; would they</L>
+<L>Were here.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>What Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>A small Library,</L>
+<L>Which I am wont to make companion to</L>
+<L>My idle howers: where some (I take it) are</L>
+<L>A little consonant unto this Theame.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Have they not names?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>A <HI>Pill</HI> to purge phlybotomy! a Balsamum</L>
+<L>For the spirituall backe! a lozeng against lust;</L>
+<L>With divers others Sir, which though not penn'd</L>
+<L>By dull Platonick Greekes, or Memphian Priests,</L>
+<L>Yet have the blessed marke of separation</L>
+<L>Of Authors silenc'd, for wearing short haire.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>But Sir, if this chaste meanes cannot restore</L>
+<L>Her to her health and quiet peace; I hope</L>
+<L>You will vouchsafe your Lodging in yon Bed,</L>
+<L>And take a little paines—
+<STAGE>Points to the Bed within.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pallat.</SPEAKER>
+<L>Faith Gentlemen, I was</L>
+<L><PB REF="18"/>Not bred on Scythian Rockes; Tygers and Wolves</L>
+<L>I've heard of, but nere suck'd their milke, and sure</L>
+<L>Much would be done to save a Ladies longing!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>Tis late Sir. pray uncase!—
+<STAGE>They help to uncloath him.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Your Boot, believ't, it is my exercise! —</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Well; tis your turne to labour now, and mine</L>
+<L>Anon, for your deare sakes Gentlemen, I professe —</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>My friend shall wait upon you to your sheets,</L>
+<L>Whilst I goe and conduct the Lady hither:</L>
+<L>Whom if your holy doctrine cannot well</L>
+<L>Reclaime, pray hazard not her life; you have</L>
+<L>A body Sir!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>O! think me not cruell!
+<STAGE>Ex. Mea. Eld: Pal.</STAGE></P>
+</SP>
+<STAGE>Enter Yo: Pallatine.</STAGE>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P><HI>Pall!</HI> come in <HI>Pall</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>Is he in Bed?</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Not yet,</L>
+<L>But stripping in more haste, than an old snake</L>
+<L>That hop<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s for a new skin!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>If we could laugh</L>
+<L>In our Coffin <HI>Pert,</HI> this would be a jeast</L>
+<L>Long after death: hee is so eager in</L>
+<L>His witty hopes, that he suspects nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>O all he swallowes Sir is melting Conserve,</L>
+<L>And soft <HI>Indian Plum! Meager,</HI> what newes?
+<STAGE>Enter Meager.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>Layd! gently layd! he is all Virgin sure,</L>
+<L>From the crowne of's head, to his very Navell!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Where are his Breeches? speake! his Hatband too!</L>
+<L>Tis of grand price, the stones are Rosiall, and</L>
+<L>Of the white Rock!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>I hung'em purposely</L>
+<L>Aside, th'are all within my reach: shall I in?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Soft! softly my false fiend! remember Rogue;</L>
+<L>You tread on Glasses, Egges, and gowty Toes! —</L>
+</SP>
+<STAGE>Meager takes out his Hat and Breeches, the Pockets and Hatband rifled, they throw 'em in agen.</STAGE>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>Hold <HI>Pall!</HI> th'Exchequer is thine owne! we will</L>
+<L>Divide, when thou art gracious and well pleas'd!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>All Gold! the Stals of <HI>Lombard-street</HI> powr'd into a purse.</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>These deare <HI>Pall,</HI> are thy Brothers goodly heards!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Yes, and his proud Flocks; but you see what they</L>
+<L>Come to? a little roome containes them all</L>
+<L>At last; so, so, convay them in agen!</L>
+<L>Because he is my Elder Brother!</L>
+<L>My Mothers Mayden-head, and a Country Wit,</L>
+<L><PB REF="18"/>He shall not be exposde to bare thighes, and a</L>
+<L>Bald Crowne! what noyse is that? —
+<STAGE><HI>knocking within,</HI> Pert <HI>lookes at doore.</HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Death! there's old <HI>Snore</HI></L>
+<L>The Constable! his wife, a Regiment of Halberds.</L>
+<L>And Mistresse <HI>Queasie</HI> too, the Landlady</L>
+<L>That ownes this house.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>Belike th'ave heard, our friend</L>
+<L>The Bawd, fled hence last night; and now they come</L>
+<L>To ceaze on Mooveables for rent!</L>
+</SP>
+<SP>
+<SPEAKER>Young. Pall.</SPEAKER>
+<L>The Bed within, and th'Hangings that we hyr'd,</L>
+<L>To furnish our designe, are all condemn'd,</L>
+<L>My brother too; theyle use him with as thin</L>
+<L>Remorse, as an old Gamester would an Aldermans Heire!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>No matter, our adventure's paid! follow</L>
+<L><HI>Pall</HI>! and Ile lead you a backe way, where you</L>
+<L>Shall climbe ore tiles, like Cats when they make love.</L>
+</SP>
+<SP>
+<SPEAKER>Young. Pall.</SPEAKER>
+<L>Now I shall laugh at those, that heap up wealth</L>
+<L>By lazie method, and slow rules of Thrift;</L>
+<L>I'm growne the Child of Wit, and can advance</L>
+<L>My selfe, by being Votary to chance,
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<HEAD>ACT. 3. SCEN. 1.</HEAD>
+<STAGE>Enter Snore, Mistresse Snore, Queasie, and Watchmen.</STAGE>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>Dayes o' my breath, I have not seene the like!</L>
+<L>What would you have my husband doe? 'tis past</L>
+<L>One by <HI>Boe,</HI> and the Bell-Man has gone twice!</L>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<L>Good Master <HI>Snore,</HI> you are the Constable,</L>
+<L>You may doe it (as they say) be it right or wrong!</L>
+<L>'Tis foure yeares rent, come Childermas Eve next!</L>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>You see Neighbour <HI>Queasie</HI> the Dores are open;</L>
+<L>Heere's no goods, no Bawde left; I'ld see the Bawde!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>I or the Whores; my husband's the Kings officer,</L>
+<L>And still takes care I warrant yee of Bawdes,</L>
+<L>And Whores! Shew him but a Whore at this time</L>
+<L>O' night (Good man) you bring a bed i' faith!</L>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<L>I pray Mistresse <HI>Snore</HI> let him search the Parish,</L>
+<L>They are not gone farre, I must have my rent;</L>
+<L>I hope there are Whores, and Bawdes in the Parish!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>Search now? it is too late; a woman had</L>
+<L>As good marry a Cowlestaffe as a Constable;</L>
+<L><PB REF="19"/>If he must nothing but search and search, follow</L>
+<L>His Whores, and Bawds all day, and never comfort</L>
+<L>His Wife at night: I prethee Lambe let us to Bed!</L>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>It must be late; for Gossip <HI>Nock</HI> the Nayleman</L>
+<L>Had chatechys'd his Maids, and sung three Catches,</L>
+<L>And a Song, ere we set forth!</L>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<L>Good <HI>Mistresse Snore,</HI> forbeare your husband but</L>
+<L>To night; and let the search goe on!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>I will nor forbeare; you might ha' let your house</L>
+<L>To honest women, not to Bawds! fie upon you!</L>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<L>Fie upon me! tis well knowne I'm the mother</L>
+<L>Of Children! Scirvie Fleake! tis not for nought</L>
+<L>You boyle Eggs in your Gruell, and your man <HI>Sampson</HI></L>
+<L>Owes my Sonne in law, the Surgeon, Ten groats</L>
+<L>For Turpentine; which you have promis'd to pay</L>
+<L>Out of his Christmasse Box.</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>I defie thee.</L>
+<L>Remember thy first calling, thou setst up</L>
+<L>With a Peck of Damsens, and a new Sive;</L>
+<L>When thou broakst at Dowgate corner, 'cause the Boyes</L>
+<L>Flung downe thy ware!</L>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<P>Keepe the peace Wife! keepe the peace!</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>I will not peace; she tooke my silver Thimble</L>
+<L>To pawne, when I was a Maid; I paid her</L>
+<L>A penny a moneth use!</L>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<L>A Maid? yes sure;</L>
+<L>By that token, goody Tongue the Midwife,</L>
+<L>Had a dozen Napkins o' your Mothers best</L>
+<L>Diaper, to keepe silence; when she said</L>
+<L>She left you at Saint <HI>Peters</HI> Faire, where you</L>
+<L>Long'd for Pigge!</L>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>Neighbour <HI>Queasie,</HI> this was not</L>
+<L>In my time: what my Wife hath done, since I</L>
+<L>Was Constable, and the Kings Officer,</L>
+<L>Ile answer: therefore (I say) keepe the peace!</L>
+<L>And when w'have search'd the two back rooms, Ile to bed!</L>
+<L>Peace Wife! not a word!
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter Eld. Pallatine clothing himselfe in haste.</STAGE>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Tis time to get on wings, and fly!</L>
+<L>Here's a noyse of Thunder, Wolves, Women, Drums,</L>
+<L>All that's confus'd, and frights the eare! I heard</L>
+<L>Them cry out Bawds! the sweet young Lady is</L>
+<L>Surpris'd sure, by the nice slave her husband;</L>
+<L><PB REF="19"/>Or some old frosty Matron of neere kinne;</L>
+<L>And the good Gentlemen sh' employd to me</L>
+<L>Are tortur'd, and call'd Bawds! If I am tane,</L>
+<L>Ile sweare, I purpos'd her conversion.—</L>
+</SP>
+<STAGE>Enter Snore, Mist. Snore, Queasie, and Watchmen.</STAGE>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>Here's a Roome hung, and a faire Bed within,</L>
+<L>I take it, there's the hee Bawd too.</L>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<L>Ceaze on the lewd thing!</L>
+<L>I pray Master <HI>Snore,</HI> ceaze on the Goods too!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>Who would not be a Bawd? th'ave proper men</L>
+<L>To their husbands; and she maintaines him</L>
+<L>Like any parish Deputy.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>What are you?</P>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>I am the Constable,</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Good, the Constable?</L>
+<L>I begin to stroke my long eares, and find</L>
+<L>I am an Asse! such a dull Asse, as deserves</L>
+<L>Thistles for provander, and sawdust too</L>
+<L>Insteed of Graines! O I am finely gull'd.</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>Truely as proper a Bawd, as a woman</L>
+<L>Would desire to use?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Master Constable,</L>
+<L>Though these your Squires o'th Blade and Bill seeme to</L>
+<L>Be courteous Gentlemen, and well taught, yet</L>
+<L>I would know, why they embrace me?</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<P>You owe my neighbor (<HI>Mist. Queasie</HI>) foure yeares rent.</P>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<L>Yes and for three Bed Teekes and a Brasse Pot;</L>
+<L>Which your Wife promis'd me to pay this Terme,</L>
+<L>For now (she said) sh'expects her countrey Customers.</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>My Wife! have I beene led to'th Altar too;</L>
+<L>By some doughty Deacon, tane woman by</L>
+<L>The pretty thumb, and given her a Ring</L>
+<L>VVith my deare selfe, for better, and for worse,</L>
+<L>And all in a forgotten dreame? But for whom</L>
+<L>Doe you take me?</L>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<P>For the he Bawd.</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Good faith, you may as soone,</L>
+<L>Take me for a VVhale, which is something rare</L>
+<L>You know, o' this side the Bridge.</L>
+</SP>
+<SP>
+<SPEAKER>Mist Snore.</SPEAKER>
+<L>Tis indeed!</L>
+<L>Yet our <HI>Paul</HI> was in the belly of one,</L>
+<L>In my Lord Majors Shew; and husband you remember,</L>
+<L>He beckned you out of the Fishes mouth,</L>
+<L>And you gave him a Pepin, for the poore soule</L>
+<L>Had like t'have choak'd, for very thirst.</L>
+</SP>
+<SP>
+<PB REF="20"/>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>I saw it, and cry'd out</L>
+<L>O'th City, 'cause they would not be at charge</L>
+<L>To let the Fish swimme in a deeper Sea!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>Indeed; why I was but a tiny Girle then;</L>
+<L>I pray how long have you beene a Bawde heere?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Againe! how the Devil,</L>
+<L>Am I chang'd, since my owne Glasse rendred me</L>
+<L>A Gentleman: well, master Constable,</L>
+<L>Though ev'ry Stall's your Worships wooden Throane,</L>
+<L>Heere you are humble, and o' foote; therefore,</L>
+<L>I will put on my Hatt; pray reach it me!—
+<STAGE>misses his Diamond Hatband.</STAGE></L>
+<L>Death! my hatband! a row of Diamonds</L>
+<L>Worth a thousand Markes! Nay, it is time then</L>
+<L>To doubt, and tremble to. My Gold! my Gold!—
+<STAGE>searches his Pockets.</STAGE></L>
+<L>And precious stones!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snore.</SPEAKER>
+<L>Doe you suspect my Husband?</L>
+<L>He hath no neede o' your stones, I prayse heaven!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>A plague upon your courteous midnight Leaders!</L>
+<L>Good silly Saints, they are dividing now,</L>
+<L>And ministring (no doubt) unto the poore!</L>
+<L>This will decline the reputation of</L>
+<L>My Witt; till I be thought to have a lesse head</L>
+<L>Then a Iustice o' Peace! if <HI>Morglay</HI> hear't,</L>
+<L>He'le thinke me dull, as a Dutch Marriner!</L>
+<L>No med'cine now from thought? Good! 'tis design'd!</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<P>Come along! 'tis late.</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Whither must I goe?</P>
+</SP>
+<SP>
+<SPEAKER>Queasie.</SPEAKER>
+<P>To the Compter sir, unlesse my rent be payd!</P>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<P>And for being a Bawde!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pallat.</SPEAKER>
+<L>Confin'd in Wanscot Walls too,</L>
+<L>Like a licorish Rat, for nibling</L>
+<L>Unlawfully upon forbidden Cheese!</L>
+<L>This to the other sawce, is Alloes and Mirrh!</L>
+<L>But Master Constable doe you behold this Ring?</L>
+<L>It is worth all the Bells in your Church steeple,</L>
+<L>Though your Sexton, and Side-men hung there too,</L>
+<L>To better the Peale.</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<P>Well, what's your request?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Mary, that you will let mee goe to fetch</L>
+<L>The Bawd, the very Bawd, that owes this rent;</L>
+<L>Who being brought, you shall restore my Ring:</L>
+<L><PB REF="20"/>And believe mee to be an arrant Gentleman,</L>
+<L>Such as in's Scutchion gives Hornes, Hounds, and Hawkes,</L>
+<L>Hunting Nags, with tall E<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ters in Blew Coats,</L>
+<L>Sance Number!</L>
+</SP>
+<SP>
+<SPEAKER>Quea.</SPEAKER>
+<L>Pray let him goe Master <HI>Snore</HI>;</L>
+<L>Wee'l stay and keepe the goods!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snor.</SPEAKER>
+<L>Yes, let him Husband.</L>
+<L>For I would faine see a very bee Bawd!</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Come Neighbors, light him out!
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter Yo: Pallatine, Ample, Pert, Luce, Ginet, Engine, with lights.</STAGE>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>A Forrest full of Palmes, thy Lover (<HI>Luce</HI>)</L>
+<L>Merits in Girlands for his victory.</L>
+<L>I'm wild with joy! why there was wit enough</L>
+<L>In this designe to bring a Ship o' fooles</L>
+<L>To shore agen, and make them all good Pilots!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Madam, this Gentleman deserves to share</L>
+<L>In your kind praise, hee was a merry Agent</L>
+<L>In the whole plot, and would exalt himselfe</L>
+<L>To your Ladiships service: If you please</L>
+<L>For my humblesake, unto your Lip too! —
+<STAGE>Pert salutes her.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Sir you are friend to <HI>Pallatine,</HI></L>
+<L>And that entitles you unto much worth.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>The title will be better'd (Madam) when</L>
+<L>I am become a Servant to your beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Lucy.</SPEAKER>
+<L>Why your confederate <HI>Pert,</HI> is courtly too;</L>
+<L>Hee will out-tongue a Favorite of <HI>France!</HI></L>
+<L>But didst thou leave thy Brother surfetting</L>
+<L>On lewd hopes?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Hee belives all woman kind</L>
+<L>Dress'd, and ordain'd for th'mercy of his Tooth!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>And now lies stretch'd in his smooth slipperie sheets!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall,</SPEAKER>
+<L>O like, a wanton Snake on Camamile!</L>
+<L>And rifled to so sad remaines of wealth,</L>
+<L>That if his resolution still disdaine</L>
+<L>Suppliment from his Lands, and hee resolve</L>
+<L>To live here by his Wits; hee will ere long</L>
+<L>Betroth himselfe to Raddish women for</L>
+<L>Their roots; pledge Children in their sucking Bottles,</L>
+<L>And in darke winter Mornings, rob small School-boyes</L>
+<L>Of their Honey, and their Bread.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Faith, <HI>Meager</HI> and I, us'd him with as much</L>
+<L>Remorse, as our occasions could allow:</L>
+<L><PB REF="21"/>Las, he must thinke we shreds of time</L>
+<L>Have our occasions too!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>What (Madam) need he care?</L>
+<L>For let him but prove kind unto his <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>uls,</L>
+<L>Bring them their Heifers when their Crests are high;</L>
+<L>Stroake his faire Ewes, and pimpe a little for</L>
+<L>His Rammes; they strait will multiply; and then</L>
+<L>The next great Faire, prepares him fit agen,</L>
+<L>For'th Cities view, and our surprise.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Why this young Gentleman hath relish in't▪</L>
+<L>Yet when you understand the darke, and deepe</L>
+<L>Contrivements which my selfe, <HI>Engine,</HI> and <HI>Luce,</HI></L>
+<L>Have layd for this great witty Villager,</L>
+<L>To whom you bow as formost of your blood▪</L>
+<L>You will degrade your selves from all prerogatives,</L>
+<L>Above our Sexe, and all those pretty Markes</L>
+<L>Of Manhood (your trim beards) sindge oft with Tapers,</L>
+<L>As a just Sacrifice to our Supremacie!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>If Sir <HI>Tirant Thrift,</HI> your Phlegmatick Guerdian</L>
+<L>Leave but this Mansion ours till the next Sunne,</L>
+<L>We'le make your haughty brother tremble at</L>
+<L>The name of Woman, and blush behinde a Fanne</L>
+<L>Like a yawning Bride, that hath fowle Teeth!</L>
+</SP>
+<SP>
+<SPEAKER>Engine.</SPEAKER>
+<L>Madame, tis time you were a Bedd; for sure besides</L>
+<L>The earnest invitation which I left,</L>
+<L>Writ in his Chamber, these afflictions will</L>
+<L>Disturbe his rest, and bring him early hither</L>
+<L>To recover his sicke hopes.—
+<STAGE>Enter Meager.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L><HI>Meager</HI>! What newes? Madam, the homage of</L>
+<L>Your Lip agen; A Man o' Warre believ't;</L>
+<L>One that hath fasted in the face of's foe;</L>
+<L>Seene <HI>Spinola</HI> entrench'd; sometimes hath spread</L>
+<L>His butter at the States charge; sometimes too,</L>
+<L>Fedd on a Sallad that hath growne upon</L>
+<L>The Enemies owne Land; but pardon me,</L>
+<L>Without or Oyle, or Vineger!</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<P>Sir, Men in choler may doe any thing.</P>
+</SP>
+<SP>
+<SPEAKER>Meager.</SPEAKER>
+<L>Your Ladiship will excuse his new plenty;</L>
+<L>It hath made him pleasant.</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<P><HI>Meager</HI>! what newes? how doe our Spies prosper?</P>
+</SP>
+<SP>
+<PB REF="21"/>
+<SPEAKER>Meager.</SPEAKER>
+<L>Sir rare discoveries! I've trac'd your Brother;</L>
+<L>You shall heare more anon!</L>
+</SP>
+<SP>
+<SPEAKER>Ginet▪</SPEAKER>
+<L>Your Ladiship forgets how carely your</L>
+<L>Designes will waken you?</L>
+</SP>
+<SP>
+<SPEAKER>Engine.</SPEAKER>
+<L>Madam, I'ld faine be</L>
+<L>Bold too, to hasten you unto your rest!</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>'Tis late (indeed) the silence of the Night</L>
+<L>And sleep be with you Gentlemen!
+<STAGE>Exeunt. Ample, Ginet: Engine</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>Madam, good night: but our heads never were</L>
+<L>Ordain'd to so much triviall leasure as</L>
+<L>To sleepe: you may as soone entreat</L>
+<L>A Sexton sleepe in's Bellfry when the Plague reignes;</L>
+<L>An aged Sinner in a Tempest, or</L>
+<L>A jealous States man when his Prince is dying!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Pray dismisse your friends, I would speake with you.</L>
+<L>Eig▪ <HI>Pall.</HI> Men o'the puissant Pike, follow the lights.—
+<STAGE>Exeunt Meager, Pert.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L><HI>Pall,</HI> you are as good natur'd to me <HI>Pall,</HI></L>
+<L>As the wife of a silenc'd Minister,</L>
+<L>Is to a Monarchy, or to lewd Gallants,</L>
+<L>That have lost a Nose!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<P>And why so Dame <HI>Luce</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>So many yellow Images at once</L>
+<L>Assembled in your fist, and Iewels too</L>
+<L>Of goodly price, all this free booty got,</L>
+<L>In lawfull warre, and I no tribute <HI>Pall?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>What neede it <HI>Luce?</HI> a Virgin may live cheape:</L>
+<L>Th'are maintain'd with as small charge as a Wren</L>
+<L>With Magots, in a Gheesemongers shop?</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Well <HI>Pall,</HI> and yet you know all my extreames?</L>
+<L>How for a little Taffata to line</L>
+<L>A Maske, I'm faine to mollifie my Mercer</L>
+<L>With a soft whisper, and a tim'rous blush;</L>
+<L>To sigh unto my Millener for Gloves;</L>
+<L>That they may trust, and not complaine unto my Aunt;</L>
+<L>Who is as jealous of me as their wives, and all</L>
+<L>Through your demeanor <HI>Pall</HI>; whose kindnesse I</L>
+<L>Perceive, will raise me to such dignitie,</L>
+<L>That I must teach Children in a darke Cellar,</L>
+<L>Or worke Coifes in a Garret for crackt Groates,</L>
+<L>And broken meat!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L><HI>Luce,</HI> I will give thee <HI>Luce,</HI> to buy</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>What <HI>Pall.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>An ounce of Arsnick to mixe in thy Aunts Caudels,</L>
+<L><PB REF="22"/>This Aunt, I must see cold, and grinning, <HI>Luce,</HI></L>
+<L>Seal'd t'her last winke, as if she clos'd her eyes</L>
+<L>T'avoyd the sight of Feathers, Co<GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/>hes, and short Cloakes!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>How many Angels of your Family</L>
+<L>Are there in heaven? but few I feare, and how,</L>
+<L>You'le be the first, that shall intitle them</L>
+<L>To such high calling, is to me a doubt!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pallat.</SPEAKER>
+<L>Why is there never a P<GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/> there (<HI>Luce</HI>) but for</L>
+<L>Your coughing Aunt, and you?</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Hadst thou eyes like flaming Beacons, crook'd homes,</L>
+<L>A tayle three yards long, and thy feet Cloven,</L>
+<L>Thou couldst not be more a Fiend, then thou art now;</L>
+<L>But to advance thy sinnes with being hard,</L>
+<L>And costive unto me!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>You lie <HI>Luce</HI>! you lie!—
+<STAGE>Flings her a Purse.</STAGE></L>
+<L>There's Gold! the Fairles are thy Mintmen Girle,</L>
+<L>Of this thou shalt have store enough, to make</L>
+<L>The hungry Academicks mention thee,</L>
+<L>In Evening Lectures, with aplause, and prayer:</L>
+<L>A Foundresse thou shalt be.</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Of Hospitals;</L>
+<L>For your decayed selfe, <HI>Meager,</HI> and <HI>Pert,</HI></L>
+<L>Those wealthy Vsurers, your poore friends.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>A Nunn'ry <HI>Luce,</HI> where all the female issue</L>
+<L>Of our decay'd Nobility shall live</L>
+<L>Thy Pensioners: it will preserve them from</L>
+<L>Such want, as makes them quarter Armes with th'City,</L>
+<L>And match with sawcie Haberdashers Sons,</L>
+<L>Whose Fathers liv'd in Allyes, and darke Lanes!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Good night <HI>Pall!</HI> your gold Ile lay up, though but</L>
+<L>T'incounter the next Surgeons Bill; yet know</L>
+<L>Our Wits are ploughing too, and in a ground</L>
+<L>That yields as faire a graine as this!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Farewell, and let mee heare thy Aunt is stuck</L>
+<L>With more Bay leaves and Rose-mary, than a</L>
+<L>Westphalia Gammon.
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter Elder Pallatine, and Thwack, dressing himselfe.</STAGE>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Quick, dispatch Knight! thou art as tedious in</L>
+<L>Thy dressing, as a Court Bribe; two ships might</L>
+<L>Be rigg'd for the Straits, in lesse space than thou</L>
+<L>Carienst that same old Hulke, can it be thought</L>
+<L><PB REF="22"/>That one so fill'd with hope and wise designes</L>
+<L>Could be subdu'd with sleepe, what dull, and drowsie?</L>
+<L>Keepe earlier howers than a roost Hen in Winter?</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L><HI>Pallatine,</HI> the designe grow all Dreame, Magick,</L>
+<L>And Alchymie to mee: I gave it lost!</L>
+<L>Clove to my soft Pillow, like a warme Iustice,</L>
+<L>And slept there with lesse noyse than a dead Lawyer</L>
+<L>In a Monument.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>This is the house; dispatch, that I may knock.</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>S'light stay, thou think'st I've the dexterity</L>
+<L>Of a Spaniell, that with a yawne, a scratch</L>
+<L>On his left eare, and stretching his hind legs,</L>
+<L>Is ready for all day: O for the Biscayne sleeve,</L>
+<L>And Bulloigne hose, I wore when I was shrieve,</L>
+<L>In Eighty Eight!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Faith thou art comely Knight!</L>
+<L>And I already see the Towne Girles melt,</L>
+<L>And thaw before thee.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Wee must be content!</L>
+<L>Thou knowst all men are bound to were their limbs</L>
+<L>I'th same skin that Nature bestowes upon them;</L>
+<L>Be it rough or be it smooth; for my part,</L>
+<L>If she to whom you lead me now like not</L>
+<L>The graine of mine, I will not flea my selfe,</L>
+<L>T'humor the touch of her Ladi-ships fingers!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Well I had thought t'have carry'd it with Youth,</L>
+<L>But when I came to greet her beauties with</L>
+<L>The Eyes of Love and wonder, shee despis'd mee,</L>
+<L>Rebuk'd those haughty Squires, her Servants that</L>
+<L>Convay'd mee thither in mistake, and cry'd,</L>
+<L>She meant the more Authentick Gentleman,</L>
+<L>The rev'rend Mounsier, shee!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>The rev'rend Mounsier?</L>
+<L>Why does shee take mee for a <HI>French Deane?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>Her Confessor at least, her secrets are</L>
+<L>Thine owne; but by what Charmes attain'd;</L>
+<L>Let him determine that has read <HI>Agrippa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Charms? yes Sir, if this be a Charm—or this—
+<STAGE>leaps and frisks.</STAGE></L>
+<L>Or here againe t'advance th'activity</L>
+<L>Of a poore old back!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>No Ape, Sir <HI>Morglay,</HI></L>
+<L>After a yeeres obedience to the Whip,</L>
+<L>Is better quallify'd!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Limber, and sound Sir!</L>
+<L>Besides, I sing, little <HI>Musgrove</HI>; and then</L>
+<L><PB REF="23"/>For, the <HI>Chivie Chase,</HI> no Larke comes neere mee!</L>
+<L>If shee be t'ane with these, why at her perill bee't!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Come Sir, dispatch! Ile knock, for here's the house▪</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Stay, stay! this Lane (sure) has no great renowne!</L>
+<L>The house too, if the Moone reveal't aright,</L>
+<L>May for it's small Magnificence be left</L>
+<L>(For ought we know) out of the Cittie Map!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Therein consists the Miracle, and when</L>
+<L>The doores shall ope, and thou behold, how leane</L>
+<L>And ragged ev'ry roome appeares, till thou</L>
+<L>Hast reach'd the Sphaere, where shee (Illustrious) moves,</L>
+<L>Thy wonder will be more perplex'd; for know</L>
+<L>This Mansion is not hers, but a conceal'd</L>
+<L>Retirement, which her wisedome safely chose</L>
+<L>To hide her loose love.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Give mee a Bagadg that has braines! but <HI>Pallatine,</HI></L>
+<L>Did not I at first perswade thee, those two</L>
+<L>Trim Gentlemen, her Squires, might happily</L>
+<L>Mistake the person unto whom the message was</L>
+<L>Dispos'd; and that my selfe was hee?</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Thou didst! and thou hast got (Knight) by this hand</L>
+<L>I thinke, the <HI>Mogul's Neece</HI>; shee cannot be</L>
+<L>Of lesse discent; the height and strangenesse of</L>
+<L>Her port, denote her forraigne, and of great blood!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>What should the <HI>Mogul's Neece</HI> doe here?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>'Las thy Eares are buried in a Wool-sack;</L>
+<L>Thou hear'st no Newes! 'tis all the voyce in Court,</L>
+<L>That shee is sent hither in disguise, to learne</L>
+<L>To play on the <HI>Gitarh,</HI> and make Almond Butter!</L>
+<L>But whether this great Lady that I bring</L>
+<L>Thee too, be shee; is yet not quite confirm'd!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Thou talk'st o'th high, and strange comportment that</L>
+<L>Thou found'st her in!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Right Sir! she sat on a rich Persian Quilt,</L>
+<L>Thridding a Carckanet, of pure, round Pearle,</L>
+<L>Bigger than Pidgeons Egges!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>Those I will sell!</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Her Maids with little Rods of Rose-marie,</L>
+<L>And stalks of Lavander, were brushing Ermines skins;</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<P>Furres for the Winter! Ile line my Breeches with them!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Her young smooth Pages lay, round at her feet;</L>
+<L><PB REF="23"/>Cloath'd like the Sophies Sons; and all at Dice;</L>
+<L>The Caster six Wedges a Cubit long</L>
+<L>Cries one; another comes a Tun of Pistolets;</L>
+<L>And then is cover'd with an Argosie,</L>
+<L>Laden with <HI>Indico,</HI> and <HI>Cutchy nill!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>This must be the great <HI>Mogul's Neece!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>As for her Groomes, they all were planted on</L>
+<L>Their knees, carowsing their great Ladies health</L>
+<L>In perfum'd Wines, and then straight quallify'd</L>
+<L>Their wild, voluptuous heats with coole Cerbet,</L>
+<L>The <HI>Turkes</HI> owne Iulip?</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Knock, <HI>Pallatine!</HI></L>
+<L>Quick Rogue! I cannot hold; little thought I</L>
+<L>The <HI>Thwack's</HI> of the North, should inoculate</L>
+<L>With the <HI>Mogul's</HI> of the South!—
+<STAGE>Pallatine knocks.</STAGE></L>
+</SP>
+<STAGE>Enter Snore.</STAGE>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Speake softly Master Constable, I've brought</L>
+<L>The very hee Bawd!</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Blessing on your heart Sir!</L>
+<L>My Watch are above at <HI>Trea Trip,</HI> for a</L>
+<L>Black Pudding, and a pound o' <HI>Suffolke</HI> Cheese;</L>
+<L>They'l ha'done straight: Pray fetch him to mee,</L>
+<L>Ile call them downe, and lead him to a by-roome!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<P><HI>Pallatine,</HI> what's he?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>The Ladies steward sir,</L>
+<L>A sage Phylosopher, and a grave Pandar!</L>
+<L>One that hath writ bawdy Sonnets in <HI>Hebrew,</HI></L>
+<L>And those so well, that if the Rabbins were</L>
+<L>Alive, 'tis thought hee would corrupt their Wives.</L>
+<L>Follow mee Knight!—</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L><HI>Pallatine,</HI></L>
+<L>Halfe the large Treasure that I get is yours!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>Good faith (my friend) when you are once possess'd</L>
+<L>Of all, 'tis as your Conscience will vouchsafe.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Do'st thou suspect? Ile stay here till thou fetch</L>
+<L>A Bible, and a Cushion, and sweare kneeling!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>My Faith shall rather couzen mee; walke in</L>
+<L>With this Phylosopher — No words! for hee's</L>
+<L>A Pythagorian and Professes silence!</L>
+<L>My Ring Master Constable—
+<STAGE>Snore gives him his Ring, then Exit with Thwack.</STAGE></L>
+<L>Here yet my Reputation's safe! should hee</L>
+<L>Have heard of my mischance, and not accompany'd</L>
+<L>With this defeat upon himselfe, his Mirth</L>
+<L>And Tyranny had beene 'bove humane Sufferance!</L>
+<L><PB REF="24"/>Now for the Lady <HI>Ample,</HI> shee (I guesse)</L>
+<L>Lookes on mee with strong fervent Eyes; shee's rich;</L>
+<L>And could I worke her into profit, 'twould</L>
+<L>Procure my Wit, immortall memory;</L>
+<L>But to be gull'd? and by such Trifles too;</L>
+<L>Dull, humble Gentlemen that nere drunke Wine,</L>
+<L>But on some Coronation day, when each</L>
+<L>Conduit pisses Cl<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ret at the Towne charge!</L>
+<L>Well, though tis worse than Steele or Marble to</L>
+<L>Digest; yet I have learn<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>d, one stop in a</L>
+<L>Careire, taint<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> not a Rider with disgrace;</L>
+<L>But may procure him breath to win the race.
+<STAGE>Exit.</STAGE></L>
+</SP>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<HEAD>ACT. 4. SCEN. 1.</HEAD>
+<STAGE>Enter Yo: Pallatine, Engine, Meager, Pert, Pallatine richly cloath'd.</STAGE>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Your Brother's in the house; the Letter which</L>
+<L>I sent to tempt him hither wrought above</L>
+<L>The reach of our desires; My Lady Sir,</L>
+<L>Hee does believe is sicke to death; and all,</L>
+<L>In languishment for his deare love.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L><HI>Pert,</HI> and <HI>Meager,</HI> though you have both good faces,</L>
+<L>They must not be seene here; there is below,</L>
+<L>A Brother o'mine; whom (I take it) you</L>
+<L>Have us'd not overtenderlie.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>S'light he must needs remember us!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Wee'l sooner stay t'out-face a Basiliske!</L>
+<L>Whither shall wee goe?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>To <HI>Snore</HI> the Constable: <HI>Morglay</HI> is still</L>
+<L>A Pris'ner in his house; take order for's</L>
+<L>Release, as I projected, but (d'you heare)</L>
+<L>Hee must not free him till I come.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L><HI>Pall,</HI> will the dull Ruler of the night <HI>(Pall)</HI></L>
+<L>Obay thy Edict!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall:</SPEAKER>
+<L>His wife will, and she's his Constable!</L>
+<L>Name mee but to her, and shee does homage!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>Enough, wee will attend thee there!</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>This way Gentlemen.
+<STAGE>Exeunt Engine, Pert, Meager.</STAGE></P>
+</SP>
+<STAGE>Enter Elder Pallatine.</STAGE>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>What's this, an apparition, a Ghost imbroider'd?</L>
+<L>Sure he has got the Devill for his Taylor.</L>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<P>Good morrow Brother, Morrow!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>You are in glory sir, I like this flourishing!</L>
+<L>The Lilly too, lookes handsome for a Month;</L>
+<L>But you (I hope) will last out the whole yeare!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>What flourishing? O Sir, belike you meane</L>
+<L>My Cloathes; th'are Ragges, course homely Ragges, beleev't;</L>
+<L>Yet they will serve for'th Winter sir, when I</L>
+<L>Ride post in <HI>Sussex</HI> wayes! —</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>This gayetie denotes</L>
+<L>Some solitary treasure in the Pocket,</L>
+<L>And so you may become a lender too;</L>
+<L>You know, I'm farre from home!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<P>I'le lend nothing, but good Counsell, and Witt?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Why, sure, you have no Factors sir, in <HI>Delph,</HI></L>
+<L><HI>Lyghorne, Aleppo,</HI> or'th <HI>Venetian Iles,</HI></L>
+<L>That by their Traffique can advance you thus;</L>
+<L>Nor doe you trade i'th City by retaile</L>
+<L>In our small Wares: All that you get by Law,</L>
+<L>Is but a dolefull Execution</L>
+<L>After Arrest; and for your power in Court;</L>
+<L>I know your stockings being on, you are</L>
+<L>Admitted in the Presence.</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>What does this inferre Brother?</L>
+<L>Men of designe are chary of their Minutes,</L>
+<L>Be quicke, and subtile!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>The Inf'rence is</L>
+<L>You prosper by my documents; and what</L>
+<L>You have atchiev'd must be, by your good Wits!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>If you had had a <HI>Sybill</HI> to your Nourse,</L>
+<L>You could not (Sir) have aym'd neerer the truth.</L>
+<L>I saw your Eares and Baggs, were shut to all</L>
+<L>Intents of bounty; therefore was inforc'd</L>
+<L>Into this way; and 'twas at first somewhat</L>
+<L>Against my Conscience too!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>If not to vex</L>
+<L>The zealous spirit in you, I would know why?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Good faith I've search'd Records, and cannot find</L>
+<L>That <HI>Magna Charta</HI> does allow a Subject</L>
+<L>To live by his Wits; there is no Statute for't!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Your Common Lawyer was no Antiquary!</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pal.</SPEAKER>
+<L>And then (credit me Sir) the Canons of</L>
+<L>The Church authorize no such thing.</L>
+</SP>
+<SP>
+<PB REF="25"/>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>You have met with a dull Civillian too!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Yet Brother, these impediments cannot</L>
+<L>Choke up my way; I must still on!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>And you believe the Stories of young heires</L>
+<L>Enforc'd to signe at Mid-night to appease</L>
+<L>The Sword Mans wrath, may be out-done by you!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>I were unkind else, to my owne good parts!</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>And that your Wit has power to tempt from the</L>
+<L>Severe, grave Bench, the Aldermen themselves,</L>
+<L>To rifle where you please, for Skarfes, Feathers,</L>
+<L>And for Race Nags!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>It is believ'd Sir, in a trice!</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>And that your wit can lead our rev'rend Matrons,</L>
+<L>And tefty Widowes of fourscore, to scale</L>
+<L>(And in their smocks) for fraile commodities</L>
+<L>To elevate your Punke?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>All this Sir, is so easie,</L>
+<L>My Faith would swallow't, though t'had a sore throat!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>Give mee thy hand! This day Ile cut off the entaile</L>
+<L>Of all my Lands, and dis-inherit thee!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>Will you Sir? I thanke yee!</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>But marke mee Brother; for there's Iustice in't,</L>
+<L>Admits of no reproofe; what should you doe</L>
+<L>With Land, that have a Portion in your braine,</L>
+<L>Above all Legacies or heritage?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>I conceive you!</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>O to live here, i'th faire Metropolis</L>
+<L>Of our great Isle, a free Inheritor</L>
+<L>Of ev'ry modest, or voluptuous wish,</L>
+<L>Thy young desires can breath; and not oblieg'd</L>
+<L>To'th Plough-mans toyles, or lazie Reapers swet;</L>
+<L>To make the world thy Farme, and ev'ry Man</L>
+<L>Lesse witty than thy selfe, Tennant for life;</L>
+<L>These are the glories that proclaime a true</L>
+<L>Phylosophie, and Soule, in him that climbes</L>
+<L>To reach them with neglect of Fame and Life!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>He carries it bravely! As he had felt</L>
+<L>Nothing that fits his owne remorse; but know,</L>
+<L>Sir <HI>Eagle,</HI> th'higher that you flye, the lesse</L>
+<L>You will appeare to us, dim sighted Fowle,</L>
+<L>That flutter here below. Brother, farewell!</L>
+<L>They say, the Lady of this house, groanes for</L>
+<L><PB REF="25"/>Your love, the tame sick foole is rich; let not</L>
+<L>Your pride beguile your profit!
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>I suspect him! Not all the skill I have</L>
+<L>In Reason, or in Nature can pronounce</L>
+<L>Him free, from the defeat upon my Gold,</L>
+<L>And Iewels! 'twas like a Brother! but for</L>
+<L>His two Confederates; though I should meet</L>
+<L>Them in a Mist, darker than Night, or Southerne Fens</L>
+<L>Produce, my Eies would be so courteous sure,</L>
+<L>To let mee know them!</L>
+</SP>
+<STAGE>Enter Ample, caried in as sicke in a Couch, Luce, Engine, Ginet.</STAGE>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Roome! More ayre! if heav'nly Ministers</L>
+<L>Have leasure to consider or assist</L>
+<L>The best of Ladies, let them shew it now!—</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>How doe you Madam? Oh, I shall lose</L>
+<L>The chiefe example of internall love</L>
+<L>Of gentle grace, and feature, that the world</L>
+<L>Did ever shew, to dignifie our Sex!</L>
+</SP>
+<SP>
+<SPEAKER>Eng.</SPEAKER>
+<P>Work on! I must stand Sentinell beneath!
+<STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>Is her disease growne up to such extremitie?</L>
+<L>Then it is time, I seeme to suffer too;</L>
+<L>Or else my hopes will prove sicker than shee!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>More cruell than the Panthar on his prey!</L>
+<L>Why speake you not? no comfort from your Lips;</L>
+<L>You Sir that are the cause of this sad hower!</L>
+</SP>
+<SP>
+<SPEAKER>Gin.</SPEAKER>
+<L>He stands as if his Legs had taken root;</L>
+<L>A very Mandrake!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>How comes it (Lady) all these Beauties that</L>
+<L>But yesterday did seeme to teach</L>
+<L>The Spring to flourish and rejoyce, so soone</L>
+<L>Are wither'd from our sight.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>It is in vaine, t'inquire the reason of</L>
+<L>That griefe, whose remedy is past; had you</L>
+<L>But felt so much remorse, or softnesse in</L>
+<L>Your heart, as would have made you nobly just,</L>
+<L>And pittifull; the Mourners of this day</L>
+<L>Had wanted then, their Dead to weepe upon!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Am I the cause? forbid it gentle heaven!</L>
+<L>The Virgins of our Land, when this is told,</L>
+<L>Will raze the Monumentall building, where</L>
+<L><PB REF="26"/>My buried flesh shall dwell, and throw my dust</L>
+<L>Before the sportive windes, till I am blowne</L>
+<L>About in parcels lesse then Eie-sight can</L>
+<L>Discerne!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Shee listens to you sir?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>If I am guilty of neglect;</L>
+<L>Give me a taste of dutie, name how farre</L>
+<L>I shall submit to love! the mind hath no</L>
+<L>Disease above recovery, if wee</L>
+<L>Have courage to remove dispaire!</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>O sir, the pride and scornes, with which you first</L>
+<L>Did entertaine my passions, and regard,</L>
+<L>Have worne my easie heart away; my breast</L>
+<L>Is emptier than mine Eies; that have distill'd</L>
+<L>Their Balls to Funerall Dew! It is too late!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L><HI>Ginet,</HI> my feares have in them too much Prophecie,</L>
+<L>I told thee shee would nere recover!</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>For my poore part, I wish no easier Bed</L>
+<L>At night, then the cold grave where she must lie!</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P><HI>Luce, Luce</HI>! intreat the Gentleman to sit!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Sit neere her sir! You heare her voyce growes weake!</P>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>That you may see your scornes could not perswade</L>
+<L>My love, to thoughts of danger or revenge;</L>
+<L>The faint remainder of my breath, Ile waste</L>
+<L>In Legacies, and Sir to you, you shall</L>
+<L>Have all, the Lawes will suffer me to give!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Who, I? sweet Saint, take heed of your last deeds!</L>
+<L>Your bounty carries cunning Murder in't;</L>
+<L>I shall be kill'd with kindnesse, and depart</L>
+<L>Weeping, like a fond Infant, whom the Nurse</L>
+<L>Would sooth, too early to his bed!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Nay Sir, no remedy, you must have all:</L>
+<L>Though you procur'd her death; the world shall not</L>
+<L>Report; she dy'd beholding to you!</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<P>Goe to her Sir, she'ld speake with you agen!</P>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Sir, if mine Eies, in all their health and glory,</L>
+<L>Had not the power to warme you into Love,</L>
+<L>Where are my hopes, now they are dimme, and have</L>
+<L>Almost forgot the benefit of light!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>Not love! Lady! Queene of my heart! what oathes</L>
+<L>Or execrations can perswade your faith</L>
+<L><PB REF="26"/>From such a cruell jealousie!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>I'd have some testimony Sir; if but</L>
+<L>T'assure the world, my love, and bounty at</L>
+<L>My death, were both conferr'd on one, that shew'd</L>
+<L>So much requitall, as declares he was</L>
+<L>Of Gentle humane race!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>What shall I doe?</L>
+<L>Prescribe mee dangers now, horrid as those</L>
+<L>Which Mid-night fires beget, in Citties overgrowne;</L>
+<L>Or Winter stormes produce at Sea, and try</L>
+<L>How far my love will make mee venture to</L>
+<L>Augment th'esteeme of yours!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>That triall of your love which I request</L>
+<L>Implies no danger Sir; 'tis not in mee</L>
+<L>T'urge any thing, but what your owne desires</L>
+<L>Would chuse!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Name it! like eager Mastiffs, chain'd</L>
+<L>From the encounter of their game, my hot</L>
+<L>Fierce appetite diminisheth my strength!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>'Tis onely this: for feare some other should</L>
+<L>Enjoy you when I'm cold, in my last sleepe;</L>
+<L>I would intreat you to sit heare, grow sick,</L>
+<L>Languish, and dye with mee!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>How! dye with you!
+<STAGE>Takes Luce aside.</STAGE></L>
+<L>'Twere fit, you hastned her to write downe all</L>
+<L>Shee can bestow, and in some forme of Law:</L>
+<L>I feare, shee's mad! her sences are so lost,</L>
+<L>Shee'l never find them to her use agen!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>I pray Sir why?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Did you not heare what a fantastick sute</L>
+<L>Shee makes, that I would sit and dye with her?</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Does this request seeme strange? you will doe little</L>
+<L>For a Lady, that deny to bring her</L>
+<L>Onward her last journey; or is't your thrift?</L>
+<L>Alas you know, soules travell without charge!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Her little skull is tainted too!</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>Is hee not willing <HI>Luce?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>My best deare Lady, I am willing to</L>
+<L>Resigne my selfe to any thing but death!</L>
+<L>Doe not suspect my kindnesse now; In troth</L>
+<L>I've businesse upon Earth will hold me here</L>
+<L>At least a score or two of yeares; but when</L>
+<L><PB REF="27"/>That's done; I am content to follow you!</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>If this perswasion cannot reach at your</L>
+<L>Consent; yet let mee witnesse so much love</L>
+<L>In you, as may enforce you languish, and</L>
+<L>Decay, for my departure from your sight.</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Can you doe lesse than languish for her death?</L>
+<L>Sit downe here, and begin! true sorrow Sir,</L>
+<L>If you have any in your brest will quickly</L>
+<L>Bring you low enough!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Alas good Ladies! do you think my languishment</L>
+<L>And griefe is to begin upon mee now?</L>
+<L>Heaven knowes how I have pin'd, and groan'd, since first</L>
+<L>Your letter gave mee knowledge of the cause!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>It is not seene Sir in your face!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>My face! I grant you; I bate inwardly!</L>
+<L>I'm scorch'd, and dry'd, with sighing to a Mummie:</L>
+<L>My Heart, and Liver are not big enough</L>
+<L>To choke a Daw! A Lamb layd on the Altar for</L>
+<L>A sacrifice hath much more entrailes in't!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Yet still, your sorrow alters not your face?</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Why no, I say! No man, that ever was</L>
+<L>Of Natures making hath a face moulded</L>
+<L>With lesse helpe for hypocrisie than mine!</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<P>Great pitty Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Though I endur'd the Diet and the Flux;</L>
+<L>Lay seven dayes buried up to'th Lips like a</L>
+<L>Deceas'd sad Indian in warme sand; whilst his</L>
+<L>Afflicted Female wipes his salt foame off</L>
+<L>With her owne haire, feeds him with Buds of Guacum</L>
+<L>For his salad; and Pulpe of Salsa for</L>
+<L>His Bread; I say, all this endur'd, would not</L>
+<L>Concerne my face! Nothing can decline that!</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>Yet you are us'd Sir, to bate inwardly!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>More than heires unlanded, or unjoynter'd Wives.</P>
+</SP>
+<STAGE>Enter Engine.</STAGE>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>What shall wee doe? <HI>Sir Tirant Thrift's</HI> come home!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Sir <HI>Tirant Thrift</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>My Ladies Guardian Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>He meets th'expected hower, just to my wish!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>What, hath hee brought a husband for my Lady?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>There is a certaine one legg'd Gentleman,</L>
+<L><PB REF="27"/>Whose better halfe of limbs is wood; for whom</L>
+<L>Kind Nature did provide no hands, to prevent</L>
+<L>Stealing; and to augment his gracefulnesse,</L>
+<L>Hee's crooked as a Witches Bin!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Is he so much wood?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>So much, that if my Lady were in health,</L>
+<L>And married to him, as her Guardian did</L>
+<L>Propose, wee should have an excellent generation</L>
+<L>Of Bed-staves.</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>When does hee come?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>To night if his slow Litter will consent;</L>
+<L>For they convay him tenderly, lest his</L>
+<L>Sharpe bones should grate together: Sir <HI>Pallatine,</HI></L>
+<L>I wish you could escape my Masters sight!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Is hee comming hither?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Hee's at the doore! My Ladies sicknesse was</L>
+<L>No sooner told him, but hee straight projects</L>
+<L>To proffer her a Will of his owne making!</L>
+<L>Hee meanes Sir to be heire of all: if hee</L>
+<L>Should see you here, hee would suspect my loyaltie,</L>
+<L>And doubt you for some cunning Instrument,</L>
+<L>That meanes to interrupt his covetous hopes!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Then Ile be gon.</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>No Sir, hee needs must meet you in</L>
+<L>Your passage downe! besides, it is not fit</L>
+<L>For you, and your great hopes, with my dependancie</L>
+<L>On both, to have you absent when my Lady dyes;</L>
+<L>I know you must have all: Sir I could wish</L>
+<L>That wee might hide you here! —</L>
+<L>Draw out the Chest within, that's big enough</L>
+<L>To hold you: it were dangerous to have</L>
+<L>My Ladies Guardian to find you Sir! —
+<STAGE>They draw in a Chest.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>How! layd up like a brush'd Gowne, under lock</L>
+<L>And key! By this good light, not I!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>O Sir, if but to save the honour of</L>
+<L>Your Mistris fame, what will hee thinke to see</L>
+<L>So comely, and so straight a Gentleman</L>
+<L>Converse here with a Lady in her Chamber!</L>
+<L>And in a time that makes for hi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> suspition too,</L>
+<L>When hee's from home!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>I hate enclosure, I;</L>
+<L>It is the humor of a distress'd Rat!</L>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>It is retirement Sir, and you'l come forth</L>
+<L><PB REF="28"/>Agen, so sage!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>Sir <HI>Pallatine</HI>! —</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Your Lady cals Sir, to her, and be kind!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Will you permit the last of all my howers</L>
+<L>Should be defil'd with Infamie, proclaim'd</L>
+<L>By lewder Tongues, to be unchaste ev'n at</L>
+<L>My death? what will my Guardian guesse to find</L>
+<L>You here?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>No more, Ile in! but think on't gentle Lady!</L>
+<L>First to bate in wardly, and then to have</L>
+<L>My outward person shut thus and inclos'd</L>
+<L>From day light, and your company; I say</L>
+<L>But thinke, if't be not worse than death!—
+<STAGE>He enters the Chest.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>Locke him up <HI>Luce,</HI> safe as thy Mayden-head! —</P>
+</SP>
+<STAGE>Enter Sir Tirant Thrift.</STAGE>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P><HI>Engine,</HI> where's my charge <HI>Engine,</HI> my deare charge?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Sick as I told you Sir, and lost to all</L>
+<L>The hope, that earthly med'cine can procure!</L>
+<L>Her Physitions have taken their last fees,</L>
+<L>And then went hence shaking their empty heads,</L>
+<L>As they had left lesse braine than hope!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Alas poore Charge! come, let me see her <HI>Engine!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>At distance Sir, I pray, for I have heard</L>
+<L>Your breath is somewhat sowre, with overfasting Sir,</L>
+<L>On Holy-day Eeves!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Ha! what is shee <HI>Engine?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>A pure, good soule, one that your Ward desir'd</L>
+<L>For love and kindreds sake, t'have neere her at</L>
+<L>Her death; shee'l outwatch a long Rush Candle,</L>
+<L>And reades to her all night the Posie of</L>
+<L>Spirituall Flowers!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Does she not gape for Legacies?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Fye no! there's a Cornelian Ring, perhaps</L>
+<L>Shee aimes at, cost Ten Groats; or a wrought Smock,</L>
+<L>My Lady made now 'gainst her wedding Sir;</L>
+<L>Trifles which Maids desire to weepe upon</L>
+<L>With Fun'rall Tales, after a Midnight Possit.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Thou saydst below, shee hath made mee her heire.</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>Of all, ev'n to her Slippers and her Pins!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P><HI>Luce,</HI> me thought <HI>Luce,</HI> I heard my Guardeans voyce!</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>It seemes her senses are growne warme agen;</L>
+<L>Your presence will recover her!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Will it recover her, then Ile be gon!</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>No Sir, shee'l straight grow cold agen! On! on!</L>
+<L><PB REF="28"/>She looks that you would speake to her.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>Alas poor Charge! I little thought to see</L>
+<L>This dolefull day.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>Wee all are mortall Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>I've taken care, and labour, to provide</L>
+<L>A Husband for thee; hee's in's Litter now,</L>
+<L>Hastening to Towne; a fine young Gentleman!</L>
+<L>Onely a little rumpled in the womb,</L>
+<L>With fals his Mother tooke, after his making.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Death is my husband now! but yet I thanke</L>
+<L>You for your tender paines, and wish you would</L>
+<L>Continue it in quiet governing my Legacies,</L>
+<L>When I am past the power to see it Sir;</L>
+<L>You shall enjoy all!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>This will occasion more Church building;</L>
+<L>And raising of new Hospitals; there were</L>
+<L>Enow before; but Charge you'l have it so.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Ile make Sir one request; which I have hope,</L>
+<L>You'l grant in thankfulnesse to all my bounty!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>O deare Charge! any thing! Your Couzen here</L>
+<L>Shall witnesse the consent and Act,</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Because I would not have my vanities</L>
+<L>Remaine, as fond examples to perswade</L>
+<L>An imitation in those Ladies that</L>
+<L>Succeed my youthfull Pride i'th Towne: my Plumes,</L>
+<L>Fantastick Flowers, and Chaines: my haughty Rich</L>
+<L>Embroideries: my gawdy Gownes, and wanton Iewels,</L>
+<L>I have lock'd within a Chest!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>There Sir, there the Chest stands.</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<P>And I desire it may be buried with mee!</P>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P><HI>Engine,</HI> take care <HI>Engine,</HI> to see it done!</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Now Sir, I beseech you leave mee: for 'twill</L>
+<L>But make my death more sorrowfull, thus to</L>
+<L>Continue my converse with one, I so</L>
+<L>Much love, and must forsake at last.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Alack, alack! bury her to night <HI>Engine!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Not Sir, unlesse shee dies. Her Ancestors</L>
+<L>Have sojourn'd long here in S<SUP>t</SUP>. <HI>Bartholmewes,</HI></L>
+<L>And there's a Vault i'th Parish Church, kept only</L>
+<L>For her Family; shee must be buried there.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>I <HI>Engine,</HI> I, and let mee see; the Church</L>
+<L><PB REF="29"/>Thou knowst, joynes to my house, a good prevention</L>
+<L>From a large walke; 'twill save the charge of Torch-light.</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>What Fun'rall Ghests? the neighbours Sir, will looke</L>
+<L>To be invited!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>No more than will suffise</L>
+<L>To carry downe the Corps; and thou knowst <HI>Engine,</HI></L>
+<L>Shee is no great weight.</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>And what to entertaine them Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>A little Rose-marie, which thou mayst steale</L>
+<L>From th'<HI>Temple Garden</HI>; and as many Comfits</L>
+<L>As might serve to Christen a Watchmans Bastard:</L>
+<L>Twill be enough!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>This will not doe! Your Citizen</L>
+<L>Is a most fierce devourer Sir of Plums!</L>
+<L>Six will destroy as many as can make</L>
+<L>A Banquet for an Armie!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>Ile have no more, <HI>Engine.</HI></L>
+<L>Ile have no more! nor (d'you heare) no Burnt wine;</L>
+<L>I doe not like this drinking healths to 'th memory</L>
+<L>O'th dead; it is prophane.</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>You are obay'd!</L>
+<L>But Sir, let mee advise you now to trust</L>
+<L>The care, and benefit of all your fate</L>
+<L>Presents you in this house, to my discretion;</L>
+<L>And get you instantly to horse agen.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Why <HI>Engine,</HI> speake?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>In briefe, you know, that all</L>
+<L>The Writings which concerne your Wards estate,</L>
+<L>Lye at her Lawyers, fifteene Miles from hence!</L>
+<L>Your credit, hee not knowing (Sir) shee's sick,</L>
+<L>Will eas'ly tempt them to your owne Possession:</L>
+<L>Which, once injoy'd, y'are free from all litigious sutes</L>
+<L>His envie might incense her Kindred to!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Enough <HI>Engine,</HI> I am gone!</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>If you should meet the crooked Lover in</L>
+<L>His Litter Sir (as 'tis in your owne rode)</L>
+<L>You may perswade him move like a Crab, backward;</L>
+<L>For here's no mixture, but with wormes.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>'Tis well thought on <HI>Engine!</HI> farewell <HI>Engine!</HI></L>
+<L>Be faithfull, and be rich! —</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>My breeding and</L>
+<L>Good manners Sir, teach mee t'attend your bounty!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>But <HI>Engine,</HI> I could wish, shee would be sure</L>
+<L><PB REF="29"/>To dye too night!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Alas good Soule! Ile vndertake</L>
+<L>Shee shall doe any thing to please you Sir!
+<STAGE>Exit Thrift.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L><HI>Engine,</HI> thou hast wrought above the power</L>
+<L>Of Accident, or Art!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>If you consider't with a just</L>
+<L>And lib'rall braine: first, to prevent</L>
+<L>Th'accesse, and tedious visits of the Fiend</L>
+<L>His love-sick Monster; and then rid him hence,</L>
+<L>Vpon a journey to preserve this house</L>
+<L>Empty, and free to celebrate the rest</L>
+<L>Of our designes!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>This <HI>Engine,</HI> is thy Holly-day!—
+<STAGE>Luce knocks at the Chest.</STAGE></L>
+<L>What hoa! Sir <HI>Pallatine,</HI> are you within?</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Is Sir <HI>Tirant Thrift</HI> gone? open Lady! open!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>The Cazement Sir I will, a little to</L>
+<L>Increase your witships allowance of aire!—
+<STAGE>opens a wicket at th'end of the Chest.</STAGE></L>
+<L>But th'troth, for liberty of limbs, you may</L>
+<L>As soone expect it in a Gally Sir,</L>
+<L>After six Murders and a Rape!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>How, Lady of the Lawne!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Sir <HI>Launcelot,</HI></L>
+<L>You may believ't, if your discreet faith please;</L>
+<L>This Tenement is cheape; here you shall dwell,</L>
+<L>Keepe home, and be no wanderer!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>The Pox take mee if I like this! sure when</L>
+<L>Th'advice of th'Ancients is but ask'd, they'l say</L>
+<L>I am now worse, than in the state of a Bawd!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>D'you know this Lady Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>The Lady <HI>Ample!</HI></L>
+<L>Her vayle's off too! and in the lusty garb</L>
+<L>Of health, and merriment! Now shall I grow</L>
+<L>As modest as a snayle that in's affliction</L>
+<L>Shrinks up himselfe, and's hornes into his shell,</L>
+<L>Asham'd still to be seene.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Couldst thou believe,</L>
+<L>Thou bearded Babe! thou dull ingenderer!</L>
+<L>Male rather in the back, than in the braine,</L>
+<L>That I could sicken for thy love? for th'cold</L>
+<L>Society of a thin Northerne Wit! —
+<STAGE>Eld: Pallatine sings.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>Then <HI>Troyains</HI> waile with great remorse,</L>
+<L>The <HI>Greekes</HI> are lock'd i'th wooden horse!
+<STAGE>Enter Yo: Pallatine.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L><HI>Pall,</HI> come in <HI>Pall!</HI> tis done! the spacious Man</L>
+<L><PB REF="30"/>Of Land, is now contented with his owne length.</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<P>Your Brother's come to see you Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pa.</SPEAKER>
+<L>Brother! Mad Girles these I couldst thou believ't sirrah!</L>
+<L>I am Coffin'd up like a Salmon Pye,</L>
+<L>New sent from <HI>Den'shire</HI> for a token! Come,</L>
+<L>Breake up the Chest!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<P>Stay Brother! whose Chest is it?</P>
+</SP>
+<SP>
+<SPEAKER>El. Pall.</SPEAKER>
+<L>Thou'lt aske more questions then a Constable</L>
+<L>In's sleepe! prethee dispatch!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>Brother, I can,</L>
+<L>But marke the Malice and the envy of</L>
+<L><GAP DESC="illegible" RESP="oxf" EXTENT="1 word" DISP="〈◊〉"/> Nature: I am no sooner exalted</L>
+<L>To rich Possessions, and a glorious meen;</L>
+<L>But straight you tempt mee to a forfeiture</L>
+<L>Of all; to commit Felony; breake open Chests!</L>
+</SP>
+<SP>
+<SPEAKER>Eld Pall.</SPEAKER>
+<P>O for <HI>Dame Patience!</HI> the Fooles Mistresse!</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>Brother, you have prayd well, heaven send her you!</L>
+<L>You must forsake your owne faire fertile soyle,</L>
+<L>To live here by your Wits!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>And dreame Sir of</L>
+<L>Enjoying goodly Ladies six yards high!</L>
+<L>With Sattin Traines behind them ten yards long!</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Cloth'd all in Purple, and imbroadred with</L>
+<L>Embossements wrought in Imag'ry, the works</L>
+<L>O'th ancient Poets drawne into similitude,</L>
+<L>And cunning shape!</L>
+</SP>
+<SP>
+<SPEAKER>Gin.</SPEAKER>
+<P>And this attain'd Sir by your Wits!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Nothing could please your haughty Pallat but</L>
+<L>The Muskatelli, and Frantiniak Grape!</L>
+<L>Your Turin and your Tuscan Veale, with Red</L>
+<L>Legg'd Partridge of the <HI>Genoa</HI> hils!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>With your broad Liver o'th Venecian Goose;</L>
+<L>Fatned by a Iew; and your aged Carpe,</L>
+<L>Bred i'th <HI>Geneva</HI> Lake!</L>
+</SP>
+<SP>
+<SPEAKER>Ampl. Luce. Ginet.</SPEAKER>
+<P>All this maintain'd Sir by your Wits!</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>And then you talk'd Sir of your Snailes t'ane from</L>
+<L>The dewy Marble Quarries of <HI>Carrara,</HI></L>
+<L>And sows'd in <HI>Luca</HI> Oyle; with Creame of <HI>Zwitzerland,</HI></L>
+<L>And <HI>Genoa</HI> pas<GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/>.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Your Angelots of <HI>Brie</HI>!</L>
+<L>Your M<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>rsolini, and Parmasan of <HI>Lodi</HI>!</L>
+<L>Your <HI>Malamucka</HI> Mellons, and <HI>Cicilian</HI> Dates!</L>
+<L>And then to close your proud voluptuous Maw,</L>
+<L><PB REF="30"/>Marmalad made, by the cleanely Nunnes of <HI>Lisbone</HI>!</L>
+</SP>
+<SP>
+<SPEAKER>Ample. Luce. Ginet.</SPEAKER>
+<P>And still thus feasted by your wits!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Deafned with tyranny! is there no end!</P>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Yes Sir, an end of you; you shall be now</L>
+<L>Convay'd into a closse darke Vault; there keepe</L>
+<L>My silent Grandsire company; and all</L>
+<L>The Musicke of your groanes, engrosse to your owne eares!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>How! buried, and alive?</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>Brother! your hand!—</L>
+<L>Farewell! I'm for the North! the fame of this</L>
+<L>Your voluntary death, will there be thought</L>
+<L>Pure courtesie to me; I meane to take</L>
+<L>Possession sir, and patiently converse</L>
+<L>With all those Hindes, those Heards, and Flocks,</L>
+<L>That you disdain'd in fulnesse of your Wit!</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Helpe <HI>Pall</HI> to carry him! he takes it heavily! —</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>I'le not endur't! fire! murder! fire! treason!</L>
+<L>Murder! treason! fire!—</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Alas you are not heard!</L>
+<L>The house containes none but our selves!
+<STAGE>Ex. carying out the Chest.</STAGE></L>
+</SP>
+<STAGE>Enter Thwack, Pert, Meager.</STAGE>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>We bring you sir, commends from <HI>Pallatine!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>I had as'live, y' had brought it from the Devill!</L>
+<L>Together with his hornes boyld to a Ielly,</L>
+<L>For a Cordiall against lust!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>We meane the younger <HI>Pallatine</HI>; one Sir,</L>
+<L>That loves your person, and laments this chance,</L>
+<L>Which his false brother hath exposde you to!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>And as we told you sir, by his command,</L>
+<L>We have compounded with the Constable;</L>
+<L>In whose darke house, y'are now a Prisoner!</L>
+<L>But sir, take't on my Faith; you must disburse!</L>
+<L>For Gold is a restorative, as well</L>
+<L>To libertie as health!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>And you beleeve</L>
+<L>(It seemes) that your small-tinie Officer</L>
+<L>Will take his Unction in the Palme as lovingly,</L>
+<L>As your exalted Grandee, that awes all</L>
+<L>With hideous voyce, and face!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Even so the Moderns render it!</P>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Thwack.</SPEAKER>
+<L>But Gentlemen, you aske a hundred pounds;</L>
+<L>Tis all I've left!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Sir doe but thinke what a</L>
+<L>Prodigious blemish it will be, both to</L>
+<L>Your ingenuitie, and fame, to be</L>
+<L>Betrayd by one, that is believ'd, no wittier than</L>
+<L>Your selfe, and lye imprison'd for a Bawd!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Sir name it not! You kill mee through the eare!</L>
+<L>I'd rather Sir, y'ould take my Mother from</L>
+<L>Her grave, and put her to doe Pennance in▪</L>
+<L>Her winding sheet: there is the Sum! —</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>I'le in Sir, and discharge you!
+<STAGE>Exit Meager.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>These carnall Mulcts and Tributes are design'd</L>
+<L>Onely to such vaine people as have Land;</L>
+<L>Are you, and your friend Landed Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Such land as wee can share Sir in the Map!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Lo'you there now! These live by their Wits!</L>
+<L>Why should not I take the next Key I meet,</L>
+<L>And open this great head; to try, if there</L>
+<L>Be any braines left, but sowre Curds, and Plum-broth!</L>
+<L>Couzen'd in my Youth! couzen'd in my Age!</L>
+<L>Sir, doe you judge, if I have cause to curse</L>
+<L>This false, inhumane Towne! when I was young,</L>
+<L>I was arrested for a stale commoditie</L>
+<L>Of <HI>Nut-crackers, long Gigs,</HI> and <HI>Casting Tops:</HI></L>
+<L>Now I am old, imprison'd for a <HI>Bawd!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>These are sad Tales!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>I will write downe to'th Country, to dehort</L>
+<L>The Gentry from comming hither, Letters</L>
+<L>Of strange dire Newes; You shall disperse them Sir!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Most faithfully!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>That there are Lents, six yeares long proclam'd by th'State!</L>
+<L>That our <HI>French</HI> and <HI>Deale</HI> Wines are poyson'd so</L>
+<L>With Brimstone by the <HI>Hollander,</HI> that they</L>
+<L>Will onely serve for Med'cine to recover</L>
+<L>Children of the Itch; and there is not left</L>
+<L>Sack enough, to mull for a Parsons cold!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>This needs must terrifie!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>That our Theaters are raz'd downe; and where</L>
+<L>They stood, hoarse Midnight Lectures preach'd by Wives</L>
+<L>Of <HI>Comb-makers,</HI> and Mid-wives of <HI>Tower-Wharfe!</HI></L>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Pert.</SPEAKER>
+<P>'Twill take impregnablie!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>And that a new Plantation Sir (marke me)</L>
+<L>Is made i'th <HI>Coven Garden,</HI> from the Sutlerie</L>
+<L>O'th <HI>German</HI> Campes, and the Suburbs of <HI>Paris,</HI></L>
+<L>Where such a salt disease regnes as will make</L>
+<L><HI>Sassafras</HI> dearer than <HI>Vnicornes Horne!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>This cannot chuse but fright the Gentry hence;</L>
+<L>And more impoverish the Towne, than a</L>
+<L>Subversion of their Faire of <HI>Bartholmew,</HI></L>
+<L>The absence of the Termes, and Court!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>You shall (if my projections thrive) in lesse</L>
+<L>(Sir) than a yeare; stable your horses in</L>
+<L>The <HI>New Exchange,</HI> and graze them in the <HI>Old</HI>!—</L>
+</SP>
+<STAGE>Enter Yo: Pallatine, Meager, Queasie, Snore, Mist: Snore.</STAGE>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Iog off! there's <HI>Pall,</HI> treating for your liberty!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>The Canopy, the Hangings, and the Bed,</L>
+<L>Are worth more than your Rent! come, y'are overpaid!</L>
+<L>Besides, the Gentleman's betray'd! hee is no Bawd!</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Truely, a very civill Gentleman!</L>
+<L>'Las, hee hath onely roar'd, and sworne, and curs'd</L>
+<L>Since hee was t'ane: no bawdry Ile assure yee!</L>
+</SP>
+<SP>
+<SPEAKER>Mist: Snor.</SPEAKER>
+<P>Gossip <HI>Queasie</HI>! what a good'yer would ye have?</P>
+</SP>
+<SP>
+<SPEAKER>Quea.</SPEAKER>
+<P>I am content, if you and I were friends!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Come, come agree! 'tis I that ever bleed,</L>
+<L>And suffer in your wars!</L>
+</SP>
+<SP>
+<SPEAKER>Mist. Snor.</SPEAKER>
+<L>Sweet Master <HI>Pallatine,</HI> here me but speake!</L>
+<L>Have I not often said, Why neighbour <HI>Queasie,</HI></L>
+<L>Come to my house; besides, your Daughter <HI>Mall,</HI></L>
+<L>You know, last Pompeon time, din'd with me thrice!</L>
+<L>When my childs best yellow stockings were missing;</L>
+<L>And a new Pewter Porenger mark'd with <HI>P. L.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<P>I for <HI>Elizabeth Snore!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mist: Snor.</SPEAKER>
+<P>The Pewterer that mark'd it was my Uncle!</P>
+</SP>
+<SP>
+<SPEAKER>Quea.</SPEAKER>
+<P>Why, did my Daughter steale your goods?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Snor.</SPEAKER>
+<L>You heare me say nothing! but there is</L>
+<L>As bad as this (I warrant yee) learn't at</L>
+<L>The Back-house! Ile have an Oven o'mine owne shortly!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Come, no more words! there's to reconcile you</L>
+<L>In Burnt wine, and Cake! Goe, get you all in!</L>
+<L><PB REF="32"/>I'm full of businesse, and strange Mistery!</L>
+</SP>
+<STAGE>Exeunt Snore, Mist: Snore, Queasie.</STAGE>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<L>A hundred <HI>Pall!</HI> 'twas all his store; it lies</L>
+<L>Here my brave Boy, warme, and secure in Pouch!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Wee'l share't anon.— What need your blush Sir <HI>Morglay,</HI></L>
+<L>Like a Mayd newly undone in a darke</L>
+<L>Entrie? There are disasters sure, as bad</L>
+<L>As yours Recorded in the Citie Annals!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Your Brother is a Gentleman of a</L>
+<L>Most even, and blessed composition, Sir;</L>
+<L>His very blood is made of <HI>Holy-Water,</HI></L>
+<L>Lesse salt, than <HI>Almond-milke</HI>!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>My silly reprehension's were dispis'd;</L>
+<L>Y'would be his Disciple, and follow him,</L>
+<L>In a new Path, unknowne to his owne feet.</L>
+<L>Yet I've walk't in it since; and prosper'd as</L>
+<L>You see, without or Land, or Tenement.</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Tis possible to live b'our Wits! that is</L>
+<L>As evident as light, no humane learning</L>
+<L>Shall advise me from that Faith!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Sir Knight, what will you give worthy my braine,</L>
+<L>And mee; if after a concealement of</L>
+<L>Your present shame, I can advise you, how,</L>
+<L>T'achieve such store of wealth, and treasure, as</L>
+<L>Shall keepe you here, th'exemplar glory of</L>
+<L>The Towne, a long whole yeare, without reliefe</L>
+<L>Or charge, from your owne Rents. This (I take it)</L>
+<L>Was the whole Pride, at which, some few dayes since,</L>
+<L>Your fancie aym'd!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>This was Sir in the howres</L>
+<L>Of haughtinesse and hope! but now—</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Ile do't: whilst my poore Brother too; low, and</L>
+<L>Declin'd, shall see, and envie it.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Live in full port; observ'd, and wondred at?</L>
+<L>Wine, ever flowing in large <HI>Saxon Romekins</HI></L>
+<L>About my board; with your soft sarsnet smock</L>
+<L>At night; and forreigne Musick to entranse?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>All this, and more than thy invention can</L>
+<L>Invite thee too.</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Ile make thee heire of my</L>
+<L><PB REF="32"/>Estate! take my right hand, and your two friends</L>
+<L>For witnesses!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Enough! heare mee with haste!</L>
+<L>The Lady <HI>Ample's</HI> dead!— Nay there are things</L>
+<L>Have chanc'd since your concealment far more fit</L>
+<L>For wonder Sir, than this: Out of a silly piety,</L>
+<L>T'avoyd a thirst of Gold, and gawdy Pride</L>
+<L>I'th world; sh'ath buried with her in a Chest,</L>
+<L>Her Iewels, and her Clothes; besides, as I'm</L>
+<L>Enform'd by <HI>Luce</HI> (my wise Intelligence)</L>
+<L>Five thousand pounds in Gold; a Legacie,</L>
+<L>Left by her Aunt more than her Guardian knew!</L>
+</SP>
+<SP>
+<SPEAKER>Thwac.</SPEAKER>
+<P>Well, what of this?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Your selfe, and I, joyn'd Sir in a most firme</L>
+<L>And loyall League, may rob this Chest!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>Marrie, and will!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Then when your promise is but ratify'd,</L>
+<L>Take all the treasure for your owne expence!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Come let us goe; My fingers burne till they</L>
+<L>Are telling it! The night will grow upon's!</L>
+<L>Onely you and I, I'le not trust new Faces:</L>
+<L>Dismisse these Gentlemen!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>At the next street Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>This is at least a girne of Fortune, if</L>
+<L>Not a faire smile. I'm still for my old Problem;</L>
+<L>Since the living rob mee, Ile rob the dead!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>On my delicious <HI>Pert!</HI> Now is the time</L>
+<L>To make our Purses swell, and Spirits climbe!
+<STAGE>Exeunt omnes.</STAGE></L>
+</SP>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<HEAD>ACT. 5. SCEN. 1.</HEAD>
+<STAGE>Enter Yo: Pallatine, Ample, Luce, Engine, with a Torch.</STAGE>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L><HI>Engine,</HI> draw out the Chest, and ope the Wicket!</L>
+<L>Let us not hinder him the ayre, since tis</L>
+<L>Become his food!</L>
+</SP>
+<SP>
+<SPEAKER>Eld, Pall.</SPEAKER>
+<P>Who's there? what are you? speak!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>A brace of mourning Virgins Sir; that had</L>
+<L>You dy'd in Love, and in your Wits, would now</L>
+<L>Have brought Roses, and Lillies, Buds of the Brier,</L>
+<L>And Summer Pinks to strew upon your Herse!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Then you resolve mee dead!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>'Twere good that you would so resolve your selfe!</P>
+</SP>
+<SP>
+<PB REF="33"/>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>She counsells you to wise and severe thoughts;</L>
+<L>Why, you are no more mortify'd, then Men</L>
+<L>That are about to dance the Morrice!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Ladies, and Brother too (whom I beginne</L>
+<L>To worship now, for tendernesse of heart)</L>
+<L>Can you believe, I am so leaden, stupid,</L>
+<L>And so very a Fish, to thinke you dare</L>
+<L>Thus murther me in bravery of Mirth,</L>
+<L>You haue gone farre: part of my suff'rance I</L>
+<L>Confesse a justice to me!</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>O, doe you so!</L>
+<L>Hath your heart, and braine mett upon that point;</L>
+<L>And render'd you silly to your owne thoughts!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Somewhat mistaken i'th projection of</L>
+<L>My journey hither! Three houres in a Chest</L>
+<L>Among the dead; will profit more than three</L>
+<L>Yeares in a Study; 'Mongst Fathers, Schoolemen,</L>
+<L>And Phylosophers!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pal.</SPEAKER>
+<L>And y'are perswaded now, that there is relatiue</L>
+<L>To'th maintaining of a poore younger Brother,</L>
+<L>Something beside his Witts?</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>'Tis so conceiv'd!</P>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>And that we Ladies of the Towne, or Court,</L>
+<L>Have not such waxen hearts, that ev'ry beame</L>
+<L>From a hott Lovers Eie, can melt them through</L>
+<L>Our Breasts?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Faith, 'tis imagin'd too!</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>That though th'unruly Apetites of some</L>
+<L>Perverted few, of our fraile Sex, have made</L>
+<L>Them yield their honors to unlawfull love;</L>
+<L>Yet there is no such want of you Male-sinners</L>
+<L>As should constraine them hyre you to't with Gold?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Y'have taught me a new Musick, I am all</L>
+<L>Consent, and concordance!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>And that, the nimble packing hand, the swift</L>
+<L>Disordred shuf<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>lle, or the slurr; or his</L>
+<L>More base imployment, that with youth, and an</L>
+<L>Eternall back, engenders for his bread;</L>
+<L>Doe all belong to Men, that may be said</L>
+<L>To live sir, by their Sinnes, not by their Witts!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Sir, whom I love not, nor desire to love,</L>
+<L>I am of your minde too!</L>
+</SP>
+<SP>
+<SPEAKER>Yo, Pall.</SPEAKER>
+<L>Madame, a faire conversion, 'tis now fit</L>
+<L><PB REF="33"/>I sue unto you, for his libertie!</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Alas he hath so profited in this</L>
+<L>Retirement, that I feare he will not willingly</L>
+<L>Come out!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>O Lady, doubt it not! Open the Chest!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>A litle patience Sir!
+<STAGE>Enter Ginet.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>Madam, we are undone, your Guardian is</L>
+<L>At dore, knocking as if he meant to wake</L>
+<L>All his dead Neighbours in the Church!</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<P>So soone return'd! it is not midnight yet!</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>I know the bayt that tempts him backe with such</L>
+<L>Strange hast; and have according to your will</L>
+<L>Provided (Madam) to betray his hopes!</L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<P>Excellent <HI>Engine</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Engine.</SPEAKER>
+<L>This Key convayes you through the Chancell to</L>
+<L>The house Gall'ry! My way lies here; Ile let</L>
+<L>Him in, and try how our designe will relish!—
+<STAGE>Exit Engine.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ample.</SPEAKER>
+<L>Come sir, it is decreed in our wise Counsell,</L>
+<L>You must be layd some distance from this place!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Pray save your labour (Madam) I'le come forth!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>No sir, not yet!</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<P>Brother, a cast of your voyce!</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>She hath the Key Brother! tis but an howers</L>
+<L>Darke contemplation more!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Madam, here me speake.</P>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>Nay, no beginning of orations now;</L>
+<L>This is a time of great dispatch, and hast;</L>
+<L>We have more plots then a Generall in a siedge! —
+<STAGE>Ex. carrying out the Chest.</STAGE></L>
+</SP>
+<STAGE>Enter Thrift, Engine.</STAGE>
+<SP>
+<SPEAKER>Engine.</SPEAKER>
+<L>None of the Writings Sir, and yet perplex</L>
+<L>Your selfe, with so much speed in a returne!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>The Lawyer was from home, but <HI>Engine,</HI> I</L>
+<L>Had hope to have prevented by my hast,</L>
+<L>Though not her Fun'rall, yet the Fun'rall of</L>
+<L>The Chest; Ah deare <HI>Engine,</HI> tell me but why</L>
+<L>So much pure innocent Treasure, should be</L>
+<L>Thus throwne into a darke forgetfulnesse!</L>
+</SP>
+<SP>
+<SPEAKER>Engine.</SPEAKER>
+<L>I thought, I had encountred his intents!</L>
+<L>All Sir, that Law, allow'd her bounty to</L>
+<L>Bestow, is yours; but for the Chest; trust me,</L>
+<L>'Tis buried sir; the Key is here sir, of no use!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Hah, <HI>Engine!</HI> Give it me!—</P>
+</SP>
+<SP>
+<PB REF="34"/>
+<SPEAKER>Engin.</SPEAKER>
+<L>And Sir, to vex your meditation more,</L>
+<L>Though not with Manners, yet with truth; know there</L>
+<L>Is hidden in that Chest, a plenteous heape</L>
+<L>Of Gold; together with a Rope of most</L>
+<L>Inestimable Pearle, left by her late</L>
+<L>Dead Aunt by will, and kept from your discovery!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Is this true, <HI>Engine?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>That precise Chit <HI>Luce,</HI> her couzen <HI>Puritan</HI></L>
+<L>Was at th'interring of't; conceal'd it till</L>
+<L>The Fun'rall formes were past; and then forsooth,</L>
+<L>Shee boasted that it was a pious Meanes,</L>
+<L>To avoyd covetous desires i'th world▪</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>These Fun'rall tales (<HI>Engine</HI>) are sad indeed;</L>
+<L>Able to melt an Eye, though harder than</L>
+<L>That heart, which did consent to so much cruelty</L>
+<L>Vpon the harmlesse Treasure!</L>
+</SP>
+<SP>
+<SPEAKER>Eng.</SPEAKER>
+<P>I mourne within Sir too!</P>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>Give mee the Key, that leads me from my house,</L>
+<L>Vnto the Chauncell doore!</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>Tis very late Sir, whither will you goe?</P>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Never too late too pray; My heart is heavie!</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>Where shall I wait you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>At my low Gall'ry doore, I may chance stay long.</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>This takes mee more than all the kindnesse Fortune</L>
+<L>Ever shew'd mee: a desent transmutation.</L>
+<L>I am no more your Steward, but your Spie!
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter Yo: Pallatine, Pert, Meager, Snore, and Watchmen.</STAGE>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>There, there's more Mony for your Watch; me thinks</L>
+<L>Th'ave not drunke Wine enough; they doe not chirpe!</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Your Wine mates them, they understand it not.</L>
+<L>But they have very good capacity in Ale;</L>
+<L>Ale Sir, will heat 'um more than your Biefe Brewis!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>Well, let them have Ale then.</P>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>O Sir, 'twill make 'um sing like the <HI>Silk-knitters</HI></L>
+<L>Of <HI>Cock-lane!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L><HI>Meager,</HI> goe you to Sir <HI>Tirant Thrifts</HI> house,</L>
+<L><HI>Luce,</HI> and the Lady are alone, they will</L>
+<L>Have cause to use your diligence, make haste!</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>Your dog, ty'd to a Bottle, shall not out-run me!
+<STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L><HI>Pert,</HI> stay you here with Master Constable;</L>
+<L><PB REF="34"/>And when occasion cals, see that you draw</L>
+<L>Your lusty Bill-men forth; bravley advanc'd</L>
+<L>Vnder the Colours of Queene <HI>Ample,</HI> and</L>
+<L>My selfe, her Generall!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>If Ale can fortifie, feare not! where's Sir <HI>Morglay?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>I'm now, to meet him i'th Church-yard; th'old Blade</L>
+<L>Sculks there like a tame filcher, as hee had</L>
+<L>Nere stolne 'bove Egges from Market women;</L>
+<L>Robb'd an Orchard, or a Cheese loft!</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<P>Wee'l wait your worship in this corner.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>No stirring, till I either come, or send.</P>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Pray Sir let's not stay long, 'tis a cold night;</L>
+<L>And I have nothing on my Bed at home,</L>
+<L>But a thin Coverlet, and my wives Sey Petti-coat:</L>
+<L>Shee'l nere sleepe (poore soule) till I come home</L>
+<L>To keepe here warme!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>You shall be sent for strait!</L>
+<L>Be merry my dull Sons o'th Night, and Chirpe!
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Come, neighbour <HI>Runlet!</HI> sighing payes no Rent,</L>
+<L>Though the Land-Lady be in love! Sing out —</L>
+<STAGE>They sing a Catch in foure Parts.</STAGE>
+<L><HI>With Lanthorne on Stall; at</HI> Trea Trip <HI>wee play,</HI></L>
+<L><HI>For Ale, Cheese, and Pudding, till it be day:</HI></L>
+<L><HI>And for our Break-fast (after long sitting)</HI></L>
+<L><HI>Wee steale a Street Pig, o'th Constables gitting.</HI></L>
+</SP>
+<STAGE>Enter Engine.</STAGE>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Sir, draw downe your Watch into the Church,</L>
+<L>And let 'um lie hid close by the Vestrie dore!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Is hee there already?</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Fat Carriers Sir, make not more haste to bed,</L>
+<L>Nor leane Phylosophers to rise; I've so</L>
+<L>Prepar'd things, that hee'l find himselfe mistaken!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Close by the Vestry dore!</P>
+</SP>
+<SP>
+<SPEAKER>Eng.</SPEAKER>
+<L>Right sir,</L>
+<L>Ile to my Lady, and expect th'event of your surprise!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Follow Master Constable, one, and one:</L>
+<L>All in a File! —
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter Thrift, with a Candle.</STAGE>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<L>I cannot find where they have layd her Coffin!</L>
+<L>But there's the Chest; Ile draw it out, that I</L>
+<L>May have more roome, to search, and rifle it!—</L>
+<L><PB REF="35"/>The weight seemes easie to me, though my strength</L>
+<L>Be old; how long, thou bright all powerfull minerall,</L>
+<L>Might'st thou lie hid, ere the dull dead, that are</L>
+<L>Entomb'd about thee here, could reach the Sense,</L>
+<L>To turne wise Thieves, and steale thee from oblivion!—
+<STAGE>opens it, and finds a Halter.</STAGE></L>
+<L>How! a Halter! what Fiend affronts mee with</L>
+<L>This Emblem! Is this the Rope of Orient Pearle? —</L>
+</SP>
+<STAGE>Enter Pert, Snore, Watchmen.</STAGE>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Now I have told you Master Constable,</L>
+<L>The intire plot; marke but, how like that Chest,</L>
+<L>Is to the other, where the <HI>Elder Pallatine</HI></L>
+<L>Lies a Perdu; <HI>Engine</HI> contriv'd them both!</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Hah! what are these, the Constable and Watch?</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Ceaze on him for no lesse than sacriledge!</P>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Why neighbors, Gentlemen!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Away with him.</P>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Wee shall know now, who stole the Wanscot Cover</L>
+<L>From the Font, and the Vicar's Surplisse!</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Alas grave Sir, become a forfeiture</L>
+<L>To'th King, for Sacriledge!</L>
+</SP>
+<SP>
+<SPEAKER>Thrif.</SPEAKER>
+<P>Heare me but speake!</P>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<P>No, not in a cause against the King!</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Lead to's owne house! he shall be Pris'ner there,</L>
+<L>And lock'd up safe enough.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Vndone for ever!—
+<STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter Yo: Pallat: Thwack, with an Iron Crow, and dark Lanthorn.</STAGE>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Why this was such a firke of Piety,</L>
+<L>I nere heard of: Bury her Gold with her?</L>
+<L>Tis strange her old shooes were not interr'd too;</L>
+<L>For feare the dayes of <HI>Edgar</HI> should returne,</L>
+<L>When they coyn'd Leather.</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pal.</SPEAKER>
+<P>Come Sir, lay down your Instrument!</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<P>Why so?</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>I'm so taken with thy free jolly Nature,</L>
+<L>I cannot for my heart proceed to more</L>
+<L>Defeat upon thy liberty: all that</L>
+<L>I told thee were ranke lyes!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<P>How! no treasure trovar!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Not so much as will pay for that small Candle light</L>
+<L>We waste to find it out!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>I thanke you Sir! —
+<STAGE>Flings downe the Crow of Iron.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pal.</SPEAKER>
+<L>You shall have cause, when you heare more; to this</L>
+<L>Darke region Sir, solemne, and silent, as</L>
+<L>Your thoughts must be, ere they are mortify'd.</L>
+<L><PB REF="35"/>Have I now brought you, to perceive what an</L>
+<L>Immense large Asse (under your favour Knight)</L>
+<L>You are to be seduc'd, to such vaine stratagems</L>
+<L>By that more profound <HI>Foppe,</HI> your friend, my Brother!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>How had I been serv'd, if I'ad brought my scales</L>
+<L>Hither, to weigh this Gold? but on! your brother!</L>
+<L>Whose name (let me tell you first) sounds far worse</L>
+<L>To me then does a Sergeant to a young</L>
+<L>Indebted Lover, that's arrested in his Coach,</L>
+<L>And with his Mistris by him!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>You are believ'd: but will you now confirme</L>
+<L>Me to your grace and love, if I shall make't</L>
+<L>Appeare, that in a kind revenge of what</L>
+<L>You suffred Sir, I've made this false, and great</L>
+<L>Seducer of Mankind, to suffer more.</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>The Legend, <HI>Talmud,</HI> nor the <HI>Alcharon,</HI></L>
+<L>Have not such doubtfull tales as these; but make't</L>
+<L>Appeare, I would have evidence!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Then take't on my Religion Sir, he was</L>
+<L>Layd up in durance for a Bawd before</L>
+<L>He betrayd you to the same preferment!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Shall this be justify'd, when my disgrace</L>
+<L>Comes to be knowne; wilt thou then witnesse it?</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>With a deepe oath! And Sir, to tempt more of</L>
+<L>Your favours on poore mee, that ever mourn'd</L>
+<L>For all your sufferings; know you shall now</L>
+<L>See him inclos'd in a blind Chest; where hee</L>
+<L>Lies bath'd Sir, in a greater swet than ere</L>
+<L><HI>Cornelius</HI> tooke in his owne Tub!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Here amongst Sepulchers, and mallencholy bones:</L>
+<L>Let mee but see't; and I will dye for joy,</L>
+<L>To make thee instantly my heire!</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pal.</SPEAKER>
+<L>You shall; and yet ere the Sun rise, find him</L>
+<L>Enthrall'd too in a new distresse!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Do'st want money? bring mee to Parchment and</L>
+<L>A Scriv'ner, Ile seale out two pound of Wax.—
+<STAGE>Yo. Pall: knocks at the Chest.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>You Sir, my neer'st Ally, are you asleep?</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<P>O Brother, art thou come! quick, let me forth.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Here is a certaine friend of yours presents</L>
+<L>His loving visit Sir!—
+<STAGE>Opens the Wicket.</STAGE></L>
+</SP>
+<SP>
+<PB REF="36"/>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Sir <HI>Morglay Thwack?</HI></L>
+<L>I had rather have seene my sister naked!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>What, like a bashfull Badger doe you draw</L>
+<L>Your head into your hole agen? Come sir,</L>
+<L>Out with that sage Noddle, that has contriv'd</L>
+<L>So cunningly for me, and your deare selfe!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Here, take my Eielids Knight, and sow'em up,</L>
+<L>I dare not see thy face!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>But what thinke you</L>
+<L>Of a new Iourney from the North, to live</L>
+<L>Here by your Wits; or midnight visits sir,</L>
+<L>To the <HI>Mogols</HI> Neece!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>I have offended Knight!</L>
+<L>Whip me with wire, headed with Rowels of</L>
+<L>Sharpe Ripon Spurs! Ile endure any thing</L>
+<L>Rather than thee!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Wee have (I thanke your bounteous braine)</L>
+<L>Beene entertain'd with various consorts sir,</L>
+<L>Of whispring Lutes, to sooth us into slumbers,</L>
+<L>Spirits of Clare to bathe our Temples in,</L>
+<L>And then the wholsome wombe of woman too,</L>
+<L>That never teem'd, all this for nothing sir!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>Come, Ile let him forth!</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Rogue! if thou lov'st me!</L>
+<L>Nay, let him be confin'd thus, one short moneth!</L>
+<L>Ile send him downe to Countrey Faires for a</L>
+<L>New motion made, b'a Germane Ingener!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>'Las, he is my Brother.</P>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Or for a solitary Ape,</L>
+<L>Lead captive thus by th' Hollander, because</L>
+<L>He came aloft for Spaine, and would not for the States!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Sir <HI>Morglay</HI> leave your Lanthorne here, and stay</L>
+<L>My comming at yon dore; Ile let him out!</L>
+<L>But for the new distresse, I promis'd on</L>
+<L>His person, take it on my manhood sir,</L>
+<L>He feeles it strait!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<P>Finely ensnar'd agen, and instantly!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>Have a good faith, and goe!
+<STAGE>Exit Thwack.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Deare Brother, wilt thou give me liberty!</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Vpon condition sir, you kisse these Hilts,</L>
+<L>Sweare not to follow me, but here remaine</L>
+<L>Vntill the Lady <HI>Ample</HI> shall consent,</L>
+<L>To'th freedome I bestow!—
+<STAGE>He kisses the Hilts.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Tis done! a vow inviolate!
+<STAGE>He opens the Chest and lets him out.</STAGE></P>
+</SP>
+<SP>
+<PB REF="36"/>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>Now silence Brother! not one curse, nor thankes—</L>
+</SP>
+<STAGE>Exit Yo▪ Pall.</STAGE>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>Fate, and a good Starr speed me! though I have</L>
+<L>Long since amaz'd my selfe e'ne to a Marble,</L>
+<L>Yet I have courage left, to aske, what this</L>
+<L>Might meane? Was ever Two legg'd Man thus us'd!—</L>
+</SP>
+<STAGE>Enter Pert, Snore, &amp; Watchmen.</STAGE>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L><HI>Pall,</HI> and his friend are gone, I must not stay</L>
+<L>His sight; but after you have ceaz'd upon him</L>
+<L>Lead him a Prisoner to the Lady too. —
+<STAGE>Exit Pert.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Sno.</SPEAKER>
+<P>Warrant ye, though he were <HI>Gog,</HI> or <HI>Heldebrand</HI>!—
+<STAGE>they lay hold on him.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal:</SPEAKER>
+<P>How now? What meane you Sirs?</P>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<P>Yield to the Constable.</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>'Tis yielded sir, that you are Constable!</L>
+<L>But where have I offended!</L>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>Heere Sir, you have committed Sacriledge,</L>
+<L>And robb'd an Aldermans Tombe, of himselfe,</L>
+<L>And his Two Sonnes kneeling in Brasse!</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<P>How, Flea Monuments of their Brazen skinnes?</P>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>Looke, a Darke Lanthorne, and an Iron Crow!</L>
+<L>Fine evidence for a Iurie!—</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<L>I like this plott! The Lady <HI>Ample</HI> and</L>
+<L>My Brother, have most rare, triumphant Witts;</L>
+<L>Now by this hand, I am most eagerly</L>
+<L>In love with both; I finde I have deserv'd all;</L>
+<L>And am resolv'd t'hugge them, and their designes;</L>
+<L>Though they afflict me more, and more! Whither must I goe?</L>
+</SP>
+<SP>
+<SPEAKER>Snore.</SPEAKER>
+<L>Away with him! Saucie fellow! examine</L>
+<L>The Kings Constable▪ —
+<STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Enter Young Pallatine, Thwack, Ample, Luce, Meager.</STAGE>
+<SP>
+<SPEAKER>Meager.</SPEAKER>
+<L>I am become your Guardians Iaylor, Lady;</L>
+<L>Hee's safe lock'd in the Parlor, and there howles</L>
+<L>Like a Dogg that sees a Witch flying!</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>I long to heare how my wise Tutor thrives</L>
+<L>I'th new defeat!</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>'Tis well you are converted!</L>
+<L>Beleev't that Gentleman deserves your thankes.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Lady seale my conversion on you Lipp;</L>
+<L>'Tis the first leading Kisse, that I intend</L>
+<L>For after chastetie!—
+<STAGE>kisses her.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pal.</SPEAKER>
+<L><HI>Luce,</HI> see you make the proposition good</L>
+<L><PB REF="37"/>Which I shall give my Brother from this Lady,</L>
+<L>Or Ile so swaddle your small Bones.</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Sweet <HI>Pall,</HI> thou shalt. Madam, you'l please to stand</L>
+<L>To what I lately mention'd to your owne desire?</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>To ev'ry particle, and more. —
+<STAGE>Enter Pert.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Your Brother's come; this roome must be his prison.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>'Way <HI>Luce,</HI> away: stand in the Closet Madam,</L>
+<L>That you may heare us both, and reach my call.</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<P>Ile stay, and see him.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>No Knight; you are decreed Sir <HI>Tirants</HI> Iudge:</L>
+<L>Goe that way Sir, and force him to compound.</L>
+</SP>
+<SP>
+<SPEAKER>Thwack.</SPEAKER>
+<L>Ile fine him soundly,</L>
+<L>Till's Purse shrink like a Bladder in the fire▪—
+<STAGE>Ex. Amp. Luc. Thw. Meag. Pert.</STAGE></L>
+</SP>
+<STAGE>Enter Snore, Elder Pallatine.</STAGE>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Here Sir, this is your Iayle, too good for such</L>
+<L>A great Offender.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Sacriledge! very well.</L>
+<L>Now all the Pulpit Cushions, all the Hearse Clothes,</L>
+<L>And winding sheets, that have been stolne about</L>
+<L>The Towne this yeare, will be laid to my charge!</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Pray leave us Master Constable, and looke</L>
+<L>Vnto your other Bondman in the Parler. —
+<STAGE>Exit Snore.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>This is the wittiest off-spring that our name</L>
+<L>Ere had: I love him beyond hope, or lust,</L>
+<L>My Father was no Poet sure, I wonder</L>
+<L>How hee got him?</L>
+</SP>
+<SP>
+<SPEAKER>Yo. Pal.</SPEAKER>
+<P>I know you curse me now.</P>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<P>Brother, introth you lie, and who ere believes it.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Indeed you doe: Conjurers in a Circle,</L>
+<L>That have rais'd up a wrong spirit, curse not</L>
+<L>So much, nor yet so inwardly.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<P>I've a great mind to kisse thee.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<P>You have not sure?</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>I shall do't, and eate up thy lips so far,</L>
+<L>Till th'ast nothing left to cover thy teeth.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>And can you thinke all the afflictions you</L>
+<L>Endur'd, were merited; first, for misleading</L>
+<L><HI>Morglay,</HI> your old friend; then, neglect of mee,</L>
+<L>And haughty over-vallewing your selfe?</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>Brother, I murmur not; the Traps that you</L>
+<L>Have layd, were so ingenious, I could wish</L>
+<L>To fall in them agen.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>The Lady <HI>Ample</HI> Sir,</L>
+<L>There is the great contriver that hath weav'd</L>
+<L><PB REF="37"/>These knots so intricate and safe: 'Las, I</L>
+<L>Was but her lowly Instrument.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Ah that Lady! were I a King, shee should</L>
+<L>Sit with me under my best Canopie,</L>
+<L>A silver Scepter in her hand; with which,</L>
+<L>I'd give her leave to breake my head for ev'ry fault</L>
+<L>I did commit.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>But say, I bring this Lady Sir, unto</L>
+<L>Your lawfull sheets; make her your bosome wife:</L>
+<L>Besides, the plenty of her heritage,</L>
+<L>How would it sound, that you had conquer'd her</L>
+<L>Who hath so often conquer'd you?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pall.</SPEAKER>
+<P>Deare Brother, no new plots.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Pall.</SPEAKER>
+<L>Six thousand pounds Sir is your yearly Rent;</L>
+<L>A faire temptation to a discreet Lady:</L>
+<L><HI>Luce,</HI> hath fill'd both mine Eares with hope; besides,</L>
+<L>I heard her say, shee nere should meet a man,</L>
+<L>That she could more subdue with Wit, and Government.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>That Ile venture.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>Well, my first bounty is your freedome Sir;</L>
+<L>For'th Constable obayes no Law, but mine.</L>
+<L>And now, Madam! Appeare! —
+<STAGE>Enter Ample, Luce.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>Y'are welcome 'mongst the living Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Eld, Pal.</SPEAKER>
+<L>Lady, no words; if y'have but so much Mercie</L>
+<L>As could secure one that your Eies affect.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Why, you'r growne arrogant agen: d'you thinke</L>
+<L>They are so weake, to affect you?</L>
+</SP>
+<SP>
+<SPEAKER>Eld. Pal.</SPEAKER>
+<L>I have a heart so kind unto my selfe,</L>
+<L>To wish they could; O we should live.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>Not by our Wits.</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>No, no! but with such soft content; still in</L>
+<L>Conspiracie, how to betray our selves</L>
+<L>To new delights, keepe harmonie, with no</L>
+<L>More noyse, than what the upper motions make;</L>
+<L>And this so constant too, <HI>Turtles</HI> themselves,</L>
+<L>Seeing our faith, shall slight their owne, and pine</L>
+<L>With jealousie.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L><HI>Luce,</HI> the youth talkes sence now, no Med'∣cine for</L>
+<L>The braine, like to captivity in a darke Chest.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>O Madam, you are cruell!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Well my sad Convertite: joy yet at this:</L>
+<L>I've often made a vow, to marry on</L>
+<L>That very day my Wardship is expir'd:</L>
+<L><PB REF="38"/>And two howres since, that liberty begun.</L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Nay, heare her out! your wishes are so sawcie Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>And know, my glory is dispatch. My Ancestors</L>
+<L>Were of the fierie <HI>French,</HI> and taught me love,</L>
+<L>Hot eagernesse, and haste!</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Let mee be rude</L>
+<L>A while; lye with your judgement, and beget</L>
+<L>Sages on that! My dearest, chiefest Lady!—</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<P>Your braine's yet fowle, and will recoyle agen.</P>
+</SP>
+<SP>
+<SPEAKER>Eld▪ Pall.</SPEAKER>
+<P>No more: Ile swallow downe my Tongue!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>If Sir, your nature be so excellent,</L>
+<L>As your kind Brother hath confirm'd to <HI>Luce.</HI></L>
+<L>And mee; follow, and Ile present you straight</L>
+<L>With certaine writings you shall seale to, hood-winck'd,</L>
+<L>And purely ignorant of what they are?</L>
+<L>This is the swiftest, and the easiest test,</L>
+<L>That I can make of your bold love; doe this,</L>
+<L>Perhaps, I may vouchsafe to marrie you▪</L>
+<L>The writings are within.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>Lead mee to triall, come!</P>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>But Sir, if I should marry you; it is</L>
+<L>In confidence, I have the better Wit;</L>
+<L>And can subdue you still to quietnesse,</L>
+<L>Meeke sufferings, and patient awe.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<P>You rap me still anew.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>In <HI>Luce,</HI> our hopes grow strong, and Giantly!
+<STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter Thrift, Snore, Mist: Snore, Queasie, Ginet.</STAGE>
+<SP>
+<SPEAKER>Ginet.</SPEAKER>
+<L>To him Mistrisse <HI>Snore</HI>; 'tis hee has kept</L>
+<L>Your Husband from his Bed so long, to watch</L>
+<L>Him for a Church Robberie!</L>
+</SP>
+<SP>
+<SPEAKER>Mist: Snor.</SPEAKER>
+<L>Ah, thou <HI>Iudas!</HI> I thought what thou'ldst come to!</L>
+<L>Remember the Warrant thou sent'st for mee</L>
+<L>Into <HI>Duck-lane,</HI> 'cause I call'd thy Mayd <HI>Trot</HI>!</L>
+<L>When I was faine t'invite thy Clerke to a</L>
+<L><HI>Fee Pye,</HI> sent me b'a Temple Cooke, my Sisters Sweet-heart!</L>
+</SP>
+<SP>
+<SPEAKER>Quea.</SPEAKER>
+<L>Nay, and remember who was brought to bed</L>
+<L>Under thy Coach house wall; when thou deuid'st</L>
+<L>A wad of straw, and wouldst not joyne thy halfe-penny</L>
+<L>To send for Milke, for the poore Chrisome!</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Now you may sweeten me with Sugar-loaves</L>
+<L>At New-yeares-tide, as I have you Sir. —</L>
+</SP>
+<STAGE><PB REF="38"/><HI>Enter Thwack, Pert, Meager, Engine.</HI></STAGE>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Wee'l teach you to rob Churches! S'light, hereafter</L>
+<L>Wee of the Pious shall be afrayd to goe</L>
+<L>To a long Exercise, for feare our Pockets should</L>
+<L>Be pick'd! Come Sir, you see already how</L>
+<L>The neighbours throng to find you; will you consent?</L>
+<L>Tis but a thousand pounds a piece to these</L>
+<L>Two Gentlemen; and five hundred more t' <HI>Engine.</HI></L>
+<L>Your crime is then conceal'd, and your selfe free.</L>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>No, he may chuse, hee'l trust to'th kind hearted <HI>Law.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<L>Let him, and to <HI>Dame Iustice</HI> too, who though</L>
+<L>Her Ladiship be blind, will grope hard Sir,</L>
+<L>To find your Money Bags.</L>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<L>Sir you are rich▪ besides, you know what you</L>
+<L>Have got by your Wards death; I feare you will</L>
+<L>Be begg'd at Court, unlesse you come off thus.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>There is my Closet Key, doe what you please.</P>
+</SP>
+<SP>
+<SPEAKER>Engin.</SPEAKER>
+<P>Gentlemen, Ile lead you to it, follow me.</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>D'you use to find such sums as these beneath</L>
+<L>An Oke, after a long March; I thinke sure,</L>
+<L>The wars are not so plentifull.</L>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Wee thinke so too.</P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Y'had better traile a Bodkin, Gentlemen,</L>
+<L>Under the Lady <HI>Ample,</HI> than a Pike</L>
+<L>Under a <HI>German</HI> Generall.</L>
+</SP>
+<SP>
+<SPEAKER>Per.</SPEAKER>
+<P>Wee'l in for th'Mony Sir, and talk anon.
+<STAGE>Ex. Eng. Per. Meag.</STAGE></P>
+</SP>
+<STAGE>Enter Eld: Pallatine, Yo: Pallatine, Ample, Luce.</STAGE>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>Sir <HI>Tirant Thrift,</HI> here is your Ward come from</L>
+<L>The dead, t'indite you for a Robbery</L>
+<L>Upon her Ghost.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Hah! Is shee alive too?</P>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<L>Yes, and her Wardship out, before y'have profer'd her</L>
+<L>A Husband Sir; so the best benefit</L>
+<L>Of all your Guardianship is lost.</L>
+</SP>
+<SP>
+<SPEAKER>Ampl.</SPEAKER>
+<L>In seven long yeares you could not Sir provide</L>
+<L>A man deform'd enough, to offer mee</L>
+<L>For your owne ends.</L>
+</SP>
+<SP>
+<SPEAKER>Thrift.</SPEAKER>
+<P>Couzen'd of wealth, of fame! Dog <HI>Engine!</HI>
+<STAGE>Ex. Thrift.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>Wee must have you enclos'd agen: y'are very</L>
+<L>Forward with the Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>I will be Sir,</L>
+<L>Vntill shee groane! this Priest stayes some what long.</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>How's this? troth I shall forgive thee then heartily.</L>
+</SP>
+<SP>
+<PB REF="39"/>
+<SPEAKER>Amp.</SPEAKER>
+<L>I've t'ane him i'th behalfe of health; to chide</L>
+<L>And jeere, for recreation sake, 'twill keepe</L>
+<L>Mee Sir, in breath, now I am past growing.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Hearke Knight! here's rellish for your eares. I chose</L>
+<L>None of your dull Country Madams, that spend</L>
+<L>Their time in studying Receipts, to make</L>
+<L>March-Pane, and preserve Plums; that talke</L>
+<L>Of painfull Child-births, Servants wages, and</L>
+<L>Their husbands good Complexion, and his Leg!</L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<P>New wonders yet!</P>
+</SP>
+<SP>
+<SPEAKER>El: Pall.</SPEAKER>
+<L>What was that (Mistris) which I seal'd to, hood-wink'd?</L>
+<L>A simple triall of my confidence and love.</L>
+</SP>
+<SP>
+<SPEAKER>Amp.</SPEAKER>
+<L>Your Brother has it, tis a gift to him</L>
+<L>Of one faire Mannor, 'mongst those many that you</L>
+<L>Have in Possession Sir; and in this Bond,</L>
+<L>Y'are witnesse to three thousand pounds I give to <HI>Luce!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Luce.</SPEAKER>
+<P>Yes Sir, for <HI>Pall</HI> and I must marry too.</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>I were an Ev'nuch else, and th'world should know't.</P>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>Thou couldst not have betrayd mee to a bounty</L>
+<L>I more love. Brother! Give thee joy!—
+<STAGE>Thw. takes Yo: Pall. aside.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Thw.</SPEAKER>
+<L>You are the cause of all these Miracles:</L>
+<L>Therefore I desire you to be my heire;</L>
+<L>By this good day you must: for I've t'ane order,</L>
+<L>Though I love your Wit, you shall not live by it.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<P>My kind thanks Sir, the poore Mans gratitude.</P>
+</SP>
+<SP>
+<SPEAKER>Mist: Snor.</SPEAKER>
+<L>'Give you joy sweet Master <HI>Pallatine,</HI> and</L>
+<L>Your Brother too.</L>
+</SP>
+<SP>
+<SPEAKER>Quea.</SPEAKER>
+<L>And send you more such wives,</L>
+<L>Ev'ry yeare as many as shall please heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Snor.</SPEAKER>
+<L>Tis day. Ile not to bed Sir now; my watch</L>
+<L>Shall be drunke, at your worships wedding.</L>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>They shall, and there is Gold enough to keepe</L>
+<L>Them so, untill thy reigne be out.—</L>
+</SP>
+<STAGE>Enter Pert, Meager, Engine, with Money Bags.</STAGE>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Loaden with composition <HI>Pall.</HI>—</P>
+</SP>
+<SP>
+<SPEAKER>Meag.</SPEAKER>
+<P>Tis for your sake wee grone under these burdens. —</P>
+</SP>
+<SP>
+<SPEAKER>Yo: Pall.</SPEAKER>
+<L>The Offall of Sir <HI>Tirants</HI> Trunks! Brother,</L>
+<L>Pray know these Gentlemen, they owe you more</L>
+<L>Money than they meane to pay now.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pal.</SPEAKER>
+<L>I remember 'um: But no words my Cavalliers,</L>
+<L>And you are safe. Where shall we dine to day?</L>
+</SP>
+<SP>
+<PB REF="39"/>
+<SPEAKER>Yo: Pal.</SPEAKER>
+<L>At <HI>Lucy's</HI> Aunts; wee'l make her costive Beldamship</L>
+<L>Come off; when shee beholds a goodly joynture,</L>
+<L>And our faire hopes.</L>
+</SP>
+<SP>
+<SPEAKER>Eld: Pall.</SPEAKER>
+<L>First, to the Church. Lady,</L>
+<L>Ile make your skittish person sure. Some of</L>
+<L>Your pleasant Arts upon mee, may become</L>
+<L>A wise Example, and a Morall too;</L>
+<L>Such as their haughty fancie well befits,</L>
+<L>That undertake to live here by their Wits.
+<STAGE>Exeunt omnes.</STAGE></L>
+</SP>
+</DIV1>
+<TRAILER>FINIS.</TRAILER>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<HEAD>EPILOGVE.</HEAD>
+<L>THe office of an Epilogue, is now</L>
+<L>To smooth &amp;▪ stroke the wrinckles frō each brow;</L>
+<L>To guide severer judgements (if wee could</L>
+<L>Be wise enough) untill they thought all good,</L>
+<L>Which they perhaps dislike; And sure, this were</L>
+<L>An over-boldnesse, rais'd from too much Feare.</L>
+<L>You have a Freedome, which wee hope you'l use,</L>
+<L>T' advance our youthfull Poet, and his Muse</L>
+<L>With a kind Doome; And hee'l tread boldly then</L>
+<L>In's best new Comick Socks, this Stage agen.</L>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

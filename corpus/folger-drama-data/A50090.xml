@@ -1,0 +1,5769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.lib.umich.edu/tcp/docs/code/eebo2prf.xml.dtd">
+
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2001-11-21</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, provided ID, and added TYPEs to DIVs in order to validate. Checked for N=""s; none. Checked for damage GAPs, #s, @s, and UNCLEARs; none. Checked for GROUP tags; none. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; changed many DIV2s to DIV3s to distinguish scenes from acts; removed all LGs. *Changed HIs to STAGEs in several places.* Checked placement and completeness of PBs; *moved nearly all PBs inside Ls, SPs, DIVs, or STAGES;* added final missing PB REF. Checked for &amp;cs with incorrect spacing; none. Checked for LBs; removed one. Checked for startqs and endqs, q;s and Qs; none. Checked proofsheets and made corrections. Corrected 16 $$Word$$s. Sample: 6 minutes. Proofing: 25 minutes. Tag review and corrections: 120 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A50090">
+<STC T="W">M1047</STC>
+<BIBNO T="oclc">12767330</BIBNO>
+<VID>93607</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE City-Madam, A COMEDIE.</P>
+<P>As it was acted at the private House in <HI>Black Friers</HI> with great applause.</P>
+<P>Written by <HI>Phillip Massinger</HI> Gent.</P>
+<P>LONDON Printed for <HI>Andrew Pennycuicke,</HI> one of the Actors, in the year 1659.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="2"/>
+<HEAD>The Actors names.</HEAD>
+<LIST>
+<ITEM><HI>Lord Lacie.</HI></ITEM>
+<ITEM><HI>Sir John Rich</HI></ITEM>
+<ITEM>a Merchant</ITEM>
+<ITEM><HI>Sir John Lacie</HI> Son to <HI>Lord Lacy.</HI></ITEM>
+<ITEM>Mr. <HI>Plenty</HI> a Country Gentleman.</ITEM>
+<ITEM><HI>Luke</HI> Brother to <HI>Sir John Rich.</HI></ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL><HI>Old Goldwire,</HI></CELL>
+<CELL ROWS="2">Two Gentlemem.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Old Tradewell</HI></CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL><HI>Young Goldwire</HI></CELL>
+<CELL ROWS="2">their sons, prentices, to <HI>Sir John Rich.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Young Tradewell</HI></CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM><HI>Stargaze</HI> an Astrologer.</ITEM>
+<ITEM><HI>Fortune</HI> a decaied Merchant.</ITEM>
+<ITEM><HI>Hoyst</HI> a decaied gentleman.</ITEM>
+<ITEM><HI>Penurie.</HI></ITEM>
+<ITEM><HI>Holdfast</HI> a Steward.</ITEM>
+<ITEM><HI>Ramble, Scuffle,</HI> two Hectors.</ITEM>
+<ITEM><HI>Dingem</HI> a Pimpe.</ITEM>
+<ITEM><HI>Gettall</HI> a Box-keeper.</ITEM>
+<ITEM><HI>Lady Rich.</HI></ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL><HI>Anne</HI></CELL>
+<CELL ROWS="2">her daughters</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Mary</HI></CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM><HI>Milliscent</HI> her woman.</ITEM>
+<ITEM><HI>Shavem</HI> a Wench.</ITEM>
+<ITEM><HI>Secret</HI> a Baud.</ITEM>
+</LIST>
+<CLOSER><HI>Scene</HI> London.</CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<HEAD>To the truly Noble and virtuous Lady <HI>Ann,</HI> Countess of <HI>Oxford.</HI></HEAD>
+<OPENER><SALUTE>HONOURED LADY!</SALUTE></OPENER>
+<P>IN that age when wit and lear∣ning were outconquered by in∣jury, and violence; this Poem was the object of love and Commendations, it being composed by an in∣fallible pen, and censured by an unerring Auditory. In this Epistle I shall not need to make an Apologie: for Playes in generall by exhibiting their antiquity and utility, in a word they are mirrors or glasses which none but deformed faces, and fouler consciences fear to look into. The encouragement I had to
+<PB REF="3"/>
+prefer this dedication to your powerfull pro∣tection proceeds from the universall fame of the deceased Author, who (although he com∣posed many) writ none amiss, and this may justly be ranked amongst his best. I have re∣deemed it from the teeth of time, by commit∣ting of it to the press, but in more imploring your Patronage, I wil not slander it with my praises, it is commendations enough to call it <HI>Massingers,</HI> if it may gain your allow∣ance and pardon; I am highly gratified, and desire only to wear the happy title of,</P>
+<CLOSER><SALUTE>MADAM,</SALUTE>
+<SALUTE>Your humblest Servant,</SALUTE>
+<SIGNED>Andrew Pennycuicke.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="3"/>
+<HEAD>THE City-Madam, A COMEDIE.</HEAD>
+<DIV2 N="1" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus primus, Scena prima.</HEAD>
+<SP>
+<STAGE>Enter Goldwire, and Tradewell.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire</SPEAKER>
+<L>THe Ship is safe in the Pool then?</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>And makes good,</L>
+<L>In her rich fraught, the name shee bears, the <HI>Speedwell:</HI></L>
+<L>My Master will find it, for on my certain knowledg</L>
+<L>For every hundred that hee ventu∣red in her</L>
+<L>She hath return'd him five.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>And it comes timely,</L>
+<L>For besides a paiment on the nail for a Mannor</L>
+<L>Late purchas'd by my Master, his young daughters</L>
+<L>Are ripe for marriage.</L>
+</SP>
+<SP>
+<PB N="2" REF="4"/>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Who? <HI>N<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>n,</HI> and <HI>M<GAP DESC="illegible" REASON="blotted" EXTENT="3 letters" DISP="•••"/>.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Mistris <HI>Anne</HI> and <HI>Mary,</HI> and with some addition,</L>
+<L>Or 'tis more punishable in our house</L>
+<L>Then <HI>Scandalum magnatum.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tradewell</SPEAKER>
+<L>'Tis great pitie</L>
+<L>Such a Gentleman as my Master for that title</L>
+<L>His being a Citizen, cannot take from him,</L>
+<L>Hath no male heir to inherit his estate,</L>
+<L>And keep his name alive.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>The want of one</L>
+<L>Swells my young Mistresses, and their madam mother</L>
+<L>With hopes above their birth, and scale. Their dreams are</L>
+<L>Of being made Countesses, and they take state</L>
+<L>As they were such already. When you went</L>
+<L>To the <HI>Indies,</HI> there was some shape and proportion</L>
+<L>Of a Merchants house in our family, but since</L>
+<L>My Master, to gain precedencie for my Mistris</L>
+<L>Above some Elder Merchants Wives, was knighted</L>
+<L>'Tis grown a little Court, in bravery,</L>
+<L>Variety of fashions, and those rich ones:</L>
+<L>There are few great Ladies going to a Masque</L>
+<L>That do out-shine ours in their every-day habits.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>'Tis strange my Master in his wisdom can</L>
+<L>Give the reins to such exorbitancie.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>He must,</L>
+<L>Or there's no peace nor rest for him at home;</L>
+<L>I grant his state will bear it, yet hee's censur'd</L>
+<L>For his indulgence, and for Sir <HI>John Frugall</HI></L>
+<L>By some styl'd Sir <HI>John Prodigal.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Is his brother</L>
+<L>Mr. <HI>Luke Frugal</HI> living?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Yes, the more</L>
+<L>His misery, poor man.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Still in the Counter?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>In a worser place. He was redeemed from the hole,</L>
+<L>To live in our house in hell: since his base usage</L>
+<L>Consider'd, 'tis no better. My proud Ladie</L>
+<L>Admits him to her Table, marry ever</L>
+<L><PB REF="4"/>Beneath the Salt, and there he sits the subject</L>
+<L>Of her contempt and scorn; and dinner ended,</L>
+<L>His courteous Neeces find emploiment for him</L>
+<L>Fitting an under-prentice, or a Footman,</L>
+<L>And not an Uncle.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewel.</SPEAKER>
+<L>I wonder, being a Scholler well read, and travel'd,</L>
+<L>The world yielding means for men of such desert,</L>
+<L>He should endure it.</L>
+<STAGE>Enter Star-gaze, Ladie, Anne, Mary, Millescent, in several postures, with looking-glasses at their girdles.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>He does, with a strange patience; and to us</L>
+<L>The servants so familiar, nay humble.</L>
+<L>I'le tell you, but I am cut off. Look these</L>
+<L>Like a Citizens wife and daughters?</L>
+</SP>
+<SP>
+<SPEAKER>Tradewel.</SPEAKER>
+<L>In their habits</L>
+<L>They appear other things; but what are the motives</L>
+<L>Of this strange preparation?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>The young wag-tails</L>
+<L>Expect their suitors. The first, the Son and Heir</L>
+<L>Of the Lord <HI>Ladie,</HI> who needs my Masters money,</L>
+<L>As his daughter does his honour. The second Mr. <HI>Plenty,</HI></L>
+<L>A rough hew'n gentleman, and newly come</L>
+<L>To a great estate, and so all aids of Art</L>
+<L>In them's excusable.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>You have done your parts here:</L>
+<L>To your studie, and be curious in the search</L>
+<L>Of the Nativities.</L>
+<STAGE>Exit Stargaze.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tradewel.</SPEAKER>
+<L>Me thinks the mother,</L>
+<L>As if she could renew her youth, in care,</L>
+<L>Nay curiosity to appear lovely,</L>
+<L>Comes not behind her daughters.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Keeps the first place,</L>
+<L>And though the Church-book speak her fifty, they</L>
+<L>That say she can write thirty, more offend her,</L>
+<L>Then if they tax'd her honesty: t'other day</L>
+<L>A Tenant of hers, instructed in her humor,</L>
+<L>But one she never saw, being brought before her,</L>
+<L>For saying onely, Good young Mistris help me</L>
+<L><PB N="4" REF="5"/>To the speech of your Lady-mother, so far pleas'd her,</L>
+<L>That he got his Lease renew'd for't.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>How she bristles:</L>
+<L>Prethee observe her.</L>
+</SP>
+<SP>
+<SPEAKER>Millescent.</SPEAKER>
+<L>As I hope to see</L>
+<L>A Country Knights son and heir walk bare before you</L>
+<L>When you are a Countess, as you may be one</L>
+<L>When my Master dies, or leavs trading; and I continuing</L>
+<L>Your principal woman, take the upper-hand</L>
+<L>Of a Squires wife, though a Justice, as I must</L>
+<L>By the place you give me, you look now as young</L>
+<L>As when you were married.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I think I bear my years well.</L>
+</SP>
+<SP>
+<SPEAKER>Millescent.</SPEAKER>
+<L>Why should you talk of years? Time hath not plough'd</L>
+<L>One furrow in your face; and were you not known</L>
+<L>The mother of my young Ladies, you might passe</L>
+<L>For a Virgin of fifteen.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Here's no grosse flattery:</L>
+<L>Will she swallow this?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>You see she does, and glibly.</L>
+</SP>
+<SP>
+<SPEAKER>Millescent.</SPEAKER>
+<L>You never can be old, wear but a Masque</L>
+<L>Forty years hence, and you will still seem young</L>
+<L>In your other parts: What a waste is here? O <HI>Venus?</HI></L>
+<L>That I had been born a King! and here a hand</L>
+<L>To be kifs'd ever; Pardon my boldnesse, Madam:</L>
+<L>Then, for a leg and foot you will be courter</L>
+<L>When a great Grandmother.</L>
+</SP>
+<SP>
+<SPEAKER>Ladye.</SPEAKER>
+<L>These indeed, Wench, are not</L>
+<L>So subject to decayings as the face,</L>
+<L>Their Comliness last's longer.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Ever, ever:</L>
+<L>Such a rare Featur'd, and proportion'd <HI>Madam</HI></L>
+<L><HI>London</HI> could never boast of.</L>
+</SP>
+<SP>
+<SPEAKER>Ladye.</SPEAKER>
+<L>Where are my Shoos.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Those that your Ladyship gave order</L>
+<L>Should be made of the Spanish Perfum'd Skins.</L>
+</SP>
+<SP>
+<SPEAKER>Ladye.</SPEAKER>
+<L>The same.</L>
+</SP>
+<SP>
+<PB N="5" REF="5"/>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>I sent the prison-bird this morning for em,</L>
+<L>But he neglects his duty.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>He is grown</L>
+<L>Exceeding carelesse.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>And begins to murmur</L>
+<L>At our commands, and sometimes grumbles to us,</L>
+<L>He is forsooth our Uncle.</L>
+</SP>
+<SP>
+<SPEAKER>Ladye.</SPEAKER>
+<L>He is your slave,</L>
+<L>And as such use him.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Willingly, but hee's grown</L>
+<L>Rebellious <HI>Madam.</HI></L>
+<STAGE>Enter Luke, with Shooes, Garters and Roses.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Nay like Hen, like Chicken.</L>
+</SP>
+<SP>
+<SPEAKER>Ladye.</SPEAKER>
+<L>I'le humble him.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Pere he comes sweating all over,</L>
+<L>He shews like a walking fripperie.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Very good Sir,</L>
+<L>Were you drunk last night, that you could rise no sooner</L>
+<L>With humble diligence to do what my Daughters,</L>
+<L>And woman did command you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Drunk, an't please you.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Drunk, I said, Sirrah. Dar'st thou in a look</L>
+<L>Repine, or grumble? thou unthankful wretch,</L>
+<L>Did our charitie redeem thee out of prison,</L>
+<L>Thy Patrimonie spent, ragged, and lowsie.</L>
+<L>When the Sheriffs basket, and his broken meat</L>
+<L>Were your Festivall exceedings, and is this</L>
+<L>So soon forgotten?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I confesse I am</L>
+<L>Your Creature <HI>Madam.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>And good reason why</L>
+<L>You should continue so.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Who did new cloath you?</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Admitted you to the Dining-room?</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Allowed you a fresh bed in the garret?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Or from whom</L>
+<L>Receiv'd you spending money?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I owe all this</L>
+<L><PB N="6" REF="6"/>To your goodnesse, <HI>Madam:</HI> For it you have my prayers,</L>
+<L>The beggars satisfaction; all my studies,</L>
+<L>(Forgetting what I was, but withall duty</L>
+<L>Remembring what I am) are how to please you.</L>
+<L>And if in my long stay I have offended,</L>
+<L>I ask your pardon. Though you may consider,</L>
+<L>Being forc'd to fetch these from the Old Exchange,</L>
+<L>These from the Tower, and these from Westminster,</L>
+<L>I could not come much sooner.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Here was a walke</L>
+<L>To breath a Foot-man.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>'Tis a curious Fan.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>These Roses will shew rare; would t'were in fashion</L>
+<L>That the Garters might be seen too.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Many Ladyes</L>
+<L>That know they have good legs, wish the same with you:</L>
+<L>Men that way have th'advantage.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I was with the <HI>Lady,</HI></L>
+<L>And delivered her the Sattin</L>
+<L>For her Gown, and Velvet for her Petticote,</L>
+<L>This night She vows Shee'l pay you.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>How I am bound</L>
+<L>To your favour M. <HI>Luke.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>As I live, you will perfume all rooms you walk in.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Get your Furr,</L>
+<L>You shall pull'em on within.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>That servile office</L>
+<L>Her pride imposes on him.</L>
+<STAGE>Exit Luke. <HI>S<SUP>r</SUP>.</HI> John within:</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Tradewell.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>My Master calls. We come Sir.</L>
+<STAGE>Exeunt Goldwire, Tradewell.</STAGE>
+<STAGE>Enter Holdfast with Porters.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>What have you brought there?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>The Cream of the market, provision enough</L>
+<L>To serve a garrison. I weep to think on't.</L>
+<L>When my Master got his wealth, his family fed</L>
+<L>On roots, and livers, and necks of beef on Sundays.</L>
+<L><PB N="7" REF="6"/>But now I fear it will be spent in poultry.</L>
+<L>Butchers meat will not go down.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Why, you Rascall, is it at</L>
+<L>Your expence? what Cooks have you provided?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>The best of the City. They have wrought at my</L>
+<L>Lord Mayors.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Fye on em, they smel of Fleet-Lane, and Pie-corner.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>And thinks the happinesse of mans life consists</L>
+<L>In a mighty shoulder of mutton.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I'le have none</L>
+<L>Shall touch what I shall eat, you grumbling Curr,</L>
+<L>But French-men and Italians; they wear Sattin,</L>
+<L>And dish no meat but in Silver.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>You may want, though,</L>
+<L>A dish or two when the service ends.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Leave prating,</L>
+<L>I'le have my will; do you as I command you.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Actus primus, Scena secunda.</HEAD>
+<SP>
+<STAGE>Enter Lacie, and Page.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>YOu were with <HI>Plenty?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<L>Yes Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>And what answer</L>
+<L>Return'd the clown?</L>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<L>Clown Sir! he is transform'd,</L>
+<L>And grown a gallant of the last edition;</L>
+<L>More rich then gaudie in his habit, yet</L>
+<L>The freedom, and the bluntnesse of his language</L>
+<L>Continues with him. When I told him that</L>
+<L>You gave him Caution, as he lov'd the peace,</L>
+<L>And safety of his life, he should forbear</L>
+<L>To passe the <HI>Merchants</HI> threshold, untill you</L>
+<L>Of his two Daughters had made choice of her</L>
+<L>Whom you design'd to honour as your wife.</L>
+<L><PB N="8" REF="7"/>He smil'd in scorn.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>In scorn?</L>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<L>His words confirm'd it,</L>
+<L>They were few, but to this purpose; Tell your Master,</L>
+<L>Though his Lordship in reversion were now his,</L>
+<L>It cannot awe me. I was born a Free-man,</L>
+<L>And will not yeeld in the way of affection</L>
+<L>Precedence to him. I will vifit em,</L>
+<L>Though he sate Porter to deny my entrance.</L>
+<L>When I meet him next I'le say more to his face.</L>
+<L>Deliver thou this, then gave me a piece</L>
+<L>To help my memorie, and so we parted.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Where got he this spirit.</L>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<L>At the Academie of valour,</L>
+<L>Newly erected for the institution</L>
+<L>Of elder Brothers. Where they are taught the ways,</L>
+<L>Though they refuse to seal for a Duellist,</L>
+<L>How to decline a challenge. He himself</L>
+<L>Can best resolve you.</L>
+<STAGE>Enter Plenty and three Serving-men.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>You Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>What with me Sir?</L>
+<L>How big you look? I will not loose a hat</L>
+<L>To a hairs breadth, move your Bever, I'le move mine,</L>
+<L>Or if you desire to prove your sword, mine hangs</L>
+<L>As near my right hand, and will as soon out, though I keep</L>
+<L>Not a Fencer to breath me, walke into Moor-fields,</L>
+<L>I dare look on your Toledo. <HI>Do</HI> not shew</L>
+<L>A foolish valour in the streets, to make</L>
+<L>Work for shop-keepers, and their clubs, 'tis scurvie,</L>
+<L>And the women will laugh at us.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>You presume</L>
+<L>On the protection of your Hinds.</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>I scorn it:</L>
+<L>Though I keep men I fight not with their fingers,</L>
+<L>Nor make it my Religion to follow</L>
+<L>The gallants fashion, to have my family</L>
+<L>Consisting in a Foot-man, and a Page,</L>
+<L><PB N="9" REF="7"/>And those two sometimes hungrie. I can feed these,</L>
+<L>And cloath'em too, my gay Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>What a fine man</L>
+<L>Hath your Taylor made you?</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>Tis quite contrary,</L>
+<L>I have made my Taylor, for my cloaths are pai'd for</L>
+<L>Assoon as put on, a sin your man of title</L>
+<L>Is seldom guiltie of, but Heaven forgive it.</L>
+<L>I have other faults too very incident</L>
+<L>To a plain Gentleman. I eat my Venison</L>
+<L>With my neighbours in the Countrie, and present not</L>
+<L>My phesants, partridges, and growse to the userer,</L>
+<L>Nor ever yet paid brokage to his scrivener.</L>
+<L>I flatter not my mercers wife, nor feast her</L>
+<L>With the first cherries, or pelcods, to prepare me</L>
+<L>Credit with her husband, when I com to London.</L>
+<L>The wooll of my sheep, or a score or two of fat oxen</L>
+<L>In Smithfield, give me money for my expences.</L>
+<L>I can make my wife a jointure of such lands too; as are not encombred, no annuity</L>
+<L>Or statue lying on'em. This I can do</L>
+<L>And it please your future honour, and why therefore</L>
+<L>You should forbid my being a suiter with you</L>
+<L>My dulnesse apprehends not.</L>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<L>This is bitter.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>I have heard you Sir, and in my patience shewn</L>
+<L>To much of the stoicks. But to parley further,</L>
+<L>Or answer your grosse jeers would write me coward.</L>
+<L>This onely thy great grandfather was a Butcher,</L>
+<L>And his son a Grasier,</L>
+<L>Thy Sire Constable of the hundred, and thou the first of your dunghill, created gemtleman</L>
+<L>Now you may come on Sir, you, and your thrashers.</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>Stir not on your lives.</L>
+<L>This for the grasiers, this for the butcher. <STAGE>they fight</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>So Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<L>I'le not stand idle, draw my little rapier</L>
+<L><PB N="10" REF="8"/>Against your bumb blades. I'le one, by one despatch you.</L>
+<L>Then house this instrument of death, and horrour.</L>
+<STAGE>Enter Sir John, Luke, Goldwire, Tradewell.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sr. <HI>John.</HI></SPEAKER>
+<L>Beat down their weapons. My gate ruffians hall:</L>
+<L>What insolence is this?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Noble Sir Maurice,</L>
+<L>Worshipfull Mr. <HI>Plenty.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Sr. <HI>John.</HI></SPEAKER>
+<L>I blush for you,</L>
+<L>Men of your qualitie expose your same</L>
+<L>To every vulgar censure. This at midnight</L>
+<L>After a drunken supper in a Tavern,</L>
+<L>(No civill man abroad to censure it)</L>
+<L>Had shewen poor in you, but in the day, and view</L>
+<L>Of all that pass by, monstrous</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>Very well Sir;</L>
+<L>You look for this defence.</L>
+</SP>
+<SP>
+<SPEAKER>Lacte.</SPEAKER>
+<L>'Tis thy protection,</L>
+<L>But it will deceive thee.</L>
+</SP>
+<SP>
+<SPEAKER>Sr. <HI>John.</HI></SPEAKER>
+<L>Hold, if you proceed thus</L>
+<L>I must make use of the next Justices power,</L>
+<L>And leave perswasion. And in plain terms tell you</L>
+</SP>
+<SP>
+<STAGE>Enter Lady, Anne, Mary, and Milliscent.</STAGE>
+<L>Neither your birth, Sir Maurice, nor your wealth,</L>
+<L>Shall priviledg this riot. See whom you have drawn</L>
+<L>To be spectators of it? can you imagine</L>
+<L>It can stand with the credit of my daughters,</L>
+<L>To be the argument of your swords? 'ith street too?</L>
+<L>Nay e're you do salute, or I give way,</L>
+<L>To any private conference, shake hands</L>
+<L>In sign of peace. He that drawsiback parts with</L>
+<L>My good opinion. This is as it should be.</L>
+<L>Make your approaches, and if their affection</L>
+<L>Can sympathize with yours, they shall not come</L>
+<L>On my credit beggars to you. I will hear</L>
+<L>What you reply within.</L>
+</SP>
+<SP>
+<SPEAKER>Laeie.</SPEAKER>
+<L>May I have the honor</L>
+<L>To support you <HI>Lady.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>I know not what's supporting,</L>
+<L><PB N="11" REF="8"/>But by this fair hand, glove and all, I love you.</L>
+<STAGE>Exeunt omnes preter Luke.</STAGE>
+<STAGE>To him Enter Hoyst, Penury, Fortune.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You are come with all advantage. I wil help you</L>
+<L>To the speech of my Brother.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Have you mov'd him for us?</L>
+</SP>
+<SP>
+<SPEAKER>Luke</SPEAKER>
+<L>With the best of my endeavours, and I hope.</L>
+<L>You'l find him tractable.</L>
+</SP>
+<SP>
+<SPEAKER>Penury.</SPEAKER>
+<L>Heaven grant he prove so.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>Howe're I'le speak my mind.</L>
+<STAGE>Enter Lord Lacie.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Do so M. <HI>Hoyst.</HI></L>
+<L>Go in. I'le pay my duty to this Lord,</L>
+<L>And then I am wholly yours. Heaven bless your honor.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Your hand Mr. <HI>Luke,</HI> the world's much chang'd with you</L>
+<L>Within these few months; then you were the gallant:</L>
+<L>No meeting at the Horse-race, Cocking, Hunting,</L>
+<L>Shooting, or Bowling, at which Mr. <HI>Luke</HI></L>
+<L>Was not a principal gamester, and companion</L>
+<L>For the Nobility.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I have paid dear</L>
+<L>For those follies, my good Lord, and 'tis but justice</L>
+<L>That such as soar above their pi<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>ch, and will not</L>
+<L>Be warn'd by my example, should like me</L>
+<L>Share in the miseries that wait upon't.</L>
+<L>Your Honor in your charitie may do well</L>
+<L>Not to upbraid me with those weaknesses</L>
+<L>Too late repented.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I nor do, nor will;</L>
+<L>And you shall find I'le lend a helping hand</L>
+<L>To raise your fortunes: How deals your brother with you?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Beyond my merit, I thank his goodnesse for't.</L>
+<L>I am a Freeman, all my debts discharg'd,</L>
+<L>Nor does one Creditor undone by me</L>
+<L>Curse my loose riots. I have meat and cloaths,</L>
+<L>Time to ask heaven remission for what's past;</L>
+<L>Cares of the world by me are laid aside,</L>
+<L><PB N="12" REF="9"/>My present poverty's a blessing to me;</L>
+<L>And though I have been long, I dare not say</L>
+<L>I ever liv'd till now.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>You bear it well;</L>
+<L>Yet as you wish I should receive for truth</L>
+<L>What you deliver, with that truth acquaint me</L>
+<L>With your brothers inclination. I have heard</L>
+<L>In the acquisition of his wealth, he weighs no:</L>
+<L>Whose ruines he builds upon.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>In that report</L>
+<L>Wrongs him, my Lord. He is a Citizen,</L>
+<L>And would increase his heap, and will not lose</L>
+<L>What the Law gives him. Such as are worldly wise</L>
+<L>Pursue that tract, or they will ne're wear skarlet.</L>
+<L>But if your Honor please to know his temper,</L>
+<L>You are come opportunely. I can bring you</L>
+<L>Where you unseen shall see, and hear his carriage</L>
+<L>Towards some poor men, whose making or undoing</L>
+<L>Depend upon his pleasure.</L>
+<STAGE>A Table, Count book, Standish, Chair and stools set out,</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>To my wish,</L>
+<L>I know no object that could more content me.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Actus primus, Scena tertia.</HEAD>
+<SP>
+<STAGE>Enter Sir John, Hoyst, Fortune, Penurie, Goldwire.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>WHat would you have me do? reach me a chair.</L>
+<L>When I lent my moneys I appear'd an Angel;</L>
+<L>But now I would call in mine own, a Divel.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>Were you the Divelsdamme, you must stay till I have it.</L>
+<L>For as I am a Gentleman,</L>
+<STAGE>Enter Luke placing the Lord Lacie,</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>There you may hear all.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>I pawn'd you my land for the tenth part of the value,</L>
+<L>Now, cause I am a Gamester, and keep Ordinaries,</L>
+<L>And a Liverie punk, or so, and trade not with</L>
+<L><PB N="13" REF="9"/>The money-mongers wives, not one will be bound for me:</L>
+<L>'Tis a hard case, you must give me longer day</L>
+<L>Or I shall grow very angry.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Fret, and spare not.</L>
+<L>I know no obligation lies upon me</L>
+<L>With my honey to feed Drones. But to the purpose,</L>
+<L>How much owes <HI>Penurie?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Two hundred pounds:</L>
+<L>His Bond three times since forfeited.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Is it su'd?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Yes Sir, and execution out against him</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>For bodie and goods.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>For both, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>See it serv'd.</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>I am undone; my wife and family.</L>
+<L>Must starve for want of bread.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>More Infidel thou</L>
+<L>In not providing better to support'em.</L>
+<L>What's <HI>Fortunes</HI> debt?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>A thousand, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>An estate</L>
+<L>For a good man. You were the glorious Trader,</L>
+<L>Embrac'd all bargains; the main venturer</L>
+<L>In every Ship that launch'd forth; kept your wife</L>
+<L>As a Ladie, she had her Coach, her choice</L>
+<L>Of Summer-houses, built with other mens moneys</L>
+<L>Took up at Interest, the certain road</L>
+<L>To Ludgate in a Citizen. Pray you acquaint me</L>
+<L>How were my thousand pounds imploy'd?</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Insult not</L>
+<L>On my calamity, though being a debtor,</L>
+<L>And a slave to him that lends, I must endure it.</L>
+<L>Yet hear me speak thus much in my defence;</L>
+<L>Losses at sea, and those Sir, great, and many,</L>
+<L>By storms, and tempests, not domestical riots</L>
+<L>In soothing my wives humor, or mine own,</L>
+<L>Have brought me to this low ebb.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Suppose this true;</L>
+<L><PB N="14" REF="10"/>What is't to me? I must, and will have my money,</L>
+<L>Or I'le protest you first, and that done have</L>
+<L>The Statute made for Bankrupts serv'd upon you.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>'Tis in your power, but not in mine to shun it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Not as a brother, Sir, but with such dutie</L>
+<L>As I should use unto my Father, since</L>
+<L>Your charitie is my parent, give me leave</L>
+<L>To speak my thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>What would you say?</L>
+</SP>
+<SP>
+<SPEAKER>Luke</SPEAKER>
+<L>No word, Sir,</L>
+<L>I hope shall give offence; nor let it relish</L>
+<L>Of flattery, though I proclaim aloud:</L>
+<L>I glory in the bravery of your mind,</L>
+<L>To which your wealths a servant. Not that riches</L>
+<L>Is or should be contemn'd, it being a blessing</L>
+<L>Deriv'd from heaven, and by your industry</L>
+<L>Pull'd down upon you; but in this dear, Sir,</L>
+<L>You have many equals: Such a mans possessions</L>
+<L>Extend as far as yours, a second hath</L>
+<L>His bags as full; a third in credit flies</L>
+<L>As high in the popular voice: but the distinction</L>
+<L>And noble difference by which you are</L>
+<L>Divided from 'em, is, that you are styl'd</L>
+<L>Gentle in your abundance, good in plentie,</L>
+<L>And that you feel compassion in your bowels</L>
+<L>Of others miseries (I have found it, Sir,</L>
+<L>Heaven keep me thankful for't) while they are curs'd</L>
+<L>As rigid and inexorable.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>I delight not</L>
+<L>To hear this spoke to my face.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>That shall not grieve you,</L>
+<L>Your affability, and mildnesse cloath'd</L>
+<L>In the garments of your debtors breath</L>
+<L>Shall every where, though you strive to conceal it</L>
+<L>Be seen, and wondred at, and in the act</L>
+<L>With a prodigall hand rewarded. Whereas such</L>
+<L>As are born only for themselvs, and live so,</L>
+<L>Though prosperous in wordly understandings,</L>
+<L><PB N="15" REF="10"/>Are but like beasts of rapine, that by odds</L>
+<L>Of strength, usurp, and tyrannize o're others</L>
+<L>Brought under their subjection.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>A rare fellow!</L>
+<L>I am strangely taken with him.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Can you think Sir,</L>
+<L>In your unquestion'd wisdome, I beseech you,</L>
+<L>The goods of this poor man sold at an out-crie,</L>
+<L>His wife turn'd out of doors, his children forc'd</L>
+<L>To beg their bread: this gentleman's estate</L>
+<L>By wrong extorted can advantage you?</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>If it thrive with him hang me, as it will damn him</L>
+<L>If he be not converted.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You are too violent.</L>
+<L>Or that the ruine of this once brave Merchant</L>
+<L>(For such he was esteem'd though now decay'd)</L>
+<L>Will raise your reputation with good men.</L>
+<L>But you may urge, pray you pardon me, my zeal</L>
+<L>Makes mee thus bold and vehement, in this</L>
+<L>You satisfie your anger, and revenge</L>
+<L>For being defeated. Suppose this, it will not</L>
+<L>Repair your losse, and there was never yet</L>
+<L>But shame, and scandall in a victorie</L>
+<L>When the rebells unto reasons passions fought it.</L>
+<L>Then for revenge by great souls it was ever</L>
+<L>Contemn'd, though offered; entertain'd by none</L>
+<L>But cowards, base, and abject spirits, strangers</L>
+<L>To morall honestie, and never yet</L>
+<L>Acquainted with religion.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Our divines</L>
+<L>Cannot speak more effectually.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Shall I be</L>
+<L>Talk'd out of my money?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>No, Sir, but intreated</L>
+<L>To do your self a benefit, and preserve</L>
+<L>What you possesse intire.</L>
+</SP>
+<SP>
+<SPEAKER>Sir. John.</SPEAKER>
+<L>How my good brother?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>By making these your beads-men. When they eat,</L>
+<L><PB N="16" REF="11"/>Their thanks next heaven, will be paid to your mercy</L>
+<L>When your Ships are at Sea, their prayers will swell</L>
+<L>The Sails with prosperous winds, and guard'em from</L>
+<L>Tempests, and pirates: keep your ware-houses</L>
+<L>From fire, or quench'em with their tears.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>No more.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Write you a good man in the peoples hearts,</L>
+<L>Follow you every where.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>If this could be.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>It must or our devotions are but words,</L>
+<L>I see a gentle promise in your eie,</L>
+<L>Make it a blessed act, and poor, me rich</L>
+<L>In being the instrument.</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>You shall prevail.</L>
+<L>Give'em longer day. But do you hear, no talk of't.</L>
+<L>Should this arrive at twelve on the Exchange.</L>
+<L>I shall be laught at for my foolish pity.</L>
+<L>Which mony men hate deadly. Take your own time</L>
+<L>But see you break not. Carrie'em to the Cellar,</L>
+<L>Drink a health, and thank your Orator.</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>On our knees Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Honest M. <HI>Luke!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>I blesse the Counter where</L>
+<L>You learn'd this Retorick.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>No more of that friends.</L>
+<STAGE>Exeunt Luke, Hoyst, Fortune, Penurie</STAGE>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>My honorable Lord</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I have seen and heard all,</L>
+<L>Excuse my manners, and wish heartily</L>
+<L>You were all of a peece. Your charity to your debtors</L>
+<L>I do commend, but where you should expresse</L>
+<L>Your pietie to the height, I must boldly tell you</L>
+<L>You shew your self an Athiest.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Make me know</L>
+<L>My error, and for what I am thus censur'd,</L>
+<L>And I will purge my self, or else confesse</L>
+<L>A guiltie cause.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>It is your harsh demeanour</L>
+<L>To your poor brother.</L>
+</SP>
+<SP>
+<PB N="17" REF="11"/>
+<SPEAKER>S. John.</SPEAKER>
+<L>Is that all?</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>'Tis more</L>
+<L>Then can admit defence. You keep him as</L>
+<L>A Parasite to your table, subject to</L>
+<L>The scorn of your proud wife: an underling</L>
+<L>To his own Neeces. And can I with mine honor</L>
+<L>Mix my blood with his, that is not sensible</L>
+<L>Of his brothers miseries?</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>Pray you take me with you,</L>
+<L>And let mee yeeld my reasons why I am</L>
+<L>No opener handed to him. I was born</L>
+<L>His elder brother, yet my fathers fondnesse</L>
+<L>To him the younger robb'd me of my birth-right:</L>
+<L>He had a fair estate, which his loose riots</L>
+<L>Soon brought to nothing. Wants grew heavy on him</L>
+<L>And when layd up for debt, of all forsaken,</L>
+<L>And in his own hopes lost, I did redeem him,</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>You could not do lesse.</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>Was I bound to it my Lord?</L>
+<L>What I possesse, I may with justice call</L>
+<L>The harvest of my industry. Would you have me,</L>
+<L>Neglecting mine own family, to give up</L>
+<L>My estate to his disposure?</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I would have you,</L>
+<L>What's pass'd forgot, to use him as a brother;</L>
+<L>A brother of fair parts, of a clear soul,</L>
+<L>Religious, good, and honest.</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>Outward gloss</L>
+<L>Often deceivs, may it not prove so in him,</L>
+<L>And yet my long acquaintance with his nature</L>
+<L>Renders me doubtful, but that shall not make</L>
+<L>A breach between us: Let us in to dinner,</L>
+<L>And what trust, or imployment you think sit</L>
+<L>Shall be conferred upon him: If he prove</L>
+<L>True gold in the touch, I'le be no mourner for it.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>If counterfeit, I'le never trust my judgment.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB N="18" REF="12"/>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus secundus, Scena prima.</HEAD>
+<SP>
+<STAGE>Enter Luke, Holdfast, Goldwire, Tradewell.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>The like was never seen.</L>
+</SP>
+<SP>
+<SPEAKER>Luk.</SPEAKER>
+<L>Why in this rage man?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Men may talk of Country-Christmases, and Court∣gluttonie,</L>
+<L>Their thirty pound butter'd eggs, their Pies of Carps tongues,</L>
+<L>Their Pheasants drench'd with Ambergreece, the carkases</L>
+<L>Of three fat Weathers bruised for gravie to</L>
+<L>Make sauce for a single Peacock, yet their feasts</L>
+<L>Were fasts compar'd with the Cities.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>What deer dainty</L>
+<L>Was it thou murmur'st at?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Did you not observe it?</L>
+<L>There were three sucking piggs serv'd up in a dish,</L>
+<L>Took from the sow as soon as farrowed,</L>
+<L>A fortnight fed with dates, and muskadine,</L>
+<L>That stood my Master in twenty marks a piece,</L>
+<L>Besides the puddings in their bellies made</L>
+<L>Of I know not what. I dare swear the cook that dress'd it</L>
+<L>Was the Devill, disguis'd like a Dutch-man.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Yet all this</L>
+<L>Will not make you fat, fellow. <HI>Holdfast.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>I am rather</L>
+<L>Starv'd to look on't. But here's the mischief, though</L>
+<L>The dishes were rais'd one upon another</L>
+<L>As woodmongers do billets, for the first,</L>
+<L>The second, and third course, and most of the shopps</L>
+<L>Of the best confectioners in <HI>London</HI> ransack'd</L>
+<L>To furnish out a banquet, yet my Lady</L>
+<L>Call'd me penurious rascall, and cri'd out,</L>
+<L>There was nothing worth the eating.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>You must have patience,</L>
+<L><PB N="19" REF="12"/>This is not done often.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>'Tis not fit it should,</L>
+<L>Threesuch dinners more would break an Alderman,</L>
+<L>And make him give up his cloak. I am resolv'd</L>
+<L>To have no hand in't. I'le make up my accompts</L>
+<L>And since, my Master longs to be undone:</L>
+<L>The great Fiend be his Steward, I will pray,</L>
+<L>And blesse my self from him.</L>
+<STAGE>Exit Holdfast.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>The wretch shews in this</L>
+<L>An honest care.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Out on him, with the fortune</L>
+<L>Of a slave, he has the mind of one. However</L>
+<L>She bears me hard, I like my Ladies humor,</L>
+<L>And my brothers sufferage to it. They are now</L>
+<L>Busie on all hands; one side eager for</L>
+<L>Large portions, the other arguing strictly</L>
+<L>For jointures, and securitie; but this</L>
+<L>Being above our scale, no way concerns us.</L>
+<L>How dul you look? in the mean time how intend you</L>
+<L>To spend the hours?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>We well know how we would,</L>
+<L>But dare not serve our wills.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Being prentices,</L>
+<L>We are bound to attendance.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Have you almost serv'd out</L>
+<L>The term of your Indentures, yet make conscience</L>
+<L>By starts to use your liberty? Hast thou traded</L>
+<L>In the other world, expos'd unto all dangers,</L>
+<L>To make thy Master rich, yet dar'st not take</L>
+<L>Some portion of the profit for thy pleasure?</L>
+<L>Or wilt thou being keeper of the Cash,</L>
+<L>Like an Ass that carries dainties, feed on Thistles?</L>
+<L>Are you gentlemen born, yet have no gallant tincture</L>
+<L>Of gentry in you? You are no Mechanicks,</L>
+<L>Nor serve some needy shop-keeper, who surveighs</L>
+<L>His every-day-takings. You have in your keeping,</L>
+<L>A masse of wealth, from which you may take boldly,</L>
+<L>And no way be discover'd, He's no rich man</L>
+<L><PB N="20" REF="13"/>That knows all he possesses, and leavs nothing</L>
+<L>For his servants to make prey of. I blush for you,</L>
+<L>Blush at your poverty of spirit, you</L>
+<L>The brave sparks of the City?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>M. <HI>Luke,</HI></L>
+<L>I wonder, you should urge this, having felt</L>
+<L>What miserie follows riot.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>And the penance</L>
+<L>You indur'd for't in the Counter.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You are fools,</L>
+<L>The case is not the same. I spent mine own money,</L>
+<L>And my stock being smal, no mervail 'twas soon wasted.</L>
+<L>But you without the least doubt or suspicion,</L>
+<L>If cautelous, may make bold with your Masters.</L>
+<L>As for example; when his Ships come home,</L>
+<L>And you take your receipts, as 'tis the fashion,</L>
+<L>For fifty bales of Silk you may write forty,</L>
+<L>Or for so many pieces of Cloth of Bodkin,</L>
+<L>Tissue, Gold, Silver, Velvets, Sattins, Taffaties,</L>
+<L>A piece of each deducted from the grosse</L>
+<L>Will never be miss'd, a dash of a pen will do it.</L>
+</SP>
+<SP>
+<SPEAKER>Trad.</SPEAKER>
+<L>I, but our fathers bonds that lye in pawn</L>
+<L>For our honesties must pay for't.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A meer bugbear</L>
+<L>Invented to fright children. As I live</L>
+<L>Were I the master of my brothers fortunes,</L>
+<L>I should glory in such servants. Did'st thou know</L>
+<L>What ravishing lechery it is to enter</L>
+<L>An Ordinarie, <HI>ca pa pe,</HI> trim'd like a Gallant,</L>
+<L>(For which in truncks conceal'd be ever furnish'd)</L>
+<L>The reverence, respect, the crouches, cringes,</L>
+<L>The musical chime of Gold in your cram'd pockets,</L>
+<L>Commands from the attendants, and poor Porters?</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Oh rare!</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Then sitting at the Table with</L>
+<L>The braveries of the kingdom, you shall hear</L>
+<L>Occurrents from all corners of the world,</L>
+<L>The plots, the Counsels, the designs of Princes,</L>
+<L><PB N="21" REF="13"/>And freely censure'em; the City wits</L>
+<L>Cri'd up, or decri'd, as their passions lead'em;</L>
+<L>Judgment having nought to do there.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Admirable!</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>My Lord no sooner shal rise out of his chair,</L>
+<L>The gameing Lord I mean, but you may boldly</L>
+<L>By the priviledge of a gamester fill his room,</L>
+<L>For in play you are all fellows; have your knife</L>
+<L>Assoon in the Pheasant; drink your health as freely,</L>
+<L>And striking in a luckie hand or two,</L>
+<L>Buy out your time.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>This may be: but suppose</L>
+<L>We should be known.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Have mony and good cloaths</L>
+<L>And you may passe invisible. Or if</L>
+<L>You love a Madam-punck, and your wide nostrill</L>
+<L>Be taken with the sent of cambrick smocks</L>
+<L>Wrought, and perfum'd.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>There, there, M. <HI>Luke,</HI></L>
+<L>There lyes my road of happiness.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Injoy it,</L>
+<L>And pleasures stol'n being sweetest, apprehend</L>
+<L>The raptures of being hurried in a Coach</L>
+<L>To Brainford, Stanes, or Barnet.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>'Tis inchanting,</L>
+<L>I have prov'd it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Hast thou?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Yes in all these places,</L>
+<L>I have had my several Pagans billeted</L>
+<L>For my own tooth, and after ten pound suppers</L>
+<L>The curtains drawn, my Fidlers playing all night</L>
+<L>The shaking of the sheets, which I have danc'd</L>
+<L>Again, and again with my Cockatrice. M. <HI>Luke,</HI></L>
+<L>You shall be of my counsel, and we two sworn brothers,</L>
+<L>And therefore I'le be open. I am out now</L>
+<L>Six hundred in the Cash, yet if on a sudden</L>
+<L>I should be call'd to account, I have a trick</L>
+<L>How to evade it, and make up the sum.</L>
+</SP>
+<SP>
+<PB N="22" REF="14"/>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Is't possible?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You can intrust your Tutor.</L>
+<L>How? how? good Tom.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Why look you. We cash-keepers</L>
+<L>Hold correspondence, supply one another</L>
+<L>On all occasions. I can borrow for a week</L>
+<L>Two hundred pounds of one, as much of a second,</L>
+<L>A third lays down the rest, and when they want,</L>
+<L>As my Masters monies come in, I do repay it,</L>
+<L>Ka me, ka thee.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>An excellent knot! 'tis pity</L>
+<L>It <GAP DESC="illegible" REASON="faint" EXTENT="3 letters" DISP="•••"/>e should be unloos'd; for me it shall not,</L>
+<L>You are shew'n the way friend <HI>Tradewell,</HI> ou may make use on't,</L>
+<L>Or freeze in the ware-house, and keep company</L>
+<L>With the Cator <HI>Holdfast.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>No, I am converted.</L>
+<L>A Barbican Broker will surnish me with out side,</L>
+<L>And then a crash at the Ordinarie.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>I am for</L>
+<L>The Lady you saw this morning, who indeed is</L>
+<L>My proper recreation.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Go to Tom,</L>
+<L>What did you make me?</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>I'le do as much for you,</L>
+<L>Imploy me when you please:</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>If you are enquired for,</L>
+<L>I will excuse you both.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Kind M. <HI>Luke;</HI></L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Wee'l break my Master to make you;</L>
+<L>You know.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I cannot love money, go boyes. When time serves</L>
+<L>It shall appear, I have another end in't.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 TYPE="scene">
+<STAGE>Enter Lord, Sir John, Lacie, Plenty, Lady, Ann, Mary, Milliscent.</STAGE>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Ten thousand pounds a piece I'le make their portions,</L>
+<L>And after my decease it shall be double,</L>
+<L><PB N="23" REF="14"/>Provided you assure them for their jointures</L>
+<L><HI>800l. per annum,</HI> and intail</L>
+<L>A thousand more upon the heirs male,</L>
+<L>Begotten on their bodies.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Sir, you bind us</L>
+<L>To very strict conditions.</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>You my Lord</L>
+<L>May do as you please: but to me it seems strange,</L>
+<L>We should conclude of portions, and of jointures,</L>
+<L>Before our hearts are settled.</L>
+</SP>
+<SP>
+<SPEAKER>Ladie.</SPEAKER>
+<L>You say right,</L>
+<STAGE>A chair set out.</STAGE>
+<L>There are counsels of more moment, and importance</L>
+<L>On the making up of marriages to be</L>
+<L>Consider'd duly, then the portion, or the jointures</L>
+<L>In which a mothers care must be exacted,</L>
+<L>And I by speciall priviledge may challenge</L>
+<L>A casting voice.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>How's this?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Even so my Lord,</L>
+<L>In these affairs I govern.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Give you way to't?</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>I must my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>'Tis fit he should, and shall:</L>
+<L>You may consult of somthing else, this Province</L>
+<L>Is wholly mine.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>By the City custom Madam?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Yes my young Sir, and both must look my daughters</L>
+<L>Will hold it by my Copie.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Brave i'faith.</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>Give her leave to talk, we have the power to do;</L>
+<L>And now touching the businesse we last talk'd of,</L>
+<L>In private if you please.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>'Tis well remembred,</L>
+<L>You shall take your own way Madam.</L>
+<STAGE>Exeunt Lord and S. John.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>What strange lecture</L>
+<L>Will she read unto us?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Such as wisedom warrants</L>
+<L>From the Superiour bodies. Is <HI>Stargaze</HI> ready</L>
+<L><PB N="24" REF="15"/>With his several Schemes?</L>
+</SP>
+<SP>
+<SPEAKER>Millis.</SPEAKER>
+<L>Yes Madam, and attends</L>
+<L>Your pleasure.</L>
+<STAGE>Exit Milliscent.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L><HI>Stargaze,</HI> Ladie: What is he?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Call him in. You shall first know him, then admire him</L>
+<L>For a man of many parts, and those parts rare ones.</L>
+<L>Hee's every thing indeed, parcel Physician,</L>
+<L>And as such prescribes my diet, and foretells</L>
+<L>My dreams when I eat Potato's; parcel Poet,</L>
+<L>And sings Encomiums to my virtues sweetly;</L>
+<L>My Antecedent, or my Gentleman Usher;</L>
+<L>And as the starrs move, with that due proportion</L>
+<L>He walks before me; but an absolute Master</L>
+<L>In the Calculation of Nativities;</L>
+<L>Guided by that ne're-erring science, call'd,</L>
+<L>Judicial Astrologie.</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L><HI>Stargaze!</HI> sure</L>
+<L>I have a penny Almanack about me</L>
+<L>Inscrib'd to you, as to his Patroness,</L>
+<L>In his name publish'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Keep it as a jewel.</L>
+<L>Some States men that I will not name, are wholly</L>
+<L>Governed by his predictions, for they serve</L>
+<L>For any latitude in Christendome,</L>
+<L>Aswell as our own climate.</L>
+<STAGE>Enter Milliscent, and Stargaze, with two Schemes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lady</SPEAKER>
+<L>I believe so.</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>Must we couple by the Almanack?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Be silent,</L>
+<L>And e're we do articulate, much more</L>
+<L>Grow to a full conclusion, instruct us</L>
+<L>Whether this day and hour, by the planets, promise</L>
+<L>Happie success in, marriage.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L><HI>In omni</HI></L>
+<L><HI>Parte, &amp; toto.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>Good learn'd Sir, in English.</L>
+<L>And since it is resolved we must be Coxcombs,</L>
+<L>Make us so in our own language.</L>
+</SP>
+<SP>
+<PB N="25" REF="15"/>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>You are pleasant:</L>
+<L>Thus in our vulgar tongue then.</L>
+</SP>
+<SP>
+<SPEAKER>Ladie.</SPEAKER>
+<L>Pray you observe him.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L><HI>Venus</HI> in the West-angle, the house of marriage the</L>
+<L><HI>7th</HI> house, in Trine of <HI>Mars,</HI> in Conjunction of <HI>Luna,</HI> and <HI>Mars</HI></L>
+<L>Almuthen, or Lord of the Horoscope.</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>Hoy day</L>
+</SP>
+<SP>
+<SPEAKER>Ladie.</SPEAKER>
+<L>The Angels language, I am ravish'd! forward.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<P><HI>Mars</HI> as I said Lord of the Horoscope, or geniture, in mutual reception of each other, shee in her Exaltation, and he in his Triplicitie trine, and face, assure a fortunate combina∣tion to <HI>Hymen.</HI> excellent prosperous and happie.</P>
+</SP>
+<SP>
+<SPEAKER>Ladie.</SPEAKER>
+<L>Kneel, and give thanks.</L>
+<STAGE>The Women kneel</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>For what we understand not.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>And have as little faith in'c.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Be credulous,</L>
+<L>To me 'tis Oracle.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<P>Now for the sovereigntie of my future Ladies, your daughters after they are married.</P>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Wearing the breeches you mean.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Touch that point home,</L>
+<L>It is a principal one, and with London Ladies</L>
+<L>Of main consideration.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze</SPEAKER>
+<P>This is infallible: <HI>Saturn</HI> out of all dignities in his detriment and fall, combust: and <HI>Venus</HI> in the South-angle elevated above him, Ladie of both their Nativities; in her essen∣tial, and accidental dignities; occidental from the Sun, oriental from the Angle of the East, in Cazini of the Sun, in her joy, and free from the malevolent beams of infortunes; in a sign com∣manding, and Mars in a constellation obeying, she fortunate, and he dejected, the disposers of marriage in the Radix of the native in feminine figures, argue foretel, and declare preheminence, rule, preheminen ce and absolute soveraignity in women.</P>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Is't possible!</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>'Tis drawn, I assure you, from the Aphorismes of the old Chaldeans;</L>
+<L><HI>Zoroastes</HI> the first and greatest Magician,</L>
+<L><HI>Mercurius Trismegistius,</HI> the later <HI>Ptolomy,</HI> and the everlasting</L>
+<L>Prognosticator, old <HI>Erra Pater.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Are you yet satisfi'd!</L>
+</SP>
+<SP>
+<PB N="26" REF="16"/>
+<SPEAKER>Plentie.</SPEAKER>
+<L>In what?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>That you</L>
+<L>Are bound to obey your Wives, it being so</L>
+<L>Determin'd by the starrs, against whose influence</L>
+<L>There is no opposition.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Since I must</L>
+<L>Be married by the Almanack, as I may be,</L>
+<L>'Twere requisite the services and duties</L>
+<L>Which, as you say, I must pay to my wife,</L>
+<L>Were set down in the Calender.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>With the date</L>
+<L>Of my Apprenticeship.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Make your demands;</L>
+<L>I'le sit as Moderatrix, if they presse you</L>
+<L>With over hard conditions.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Mine hath the Van,</L>
+<L>I stand your charge, sweet.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>Silence.</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>I require first</L>
+<L>(And that since 'tis in fashion with kind husbands,</L>
+<L>In civil manners you must grant) my will</L>
+<L>In all things whatsoever, and that will</L>
+<L>To be obey'd, not argu'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>And good reason.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>A gentle <HI>Imprimis.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>This in grosse contains all;</L>
+<L>But your special <HI>Items,</HI> Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>When I am one</L>
+<L>(And you are honour'd to be styl'd my husband)</L>
+<L>To urge my having my Page, my Gentleman-Usher;</L>
+<L>My Woman sworn to my secrets; my Caroch</L>
+<L>Drawn by six Flanders Mares; my Coachman, Grooms,</L>
+<L>Postilian, and Footmen.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Is there ought else</L>
+<L>To be demanded?</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>Yes Sir, mine own Doctor; French, and Italian Cooks;</L>
+<L>Musicians, Songsters,</L>
+<L>And a Chaplain that must preach to please my fancie;</L>
+<L><PB N="27" REF="16"/>A friend at Court to place me at a Mask;</L>
+<L>The private Box took up at a new Play</L>
+<L>For me, and my retinue; a fresh habit,</L>
+<L>(Of a fashton never seen before) to draw</L>
+<L>The Gallants eies that sit on the Stage upon me;</L>
+<L>Some decay'd Ladie for my Parasite,</L>
+<L>To flatter me, and rail at other Madams;</L>
+<L>And there ends my ambition.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Your desires</L>
+<L>Are modest, I confess.</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>These toies subscrib'd to,</L>
+<L>And you continuing an obedient Husband</L>
+<L>Upon all fit occasions, you shall find me</L>
+<L>A most indulgent Wife.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>You have said, give place</L>
+<L>And hear your younger Sister.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>If shee speak</L>
+<L>Her language, may the great Friend booted &amp; spurr'd,</L>
+<L>With a Sithe at his girdle, as the Scotchman saies,</L>
+<L>Ride headlong down her throat.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Curse not the Judg</L>
+<L>Besore you hear the sentence.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>In some part</L>
+<L>My Sister hath spoke well for the Citie pleasures,</L>
+<L>But I am for the Countries, and must say</L>
+<L>Under correction in her demands</L>
+<L>She was too modest.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>How like you this Exordium?</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Too modest, with a mischief I</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Yes, too modest:</L>
+<L>I know my value, and prize it to the worth;</L>
+<L>My youth, my beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>How your glasse deceives you?</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>The greatnesse of the portion I bring with me,</L>
+<L>And the Sea of happinesse that from me flows to you.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>She bears up close.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>And can you in your wisedom,</L>
+<L>Or rusticall simplicity imagine,</L>
+<L><PB N="28" REF="17"/>You have met some innocent Country girle, that never</L>
+<L>Look'd further then her fathers farm, nor knew more</L>
+<L>Then the price of corn in the Market; or at what rate</L>
+<L>Beef went a stone? that would surveigh your dayrie,</L>
+<L>And bring in mutton out of Cheese, and butter?</L>
+<L>That could give directions at what time of the Moon</L>
+<L>To cut her Cocks, sor (apons against Christmas,</L>
+<L>Or when to raise up Goslings?</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>These are arts</L>
+<L>Would not mis-become you, though you should put in</L>
+<L>Obedience and duty.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Yes, and patience,</L>
+<L>To sit like a fool at home, and eye your thrashers;</L>
+<L>Then make provition for your slavering Round,</L>
+<L>When you come drunk from an Ale-house after hunting,</L>
+<L>With your Clowns and Comrades as if all were yours,</L>
+<L>You the Lord Paramount, and I the drudge;</L>
+<L>The case Sir, must be otherwise.</L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>How, I beseech you?</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Marry thus. I will not like my Sister challenge</L>
+<L>What's usefull, or superfluous from my Husband,</L>
+<L>That's base all o're. mine shall receive from me,</L>
+<L>What I think fit. I'le have the State convey'd</L>
+<L>Into my hands; and be put to his pension,</L>
+<L>Which the wise virago's of our climate practise,</L>
+<L>I will receive your rents.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>You shall be hang'd first.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Make sale, or purchase. Nay I'le have my neighbours</L>
+<L>Instructed, when a passenger shall ask,</L>
+<L>Whose house is this? though you stand by to answer,</L>
+<L>The Lady <HI>Plenties.</HI> Or who owes this manner?</L>
+<L>The Lady <HI>Plenty.</HI> Whose sheep are these? whose oxen?</L>
+<L>The Lady <HI>Plenties.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Plentie.</SPEAKER>
+<L>A plentifull Pox upon you</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>And when I have children, if it be enquir'd</L>
+<L>By a stranger whose they are, they shall still Eccho</L>
+<L>My Lady <HI>Plenties?</HI> the Husband never thought on.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>In their begetting I think so.</L>
+</SP>
+<SP>
+<PB N="29" REF="17"/>
+<SPEAKER>Mary.</SPEAKER>
+<L>Since you'l marry</L>
+<L>In the City for our wealth, in justice, we</L>
+<L>Must have the Countries Soveraignty.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>And we nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>A Nagg of forty shillings, a couple of Spaniels,</L>
+<L>With a Spar-Hawk is sufficient, and these too,</L>
+<L>As you shall behave your self, during my pleasure,</L>
+<L>I will not greatly stand on. I have said Sir,</L>
+<L>Now if you like me, so.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>At my intreaty,</L>
+<L>The Articles shall be easier.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Shall they i'faith?</L>
+<L>Like Bitch, like Whelps:</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Use fair words.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>I cannot;</L>
+<L>I have read of a house of pride, and now I have found one:</L>
+<L>A whirle winde overturn it.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>On these terms,</L>
+<L>Wil your minxship be a Lady?</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>A Lady in a morris,</L>
+<L>I'le wedd a Pedlers punck first.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Tinkers trull,</L>
+<L>A begger without a smock.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Let Mounsieur Almanack,</L>
+<L>Since he is so cunning with his Jacob's Staffe,</L>
+<L>Find you out a Husband in a bowling Ally</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>The general pimp to a Brothel.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Though that now,</L>
+<L>All the loose desires of man were rak'd up in me,</L>
+<L>And no means but thy Maiden-head left to quench'em,</L>
+<L>I would turn Cynders, or the next Sow-gelder,</L>
+<L>On my life should libb me, rather then imbrace thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Wooing do you call this?</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>A Bear-baiting rather.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Were you worried, you deserve it, and I hope</L>
+<L>I shall live to see it.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>I'le not rail, nor curse you,</L>
+<L>Only this; you are pretty peates, and your great portions</L>
+<L><PB N="30" REF="18"/>Adds much unto your handsomenesse, but as</L>
+<L>You would command your Husbands you are beggers,</L>
+<L>Deform'd, and uglie.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Hear me.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Not a word more.</L>
+<STAGE>Exeunt Lacie and Plenty.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>I ever thought 'twould come to this.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Wee may</L>
+<L>Lead Apes in Hell for Husbands, if you bind us</L>
+<L>T' articulate thus with our sutors.</L>
+<STAGE>Both speak weeping.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>Now the Clowd breaks,</L>
+<L>And the Storm will fall on me.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>You rascal, jugler.</L>
+<STAGE>She breaks his head, and beats him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>Dear Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Hold you intelligence with the Starrs,</L>
+<L>And thus deceive me?</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>My art cannot erre,</L>
+<L>If it does s'le burn my Astrolabe. In mine own Starr</L>
+<L>I did fore see this broken head, and beating;</L>
+<L>And now your Ladyship sees, as I do feel it,</L>
+<L>It could not be avoided.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Did you?</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>Madam,</L>
+<L>Have patience but a week, and if you finde not</L>
+<L>All my predictions true touching your daughters,</L>
+<L>And a change of fortune to your self, a rare one,</L>
+<L>Turn me out of doors. These are not the men, the Planets</L>
+<L>Appointed for their Husbands, there will come</L>
+<L>Gallants of another metall.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Once more trust him.</L>
+</SP>
+<SP>
+<SPEAKER>Ann. and Mary.</SPEAKER>
+<L>Do, Lady mother.</L>
+</SP>
+<SP>
+<SPEAKER>Ladie.</SPEAKER>
+<L>I am vex'd, look to it;</L>
+<L>Turn o're your books, if once again you fool me,</L>
+<L>You shall graze elswhere: Come Girles.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>I am glad I scap'd thus.</L>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<PB N="31" REF="18"/>
+<HEAD>Actus secundus, Scena tertia.</HEAD>
+<SP>
+<STAGE>Enter Lord, and Sir John.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>THe plot shews very likely.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>I repose</L>
+<L>My principal trust in your Lordship; 'twill prepare</L>
+<L>The physick I intend to minister</L>
+<L>To my Wife, and Daughters.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I will do my parts</L>
+<L>To set it off to the life.</L>
+<STAGE>Enter Lacie and Plenty.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>It may produce</L>
+<L>A Scene of no vulgar mirth. Here come the Suitors;</L>
+<L>When we understand how they relish my Wife's humors,</L>
+<L>The rest is feasible.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Their looks are cloudie.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>How fits the wind? Are you ready to launch forth.</L>
+<L>Into this sea of marriage.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Call it rather</L>
+<L>A Whirle-pool of afflictions.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>If you please</L>
+<L>To injoin me to it, I will undertake</L>
+<L>To find the North-passage to the <HI>Indies</HI> sooner,</L>
+<L>Then plough with your proud Heifer.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>I will make</L>
+<L>A Voiage to Hell first.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>How, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>And court <HI>Proserpine</HI></L>
+<L>In the fight of <HI>Pluto,</HI> his three headed Porter</L>
+<L><HI>Cerberus</HI> standing by, and all the suries,</L>
+<L>With their whips to scourge me for't, then say, I <HI>Jeffrey</HI></L>
+<L>Take your <HI>Mary</HI> for my Wife.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Why what's the matter?</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>The matter is, the mother, with your pardon,</L>
+<L><PB N="32" REF="19"/>I cannot but speak so much, is a most insufferable,</L>
+<L>Proud, insolent Ladie.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>And the daughter's worse.</L>
+<L>The Damm in years had th'advantage to be wicked.</L>
+<L>But they were so in her belly.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>I must tell you,</L>
+<L>With reverence to your wealth, I do begin</L>
+<L>To think you of the same leaven.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Take my counsel;</L>
+<L>'Tis safer for your credit to prosesse</L>
+<L>Your self a Cuckold, and upon record,</L>
+<L>Then say they are your Daughters.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You go too far Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>They have so Articl'd with us.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>And will not take us</L>
+<L>For their Husbands, but their slaves, and so aforehand</L>
+<L>They do profess they'l use us.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Leave this heat:</L>
+<L>Though they are mine I must tell you, the perverseneess</L>
+<L>Of their manners (which they did not take from me,</L>
+<L>But from their mother) qualified, they deserve</L>
+<L>Your equalls.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>True, but what's bred in the bone</L>
+<L>Admits no hope of cure:</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Though Saints, and Angels</L>
+<L>Were their Physitians.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You conclude too fast.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>God bowy you, I'le travail three years, but I'le bury</L>
+<L>This shame that lives upon me.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>With your licence,</L>
+<L>I'le keep him company.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>who shall furnish you,</L>
+<L>For your expences?</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>He shall not need your help,</L>
+<L>My purse is his, we were rivals, but now friends,</L>
+<L>And will live and die so.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>E're we go I'le pay</L>
+<L>My duty as a son.</L>
+</SP>
+<SP>
+<PB N="33" REF="19"/>
+<SPEAKER>Plenty.</SPEAKER>
+<L>And till then leave you.</L>
+<STAGE>Ext. Lscei and Plenty.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>They are strangely mov'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>What's wealth, accompanied</L>
+<L>With disobedience in a wife and children?</L>
+<L>My heart will break</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Be comforted, and hope better;</L>
+<L>Wee'l ride abroad, the fresh air and discourse,</L>
+<L>May yield us new inventions.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You are noble,</L>
+<L>And shall in all things, as you please command me.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus tertius, Scena prima.</HEAD>
+<SP>
+<STAGE>Enter Shaveem and Secret.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>DEad doings, Daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Shave'm</SPEAKER>
+<L>Doings! sufferings mother:</L>
+<L>Men have forgot what doing is;</L>
+<L>And such as have to pay for what they do,</L>
+<L>Are impotent, or Eunuchs.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>You have a friend yet,</L>
+<L>And a striker too, I take it.</L>
+<STAGE>Musick come down.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Shaveem.</SPEAKER>
+<L><HI>Goldwire</HI> is so,</L>
+<L>And comes to me by stealth, and as he can steal, maintains me</L>
+<L>In cloaths, I grant; but alas Dame, what's one friend?</L>
+<L>I would have a hundred for every hour, and use</L>
+<L>And change of humour I am in a fresh one.</L>
+<L>'Tis a flock of sheep that makes a lean Wolf fat,</L>
+<L>And not a single Lambkin. I am starv'd,</L>
+<L>Starv'd in my pleasures. I know not what a Coach is,</L>
+<L>To hurrie me to the Burse, or old Exchange,</L>
+<L>The Neathouse for Musk-mellons, and the Gardens</L>
+<L>Where we traffick for Asparagus, are to me</L>
+<L>In the other world.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>There are other places Ladie.</L>
+<L>Where you might find customers.</L>
+</SP>
+<SP>
+<PB N="34" REF="20"/>
+<SPEAKER>Shaveem.</SPEAKER>
+<L>You would have me fout it</L>
+<L>To the Dancing of the Ropes, sit a whole afternoon there</L>
+<L>In expectation of Nuts and Pippins;</L>
+<L>Gape round about me, and yet not find a Chapamn</L>
+<L>That in courtesie will bid a chop of mutton,</L>
+<L>Or a pint of Drum-wine for me.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>You are so impatient.</L>
+<L>But I can tell you news will comfort you,</L>
+<L>And the whole Sister hood.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>What's that?</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>I am told</L>
+<L>Two Embassadours are come over. A French Monsieur,</L>
+<L>And a Venetian, one of the Clarissimi,</L>
+<L>A hot rein'd Marmosue. Their followers,</L>
+<L>For their Countries honor after a long Vacation,</L>
+<L>Will make a full term with us.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>They indeed are</L>
+<L>Our certain and best customers: Who knocks there?<STAGE>Knock within.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Within Ramble.</SPEAKER>
+<L>Open the door.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>What are you?</L>
+</SP>
+<SP>
+<SPEAKER>Ramble.</SPEAKER>
+<STAGE>Within Ramble.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Scuffle.</SPEAKER>
+<STAGE>Within Scuffle.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Within Ramble.</SPEAKER>
+<L>Your constant visitants.</L>
+</SP>
+<SP>
+<SPEAKER>Shaven.</SPEAKER>
+<L>Let 'em not in.</L>
+<L>I know em swaggering, suburbian roarers,</L>
+<L>Six-penny truckers</L>
+</SP>
+<SP>
+<SPEAKER>Within Ramble.</SPEAKER>
+<L>Down go all your windows,</L>
+<L>And your neighbours too shall suffer.</L>
+</SP>
+<SP>
+<SPEAKER>Within Scuffle.</SPEAKER>
+<L>Force the doors.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>They are out-laws, mistrisse <HI>Shavem,</HI> and there is</L>
+<L>No remedie against em, what should you fear?</L>
+<L>They are but men, lying at your close ward,</L>
+<L>You have foyl'd their betters.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Out you Baud. You care not</L>
+<L>Upon what desperate service you imploy me,</L>
+<L>Nor with whom, so you have your fee.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>Sweet ladie-bird</L>
+<L>Sing a milder key.</L>
+<STAGE><PB N="35" REF="20"/>Enter Ramble and Scuffle.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Scuffle.</SPEAKER>
+<L>Are you grown proud?</L>
+</SP>
+<SP>
+<SPEAKER>Ramble.</SPEAKER>
+<L>I knew you a wastcotier in the garden allies,</L>
+<L>And would come to a saylors whistle.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>Good Sir <HI>Ramble,</HI></L>
+<L>Use her not roughly. Shee is very tender.</L>
+</SP>
+<SP>
+<SPEAKER>Ramble.</SPEAKER>
+<L>Rank and rotten, is she not?</L>
+<STAGE>She draws her knife, Ramble his sword.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Your spittle rogueships</L>
+<L>Shall not make me so.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>As you are a man, Squire <HI>Scuffle,</HI></L>
+<L>Step in between em. A weapon of that length</L>
+<L>Was ne're drawn in my house.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Let him come on,</L>
+<L>I'le scoure it in your gutt, you dog.</L>
+</SP>
+<SP>
+<SPEAKER>Ramble.</SPEAKER>
+<L>You brach,</L>
+<L>Are you turn'd mankind. You forgot I gave you,</L>
+<L>When wee last join'd issue, twenty pound.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>O're night,</L>
+<L>And kicke it out of me in the morning. I was then</L>
+<L>A novice, but I know to make my game now.</L>
+<L>Fetch the Constable.</L>
+<STAGE>Enter Goldwire like a Justice of Peace, Dingem like a Constable, the Musicians like watch men.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>Ah me. Here's one unsent for,</L>
+<L>And a Justice of Peace too.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>I'le hang you both you rascalls,</L>
+<L>I can but ride. You for the purse you cut</L>
+<L>In Powl's at a sermon. I have smoak'd you. And you for the bacon</L>
+<L>You took on the high way from the poor market woman</L>
+<L>As she road from Rumford.</L>
+</SP>
+<SP>
+<SPEAKER>Ramble.</SPEAKER>
+<L>Mistris <HI>Shavem.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Scuffle.</SPEAKER>
+<L>Mistris <HI>Secret,</HI></L>
+<L>On our knees we beg your pardon.</L>
+</SP>
+<SP>
+<SPEAKER>Scuffle.</SPEAKER>
+<L>Set a ransom on us.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>We cannot stand trifling. If you mean to save them,</L>
+<L>Shut them out at the back-door.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>First for punishment</L>
+<L><PB N="36" REF="21"/>They shall leave their cloaks behind em, and in sign</L>
+<L>I am their soveraign, and they my vassalls,</L>
+<L>For homage kiss my Shoo-sole rogues, and vanish.</L>
+<STAGE>Exeunt Ramble and Scuffle.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>My brave virago. The coasts clear. Strike up.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>My <HI>Goldwire</HI> made a Justice.</L>
+<STAGE>Goldwire, and the rest discovered.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>And your scout</L>
+<L>Turn'd Constable, and the Musiclans watch-men.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>We come not to fright you, but to make you merry.</L>
+<L>A light Lavolto.</L>
+<STAGE>They dance.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>I am tir'd. No more.</L>
+<L>This was your device.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>Wholly his own. He is</L>
+<L>No pig sconce Mistris.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>He has an excellent head-peece</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Fie no, not I: your jeering gallants say</L>
+<L>We Citizens have no wit.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>He dyes that says so.</L>
+<L>This was a master-piece.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>A trifling stratagem,</L>
+<L>Not worth the talking of.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>I must kiss thee for it</L>
+<L>Again, and again.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>Make much of her. Did you know</L>
+<L>What suiters she had since she saw you.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>I'the way of marriage.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>Yes Sir, for marriage, and the other thing too.</L>
+<L>The commoditie is the same. An Irish Lord offer'd her.</L>
+<L>Five pound a week.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>And a cashier'd Captain, half</L>
+<L>Of his entertainment.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>And a new made Courtier.</L>
+<L>The next suit he could beg.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>And did my sweet one</L>
+<L>Refuse all this for me?</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Weep not for joy,</L>
+<L>'Tis true. Let others talk of Lords, and Commanders,</L>
+<L>And country heirs for their servants; but give mee</L>
+<L>My gallant prentice. He parts with his mony</L>
+<L><PB N="37" REF="21"/>So civilly, and demurely; keeps no account</L>
+<L>Of his expences, and comes ever furnish'd.</L>
+<L>I know thou hast brought money to make up</L>
+<L>My gown and petticoat, with th'appurtenances.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>I have it here Duck, thou shalt want for nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Let the chamber be perfum'd, and get you Sirrah</L>
+<L>His cap, and pantables ready.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>There's for thee,</L>
+<L>And thee. That for a banquet.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>And a cawdle</L>
+<L>Again you rise.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>There.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Usher us up in state.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>You will be constant.</L>
+<STAGE>Exeunt wanton, Musick plaid before'em</STAGE>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Thou art the whole world to me.</L>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Actus tertius, Scena secunda.</HEAD>
+<SP>
+<STAGE>Enter Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Within Anne.</SPEAKER>
+<L>WHere is this Uncle?</L>
+</SP>
+<SP>
+<SPEAKER>Within Lady.</SPEAKER>
+<L>Call this Beadsman, brother: he hath for∣got attendance.</L>
+</SP>
+<SP>
+<SPEAKER>Within Mary.</SPEAKER>
+<L>Seek him out: idlenesse spoils him.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I deserve much more then their scorn can load me with, and 'tis but justice,</L>
+<L>That I should live the families drudge, design'd</L>
+<L>To all the sordid offices their pride</L>
+<L>Imposes on me; since if now I sate</L>
+<L>A Judge in mine own cause, I should conclude</L>
+<L>I am not worth their pitie: such as want</L>
+<L>Discourse, and judgment, and through weaknesse fall,</L>
+<L>May merit man's compassion; but I</L>
+<L>That knew prosusenesse of expence the parent</L>
+<L>Of wretched poverty, her fatal daughter,</L>
+<L>To riot out mine own, to live upon</L>
+<L><PB N="38" REF="22"/>The alms of others! steering on a rock</L>
+<L>I might have shun'd: O heaven! 'tis not fit</L>
+<L>I should look upward, much lesse hope for mercy.</L>
+<STAGE>Enter Lady, Anne, Mary, Stargaze, and Milliscent.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>What are you devising, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>My Uncle is much given to his devotion.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>And takes time to mumble</L>
+<L>A <HI>Pater noster</HI> to himself.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Know you where</L>
+<L>Your brother is? It better would become you</L>
+<L>(Your means of life depending wholly on him)</L>
+<L>To give your attendance.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>In my will I do:</L>
+<L>But since he rode sorth yesterday with Lord <HI>Lacie,</HI></L>
+<L>I have not seen him.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>And wh<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/> went not you</L>
+<L>By his stirrup? how do you look? were his eies clos'd,</L>
+<L>You'd be glad of such imploiment.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>'Twas his pleasure</L>
+<L>I should wait your command, <GAP DESC="illegible" REASON="faint" EXTENT="1 word" DISP="〈◊〉"/> those I am ever</L>
+<L>Most ready to receive.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I know you can speak well,</L>
+<L>But say and do.</L>
+<STAGE>Enter Lord Lacie with a Will.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Here comes my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Further off:</L>
+<L>You are no companion for him, and his businesse</L>
+<L>Aims not at you, as I take it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke</SPEAKER>
+<L>Can I live in this base condition? <STAGE>aside</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I h<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>p'd, my Lord,</L>
+<L>You had brought Mr. <HI>Frugall</HI> with you, for I must ask</L>
+<L>An account of him from you.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I can give it, Ladie;</L>
+<L>But with the best discretion of a woman,</L>
+<L>And a strong fortifi'd patience, I desire you</L>
+<L>To give it hearing</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>My heart beats.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>My Lord, you much amaze me.</L>
+</SP>
+<SP>
+<PB N="39" REF="22"/>
+<SPEAKER>Lord.</SPEAKER>
+<L>I shall astonish you. The noble Merchant,</L>
+<L>Who living was for his integritie</L>
+<L>And upright dealing (a rare miracle.</L>
+<L>In a rich Citizen) Londons best honour;</L>
+<L>Is — I am loth to speak it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Wondrous strange!</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I do suppose the worst, not dead I hope?</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Your supposition's true, your hopes are false:</L>
+<L>Hee's dead.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Ay mee.</L>
+</SP>
+<SP>
+<SPEAKER>Anne</SPEAKER>
+<L>My Father.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>My kind Father.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Now they insult not.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Pray hear me out.</L>
+<L>Hee's dead. Dead to the world, and you. And now</L>
+<L>Lives onely to himself.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>What Riddle's this?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Act not the torturer in my afflictions;</L>
+<L>But make me understand the summe of all</L>
+<L>That I must undergo.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>In few words take it;</L>
+<L>He is retir'd into a Monastery,</L>
+<L>Where he resolves to end his daies.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>More strange.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I saw him take poste for Dover, and the wind</L>
+<L>Sitting so fair, by this hee's safe at Calice,</L>
+<L>And ere long will be at Lovain.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Could I guesse</L>
+<L>What were the motives that induc'd him to it,</L>
+<L>'Twere some allay to my sorrows.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I 'le instruct you,</L>
+<L>And chide you into that knowledg: 'twas your pride</L>
+<L>Above your rank, and stubborn disobedience</L>
+<L>Of these your daughters, in their milk suck'd from you:</L>
+<L>At home the harshnesse of his entertainment,</L>
+<L>You wilfully forgetting that your all</L>
+<L>Was borrowed from him; and to hear abroad</L>
+<L>The imputations dispers'd upon you,</L>
+<L><PB N="40" REF="23"/>And justly too, I fear, that drew him to</L>
+<L>This strict retirement: And thus much said for him;</L>
+<L>I am my self to accuse you.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I confesse</L>
+<L>A guilty cause to him, but in a thought,</L>
+<L>My Lord, I ne'rc wrong'd you.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>In fact you have;</L>
+<L>The insolent disgrace you put upon</L>
+<L>My onely Son, and Mr. <HI>Plenty;</HI> men, that lov'd</L>
+<L>Your daughters in a noble way, to wash off</L>
+<L>The scandal, put a resolution in 'em</L>
+<L>For three years travel.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I am much griev'd for it.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>One thing I had forgot; your rigor to</L>
+<L>His decaied brother, in which your flatteries,</L>
+<L>Or sorcevies, made him a coagent with you,</L>
+<L>Wrought not the least impression.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Humph! this sounds well.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>'Tis now past help: after these storms, my Lord,</L>
+<L>A little calme, if you please.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>If what I have told you</L>
+<L>Shew'd like a storm, what now I must deliver</L>
+<L>Will prove a raging tempest. His whole estate</L>
+<L>In lands and leases, debts and present moneys,</L>
+<L>With all the movables he stood posses'd of,</L>
+<L>With the best advice which he could get for gold</L>
+<L>From his learned counsel, by this formall Will</L>
+<L>Is pass'd o're to his brother. With it take</L>
+<L>The key of his counting house. Not a groat left you,</L>
+<L>Which you can call your own.</L>
+</SP>
+<SP>
+<SPEAKER>Ladie.</SPEAKER>
+<L>Undone for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L><HI>Marie.</HI> What will become of us?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Humph!</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>The Scenes chang'd,</L>
+<L>And he that was your slave, by fate appointed</L>
+<L>Your governour, you kneel to me in vain,</L>
+<L>I cannot help you, I discharge the trust</L>
+<L>Impos'd upon me. This humilitie</L>
+<L><PB N="41" REF="23"/>From him may gain remission, and perhaps</L>
+<L>Forgetfulnesse of your barbarous usage to him.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Am I come to this.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Enjoy your own, good Sir,</L>
+<L>But use it with due reverence. I once heard you</L>
+<L>Speak most divinely in the opposition</L>
+<L>Of a revengefull humor, to these shew it;</L>
+<L>And such who then depended on the mercy</L>
+<L>Of your brother wholly now at your devotion,</L>
+<L>And make good the opinion I held of you;</L>
+<L>Of which I am most confident.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Pray you rise,</L>
+<L>And rise with this assurance, I am still,</L>
+<L>As I was of late, your creature; and if rais'd</L>
+<L>In any thing, 'tis in my power to serve you,</L>
+<L>My will is still the same. O my Lord!</L>
+<L>This heap of wealth which you possesse me of.</L>
+<L>Which to a worldly man had been a blessing,</L>
+<L>And to the messenger might with justice challenge</L>
+<L>A kind of adoration, is to me</L>
+<L>A curse, I cannot thank you for; and much lesse</L>
+<L>Rejoyce in that tranquility of mind,</L>
+<L>My brothers vows must purchase. I have made</L>
+<L>A dear exchange with him. He now enjoyes</L>
+<L>My peace, and poverty, the trouble of</L>
+<L>His wealth confer'd on me, and that a burthen</L>
+<L>Too heavy for my weak shouldiers.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Honest soul,</L>
+<L>With what feeling he receivs it.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>You shall have</L>
+<L>My best assistance, if you please to use it</L>
+<L>To help you to suport it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>By no means,</L>
+<L>The waight shall rather sinck me, then you part</L>
+<L>With one short minute from those lawfull pleasures</L>
+<L>Which you were born to in your care to aid me,</L>
+<L>You shall have all abundance. In my nature</L>
+<L>I was ever liberall, my Lord you know it.</L>
+<L><PB N="42" REF="24"/>Kind, affable. And now me thinks I see</L>
+<L>Before my face the Jubile of joy,</L>
+<L>When it is assur'd, my brother lives in me,</L>
+<L>His debtors in full cups crown'd to my health,</L>
+<L>With Paeans to my praise will celabrate.</L>
+<L>For they well know 'tis far from me to take</L>
+<L>The forfeiture of a Bond. Nay I shall blush,</L>
+<L>The interest never paid after three years,</L>
+<L>When I demand my principall. And his servants</L>
+<L>Who from a slavish fear pai'd her obedience</L>
+<L>By him exacted; now when they are mine</L>
+<L>Will grow familiar friends, and as such use me,</L>
+<L>Being certain of the mildnesse of my temper,</L>
+<L>Which my change of fortune, frequent in most men</L>
+<L>Hath not the power to alter.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Yet take heed Sir</L>
+<L>You ruine it not with too much lenity,</L>
+<L>What his fit severity rais'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>And we fall from</L>
+<L>That height we have maintain'd.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Fle build it higher,</L>
+<L>To admiration higher. With disdain</L>
+<L>I look upon these habits, no way suiting</L>
+<L>The wife, and daughters of a knighted Citizen</L>
+<L>Bless'd with abundance.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>There Sir, I joyn with you;</L>
+<L>A fit decorum must be kept, the Court</L>
+<L>Distinguished from the City.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>With your favour</L>
+<L>I know what you would say, but give me leave</L>
+<L>In this to be your advocate. You are wide,</L>
+<L>Wide the whole region in what I purpose.</L>
+<L>Since all the titles, honours, long descents</L>
+<L>Borrow their gloss from wealth, the rich with reason</L>
+<L>May challenge their perogatives. And it shall be</L>
+<L>My glory, nay a triumph to revive</L>
+<L>In the pomp that these shall shine, the memory</L>
+<L>Of the Roman matrons, who kep't captive Queens</L>
+<L><PB N="43" REF="24"/>To be their hand-maids. And when you appear</L>
+<L>Like <HI>Juno</HI> in full majesty, and my Neeces</L>
+<L>Like Iris, Hebe, or what deities else</L>
+<L>Old Poets fancie; your cram'd ward-robes richer</L>
+<L>Then various natures, and draw down the envy</L>
+<L>of our western world upon you, onely hold me</L>
+<L>your vigilant <HI>Hermes</HI> with aeriall wings,</L>
+<L>My <HI>Caduceus</HI> my strong zeal to serve you,</L>
+<L>Press'd to fecth in all ra<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>ities may delight you,</L>
+<L>And am made immortall.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>A strange frensie.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Off with these rags, and then to bed. There dream</L>
+<L>Of future greatnesse, which when you awake</L>
+<L>I'le make a certain truth: but I must be</L>
+<L>A doer, not a promiser. The performance</L>
+<L>Requiring host, I kisse your hands, and leave you.</L>
+<STAGE>Exit Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Are we all turn'd statues: have his strange words charm'd us?</L>
+<L>What muse you on Lady?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Do not trouble me.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Sleep you too, young ones?</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>Swift wing'd time till now</L>
+<L>Was never tedious to me. Would 'twere night.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Nay morning rather.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Can you grouud your faith</L>
+<L>On such impossibilities? have you so soon</L>
+<L>Forgot your good Husband?</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Hee was a vanitie</L>
+<L>I must no more remember.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Excellent!</L>
+<L>You your kind Father?</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>Such an Uncle never</L>
+<L>Was read of in Storie!</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Not one word in answer</L>
+<L>Of my demands?</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>You are but a Lord, and know</L>
+<L>My thoughts soar higher.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Admirable! I will leave you</L>
+<L>To your Castles in the Air, when I relate this</L>
+<L><PB N="44" REF="25"/>It will exceed belief, but he must know it.</L>
+<STAGE>Exit Lord.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>Now I may boldly speak: May it please you Madam,</L>
+<L>To look upon your Vassal; I foresaw this,</L>
+<L>The Starrs assur'd it.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I begin to feel</L>
+<L>My self another woman.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>Now you shall find</L>
+<L>All my predictions true, and nobler matches</L>
+<L>Prepar'd for my young Ladies.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Princely Husbands.</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>I'le go no lesse.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Not a word more,</L>
+<L>Provide my night-rayl.</L>
+</SP>
+<SP>
+<SPEAKER>Millisc.</SPEAKER>
+<L>What shall we be to morrow.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Actus tertius, Scena tertia.</HEAD>
+<SP>
+<STAGE>Enter Luke with a key.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>TWas no phantastick object, but a truth</L>
+<L>A reall truth. Nor dream I did not slumber,</L>
+<L>And could wake ever with a brooding eye</L>
+<L>To gaze upon't! It did indure the touch,</L>
+<L>I saw, and felt it. Yet what I beheld</L>
+<L>And handl'd oft, did so transcend beleese</L>
+<L>(My wonder, and astonishment pass'd ore)</L>
+<L>I faintly could give credit to my senses.</L>
+<L>Thou dumb magician that without a charm</L>
+<L>Did'st make my entrance easie, to possesse</L>
+<L>What wise men wish, and toyl for. <HI>Hermes Moly;</HI></L>
+<L><HI>Sybilla's</HI> golden bough; the great Elixar,</L>
+<L>Imagin'd onely by the Alchymist</L>
+<L>Compar'd with thee are shadows, thou the substance.</L>
+<L>And guardian of felicity. No marvail,</L>
+<L>My brother made thy place of rest his bosome,</L>
+<L>Thou being the keeper of his heart, a mistris</L>
+<L>To be hugg'd ever. In by corners of</L>
+<L><PB N="45" REF="25"/>This sacred room, silver in bags heap'd up</L>
+<L>Like billets saw'd, and ready for the fire,</L>
+<L>Unworthy to hold fellowship with bright gold</L>
+<L>That flow'd about the room, conceal'd it self.</L>
+<L>There needs no artificiall light, the splendor</L>
+<L>Makes a perpetuall day there, night and darknesse</L>
+<L>By that still burning lamp for ever banish'd.</L>
+<L>But when guided by that, my eyes had made</L>
+<L>Discovery of the caskets, and they open'd,</L>
+<L>Each sparkling diamond from it self shot forth</L>
+<L>A pyram'd of flames, and in the roof</L>
+<L>Fix it a glorious Star, and made the place</L>
+<L>Heavens abstract, or Epitome. Rubies, Saphires, and ropes of Orient pearl; these seen I could not</L>
+<L>But look on with contempt, And yet I found</L>
+<L>What weak credulity could have no faith in</L>
+<L>A treasure far exceeding these, Here lay</L>
+<L>A mannor bound fast in a skin of parchment,</L>
+<L>The wax continuing hard, the acres melting.</L>
+<L>Here a sure deed of gift for a market town,</L>
+<L>If not redeem'd this day, which is not in</L>
+<L>The unthrists power. There being scarce one shire</L>
+<L>In <HI>Wales</HI> or <HI>Englands</HI> where my moneys are not</L>
+<L>Lent out at usurie, the certain hook</L>
+<L>To draw in more. I am sublim'd! grosse earth</L>
+<L>Supports me not. I walk on ayr! who's there</L>
+<L>Theivs, raise the street, thievs!</L>
+<STAGE>Enter Lord, Sir John, Lacie, and Plenty, as Indians.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>What strange passion's this?</L>
+<L>Have you your eies? do you know me?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You, my Lord!</L>
+<L>I do: but this retinue, in these shapes too,</L>
+<L>May well excuse my fears. When 'tis your pleasure</L>
+<L>That I should wait upon you, give me leave</L>
+<L>To do it at your own house, for I must tell you,</L>
+<L>Things as they now are with me, well consider'd,</L>
+<L>I do not like such visitants.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Yesterday</L>
+<L><PB N="46" REF="26"/>When you had nothing, praise your poverty for't,</L>
+<L>You could have sung secure before a thief;</L>
+<L>But now you are growu rich, doubts and suspitions,</L>
+<L>And needless fears possess you. Thank a good brother,</L>
+<L>But let not this exalt you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A good brother:</L>
+<L>Good in his conscience, I confesse, and wise,</L>
+<L>In giving o're the world. But his estate</L>
+<L>Which your Lordship may conceive great, no way answers</L>
+<L>The general opinion. Alas,</L>
+<L>With a great charge, I am left a poor man by him.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>A poor man, say you?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Poor, compar'd with what</L>
+<L>'Tis thought I do possesse. Some little land,</L>
+<L>Fair houshold furniture; a few good debts,</L>
+<L>But empty bags I find: yet I will be</L>
+<L>A faithful Steward to his wife and daughters,</L>
+<L>And to the utmost of my power obey</L>
+<L>His will in all things</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I'le not argue with you</L>
+<L>Of his estate, but bind you to performance</L>
+<L>Of his last request, which is for testimony</L>
+<L>Of his religious charitie, that you would</L>
+<L>Receive these Indians, lately sent him from</L>
+<L>Virginia, into your house; and labour</L>
+<L>At any rate with the best of your endeavours,</L>
+<L>Assisted by the aids of our Divines,</L>
+<L>To make 'm Christians.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Call you this, my Lord,</L>
+<L>Religious charitie? to send Infidelle,</L>
+<L>Like hungrie Locusts, to devour the bread</L>
+<L>Should feed his family. I neither can,</L>
+<L>Nor will consent to't.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Do not slight it, 'tis</L>
+<L>With him a businesse of such consequence,</L>
+<L>That should he onely hear 'tis not embrac'd,</L>
+<L>And chearfully, in this his conscience aiming</L>
+<L>At the saving of three souls, 'twill draw him o're</L>
+<L><PB N="47" REF="26"/>To see it himself accomplish'd.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Heaven forbid</L>
+<L>I should divert him from his holy purpose</L>
+<L>To worldly cares again. I rather will</L>
+<L>Sustain the burthen, and with the converted</L>
+<L>Feast the converters, who I know will prove</L>
+<L>The greater feeders.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Oh, ha, enewah Chrish bully leika.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Enaula.</L>
+</SP>
+<SP>
+<SPEAKER>Lacy.</SPEAKER>
+<L>Harrico botikia bonnery.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Ha! In this heathen language,</L>
+<L>How is it possible our Doctors should</L>
+<L>Hold conference with 'em? or I use the means</L>
+<L>For their conversion?</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>That shall be no hinderance</L>
+<L>To your good purposes. They have liv'd long</L>
+<L>In the English Colonie, and speak our language</L>
+<L>As their own Dialect; the businesse does concern you:</L>
+<L>Mine own designs command me hence. Continue,</L>
+<L>As in your poverty you were, a pious</L>
+<L>And honest man</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>That is, interpreted,</L>
+<L>A slave, and begger.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You conceive it right,</L>
+<L>There being no religion, nor virtue</L>
+<L>But in abundance, and no vice but want.</L>
+<L>All deities serve <HI>Plutus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Oracle.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Temples rais'd to our selvs in the increase</L>
+<L>Of wealth, and reputation, speak a wiseman;</L>
+<L>But sacrifice to an imagin'd power,</L>
+<L>Of which we have no sense, but in belief,</L>
+<L>A superstitious fool.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>True worldly wisdom.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>All knowledge else is folly.</L>
+</SP>
+<SP>
+<SPEAKER>Laoie.</SPEAKER>
+<L>Now we are yours,</L>
+<L>Be confident your better Angel is</L>
+<L>Enter'd your house.</L>
+</SP>
+<SP>
+<PB N="48" REF="27"/>
+<SPEAKER>Plenty.</SPEAKER>
+<L>There being nothing in</L>
+<L>The compasse of your wishes, but shall end</L>
+<L>In their fruition to the full.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>As yet,</L>
+<L>You do not know us, but when you understand</L>
+<L>The wonders we can do, and what the ends were</L>
+<L>That brought us hither, you will entertain us</L>
+<L>With more respect.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>There's somthing whispers to me,</L>
+<L>These are no common men; my house is yours,</L>
+<L>Enjoy it freely: onely grant me this,</L>
+<L>Not to be seen abroad till I have heard</L>
+<L>More of your sacred principles, pray enter.</L>
+<L>You are learn'd Europians, and wee worse</L>
+<L>Then ignorant Americans.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You shall find it.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus quartus, Scena prima.</HEAD>
+<SP>
+<STAGE>Enter Dingem, Gettall, and Holdfast.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>NOt speak with him? with fear survey me better;</L>
+<L>Thou figure of famine.</L>
+</SP>
+<SP>
+<SPEAKER>Gettal.</SPEAKER>
+<L>Comming, as we do,</L>
+<L>From his quondam patrons, his dear Ingles now,</L>
+<L>The brave spark <HI>Tradewell.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>And the man of men</L>
+<L>In the service of a woman, gallant <HI>Goldwire.</HI></L>
+<STAGE>Enter Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>I know'em for his prentices without</L>
+<L>These flourishes. Here are rude fellows Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>Not yours, you rascall?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>No, Don pimp: you may seek'em</L>
+<L>In Bridewell, or the hole, here are none of your comrogues.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>One of 'em looks as he would cut my throat:</L>
+<L>Your businesse, friends?</L>
+</SP>
+<SP>
+<PB N="49" REF="27"/>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>I'le fetch a constable,</L>
+<L>Let him answer him in the Stocks.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>Stir and thou dat'st.</L>
+<L>Fright me with Bridewell and the Stocks? they are flea-bitings</L>
+<L>I am familiar with</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Pray you put up.</L>
+<L>And sirrah hold your peace.</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>Thy words a law,</L>
+<L>And I obey. Live scrape-shoo, and be thankfull.</L>
+<L>Thou man of muck, and money, for as such</L>
+<L>Know salute thee. The Suburbian gamsters</L>
+<L>Have heard thy fortunes, and I am in person sent to congratulate.</L>
+</SP>
+<SP>
+<SPEAKER>Gettal.</SPEAKER>
+<L>The news hath reach'd</L>
+<L>The ordinaries, and all the gamsters are</L>
+<L>Ambitious to shake the golden golls</L>
+<L>Of worshipfull Mr. <HI>Luke.</HI> I come from <HI>Tradewell</HI></L>
+<L>Your fine facetious factor</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>I from <HI>Goldwire.</HI></L>
+<L>He and his <HI>Hellen</HI> have prepar'd a banquet</L>
+<L>With the appurtenances to entertain thee,</L>
+<L>For I must whisper in thine ear, thou art</L>
+<L>To be her <HI>Paris,</HI> but bring mony with thee</L>
+<L>To quit old scores.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>Blind chance hath frown'd upon</L>
+<L>Brave <HI>Tradewell.</HI> Hee's blown up, but not without</L>
+<L>Hope of recovery, so you supply him</L>
+<L>With a good round sum. In my house I can assure you</L>
+<L>There's half a million stirring.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>What hath he lost?</L>
+</SP>
+<SP>
+<SPEAKER>Gettal.</SPEAKER>
+<L>Three hundred.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A trifle.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>Make it up a thousand,</L>
+<L>And I will fit him with such tools as shall</L>
+<L>Bring in a miriad.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>They know me well,</L>
+<L>Nor need you use such circumstances for'em.</L>
+<L>What's mine is theirs. They are my friends, not servants;</L>
+<L><PB N="50" REF="28"/>But in their care to enrich me, and these courses</L>
+<L>The spetding means. Your name, I pray you?</L>
+</SP>
+<SP>
+<SPEAKER>Gett.</SPEAKER>
+<L>Gettall;</L>
+<L>I have been many years an Ordinary-keeper,</L>
+<L>My Box my poor Revenue.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Your name suits well</L>
+<L>With your profession. Bid him bear up, he shall not</L>
+<L>Sit 'ong on pennilesse-bench.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>There spake an Angel.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You know Mistris <HI>Shave'm?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>The Pontifical Punk.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>The same. Let him meet me there some two hours hence,</L>
+<L>And tell <HI>Tom Goldwire</HI> I will then be with him,</L>
+<L>Furnish'd beyond his hopes, and let your Mistris</L>
+<L>Appear in her best trim.</L>
+</SP>
+<SP>
+<SPEAKER>Dinge'm.</SPEAKER>
+<L>She will make thee young,</L>
+<L>Old <HI>AEson.</HI> She is ever furnish'd with</L>
+<L><HI>Medaeas</HI> Drugs, Restoratives. I flie</L>
+<L>To keep 'em sober till thy worship come,</L>
+<L>They will be drunk with joy else.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>I'le run with you.</L>
+<STAGE>Exeunt Ding'em and Gettall.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>You will not do as you say, I hope.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Inquire not,</L>
+<L>I shall do what becoms me—to the door. <STAGE>Knocking.</STAGE></L>
+<L>New Visitants: What are they?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>A whole batch, Sir,</L>
+<L>Almost of the same leaven: your needy Debtors,</L>
+<L>Penury, Fortune, Hoyst.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>They come to gratulate</L>
+<L>The fortune fall'n upon me.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Rather, Sir,</L>
+<L>Like the others, to prey on you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I am simple,</L>
+<L>They know my good nature. But let 'em in however.</L>
+</SP>
+<SP>
+<SPEAKER>Holdf.</SPEAKER>
+<L>All will come to ruine, I see beggery</L>
+<L>Already knocking at the door. You may enter—</L>
+<L>But use a conscience, and do not work upon</L>
+<L><PB N="51" REF="28"/>A tender-hearted Gentleman too much,</L>
+<L>'Twill shew like charitie in you.</L>
+<STAGE>Enter Fortune, Penury and Hoyst.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Welcome Friends:</L>
+<L>I know your hearts, and wishes; you are glad</L>
+<L>You have chang'd your Creditor.</L>
+</SP>
+<SP>
+<SPEAKER>Penury.</SPEAKER>
+<L>I weep for joy</L>
+<L>To look upon his Worships face.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>His Worships?</L>
+<L>I see Lord Major written on his forehead;</L>
+<L>The <GAP DESC="illegible" REASON="faint" EXTENT="2 letters" DISP="••"/>ap of Maintenance, and Citie Sword</L>
+<L>Born up in state before him.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>Hospitals,</L>
+<L>And a third Burse erected by his Honour.</L>
+</SP>
+<SP>
+<SPEAKER>Penury.</SPEAKER>
+<L>The Citie Po<GAP DESC="illegible" REASON="faint" EXTENT="2 letters" DISP="••"/> on the Pageant-day</L>
+<L>Preferring him before <HI>Gresham.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>All the Conduits</L>
+<L>Spouting Canary Sack.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Not a prisoner left,</L>
+<L>Under ten pounds.</L>
+</SP>
+<SP>
+<SPEAKER>Penury.</SPEAKER>
+<L>We his poor Beads-men feasting</L>
+<L>Our neighbours on his bounty.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>May I make good</L>
+<L>Your prophecies, gentle friends, as I'le indeavour</L>
+<L>To the utmost of my power.</L>
+</SP>
+<SP>
+<SPEAKER>Holdf.</SPEAKER>
+<L>Yes, for one year,</L>
+<L>And break the next.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You are ever prating, Sirrha:</L>
+<L>Your present businesse, friends?</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Were your brother present,</L>
+<L>Mine had been of some consequence; but now</L>
+<L>The power lies in your Worships hand, 'tis little,</L>
+<L>And will I know, as soon as ask'd, be granted.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>'I is very probable.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>The kind forbearance</L>
+<L>Of my great debt, by your means, heav'n prais'd for't,</L>
+<L>Hath rais'd my sunk estate. I have two Ships,</L>
+<L>Which I long since gave lost, above my hopes</L>
+<L><PB N="52" REF="29"/>Return'd from <HI>Barbary,</HI> and richly fraighted.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Where are they?</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Near <HI>Gravesend.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I am truly glad of't.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>I find your worships charity, and dare swear so.</L>
+<L>Now may I have your licence, as I know</L>
+<L>With willingnesse I shall, to make the best</L>
+<L>Of the commodities, though you have execution,</L>
+<L>And after judgment against all that's mine,</L>
+<L>As my poor body, I shall be enabl'd</L>
+<L>To make payment of my debts to all the world,</L>
+<L>And leave my self a competence.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You much wrong me,</L>
+<L>If you onely doubt it. Yours Mr. <HI>Hoyst.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hoyst</SPEAKER>
+<L>'Tis the surrendring back the morgage of</L>
+<L>My lands, and on good tearms, but three daies pa∣tience;</L>
+<L>By an Uncles death I have means lest to redeem it,</L>
+<L>And cancell all the forfeited Bonds I seal'd too</L>
+<L>In my <GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>i<GAP DESC="illegible" REASON="missing" EXTENT="2 letters" DISP="••"/>ts to the Merchant, for I am</L>
+<L>Resolv'd to leave off play, and turn good husband.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A good intent, and to be cherish'd in you.</L>
+<L>Yours <HI>Penury.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Penury.</SPEAKER>
+<L>My state stands as it did, Sir:</L>
+<L>What I ow'd I ow, but can pay nothing to you.</L>
+<L>Yet if you please to trust me with ten pounds more,</L>
+<L>I can buy a commoditie of a Sayler</L>
+<L>Will make me a freeman. There Sir is his name;</L>
+<L>And the parcels I am to deal for. <STAGE>Gives him a paper.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You are all so reasonable</L>
+<L>In your demands, that I must freely grant 'em.</L>
+<L>Some three hours hence meet me on the Exchange,</L>
+<L>You shall be amply satisfi'd.</L>
+</SP>
+<SP>
+<SPEAKER>Penury.</SPEAKER>
+<L>Heaven preserve you.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Happie were <HI>London</HI> if within her walls</L>
+<L>She had many such rich men.</L>
+<STAGE>Exeunt Fortune, Hoyst. and Penury.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>No more, now leave me;</L>
+<L><PB N="53" REF="29"/>I am full of various thoughts. Be carefull <HI>Holdfast</HI></L>
+<L>I have much to do.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>And I something to say</L>
+<L>Would you give me hearing.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>At my better leasure</L>
+<L>'Till my return, look well unto the Indians.</L>
+<L>In the mean time do you as this directs you.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Actus quartus, Scena secunda.</HEAD>
+<SP>
+<STAGE>Enter Goldwire, Tradewell. Shavem, Secret, Gettal, and Dingem.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>ALl that is mine is theirs. Those were his words</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>I am authenticall.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>And that I should not</L>
+<L>Sit long on pennilesse bench.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>But suddainly start up</L>
+<L>A gamster at the height, and cry at all.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>And did he seem to have an inclination</L>
+<L>To toy with me?</L>
+</SP>
+<SP>
+<SPEAKER>Dingem.</SPEAKER>
+<L>He wish'd you would put on</L>
+<L>Your best habiliments, for he resolv'd</L>
+<L>To make a joviall day on't.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Hug him close wench,</L>
+<L>And thou may'it eat gold, and amber. I wel know him</L>
+<L>For a most insatiate drabber. He hath given,</L>
+<L>Before he spent his own estate, which was</L>
+<L>Nothing to the huge massehee's now possess'd of,</L>
+<L>A hundred pound a leap.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Hell take my Doctor,</L>
+<L>He should have brought me some fresh oyl of Talk,</L>
+<L>These Ceruses are common.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>Troth sweet Lady,</L>
+<L>The colours are well laid on.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>And thick enough,</L>
+<L><PB N="54" REF="30"/>find that on my lips.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem.</SPEAKER>
+<L>Do you so, Jack sauce.</L>
+<L>I'le keep'em further of.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>But be assur'd first</L>
+<L>Of a new mainteiner e're you cashire the old one.</L>
+<L>But bind him fast by thy forceries, and thou shalt</L>
+<L>Be my revenue; the whole colledge study,</L>
+<L>The reparation of thy ruin'd sace;</L>
+<L>Thou shalt have thy proper and bald-headed Coach-man:</L>
+<L>Thy Tailor, and Embroiderer shall kneel</L>
+<L>To thee their Idoll. Cheap-side and the Exchange shall court thy custome, and thou shalt forget</L>
+<L>There ever was a Saint Martins. Thy procurer</L>
+<L>Shall be sheath'd in Velvet, and a reverend Vail</L>
+<L>Passe her for a grave Marton. Have an cie to the door,</L>
+<L>And let lowd musick when this Monarch enters</L>
+<L>Proclaim his entertainment.</L>
+</SP>
+<SP>
+<SPEAKER>Dinge'm.</SPEAKER>
+<L>That's my office.</L>
+<L>The Consort's ready.</L>
+<STAGE>Cornets flor.</STAGE>
+</SP>
+<SP>
+<STAGE>Enter Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>And the god of pleasure</L>
+<L>Mr. <HI>Luke</HI> our <HI>Comus</HI> enters.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Set your face in order,</L>
+<L>I will prepare him. Live I to see this day,</L>
+<L>And to acknowledge you my royal master?</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>Let the iron Chests flie open, and the gold</L>
+<L>Rusty for want of use appear again.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>Make my ordinary flourish.</L>
+</SP>
+<SP>
+<SPEAKER>Shave'm.</SPEAKER>
+<L>Welcom, Sir,</L>
+<L>To your own Palace.</L>
+<STAGE>Musick.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Kisse your <HI>Cleopatra,</HI></L>
+<L>And shew your self in your magnificent bounties</L>
+<L>A second <HI>Anthony.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dinge'm.</SPEAKER>
+<L>All the Nine Worthies.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>Variety of pleasures wait on you.</L>
+<L>And a strong back.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Give me leave to breath, I pray you.</L>
+<L>I am astonish'd! all this preparation</L>
+<L><PB N="55" REF="30"/>For me? and this choice modest beauty wrought</L>
+<L>To feed my appetite.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>We are all your creatures.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A house well furnish'd.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>At your own cost, Sir.</L>
+<L>Glad I the Instrument. I prophecied</L>
+<L>You should possesse what now you do, and therefore</L>
+<L>Prepar'd it for your pleasure. There's no ragg</L>
+<L>This <HI>Venus</HI> wears, but on my knowledge was</L>
+<L>Deriv'd from your brothers Cash. The Lease of the house</L>
+<L>And Furniture, cost near a thousand, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Shave'm.</SPEAKER>
+<L>But now you are master both of it and me.</L>
+<L>I hope you'l build elswhere.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>And see you plac'd</L>
+<L>Fair one to your desert. As I live, friend <HI>Tradewell,</HI></L>
+<L>I hardly knew you, your cloaths so wel become you.</L>
+<L>What is your losse; speak truth?</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell.</SPEAKER>
+<L>300, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>But on a new supply he shall recover</L>
+<L>The summe told twenty times o're.</L>
+</SP>
+<SP>
+<SPEAKER>Shav'm.</SPEAKER>
+<L>There is a banket,</L>
+<L>And after that a soft Couch that attends you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I couple not in the day-light. Expectation</L>
+<L>Heightens the pleasure of the night, my sweet one</L>
+<L>Your musick's harsh, discharge it: I have provided</L>
+<L>A better Confort, and you shall frollick it</L>
+<L>In another place.</L>
+<STAGE>Cease musick.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Goldw.</SPEAKER>
+<L>But have you brought gold, and store Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Tradew.</SPEAKER>
+<L>I long to wear the Caster.</L>
+</SP>
+<SP>
+<SPEAKER>Goldw.</SPEAKER>
+<L>I to appear</L>
+<L>In a fresh habit.</L>
+</SP>
+<SP>
+<SPEAKER>Shave'm.</SPEAKER>
+<L>My Mercer and my Silkman</L>
+<L>Waited me two hours since.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I am no Porter</L>
+<L>To carrie so much gold as will supply</L>
+<L>Your vaste desires, but I have ta'ne order for you,</L>
+<STAGE><PB N="56" REF="31"/>Enter Sheriffe, Marshall, and Officers.</STAGE>
+<L>You shall have what is fitting, and they come here will see it perform'd. Do your offices: You have</L>
+<L>My Lord Chief Justices Warrant for'c.</L>
+</SP>
+<SP>
+<SPEAKER>Sheriff.</SPEAKER>
+<L>Seize em all.</L>
+</SP>
+<SP>
+<SPEAKER>Shave'm.</SPEAKER>
+<L>The Citie-Marshal!</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>And the Sheriff. I know him.</L>
+</SP>
+<SP>
+<SPEAKER>Secret.</SPEAKER>
+<L>We are betray'd.</L>
+</SP>
+<SP>
+<SPEAKER>Dinge'm.</SPEAKER>
+<L>Undone.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>Dear M. <HI>Luke.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>You cannot be so cruel: your perswasion</L>
+<L>Chid us into these courses, oft repeating,</L>
+<L>Shew your selvs City-sparks, and hang up mony.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>True, when it was my brothers I contemn'd it,</L>
+<L>But now it is mine own, the case is alter'd.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewel.</SPEAKER>
+<L>Will you prove your self a divel? tempt us to mischief,</L>
+<L>And then discover it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Argue that hereafter.</L>
+<L>In the mean time, M. <HI>Goldwire,</HI> you that made</L>
+<L>Your ten pound suppers; kep't your puncks at livery</L>
+<L>In <HI>Brainford, Stanes,</HI> and <HI>Barnet;</HI> and this in <HI>London.</HI></L>
+<L>Held correspondence with your fellow-cashers,</L>
+<L>Ka me, ka thee; And knew in your accompis</L>
+<L>To cheat my brother, if you can evade me,</L>
+<L>If there be law in London your fathers Bonds</L>
+<L>Shall answer for what you are out.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>You often told us</L>
+<L>It was a bug-bear.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Such a one as shall fright'em</L>
+<L>Out of their estates to make me satisfaction,</L>
+<L>To the utmost scruple. And for you Madam,</L>
+<L>My Cleopatra, by your own confession</L>
+<L>Your house, and all your movables are mine;</L>
+<L>Nor shall you, nor your Matron need to trouble</L>
+<L>Your Mercer, or your Silkman; a blew gown,</L>
+<L>And a whip to boot, as I will handle it</L>
+<L>Will serve the turnu in Bridewell, and these soft hands,</L>
+<L>When they are inut'd to beating hemp, be scour'd</L>
+<L><PB N="57" REF="31"/>In your penitent tears, and quite forget</L>
+<L>Powders, and bitter almonds.</L>
+</SP>
+<SP>
+<SPEAKER>Shavem, Secret, Dingem.</SPEAKER>
+<L>Will you shew no mercy?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I am inexorable.</L>
+</SP>
+<SP>
+<SPEAKER>Gettall.</SPEAKER>
+<L>I'le make bold</L>
+<L>To take my leave, the gamsters stay my comming.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>We must not part so, gentle M. <HI>Gettal.</HI></L>
+<L>Your box, your certain in-com, must pay back</L>
+<L>Three hundred as I take it, or you lie by it.</L>
+<L>There's half a million stirring in your house,</L>
+<L>This a poor trifle, Mr. Shriefe, and M. Marshall</L>
+<L>On your perills do your offices.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Dost thou crie now</L>
+<L>Like a maudlin gamster after loss? I'le suffer</L>
+<L>Like a Boman, and now in my miserie,</L>
+<L>In scorn of all thy wealth, to thy teeth tell thee</L>
+<L>Thou wer't my pander.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Shall I hear this from</L>
+<L>My prentice?</L>
+</SP>
+<SP>
+<SPEAKER>Marshall.</SPEAKER>
+<L>Stop his mouth.</L>
+</SP>
+<SP>
+<SPEAKER>Sheriffe.</SPEAKER>
+<L>Away with'em. <STAGE>Exeunt Sheriffe, Marshal, and the rest</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A prosperous omen in my entrance to</L>
+<L>My alter'd nature. These house-thievs remov'd,</L>
+<L>And what was lost, beyond my hopes recover'd,</L>
+<L>Will add unto my heap. Increase of wealth</L>
+<L>Is the rich mans ambition, and mine</L>
+<L>Shall know no bounds. The valiant Macedon</L>
+<L>Having in his conceit subdu'd one world,</L>
+<L>Lamented that there were no more to conquer: in my way he shall be my great example.</L>
+<L>And when my private house in cram'd abundance</L>
+<L>Shall prove the chamber of the City poor,</L>
+<L>And Genoways banquers shall look pale with envy</L>
+<L>When I am mention'd, I shall grieve there is</L>
+<L>No more to be exhausted in one Kingdome.</L>
+<L>Religion, conscience, charity, farewell.</L>
+<L>To me you are words onely, and no more,</L>
+<L>All humane happinesse consists in store.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<PB N="58" REF="32"/>
+<HEAD>Actus quartus, Scena tertia.</HEAD>
+<SP>
+<STAGE>Enter Serjeants, Fortune, Hoyst, Penurie.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>A T M. <HI>Lukes</HI> suite? the action twenty thousand?</L>
+</SP>
+<SP>
+<SPEAKER>1 Serjeant.</SPEAKER>
+<L>With two or three executions, which shall grind</L>
+<L>You to powder when we have you in the Counter.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Thou dost belie him varlet. He, good gentleman,</L>
+<L>Will weep when he hears how we are us'd.</L>
+</SP>
+<SP>
+<SPEAKER><GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/> Serjeant.</SPEAKER>
+<L>Yes milstones.</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>He promis'd to lend me ten pound for a bargain,</L>
+<L>He will not do it this way.</L>
+</SP>
+<SP>
+<SPEAKER>2 Serjeant.</SPEAKER>
+<L>I have warrant</L>
+<L>For what I have done. You are a poor fellow,</L>
+<L>And there being little to be got by you,</L>
+<L>In charity, as I am an officer,</L>
+<L>I would not have seen you, but upon compulsion,</L>
+<L>And for mine own security.</L>
+</SP>
+<SP>
+<SPEAKER>3 Serjeant.</SPEAKER>
+<L>You are a gallant,</L>
+<L>And I do you a courtesie; provided</L>
+<L>That you have mony. For a piece an hour</L>
+<L>I'le keep you in the house, till you send for bail.</L>
+</SP>
+<SP>
+<SPEAKER>2 Serjeant.</SPEAKER>
+<L>In the mean time yeoman run to the other Counter,</L>
+<L>And search if there be ought else out against him.</L>
+</SP>
+<SP>
+<SPEAKER>3 Serjant.</SPEAKER>
+<L>That Done, haste to his creditors. Hee's a prize,</L>
+<L>And as we are City pirates by our oaths,</L>
+<L>We must make the best on't.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>Do your worst, I care not.</L>
+<L>I'le be remov'd to the Fleet, and drink and drabbe there</L>
+<L>In spite of your teeth. I now repent I ever</L>
+<L>Intended to be honest</L>
+<STAGE>Enter Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>3 Serjeant.</SPEAKER>
+<L>Here he comes</L>
+<L>You had best tell so.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Worshipfull Sir,</L>
+<L><PB N="59" REF="32"/>You come in time to free us from these ban-dogs.</L>
+<L>I know you gave no way to't.</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>Or if you did,</L>
+<L>'T was but to try our patience.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>I must tell you</L>
+<L>I do not like such trialls.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Are you Serjeants</L>
+<L>Acquainted with the danger of a rescue,</L>
+<L>Yet stand here prating in the street. The Counter</L>
+<L>Is a safer place to parly in.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Are you in earnest?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Y s faith, I will be satsfi'd to a token,</L>
+<L>Or build upon't you rott there.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Can a gentleman,</L>
+<L>Of your soft and silken temper, speak such language?</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>So honest, so religious.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>That preach'd</L>
+<L>So much of charity for us to your brother?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Yes when I was in poverty it shew'd well,</L>
+<L>But I inherite with his state, his minde,</L>
+<L>And rougher nature. I grant, then I talk'd</L>
+<L>For some ends to my self conceal'd, of pitie,</L>
+<L>The poor mans orisons; and such like nothing.</L>
+<L>But what I thought you all shall feel, and with rigor.</L>
+<L>Kind M. <HI>Luke</HI> saies it. who paies for your attendance?</L>
+<L>Do you wait gratis?</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Hear us speak.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>While I,</L>
+<L>Like the Adder stop mine ears. Or did I listen,</L>
+<L>Though you spake with the tongues of Angels to me</L>
+<L>I am not to be alter'd.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Let me make the best</L>
+<L>Of my shippes, and their fraight.</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>Lend me the ten pounds you promis'd.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>A day or two's patience to redeem my morgage,</L>
+<L>And you shall be satisfi'd.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>To the utmost farthing.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I'le shew some mercie; which is, that I will not</L>
+<L><PB N="60" REF="33"/>Torture you with false hopes, but make you know</L>
+<L>What you shall trust to. Your Ships to my use</L>
+<L>Are seized on. I have got into my hands</L>
+<L>Your bargains from the Sailor, 'twas a good one</L>
+<L>For such a petty summ. I will likewise take</L>
+<L>The extremity of your Morgage, and the forfeit:</L>
+<L>Of your several Bonds, the use, and principle</L>
+<L>Shall not serve. Think of the basket, wretches,</L>
+<L>And a Coal-sack for a winding-sheet.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Broker.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>Iew.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Imposer.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>Cut-throat.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Hypocrite.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Do, rayle on.</L>
+<L>Move mountaines with your breath, it shakes not me,</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>On my knees I beg compassion my wife and children</L>
+<L>Shall hourly pray for your worship.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>Mine betake thee</L>
+<L>To the Devil thy tutor.</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>Look upon my tears.</L>
+</SP>
+<SP>
+<SPEAKER>Hoyst.</SPEAKER>
+<L>My rage.</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>My wrongs.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>They are all a like to me.</L>
+<L>Intreats, curses, prayers, or imprecations.</L>
+<L>Doe your duties Serjants, I am else where look'd for.</L>
+<STAGE>Exit Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>3. Serjant.</SPEAKER>
+<L>This your kind creditor?</L>
+</SP>
+<SP>
+<SPEAKER>2. Serjant.</SPEAKER>
+<L>A vast villan rather.</L>
+</SP>
+<SP>
+<SPEAKER>Penurie.</SPEAKER>
+<L>See, see, the Serjeants pitie us. Yet hee's marble.</L>
+</SP>
+<SP>
+<SPEAKER>Hoist.</SPEAKER>
+<L>Buried alive!</L>
+</SP>
+<SP>
+<SPEAKER>Fortune.</SPEAKER>
+<L>There's no meanes to avoid it.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<PB N="61" REF="33"/>
+<HEAD>Actus quartus, Scena quarta.</HEAD>
+<SP>
+<STAGE>Enter Holdfast, Stargaze, and Milliscent.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>NOt waite upon my Lady?</L>
+</SP>
+<SP>
+<SPEAKER>Holafast.</SPEAKER>
+<L>Nor come at her,</L>
+<L>You finde it not in your Alminack.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Nor I have licence</L>
+<L>To bring her breakfast.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>My new master hath</L>
+<L>Decreed this for a fasting day. She hath feasted long</L>
+<L>And after a carnivale Lent ever follows.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Give me the key of her ward-robe. You'l repent this:</L>
+<L>I must know what Gown shee'l wear;</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>You are mistaken,</L>
+<L>Dame president of the sweet meates. shee and her daughters</L>
+<L>Are turn'd Philosophers, and must carry all.</L>
+<L>Their wealth about em. They have cloaths lai'd in their chamber,</L>
+<L>If they please to put em on, and without help too,</L>
+<L>Or they may walk naked. You look M. <HI>Stargaze</HI></L>
+<L>As you had seen a strange comet, and had now foretold,</L>
+<L>The end of the world, and on what day. And you,</L>
+<L>As the wasps had broke into the galley-pots,</L>
+<L>And eaten up your Apricocks.</L>
+</SP>
+<SP>
+<SPEAKER>Within Lady.</SPEAKER>
+<L>Stargazer. Milliscent.</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>My Ladyes voice.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Stir not, you are confin'd here.</L>
+<L>Your Ladiship may approach them if you please,</L>
+<L>But they are bound in this circle.</L>
+</SP>
+<SP>
+<SPEAKER>Within Lady.</SPEAKER>
+<L>Mine own bees</L>
+<L>Rebell against me. When my kind brother knows this</L>
+<L>I will be so reveng'd.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>The world's well alterd.</L>
+<L>Hee's your kind brother now. but yesterday</L>
+<L>Your slave and jesting-stock.</L>
+</SP>
+<SP>
+<PB N="62" REF="34"/>
+<STAGE>Enter Lady, Anne, Mary, in course habit weeping.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>What witch hath transform'd you?</L>
+</SP>
+<SP>
+<SPEAKER>Starg.</SPEAKER>
+<L>Is this the glorious shape your cheating brother</L>
+<L>Premis'd you should appear in?</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>My young Ladies</L>
+<L>In buffin gowns, and green aprons! tear'em off,</L>
+<L>Rather shew all then be seen thus.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>'Tis more comly</L>
+<L>I wis then their other whim-whams.</L>
+</SP>
+<SP>
+<SPEAKER>Millis.</SPEAKER>
+<L>A french hood too;</L>
+<L>Now 'tis out of fashion, a fools cap would shew better</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>We are fool'd indeed, by whose command are we us'd thus?</L>
+<STAGE>Enter Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Holdf.</SPEAKER>
+<L>Here he comes that can best resolve you.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>O good brother!</L>
+<L>Do you thus preserve your protestation to me?</L>
+<L>Can Queens envy this habit? or did <HI>Juno</HI></L>
+<L>E're feast in such a shape?</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>You talk'd of <HI>Hebe,</HI></L>
+<L>Of <HI>Iris,</HI> and I know not what; but were they</L>
+<L>Dres'd as we are; They were sure some Chandlers daughters</L>
+<L>Bleaching linnen in Moor-fields.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Or Exchange-wenches,</L>
+<L>Comming from eating pudding-pies on a Sunday</L>
+<L>At <HI>Pemlico,</HI> or <HI>Islington.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Save you Sister.</L>
+<L>I now dare style you so: you were before</L>
+<L>Too glorious to be look'd on; now you appear</L>
+<L>Like a City Matron, and my pretty Neeces</L>
+<L>Such things as were born, and bred there. Why should you ape</L>
+<L>The fashions of Court-Ladies? whose high titles</L>
+<L>And pedegrees of long descen, give warrant</L>
+<L>For their superfluous braverie? 'twas monstrous:</L>
+<L>Till now you ne're look'd lovely.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Is this spoken</L>
+<L>In scorn?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Fie, no, with judgment. I make good</L>
+<L><PB N="63" REF="34"/>My promise, and now shew you like your selvs,</L>
+<L>In your own naturall shapes, and stand resolv'd</L>
+<L>You shall continue so.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>It is confess'd Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Sir! Sirrah. Use your old phrase, I can bear it.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>That if you please forgotten. We acknowledge</L>
+<L>We have deserv'd ill from you, yet despair not;</L>
+<L>Though we are at your disposure, you'l maintain us</L>
+<L>Like your brothers wife, and daughters.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>'Tis my purpose.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>And not make us ridiculous.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Admir'd rather,</L>
+<L>As fair examples for our proud City dames,</L>
+<L>And their proud brood to imitate: do not frown</L>
+<L>If you do, I laugh, and glory that I have</L>
+<L>The power in you to scourge a generall vice,</L>
+<L>And rise up a new Satyrist: but hear gently,</L>
+<L>And in a gentle phrase I'le reprehend</L>
+<L>Your late disguis'd deformity, and cry up</L>
+<L>This decency, and neatnesse, with th'advantage</L>
+<L>You shall receive by 't.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>We are bound to hear you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>With a soul inclin'd to learn. Your father was</L>
+<L>An honest Country farmer. Good-man Humble,</L>
+<L>By his neighbours ne're call'd master. Did your pride</L>
+<L>Descend from him? but let that passe: your fortune,</L>
+<L>Or rather your husbands industry, advanc'd you</L>
+<L>To the rank of a Merchants wife. He made a Knight,</L>
+<L>And your sweet mistris-ship, Ladyfi'd; you wore</L>
+<L>Sattin on solemn days, a chain of gold,</L>
+<L>A Velvet hood, rich borders, and sometimes</L>
+<L>A dainty Miniver cap, a silver pin</L>
+<L>Headed with a pearl worth three-pence, and thus far</L>
+<L>You were priviledg'd, and no man envi'd it,</L>
+<L>It being for the Cities honour, that</L>
+<L>There should be a distinction between</L>
+<L>The Wife of a Patritian, and Plebean.</L>
+</SP>
+<SP>
+<SPEAKER>Millis.</SPEAKER>
+<L>Pray you leave preaching, or chcose some other text;</L>
+<L><PB N="64" REF="35"/>Your Rhetorick is too moving, for it makes</L>
+<L>Your auditory weep.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Peace, chattering Mag-pie,</L>
+<L>I'le treat of you anon: but when the height</L>
+<L>And dignity of <HI>Londons</HI> blessings grew</L>
+<L>Contemptible, and the name Lady Maioress</L>
+<L>Became a by-word, and you scorn'd the means</L>
+<L>By which you were rais'd, my brothers fond indulgence</L>
+<L>Giving the reigns too't; and no object pleas'd you</L>
+<L>But the glittering pomp, and bravery of the Court.</L>
+<L>What a strange, nay monstrous Metamorphosis follow'd!</L>
+<L>No English workman then could please your fancy;</L>
+<L>The French, and Tuscan dresse your whole discourse;</L>
+<L>This Baud to prodigality entertain'd</L>
+<L>To buz into your ears, what shape this Countesse</L>
+<L>Appear'd in the last mask; and how it drew</L>
+<L>The young Lords eyes upon her; and this usher</L>
+<L>Succeeded in the eldest prentices place</L>
+<L>To walk before you.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Pray you end.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Proceed Sir,</L>
+<L>I could fast almost a prentiship to hear you.</L>
+<L>You touch'em so to the quick.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Then as I said,</L>
+<L>The reverend hood cast off, your borrow'd hair</L>
+<L>Powder'd, and curl'd, was by your dressers art</L>
+<L>Form'd like a Coronet, hang'd with diamonds,</L>
+<L>And the richest Orient pearl: Your Carkanets</L>
+<L>That did adorn your neck of equall value:</L>
+<L>Your Hungerland bands, and Spanish quellio russes:</L>
+<L>Great Lords and Ladies feasted to survey</L>
+<L>Embroider'd petticoats: and ficknesse fain'd</L>
+<L>That your night rayls of forty pounds a piece</L>
+<L>Might be seen with envy of the visitants;</L>
+<L>Rich pantables in ostentation shown,</L>
+<L>And roses worth a family; you were serv'd in plate;</L>
+<L>Stir'd not a foot without your Coach. And going</L>
+<L>To Church not for devotion, but to shew</L>
+<L>Your pomp, you were tickl'd when the beggars cry'd</L>
+<L><PB N="65" REF="35"/>Heaven save your honour, this idolatric</L>
+<L>Paid to a painted room.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Nay, you have reason</L>
+<L>To blubber all of you</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>And when you lay</L>
+<L>In child bed, at the Christning of this minx,</L>
+<L>I well remember it, as you had been</L>
+<L>An absolute princess, since they have no more,</L>
+<L>Three severall chambers hung. The first with Arras,</L>
+<L>And that for waiters; the second Grimson Sattin</L>
+<L>For the meaner sort of guests; the third of Skarlet,</L>
+<L>Of the rich Tirian dy; a Canopie</L>
+<L>To cover the brats cradle: you in state</L>
+<L>Like <HI>Pompie's Julia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>No more I pray you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Of this be sure you shall not. I'le cut off</L>
+<L>What ever is exorbitant in you,</L>
+<L>Or in your Daughters, and reduce you to</L>
+<L>Your naturall forms, and habits: not in revenge</L>
+<L>Of your base usage of me, but to fright</L>
+<L>Others by your example: 'Tis decree'd</L>
+<L>You shall serve one another, for I will</L>
+<L>Allow no waiter to you. Out of doors</L>
+<L>With these uselest drones,</L>
+<STAGE>Whil'st the Act Plays, the Foot∣step, little Table, and Arras hung up for the Musicians.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Will you pack?</L>
+</SP>
+<SP>
+<SPEAKER>Milliscent.</SPEAKER>
+<L>Not till I have</L>
+<L>My truncks along with me.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Not a rag, you came</L>
+<L>Hither without a box.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>You'l shew to me</L>
+<L>I hope Sir more compassion.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>'Troth I'le be</L>
+<L>Thus far a suitor for him. He hath printed</L>
+<L>An Almanack for this year at his own charge,</L>
+<L>Let him have th'impression with him to set up with.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>For once I'le be intreated: let it be</L>
+<L>Thrown to him out of the window.</L>
+</SP>
+<SP>
+<SPEAKER>Stargaze.</SPEAKER>
+<L>O cursed Stars</L>
+<L><PB N="66" REF="36"/>That raign'd at my nativity! how have you cheated</L>
+<L>Your poor observer.</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>Must we part in tears?</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Farewell, good <HI>Milliscent.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I am sick, and meet with</L>
+<L>A rough Physician. O my pride! and scorn!</L>
+<L>How justly am I punish'd!</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Now we suffer</L>
+<L>For our stubbornnesse and disobedience</L>
+<L>To our good father.</L>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<L>And the base conditions,</L>
+<L>We impos'd upon our Suitors.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Get you in,</L>
+<L>And Catterwall in a corner.</L>
+<STAGE>Lady, Anne, Mary, go off at one door; Stargaze and Millisc. at the other.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>There's no contending.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>How lik'st thou my carriage, <HI>Holdfast?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Well in some part,</L>
+<L>But it rellishes I know not how, a little</L>
+<L>Of too much tyranny.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Thou art a fool:</L>
+<L>Hee's cruel to himself, that dares not be</L>
+<L>Severe to those that us'd him cruelly.</L>
+<STAGE>Exeunt?</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus quintus, Scena prima.</HEAD>
+<SP>
+<STAGE>Enter Luke, Sir John, Lacie and Plenty.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>YOu care not then, as it seems, to be converted</L>
+<L>To our religion.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>We know no such word,</L>
+<L>Nor power but the Divel, and him we serve for fear,</L>
+<L>Not love.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I am glad that charge is sav'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>We put</L>
+<L>That trick upon your brother, to have means</L>
+<L><PB N="67" REF="36"/>To come to the Citie. Now to you wee'l discover</L>
+<L>The close design that brought us, with assurance</L>
+<L>If you lend your aids to furnish us with that</L>
+<L>Which in the Colonie was not to be purchas'd,</L>
+<L>No merchant ever made such a return</L>
+<L>For his most pretious venture, as you shall</L>
+<L>Receive from us; far, far, above your hopes,</L>
+<L>Or fancie to imagine.</L>
+<STAGE>Musicians come down to make ready for the song at Aras.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>It must be</L>
+<L>Some strange commoditie, and of a dear value,</L>
+<L>(Such an opinion is planted in me,</L>
+<L>You will deal fairly) that I would not hazard.</L>
+<L>Give me the name of't.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>I fear you will make</L>
+<L>Some scruple in your conscience to grant it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Conscience! No, no; so it may be done with safety,</L>
+<L>And without danger of the Law.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>For that</L>
+<L>You shall sleep securely. Nor shall it diminish,</L>
+<L>But add unto your heap such an increase,</L>
+<L>As what you now possess shall appear an Atome</L>
+<L>To the mountain it brings with it.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Do not rack me</L>
+<L>With expectation.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Thus then in a word:</L>
+<L>The Divel. Why start you at his name? if you</L>
+<L>Desire to wallow in wealth and worldly honors,</L>
+<L>You must make haste to be familiar with him.</L>
+<L>This Divel, whose Priest I am, and by him made</L>
+<L>A deep Magician (for I can do wonders)</L>
+<L>Appear'd to me in <HI>Virginia,</HI> and commanded</L>
+<L>With many stripes (for that's his cruel custome)</L>
+<L>I should provide on pain of his fierce wrath</L>
+<L>Against the next great sacrifice, at which</L>
+<L>We groveling on our faces, fall before him,</L>
+<L>Two Christian Virgins, that with their pure blood</L>
+<L>Might dy his horrid Altars, and a third</L>
+<L>(In his hate to such embraces as are lawful)</L>
+<L><PB N="68" REF="37"/>Married, and with your cerimonious rites</L>
+<L>As an oblation unto <HI>Hecate,</HI></L>
+<L>And wanton Lust her favorite.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A divellish custom:</L>
+<L>And yet why should it startle me? there are</L>
+<L>Enough of the Sex fit fort his use: but Virgins,</L>
+<L>And such a Matron as you speak of, hardly to be wrought to it.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>A Mine of Gold for a fee</L>
+<L>Waits him that undertakes it, and performs it.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>Know you no distressed Widow, or poor</L>
+<L>Maids, whose want of dower, though well born,</L>
+<L>Makes'em weary of their own Country?</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Such as had rather be</L>
+<L>Miserable in another world, then where</L>
+<L>They have surfeited in felicity?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Give me leave,</L>
+<L>I would not loose this purchase. A grave Matron!</L>
+<L>And two pure virgins. Umph! I think my Sister</L>
+<L>Though proud was ever honest; and my Neeces</L>
+<L>Untainted yet. Why should not they be shipp'd</L>
+<L>For this employment? they are burden some to me,</L>
+<L>And eat too much. And if they stay in <HI>London,</HI></L>
+<L>They will find friends that to my losse will force me</L>
+<L>To composition. 'Twere a Master-piece</L>
+<L>If this could be effected. They were ever</L>
+<L>Ambitious of title. Should I urge</L>
+<L>Matching with these they shall live <HI>Indian</HI> Queens,</L>
+<L>It may do much. But what shall I feel here,</L>
+<L>Knowing to what they are design'd? They absent,</L>
+<L>The thought of them will leave me. It shall be so.</L>
+<L>I'le furnish you, and to indear the service</L>
+<L>In mine own family, and my blood too.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Make this good, and your house shall not</L>
+<L>Contain the gold wee'l send you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You have seen my Sister, and my two Neeces?</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Yes Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>These perswaded</L>
+<L><PB N="69" REF="37"/>How happily they shall live, and in what pomp</L>
+<L>When they are in your kingdoms, for you must</L>
+<L>Work'em a beliefe that you are Kings.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>We are so.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I'le put it in practice instantly. Study you</L>
+<L>For moving language. Sister, Neeces. How</L>
+<STAGE>Enter Lady, Ann, Mary.</STAGE>
+<L>Stil mourning? dry your eyes, and clear these clouds</L>
+<L>That do obscure your beauties. Did you believe</L>
+<L>My personated reprehension; though</L>
+<L>It shew'd like a rough anger, could be serious?</L>
+<L>Forget the fright I put you in. My ends</L>
+<L>In humbling you was, to set off the height</L>
+<L>Of honour, principle honor, which my studies</L>
+<L>When you least expect it shall confer upon you.</L>
+<L>Still you seem doubtfull: be not wanting to</L>
+<L>Your selvs, nor let the strangenesse of the means,</L>
+<L>With the shadow of some danger, render you</L>
+<L>Incredulous.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Our usage hath been such,</L>
+<L>As we can faintly hope that your intents,</L>
+<L>And language are the same.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I'le change those hopes</L>
+<L>To certainties.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>With what art he winds about them!</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>What wil you say? or what thanks shall I look for?</L>
+<L>If now I raise you to such eminence, as</L>
+<L>The wife, and daughters of a Citizen</L>
+<L>Never arriv'd at. Many for their wealth (I grant)</L>
+<L>Have written Ladies of honor, and some few</L>
+<L>Have higher titles, and that's the farthest rise</L>
+<L>You can in England hope for. What think you</L>
+<L>If I should mark you out a way to live</L>
+<L>Queens in another climate?</L>
+<STAGE>The Banques ready. One Chair, and Wine.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Wee desire</L>
+<L>A competence.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>And prefer our Countries smoke</L>
+<L>Before outlandish fire.</L>
+</SP>
+<SP>
+<PB N="70" REF="38"/>
+<SPEAKER>Lady.</SPEAKER>
+<L>But should we listen</L>
+<L>To such impossibilities, 'tis not in</L>
+<L>The power of man to make it good.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I'le doo't.</L>
+<L>Nor is this seat of majesty far remov'd.</L>
+<L>It is but to <HI>Virginia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>How, <HI>Virginia!</HI></L>
+<L>High Heaven forbid. Remember Sir, I beseech you,</L>
+<L>What creatures are shipp'd thither.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Condemn'd wretches,</L>
+<L>Forfeited to the law.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>Strumpets and Bauds,</L>
+<L>For the abomination of their life,</L>
+<L>Spew'd out of their own Country.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Your false fears</L>
+<L>Abuse my noble purposes. Such indeed</L>
+<L>Are sent as slaves to labour there, but you</L>
+<L>To absolute soveraignty. Observe these men,</L>
+<L>With reverence observe them. They are Kings,</L>
+<L>Kings of such spacious territories, and dominions:</L>
+<L>As our great <HI>Brtitain</HI> measur'd, will appear</L>
+<L>A garden too't.</L>
+</SP>
+<SP>
+<SPEAKER>Lacie.</SPEAKER>
+<L>You shall be ador'd there</L>
+<L>As Goddesses.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Your litters made of gold</L>
+<L>Supported by your vassalls, proud to bear</L>
+<L>The burthen on their shoulders.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>Pomp, and ease,</L>
+<L>With delicates that Europe never knew,</L>
+<L>Like Pages shall wait on you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>If you have minds</L>
+<L>To entertain the greatnesse offer'd to you,</L>
+<L>With outstretched arms, and willing hands embrace it.</L>
+<L>But this refus'd, imagine what can make you</L>
+<L>Most miserable here, and rest assur'd,</L>
+<L>In storms it falls upon you: take em in,</L>
+<L>And use your best perswasion. If that fail.</L>
+<L>I'le send em aboard in a dry fat.</L>
+</SP>
+<SP>
+<PB N="71" REF="38"/>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Be not mov'd Sir.</L>
+<L>Wee'l work'em to your will: yet e're we part,</L>
+<L>Your worldly cares defer'd, a little mirth</L>
+<L>Would not misbecome us.</L>
+<STAGE>Exeunt Lacie. Plenty, Lady, Ann, Mary.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>You say well. And now</L>
+<L>It coms into my memory, this is my birth-day,</L>
+<L>Which with solemity I would observe,</L>
+<L>But that it would ask cost.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>That shall not grieve you.</L>
+<L>By my art I will prepare you such a feast,</L>
+<L>As <HI>Persia</HI> in her height of pomp, and riot</L>
+<L>Did never equall: and ravishing Musick</L>
+<L>As the <HI>Italian</HI> Princes seldome heard</L>
+<L>At their greatest entertainments. Name your guests.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I must have none.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Not the City Senate?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>No.</L>
+<L>Nor yet poor neighbours. The first would argue me</L>
+<L>Of foolish oftentation, The latter</L>
+<L>Of too much hospitality, and a virtue</L>
+<L>Grown obsolete, and uselesse. I will sit</L>
+<L>Alone, and surfet in my store, while others</L>
+<L>With envy pine at it. My Genius pamper'd</L>
+<L>With the thought of what I am, and what they suffer</L>
+<L>I have mark'd out to miserie.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You shall;</L>
+<L>And something I will add, you yet conceive not,</L>
+<L>Nor will I be flow-pac'd.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I have one businesse,</L>
+<L>And that dispatch'd I am free.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>About it Sir,</L>
+<L>Leave the rest to me.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Till now I ne're lov'd magick.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB N="72" REF="39"/>
+<HEAD>Actus quintus, Scena secunda.</HEAD>
+<SP>
+<STAGE>Enter Lord, Old Goldwire, and Old Tradewell.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>BElieve me, gentlemen! I never was</L>
+<L>So cozen'd in a fellow. He disguis'd</L>
+<L>Hypocrisie in such a cunning shape</L>
+<L>Of reall goodnesse, that I would have sworn</L>
+<L>This divell a Saint. M. <HI>Goldwire,</HI> and M. <HI>Tradewell,</HI></L>
+<L>What do you mean to do? put on.</L>
+</SP>
+<SP>
+<SPEAKER>Old Goldwire.</SPEAKER>
+<L>With your Lordships favour.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I'le have it so.</L>
+</SP>
+<SP>
+<SPEAKER>Old Tradew.</SPEAKER>
+<L>Your will, my Lord, excuses</L>
+<L>The rudenesse of our manners.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>You have receiv'd</L>
+<L>Penitent letters from your sons I doubt not?</L>
+</SP>
+<SP>
+<SPEAKER>Old Tradew.</SPEAKER>
+<L>They are our onely sons.</L>
+</SP>
+<SP>
+<SPEAKER>Old Goldw.</SPEAKER>
+<L>And as we are fathers,</L>
+<L>Remembring the errous of our youth,</L>
+<L>We would pardon slips in them.</L>
+</SP>
+<SP>
+<SPEAKER>Old Tradewell.</SPEAKER>
+<L>and pay for'em</L>
+<L>In a moderate way.</L>
+</SP>
+<SP>
+<SPEAKER>Old Goldw.</SPEAKER>
+<L>In which we hope your Lordship</L>
+<L>Will be our mediator.</L>
+</SP>
+<SP>
+<SPEAKER>Lrrd.</SPEAKER>
+<L>All my power,</L>
+<STAGE>Enter Luke.</STAGE>
+<L>You freely shall command. 'Tis he! you are wel met.</L>
+<L>And to my wish. And wondrous brave,</L>
+<L>Your habit speaks you a Merchant royall.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>What I wear, I take not upon trust.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Your betters may, and blush not for't.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>If you have nought else with me</L>
+<L>But to argue that, I will make bold to leave you.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>You are very peremptory, pray you stay.</L>
+<L>I once held you an upright honest man.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I am honesten now</L>
+<L><PB N="73" REF="39"/>By a hundred thousand pound, I thank my stars for't,</L>
+<L>Upon the Exchange, and if your late opinion</L>
+<L>Be alter'd, who can help it? good my Lord</L>
+<L>To the point. I have other businesse then to talk</L>
+<L>Of honesty, and opinions.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Yet you may</L>
+<L>Do well, if you please, to shew the one, and merit</L>
+<L>The other from good men, in a case that now</L>
+<L>Is offer'd to you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>What is't? I am troubl'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Here are two gentlemen, the fathers of</L>
+<L>Your brothers prentices.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Mine, my Lord, I take it.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Mr. <HI>Goldwire,</HI> and Mr. <HI>Tradewell.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>They are welcome, if</L>
+<L>They come prepar'd to satisfie the damage</L>
+<L>I have sustain'd by their sons.</L>
+</SP>
+<SP>
+<SPEAKER>Old Goldw.</SPEAKER>
+<L>We are, so you please</L>
+<L>To use a conscience.</L>
+</SP>
+<SP>
+<SPEAKER>Old Tradew.</SPEAKER>
+<L>Which we hope you will do,</L>
+<L>For your own worships sake.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Conscience, my friends,</L>
+<L>And wealth are not always neighbours. Should I part</L>
+<L>With what the law gives me, I should suffer mainly</L>
+<L>In my reputation. For it would convince me</L>
+<L>Of indiscretion. Nor will you I hope move me</L>
+<L>To do my self such prejudice.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>No moderation.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>They cannot look for't, and preserve in</L>
+<L>Me a thriving Citizens credit. Your bonds lie</L>
+<L>For your sons truth, and they shall answer all</L>
+<L>They have run out. The masters never prosper'd</L>
+<L>Since gentlemens sons grew prentices. When we look</L>
+<L>To have our business done at home, they are</L>
+<L>Abroad in the Tenis-court, or in partridge-alley,</L>
+<L>In <HI>Lambeth</HI> Marsh, or a cheating Ordinary</L>
+<L>Where I found your sons. I have your Bonds, look too't.</L>
+<L><PB N="74" REF="40"/>A thousand pounds a piece, and that will hardly</L>
+<L>Repair my losses.</L>
+</SP>
+<SP>
+<SPEAKER>Lord</SPEAKER>
+<L>Thou dar'st not shew thy self</L>
+<L>Such a divel.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Good words.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Such a cut-throat. I have heard of</L>
+<L>The usage of your brothers wife, and daughters.</L>
+<L>You shall find you are not lawlesse, and that your</L>
+<L>Moneys cannot justifie your villanies.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I indure this.</L>
+<L>And good my Lord, now you talk in time of moneys,</L>
+<L>Pay in what you owe me. And give me leav to wonder</L>
+<L>Your wisedome should have leisure to consider</L>
+<L>The businesse of these gentlemen, or my carriage</L>
+<L>To my Sister, or my Neeces, being your self</L>
+<L>So much in my danger.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>In thy danger?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>mine.</L>
+<L>I find in my counting house a Mannor pawn'd,</L>
+<L>Pawn'd, my good Lord, Lacie-Mannour, and that Mannour</L>
+<L>From which you have the title of a Lord,</L>
+<L>And it please your good Lordship. You are a noble man</L>
+<L>Pray you pay in my moneys. The interest</L>
+<STAGE>Plenty ready to speak within</STAGE>
+<L>Will eat saster in't, then <HI>Aqua fortis</HI> in iron.</L>
+<L>Now though you bear me hard, I love your Lordship.</L>
+<L>I grant your person to be priviledg'd</L>
+<L>From all arrests. Yet there lives a foolish creature</L>
+<L>Call'd an Under-sheriffe, who being well paid, will serve</L>
+<L>Au extent on I ords, or Lowns land. Pay it in,</L>
+<L>I would be loth your name should sink. Or that</L>
+<L>Your hopefull son, when he returns from travel,</L>
+<L>Should find you my lord without land. You are angry</L>
+<L>For my good counsell. Look you to your Bonds: had I known</L>
+<L>Of your comming, believe it I would have had Serjeants ready:</L>
+<L>Lord how you fret! but that a Tavern's near</L>
+<L>You should taste a cup of Muscadine in my house,</L>
+<L>To wash down sorrow, but there it will do better,</L>
+<L>I know you'l drink a health to me.</L>
+<STAGE>Exit Luke.</STAGE>
+</SP>
+<SP>
+<PB N="75" REF="40"/>
+<SPEAKER>Lord.</SPEAKER>
+<L>To thy damnation.</L>
+<L>Was there ever such a villain! Heaven forgive me</L>
+<L>For speaking so unchristianly, though he deservs it.</L>
+</SP>
+<SP>
+<SPEAKER>Old Goldm.</SPEAKER>
+<L>We are undone.</L>
+</SP>
+<SP>
+<SPEAKER>Old Tradem.</SPEAKER>
+<L>Our families quite ruin'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Take courage gentlemen. Comfort may appear.</L>
+<L>And punishment overtake him, when he least expects it.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV3>
+<DIV3 TYPE="scene">
+<HEAD>Actus quintus, Scena ultima.</HEAD>
+<SP>
+<STAGE>Enter Sir John and Holdfast.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>BE silent on your life.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>I am or'ejoy'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Are the pictures plac'd as I directed?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>Yes Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>And the musicians ready?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>All is done</L>
+<L>As you comanded.</L>
+<STAGE>at the door.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Make haste, and be carefull,</L>
+<L>You know your cue, and postures.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty within.</SPEAKER>
+<L>We are perfit.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>'Tis well: the rest are come too?</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>And dispos'd of</L>
+<L>To your own wish.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Set forth the table. So.</L>
+<STAGE>Enter Servants with a rich Banquet.</STAGE>
+<L>A persit Banquet. At the upper end,</L>
+<STAGE>A table, and rich Ban∣quet.</STAGE>
+<L>His chair in state, he shall feast like a Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Holdfast.</SPEAKER>
+<L>And rise like a Dutch hang-man.</L>
+<STAGE>Enter Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Not a word more.</L>
+<L>How like you the preparation? fill your room,</L>
+<L>And taste the cates, then in your thought consider</L>
+<L>A rich man, that lives wisely to himself,</L>
+<L>In his full height of glory.</L>
+</SP>
+<SP>
+<PB N="76" REF="41"/>
+<SPEAKER>Luke.</SPEAKER>
+<L>I can brook</L>
+<L>No rivall in this happinesse. How sweetly</L>
+<L>These dainties, when unpay'd for, please my palate!</L>
+<L>Some wine. <HI>Joves</HI> Nectar. Brightnesse to the star</L>
+<L>That govern'd at my birth Shoot down thy influence,</L>
+<L>And with a perpetuity of being</L>
+<L>Continue this selicity, not gain'd</L>
+<L>By vows to Saints above, and much lesse purchas'd</L>
+<L>By the thriving industry; nor fal'n upon me</L>
+<L>As a reward to piety, and religion,</L>
+<L>Or service for my Country. I owe all this</L>
+<L>To dissimulation, and the shape</L>
+<L>I wore of goodnesse. Let my brother number</L>
+<L>His beads devoutly, and believe his alms</L>
+<L>To beggars, his compassion to his debters,</L>
+<L>Will wing his better part, disrob'd of flesh,</L>
+<L>To sore above the firmament. I am well,</L>
+<L>And so I surfet here in all abundance;</L>
+<L>Though stil'd a cormorant, a cut-throat, Jew,</L>
+<L>And prosecuted with the fatal curses</L>
+<L>Of widdows, undone Orphans, and what else</L>
+<L>Such as maligne my state can load me with,</L>
+<L>I will not envie it. You promis'd musick?</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>And you shall hear the strength and power</L>
+<L>Of it, the spirit of <HI>Orpheus</HI> rais'd to make it good,</L>
+<L>And in those ravishing strains with which he mov'd</L>
+<L><HI>Charon</HI> and <HI>Cerberus</HI> to give him way</L>
+<L>To fetch from hell his lost Euridice,</L>
+<L>Appear fwifter then thought.</L>
+<STAGE>Musick. At one door Cerberus, at the other, Charon, Orpheus, Chorus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>'Tis wondrous strange.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Does not the object and the accent take you?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>A pretty fable. But that musick should</L>
+<STAGE>Plenty and Lacie ready behind.</STAGE>
+<L>Alter in friends their nature, is to me</L>
+<L>Impossible. Since in my self I find</L>
+<L>What I have once decreed, shall know no change.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You are constant to your purposes, yet I think</L>
+<L><PB N="77" REF="41"/>That I could stagger you.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>How?</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Should I present</L>
+<L>Your servants, debters, and the rest that suffer</L>
+<L>By your fit severity, I presume the sight</L>
+<L>Would move you to compassion.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Not a mote.</L>
+<L>The musick that your <HI>Orpheus</HI> made, was harsh</L>
+<L>To the delight I should receive in hearing</L>
+<L>Their cries, and groans, If it be in your power</L>
+<L>I would now see'em.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Spirits in their shapes</L>
+<L>Shal shew them as they are. But if it should move you?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>If it do. May I ne're find pity.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Be your own judge.</L>
+<L>Appear as I commanded.</L>
+<STAGE>Sad musick. Enter Goldwire, and Tradewell as from prison. Fortune, Hoyst, Penurie following after them. Shavem in a blew gown, Secret, Dingem, Old Tradewel, and Old Goldwire with Serjeants. As erected they all kneel to Luke, hea∣ving up their hands for mercy. Stargaze with a pack of Al∣minacks, Milliscent.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Ha, ha, ha!</L>
+<L>This move me to compassion? or raise</L>
+<L>One sign of seeming pity in my face?</L>
+<L>You are deceiv'd: it rather renders me more flinty, and obdurate. A South wind</L>
+<L>Shall sooner soften marble, and the rain</L>
+<L>That slides down gently from his flaggy wings</L>
+<L>O'reflow the Alps: then knees, or tears, or groans</L>
+<L>Shall wrest compunction from me. 'Tis my glory</L>
+<L>That they are wretched, and by me made so,</L>
+<L>It sets my happinesse off. I could not triumph</L>
+<L>If these were not my captives. Ha! my tarriers</L>
+<L>As it appears have seiz'd on these old foxes,</L>
+<L>As I gave order. New addition to</L>
+<L><PB N="78" REF="42"/>My Scene of mirth. Ha, ha! They now grow tedioue</L>
+<L>Let'em be remov'd, some other object. If</L>
+<L>Your art can shew it.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You shall perceive 'tis boundlesse.</L>
+<L>Yet one thing reall if you please?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>What is it?</L>
+</SP>
+<SP>
+<SPEAKER>S. Jo.</SPEAKER>
+<L>Your Neeces er'e they put to Sea, crave humbly</L>
+<L>Though ausent in their bodys, they may take leave</L>
+<L>Of their late suitors statues.</L>
+<STAGE>Enter Lady, Anne, and Mary.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>There they hang,</L>
+<L>In things different I am tractable.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>There pay your vows you have liberty.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>O sweet figure</L>
+<L>Of my abused <HI>Lacie!</HI> when remov'd</L>
+<L>Into another world; I'le daily pay</L>
+<L>A sacrifice of sight, to thy remembrance;</L>
+<L>And with a shower of tears strive to wash of</L>
+<L>The stain of that contempt, my foolish pride,</L>
+<L>And insolence threw upon thee.</L>
+</SP>
+<SP>
+<SPEAKER>Marie.</SPEAKER>
+<L>I had been</L>
+<L>Too happie, if I had injoy'd the substance,</L>
+<L>But far unworthy of it, now I shall</L>
+<L>Thus prostrate to thy statue.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>My kind husband,</L>
+<L>Blessed in my misery, from the monastery</L>
+<L>To which my disobedience confin'd thee,</L>
+<L>With thy souls eye, which distance cannot hinder,</L>
+<L>Look on my penitence. O that I could</L>
+<L>Call back time past, thy holy vow dispens'd,</L>
+<L>With what humility would I observe</L>
+<L>My long neglected duty.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Does not this move you?</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Yes as they do the statues, and her sorrow</L>
+<L>My absent brother. If by your magick art</L>
+<L>You can give life to these, or bring him hither</L>
+<L>To witnesse her repentance, I may have</L>
+<L>Perchance some feeling of it.</L>
+</SP>
+<SP>
+<PB N="79" REF="42"/>
+<SPEAKER>Sir John.</SPEAKER>
+<L>For your sport</L>
+<L>You shall see a Master-piece. Here's nothing but</L>
+<L>A superficies, colours, and no substance.</L>
+<L>Sit still, and to your wonder, and amazement</L>
+<L>I'le give these Organs. This the sacrifice</L>
+<L>To make the great work perfect.</L>
+<STAGE>Enter Lacie and Plenty.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>Prodigious.</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>Nay they have life, and motion. Descend.</L>
+<L>And for your absent brother. This wash'd off</L>
+<L>Against your will you shall know him.</L>
+<STAGE>Enter Lord and the rest.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I am lost.</L>
+<L>Guilt strikes me dumb.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>You have seen my Lord the pageant.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I have, and am ravish'd with it.</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>What think you now</L>
+<L>Of this clear soul? this honest pious man?</L>
+<L>Have I stripp'd him bare. Or will your Lordship have</L>
+<L>A farther triall of him? 'tis not in a wolf to change his natute.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>I long since confess'd my errours</L>
+</SP>
+<SP>
+<SPEAKER>S. John.</SPEAKER>
+<L>Look up, I forgive you,</L>
+<L>And seal your pardons thus.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I am too full</L>
+<L>Of joy to speak it.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>I am another creature,</L>
+<L>Not what I was.</L>
+</SP>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<L>I vow to shew my self</L>
+<L>When I am married, an humble wife,</L>
+<L>Not a commanding mistris.</L>
+</SP>
+<SP>
+<SPEAKER>Plenty.</SPEAKER>
+<L>On those terms</L>
+<L>I gladly thus embrace you.</L>
+</SP>
+<SP>
+<SPEAKER>Lacte.</SPEAKER>
+<L>Welcome to</L>
+<L>My bosome. As the one half of my self,</L>
+<L>I'le love you, and cherish you.</L>
+</SP>
+<SP>
+<SPEAKER>Goldwire.</SPEAKER>
+<L>Mercv.</L>
+</SP>
+<SP>
+<SPEAKER>Tradewell and the rest.</SPEAKER>
+<L>Good Sir mercy.</L>
+</SP>
+<SP>
+<PB N="80" REF="43"/>
+<SPEAKER>Sir John.</SPEAKER>
+<L>This day is sacred to it. All shall find me</L>
+<L>As far as lawfull pity can give way too't,</L>
+<L>Indulgent to your wishes, though with losse</L>
+<L>Unto my self. My kind, and honest brother,</L>
+<L>Looking into your self, have you seen the Gorgon?</L>
+<L>What a golden dream you have had in the possession</L>
+<L>Of my estate? but here's a revocation</L>
+<L>That wakes you out of it. Monster in nature</L>
+<L>Revengefull, avaritious Atheist,</L>
+<L>Transcending all example. But I shall bee</L>
+<L>A sharer in thy crimes, should I repeat 'em.</L>
+<L>What wilt thou do? Turn hypocrite again,</L>
+<L>With hope dissimulation can aid thee?</L>
+<L>Or that one eye will shed a tear in sign</L>
+<L>Of sorrow for thee? I have warrant to</L>
+<L>Make bold with mine own, pray you uncase. This key too</L>
+<L>I must make bold with. Hide thy self in some desart,</L>
+<L>Where good men ner'e may find thee: or in justice</L>
+<L>Pack to <HI>Virginia,</HI> and repent. Not for</L>
+<L>Those horrid ends to which thou did'st design these.</L>
+</SP>
+<SP>
+<SPEAKER>Luke.</SPEAKER>
+<L>I care not where I go, what's done with words</L>
+<L>Cannot be undone.</L>
+<STAGE>Exit Luke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Yet Sir, shew some mercy;</L>
+<L>Because his cruelty to me, and mine,</L>
+<L>Did good upon us.</L>
+</SP>
+<SP>
+<SPEAKER>Sir John.</SPEAKER>
+<L>Of that at better leisure,</L>
+<L>As his penitencie shall work me. Make you good</L>
+<L>Your promis'd reformation, and mistrust</L>
+<L>Our City dames, whom wealth makes proud, to move</L>
+<L>In their own spheres, and willingly to confesse</L>
+<L>In their habits, manners, and their highest port,</L>
+<L>A distance 'twixt the City, and the Court.</L>
+<STAGE>Exeunt omnes.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="43"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

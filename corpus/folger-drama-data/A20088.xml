@@ -1,0 +1,6495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-03-26</DATE>
+<RESPSTMT>
+<NAME>Rina Kor</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked <SUP>s</SUP>. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s of **. Converted __ $s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Sample: ** minutes. Proofing: ** minutes. Tag review and corrections: ** minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A20088">
+<STC T="S">6529</STC>
+<BIBNO T="umi">99841012</BIBNO>
+<VID>5569</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<PB REF="1"/>
+<P>A TRAGI-COMEDY: Called, <HI>Match mee in</HI> LONDON.</P>
+<P>As it hath beene often Presented; First. at the <HI>Bull</HI> in St. IOHNS-street; And lately. at the Priuate-House in DRVRY-Lane. called the PHOENIX</P>
+<P><Q><HI>Si non, Hu vtere Me<GAP DESC="illegible" REASON="indecipherable" EXTENT="1 letter" DISP="•"/>um.</HI></Q></P>
+<P>Written by THO: DEKKER.</P>
+<P>LONDON.</P>
+<P>Printed by B. ALSOP and T. FAVVCET, for H. SEILE▪ at the <HI>Tygers-</HI>head in S<SUP>t</SUP>. <HI>Pauls</HI> Church-yard. 1631.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="2"/>
+<HEAD>Drammatis Personae.</HEAD>
+<LIST>
+<ITEM>KING of SPAINE.</ITEM>
+<ITEM>DON IOHN, Prince.</ITEM>
+<ITEM>DON VALASCO, Father to the Queene.</ITEM>
+<ITEM>GAZETTO, Louer of TORMIELLA.</ITEM>
+<ITEM>MALEVENTO, Father to her.</ITEM>
+<ITEM>CORDOLENTE, her Husband.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>ALPHONSO.</CELL>
+<CELL ROWS="3">Courtiers.</CELL>
+</ROW>
+<ROW>
+<CELL>IAGO.</CELL>
+</ROW>
+<ROW>
+<CELL>MARTINES.</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>LVPO.</ITEM>
+<ITEM>DOCTOR.</ITEM>
+<ITEM>2. CHVRCHMEN.</ITEM>
+<ITEM>BILBO.</ITEM>
+<ITEM>PACHECO.</ITEM>
+<ITEM>LAZARILLO.</ITEM>
+<ITEM>QVEENE.</ITEM>
+<ITEM>TORMIELLA.</ITEM>
+<ITEM>DILDOMAN, a Bawd.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<HEAD>TO THE NOBLE LOVER, (and deseruedly beloued) of the Muses, LODOVVICK CARLELL, Esquire, Gentleman of the BOVVES, and Groome of the King, and Queenes Priuy-Chamber.</HEAD>
+<P><HI><SEG REND="decorInit">T</SEG>Hat I am thus bold to sing a Dramatick Note in your Eare, is no wonder, in regard you are a Chorister in the Quire of the Muses. Nor is it any Over-daring in mee, to put a Play-Booke into your hands, being a Courtier;</HI> Ro∣man <HI>Poets did so to their Emperours, the</HI> Spa∣nish, <HI>(Now) to their Grandi'es, the</HI> Italians <HI>to their Illustrissi<GAP DESC="illegible" REASON="indecipherable" EXTENT="1 letter" DISP="•"/>Noes, and our owne Nation, to the Great-ones.</HI></P>
+<P><HI>I haue beene a Priest in</HI> APOLLO'S <HI>Temple, many yeares; my voyce is decaying with my Age, yet yours being cleare and aboue mi ne, shall much honour mee, if you but listen to my old Tunes. Are they set Ill! Pardon them; Well! Then receiue them.</HI></P>
+<P><PB REF="3"/>
+<HI>Clad will you make mee, if by your Meanes, the King of</HI> Spaine, <HI>speakes our Language in the Court of</HI> England; <HI>yet haue you wrought as great A wonder, For the Nine sacred Sisters, by you, are (There) become Courtiers, and talke with sweet Tongues, Instructed by your Delian Eloquence. You have a King to your Master, a Queene to your Mistresse, and the Musse your Play fellowes. I to them a Servant: And yet, what Duty soeuer I owe them, some part will I borrow to waite vpon you, And to Rest</HI></P>
+<CLOSER><SIGNED>Ever, So devoted.
+THO: DEKKER.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="3"/>
+<HEAD>MATCH MEE IN LONDON.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>ACTVS, I.</HEAD>
+<SP>
+<STAGE><HI>Enter</HI> MALEVENTO.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Malevento.</SPEAKER>
+<L><HI><SEG REND="decorInit">T</SEG>Ormiella</HI> Daughter—nor in this roome—Peace: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12.</L>
+<L>The dawne of Midnight, and the Drunkards noone,</L>
+<L>No honest soules vp now, but Vintners, Midwiues,</L>
+<L>The nodding Watch, and pitious Constable, Ha;</L>
+<L>My street doore open! <HI>Bilbo, Puskeena, Bilbo. </HI></L>
+<L>Bawds, Panders, to a young Whore; Bilbo!</L>
+<STAGE><HI>Enter</HI> Bilbo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bilb.</SPEAKER>
+<L>Theeues, Theeues, Theeues, where are they Master?</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Where are they <HI>Bilbo?</HI> What Theefe seest thou?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>That ilfauor'd Theefe in your Candle sir, none else not I.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Why didst thou cry Theeues then?</L>
+</SP>
+<SP>
+<SPEAKER>Bilb.</SPEAKER>
+<P>Because you cry'd Whores; I knew a Theefe was al∣wayes within a stones cast of a Whore.</P>
+</SP>
+<SP>
+<SPEAKER><PB N="2" REF="4"/>
+Mal.</SPEAKER>
+<L>What mak'st thou vp at Midnight?</L>
+</SP>
+<SP>
+<SPEAKER>Bilb.</SPEAKER>
+<L>I make them which are made euery houre i'th day (patches.)</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Slaue what art doing? </L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>That which few men can doe, mending Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>VVhat art mending?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>That which few men care to mend, a bad sole.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Looke here, come hither, dost thou see what's this?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>I see tis our Wicket master.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Stop there and tell me, is <HI>Tormiella</HI> forth?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>I heard <HI>Puskeena</HI> our Kitchin-maid say, she was going a∣bout a murther:</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>A murther; of whom?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Of certaine Skippers; she was fleaing her selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>She dwels not in her Chamber, for my Ghost</L>
+<L>(Call'd from his rest) from Roome to roome has stalk'd,</L>
+<L>Yet met no <HI>Tormelia.</HI></L>
+<L>Was not her sweet heart here to night, <HI>Gazetto?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L><HI>Gazetto!</HI> no sir, here was no <HI>Gazetto</HI> here.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Walke round the Orchard, holla for her there.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>So, ho ho, ho, ho.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>She's certaine with <HI>Gazetto,</HI></L>
+<L>Should he turne Villaine, traine my poore child forth</L>
+<L>Though she's contracted to him, and rob her youth</L>
+<L>Of that Gemme none can prize (because nere seene)</L>
+<L>The Virgins riches (Chastity) and then</L>
+<L>(When he has left her vgly to all eyes)</L>
+<L>His owne should loath her, vds death I would draw</L>
+<L>An old mans nerues all vp into this arme.</L>
+<L>And nayle him to the Bed—</L>
+<STAGE>Enter Bilbo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>So, ho, ho, ho, the Conyes vse to feed most i'th-night</L>
+<L>Sir, yet I cannot see my young mistris in our Warren.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>No!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>No, nor you neither, tis so darke.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Where should this foolish girle be? tis past twelue,</L>
+<L><PB N="3" REF="4"/>
+Who has inuited her forth to her quicke ruine!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>My memory jogs me by the elbow, and tels me—</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>What <HI>Bilbo</HI> out with all.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>A Barber stood with her on Saturday night very late, when he had shau'd all his Customers, and as I thinke, came to trimme her.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>A Barber! To trim her! Sawst thou the Muskeod?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>A chequer'd aprone Gentleman I assure you: he smelt horrible strong of Camphire, Bay leaues and Rose water: and he stood fidling with <HI>Tormiella.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Ha?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Fidling at least halfe an houre, on a Citterne with a mans broken head at it, so that I thinke 'twas a Barber Surgion: and there's one <HI>Cynamomo</HI> a Shopkeeper, comes hither a batfowling euery Moone-shine night too.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>What's he! <HI>Cynamomo!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>I take him to be a Comfitmaker with rotten teeth, for he neuer comes till the Barber's gone.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>A Comfitmaker!</L>
+</SP>
+<SP>
+<SPEAKER>Bii.</SPEAKER>
+<P>Yes Sir, for he gaue <HI>Tormiella</HI> a Candied roote once, and she swore 'twas the sweetest thing—</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Dwels he hero i'th City?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>He has a house i'th City, but I know not where he liues.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Sheele follow her kind; turne Monster, get a light.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>My sconce is ready Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Call at <HI>Gazettoes</HI> Lodging, aske how he dares</L>
+<L>Make a Harlot of my child, slaue say no more:</L>
+<L>Begon, beat boldly.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Ile beat downe the doore; and put him in mind of a Shroue-tuesday, the fatall day for doores to be broken open.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>For this night I'm her Porter; Oh haplesse Creatures!</L>
+<L>There is in woman a Diuell from her birth,</L>
+<L>Of bad ones we have sholes, of good a dearth.</L>
+<STAGE>Exit.</STAGE>
+<STAGE><PB N="4" REF="5"/>
+Enter Cordolente and Tormiella.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>No more my <HI>Tormiella,</HI> night hath borne</L>
+<L>Thy vowes to heauen, where they are fyl'd by this</L>
+<L>Eyther one day to crowne thy constant Soule</L>
+<L>Or (if thou spot it with foule periury,)</L>
+<L>For euer to condemne thee.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Come it shall not:</L>
+<L>Here am I sphear'd for euer, thy feares (deare Loue)</L>
+<L>Strike coldly on thy jealous breast I know</L>
+<L>From that my Fathers promise to <HI>Gazetto</HI></L>
+<L>That he should haue me, contract is there none,</L>
+<L>For my heart loath'd it, is there left an oath</L>
+<L>Fit for a Maid to sweare by.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Good sweet giue o're,</L>
+<L>What need we binding oathes being fast before?</L>
+<L>I dare the crabbed'st Fate, shee cannot spin</L>
+<L>A thred thus fine and rotten; how now! sad!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Pray Heauen, I bee not mist at home, deare <HI>Cordolente</HI></L>
+<L>Thou shalt no farther, Ile venter now my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>How sweet! venture alone!</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Yes, yes, good rest.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>By that are Louers parted, seldome blest.</L>
+<STAGE>Enter Bilbo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Who goes there, if you be a woman stand, for all the men I met to night, lye in the Kennell.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>My Fathers man! I am betray'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Feare nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L><HI>Bilbo!</HI></L>
+<L>Whether art thou running?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Out of my wits and yet no Churles Executor, 'tis no money makes me mad, but want of money.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Good tell me whether art going?</L>
+</SP>
+<SP>
+<PB N="5" REF="5"/>
+<SPEAKER>Bil.</SPEAKER>
+<P>I am going to Hell (that's to say home) for my Master playes the Diuell, and I come from seeking out a house of euer∣lasting Thunder, (that's to say a Woman) I haue beene boun∣cing at Signior <HI>Gazetto</HI>'s Chamber for you.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>You'l be haa'd when you come home.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I am vndone for euer.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Thou art not, peace.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Signior <HI>Gazetto</HI> is horne-mad, and leapt out of his Bed, (as if fleas had bit him) so that I thinke he comes running starke naked after me.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Oh me, what helpe my dearest Soule?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>To desperate wounds</L>
+<L>Let's apply desperate cure, dar'st thou flye hence?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Dare! try me.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Then farewell <HI>Cordoua;</HI></L>
+<L>Horses wee'l forthwith hire, and quicke to <HI>Siuell</HI></L>
+<L>My birth-place, there thou shalt defie all stormes.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Talke not, but doe.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>She would haue you doe much but say little.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L><HI>Bilbo,</HI> thou seest me not.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>No, no, away, mum I.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>To shut thy lips fast, here are lockes of Gold.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>I'spy a light comming, trudge this way.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>You dally with fire, haste, haste, <HI>Bilbo</HI> farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>O starre-crost Loue!</L>
+<L>To find way to whose Heauen, man wades through Hell.</L>
+<STAGE>Exeunt manet <HI>Bilbo.</HI></STAGE>
+<STAGE>Enter Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Wo, ho, ho, ho,—whew.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Another Fire-drake! More Salamanders! Heere Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L><HI>Bilbo!</HI> How now! Is the Dy-dapper aboue water yet?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Signior <HI>Gazetto!</HI> Mine Eyes are no bigger then litle pinnes heads with staring, my heeles ake with trotting,
+<PB N="6" REF="6"/>
+my candle is come to an vntimely end through a Consumption. yet my yong Mistris your sweet hart, like sweet breath amongst Tobacco-drinkers, is not to be found.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>On, take my Torch, apace: the neer'st way home.</L>
+<L>Fluttering abroad by Owle-light! </L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Here sir, turne downe this Lane; shall I knocke your Torch Signior?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Prithee doe what thou wilt, the Diuell! where is she?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Had you knockt your Torch well before <HI>Tormiella</HI> (ware the post) and held it well vp when it was lighted, she had ne∣uer giuen you the slip, and i'faith Signior when is the day?</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>The wedding (meanst thou) on Saint <HI>Lukes</HI> day next,</L>
+<L>'Tis mine owne name thou know'st: but now I feare</L>
+<L>She's lost, and the day too.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>If she should driue you by foule weather into Cuckolds</L>
+<L>Hauen before Saint <HI>Lukes</HI> day comes, Signior <HI>Luco</HI> how then?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>If she dares let her, I haue her Fathers promise, nay oath that I shall haue her.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Here is my Masters Gate.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Stay she's at home sure now: Ile slip aside,</L>
+<L>Knocke thou, and if she answeres (as 'tis likely)</L>
+<L>Weel try if still th' old fencing be in vse,</L>
+<L>That faulty women neuer want excuse.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>They are made for the purpose to lye and cullor,</L>
+<L>Ile knocke.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Who's there?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>'Tis I, open the doore.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>What! to a Common!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>What common! You doe me wrong sir, though I goe in breeches, I am not the roaring girle you take me for.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Wert thou with <HI>Gazetto?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Was she with <HI>Gazetto?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>No.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Was <HI>Gazetto</HI> alone?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>No sir, I was with him.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Foole knew not he she was forth?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Yes when I told him.</L>
+</SP>
+<SP>
+<PB N="7" REF="6"/>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Signior <HI>Malevento</HI> open the doore pray.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L><HI>Oh</HI> Luke Gazetto.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Not yet come home!</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>No, no.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Not yet! vds death</L>
+<L>When I shall take the Villaine does this wrong,</L>
+<L>Had better stolne away a Starre from Heauen</L>
+<L>No <HI>Spaniard</HI> sure dares doe it.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>'Tis some <HI>English</HI> man has stolne her, I hold my life, for most Theeues and brauest Cony-catchers are amongst them.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>All <HI>Cordoua</HI> search ere morning, if not found</L>
+<L>Ile ride to <HI>Siuill,</HI> Ile mount my Iennet Sir</L>
+<L>And take the way to Madrill.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Ne're speake of Madrill,</L>
+<L>The iourney is for her too dangerous,</L>
+<L>If <HI>Cordoua</HI> hold her not, lets all to <HI>Siuill.</HI></L>
+<L>Haste, haste, by breake of day</L>
+<L>Signior <HI>Gazetto</HI> let vs meet agen.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Agreed:</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>We'll hunt her out.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>But you know not when, will you take your Torch.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Keepe it, lustfull maiden!</L>
+<L>Hot <HI>Spanish</HI> vengeance followes thee, which flyes</L>
+<L>Like three forkt Lightning, whom it smites, he dyes.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Prince Iohn all vnready, and Pacheco his Page.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iohn.</SPEAKER>
+<L>Pacheco?</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Is't so earely! What a Clocke Is't?</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<P>About the houre that Souldiers goe to bed, and Catch∣poles rise: Will your Lordship be truss'd vp this morning?</P>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>How dost meane, goe to hanging!</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>Hanging! does your Lordship take me for a crack-rope,</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>No, but for a notable Gallowes, too many Lordships are truss'd vp euery day (boy) some wud giue a 1000. Crownes to haue 'em vnty'd, but come sir tye vp my Lordship.</P>
+</SP>
+<SP>
+<PB N="8" REF="7"/>
+<SPEAKER>Pach.</SPEAKER>
+<P>As ast as I can, Oh my Lord and a man could tye friends to him as fast as I doe these points, 'twere a braue world.</P>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>So he does, for these are fast now, and loose at night.</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>Then they are like the loue of a woman.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Why boy! Do you know what the loue of a woman is!</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>No faith my Lord, nor you neither, nor any man else I thinke.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Y'are a noble Villaine.</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>Would I were, then I should be rich.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Well get you gon——</L>
+<STAGE>Exit.</STAGE>
+<L>Here's a braue fyle of noble <HI>Portugals</HI></L>
+<L>Haue sworne to helpe me, its hard trusting strangers,</L>
+<L>Nay more, to giue them footing in a Land</L>
+<L>Is easie, hard to remoue them; say they and I</L>
+<L>Should send my Brother King out of this world,</L>
+<L>And inthrone me (for that's the Starre I reach at,)</L>
+<L>I must haue <HI>Spaine</HI> mine, more then <HI>Portugall,</HI></L>
+<L>Say that the <HI>Dons</HI> and <HI>Grandies</HI> were mine owne,</L>
+<L>And that I had the Keyes of the Court Gates</L>
+<L>Hang at my Girdle; in my hand the Crowne,</L>
+<L>There's yet no lifting it vp to my head</L>
+<L>Without the people: I must ride that Beast,</L>
+<L>And best sit fast: who walkes not to his Throne</L>
+<L>Vpon their heads and hands, goes but alone;</L>
+<L>This Dogfish must I catch then, the Queenes Father!</L>
+<L><HI>(Pedro Valasco)</HI> what if I got him!</L>
+<L>Its but a shallow old fellow, and to build</L>
+<L>On the great'st, wisest Statesman, in a dessigne</L>
+<L>Of this high daring, is most dangerous;</L>
+<L>We see the tops of tall trees, not their heart;</L>
+<L>To find that sound or rotten, there's the Art.</L>
+<L>How now <HI>Iago?</HI></L>
+<STAGE>Enter Iago.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iago.</SPEAKER>
+<L>Good morrow to your Lordship,</L>
+<L>The King lookes for you,</L>
+<L>You must come presently.</L>
+</SP>
+<SP>
+<PB N="9" REF="7"/>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Well Sir: must come! So:</L>
+<STAGE>florish.</STAGE>
+<L>As I must come, so he ere long must goe.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter King, Valasco, Martines, Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Valase.</SPEAKER>
+<L>And broad awake!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>As is that eye of Heauen.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>It spake! not, did it?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No; but with broad eyes,</L>
+<L>Glassie and fierie stair'd vpon me thus,</L>
+<L>As blacke, as is a Soule new dipt in Hell;</L>
+<L>The t'other was all white, a beard and haire</L>
+<L>Snowie like <HI>Portugall,</HI> and me thought his looke:</L>
+<L>But had no armes.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>No armes!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No: just my height,</L>
+<L>Now, and e're this it was shot vp so high,</L>
+<L>Me thought I heard the head knocke at a Starre,</L>
+<L>Cleane through the Seeling.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Fancy, Fancy.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I saw it.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>A meere <HI>Deceptio visus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A vice Asse;</L>
+<L>Y'are an incredulous Coxcombe, these saw it.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Well; they did, they did.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I call'd for helpe; these enter'd, found mee dead with feare!</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>'Tis right Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Did not the Spirits glide by thee?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Your Grace must pardon me, I saw none.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Shart doe I lye! doe you braue me! you base Peasant?</L>
+</SP>
+<SP>
+<SPEAKER>Mart.</SPEAKER>
+<L>No my Lord, but I must guard my life against an Emperor.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>One of my wiues men, is't not! Ha!</L>
+<L>What a Pox fawnes the Curre for here! away.</L>
+<STAGE>Exit. Martines.</STAGE>
+<L>Her Spye Sir! Are you!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Sooth him vp, y'are fooles,</L>
+<L>If the Lyon say the Asses eares are hornes</L>
+<L>The Asse if he be wise will sweare it, la Sir</L>
+<L>These tell me they all saw it.</L>
+</SP>
+<SP>
+<PB N="10" REF="8"/>
+<SPEAKER>Omn.</SPEAKER>
+<L>Yes my Lord.</L>
+<STAGE>Enter Iago.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And yet I lye a whoreson buzzard—Now sir</L>
+</SP>
+<SP>
+<SPEAKER>Iago.</SPEAKER>
+<L>Prince <HI>Iohn</HI> is comming.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When sir!</L>
+</SP>
+<SP>
+<SPEAKER>Iago.</SPEAKER>
+<L>Instantly.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Father Ile tell you a Tale, vpon a time</L>
+<L>The Lyon Foxe and silly Asse did jarre,</L>
+<L>Grew friends and what they got, agreed to share:</L>
+<L>A prey was tane, the bold Asse did diuide it</L>
+<L>Into three equall parts, the Lyon spy'd it,</L>
+<L>And scorning two such sharers, moody grew,</L>
+<L>And pawing the Asse, shooke him as I shake you.</L>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>Not too hard good my Lord, alas I am craz'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And in rage tore him peece meale, the Asse thus dead,</L>
+<L>The prey was by the Foxe distributed</L>
+<L>Into three parts agen; of which the Lyon</L>
+<L>Had two for his share, and the Foxe but one:</L>
+<L>The Lyon (smiling) of the Foxe would know</L>
+<L>Where he had this wit, he the dead did show.</L>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>An excellent Tale.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thou art that Asse.</L>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>I!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thou: you, and the Foxe my Brother cut my Kingdome,</L>
+<L>Into what steakes you list, I share no more,</L>
+<L>Then what you list to giue.</L>
+<L>You two broach Warre or Peace; you plot, contriue,</L>
+<L>You flea off the Lyons skinne, you sell him aliue,</L>
+<L>But hauing torne the Asse first limbe from limbe</L>
+<L>His death shall tell the Foxe Ile so serue him.</L>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>I doe all this! 'tis false in Prince <HI>Iohns</HI> face</L>
+<L>Ile spit if he dares speake it, you might ride me</L>
+<L>For a right Asse indeed if I should kick</L>
+<L><PB N="11" REF="8"/>
+At you, vndermine you, or blow you vp?</L>
+<L>In whom the hope of my posterity</L>
+<L>(By marriage of my child your wife) doth grow</L>
+<L>None but an Asse would doe it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If I know, your little finger was but in't, neither age;</L>
+<L>Your place in Court, and Councell, respect of honour,</L>
+<L>Nor of my wife (your Daughter) shall keepe this head</L>
+<L>Vpon these shoulders—</L>
+<STAGE>Enter Prince Iohn.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>Take it; now here's Prince <HI>Iohn.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How now Brother! Sick!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Not very well.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Our Court is some Inchanted Tower you come not neare it.</L>
+<L>Are you not troubled with some paine i'th head?</L>
+<L>Your Night-cap shewes you are?</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Yes wonderously,—a kind of Megrim Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I thinke to bind</L>
+<L>Your Temples with the Crowne of <HI>Spaine</HI> would ease you.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>The Crowne of <HI>Spaine!</HI> my Temples!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Nay, I but iest,</L>
+<L>A Kingdome would make any Sicke man well,</L>
+<L>And <HI>Iohn</HI> I would thou hadst one.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>It shall goe hard else.</L>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>The King I thanke him sayes that you and I—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What?</L>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>Cut you out sir in steakes: Ile not be silent,</L>
+<L>And that I am an Asse, and a Foxe you;</L>
+<L>Haue I any dealings with you?</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>When I am to deale sir,</L>
+<L>A wise man then shall hold the Cards.</L>
+</SP>
+<SP>
+<SPEAKER>Valasc.</SPEAKER>
+<L>Now I'm call'd foole too.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sir if you remember</L>
+<L><PB N="12" REF="9"/>
+Before he came, you buzz'd into mine eare,</L>
+<L>Tunes that did found but scuruily.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I buz! What buz!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>That he should sell me to the <HI>Portugall.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Wer't thou as big as all the Kings i'th world,</L>
+<L>'Tis false and I defie thee.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Nay Sir, and more,—</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Out with't; no whispering,</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I shall blush to speake it,</L>
+<L>Harke you, a Poxe vpon't, cannot you sooth</L>
+<L>His sullen Lordship vp, you see I doe</L>
+<L>Platter him, confesse any thing.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>A good Iest!</L>
+<L>I should confesse to him I know not what,</L>
+<L>And haue my throat cut, but I know not why.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>W'ud your Grace</L>
+<L>Would licence me a while to leaue the Court</L>
+<L>To attend my health.</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>Doe.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I take my leaue—as for you Sir-</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Lord doe you see this Change i'th Moone, sharpe hornes</L>
+<L>Doe threaten windy weather, shall I rule you</L>
+<L>Send to him dead words, write to him your mind</L>
+<L>And if your hearts be vnsound purge both, all humors</L>
+<L>That are corrupt within you.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Ile neuer write, but to him in person.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter old Lady.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Pray Madam rise.</L>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>Doe you know this old furie?</L>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>No: what is she?</L>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<P>She's the Kings nuthooke (if report has not a blister on her tongue) that when any Filberd-tree is ripe; puls downe
+<PB N="13" REF="9"/>
+the brauest bowes to his hand: a Lady Pandresse, and (as this yeares Almanacke sayes) has a priuate hot-house for his Grace onely to sweat in: her name the Lady <HI>Dildoman:</HI> the poore Knight her Husband is troubled with the City Gowt, lyes i'th Counter.</P>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<P>Ile hang him that stirres in't, the proudest Fawlcon that's pearcht vp nearest the Eagle, if he dare, make this his prey, how many yeares!</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Fifteene and vpwards if it please your Grace.</L>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>Some two footed Diuell in our Court,</L>
+<L>Would thrust you out of all, Inclos'd! or Common!</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>'Tis yet inclos'd if it like your Grace.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Entayl'd!</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Newly Entayl'd, as there 'tis to be seene in blacke and white.</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>This case my selfe will handle; fee no Lawyer</L>
+<L>Ile stand for you, ha! Servants of mine turn'd grinders!</L>
+<L>To oppresse the weake! What slaue is't! from my sight,</L>
+<L>Least my heau'd hand swerueawry, and Innocence smite.</L>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>This Bawd belike has her house pull'd downe.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>So: come hither, nearer, where shines this starre?</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>I'th City, brightly, sprightly, brauely, oh 'tis a Creature—</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>Young!</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Delicate, piercing eye, inchanting voyce, lip red and moyst, skin soft and white; she's amorous, delicious, inciferous tender, neate.</P>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>Thou madst me, newly married!</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>New married, that's all the hole you can find in her conte, but so newly, the poesie of her wedding Ring is scarce warme with the heate of her finger; therefore my Lord, fasten this wagtayle, as soone as you can lime your bush, for women are Venice-glasses, one knocke spoyles em.</P>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>Crackt things pox on 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>And then they'l hold no more then a Lawyers Conscience.</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>How shall I get a sight of this rich Diamond.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>I would haue you first disguis'd goe along with mee,
+<PB N="14" REF="10"/>
+and buy some toy in her shop, and then if you like <HI>Danae</HI> fall into her lap like <HI>Iove,</HI> a net of Goldsmiths worke will plucke vp more women at one draught, then a Fisherman does Sal∣mons at fifteene.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What's her Husband?</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>A flatcap, pish; if he storme, giue him a Court-Loafe stop's mouth with a Monopoly.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>T'hast fir'd me.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>You know where to quench you.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ile steale from Court in some disguise presently.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Stand on no ground good your Highnesse.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Away, Ile follow thee, speake not of hast,</L>
+<L>Thou tyest but wings to a swift gray Hounds heele,</L>
+<L>And add'st to a running Charriot a fift wheele.</L>
+<L>Thou now dost hinder me, away, away.</L>
+</SP>
+<TRAILER>Finis Actus primi.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>ACTVS, II.</HEAD>
+<SP>
+<STAGE>A shop opened, Enter Bilbo and Lazarillo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L><HI>Lazarillo</HI> art bound yet?</L>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>No, but my Indentures are made.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Make as much haste to seale, as younger Brothers doe at taking vp of Commodities: for <HI>Lazarillo,</HI> there's not any <HI>Deigo</HI> that treads vpon <HI>Spanish</HI> leather, goes more vpright vpon the soles of his Conscience, then our Master does.</P>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>Troth so I thinke, now I like my little smirking Mistris as well.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Like her, did not I like her simply, to runne away from her father (where I had both men Seruants and maid Seruants vn∣der me) to weare a flat cap here and cry what doe you lacke.</P>
+<STAGE>Enter Gallants.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<P>What is't you lacke Gentlemen, rich garters, spangled
+<PB N="15" REF="10"/>
+roses, silke stockins, embrodered gloues or girdles.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P><HI>Don</HI> sweet <HI>Don,</HI> see here rich <HI>Tuscan</HI> hatbands, ventoyes, or <HI>Barbarian</HI> shoo-strings—no poynt—</P>
+<STAGE>Ventian Exeunt. Gallan.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>Their powder is dankish and will not take fire.</L>
+</SP>
+<SP>
+<SPEAKER>Bilb.</SPEAKER>
+<L>Reach that paper of gloues what marke is't?</L>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>P. <HI>and</HI> Q.</L>
+<STAGE>Enter Malevento.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P><HI>P.</HI> and <HI>Q.</HI> chafe these, chafe, chafe, here's a world to make Shopkeepers chafe.</P>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>What is't you buy Sir, gloues, garters, girdles.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P><HI>Lazarillo, Lazarillo,</HI> my old master <HI>Andrada Malevento;</HI> do you heare sir, the best hangers in <HI>Spaine</HI> for your worship.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Vmh! I haue knowne that voyce, what! Run away!</L>
+<L>Why how now <HI>Bilbo!</HI> growne a Shopkeeper!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Iogging on Sir, in the old path to be call'd vpon to beare all offices, I hope one day.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>'Tis well: good fortunes blesse you.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Turn'd Citizen sir, a Counter you see still before me, to put me in mind of my end, and what I must goe to, if I trust too many with my ware, it's newes to see your worship in <HI>S<GAP DESC="illegible" REASON="indecipherable" EXTENT="2 letters" DISP="••"/>ill.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>'Tis true: but <HI>Bilbo,</HI> no newes yet of my Daughter?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>None.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Not any.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>What will your worship giue me, if I melt away all that sow of lead that lyes lieauy at your heart, by telling you where shee is.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Prithee step forth, speake softly, thou warm'st my blood,</L>
+<L>Ile giue thee the best suite Prentize e're wore.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>And I can tell you Prentizes are as gallant now, as some that walke with my cozen <HI>Bilbo</HI> at their sides, you can scarce know'em from Prentizes of <HI>Siuill.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Fly to the marke I prithee?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Now I draw home, doe you see this shop, this shop is my Masters.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>So, so, what of all this?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>That master lies with my yong mistris, and that mistris is your Daughter.</L>
+</SP>
+<SP>
+<PB N="16" REF="11"/>
+<SPEAKER>Mal.</SPEAKER>
+<L>Hal</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Mum: she's gone forth, this morning to a Wedding, he's aboue, but (as great men haue done) he's comming downe.</P>
+<STAGE>Enter Cordolente.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Is this he?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>This is he.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Looke to the shop.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Pray sir a word?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>You shall.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>You doe not know me?</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Trust me not well.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Too well, thou hast vndone me,</L>
+<L>Thou art a Ciuill Theese with lookes demure</L>
+<L>As is thy habit, but a Villaines heart.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Sir—</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Heare me sir—to rob me of that fire</L>
+<L>That fed my life with heate (my onely Child)</L>
+<L>Turne her into—</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>What sir! She's my wife:</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Thy Strumpet, she's a disobedient Child,</L>
+<L>To crosse my purposes; I promis'd her</L>
+<L>To a man whom I had chosen to be her Husband.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>She lou'd him not; was she contracted to him?</L>
+<L>Can he lay claime to her by Law?</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Ile sweare,</L>
+<L>She told me I should rule her, that she was</L>
+<L>Affy'd to no other man, and that to please me</L>
+<L>She would onely take <HI>Gazetto▪</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>I will forbeare Sir</L>
+<L>To vexe you; what she spake so, was for feare,</L>
+<L>But I ha' done, no Begger has your child</L>
+<L>I craue no Dowrie with her, but your Loue,</L>
+<L>For hers I know I haue it.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Must I not see her!</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>You shall but now she's forth sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>She has crackt my very heart-strings quite in sunder.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Her loue and duty shall I hope knit all more strongly</L>
+<L><PB N="17" REF="11"/>
+Sir I beseech your patience, when my bosome</L>
+<L>Is layd all open to you, you shall find</L>
+<L>An honest heart there, and you will be glad</L>
+<L>You h'a met the Theese that rob'd you, and forgiue him,</L>
+<L>I am ingag'd to businesse craues some speed,</L>
+<L>Please you be witnesse to it.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Well I shall,</L>
+<L>Parents with milke feed Children, they them with gall.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>As kind an old man <HI>Lazarillo,</HI> as euer drunk mull'd Sack.</L>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>So it seemes, for I saw him weepe like a Cut Vine.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Weepe; I warrant that was because hee could not find in's heart to haue my Master by th'cares.</P>
+<STAGE>Enter Tormiella.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>My Mistris.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Chase chase.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Where's your master.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Newly gone forth forsooth.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Whether, with whom?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>With my old Master your Father.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Ha! my Father! when came her who was with him?</L>
+<L>What said he, how did my Husband vse him?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>As Officers at Court vse Citizens that come without their Wiues; scarce made him drinke, but they are gone very louingly together.</P>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<P>That's well, my heart has so <GAP DESC="illegible" REASON="indecipherable" EXTENT="1 word" DISP="〈◊〉"/> since I went forth, I am glad I was out of the peales of Thunder, askt hee not for mee, was <HI>Gazetto</HI> with him, <HI>Luke</HI> was not hee with him ha!</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Not onely the old man.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<P>That's well, reach my worke basket, is the imbrodered Muffe perfum'd for the Lady?</P>
+</SP>
+<SP>
+<SPEAKER>Bilbo.</SPEAKER>
+<P>Yes forsooth, she neuer put her hand into a sweeter thing.</P>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Are you sure <HI>Gazetto</HI> was not with my Father?</L>
+</SP>
+<SP>
+<PB N="18" REF="12"/>
+<SPEAKER>Bil.</SPEAKER>
+<L>Vnlesse he wore the invisible cloake.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<P>Blesse me from that disease and I care not, one fit of him would soone send me to my graue; my hart so throbs?</P>
+<STAGE>Enter Gazetto and Officers.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>What is't you lacke.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Fine Garters, Gloues, Glasses, Girdles what is't you buy,</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>I haue a warrant you see from the King to search all Si∣uell for the woman that did this murther, the act of which has made me mad, misse no shop, let me haue that, which I can buy in some Country for seuen groates Iustice!</P>
+</SP>
+<SP>
+<SPEAKER>Off.</SPEAKER>
+<P>Your searching house by house this is so spread abroad that 'tis as bad as a scarcrow to fright away the bird you seeke to Catch, me thinks if you walke soberly alone, from shop to shop your bat fowling would catch more wagtailes</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Well shot <HI>Sagitarius,</HI> Ile nock as thou bidst mee,</L>
+</SP>
+<SP>
+<SPEAKER>Offi.</SPEAKER>
+<L>What thinke you of yonder parrot i'th Cage.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>A rope—ha—puffe—is the wind with mee.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>What stares the man at so.</L>
+</SP>
+<SP>
+<SPEAKER>Offi.</SPEAKER>
+<L>His wits are reeld a little out of the road way nothing else;</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Alas mistris, this world is able to make any man mad.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Ha ha ha ha.</L>
+</SP>
+<SP>
+<SPEAKER>Offi.</SPEAKER>
+<L>What doe you laugh at, is this shee.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>No, but I saw a doue fly by that had eaten Carrion it shewd like a corrupted Churchman farewell.</P>
+</SP>
+<SP>
+<SPEAKER>Off.</SPEAKER>
+<L>Doe you discharge vs then.</L>
+<STAGE>Exeunt Officers.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>As haile shot at a dunghill where Crowes are.</L>
+<L>Th'art mine; thankes vengeance; thou at last art come,</L>
+<L>(Tho with wolly feet) be quick now and strike home.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter King and Lady.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>What is't you lacke.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>What is't you buy.</L>
+</SP>
+<SP>
+<SPEAKER>Lady</SPEAKER>
+<L>That's shee.</L>
+</SP>
+<SP>
+<PB N="19" REF="12"/>
+<SPEAKER>King</SPEAKER>
+<L>Peace; Madam lets try here:</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>What is't you lack sir!</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>A gloue with an excellent perfume.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>For your selfe sir!</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<P>I would fit my selfe sir, but I am now for a woman: a pritty little hand, the richest you haue.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>About the bignesse of this gentlewomans will serue:</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<P>Yes faith Madam, at all adventures Ile make this my measure, shall I mistrisse!</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>As you please sir.</L>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>It pleases mee well.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Then sir go no farder, heer's the fairest in all <HI>Spaine,</HI> fel∣low it and take mine for a dogskin.</P>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Pray forsooth draw it on, if it fit you it fits the party surely.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Nay Madam, the gloue is most genuine for any young Ladies hand vnder the Coape, I assure you.</P>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>I but the Leather.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Nay, the Leather is affable and apt to bee drawn to any generous disposition.</P>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>Pray (Faire Lady) does it not come on too stiffe?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>No sir very gently.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Stiffe; as prolixious as you please: nay sir the sent is <HI>Aro∣maticall</HI> and most odorous, the muske vpon my word Sir is per∣fect <HI>Cathayne,</HI> a Tumbasine odor vpon my credit, not a graine either of your <HI>Salmindy</HI> Caram or Cubit musk.</P>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>Adulterated I doubt.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>No adultery in the world in't, no sophistication but pure as it comes from the cod.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Open more, you shall haue what choyce you please.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>You shall haue all the ware open'd i'th shop to please your worship, but you shall bee fitted!</P>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<P>No no, it needs not: that which is open'd already shall serue my turne.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Will you goe farther sonne and see better.</L>
+</SP>
+<SP>
+<PB N="20" REF="13"/>
+<SPEAKER>King.</SPEAKER>
+<L>And perhaps speed worse: no: your price?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Foure double Pistolets.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Good ware cannot be too deare: looke vpon the cost,</L>
+<L>Relish the sent, note the workemanship.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<P>Your man is too hard, Ile rather deale with you: three Ile giue you.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Come pray take it, will three fetch 'em?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Indeed we cannot, it stands my Husband in more.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Well lay these by, a Cordouant for my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>The best in <HI>Siuell:</HI> Lacke you no rich <HI>Tuskan</HI> Garters, <HI>Ve∣tian</HI> ventoyes Madam, I haue maskes most methodicall, and fa∣cetious: assay this gloue sir?</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The Leather is too rough.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>You shall haue a fine smooth skin please your feeling better, but all our <HI>Spanish Dons</HI> choose that which is most rough, for it holds out, sweat you neuer so hard.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The price?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>The price!</L>
+<P>Foure Crownes, I haue excellent <HI>Hungarian</HI> shag bands Madam for Ladies, cut out of the same peece that the great Turkes To∣libant was made of.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The Great Turke be damn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Doe you want any <HI>French</HI> Codpeece points Sir,</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>Poxe on 'em, they'l not last, th'are burnt i'th dying.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>If they be blacke they are rotten indeed, sir doe you want no rich spangled <HI>Morisco</HI> shoo-strings.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I like this beard-brush, but that the haire's too stiffe.</L>
+</SP>
+<SP>
+<SPEAKER>Bii.</SPEAKER>
+<L>Flexable as you can wish, the very bristles of the same</L>
+<L>Swine that are fatten'd in <HI>Virginia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>What comes all to, before vs?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>It comes to 4. 5. 6. in all, sixe double Pistolets, and a <HI>Spanish</HI> Ducket ouer.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Too deare, let's goe.</L>
+</SP>
+<SP>
+<PB N="21" REF="13"/>
+<SPEAKER>Bil.</SPEAKER>
+<P>Madam, worshipfull <HI>Don,</HI> pray sir offer, if any shop shew you the like ware.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Prithee peace fellow, how d'ee like her?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Rarely. what lure canst thou cast to fetch her off?</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Leaue that to me, giue me your purse.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Doe you heare Madam!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The fatall Ball is cast, and though it fires</L>
+<L>All <HI>Spaine,</HI> burne let it, hot as my desires:</L>
+<L>Haue you dispatch'd?</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>I assure your worship, my master will be a looser by you.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>It may be so, but your Mistris will not say so.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Sonne I tell her of the rich imbrodered stuffe at home for the tops of gloues, and to make mee muffes, if it please the Gentlewoman to take her man along, shee shall not onely see them, but certaine stones, which I will haue set onely in one paire, I can tell you, you may so deale with me, you shall gaine more then you thinke of.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Mistris strike in with her.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>My Husband is from home, and I want skill</L>
+<L>To trade in such Commodities, but my man</L>
+<L>Shall wait vpon your Ladiship.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Nay, nay, come you,</L>
+<L>Your man shall goe along to note my House,</L>
+<L>To fetch your Husband, you shall dine with vs.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Faith doe forsooth, you'l not repent your match.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Come, come you shall.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Ile wait vpon you Madam, Sirrah your cloake.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Make vp that ware, looke to th'shop.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<P>If your Master come in, request him to stay till your fellow come for him.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Come Mistris, on Sonne, nay, nay indeed you shall not,</L>
+<L>My Gloue, one of my gloues lost in your shop.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Runne backe sirrah.</L>
+</SP>
+<SP>
+<PB N="22" REF="14"/>
+<SPEAKER>King.</SPEAKER>
+<L>Doe wee'll softly afore.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Make haste.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>A Gloue! I saw none.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Nor I, it drop'd from her somewhere else then.</L>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>I am call'd vp to Dinner <HI>Bilbo.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Are you, then make fast the shop doore, and play out your set at Maw, for the Mistris of my Masters alley is trundled before, and my bowles must rub after.</P>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>Flye then and a great one.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>She's out a'th Alley, i'th Cranck belike, run, run, run.</L>
+<STAGE>Ex.</STAGE>
+<STAGE>Enter Lady, Tormiella, and King.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Low stooles, pray sit, my man shall fetch the stuffes</L>
+<L>And after Dinner you shall haue those stones:</L>
+<L>A cup of wine; what drinke you! Loue you bastard!</L>
+<L>Ile giue you the best in <HI>Spaine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>No wines at all.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Haue you beene married long?</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Not long.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>I thinke your wedding shooes haue not beene oft vnty'd.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Some three times.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Pretty Soule; No more! indeed</L>
+<L>You are the youngest Vine I e're saw planted,</L>
+<L>So full of hope for bearing; me thinks 'tis pitty</L>
+<L>A Citizen should haue so faire a Tree</L>
+<L>Grow in his Garden.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>I thinke him best worthy,</L>
+<L>To plucke the fruit, that sets it.</L>
+</SP>
+<SP>
+<SPEAKER>Lad,</SPEAKER>
+<L>Oh you'd h'a shon</L>
+<L>At Court like a full Constellation,</L>
+<L>Your Eyes are orbes of Starres.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Muse my man stayes.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Your man is come, and sent to fetch your Husband,</L>
+<L><PB N="23" REF="14"/>
+Trust me you shall not hence, till you haue fill'd</L>
+<L>This banqueting roome with some sweet thing or other:</L>
+<L>Your Husband's wonderous kind to you.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>As the Sunne</L>
+<L>To the new married Spring, the Spring to th' Earth.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Some children looke most sweetly at their birth,</L>
+<L>That after proue hard fauor'd; and so doe Husbands:</L>
+<L>Your honey Moones soonest waine and shew sharpe hornes.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Mine shall shew none,</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>I doe not wish it should,</L>
+<L>Yet be not too much kept vnder, for when you would</L>
+<L>You shall not rise.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Vmh!</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>I was once as you are,</L>
+<L>Young (and perhaps as faire) it was my Fate</L>
+<L>Whilst Summer lasted and that beauty rear'd</L>
+<L>Her cullors in my cheekes, to serue at Court:</L>
+<L>The King of <HI>Spaine</HI> that then was, ey'd me oft:</L>
+<L>Lik't me, and lou'd me, woo'd me, at last won me.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>'Twas well you were no City.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Why?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>It seemes,</L>
+<L>You yeelded e're you needed.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Nay, you must thinke,</L>
+<L>He ply'd me with fierce batteries and assaults:</L>
+<L>You are coy now, but (alas) how could you fight</L>
+<L>With a Kings frownes! your womanish appetite</L>
+<L>Wer't ne're so dead and cold would soone take fire</L>
+<L>At honors, (all women would be lifted higher)</L>
+<L>Would you not stoope to take it, and thrust your hand</L>
+<L>Deepe as a King's in Treasure, to haue Lords</L>
+<L>Feare you, t'haue life or death fly from your words</L>
+<L>The first night that I lay in's Princely armes,</L>
+<L><PB N="24" REF="15"/>
+I seem'd transform'd, me thought <HI>Ioues</HI> owne right hand.</L>
+<L>Had snatcht mee vp and in his starry spheare.</L>
+<L>Plac'd me (with others of his Lemmans there)</L>
+<L>Yet was he but the shaddow I the sunne.</L>
+<L>In a proud zodiake, I my Course did runne.</L>
+<L>Mine eye beames the dyals stile; and had power.</L>
+<L>To rule his thoughts, as that Commands the hower.</L>
+<L>Oh you shall find vpon a Princes pillow.</L>
+<L>Such golden dreames.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I find 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Cry you mercy.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>My husband comes not, I dare not stay.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>You must.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You shall.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Before you lyes your way</L>
+<L>Beaten out by mee, if you can follow doe.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>What meanes this, are there bawds Ladies too</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why shake you, feare not, none here threats your life!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Shall not a lambe tremble at the butchers knife.</L>
+<L>Let goe your hold, keepe off, what violent hands</L>
+<L>Soeuer force mee, ne're shall touch woman more,</L>
+<L>Ile kill ten Monarches ere Ile bee ones whore.</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>Heare mee.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Avoyd thou diuell.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Thou puritan foole.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Oh thou base Otter hound, help, help.</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>In vaine.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>The best in <HI>Spaine</HI> shall know this.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>The best now knowes it.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Good pitch let mee not touch thee, <HI>Spaine</HI> has a King:</L>
+<L>If from his royall throne Iustice bee driuen,</L>
+<L>I shall find right, at the Kings hands of Heauen.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>This is the King.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>The King, alas poore slaue.</L>
+<L><PB N="25" REF="15"/>
+A Rauen stucke with Swannes feathers, scarcrow drest braue.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Doe you not know me?</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Yes, for a whore-master.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>No matter for her scoulding, a womans tongue Is like the myraculous Bell in <HI>Aragon,</HI> which rings out without the helpe of man.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Heare me, thou striu'st with Thunder, yet this hand</L>
+<L>That can shake Kingdomes downe, thrusts into thine,</L>
+<L>The Scepters, if proud fall, thou let'st them fall</L>
+<L>Thou beat'st thy selfe in peeces on a rocke</L>
+<L>That shall for euer ruine thee and thine</L>
+<L>Thy Husband, and all opposites that dare</L>
+<L>With vs to cope, it shall not serue your turne</L>
+<L>With your dim eyes to iudge our beames, the light</L>
+<L>Of Common fires, We can before thy sight</L>
+<L>Shine in full splendor, though it suites vs now</L>
+<L>To suffer this base cloud to maske our brow</L>
+<L>Be wise, and when thou mayst (for lifting vp</L>
+<L>Thine arme) plucke Starres, refuse them not, I sweare</L>
+<L>By heauen I will not force thee 'gainst thy blood,</L>
+<L>When I send, come: if not, withstand thy good;</L>
+<L>Goe, get you home now, this is all, farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Oh me! what way to heauen can be through hell.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why diue you so?</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>I hope your Maiesty,</L>
+<L>Dare sweare I ha play'd the Pylot cunningly.</L>
+<L>Fetching the wind about to make this Pinnace</L>
+<L>Strike Sayle as you desir'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Th'art a damn'd Bawd:</L>
+<L>A soaking, sodden, splay-foot, ill-fac'd Bawd;</L>
+<L>Not all the wits of Kingdomes can enact</L>
+<L>To saue what by such Gulphes as thou art wrack'd,</L>
+<L>Thou horie wickednesse, Diuels dam, do'st thou thinke</L>
+<L>Thy poysons rotten breath shall blast our fame,</L>
+<L><PB N="26" REF="16"/>
+Or those furr'd gummmes of thine gnaw a Kings name!</L>
+<L>If thou wouldst downe before thy time, to thy crew,</L>
+<L>Prate of this—yes; doe, for gold, any slaue</L>
+<L>May gorge himselfe on sweetes, Kings cannot haue</L>
+<L>By helpe of such a hag as thou, I would not</L>
+<L>Dishonour her for an Empire, from my sight.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Well sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Giue o're your Trade.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Ile change my Coppy.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>See you doe.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>I will turne ouer a new leafe.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We search for Serpents, but being found destroy the,</L>
+<L>Men drinke not poysons, though they oft imploy them.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>Giue o're! how liue then! no, Ile keepe that still</L>
+<L>If Courtiers will not, I'me sure Citizens will.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Tormiella, and Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Speake with you.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Ha! good fellow keepe thy way.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Y'are a whore.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Th'art a base Knaue, not the streets free!</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Though dead, from vengeance earth thee shall not saue,</L>
+<L><HI>Hyaena</HI> like, Ile eate into thy Graue.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Cordolente, and Malevento.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>I dare now bestow on you a free,</L>
+<L>And hearty welcome to my poore house:</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Thankes Sonne:</L>
+<L>Good Ayre, very good Ayre, and Sonne I thinke.</L>
+<L>You stand well too for trading.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Very well sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>I am glad on't.</L>
+<STAGE>Enter Lazarillo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Sirrah where's your Mistris?</L>
+</SP>
+<SP>
+<PB N="27" REF="16"/>
+<SPEAKER>Mal.</SPEAKER>
+<L>I, I, good youth call her,</L>
+<L>She playes the Tortoyes now, you shall 'twixt her and me,</L>
+<L>See a rare Combat; tell her here's her Father,</L>
+<L>No, an old swaggering Fencer, dares her at the weapon,</L>
+<L>Which women put downe men at, Scoulding! boy</L>
+<L>I will so chide her Sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Pray doe Sir, goe call her?</L>
+</SP>
+<SP>
+<SPEAKER>Laz.</SPEAKER>
+<L>She's forth Sir with my fellow, a Lady tooke her along.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Taken vp already, it's well, yet I commend her</L>
+<L>She flyes with birds that are of better wing</L>
+<L>Then those she spreads her selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Right Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Nay she's wise</L>
+<L>A subtill Ape, but louing as the Moone, is to the Sea:</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>I hope she'l proue more constant:</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Then is the needle to the Adamant,</L>
+<L>The God of gold powre downe on both your heads</L>
+<L>His comfortable showers.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Thankes to your wishes.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>May neuer gall be fill'd into your Cup,</L>
+<L>Nor wormewood strew your Pillow; so liue, so loue,</L>
+<L>That none may say, a Rauen does kisse a Doue,</L>
+<L>I am sorry that I curst you, but the string</L>
+<L>Sounds as 'tis play'd on, as 'tis set we sing.</L>
+<STAGE>Enter Bilbo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Where's thy Mistresse?</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Oh-pray Sonne, vse <HI>Bilbo Caueare</HI> well.</L>
+<L>Where's thy Mistresse?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>She's departed Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Departed! whether prithee!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>It may to a Lord, for a Lady had her away, I came backe to fetch a Gloue which dropt from the Lady, but before I could ouertake them, they were all dropt from me; my Mistris is to me Sir, the needle in the bottle you wot where.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Of hay thou mean'st, she'l not be lost I warrant.</L>
+<STAGE><PB N="28" REF="17"/>
+Enter Tormiella, and passes ouer the Stage.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Here she comes now sir,</L>
+<L><HI>Tormiella,</HI> call her.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>What shall I call her?</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Nothing by no meanes</L>
+<L>No let her flutter, now she's fast i'th net,</L>
+<L>On disobedience, a gracefull shame is set,</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>A strange dead palsie, when a womans tongue</L>
+<L>Has not the power to stirre, dumb! call her I say!</L>
+<STAGE>Enter Bilbo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Strange newes Sir!</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>What is't?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Yonders a Coach full of good faces.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>That so strange?</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Yes to alight at our Gate; They are all comming vp as boldly, as if they were Landlords and came for Rent, see else.</P>
+<STAGE>Enter Gentlemen and Gentlewomen.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<L>The woman of the House sir pray?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>She's in her Chamber, sirrah shew the way.</L>
+<STAGE>Exeunt manet Gentlemen and walke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Doe you know these!</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Troth not I sir, I'me amaz'd</L>
+<L>At this their strange ariuall.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>By their starcht faces,</L>
+<L>Small shancks, and blisted shoo-knobs, they should be Courtiers.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Our <HI>Spanish</HI> Mercers say, th'are the brauest fellowes.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>For braue men, th'are no lesse i'th Taylors bookes,</L>
+<L>Courtiers in Citizens Houses, are Summer fires,</L>
+<L>May well be spar'd, and being cleane out are best</L>
+<L>They doe the house no good, but helpe consume,</L>
+<L>They burne the wood vp, and o're-heat the roome,</L>
+<L>Sweetening onely th'ayre a little, that's all,</L>
+<L><PB N="29" REF="17"/>
+Play the right Citizen then, whil'st you gaine by them,</L>
+<L>Hug'em, if they plucke your feathers, come not nigh them.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Ile close with them.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Doe.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Welcome Gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Thanks.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Pray sir what Ladies may these be with my Wife?</L>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>Faith sir if they would cast themselues away vpon Knights, they may be Knights Ladies, but they are onely Gentlewomen of an exceeding sweet carriage and fashion, and 'tis so Sir, that your wiues doings being bruited and spread a∣broad to be rare for her handling the <HI>Spanish</HI> needle, these beau∣ties are come onely to haue your wife pricke out a thing, which must be done out of hand, that's the whole businesse Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>In good time Sir,</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Of Court I pray Sir are you?</L>
+</SP>
+<SP>
+<SPEAKER>2. Gent.</SPEAKER>
+<L>Yes Sir, we follow the Court now and then, as others follow vs.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>He meanes those they owe money too.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Pray Sir what newes at Court?</L>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>Faith Sir the old stale newes, blacke Iackes are fill'd, and standing Cups emptyed.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<P>I see then Iackes are sawcie in euery corner, I haue gi∣uen it him vnder the list of the eare.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>'Twas soundly, you see he's strucke dead.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Dauncing Baboone!</L>
+<STAGE>Enter Tormiella, mask'd, and in other Garments, the Gentlewomen with her, and Gentlemen leading her away.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>To Coach, away.</L>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<L>The <HI>Welch</HI> Embassador, has a Message to you sir.</L>
+</SP>
+<SP>
+<SPEAKER>2. Gent.</SPEAKER>
+<L>Hee will bee with you shortly, when the Moones</L>
+<L>Hornes are i'th full.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<PB N="30" REF="18"/>
+<SPEAKER>Mal.</SPEAKER>
+<L>What's that they talke!</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Nothing but this, they haue giuen it me soundly, I feele it vnder the lists of both eares, where's my wife!</P>
+<STAGE>Enter Bilbo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>She's falne sicke sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>The Night-mare rides her.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Ha! sicke! how sicke!</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Of the falling sicknesse; you and my Master haue vs'd her to runne away, that she has shew'd you another light paire of heeles, she's gon Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>Thou lyest.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>It may be she lyes by this time, but I stand to my words, I say agen She's gon sir; cast your Cap at her, but she's gon hur∣ried into a Coach drawne with foure Horses.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>These her oathes, vowes, protestations, damnations, a Serpent kist the first woman; and euer since the whole sexe haue giuen sucke to Adders.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Run into th' Street, and if thou seest the priuiledg'd</L>
+<L>Bawdy house she went into,</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>That runs on foure wheeles, the Caroach sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Cry to the whole City to stop her.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>I will sir, 'tis euery mans case i'th City, to haue his wife stop'd.—</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Well; what wilt thou say, if this be a plot,</L>
+<L>Of merriment betwixt thy wife and them,</L>
+<L>For them to come thus, and disguise her thus,</L>
+<L>Thus whorry her away to some by-Towne,</L>
+<L>But foure or fiue miles distance from the City,</L>
+<L>Then must we hunt on Horsebacke, find our game</L>
+<L>See and not know her in this strange disguise,</L>
+<L>But the jest smelt out, showts, and plandities</L>
+<L>Must ring about the Table where she sits,</L>
+<L>Then you kissing her, I must applaud their wits.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Well, I will once be gull'd in this your Comedy,</L>
+<L>A while Ile play the Wittall, I will winck Sir,</L>
+<L><PB N="31" REF="18"/>
+One Bird you see is flowne out of the nest,</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>What Bird!</L>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<L>A wagtaile, after, flye all the rest.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Come then.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<TRAILER>Finis Actus secundi.</TRAILER>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>ACTVS, III.</HEAD>
+<SP>
+<STAGE>Enter Iohn, a Doctor, and Pacheco.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Pacheco.</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>It shall be so, to the King presently</L>
+<L>See my Caroach be ready, furnish me</L>
+<L>To goe to Court sir.</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>Well Sir.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Why my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>What sayst thou?</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>You will ouerthrow the state</L>
+<L>Of that deare health which so much cost and time</L>
+<L>Haue beene a building vp, your pores lying open</L>
+<L>Colds, Agues, and all enemies to pure bloods</L>
+<L>Wil enter and destroy life.</L>
+<STAGE>Enter Pacheco, with Cloake and Rapier.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I will to Court.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Pray my Lord stirre not forth.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Lay downe, begon.</L>
+<STAGE>Exit Pacheco.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>The Ayre will pierce you.</L>
+</SP>
+<SP>
+<SPEAKER>Iohn.</SPEAKER>
+<L>I ha tooke cold already.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>When sir?</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>When you councell'd me to ride my horse.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Nay that was well, how slept you the next night?</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Not a winck.</L>
+</SP>
+<SP>
+<PB N="32" REF="19"/>
+<SPEAKER>Doct.</SPEAKER>
+<L>All the better.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>But i'th next morning,</L>
+<L>I could not in a Russian stoue sweat more</L>
+<L>Then I did in my Bed.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>Marry I'me glad on't.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And had no clothes vpon me.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>Still the better.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>My bones Sir pay'd for all this, and yet you cry, still the better: when you ha' purg'd your pockets full of gold out of a Patient, and then nayl'd him in's Coffin, you cry then still the better too, a man were better to lye vnder the hands of a Hangman, than one of your rubarbatiue faces; sirrha Doctor, I doe not thinke but I haue beene well, all this time I haue beene Sicke?</P>
+</SP>
+<SP>
+<SPEAKER>Doctor.</SPEAKER>
+<L>Oh my good Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>Oh good Master Doctor, come no more of this, I haue another Diaphragma for you to tickle, you minister poyson in some Medicines, doe you not?</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>Yes my good Lord, in Purgatiue and Expulsiue.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>So, so, breake not my head with your hard words, you can for a need poyson a Great man?</P>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>Your Lordship's merry.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>Right Sir, but I must haue it done in sadnesse, 'tis your Trade Master Doctor to send men packing: harke you, 'tis no lesse Bug-beare then <HI>Don Valasco!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>The Admirall of <HI>Castile!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Him you must sincke.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>'Tis my certaine death to doe it.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>And thy certaine death to deny it, if you will not shew him a cast of your Office, Ile be so bold, as bestow this vpon you of mine, I am sharpe set, will you doe it?</P>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>I will by these two hands.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>When?</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>When you please.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>This day?</L>
+</SP>
+<SP>
+<PB N="33" REF="19"/>
+<SPEAKER>Do.</SPEAKER>
+<L>This hower.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And make him fast.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Fast.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>For speaking.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>For speaking.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Why then good Doctor rise</L>
+<L>To honour by, it be secret and be wise.</L>
+<STAGE>Enter Pacheco.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pa.</SPEAKER>
+<L>The Admirall is come my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>A way with these, show him the way in, Doctor.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Oh my Lord!</L>
+<STAGE>Enter Valasco.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>If you faile.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>All health to your good Lordship, I wish that,</L>
+<L>Which most I thinke you want.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Thankes my good Lord,</L>
+<L>Doctor dispatch, take heed your Compositions,</L>
+<L>Hit as I told you.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Oh my Lord, I am beaten to these things.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Goe then, this visitation of your Lordship,</L>
+<L>I take most kindly.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Two maine wheeles my Lord,</L>
+<L>Haue hither brought mee, on the Kings Command,</L>
+<L>To'ther my loue, with a desire to know</L>
+<L>Why I mong'st all the trees that spread it'h Court</L>
+<L>Should still be smote with lightening from your eye;</L>
+<L>Yours onely dangerous Arrowes shootes at me:</L>
+<L>You haue the Courtiers dialect right, your tongue</L>
+<L>Walkes ten miles from your heart, when last you saw me,</L>
+<L>Doe you remember how you threaten'd; as for you Sir—</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>These notes are strange.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Oh my good Lord, be my good Lord, I read</L>
+<L><PB N="34" REF="20"/>
+Harsh Lectures in your face, but meet no Comment</L>
+<L>That can dissolue the riddle, vnlesse it be</L>
+<L>Out of that noble fashion that great men</L>
+<L>Must trip some heeles vp, tho they stand as low</L>
+<L>As Vintners when they coniure, onely to shew</L>
+<L>Their skill in wrastling, 'tis not well to strike</L>
+<L>A man whose hands are bound, like should chuse like.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I strike you not, nor striue to giue you falls,</L>
+<L>'Tis your owne guilt afflicts you, if to the King</L>
+<L>The song I set of you, did to your eare</L>
+<L>Vnmusically sound, 'twas not in hate</L>
+<L>To you, but in desire to giue the state</L>
+<L>True knowledge of my innocence, be sure a bird,</L>
+<L>Chanted that tune to mee, that onely you</L>
+<L>Incens'd the King that I should sell him.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Vmh!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Doe you thinke I lye?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I doe beleeue your Lordship.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>'Twas a man most neare you.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>A bosome villaine!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>For you must think that all that bow, stand bare</L>
+<L>And giue Court Cakebread to you, loue you not.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>True loue my Lord at Court, is hardly got.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>If I can friend you, vse me.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Humble thankes.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Oh my good Lord, times siluer foretop stands</L>
+<L>On end before you, but you put it by.</L>
+<L>Catch it, 'tis yours, scap'd neuer yours, your shoulders</L>
+<L>Beare the Weale-publique vp, but they should beare,</L>
+<L>Like Pillars to be strong themselues: would I</L>
+<L>Want fish at Sea, or golden showers at Court</L>
+<L>I'de goe awry sometimes, wer't but for sport.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Say you so!</L>
+</SP>
+<SP>
+<SPEAKER>Io.</SPEAKER>
+<L>Sell Iustice and she'l by you Lordships, cloath her</L>
+<L><PB N="35" REF="20"/>
+(As Citizens doe their wiues) beyond their worth</L>
+<L>She'll make you sell your Lordships and your plate</L>
+<L>No wise man will for nothing serue a state,</L>
+<L>Remember this, your Daughter is the Queene</L>
+<L>Braue phrase to say my Sonne in Law the King,</L>
+<L>Whil'st sweet showers fall, and Sunne-shine, make your Spring.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>You looke not out I see, nor heare the stormes</L>
+<L>Which late haue shooke the Court.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Not I! what stormes!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>You in your Cabbin know nothing there's a Pinnace</L>
+<L>(Was mann'd out first by th'City,) is come to th'Court,</L>
+<L>New rigg'd, a very painted Gally foist,</L>
+<L>And yet our <HI>Spanish</HI> Caruils, the Armada</L>
+<L>Of our great vessels dare not stirre for her.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>What Pinnace meane you?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>From his lawfull pillow,</L>
+<L>The King has tane a Citizens wife.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>For what?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>What should men doe with Citizens wiues at Court?</L>
+<L>All will be naught, poore Queene 'tis she smarts for't.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Now 'tis your time to strike.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>He does her wrong,</L>
+<L>And I shall tell him soundly.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Tell him!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Ile pay it home.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Were you some Father in Law now.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>What lyes heere,</L>
+<L>Lyes here, and none shall know it.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>How easie were it,</L>
+<L>For you to set this warping Kingdome straight?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>The peoples hearts are full,</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And weed the State.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Too full of weeds already.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And to take all,</L>
+<L>Into your owne hands.</L>
+</SP>
+<SP>
+<PB N="36" REF="21"/>
+<SPEAKER>Val.</SPEAKER>
+<L>I could soone doo't.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Then doo't.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Doe what! misprize me not, pray good my Lord,</L>
+<L>Nor let these foolish words we shoot i'th Ayre,</L>
+<L>Fall on our heads and wound vs: to take all</L>
+<L>Into mine owne hands, this I meane.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Come on.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Boldly and honestly to chide the King.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Vmh.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Take his minx vp short.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Take her vp!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Roundly, to rate, her Wittall husband: to stirre vp—</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>The people, since mens wiues are common Cases.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>You heare not me say so.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>To force this Tyrant to mend or end.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Good day to your Lordship.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Shoot off the Peece you haue charg'd.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>No, it recoyles.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>You and I shall fall to cutting throates.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Why!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>If euer you speake of this.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>If we cut one another throates, I shall neuer</L>
+<L>Speake of this: fare your Lordship well.</L>
+<L><HI>Alphonso de Gramada.</HI></L>
+<STAGE>Enter Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>Good health to both your Lordships.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Thankes good <HI>Alphonso,</HI> nay pray stay.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Where hast thou beene <HI>Alphonso!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>In the Marquesse of <HI>Villa Noua del Rios,</HI> Garden</L>
+<L>Where I gathered these Grapes.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>And th'are the fairest Grapes I euer toucht.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Troth so they are; plump <HI>Bacchus</HI> cheekes were neuer</L>
+<L>So round and red, the very God of Wine.</L>
+<L>Swels in this bunch, <HI>Lyaeus</HI> set this Vine.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I haue not seene a louelier.</L>
+</SP>
+<SP>
+<PB N="37" REF="21"/>
+<SPEAKER>Alph.</SPEAKER>
+<L>'Tis your Lordships, if you vouchsafe to take it.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Oh I shall rob you, of too much sweetnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>No my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I thanke you.</L>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>Make bold to see your honour.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Good <HI>Alphonso.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>And (loath to be too troublesome) take my leaue:</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>My duty to the King.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Farewell good <HI>Alphonso.</HI></L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>How doe you like your Grapes?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Most delicate, taste'em:</L>
+<L>Is it not strange, that on a branch so faire,</L>
+<L>Should grow so foule a fruit, as Drunkards are!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>These are the bullets that make Cities reele,</L>
+<L>More then the Cannon can.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>This Iuice infus'd</L>
+<L>In man, makes him a beast, good things abus'd,</L>
+<L>Conuert to poyson thus; how now!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I'me dizzie</L>
+<L>Oh! does not all the house run round on wheeles!</L>
+<L>Doe not the Posts goe round! my Lord this fellow,</L>
+<L>Loues you I hope?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Ile pawne my life he does.</L>
+</SP>
+<SP>
+<SPEAKER>Io.</SPEAKER>
+<L>Would all we both are worth, were laid to pawne</L>
+<L>To a Broaker that's vndamn'd for halfe a dram</L>
+<L>For halfe a scruple,—oh we are poyson'd.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>What doe you feele?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>A giddynesse too me thinkes.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Without there, call the Doctor (slaue)</L>
+<STAGE>Enter Pacheco.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>He's here Sir.</L>
+<STAGE>Enter Doctor.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh,</SPEAKER>
+<L>Oh Doctor now or neuer—giue him his last,</L>
+<L>We are poyson'd both.</L>
+<STAGE>Exit Doctor.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I thinke our banes are ask'd.</L>
+</SP>
+<SP>
+<PB N="38" REF="22"/>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Hee'l bring that shall forbid it, call him (villaine)</L>
+</SP>
+<SP>
+<SPEAKER>Pa.</SPEAKER>
+<L>Well Sir I will call him villaine.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>All thriues not well within me: On my soule</L>
+<L>T'is but Conceipt, I'me hurt with feare, <HI>Don Iohn,</HI></L>
+<L>Is my Close mortall enemy, and perhaps</L>
+<L>Vnder the Cullor I am poyson'd, sends</L>
+<L>To pay me soundly! to preuent the worst,</L>
+<L>Preseruatiue or poyson, he drinkes first.</L>
+<STAGE>Enter Doctor.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh</SPEAKER>
+<L>Giue it him,</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>No, begin,</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>What is't?</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Cordiall.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>The Doctor shall begin, quickly, so heere,</L>
+<L>Halfe this to both our deathes if't come too late.</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>I pledge them both, death is a common fate.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Shift hands, is't mortall!</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>It strikes sure.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Let it runne</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>'Tis downe.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I'me glad, thy life's not a span long.</L>
+<L>How is't!</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>Worse.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Better, I doe feare this physick</L>
+<L>Like pardons for men hang'd is brought too late.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Hee's gone.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Who's without!</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Some of his men attending with his Caroach</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Take helpe; bestow the body in't, convey it,</L>
+<L>To his owne house and there sir, see you sweare,</L>
+<L>You saw him in your presence fall dead heere.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>This I can safely sweare.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Helpe then, away,</L>
+<L>Thou art next, for none must liue that can betray.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="39" REF="22"/>
+Flourish. Enter King, Queene, Tormiella, Ladies, Iago, Mar∣tines, Fuentes, and Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>So sweetnesse, Ile now walke no longer with you.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Are you weary of my Company!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Neuer shall:</L>
+<L>Prithee keepe thy Chamber a while, the Ayre bites.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>'Tis because the Sunne shines not so hot as't had wont.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>There's some Cloud betweene then.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Yes, and a horrible foule one.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I see none but faire ones.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>No! Looke yonder, it comes from the City.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Let it come, by these Roses I am angry that you let me not go.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Nay look you, your Grace takes all from me too; pray</L>
+<L>Sir giue me my roses, your Highnesse is too couetous.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I must of necessitie haue one.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>You shall, so you take it of my choosing.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I will, so you choose that which I like.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Which will you haue, the bud, or that which is blown?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The bud sure, I loue no blowne ware.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Take your bud then.</L>
+<STAGE>Offers to goe, and throwes it down.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Doe you heare? are you angry?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>No, you are jealous, you are so loath to haue me out of your sight,you need not, for I keepe the fashion of the Kings of <HI>China,</HI> who neuer walke abroad, but besides their Attendants, haue fiue or sixe as richly attired as themselues, to cut off treason.</P>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>So.</L>
+</SP>
+<SP>
+<SPEAKER>Q.</SPEAKER>
+<L>Here be others in the Troupe will bee taken for Queenes sooner then I.</L>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>You are vext, I haue prefer'd a creature to you.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Who dares checke the Sunne, if he make a stinking weed grow close to a bed of Violets? vext! not I, and yet me thinkes you might giue me leaue to chuse mine owne women, as well as you doe your men, I commend no man to you, for lifting joyne∣stooles to be one of your guard.</P>
+</SP>
+<SP>
+<PB N="40" REF="23"/>
+<SPEAKER>King.</SPEAKER>
+<L>Your Muffe.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Take it good wife.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You will make me angry: good wife! so, take it.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Now I hope you'l take it, you need not scorne a Queenes leauings, for a Queene has had yours.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What!</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>You see; does your Maiestie frowne because I take it from her</L>
+<L>Come hither, put your hand here? so, well met,</L>
+<L>All friends now, yet tho ty'd neuer so fast,</L>
+<L>Being a bow knot, it slips it selfe at last.</L>
+<STAGE>Exeunt Queene, Tormiel. Ladies and Mart.</STAGE>
+</SP>
+<SP>
+<SPEAKER>K.</SPEAKER>
+<L>Is't so! wer't thou a Diamond worth the world,</L>
+<L>And ne're so hard, yet thine owne Dust shall cut thee:</L>
+<L>Goe call that Lady backe.</L>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>Which?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Tormiella,</L>
+<L>No doe not! 'Tis a Cocke the Lyon can fright,</L>
+<L>The Hen do'st now, the Case is alter'd quite.</L>
+<STAGE>Enter Doctor.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Your gracious pardon to call backe a life</L>
+<L>That's halfe lost with despaire.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What hast thou done?</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Poyson'd a man.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Whom hast thou poyson'd?</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>The Queenes Father in law.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Would it had beene the Daughter, thou shalt feele:</L>
+<L>A double death, one heere, and one in Hell.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>I must haue company with me then: <HI>Don Iohn</HI></L>
+<L>Your Highnesse Brother, set against my throat—</L>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>Back.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>His arm'd sword; I had dy'd, had I not done't.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Our Guard; goe fetch <HI>Don Iohn</HI> our brother to Court.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>A word in your Highnesse eare:</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Search him.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>He has nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>I in stead of poyson,</L>
+<L>Gaue him a sleepy Potion, he's preseru'd</L>
+<L><HI>Don Iohn</HI> thinkes not: the noble Admirall</L>
+<L>Feares plots against his life, forbeares the Court</L>
+<L>But sends me to your Grace, to bid you set</L>
+<L><PB N="41" REF="23"/>
+Your fo oting stiffe and strongly, for <HI>Don Iohn</HI></L>
+<L>Trips at your life and Kingdome, to his throat</L>
+<L><HI>Valasco</HI> this will iustifie.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>He shall</L>
+<L>Goe you and fetch him secretly to Court</L>
+<L><HI>Alphonso</HI> take the Doctor and returne.</L>
+<STAGE>Exeunt.</STAGE>
+<L>Death! when! <HI>Iago</HI> with your smoothest face</L>
+<L>Go greet <HI>Don Iohn</HI> from vs,</L>
+<L>Say we haue worke of State, both presently</L>
+<L>And closely bid him come.</L>
+</SP>
+<SP>
+<SPEAKER>Iago.</SPEAKER>
+<L>I shall.</L>
+<STAGE>Exit</STAGE>
+<STAGE>Enter Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How now what's he, giue vs leaue, come hither:</L>
+<L>We haue perus'd your paper Sir, and thinke</L>
+<L>Your promises Spring-tides, but we feare you'll ebbe</L>
+<L>In your peformance.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>My deeds and speeches Sir,</L>
+<L>Are lines drawne from one Center, what I promise</L>
+<L>To doe, Ile doe, or loose this.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You giue me physicke after I'm dead, the <HI>Portugals</HI> and we</L>
+<L>Haue hung our drummes vp, and you offer heere</L>
+<L>Models of Fortification, as if a man</L>
+<L>Should when Warre's done, set vp an Armorors shop.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>I bid you set vp none Sir, you may chuse.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>This fellow Ile fitly cast i'th Villaines mold,</L>
+<L>I find him crafty, enuious, poore, and bold:</L>
+<L>Into a Saw Ile turne thee, to cut downe</L>
+<L>All Trees which stand in my way; what's thy name:</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>You may reade in my paper.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Lupo Vindicado's;</HI> Vmh! nay we shall imploy you</L>
+<L>Merrit went neuer from vs with a forehead,</L>
+<L>Wrinckled or sullen, what place would you serue in?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>Any, but one of your turne broaches; I would not be one of your blacke Guard, there's too much fire in me already.</P>
+</SP>
+<SP>
+<PB N="42" REF="24"/>
+<SPEAKER>King.</SPEAKER>
+<L>You say, you haue the Languages.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What thinke you of an Intelligencer, we'll send you-</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>To th' Gallowes, I loue not to be hang'd in State.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You hauing trauel'd as you said so farre,</L>
+<L>And knowing so much, I muse thou art so poore.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Had the confusion of all tongues began</L>
+<L>In building me, could I sing sweet in all,</L>
+<L>I might goe beg and hang, I ha' seene <HI>Turkes</HI></L>
+<L>And <HI>Iewes,</HI> and <HI>Christians,</HI> but of all, the <HI>Christians</HI></L>
+<L>Haue driest hands, they'l see a Brother starue,</L>
+<L>But giue Duckes to a water-Spaniell.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Well obseru'd</L>
+<L>Come sir, faith let's crow together, in what stamp</L>
+<L>Dost thou coyne all thy Languages.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>I doe speake <HI>English</HI></L>
+<L>When I'de moue pittie, when dissemble, <HI>Irish,</HI></L>
+<L><HI>Dutch</HI> when I reele, and tho I feed on scalions,</L>
+<L>If I should brag Gentility, I'de gabble <HI>Welch,</HI></L>
+<L>If I betray, I'me <HI>French,</HI> if full of braues,</L>
+<L>They swell in loftie <HI>Spanish,</HI> in neat <HI>Italian</HI></L>
+<L>I Court my Wench, my messe is all seru'd vp.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Of what Religion art thou?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Of yours.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When you were in <HI>France?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>French.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Without there.</L>
+<STAGE>Enter Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>Sir?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Giue this Gentleman fiue hundred Pistolets</L>
+<L>Be neere vs.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>In thy bosome, for thy Pistolets</L>
+<L>Ile giue thee Pistols, in a peece might ha beene mine</L>
+<L>Thou shoot'st or mean'st to shoot, but Ile charge thine;</L>
+<L>Thy heart off goes it in thunder.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Through the Gallerie,</L>
+<L>Vnseene conuay him hither, giue vs leaue sir.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Leaue haue you—</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="43" REF="24"/>
+Enter Doctor, Valasco, and Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I'm glad to see your Maiesty.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You haue reason.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I was going to cry all hid.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Come hither</L>
+<L>Dead man you'l iustifie this treason?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>To his teeth,</L>
+<L>Throate, mouth to mouth, bodie to bodie.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>So.</L>
+<STAGE>Enter Iago.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>Don Iohn <HI>of</HI> Castile'<HI>s come.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A Chaire, stand you</L>
+<L>Full here and stirre not, front him, bring him in</L>
+<L>How, now, did a Hare crosse your way?</L>
+<STAGE>Enter Don Iohn.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>The Diuell</L>
+<L>Doctor Ile giue you a purge for this, Ile make</L>
+<L>Your Highnesse laugh.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You must tickle me soundly then.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>In this retreat of mine from Court, my bodie</L>
+<L>(Which was before a cleane streame) growing foule</L>
+<L>By my minds trouble, through your high displeasure</L>
+<L>Which went to th' bottome of my heart; I call'd</L>
+<L>That sound Card to me, gaue him fees and bid him</L>
+<L>(By all the fairest props that Art could reare)</L>
+<L>To keepe my health from falling, which I felt</L>
+<L>Tottering and shaken, but my Vrinalist</L>
+<L>(As if he sate in Barber-Surgions Hall</L>
+<L>Reading Anatomy Lectures) left no Artery</L>
+<L>Vnstretcht vpon the Tenters.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>So he vext you to the guts.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>My bowels were his coniuring roomes, to quit him</L>
+<L>I tempted him to poyson a great man,</L>
+<L><PB N="44" REF="25"/>
+I knowing this my honourable friend—</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Keepe backe, hee'l poyson my gloue else.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Comming to visit me,</L>
+<L>This was the man must die.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why did you this?</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Onely to hatch a jest on my pill'd Doddy,</L>
+<L>I knew he durst not doo't.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But say he had?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Then he had beene hang'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>That had made me more glad.</L>
+</SP>
+<SP>
+<SPEAKER>Doct.</SPEAKER>
+<L>I am bound to your Lordship.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Being a Doctor you may loose your selfe.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Mens liues then are your Balls, disarme him</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>How! not all thy Kingdome can.</L>
+<STAGE>Drawes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How him in peeces,</L>
+<L>Our Guard, s'death kill him.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Are you in earnest?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Looke.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>See then, I put my selfe into your Den:</L>
+<L>What does the Lyon now with me?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Th'art a traytor.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I am none.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Yes, an arrant traytor.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>You sir; spit all thy poyson forth.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>No, I dranke none sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Come to your proofes, and see you put 'em home.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>You and I one day, being in conference,</L>
+<L>You nam'd this noble King (my Soveraigne)</L>
+<L>A tyrant, bid me strike, 'twas now my time,</L>
+<L>Spake of a Peece charg'd, and of shooting off</L>
+<L>Of stirrring vp the Rascals to rebell,</L>
+<L>And to be short, to kill thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I speake this!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Yes Traytor, thou.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Where!</L>
+</SP>
+<SP>
+<PB N="45" REF="25"/>
+<SPEAKER>Val.</SPEAKER>
+<L>In your Chamber.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Chamber!</L>
+<L>Was it not when you told me, that the King</L>
+<L>Had got a strumpet.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>How!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>A Citizens wife;</L>
+<L>'Twas when you swore to pay him soundly.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>See. see!</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>The peoples hearts were full.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Poxe, a'my heart then.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Or was't not when you threaten'd to take all,</L>
+<L>Into your owne hands:</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>There's my gloue, thou lyest.</L>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>Good stuffe, I shall find traitors of you both,</L>
+<L>If you are, be so; with my finger, thus</L>
+<L>I fanne away the dust flying in mine eyes</L>
+<L>Rais'd by a little wind; I laugh at these now,</L>
+<L>'Tis smoake, and yet because you shall not thinke</L>
+<L>We'll dance in Earth quakes, or throw squibs at Thunder,</L>
+<L>I charge both keepe your Chambers for a day</L>
+<L>Or so.—</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Your will.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Chambers!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We bid it.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>You may.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Queene, and Ladies.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>The Queene.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I thanke your highnesse for the bird you gaue me,</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What bird?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Your Tassell gentle, shee's lur'd off and gone.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How gon! what's gone!</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Your woman's fled,</L>
+<L>Whom you prefer'd to me, she's stolne from Court.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You iest.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>bee it so.—</L>
+<STAGE>Goes away.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I haue hotter newes for you,</L>
+<L>Your Fathers head lies here, art thou still shooting.</L>
+<L><PB N="46" REF="26"/>
+Thy stings into my sides! Now doe you looke</L>
+<L>I should turne wild, and send through all the winds</L>
+<L>Horsemen in quest of her, because you weare</L>
+<L>A kind of yellow stocking; let her flie</L>
+<L>If <HI>Ioue</HI> for sooth would fixe a starre in Heauen,</L>
+<L><HI>Iuno</HI> runnes mad, thou better mightst haue spurn'd</L>
+<L>The gates of hell ope; then to looke into</L>
+<L>Our bosome.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Where your Trull lyes.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Y'are a Toad.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Womans reuenge awake thee, thou hast stirr'd</L>
+<L>A blood as hot and high as is thine owne</L>
+<L>Raise no more stormes; your treasure is not gon,</L>
+<L>I fear'd the Sea was dangerous, and did sound it</L>
+<L>Mischiefe but halfe vp, is with ease confounded.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>In thine owne ruine, me canst thou hit</L>
+<L>But with one finger which can doe no harme</L>
+<L>But when a King strikes, 'tis with his whole arme.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Queene and Tormiella.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Make fast the Closet—so—giue me the key</L>
+<L>I meane to kill thee.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Kill me, for what cause?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Guesse.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I know none, vnlesse the Lambe should aske</L>
+<L>The Butcher why he comes to cut his throat.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I could through loope holes hit thee, or hire slaues</L>
+<L>And send death to thee, twenty secret wayes.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Why would you doe all this?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Or (as the Hart</L>
+<L>Drawes Serpents from their Den) with subtill breath</L>
+<L>I could allure thee to sit downe, and banquet</L>
+<L>With me as with the King thou hast.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Oh neuer—</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Yet poyson you most sweetly.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Now you doe it.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>And I could make thee a Queenes bedfellow</L>
+<L>As thou hast beene a Kings.</L>
+</SP>
+<SP>
+<PB N="47" REF="26"/>
+<SPEAKER>Tor.</SPEAKER>
+<L>Neuer by—</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Sweare,</L>
+<L>Yet stifle you in a pillow, but I scorne</L>
+<L>To strike thee blindfold, onely thou shalt know</L>
+<L>An Eagles nest, disdaines to hatch a Crow:</L>
+<L>Why are all mouthes in <HI>Spaine</HI> fill'd to the brim,</L>
+<L>Flowing o're with Court newes, onely of you and him</L>
+<L>The King I meane, where lies the Court?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Sure here.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>It remou'd last, to th'shop of a <HI>Millaner</HI></L>
+<L>The gests are so set downe, because you ride</L>
+<L>Like vs, and steale our fashions and our tyers,</L>
+<L>You'l haue our Courtiers to turne shopkeepers,</L>
+<L>And fall to trading with you, ha!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Alas the Court to me is an inchanted tower</L>
+<L>Wherein I'me lockt by force, and bound by spels</L>
+<L>To Heauen to some, to me ten thousand Hels</L>
+<L>I drinke but poyson in gold, sticke on the top</L>
+<L>Of a high Pinnacle, like an idle vaine</L>
+<L>(As the wind turnes) by euery breath being tost</L>
+<L>And once blowne downe; not miss'd, but for euer lost.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Out Crocadile,—</L>
+<STAGE>Spurne her.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>You will not murther me!</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Ile cure you of the Kings euill.—</L>
+<STAGE>Draw 2. kniues.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>To one woman</L>
+<L>Another should be pittifull, heare me speake?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>How dares so base a flower follow my Sunne</L>
+<L>At's rising to his setting.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>I follow none.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>How dar'st thou Serpent wind about a tree</L>
+<L>That's mine.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>I doe not.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Or to shake the leaues.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>By Heauen, not any.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Or once to taste the fruit</L>
+<L><PB N="48" REF="27"/>
+Tho throwne into thy lap, if from a Harlot</L>
+<L>Prayers euer came; pray, for thou dy'st.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Then kill me.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>How did my Husband win thee?</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>By meere force; a Bawd betray'd me to him.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Worse and worse.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>If euer I haue wrong'd your royall bed</L>
+<L>In act, in thought, nayle me for euer fast,</L>
+<L>To scape this Tyger of the Kings fierce lust</L>
+<L>I will doe any thing, I will speake treason</L>
+<L>Or Drinke a Cup of poyson, which may blast</L>
+<L>My inticing face, and make it leprous foule:</L>
+<L>Ruine you all this, so you keepe vp my Soule;</L>
+<L>That's all the wealth I care for.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I haue now no hart left to kill thee, rise, thou and I</L>
+<L>Will like two quarrelling Gallants faster tye</L>
+<L>A knot of Loue, we both i'th Field being wounded</L>
+<L>Since we must needs be sharers, vse me kindly</L>
+<L>And play not the right Citizen, to vndoe</L>
+<L>Your partner, who 'ith stocke has more than you.</L>
+<STAGE>A noyse within. Enter the King.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Must you be closetted?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What are you doing?</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Not getting Children.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Naked kniues; for what,</L>
+<L>Speake, s'death speake you.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>They both fell from her side.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You lie, away.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Must you be closetted?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>When hart break'st thou, thou dost too much swell,</L>
+<L>This Aspish biting, is incurable.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Be true to me I charge you, did the Queene</L>
+<L><PB N="49" REF="27"/>
+Offer no violence to you.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>None at all.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why were these drawne,</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I know not.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Know not; what's heere,</L>
+<L>Why is this rose deni'd with a pearled teare.</L>
+<L>When the sunneshines so warme, you know not that too,</L>
+<L>The lambe has am'd the <HI>Lyon,</HI> the vulture tyers</L>
+<L>Vpon the Eagles hart, these subtill wyers</L>
+<L>Chanie <HI>Ioue,</HI> these balls, from whose flames <HI>Cupid</HI> drew,</L>
+<L>His wild fire burnes heere, this you know not too.</L>
+<L>I loue you, that you know not neither, y'are coy,</L>
+<L>And proud, and faire, you know this,</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I beseech you</L>
+<L>Let me shake off the golden fetters you tye</L>
+<L>About my body, you inioy a body</L>
+<L>Without a soule, for I am now not heere.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Where then.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>At home in my poore husbands armes,</L>
+<L>This is your Court, that mine.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Your husbands armes,</L>
+<L>Thou art his whore, he plai'd the theefe and rob'd</L>
+<L>Another of thee, and to spoyle the spoyler,</L>
+<L>Is Kingly iustice, 'tis a lawfull prize</L>
+<L>That's ta'ne from Pirates; there's are fellow wiues.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Which of your subiects (which abroad adore</L>
+<L>Your state, your greatnesse, presence and your throne</L>
+<L>Of sunne beames) thinke you now are with a wanton,</L>
+<L>Or working a chast wife to become one.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I worke thee not to be so, for when time</L>
+<L>Shall iog his glasse and make those sands lye low</L>
+<L>Which now are at the top, thy selfe shalt grow</L>
+<L>In selfe same place my Queene does.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>What tree euer stood</L>
+<L>Long and deepe rooted, that was set in blood;</L>
+<L>I will not be your whore to weare your Crowne.</L>
+<L><PB N="50" REF="28"/>
+Nor call any King my Husband, but mine owne.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>No 'twere shame 'mongst all our City Dames</L>
+<L>If one could not scape free, their blasted fames.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The sound of Bels and Timbrels make you mad</L>
+<L>As it does a Tyger, the softer that I stroke you</L>
+<L>The worse you bite, your father and your Husband</L>
+<L>Are at my sending come to Court, Ile lay</L>
+<L>Honours on both their backs, here they shall stay</L>
+<L>Because Ile keepe you here, if you doe frowne</L>
+<L>The engine which reares vp, shall plucke all downe.</L>
+<L>Ile fetch 'em to you my selfe.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Oh who can stifling scape in baser throngs,</L>
+<L>When Princes Courts threaten the selfe-same wrongs!</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<TRAILER>Finis Actus tertij.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>ACTVS, IIII.</HEAD>
+<SP>
+<STAGE>Flourish. Enter King, Maleuento, Cordolente, Iago, Alphonso, Gazetto, and Tormiella.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Y'aue the best welcome which the Court can yeeld,</L>
+<L>For the King giues it you.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Your Grace is gracious.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Is this your Father?</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>My proper flesh and bloud Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And that your Husband?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Not I sir; I married an honest wench that went in a cap, no whim whams; I did but shuffle the first dealing, you cut last, and dealt last, by the same token you turn'd vp a Court Card.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Is the man iealous!</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>No, but a little troubled with the yellow Iaundize, and you know if it get to the Crowne of the head, a man's gon.</P>
+</SP>
+<SP>
+<PB N="51" REF="28"/>
+<SPEAKER>King.</SPEAKER>
+<L>We send not for you hither to be brau'd,</L>
+<L>Sirrah cast your darts elsew here.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Amongst the wild <HI>Irish</HI> Sir hereafter.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Tis our Queenes pleasure that your wife be call'd</L>
+<L>Her woman, and because she will not loose her,</L>
+<L>She hath importun'd vs to raise you both;</L>
+<L>Your name sir?</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Mine, <HI>Andrada Maleuento.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Andrada Maleuento</HI> we make you</L>
+<L>Vice-Admirall of our Nauy.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Oh spitefull Comedy, he's not a Courtier of halfe an houres standing, and he's made a Vice already.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We make thy Husband—</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>A Cuckold doe you not.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Sonne you forget your selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Meddle with your owne office; there's one will looke that none meddles with mine.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Is not a change good?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Yes, of a louzie shirt.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Take hence that fellow, he's mad.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>I am indeed horne-mad, oh me, in the holyest place of the Kingdome haue I caught my vndoing, the Church gaue mee my bane.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>What the Church gaue thee, thou hast still.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Halfe parts, I thought one had tane thee vp.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Take me home with thee, Ile not stay here.</L>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Let me not come to Court.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>The King is vext, let me perswade thee Sonne</L>
+<L>To wincke at small faults.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>What sir <HI>Pandarus!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Sends the King you to blush in's roome.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Y'are a baggage.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Goe tell the lunatique so; <HI>Andrada</HI> harke,</L>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>The King sir bids me sing into your eare,</L>
+<L>Sweet notes of place and office which shall fall—</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Into my mouth, I gape for 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>He bids me aske what will content you.</L>
+</SP>
+<SP>
+<PB N="52" REF="29"/>
+<SPEAKER>Cor.</SPEAKER>
+<P>Nothing, nothing, why Sir the powers aboue cannot please vs, and can Kings thinke you, when we are brought forth to the world, we cry and bawle as if we were vnwilling to bee borne; and when we are a dying we are mad at that.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Take hence that Wolfe that barkes thus.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I am muzzel'd, but one word with your Maiestie, I am sober sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>So sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>You oft call Parliaments, and there enact</L>
+<L>Lawes good and wholesome, such as who so breake</L>
+<L>Are hung by th' purse or necke, but as the weake</L>
+<L>And smaller flyes i'th Spiders web are tane</L>
+<L>When great ones teare the web, and free remaine.</L>
+<L>So may that morall tale of you be told,</L>
+<L>Which once the Wolfe related: in the Fold</L>
+<L>The Shepheards kill'd a sheepe and eate him there</L>
+<L>The Wolfe lookt in, and seeing them at such cheere,</L>
+<L>Alas (quoth he) should I touch the least part</L>
+<L>Of what you teare, you would plucke our my hart,</L>
+<L>Great men make Lawes, that whosoe're drawes blood</L>
+<L>Shall dye, but if they murder flockes 'tis good:</L>
+<L>Ile goe eate my Lambe at home sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Part, and thus reckon neuer to see her more.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Neuer!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Neuer thus, but thus a Princes whore.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Thou dar'st not, if thou do'st; my heart is great,</L>
+<L>Thus wrong'd, thou canst doe little if not threat.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Ha, ha, ha, ha.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>At what dost-laugh?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>At a thing of nothing, at thee; why shouldst thou be a∣fraid to fall into the Cuckolds disease.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Because it makes a Doctor an Asse, nothing can cure it, are you answer'd Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>Come th'art a foole, to grieue that thy wife is taken a∣way by the King to his priuate bed-chamber,</P>
+<L><PB N="53" REF="29" MS="y"/>
+Now like a booke call'd in, shee'l sell better then euer she did.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Right sir, but could he chuse no stocke to graft vpon, but that which was planted in my nurserie.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Ile shew thee a reason for that.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Why?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>Leachers comming to women, are like Mice amongst many Cheeses, they taste euery one, but feed vpon the best: hornes rightly weigh'd are nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>How nothing! oh sir, the smallest Letters hurt your eyes most, and the least head-ach which comes by a womans knocking hurts more then a cut to the scull by a mans knocking.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Yet I warrant thou dar'st sweare the party's honest?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Ha; sweare; not I, no man durst euer sweare for his wife but <HI>Adam,</HI> nor any woman for her husband but <HI>Eue,</HI> fare you well sir.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Whether art flying?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>In peices dost not see I'me shot out of a Cannon.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Downewards Ile shoote thee, but as Diuels vse</L>
+<L>Ile tickle at thy tortures, dance at thy stumbling,</L>
+<L>Play with thee, and then paw thee, 'shalt make me merry</L>
+<L>The Crowne of blacke deeds that are hatcht in Hell</L>
+<L>Is to out-liue and laugh, and all's play'd well.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Clowne, and Coxecombe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Clo.</SPEAKER>
+<P>I haue not pass'd by a <HI>Don,</HI> to touch whose hand mine owne was neuer more troubled with a more terrible itch.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>I haue not met a Signior, at whom mine owne eyes (as if roasted enough) did euer burne more in desire to flye out: so that whether to recoyle or aduance on, I am betweene Hawke and Buzzard.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>The honey of sweet Complement so turne vp your Tuskes or Mochatoes, that they be not too stiffe, to brisle a∣gainst my acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>Your acquaintance is a Limbeck, out of which runneth a perfum'd water, bathing my nosthrils in a strong scent of your embracings: are you of Court Signior?</P>
+</SP>
+<SP>
+<PB N="45" REF="30"/>
+<SPEAKER>Bil.</SPEAKER>
+<L>No Signior of the City: are you a Don of the Citie!</L>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<L>No Signior of the Court City, I smile,</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Why.</L>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>I assure you Signior, you are to vs of the Court but <HI>Animals</HI> You are held but as shooing hornes to wait on great Lords heeles.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Let em pay vs what they owe then, and pull on their shoes, and wee'll wait no more.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<L>You are our Apes.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>But you are fuller of Apish-trickes.</L>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>No sooner leape our Ladies into a fashion, but your Wiues are ready to creepe into the same.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Why not; for tho some of your Ladies invent the fashi∣on, some of our wiues husbands are neuer pay'd for the stuffe or making.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>Giue way with your poore scull to our oares: for I tell thee Signior you of the city, are the flatten milke of the king∣dome, and wee of the Court, the Creame.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>I tell thee Signior! wee of the City eate none of your Court butter, but some of your munch vp our flatten milk cheese.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>Be not too loud; tho you are good ringers in the City, for most of you haue bels at your doores.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Be not you too loud: for you might be good singers at Court but that most of you are spoyled in learning your pricksong.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>Bee temporate: I will shew you your City Cinqui∣pace, you beare, sweare, teare, reare, and weare; you beare the Tanckerd, sweare shop oathes, teare money out of debtors throates, reare rich estates, weare good clothes, but carry your Conscience in torne pockets.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Bee attentiue, I will shew you your Court Coranto pace, it consisteth of 5. bees and 3. cees; you borrow of any man, are braue on any termes, brag at any hand to pay, bellow at any that demands it, bite any Catchpole that fangs you, but carry neither Conscience nor coyne in your whole pockets.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>Tell mee Signior, tell mee why in the City does a
+<PB N="54" REF="30"/>
+harmlesse signe hang at the doore of a subtill <HI>Nicodemus</HI> sitting in a shop?</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>And tell me Signior, tell me, why when you eate our good cheare i'th City, haue you handsome wide chops, but mee∣ting vs at Court, none; your gumme's glew'd vp, your lips coap'd like a Ferret, not so much as the corner of a Custard; if a cold cup, and a dry cheate loafe 'tis well.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>Come, come, You are Acornes, and your Sonnes the Prodigals that eate you vp.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>Goe, goe, you are Prodigals, and glad of the yellow A∣cornes we leaue our Sonnes.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<P>I will crosse my selfe when I owe money to a Citi∣zen, and passe by his doore.</P>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>I will blesse my selfe, when a Courtier owing me no mo∣ney, comes neare my doore.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>You are discended from the tanckerd generation.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<P>You are ascended vp to what you are, from the blacke Iacke and bumbard distillation.</P>
+</SP>
+<SP>
+<SPEAKER>Cox.</SPEAKER>
+<L>Deere Signior.</L>
+</SP>
+<SP>
+<SPEAKER>Bil.</SPEAKER>
+<L>Delicious <HI>Don.</HI></L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Don Iohn.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Art sure thou saw'st the Admirall at Court!</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>Am I sure I see your Lordship in your gowne.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And talking with the King?</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>Most familiarly.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And what say the people about my committing to mine owne house?</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>The beast grinnes at it, there's a Libell already of you my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>A Libell, away.</L>
+</SP>
+<SP>
+<SPEAKER>Pa.</SPEAKER>
+<P>Yes faith my Lord, and a Song to the tune of Lament Ladies, Lament.</P>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>I'me glad the stinkards are so merry, a halter on 'em, it's musick to them to haue euery man thrown off, you haue seen the Kings Mistris, boy haue you not, what manner of peice is't?</P>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<P>Troth my Lord I know not, I neuer saw her shot off, a pretty little pocket dag.</P>
+</SP>
+<SP>
+<PB N="56" REF="31"/>
+<SPEAKER>Ioh.</SPEAKER>
+<L>What report giues she?</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<P>A very good report of her Husband, but he giues an ill report of her.</P>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>How does the Ladies take it; now the King keepes a</L>
+<L>Wench vnder the Queenes nose?</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<P>They take it passing heauily, it goes to the heart of some of them, that he keepes not them too.</P>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I heard say they were all once leauing the Court?</L>
+</SP>
+<SP>
+<SPEAKER>Pach.</SPEAKER>
+<L>True sir, but there was a deuise which stopp'd 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Who are you!</L>
+<STAGE>Knocking within.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>My Lord, we must speake with you.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>What are you? fetch me a weapon</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Your friends.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Sdeath breake it open.</L>
+<STAGE>Enter King, Valasco, and others.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>The King; I did not vnderstand your Maiesty.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You shall, for Ile speake plaine to you, know you these?</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Not I.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You doe not, a Kings arme thou seest</L>
+<L>Has a long reach, as farre as <HI>Portugall</HI></L>
+<L>Can We fetch treason backe hatcht here by you.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Me!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thee and the trayterous <HI>Portugals</HI> to depriue me</L>
+<L>Of life and Crowne, but I shall strike their King</L>
+<L>And them, and thee beneath into the earth.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And lower then earth you cannot.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Halfe your body is in the graue, it only lackes our hand</L>
+<L>To cast the dust vpon you, yet you stand</L>
+<L>On slippery Ice your selfe, and trip at vs</L>
+<L>Whose foot is fixt on Rocks, but since th'ast, throwne</L>
+<L>Thy selfe downe neuer looke to rise.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<P>I care not, I will be little so in debt to you, that I will not owe you so much as God a mercy for my life.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You shall not then, stand not to ayme at markes</L>
+<L>Now roue not but make choyse of one faire white</L>
+<L><PB N="57" REF="31"/>
+Th'ast but one arrow to shoote, and that's thy flight</L>
+<L>The Admirall knowes our pleasure.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And Heauen knowes mine</L>
+<L>Left in mine enemies hand, are you my Iaylor?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>No my Lord, I thinke I'me rather left</L>
+<L>To be your Confessor.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I need not any,</L>
+<L>That you and I should both meet at one Ball,</L>
+<L>I being the stronger, yet you giue the fall.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>A kind of foot-ball slight, my Lord, men vse</L>
+<L>Exceeding much at Court, your selfe has heard</L>
+<L>Little shrimps haue thrown men higher then the Guard;</L>
+<L>But barring this rough play, let's now consider,</L>
+<L>For what I stay, and what you are to doe.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Doe what?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>To die.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>And must you play the Hangman.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Breake in fellowes.</L>
+<STAGE>Guard.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>'Sdeath what are these?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Your Executioners appointed by the King.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>These my Executioners,</L>
+<L>And you my ouer-seer; wherefore kneele they?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>To beg your pardon, for they feare their worke</L>
+<L>Will neuer please you.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>What booke's that they hold</L>
+<L>This is no time for Dedications.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>That booke is sent in Loue to you from the King</L>
+<L>It containes pictures of strange sundry deaths</L>
+<L>He bids you choose the easiest.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Then I chuse this.</L>
+<STAGE>Snatches a Halbert.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Your choyce is ill made.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>I'me more sorry Sir,</L>
+<L>I had rather haue my body hackt with wounds,</L>
+<L><PB N="58" REF="32"/>
+Then t'haue a Hangman fillip me.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>My Lord pray pardon me</L>
+<L>I'me forct to what I doe, 'tis the Kings pleasure</L>
+<L>To haue you die in priuate.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Any where</L>
+<L>Since I must downe, the King might let me fall</L>
+<L>From lofty Pinacles, to make my way</L>
+<L>Through an arm'd Feild, yet for all that, euen then</L>
+<L>Vnlesse I slew a kingdome full of men</L>
+<L>I should at last be pay'd home: blackest fate</L>
+<L>Thy worst, I heere defie thee, what the State</L>
+<L>Appoints 'tis welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>That's to haue your head.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>'Tis ready.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Hee'l be quiet when you are dead.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Tormiella, Malevento, and Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>Madam there's a fellow stayes without to speake with you.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>With me!</L>
+<STAGE>Enter Cordolente.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>Your shoo-maker I thinke.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Ha'st brought my shooes?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Yes Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>You drew them not on last.</L>
+</SP>
+<SP>
+<SPEAKER>Gor.</SPEAKER>
+<P>No Madam, my Master that seru'd you last has very good custome, and deales with other Ladies as well as you, but I haue fitted you before now, I should know the length of your foote.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I doe not remember thee.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I'me sorry you haue forgotten me.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>What shooe was the last you drew on?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>A yellow.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>A yellow! I neuer wore that cullor.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Yes Madam by that token when I fitted you first, you wore not your shoes so high i'th instep, but me thinks you now go cleane awry.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>A fault I cannot helpe, manie Ladies besides me goe so,</L>
+<L>I hope 'twill grow to a fashion..</L>
+</SP>
+<SP>
+<PB N="59" REF="32"/>
+<SPEAKER>Mal.</SPEAKER>
+<L>Has not that fellow done there?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Yes sir, I haue now done, I haue a suit to you Madam, that none may be your shoo-marker but I.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Thy Master thou sayst serues me, I should wrong him then.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Yet doe you me more wrong, oh my <HI>Tormiella!</HI></L>
+<L>Is the leafe torne out where our Loue was writ,</L>
+<L>That I am quite forgot!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Softly good sweet.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Oh miserie, I make my selfe a theefe,</L>
+<L>To steale mine owne, another at my fire</L>
+<L>Sits whiles I shake with cold, I fatten a stranger,</L>
+<L>And starue my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Danger throwes eyes vpon thee,</L>
+<L>Thus visit me, watch time for my escape</L>
+<L>To any Country, by thy dearest side</L>
+<L>Ile lackey all the world or'e, Ile not change</L>
+<L>Thee for a thousand Kings; there's gold.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Not yet done?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Yes sir, I'me onely taking instructions to make her a lower Chopeene, she finds fault that she's lifted too high.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>The more foole shee.</L>
+<STAGE>Enter Iago.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>The King comes Madam, he enquires for you.</L>
+<STAGE>Enter King, Valasco, Gazetto, and others.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My brother <HI>Iohn</HI> is gone then?</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>I ha bestow'd him as you commanded, in's graue.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hee's best there,</L>
+<L>Except the Gods, Kings loue none whom they feare.</L>
+<L>How now!</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>My Shoo-maker.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Oh hast fitted her, so, hence sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>As a worme on my belly, what should the Ant,</L>
+<L>On his poore Mole-hill braue the Elephant,</L>
+<L>No, Signior no,</L>
+<L>No braines to stay, but saues a head to goe.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Let me haue no more of this: haue not we eyes</L>
+<L><PB N="60" REF="33"/>
+Pointed like Sun-beames, goe to, get you in.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Angell from Heauen, falne a Kings Concubine.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Martines.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>May it please your Grace,</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Her Highnesse drown'd in sorrow, that your brow</L>
+<L>Has beene so long contracted into frownes,</L>
+<L>Wishing to die vnlesse she see it smooth'd,</L>
+<L>Commends her best loue to you in this Iewell</L>
+<L>The Image of her heart.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Lord Admirall, my wife's growne kind, see!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>One of the happiest houres</L>
+<L>Mine age e're numbred; would your Hignesse now</L>
+<L>Would fetch vp the red blood her cheekes hath lost</L>
+<L>By sending her, some simbole of your loue.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Pray step your selfe vnto her, say I locke</L>
+<L>My heart vp in your bosome to her vse, and giue it her</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Ile lend it in your name.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Doe.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>She shall pay her heart for it in interest.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ile see her anon</L>
+<L>Leaue vs, stay you, and set that Table here.</L>
+<STAGE>Exeunt.</STAGE>
+<L>A chaire, none trouble vs, doe you serue the Queene?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Yes sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We know you now, y'are in our eye</L>
+<L>Are the doores fast?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>They are Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Nearer yet,</L>
+<L>Doe not you know of a conspiracie,</L>
+<L>To take away my life vpon Saint—tush,</L>
+<L>No matter for the day, you know the plot Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>By Heauen I know of none!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Blushing doe you staine?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>It is not guilt but anger.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Y'aue all fixt</L>
+<L>Your hands and Seales to an Indenture drawne</L>
+<L>By such a day to kill me.</L>
+</SP>
+<SP>
+<PB N="61" REF="33"/>
+<SPEAKER>Mar.</SPEAKER>
+<L>For my part</L>
+<L>My Loyaltie like a rough Diamond shines</L>
+<L>The more 'tis cut, I haue no hand in that</L>
+<L>Or any basenesse else against your Life</L>
+<L>Or Kingdome.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No!</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>None.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Fetch me Inke and Paper</L>
+<L>I soone shall try that, come Sir write your name:</L>
+<L>Stay, your owne words shall choake you, 'twas a letter</L>
+<L>Wrap'd vp in hidden Characters, and sent</L>
+<L>Inclos'd in a Pomgranet, to a great <HI>Don</HI></L>
+<L>And thus subscrib'd: <HI>At your pleasure your obsequious vassaile</HI></L>
+<L>Write this, and then your name, here.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L><HI>At your pleasure.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy hand shakes.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>No sir, <HI>Your obsequious Vassaile.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Here sir, your name now there so low it stood.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L><HI>Martines Cazalla de Barameda.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>There's in thy face no Traytor I cannot tell</L>
+<L>Good mouthes haue giuen thee to mee, on your life</L>
+<L>Be not you like a Wolfes-skin Drum to fright</L>
+<L>The whole Heard by your sound, I will compare</L>
+<L>Your hand with this, that's all, but sir beware</L>
+<L>You prate to none of what 'twixt vs is past.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Were I i'th world aboue, I would desire</L>
+<L>To come from thence, to giue that man the lye,</L>
+<L>That once should dare to blot my Loyalty.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<P>Here take this Key, meet mee some halfe houre hence i'th priuy Gallery with two naked Poniards.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Two ponyards.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes, goe send some body in, stay, <HI>Lupo</HI></L>
+<L>Can you write?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Indite a Letter—'sdeath sir—heere begin</L>
+</SP>
+<SP>
+<PB N="62" REF="34"/>
+<SPEAKER>Gaz.</SPEAKER>
+<L>After my heartie Commendations, so sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How! write<HI>—My most admired Mistris.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L><HI>Mired Mistris,</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>With the fire you first kindled in me, still I am burnt.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L><HI>Still I am burnt:</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<P><HI>So that Thunder shall not hinder mee from climbing the highest step of the Ladder.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L><HI>Climbing the highest step of the Ladder.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Of your perfections, though I bee confounded for euer.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L><HI>Be confounded for euer.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Your high pleasures are mine, mine yours.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L><HI>Mine yours.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>And I dye euer lastingly vntill I bee in your bosome.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L><HI>And I dye—vntill I be in your bosome.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>So.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>So.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hold.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Here sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Where are the Gentlemen of our Chamber?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Without Sir?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Bid them attend vs close.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>I shall.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Martines with two Poniards.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Would this dayes worke were done, I doe not like</L>
+<L>To see a Bull to a wild Fig-tree ty'd</L>
+<L>To make him tame, beasts licking 'gainst the hayre</L>
+<L>Fore-shew some storme, and I fore-see some snare:</L>
+<L>His sword is dipt in oyle, yet does it wound</L>
+<L>Deadly, yet stand it, innocence wrong'd is crown'd.</L>
+<STAGE>Enter the King, Alphonso, and Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Treason!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Where?</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Kill the Villaine.</L>
+<STAGE>All draw.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Stay, none touch him</L>
+<L>On your liues; on Kings shoulders stand</L>
+<L>The heads of the Colossie of the Goddes</L>
+<L>(Aboue the reach of Traitors) were the beds</L>
+<L><PB N="63" REF="34"/>
+Of twenty thousand Snakes layd in this bosome,</L>
+<L>There's thunder in our lookes to breake them all,</L>
+<L>Leaue vs.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>You are too venturous.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Ioue</HI> cannot fall,</L>
+<L>Both person place and businesse were quite lost</L>
+<L>Out of our memorie, lay aside these poniards</L>
+<L>We haue alter'd now our businesse, you shall beare sir</L>
+<L>Our salutation to the Queene—not seal'd!</L>
+<L>'Sfoot, nor indors'd! some Inke, come let the forehead</L>
+<L>Haue no more wrincles in't-but this, to the Queene,</L>
+<L>Write it.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>To the Queene, no more!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No, no, 'tis well,</L>
+<L>Hast thou no Seale about thee? if my wife</L>
+<L>Exceptions take missing our royall signet</L>
+<L>Say that not hauing that, I borrowed yours.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>I shall Sir.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter All.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hide it, goe-without there.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You met him did you not, how lookt the slaue?</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Most strangely.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Vnparalel'd Villaine! Diuels could not set</L>
+<L>To hatch such spitefull mischiefe, guard me closely,</L>
+<L>When you see him at the stake then worry him,</L>
+<L>Are all weapon'd?</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>All, all.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When Darts inuisible doe flye,</L>
+<L>A slaue may kill a Lyon in the eye.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Queene, and Tormiella.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Who gaue you this?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>A Gentleman of your Chamber.</L>
+<STAGE>Enter Martines.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Qn.</SPEAKER>
+<L>Call in the Villaine,</L>
+<L>Thou audatious Serpent!</L>
+<L>How dar'st thou wind in knotted curles thy lust</L>
+<L>About our honour; where hadst thou this Letter?</L>
+</SP>
+<SP>
+<PB N="64" REF="35"/>
+<SPEAKER>Mar.</SPEAKER>
+<L>I had it from the King.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Out impudent Traytor.</L>
+<STAGE>Enter King, Iago, Gazetto, Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How now at Barle-brake, who are in Hell?</L>
+<L>What's that? to the Queene, what Queene!</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Me, 'tis to me</L>
+<L>Your mistris there the Messenger, her Secretary</L>
+<L>Hee heere.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Vds death.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Your Trull and hee haue laid</L>
+<L>Traines to blow vp mine honour, I am betray'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Lupo,</HI> Fasten her.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Fasten mee!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Iago</HI> see.</L>
+<L>Looke all, bind fast this Diuell, is there no Circle</L>
+<L>To be damn'd in but mine.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Slaue let me goe.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Oh thou lustfull harlot.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Guard me Heauen.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>I'me sold.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Thou Villaine speake truth.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Keepe her off.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Most basely.</L>
+<L>Betray'd and baffled, is that Letter the same</L>
+<L>I sent in to the Queene.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>The very same.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Is this thy hand?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>'Tis sir, but heare me.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And this thy name, thy hand?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>My name, my hand.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Saue him and let him spit</L>
+<L>His blackest poyson forth?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Spare him, vnhand her.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Let me haue Iustice as thou art a King!</L>
+</SP>
+<SP>
+<PB N="65" REF="35"/>
+<SPEAKER>King.</SPEAKER>
+<L>To prison with them both.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>As I am thy wife</L>
+<L>Make not thy selfe a strompit of me.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hence, guard her.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>I come Heauen, guarded with innocence.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Follow your Mistris, you.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Yes, to her graue.</L>
+<L>Oh that I now were swallowed in some Waue.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Oh that I</L>
+<L>Should in a womans lap my Kingdome lay,</L>
+<L>Honour and life, and she should all betray</L>
+<L>To a Groome, a slaue.</L>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>Let not her poyson run</L>
+<L>Too neare your heart.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Iago</HI> I haue done,</L>
+<L>Pray let my greife want company, this wracke</L>
+<L>So great, shall make th'whole Kingdome mourn in black.</L>
+<STAGE>Exeunt.</STAGE>
+<L><HI>Lupo!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Did your Highnesse call!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes, harke thee <HI>Lupo:</HI></L>
+<L>It may bee th'art a Serpent dull of sight,</L>
+<L>Be quicke of hearing, may be th'art a Hare</L>
+<L>And canst see side-wayes, let me locke vp here,</L>
+<L>What euer's layd in there.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>I am strongly charm'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Wilt venter for me?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>To the threshold of hell.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>May I trust thee?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Else imploy me not.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Didst euer kill a Scorpion?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Neuer, I ha beene stung by one.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Didst neuer bait a wild Bull?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>That's the pastime I most loue and follow.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A strange disease</L>
+<L><PB N="66" REF="36"/>
+Hangs on me, and our Doctors say the bloud</L>
+<L>Onely of these two beasts must doe me good,</L>
+<L>Dar'st thou attempt to kill them?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Were they Diuels</L>
+<L>With heads of Iron, and Clawes ioynted with brasse,</L>
+<L>Encounter them I shall, in what Parke run they?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The Queene that Scorpion is, <HI>Tormiellas</HI> husband</L>
+<L>The mad Oxe broken loose; in a small volume</L>
+<L>What mischiefe may be writ, in a maze!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>No, in a muse,</L>
+<L>I'me plotting how to doe't, and to come off.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>This does it, by this key burst vp all doores</L>
+<L>That can betray thee, done be sure to rise,</L>
+<L>Let a Kings royall breath, send the hence flying.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>As Powder does the Bullet.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Heap'd vp honours</L>
+<L>Are scedules to thine enterprise annext,</L>
+<L>Doe it and mount—</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>To th'Gallowes.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy selfe goes next.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>I scorne to be thy bloud hound</L>
+<L>Why should I vexe a Soule did neuer greeue me?</L>
+<L>The Queene an honest Lady: should I kill her,</L>
+<L>It were as if I pull'd a Temple downe,</L>
+<L>And from the ruines of that built vp a stewes,</L>
+<L>She liues, but Butcher like the Oxe Ile vse.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<PB N="67" REF="36"/>
+<HEAD>ACTVS, V.</HEAD>
+<SP>
+<STAGE>Enter King. Valasco, Malevento Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Oh royall Sir, my Daughter <HI>Tormiella</HI></L>
+<L>Has lost her vse of reason and runne mad.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When!</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Not halfe an houre since.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Mad now! now frantique!</L>
+<L>When all my hopes are at their highest pitch</L>
+<L>T'inioy her beauties! talke no more: thou ly'st.</L>
+<STAGE>Enter Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>May it please your Maiestie-</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Curses consume thee—on—</L>
+<STAGE>Strikes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>It is dispatch'd, the Queene is lost, neuer to be found.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Waue vpon Waue,</L>
+<L>Hard hearted Furies, when will you dig my Graue:</L>
+<L>You doe not heare him, thunder shakes Heauen first</L>
+<L>Before dull Earth can feele it:</L>
+<L>My deere, dearest Queene is dead.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>The Queene dead!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What said she last!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Commend me to the King</L>
+<L>And tell him this, mine honour is not wrack'd,</L>
+<L>Though his Loue bee.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And so her heart-strings crackt!</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Some tricke vpon my life, State-coniuring</L>
+<L>To raise vp Diuels in Prisons, and i'th darke:</L>
+<L>If she be dead, Ile see her.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Villanous man,</L>
+<L>Thou see what we haue inioy'd, thou impudent foole</L>
+<L><PB N="68" REF="37"/>
+Away, <HI>Iago</HI> giue this tumbling Whale</L>
+<L>Empty barrels to play with, till this troublous Seas</L>
+<L>(Which he more raging makes) good Heauen appease.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Well, I say nothing, Birds in Cages mourne</L>
+<L>At first, but at last sing; I will take my turne.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Queene dead, I shall now haue riming slaues</L>
+<L>Libell vpon vs, giuing her innocent wings</L>
+<L>But say we murdered her, scandall dare strike Kings:</L>
+<L>Then here's another Moone of <HI>Spaine</HI> Eclips'd,</L>
+<L>One whom ourbest lou'd Queene put in her bosome,</L>
+<L>For sweetnesse of pure life, integritie,</L>
+<L>And (in Court beauties wondrous) honesty,</L>
+<L>Shee's mad too, <HI>Lupo, Tormiella's</HI> mad!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Mad!</L>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>As a March whore.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Mad, shall I worke vpon her?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Vse thy skill.</L>
+<STAGE>Exit Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>I would to Heauen your highnesse—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! the Queene! was she not at my elbow?</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Here was nothing.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I must not liue thus, <HI>Iago</HI> if I lye</L>
+<L>After the kingly fashion without a woman</L>
+<L>I shall run mad at midnight; I will marry</L>
+<L>The Lunaticke Lady, she shall be my Queene,</L>
+<L>Proclaime her so.</L>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>Your highnesse does but jest!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>All the world's franticke, mad with mad are best.</L>
+<STAGE>Exit</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>Wretched state of Kings, that standing hye,</L>
+<L>Their faults are markes, shot at by euery eye.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Tormiella, Malevento, Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>Giue me the key, make all fast, leaue vs, Ile skrew her wits to the right place.</P>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L><HI>Apollo</HI> blesse thee.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Are not you a woollen-Draper?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<PB N="69" REF="37"/>
+<SPEAKER>Tor.</SPEAKER>
+<L>Whether is a womans life measured by the Ell or the Yard.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>All women by the Yard sure, it's no life else.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<P>I'me now neare seuenteene yeares old, if I should dye at these yeares, am I not a foole.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>Yes marry are you, for the Law allowes none to be of discretion, till they come to twenty one.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<P>Out vpon you, you are a Lawyer, pray get you hence, for you'l not leaue me clothes to my backe if I keepe you company, I'me mad enough now, and you'l make me starke mad.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>I am not what I seeme, no Doctor I</L>
+<L>But by your Husband sent in this disguise</L>
+<L>To sound your bosome.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>You bob for Eeles, doe you not?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Here has he lockt his mind vp, but for mee</L>
+<L>To put a burning linstocke in a hand</L>
+<L>That may giue fire, and send my Soule in powder,</L>
+<L>I know not, pardon me, fare you well Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Hist doe you heare?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>The eyes of mercy guard thee</L>
+<L>Were't knowne for what I venter'd thus, 'twere death,</L>
+<L>Ile to your husband.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Stay, I am not mad</L>
+<L>Yet I haue cause to raue, my wits like Bels</L>
+<L>Are backward rung, onely to fright the Tyrant</L>
+<L>That whilst his wild lust wanders, I may flye</L>
+<L>To my sweet husbands armes, here I haue hid</L>
+<L>The traines I meane to lay for mine escape.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Excellent, he shall second you.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Should any watch vs!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>All's fast, run mad agen then, the King thinks</L>
+<L>Me some rare fellow, you shall leaue the Court</L>
+<L>Now if you'l taste my Counsell.</L>
+</SP>
+<SP>
+<SPEAKER>Torm.</SPEAKER>
+<L>Ile drinke gall to cure mee of this sicknesse.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Sit then downe here</L>
+<L><PB N="70" REF="38"/>
+Ile bind you fast because it shall appeare,</L>
+<L>That you grow worse and worse, then will I tell</L>
+<L>The King, the onely course to leaue you well,</L>
+<L>Is to remoue you home to mine owne Lodging,</L>
+<L>Ile bind you.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>For euer to thee.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Once hence, you may fiye</L>
+<L>To th' <HI>Straights,</HI> and then crosse o're to <HI>Barbary:</HI></L>
+<L>So, th' art a Strumpet.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>What's that you speake!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>A damn'd one;</L>
+<L>Dost thou not know me! I am <HI>Gazetto!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Mercy.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Who like a ball of wild-fire haue beene tost</L>
+<L>To make others sport, but here I burst and kill:</L>
+<L>A periur'd Strumpet.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I am none,</L>
+<L>My Father swore that I should marry thee,</L>
+<L>And then a Tyger and a Lambe had met,</L>
+<L>I ne're was thine, nor euer will be.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Sweare thou art not mine,</L>
+<L>That when I see thy heart drunke with hot oathes,</L>
+<L>This Feind may pitch thee reeling into Hell,</L>
+<L>Sweare that thou art not mine.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>By heauen I am not,</L>
+<L>To proue I sweare right to thee, change that weapon,</L>
+<L>See at my Girdle hang my wedding kniues,</L>
+<L>With those dispatch mee.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>To th' heart?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Ayme right I beseech thee.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Ile not kill thee now for spight</L>
+<L>Because thou begst it.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Then good villaine spare me!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Neither, heere's that shall sinke thee; to the King</L>
+<L>Thy iugling and these Letters shall be showne.</L>
+</SP>
+<SP>
+<PB N="71" REF="38"/>
+<SPEAKER>Tor.</SPEAKER>
+<L>Vpon thy head be my confusion</L>
+<L>The King! I shall both feed his rage and lust,</L>
+<L>First doome me to any Tortures!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Thou shalt then sweare—</L>
+<STAGE>Vnbinds her.</STAGE>
+<L>Because I know he'll force the tye a knot,</L>
+<L>The Church must see and figh at, if he marries thee,</L>
+<L>Sweare when he comes to touch thy naked side,</L>
+<L>To bury him in those sheets, thou art his Bride.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>By Heauen that night's his last, my iust hart keepes</L>
+<L>This vow grauen there.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Till then my vengeance sleepes,</L>
+<L>Where is the King?</L>
+<STAGE>Enter King, Iago, Alphonso, Malevento.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>I haue refin'd</L>
+<L>That Chaos which confounded her faire mind.</L>
+</SP>
+<SP>
+<SPEAKER>Kin.</SPEAKER>
+<L>Moue in thy voice the Spheares, whē next thou speakst, <HI>Tormiella.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>I am well my fearefull dreame</L>
+<L>Is vanisht, thankes to Heauen and that good man.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thou giu'st me another Crowne, oh <HI>Vindicados,</HI></L>
+<L>The axletree on which my Kingdome moues,</L>
+<L>Leanes on thy shoulders, I am all thine; <HI>Tormiella!</HI></L>
+<L>Bright <HI>Cynthia</HI> looke not pale, <HI>Endimions</HI> heere,</L>
+<L><HI>Hymen</HI> shall fetch a leape from Heauen t'alight</L>
+<L>Full in thine armes, backe thou blacke ominous night.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Cordolente.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Signior <HI>Lupo,</HI> why <HI>Don,</HI> not know me, I am the poore Shopkeeper, whose ware is taken vp by the King.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>You lye.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>True, as Iudges doe with their wiues, very seldome, I am <HI>Cordolente</HI> a poore Gudgin diuing thus vnder water, to see how <HI>Neptune</HI> and his Mermaides swim together, but dare not come neare him, for feare he sets Dogfish to deuoure me.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>An excellent maske against the marriage, now get a pri∣vate Coat, the King meanes to haue you stab'd.</P>
+</SP>
+<SP>
+<PB N="72" REF="39"/>
+<SPEAKER>Cor.</SPEAKER>
+<P>He does that already, with the bodkin that sticks in my wifes hayre.</P>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>He has not the patience to stay the dressing of his meat of thy prouiding, he will haue it taken vp, and eate the flesh raw, he will be married incontinently.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Will she set her hands to my hornes?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>Yes, and set them to your head, she followes the steps of her old grandam, all euils take their names from her, the ills of <HI>Eue,</HI> thy wife for the hoope ring thou marriedst her withall, hath sworne to send thee a Deathes head.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Sworne!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>Sworne, were thy case my case; I would set a Diuell at her elbow in the very Church, I would kill her as she gaue a∣way her hand.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Wilt helpe me to a fit Circle to play the Diuell in?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Ile place thee, Ile put thy foot into the stirrup.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>And I will rid the world of one of his diseases, a loose woman.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Farewell, eate her very hart. <STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>As we feed one vpon another, hungerly—</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Hoboyes: Enter two Fryers setting out an Altar, Enter Iago, Al∣phonso, Gazetto, Malevento, two Churchmen, Tormiella next and the King, Ladies attending, Cordolente steales in, and stands in some by place, the King stayes or sits in a chayre, Tormiella is brought to him, as she is comming the King meets her; as the ring is put∣ting on, Cordolente steps in rudely, breakes them off, Tormiella flyes to his bosome, the King offers to stab him, is held: she kneeles, sues, weepes, Cordolente is thrust out, Gazetto laughs at all, they are preparing to it againe, it Thunders and Lightens: all affrigh∣tedly—Exeunt.</STAGE>
+<STAGE>Enter Cordolente.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Dost thou tell me of thy Proclamations that I am ba∣nisht from the Court, that Court where I came to thee, was none of thine, it belongs to a King that keepes open Court, one
+<PB N="73" REF="39"/>
+that neuer wrong'd a poore Begger, neuer tooke away any mans wife, vnlesse he sent his Purseuant death for her: oh thou daring Sacrilegious royall Theefe; wilt thou rob the Church too, as thou hast me! thrust me out of that house too in the Sanctuary, turn'd Diuell in a crowd of Angels!</P>
+<STAGE>Enter Gazetto.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Why didst not kill her?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I had no power to kill her</L>
+<L>Charmes of Diuinity pull'd backe mine Arme,</L>
+<L>She had Armor of proofe on, (reuerence of the place)</L>
+<L>She is not married, is she, shorten my paines;</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Heauen came it selfe downe, and forbade the Banes.</L>
+<STAGE>Enter Iago.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iag.</SPEAKER>
+<L>You must both to th' King.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Must! we are for him.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Now doe I looke for a fig.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Chew none, feare nothing.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Flourish. Enter King, Tormiella, Valasco, Malevento, Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Has heauen left chiding yet! there's in thy voice</L>
+<L>A thunder that worse frights mee, didst thou sweare</L>
+<L>In bed to kill me, had I married thee?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>It was my vow to doe so.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And did that Villaine,</L>
+<L>That <HI>Lupo Vindicado's,</HI> thrust this vengeance</L>
+<L>Into thy desperate hand?</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>That Villaine swore me</L>
+<L>To speed you, I had dy'd else; me had he murdered,</L>
+<L>When in a Doctors shape he came to cure</L>
+<L>The madnesse which in me was counterfeit,</L>
+<L>Onely to shun-your touches.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Strange preseruation!</L>
+<STAGE>Enter Iago, Gazetto, and cordolente.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Here comes the traytor!</L>
+</SP>
+<SP>
+<PB N="74" REF="40"/>
+<SPEAKER>King.</SPEAKER>
+<L>Diuell, didst thou tempt this woman 'gainst my life?</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>Has she betray'd me, yes, hence Anticke vizors</L>
+<L>Ile now appeare my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Gazetto!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>The same.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I ha warm'd a Snake in my bosome.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>This is he,</L>
+<L>To whom by promise of my mouth, (not hers)</L>
+<L><HI>Tormiella</HI> should ha' beene married, but flying him</L>
+<L>To runne away with this, he in disguise</L>
+<L>Has followed Both thus long to be reueng'd.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>And were not my hands ty'd by your preuention:</L>
+<L>It should goe forward yet, my plot lay there</L>
+<L>(King) to haue her kill thee; this Cuckold her,</L>
+<L>Then had I made him Hawkes-meat.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>Bloudy Varlet.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Rare Prouidence, I thanke thee, what a heape</L>
+<L>Of mischiefes haue I brought vpon my Kingdome,</L>
+<L>By one base Act of lust, and my greatest horror</L>
+<L>Is that for her I made away my Queene</L>
+<L>By this destroyers hand, this crimson Hell-hound</L>
+<L>That laughes at nothing but fresh Villanies.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>The laughing dayes I wisht for, are now come sir</L>
+<L>I am glad that leaping into such a Gulph,</L>
+<L>I am not drown'd, your Queene liues.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<L>She liues; I had no reason to kill her.</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>A better Spirit</L>
+<L>Stood at his elbow, then you planted there,</L>
+<L>My poore Girle your sad Queene, breathes yet.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Long may she,</L>
+<L>Fetch her, commend me to her, cheere her (Father.)</L>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<L>With the best hart I haue.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Let that slye Bawd</L>
+<L>Engine of Hell, who wrought vpon thy Chastity</L>
+<L>Be whipt through <HI>Sivill,</HI> foure such tempting witches</L>
+<L><PB N="75" REF="40"/>
+May vndoe a City come, you wronged paire</L>
+<L>By a King that parted you, you new married are.</L>
+<L>Inioy each other and prosper.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I doe already,</L>
+<L>Feeling more ioyes then on my Wedding day,</L>
+<L>I nere till now was married.</L>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>Nor I euer happy vntill this houre.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Nor I, as I am true Lord.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No sir, y'are no true Lord, you haue a title,</L>
+<L>A face of honour, as in Courts many haue,</L>
+<L>For base and seruile prostitutions,</L>
+<L>And you are such a one, your Daughters fall</L>
+<L>Was first step to your rising, and her rising</L>
+<L>Againe to that sweet goodnesse she neuer went from,</L>
+<L>Must be your fall, and strip you of all honours</L>
+<L>Your Lordship is departed.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<L>Does the Bell ring out! I care not</L>
+<P>Your Kingdome was a departing too, I had a place in Court for nothing, and if it begon, I can loose nothing; I ha' beene like a Lord in a play, and that done, my part ends.</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes sir, I purge my Court of such Infection.</L>
+</SP>
+<SP>
+<SPEAKER>Mal.</SPEAKER>
+<P>I shall find-company i'th City I warrant; I am not the first hath giuen vp my Cloake of honour.</P>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Valasco, Iohn, and Queene.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Oh my abused heart, thy pardon, see</L>
+<L>I haue sent home my stolne goods:</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Honestly!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>As she was euer; now with full cleere eyes</L>
+<L>I see thy beauty, and strange Cheekes despise.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>You call me from a graue of shame and sorrow.</L>
+<L>In which I lay deepe buried.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>From a graue likewise</L>
+<L>Your Maiestie calls me, I haue lookt backe</L>
+<L><PB N="76" REF="41"/>
+On all my poore Ambitions, and am sorry,</L>
+<L>That I fell euer from so bright a Spheare,</L>
+<L>As is the Loue of such a royall brother.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Be as you speake, we are friends, it was our will</L>
+<L>To let you know, we can, or saue, on kill.</L>
+</SP>
+<SP>
+<SPEAKER>Ioh.</SPEAKER>
+<L>Your mercy new transformes me.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sirrah your sauing</L>
+<L>My Queene, when I confesse (lust me so blinded)</L>
+<L>I would haue gladly lost her; giues thee life.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>First I thanke Heauen, then him, and at last you.</L>
+</SP>
+<SP>
+<SPEAKER>Gaz.</SPEAKER>
+<P>I had not the heart to hurt a woman, if I had, your little face had beene mall'd ere this, but my Angers out, forgiue me.</P>
+</SP>
+<SP>
+<SPEAKER>Tor.</SPEAKER>
+<L>With all my heart.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Pray noble brother loue this man, he's honest,</L>
+<L>I ha' made of him good proofe, we should haue had</L>
+<L>A wedding, but Heauen frown'd at it, and I</L>
+<L>Am glad 'tis croft, yet we'll both Feast and dance,</L>
+<L>Our Fame hath all this while laine in a Trance:</L>
+<L>Come <HI>Tormiella,</HI> well were that City blest,</L>
+<L>That with but, Two such women should excell,</L>
+<L>But there's so few good, th'ast no Paralell.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="41"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,5182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2004-02-19</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked <SUP>s</SUP>. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 4 $s of 231. Converted 227 $s to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A07971">
+<STC T="S">18339</STC>
+<BIBNO T="umi">99848285</BIBNO>
+<VID>13369</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>COVENT
+GARDEN:
+A PLEASANT
+COMEDIE:
+Acted in the YEARE, MDCXXXII.
+By the <HI>Queenes</HI> Majesties Servants.</P>
+<P><HI>The Author</HI>
+THOMAS NABBES.</P>
+<P><HI>LONDON,</HI>
+Printed by RICHARD OULTON, for
+CHARLES GREENE; and are to be
+sold at the Signe of the White <HI>Lyon,</HI> in
+PAULS <HI>Church-yard.</HI>
+1638.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO
+THE RIGHT WORTHY
+OF HIS HONOVRS
+Sr. JOHN SUCKLING
+Knight.</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P><SEG REND="decorInit">T</SEG>Here is no excuse for this my
+presumption, but a presump∣tion
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>pon your <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/></P>
+<P>It is likewise an error in
+my weaknesse, to put so meane a piece to
+a second tryall; when in your perusall it
+will meet with a more piercing judge∣ment,
+then the <HI>Stages,</HI> that gave it
+some partiall allowance. For the stile,
+'tis humble:
+<Q><GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>rpit humi tutus nimium, timidus{que} procellae.</Q></P>
+<P><PB REF="3"/>
+Your owne is <HI>Pindarus,</HI> mine <HI>Bacchy∣lides.</HI>
+Yet I would have endeavour'd to
+make the persons speake better, had it
+been proper to their condition. As you
+are a <HI>Patron</HI> to all good endeavours, you
+merit to be the subject of many <HI>Encomi∣ums:</HI>
+But your selfe by your selfe in ma∣king
+the world (which can never be suf∣ficiently
+gratefull for it) happy in the
+publication of your late worthy labour,
+have prevented the intentions of many to
+dignifie that in you which is so farr above
+them. My hope is, that by your favoura∣ble
+acceptance of this, I may gaine some
+opinion with others; to whom I have and
+alwayes do declare my selfe in my desires
+ambitious to be knowne by you at the be∣coming
+distance of</P>
+<CLOSER><SIGNED>Your honourer and humble Servant
+THOMAS NABBES.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="3"/>
+<HEAD>The PROLOGVE.</HEAD>
+<L>DOe not expect th' <HI>abuses</HI> of a <HI>Place;</HI></L>
+<L>Nor th'ills sprung from a Strumpets painted <HI>face</HI></L>
+<L>To be exprest. Our <HI>Author</HI> doth not meane</L>
+<L>With such vile <HI>stuffe</HI> to clothe his <HI>modest Scoene.</HI></L>
+<L>Nor doth he brand <HI>it</HI> with a <HI>Satyres</HI> marke;</L>
+<L>But makes a <HI>Justice</HI> wiser then his <HI>Clerke.</HI></L>
+<L>His <HI>Rusticks</HI> likewise will pretend to <HI>Wit:</HI></L>
+<L>So all the <HI>Persons</HI> which wee counterfeit.</L>
+<L>He justifies that 'tis no borrow'd <HI>Straine,</HI></L>
+<L>From the invention of anothers <HI>braine.</HI></L>
+<L>Nor did he steale the <HI>Fancie.</HI> 'Tis the same</L>
+<L>Hee first intended by the <HI>proper Name.</HI></L>
+<L>'Twas not a toyle of <HI>yeares:</HI> few <HI>weekes</HI> brought forth</L>
+<L>This <HI>rugged Issue,</HI> might have beene more worth</L>
+<L>If he had lick'd <HI>it</HI> more. Nor doth he raise</L>
+<L>From th' imitation of <HI>authenticke Playes</HI></L>
+<L><HI>Matter</HI> or <HI>words</HI> to height: nor bundle up</L>
+<L><HI>Conceits</HI> at <HI>Tavernes</HI> where the <HI>Wits</HI> doe sup.</L>
+<L>His <HI>Muse</HI> issolitary, and alone</L>
+<L>Doth practise her low <HI>speculation.</HI></L>
+<L>He hath no <HI>faction</HI> in a partiall <HI>way,</HI></L>
+<L>Prepar'd to <HI>cry it up,</HI> and boast the <HI>Play,</HI></L>
+<L>Swelling your <HI>expectations:</HI> hee relies</L>
+<L>Meerely upon your <HI>ingenuities.</HI></L>
+<L>The <HI>Matter's</HI> weake: how can the <HI>Building</HI> stand?</L>
+<L>Yes; if supported by a <HI>gratious Hand.</HI></L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="4"/>
+<HEAD>The PERSONS.</HEAD>
+<LIST>
+<ITEM>DVNGVVORTH. <HI>A Countrey</HI> Gentle∣man.</ITEM>
+<ITEM><LIST>
+<ITEM>RALPH.</ITEM>
+<ITEM>DOBSON.</ITEM>
+</LIST> His Servants.</ITEM>
+<ITEM>Mris. TONGALL. <HI>A busie Gossip.</HI></ITEM>
+<ITEM><HI>THEODORE ARTLOVE.</HI> A compleat Gentleman.</ITEM>
+<ITEM><HI>LITTLEWORD.</HI> A reputed Witt.</ITEM>
+<ITEM>HVGH IERKER. <HI>A wilde Gallant.</HI></ITEM>
+<ITEM><HI>IEFFEREY IERKER.</HI> A lad of the same humour.</ITEM>
+<ITEM>DOROTHY WORTHY. <HI>Daughter to</HI> Sir GENE.</ITEM>
+<ITEM><HI>SVSAN.</HI> A Waiting-woman to the <HI>Lady.</HI></ITEM>
+<ITEM>WARRANT. <HI>Clerke to</HI> Sir GENEROVS.</ITEM>
+<ITEM><HI>SPRVCE.</HI> Gentleman Vsher to the <HI>Lady.</HI></ITEM>
+<ITEM>Lady WORTHY.</ITEM>
+<ITEM>Sir GENEROVS WORTHY.</ITEM>
+<ITEM>Young WORTHY. <HI>His Son.</HI></ITEM>
+<ITEM><HI>DASHER.</HI> A complementing Vintener.</ITEM>
+<ITEM>DRAVVER.</ITEM>
+<ITEM>CONSTABLE.</ITEM>
+</LIST>
+<P><HI>The</HI> Scoene COVENT-GARDEN.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<PB N="1" REF="4"/>
+<HEAD>Act. 1. Scoen. 1.</HEAD>
+<STAGE>Enter <HI>DVNGVVORTH, RALPH,</HI> and
+<HI>DOBSON,</HI> as newly come to Towne by
+the right <HI>SCOENE.</HI></STAGE>
+<SP>
+<SPEAKER>DOBSON.</SPEAKER>
+<P>_<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> we are come to <HI>London,</HI> fellow <HI>Ralph</HI>
+what shall we doe? or what course will our
+Master take with us?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Why, <HI>Dobson;</HI> he may doe what
+he will, and wee will doe what we list. A
+little instruction and practice will make
+us wicked enough, I dare warrant thee.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>I hope we are not to learne that. But all this while
+the Plough stands still.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Sha, <HI>Dobson;</HI> thy mind's upon nothing but dirt.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Indeed heer's store of it, ankcle deepe.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>What place is this <HI>Ralph?</HI> thou knowst <HI>London.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>It should be COVENT-GARDEN; but 'tis
+much alter'd since I was here last.</P>
+</SP>
+<SP>
+<SPEAKER>Dungw.</SPEAKER>
+<P>A <HI>Garden</HI> call you it! 'Tis a very barren one.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>I would I were at home againe, amongst the
+<HI>Creame-bowles.</HI></P>
+</SP>
+<SP>
+<PB N="2" REF="5"/>
+<SPEAKER>Ralph.</SPEAKER>
+<P>I cou'd be content to have the tother sm<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cke at o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>r
+<HI>Gillian</HI> the Dayry-Maids sugar-candy—</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>How, fellow <HI>Ralph!</HI> you kisse my Sweet-heart
+<HI>Gillian!</HI> pronounce it againe, and by the faith of a new
+made Serving-man, that puts his whole trust in his Live<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>y
+and the Quarter-dayes, I will kill thee presently, and chal∣lenge
+thee the next Holi-day before the Congregation.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Kill me fi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>st, and then challenge me! for a kisse
+or two! nay, good <HI>Dobsox;</HI> she has lips big enough to serve
+us both. Prethee lets not fall o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>t and beat one another:
+these people would but laugh at us for't.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Indeed 'tis a jolly company. Dwell they all here
+abouts?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>I scarce thinke they are all of one Parish, neither
+doe they goe to one Church. They come onely for an eve∣ning
+recreation <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>o s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e COVENT-GARDEN.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Blessings on their hearts for it. 'Tis a goodly place.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>And a god<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>y one too if rumour lie not.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>What are all these things with rayles?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>I thinke mewes for hawkes, or ayrings for gen∣tles.
+Other hawkes are not here in any request.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Mewes for hawkes, thou wouldst make mee a
+Buzzard.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Dost thinke we shall dwell hereabouts?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>I hope so: we shall then be n<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ere the <HI>Cock-p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>t,</HI>
+and see a Play now and then.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>But tell me <HI>Ralph,</HI> are those Players the ragged
+fellowes that were at our house last <HI>Christmas,</HI> that bor∣rowed
+the red blanket off my bed to make their Major a
+gowne; and had the great Pot-lid for <HI>Guy</HI> of <HI>Warwicks</HI>
+Buckler?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>No, <HI>Dobson;</HI> they are men of credit, whose acti∣ons
+are beheld by every one, and allow'd for the most part
+with commendations. They make no yearely Progresse
+with the <HI>Anatomy</HI> of a S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>mpter-horse, laden with the
+sweepings of <HI>Long-lane</HI> in a dead Vacation, and purchas'd
+<PB N="3" REF="5"/>
+at the exchange of their owne whole Wardrobes. They
+buy not their Ordinary for the Copie of a <HI>Prologue;</HI> nor
+insinuate themselves into the acquaintance of an admiring
+<HI>Ningle,</HI> who for his free comming in, is at the expence of
+a Taverne Supper, and rinses their bawling throats with
+Canarye.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>But I would I had stay'd still in the Countrey,
+now Sports are tollerated, in despite of Justice, <HI>Trouble∣some's</HI>
+malicious Authoritie. I had rather see a Morris∣dance
+and a May-pole, then ten Playes: what care I for
+wit which I understand not?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>The duller Asse tho<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>How, Asse to my face! provoke me no more
+with such foule language, lest I enter and act thy Tragedy.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Nay, prethee fellow <HI>Dobson;</HI> if we abuse our
+selves sometimes, 'twill be the better taken when wee a∣b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>se others.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>To morrow Ile have you acco<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>tred in liveries,
+and put my selfe into a gentile garbe. I am resolv'd to for∣sake
+the Countrey profession of mine Auncestors; and
+meane to turne Gallant. Ile sell some few dirty Acres, and
+buy a Knighthood: Ile translate my Farme of <HI>Dirt-all</HI> in∣to
+the Mannor of <HI>No-place.</HI> Would I were acquainted
+with an honest Scrivener.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>You wish an impossibility, unlesse the Pillory
+were more terrible.</P>
+</SP>
+<SP>
+<SPEAKER>Dobson.</SPEAKER>
+<P>But doe you meane to sell your Land?</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Yes indeed; I shall be the likelier to goe to hea∣ven
+when I forsake earth.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>But 'tis a dangerous way through a Scriveners
+conscience.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>What dost tell me of danger! 'Tis the Cowards
+bug-beare; a scar-crow to City gulls, that dare not weare
+swords for feare of being challeng'd.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Nay, my Master is as tall a man of his inches.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Yes, <HI>Dobson;</HI> thou hast seene me doe something.
+<PB N="4" REF="6"/>
+But sirrah, let it be your charge to finde out a good Inne;
+see Crop eat his meat.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Ile warrant Sir, hee'l cat his meate, and 'twere
+Good-friday.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Had he but cares then, hee might make a very
+good Puritan horse.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Indeed, their best vertue is to heare well.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>But their doing sometimes, begets a hotter zeale
+in the Sister-hood.</P>
+</SP>
+<SP>
+<SPEAKER>Dungw.</SPEAKER>
+<P>I'le have a lodging heere. Prethee aske that
+Gentlewoman; shee seems an inhabitant.</P>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>The second Scoene.</HEAD>
+<STAGE>Enter <HI>Mris. TONGALL,</HI> by the right <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Pray Master, know you hereabouts any conve∣nient
+Lodgings?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Many Sir, for convenient persons.</P>
+</SP>
+<SP>
+<SPEAKER>Dungw.</SPEAKER>
+<P>Of credit, and unsuspicious.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>It is not in my understanding; wherefore the
+satisfaction I can give you will be doubtfull. I know none
+of my neighbours better then my selfe. I have as hand∣some
+Lodgings as any are in <HI>Covent Garden:</HI> my fore∣roomes
+have a faire prospect, and my back-roomes a
+sweet ayre.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Which is not usuall backwards.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>May we see them?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>If you please to let that Taverne receive you
+till I have made them ready, I will returne and give you
+notic<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>I'le sup there: shall I intreat your company?</P>
+</SP>
+<SP>
+<SPEAKER>Tong▪</SPEAKER>
+<P>I shall be ready to fulfill your desires.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>And we our bellies: hitherto, we have had but
+a hungry journey of it.</P>
+</SP>
+<STAGE>Dungwell and Dobson goe forth by the left <HI>Scoene.</HI></STAGE>
+<SP>
+<PB N="5" REF="6"/>
+<SPEAKER>Tong.</SPEAKER>
+<P>My friend, pray what's your Masters name?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>What if it be not in my Commission to tell you?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>My demands are civill and for no hurt. I must
+know before my house can give him entertainment.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>But I must not tell you, till I have a mind to <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>.
+You may be the agent to an Informer: doe you not cor∣respond
+with the Summer and Apparitour, to keepe your
+selfe off some deserv'd punishment.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>I am a patient bearer.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Not unlikely, I have heard there are many such
+in <HI>Covent-Garden.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>I meane with your unmanerlinesse.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>If a downe-right▪ Countrey thing will please
+you.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>A downe-right! you make me blus<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>This interest then, and—</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>So Sir, the termes are not equall for such fami∣liaritie.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Why then you must seeke you a more proporti∣on'd
+Schoole-master to enter you farther, and teach you
+my Masters name. The Wine stayes, and I want it.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Good friend stay a little, and tell me thy Ma∣sters
+name.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>What agen! Fare you well, I have forgot it.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Nay, prethee friend: my knowledge of it may
+much concerne his, or (if not) thy good. My daughter
+<HI>Iynny's</HI> a handsome girle, he that pleaseth me best shall
+have her.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>I rather thinke hee shall have her that pleaseth
+her best, else I shall doubt her for a woman. But how
+can s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e concerne our goods? your instance.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Nay, credit me upon my word, 'tis earnest.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>A Womans word! 'tis not worth an ounce of
+feathers. Besides, you may be under covert barne. Have
+you not a Husband?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Yes indeede.</P>
+</SP>
+<SP>
+<PB N="6" REF="7"/>
+<SPEAKER>Ralph.</SPEAKER>
+<P>What's his profession?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>An under-Lawyer, an Attourney.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>His word may be taken in the terme for a gown-facing
+or so: but to doe any man good, is worth a double
+fee, if he performe it. Mistris, if you must know my Ma∣sters
+name, goe to <HI>Carterton</HI> in the Countie of <HI>Sussex,</HI> and
+there in the Church-Register you shall finde, that <HI>Roger</HI>
+the sonne of <HI>Rowland Dungworth</HI> of <HI>Dirtall</HI> Farme in the
+Parish of <HI>Carterton</HI> aforesaid, was baptised—But stay,
+I'le know first if he be resolved to continue a Christian;
+'tis ordinary to change names with religion. Besides, hee
+means to be a Knight; and <HI>Dungworth</HI> will stink in the de∣licate
+nostrils of a Lady: it may make the heraul<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>s give
+him a mock-coate with three kennell-rakers. Farewell
+sweet Mistris, and if my Master chance to lie at your house,
+I should be glad if I might lie over your Daughter.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Farewell good friend. The Gentleman to lye at
+my house! very good. I must project a profit out of
+the accident; a new Gowne, or a Beaver, or some com∣position
+with a bond of assurance, when I procure him a
+good Wife. Perhaps hee shall have my Daughter <HI>Iynny.</HI>
+Who would thinke this little body of mine were so busie
+in stirring actions, Master <HI>Theodore Art-love!</HI></P>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>The third Scoene.</HEAD>
+<STAGE>Enter <HI>ART-LOVE</HI> by the right <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Mistresse <HI>Tongall,</HI> you are delighting your selfe
+with these new erections.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Faire erections are pleasing things.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Indeed they are faire ones, and their uniformity
+addes much to their beauty.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>How like you the Balconee's? They set off a
+Ladies person well, when she presents her selfe to the view
+<PB N="7" REF="7"/>
+of gazing passengers. Artificiall fucations are not dis∣cern'd
+at distance.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Pray which is Sir <HI>Generous Worthie's</HI> house?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Your desires (I believe) are bent towards his
+faire Daughter. Let me ayd you: my neighbour-hood
+hath interested me in her acquaintance; I can make way;
+and truely Mr. <HI>Art-love</HI> I like you so well, that (were she
+worthy) you should have my daughter <HI>Iynnye.</HI> But doe
+you love Mistris <HI>Dorothy?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>I have seene her beauty, and her nimble eyes</L>
+<L>Have shot a fire into me, that inflam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>'s</L>
+<L>My cold desires. I that have resisted</L>
+<L>Th' assaults of passion to a perfect conquest;</L>
+<L>And call'd it (justly too) the height of folly</L>
+<L>To give that wanton Power the attribute</L>
+<L>Of a false Deity: I, that have out-gone</L>
+<L>Th' example of <HI>Zenocrates,</HI> am captiv'd;</L>
+<L>But by a Beauty, such as would review</L>
+<L>Heat in the frozen bosome of an <HI>Anchorite,</HI></L>
+<L>Who hath spent his age even to decrepitnesse</L>
+<L>In such austerities as would mortifie</L>
+<L>The strongest pamperd wantonnesse. I cove<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/></L>
+<L>A good successe, but faile in't. Never yet</L>
+<L>Could I be blest with opportunity</L>
+<L>To shew her my desires, and to try</L>
+<L>The fortune of perswasion.</L>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>And would you not use me! hath so long pra∣ctise
+in match-making made me politicke to contrive, and
+my conversation with your selfe and the rest of the Wits
+made me complementall, and doe you thinke I cannot fa∣cilitate
+your entrance to Mistris <HI>Dorothy?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Should I be fortunate in my attempts</L>
+<L>To win her liking; should my person please her,</L>
+<L>Or that annexion to my better part</L>
+<L>Of education, yet the disparitie</L>
+<L>Betwixt our states, checks me from hoping</L>
+<L><PB N="8" REF="8"/>
+That the designe can prosper. The lighter fire</L>
+<L>Nere mixeth with the earth, but to confusion:
+Or from their severall natures bringing forth
+Events prodigious.</L>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Why, you are an Heyre to a thousand pound a
+yeare. An officious lye may be dispens't with.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>But simple honesty</L>
+<L>Clad in the naked livery of truth</L>
+<L>Is a most glorious vertue, that preserves</L>
+<L>White innocence unstain'd with falshood.</L>
+<L>Good meanes as well as good intention</L>
+<L>Must make an act good.</L>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>If you have such a tender conscience, so religi∣ously
+scrupulous, you'l never be a Politician.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Let those that study mischiefe</L>
+<L>To satisfie their sensualties</L>
+<L>Practise such wickednesse. I'de not abuse</L>
+<L>A noble goodnes to possesse the <HI>Indies.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>But heere's one will, and I must ayd him int▪
+Mr. <HI>Littleword.</HI></P>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>The fourth Scoene.</HEAD>
+<STAGE>Enter <HI>LITTLEVVORD, IERKER</HI> and <HI>IEFFERY,</HI>
+by the right <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Friend <HI>Art-love,</HI> the good fortune of a petticote
+light upon thee, in the name of Venery what mak'st thou
+here? art' in quest of a smock-bedfellow.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Thy old humour still friend.</P>
+</SP>
+<SP>
+<SPEAKER>Ierker.</SPEAKER>
+<P>Prethee salute this little gentleman my Cousin:
+he hath more age and wit then his small proportion doth
+promise.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>I shall be ready to serve him.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Your acquaintance will adde much to my hap∣pinesse.</P>
+</SP>
+<SP>
+<PB N="9" REF="8"/>
+<SPEAKER>Ierk.</SPEAKER>
+<P>He hath gotten leave of his Vncle to liue here in
+my tuition. Hee thrive's well in his conceit, a right <HI>Ier∣ker;</HI>
+he begins to love a wench already.</P>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<P>Thy instruction and example will soone enable
+him that way.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Is not that a wench Cousin?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Try Cos. and satisfie your selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>My <HI>Little-word,</HI> if your salute be ended, pray re∣signe.
+Nay, Mistris, I can kisse you without the helpe
+of a joyn'd stoole: please you to walke, and let my hand
+support you.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Whither pray you little sir?</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>To the next vaulting<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>schoole.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Alas, you cannot get up without a stirrop.</P>
+</SP>
+<SP>
+<SPEAKER>Ieff.</SPEAKER>
+<P>Yes, and ride too without falling; please you to
+trye my activenesse.</P>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Prethee recall thy wonted goodnesse home,</L>
+<L>And with a vertuous scorne shake off this habit</L>
+<L>Of loose desires; it hath infection in it.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Nothing comes from thee but documents. I
+sweare I should love thee much better if thou hadst lesse
+vertue. I prethee leave thy <HI>Stoicisme,</HI> and become an Epi∣cure
+with me. My little Cos. here shall prove with unde∣nyable
+arguments that drinking and wenching are the one∣ly
+vertues in a gentleman of the last edition: to be excel∣lent
+at them is a master-piece of education. Besides, they
+are the onely <HI>acumens</HI> of wit.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Yes, to disease it.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Take heed thy iudgement be not brought in que∣stion.
+Why diseas'd wits are—</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Better play at small game then sit out. A young
+gamester may throw in and in.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Very seldome with three dice. Can your littlenesse
+cogge?</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Faire play is a gamesters glory. I love to shake the
+boxe well, and than let them run their length.</P>
+</SP>
+<SP>
+<PB N="10" REF="9"/>
+<SPEAKER>Artl.</SPEAKER>
+<L>Yes, I confesse it; where there is an union</L>
+<L>Of loving hearts, the joy exceed's expression.</L>
+<L>That love is vertuous whose desires doe never</L>
+<L>End in their satisfaction, but increase</L>
+<L>Towards the object. When a beautious frame</L>
+<L>Garnish't with all the lustre of perfection</L>
+<L>Invite's the eye, and tells the searching thoughts</L>
+<L>It holds a richer minde, with which my soule</L>
+<L>Would rather mixe her faculties.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Iudge not of a man by his outward dimensions:
+My shape is not so defective to make you doubt perfor∣mance:
+let's finde out a convenient place and try.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Alas little one, you'l lose your selfe: you'l never
+hit the way home.</P>
+</SP>
+<SP>
+<SPEAKER>Ierker.</SPEAKER>
+<L>'Tis a blisse above the faign'd <HI>Elysium</HI></L>
+<L>To claspe a dainty waste; to kisse a lip</L>
+<L>Melts into <HI>Nectar;</HI> to behold an eye</L>
+<L>Shoot amorous fires, that would warme cold Statues</L>
+<L>Into a life and motion; play with hayre</L>
+<L>Brighter then that was stellifyed.</L>
+<L>And when the wanton appetite is cloy'd</L>
+<L>With thousand satisfactions of this kind,</L>
+<L>Then follow's th' absolutenesse</L>
+<L>Of all delight. But were desire restrain'd</L>
+<L>From variation, soone 'twould satiate,</L>
+<L>And glut it selfe to loathing.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Please you to drinke a pint or two of wine? there
+may be provocation in it.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Preserve your courtesie child, and your money:
+Lent's at hand, and then every street will afford boyes re∣creation.</P>
+</SP>
+<SP>
+<SPEAKER>Ieff.</SPEAKER>
+<P>Why how now impudence! do you slout a man?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>How, a man Cousin!</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>I want not so much of my full age to bee cal'd
+a boy.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>But you must not fall out with the Gentlewoman.</P>
+</SP>
+<SP>
+<PB N="11" REF="9"/>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>I desire rather to have fal'n in with her.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>I would not have you so forward Cousin. You
+must be sure to deale with sound ware.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>What care I? 'tis but the losse of a mans hayre;
+an excrementall ornament: wit consists not in't. A man
+may cover his baldnesse with a periwig, and the fashion
+take's away the suspition. I hope I came to <HI>London</HI> to
+learne wit and the fashion.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Come Mr. <HI>Little-word.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Adiew Mistris <HI>Tongall.</HI></P>
+</SP>
+<STAGE>Exeunt Tongall and Little-word, by the right <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>I tooke her rather for a Wag-taile.</P>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<P>What silent Gentleman's that?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>His Character in his owne language is I and no;
+yet he speaks well in paper. He is a wit, but somewhat
+a dull one.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>What serious affaire have they together?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>There are hidden pollicies in the world. Thou
+hast a bookish humour; I a wenching one; and why may
+not his dulnes dreame of some rich match! Mris. <HI>Tongal's</HI>
+the onely match-maker in the Towne.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Those words create a hell of torment in me.</L>
+<L>Is there no love</L>
+<L>But what's attended by vaine jealousie!</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Art thou in love?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Yes, passionately.</L>
+<L>My dreamings, wakings, thoughts and actions</L>
+<L>Are nothing but desire.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>I can assoone credit an impossibility. Thou in
+love! why 'tis more improbable then the projection of
+draining Marsh-land with a wind-mill. But prethee what
+is shee?</P>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<PB N="12" REF="10"/>
+<HEAD>The fifth Scoene.</HEAD>
+<STAGE><HI>Enter</HI> DOROTHY SVSAN <HI>in the</HI> Balcone.</STAGE>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>See where my comforts Sun</L>
+<L>Breaks through a clowd. Oh that this unkind distance</L>
+<L>Might be contracted into lesser ayre:</L>
+<L>I'de then convey my whispers to her eares;</L>
+<L>And teach her understanding what delight</L>
+<L>Society hath in it.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Sure thou hast not boldnes enough to speake to
+her. Thou wouldst blush, and fall into some patheticall
+booke discourse, or tell her the story of <HI>Hero</HI> and <HI>Leander,</HI>
+to make her tendernesse whine. Tis not the way. Get
+accesse to her; and after one mannerly salute, double and
+treble thy kisses; tumble her a little, and if opportunity
+serve, offer the rest: Magick hath not a Philter like it.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Is not that a house (Cousin) where the Wen∣ches
+are?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Yes, questionlesse.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>I meane in the sense of—</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Yonder Gentlemen observe us: let's be gone.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Not yet (Mistris <HI>Dorothy.)</HI> Now I have drunke
+a cup of Sack, I must be in love with one of them, him
+that seemes most worthy of a gentleuman.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>You have fall'n my glove.</P>
+</SP>
+<SP>
+<SPEAKER>Sus.</SPEAKER>
+<P>I'le fetch it.</P>
+</SP>
+<STAGE>Exeunt from the <HI>Balcone.</HI></STAGE>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Blest accident;</L>
+<L>Why doe you stop my hast? let me embrace it.</L>
+<L>Thus with religious worship doe I kisse</L>
+<L>What your white hand hath hallow'd. Ha! shee's gone▪</L>
+<L>What envious mischiefe intercepts the meanes</L>
+<L>Of my desired happinesse! or have mine eyes</L>
+<L>Wasted their beames in gazing on the place</L>
+<L><PB N="13" REF="10"/>
+Where I first saw her, to imagination</L>
+<L>Fancying her figure.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Sure Cousin the gentleman is in love; he talks
+very madly.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Where are the powers of my intellect?</L>
+<L>Reason and understanding have forsaken</L>
+<L>Their proper seates, and left strong passions</L>
+<L>To triumph o're this captiv'd <HI>Microcosme.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Now I see thou art mad: but prethee strive to
+conceale it; the place is publique.</P>
+</SP>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>The sixth Scoene.</HEAD>
+<STAGE>Enter <HI>SVSAN</HI> by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Pray you Sir, did you take up a Gentleumans
+glove?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>It was my happinesse, and 'twould be much in∣creased,
+if I might kisse the hand that wore it.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>As I am a Gentleuman I shall be most carefull
+to give your deservings their due commendations.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>May I be bold to enter with you?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>You are a stranger Sir, and it may give occasion
+of jealousie. But I am my Ladies Gentleuman: I keepe
+the key of her secrets, and if you please, her closet shall
+conceale you; where you may dispose of Suckets and
+Eringoe's for your refreshment. I pray Sir, call not a gen∣tleumans
+freenesse immodesty.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>My behaviour shall deserve your good opinion.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Truely Sir, a man could not stand better in the
+conceit of a gentleuman at first sight, then you doe in mine.
+I hope your goodnesse will not misconster my readinesse to
+humble my desires to your disposing.</P>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>You teach me language which my selfe should use:</L>
+<L>But if my gratitude doth seeme to want</L>
+<L>Verball expression, I had rather act</L>
+<L><PB N="14" REF="11"/>
+Then promise what I owe you.</L>
+</SP>
+<SP>
+<SPEAKER>leffr.</SPEAKER>
+<P>This is pretty foolery, Cousin.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Sir, you appeare so repleat with goodnesse, that
+I presume you cannot but answer the desires of a gentle∣uman,
+who proft<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ates her love at the feete of your ac∣ceptance.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Doth she love me? what greater secret</L>
+<L>Hath Nature in her Workes then simpathie!</L>
+<L>I do<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> conceive a thousand fond expressions,</L>
+<L>Which throng so fast, they choake the passage up,</L>
+<L>That none can finde an issue.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Out of fooles Paradise: thou art in it. But pray
+you Gentleuman protract not his satisfaction with these
+circumstantiall delayes. Whilst Mris. <HI>Dorothy</HI> and he are
+busie, you and I will tast the sweet-meats in your Ladies
+Closet.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>I understand you not.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>He meanes you should lie under him.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Fie little one, that you should so offend the chast
+eares of a Gentleuman. But to you Sir, the Load-stone of
+my heart, that turnes it selfe at your motions pointing still
+to the North of your Love.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Indeed Mistris 'tis a cold corner, pray turne it to
+the South, and let my needle run in your Diall.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>And since the ardor of my desires have urg'd my
+blushes to discover them; let not your appearing worth
+suffer such a disparagement to conte<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ne a Gentleumans
+willingnesse.</P>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<P>How's this! why friend, did she not seeme to come
+instructed (by direction) with <GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>embassie
+As to prepare my love?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>No, no, she loves thee her selfe. Take her. Me
+thinks shee's very beautifull; what pinken-eyes; what
+a sharpe chin! Why her features transcend <HI>Mopsa's</HI> in
+the <HI>Arcadia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Hath she not studied it Cousin, thinke you? and
+<PB N="15" REF="11"/>
+is transported to a humour of loving every man she sees.</P>
+<P>I have known it in the Countrey in an age-d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cayed wai∣ting-woman.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>I cannot answer her; my heart is bigg
+With other thoughts; which till I am deliver'd of,
+I suffer torments.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Vnfortunate Gentleuman as I am, to be thus re∣jected.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Will you resigne your interest? I'le court her folly.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Take it,</L>
+<L>But not t'abuse the others innocence.</L>
+<L>Whilst I with sighes draw in th' unwilling ayre</L>
+<L>Which she perfum'd at distance.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Pray Gentleuman could you love me a little? I'm
+very sportive.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Truly young Gentleman, I doe not know what
+I may doe when you come to your full growth.</P>
+</SP>
+<SP>
+<SPEAKER>Iaffr.</SPEAKER>
+<P>Blirt my Ladies Gentleuman, who taught you to
+scoffe at a mans person?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Cry ye mercy little Sir; you may be the father
+of dwarfes. The sack begins to leave working and by this
+time my Ladie expects her gentleuman. Farewell, un∣kind
+Sir.</P>
+</SP>
+<STAGE>Goes forth by the middle Scene.</STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Farewell loving Gentleuman. She hath preven∣ted
+me. Sure friend she came but to mocke thee. 'Twas
+little lesse then downeright impudence.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Let's to the Taverne Sir, and drowne this passion
+in a cup of Canary.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Come, come; I was ordained to doe thee good.
+Thou knowst I had a Mistris, whose friends disliking my
+wildnesse, marryed her to the Father of the Gentlewoman
+whom thou lov'st (hornes be his punishment for it.) She
+loves me still; and I doe not despaire of making him Cuc∣kold.
+Wee'l arme our selves with a quart or two, and
+then I'le bring thee to her.</P>
+</SP>
+<SP>
+<PB N="16" REF="12"/>
+<SPEAKER>Artl.</SPEAKER>
+<L>Ayd me love, wit and fate; that my desires</L>
+<L>Burne not themselves without her equall fires.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>More passions yet! It thou the marke wouldst hit,</L>
+<L>Let Sacke inspire thee: 'tis the Soule of Wit.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<L>Sack that makes Prophets; gives a <HI>Poet</HI> birth:</L>
+<L>And then a wench; <HI>Elysium</HI> upon Earth.</L>
+</SP>
+<STAGE>Goe forth by the left <HI>Scoene.</HI></STAGE>
+</DIV2>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<HEAD>Act. 2. Scoen. 1.</HEAD>
+<STAGE>Enter <HI>SVSAN</HI> and <HI>WARRANT,</HI> by the
+middle <HI>SCOENE.</HI></STAGE>
+<SP>
+<SPEAKER>SVSAN.</SPEAKER>
+<P>NOw I protest Mr. <HI>Warrant,</HI> you wrong the love of a
+Gentleuman, in not imparting the cause of your dis∣content.
+Come not fees in roundly? Doe not the Delin∣quents
+understand, I'le speake a good word for you?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>You are the onely object of my thoughts. 'Tis
+your beauty hath animated my presumptuous weaknes to
+expresse how much my desires are yours.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Alas Mr. Warrant how can a poore Gentleuman
+deserve it?</P>
+</SP>
+<SP>
+<SPEAKER>War.</SPEAKER>
+<P>Yes, you have power of my Lady, and she much
+acquaintance at Court. A pardon might be got.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>A pardon! blesse me, for what?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Not for murder; but for killing (yet not a Man)
+fairely in the field.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Are you earnest?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>'Tis not yet done; onely I am resolv'd to doe it,
+were I but sure of my pardon.</P>
+</SP>
+<SP>
+<SPEAKER>Sus.</SPEAKER>
+<P>If not a man, what then is it?</P>
+</SP>
+<SP>
+<PB N="17" REF="12"/>
+<SPEAKER>Warr.</SPEAKER>
+<P>A meere superfluous complement of state for∣mality.
+One of my Ladyes raising. A fellow that hath crosse
+cape<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>'d himselfe out of a Taylor into a gentleman Vsher.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Who Mr. <HI>Spruce?</HI> but have you charng'd him?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Yes, with all <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> and circumstance. The
+weapon single Rapier; the place the P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>azz<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>; the time
+this mooneshine night presently before supper.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>And your quarrell my love. Wel<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> Mr. <HI>Warrant;</HI> I
+know a Gentleuman hath interest in a Lord at Court, who
+hath long beene inward with her. I'le warrant your par∣don.
+But my Lady expects me.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Dearest part of my selfe: to get my pardon, here's
+<HI>Spruce,</HI> now will I affront him.</P>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>The second Scoene.</HEAD>
+<STAGE>Enter <HI>SPRVCE</HI> by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Spruce</SPEAKER>
+<P>Our being my Ladi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s Gentleman Vsher, her <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/>
+not protect you in the com∣pet<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>on
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Warrant, <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> shred of basenesse
+to <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> favours, and mine owne de∣servings.
+Mr. S. <HI>Secretary</HI> is my Ladies gentl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>woman, and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> by priviledge.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>By priviledge <HI>Spruce!</HI> Thou art a Baboone of
+forma<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ty, and an ap<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> of <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>-ship. When I have kill'd
+thee, and get my pardon, I will have thy skin stuhh't; and
+with a protection shew the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> at countrey Faires and Mar∣kets
+for a <HI>Ginney Pigmie.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P><HI>Warrant,</HI> thou art the <HI>Epitome</HI> of my Masters au∣thority,
+and the abridgement of <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> justiceship.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P><HI>Spruce,</HI> thou art a very <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>, bred in thy crosse∣legg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>d
+profession; that having suckt a little bloud of Gen∣tility,
+instead of thy usuall bread bre<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>kfast, art growne to a
+fancy familiarity, with thy maintainers. T<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ou buy'st thy
+<PB N="18" REF="13"/>
+laundry in Long-lane or Hounsditch with the impude<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>c
+of a cheater.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P><HI>Warrant,</HI> thou lyest.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>How <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>lie. That some-body were here to stand
+betwixt us. Come not neere me, lest I blast thee with the
+breath of my just indignation.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Keepe at distance <HI>Warrant,</HI> lest I <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ame thee, and
+send thee from Constable to Constable in a Wheele∣barrow.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>For this <HI>Spruce</HI> I will not compassionate the good
+parts which my Lady commends in thee. Thy Fiddle∣sticke
+shall not save thee; nor thy capring lift thee an inch
+from the ground which I have laid for thy destruction.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P><HI>Warrant,</HI> thou art the very parings of a Pedan∣ticke
+to flout the compleatnesse of education. Because thy
+dulnesse is capable of no more then to frame <HI>Hetroclites</HI>
+from mens names, and scribble a warrant or a <HI>mittimus</HI> by
+a president; yet thou art a Justices Clerke.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>And thou a Ladies Gentleman Vsher, a bundle
+of complementall follyes stitcht up with how-dee's. I
+will send thee anon upon a visit to the Divell.</P>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>The third Scoene.</HEAD>
+<STAGE>Enter <HI>SVSAN,</HI> by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Susan,</SPEAKER>
+<P>Fie Mr. <HI>Spruce</HI> and Mr. <HI>Warrant,</HI> how loud you
+are <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> my Ladie heares your noise, and is offended.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Yes, my Rapier and mine arme shall maintaine
+it upon his life, I love you best.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Indeed Mr. <HI>Spruce</HI> and I love you.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>I'le maintaine it against the life of all the world,
+I love you best.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Truely Mr. <HI>Warrant</HI> and I love you.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>He that offers to love her besides my selfe, dies.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Mr. <HI>Spruce</HI> and Mr. <HI>Warrant,</HI> send but for one
+<PB N="19" REF="13"/>
+bottle of Sack, and be friends; I'le love you both.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>I'le brooke no Rivall.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Nor I; death must determine it.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Remember then, I must to the Cutlers.</P>
+</SP>
+<STAGE><HI>WARRANT</HI> goes forth by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Though I am but a waiting-uman, I haue more
+wit then to believe this is earnest. As if I did not know
+them to bee as arrant Cowards, as a Justices Clerke or
+Gentleman Vsher can be; and deserve rather to be whipt
+by a Satire, then rewarded for their valours with the
+love of a gentleuman. But Mr. <HI>Spruce</HI> doe you meane to
+fight?</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Yes, and kill him too. I feare nothing but death
+and the Gallowes; from which you may save me.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>As how? the meanes.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Begg me, I say beg me. Let not my good parts
+be made unusefull by an untimely turne at <HI>Tyburne.</HI> Me
+thinks I see the pittifull spectators condoling me. The
+fish-wives drowning their dead soles with salt water from
+their eyes; the Oyster-wives weeping for me in most la∣mentable
+pickle. An hundred Chamber-maids running
+stark mad, and as many more falling into the greene sick∣nesse
+with longing for me. Begg me therefore (I say) re∣solve
+to begg me, and make great hast. It is my feare a∣bove
+death, that otherwise some rich Citty Heyre will
+prevent you. Resolve therefore to be the first that shall
+begg me.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>As I am a Gentleuman Mr. <HI>Spruce,</HI> if you kill
+him fairely in a duell; and upon no base advantage I'le
+doe it.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Confirme it then with a kisse, and inspire an
+<HI>Herculean</HI> valour into me.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>By no meanes at this time. I'le kisse you at the
+gallowes. My Lady.</P>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<PB N="20" REF="14"/>
+<HEAD>The fourth Scoene.</HEAD>
+<STAGE>Enter <HI>LADY</HI> and <HI>DOROTHY</HI> by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>You see how my obedient youth</L>
+<L>Hath j<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>yn'd it selfe with an unequall mate;</L>
+<L>You ag<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>d father, onely to satisfie</L>
+<L>The Provident will of Parents. Doe you so.</L>
+<L>Fortune hath made me now your Mother.</L>
+<L>Had nature don't, my care could not be greater,</L>
+<L>Nor more my providence to dispose your good.</L>
+</SP>
+<SP>
+<SPEAKER>Doroth.</SPEAKER>
+<L>Mother, the duty which I owe my Father</L>
+<L>You (being his) must share: and this expression</L>
+<L>Of more then common love, I must repay</L>
+<L>With more then common gratitude.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Ther. tell me,</L>
+<L>Now time hath given your age perfection;</L>
+<L>Your roses are full blowne, and fit for gathering,</L>
+<L>Doe you not long for a husband?</L>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<L>Not with much earnestnes: I have as yet</L>
+<L>No passionate desires; as yet no breath</L>
+<L>Poyson'd with <HI>Hyperbolicall</HI> flatteries</L>
+<L>Hath courted my poore beauty; no deep vowes</L>
+<L>Have paid idolatrous sacrifice of service</L>
+<L>To my faire hand, whose whitenes if but kis't</L>
+<L>Can purifie a soule. Beleeve me yet</L>
+<L>The ma<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>'s a stranger to my knowing memory</L>
+<L>That ever said he lov'd me.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>But take heed:</L>
+<L>There are a sort of fond effeminate men,</L>
+<L>Deepe studied in discoursive complement,</L>
+<L>That many times will wast more ayery language</L>
+<L>To take a sollemne leave, then would make up</L>
+<L>A Citty Oratour.</L>
+<L>Beware that no such oyle-tongu'd amorist</L>
+<L><PB N="21" REF="14"/>
+Sigh forth his passions in thy credulous eares,</L>
+<L>And captivate thy weaknesse. 'Tis their practise</L>
+<L>To glory in diversity of Mistrisses:</L>
+<L>And when one frownes or chides their over-daring</L>
+<L>With a repulse, will not stick to revenge it</L>
+<L>With a foule defamation of her honour.</L>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Neither can a Gentleuman be in love now and
+then out she is censur'd.</P>
+</SP>
+<SP>
+<SPEAKER>La</SPEAKER>
+<L>Let not thine eares drink in their <HI>Rhetorick</HI> charms,</L>
+<L>Lest they bewitch thy glorious understanding</L>
+<L>To dote on their pretences, which perhaps</L>
+<L>Shall be chast love for it's Creations end:</L>
+<L>When but their c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>vetous hopes preferre a portion</L>
+<L>Before your beauty, birth or education;</L>
+<L>And yet perhaps there is disparitie</L>
+<L>'Twixt lower fortunes, and their weake desert.</L>
+<L>Deceit's a cunning baud, and many times</L>
+<L>Makes vertue prostitute it selfe to misery.</L>
+</SP>
+<SP>
+<SPEAKER>Doroth.</SPEAKER>
+<L>There is a power</L>
+<L>Call'd Fate, which doth necessitate the will,</L>
+<L>And makes desire obedient to it's rule.</L>
+<L>All the resisting faculties of reason,</L>
+<L>Prevention, feare and jealousie are weake</L>
+<L>To disanull what in it's firme decrees</L>
+<L>Is once determin'd. Yet my heart is free;</L>
+<L>Vnbounded by the stricter limits of</L>
+<L>Particular affection: so I'le keepe it.</L>
+<L>No proud ingratefull man shall ever triumph</L>
+<L>O're the captiv'd sweets of my Virgin love.</L>
+<L>Nor a vain-glorious gull that offers service</L>
+<L>To every noted beauty, boast my favour.</L>
+<L>I'le cloath my thoughts in humorous observation;</L>
+<L>And if on any that sollicits love</L>
+<L>I fixe a liking, I'le refer my selfe</L>
+<L>To what is destin'd for me.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>The resolution's noble; I commend it.</L>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<PB N="22" REF="15"/>
+<HEAD>The fifth Scoene.</HEAD>
+<STAGE>Enter <HI>LITTLEVVORD</HI> and <HI>Mris. TONGALL,</HI> by
+the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Welcome Mistris <HI>Tongall;</HI> welcome. You are
+the onely company in the neighbour-hood. A Ladie can
+ill be without you.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>This Gentleman Madame, whom I presume to
+commend to your Ladiships acquaintance, is of worthy
+birth and education: the <HI>Littlewords</HI> are not moderne; be∣sides
+their Auncestors were great Philosophers.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>And the latter great fooles.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Goe, and talke to her. I'le tell your Ladiship a
+strange thing of the <HI>Little-words.</HI> In seven generations
+there was but one girle, and shee dyed an infant. Contra∣riwise
+of the <HI>Tongalls</HI> there's but one man left, that's my
+Husband, and he's a Lawyer: now your Ladiship knowes
+hee gets nothing but wenches. Speake to her Mr. <HI>Little∣word.</HI></P>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<P>Is the Gentleman of so good education?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Extraordinary Madame; hee's a wit. I would
+my <HI>Iynny</HI> were worthy of him, he should seeke no further.
+I pray Mr. <HI>Littleword</HI> speake to her.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Can he Poetise Mris. <HI>Tongall?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Excellently Madame; hee hath things in print.
+His next dedication shall be to your Ladiship. Why doe
+you not goe and talke to her?</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>What estate hath he?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Five hundred a yeare present possession, more in
+reversion. This Gentleman, Mris. <HI>Dorothy,</HI> is my friend,
+and desire's to bee your servant. I have made way now,
+why doe you not speake to her? I am bold to commend
+him to your liking.</P>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<P>Pray you Mris. <HI>Tongall,</HI> what wages takes he?</P>
+</SP>
+<SP>
+<PB N="23" REF="15"/>
+<SPEAKER>Tong.</SPEAKER>
+<P>You mistake Mris. <HI>Dorothy;</HI> 'tis your love hee
+would serve you for.</P>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<P>That's a cold reward; a Livery would keepe
+him warmer.</P>
+</SP>
+<SP>
+<SPEAKER>Ton.</SPEAKER>
+<P>Fie, that you will not speake to her. And how
+doth your Ladiship like an old man?</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>A cold bed fellow. But Religion and Conscience.
+Now 'tis done I must love him. Would hee were not
+jealous.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>None are so confident (Madame) as cuckolds.
+But your Ladiships knowne vertue will soone put out the
+eyes of his suspition. Speake to her Mr. <HI>Littleword.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>I would not now for all the Sacke in <HI>Spaine</HI> my
+loving humour were upon mee. This dumb Gentleman
+would make me forsweare the qualitie.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Sure Mris. <HI>Tongall</HI> your friend would make an
+excellent midwife; he can keepe secrets.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>'Tis his modestie Mris. <HI>Dorothy.</HI> Blesse mee that
+you would not speake to her.</P>
+</SP>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>The sixth Scoene.</HEAD>
+<STAGE>Enter <HI>IERKER, ARTLOVE</HI> and <HI>IEFFREY,</HI>
+by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Madame, I am bold to commend this Gentleman,
+who will deserve your acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>As far as my power will extend to expression.</P>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<P>You are welcome Mr. <HI>Ierker</HI> and this Gentleman,
+and shall bee whilst your visits are seasonable. But you
+know I have a jealous husband.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>There are medicines to cure it Madame.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>May not I salute the Ladie Cousin?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>'Tis but courtesie and manners.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>I am bold with your Ladiships lip.</P>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<P>'Tis marvell you blush not. So bold and so young!
+<PB N="24" REF="16"/>
+By that time you come to your full growth pretty Gentle∣man,
+you'l make up the number of the ten Worthies.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Madame, I am neither Infidell, Iew<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> nor good
+Christian; though I am little, I dare be your L<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ships
+Champion in an active skirmish.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>This 'tis to be backward: you'l never thrive in
+any thing unles you are more forward. Lose such an op∣portunity
+with not speaking to her!</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Secretarie.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Madame.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Goe, and direct the Cooke.</P>
+</SP>
+<STAGE><HI>SVSAN</HI> goes forth by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>How on a sodaine my resolves are numb'd,</L>
+<L>And frozen into silence, that confirmes</L>
+<L>The first distrust of my knowne indeservings,</L>
+<L>I dare not speake.</L>
+</SP>
+<SP>
+<SPEAKER>Doroth.</SPEAKER>
+<P>Shall I have another dumb servant! Are you
+not well Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Well Ladie! yes. Health it selfe</L>
+<L>Is a disease in others, if compar'd</L>
+<L>With th' absolute state of mine. Where you are present</L>
+<L>Sicknesse can have no power over frailtie.</L>
+<L>The b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ames which you<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> bright e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>es shoot, purifie</L>
+<L>Th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> most infectious ayr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>. Your words distill</L>
+<L>A B<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>l<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>re more pr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cious then that Miracle</L>
+<L>The <HI>Chymicks</HI> d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>eame of.</L>
+<L>At distance I have <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ften seene your beauty;</L>
+<L>And thence receiv'd a fire, whose quickning flames</L>
+<L>Did animate my soule, that else was earthy,</L>
+<L>A lump of passive dulnesse; now 'tis active:</L>
+<L>And if you please to cherish it, shall pay</L>
+<L>All it's derivative abilities</L>
+<L>Vnto your lowest service.</L>
+</SP>
+<SP>
+<SPEAKER>D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ro.</SPEAKER>
+<L>You too much flatter my unworthinesse:</L>
+<L>And in that likewise derogate</L>
+<L>From your owne fulnesse of admired merit.</L>
+<L><PB N="25" REF="16"/>
+Th' vnskilful'st <HI>Physiognomist</HI> may read</L>
+<L>In your bright forehead, and your formes exactnesse,</L>
+<L>A man repleat with all perfections.</L>
+<L>Whose very superfluities might be</L>
+<L>Additions to the barren worths of others.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>And can there be greater disparity?</L>
+<L>Would it not seeme a Prodigie in nature,</L>
+<L>To have greene Summer with her rose-crown'd head</L>
+<L>Kisse the white isicles from Winters beard?</L>
+<L>Extinguish her bright fires in his cold bosome?</L>
+<L>Madame, I know your sportive Youth desires</L>
+<L>A more proportion'd mixture. Come, let's trie.</L>
+<L>Fire put to fire increaseth active Flames;</L>
+<L>Contraries dull each other with confusion:</L>
+<L>Such are the frozen kisses of your Husband,</L>
+<L>Vnto your warme delights—</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Ladie, if any worth appeare in me</L>
+<L>It must derive it's fulnesse from your liking:</L>
+<L>Had I in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>u<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>'d into me all the excellence</L>
+<L>Of those <HI>Heroicks</HI> whom the Poets fain'd;</L>
+<L>Were I made up with all Perfections</L>
+<L>That Fiction ever painted, to expresse</L>
+<L>Desert in freshest colours;</L>
+<L>Vnlesse you cal'd it worth, 'twere but a subject</L>
+<L>For base contempt, though popular admiration</L>
+<L>Gav't divine Attributes. Since you commend</L>
+<L>The faculties your whitenesse must dispose of—</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Aske your husband leave! by this hand I would
+not aske an Alderman leave to Cuckold him. So he might
+take example from a Citty kinde one, whose Wife long'd
+to kisse a Lord: upon which he grew so proud for being
+exalted above the rest of his neighbours, that he would
+suffer none to Cuckold him ever after but Lords.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>By no meanes Sir.</L>
+<L>Wrong not your judgement, which must needs bee ab∣solute.</L>
+<L>The choice of me</L>
+<L><PB N="26" REF="17"/>
+Is too inferiour to your richer value.</L>
+<L>The <HI>Cyprian</HI> Queene had shee but seene your face,</L>
+<L>Would ne're have dy'd the roses with her blood,</L>
+<L>Wept on their palenesse for <HI>Adonis</HI> losse:</L>
+<L>But circled in a ring of all her graces</L>
+<L>Court your celestiall forme upon the bosome</L>
+<L>Of some more fragrant <HI>Tempe.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>She mocks me sure.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Did <HI>Syrens</HI> heare your voice they would give o're</L>
+<L>Their own malicious charms: and through the witchcraft</L>
+<L>Of it's more powerfull musicke, rage with madnesse:</L>
+<L>Leaving their proper element to dye</L>
+<L>In the pursuit of sweeter melody.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>This grosse flattery, Ladie,</L>
+<L>Commends your wit, rather then your good nature.</L>
+<L>My heart is a plaine heart, and my desires</L>
+<L>Are truly vertuous, not to be contemn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Fie, Mr. <HI>Ierker!</HI> besides the words incivility,
+I did not expect such absurditie in a reputed wit. Could
+you not haue couch'd it better; shall I have leave to doe
+your Ladiship a piece of night service; or so. Come,
+come, forbeare these wicked sollicits, or I shall disclaime
+the promise of my favours reversion when my old Hus∣band
+die's, if nature be not mercilesse, and I goe first.</P>
+</SP>
+</DIV2>
+<DIV2 N="7" TYPE="scene">
+<HEAD>The seventh Scoene.</HEAD>
+<STAGE>Enter <HI>Sir GENEROVS WORTHY,</HI> and young <HI>WORTHY,</HI>
+by the middle <HI>SCOENE.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Ha! what's here! Courtship on all hands?</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>My Husband.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>My Father, and my Brother.</P>
+</SP>
+<SP>
+<SPEAKER>Y. Worth.</SPEAKER>
+<P>I like not this.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Mr. <HI>Ierker,</HI> you are welcome, I hope; having
+fail'd in his old, hee hath not a new suit; that as I made
+<PB N="27" REF="17"/>
+her a Ladie, shee should bestow an hornourable Crest up∣on
+mee.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Let his jealousie conster it into truth.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>He shall neuer be but a Vnicorne.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Madame, however I appeare in my wildnesse, I
+shall continue to your Ladiship in my first desires. So with
+this tribute of my devotion.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>I would first kisse your hand.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>My lip being too unworthy.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>I take my leave Madame.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Farewell Mistris <HI>Tongall.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Son, schoole your Sister. Come with me Wife.</P>
+</SP>
+<STAGE>Ex.</STAGE>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Sister, I can but wonder much, that you</L>
+<L>Should make your selfe the object of their Courtship,</L>
+<L>Who beare perhaps but th' empty names of Gentlemen,</L>
+<L>Without the reall fulnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Doroth.</SPEAKER>
+<L>What meane you (Brother) by this intro∣duction?</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Sister, to take the priviledge of discretion,</L>
+<L>And schoole your ignorant courtesie, that upon</L>
+<L>The shadowes and appearances of Men</L>
+<L>Confer your favours.</L>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>Brother, you may pretend your love</L>
+<L>In this distrust; but 'tis an ill expression.</L>
+<L>Thinke not my judgement subject to such weaknesse,</L>
+<L>That I can build a faith on Complements,</L>
+<L>Or (with rash passion) run into an error.</L>
+<L>Nothing but knowne desert shall tye my thoughts</L>
+<L>To a staid liking, if I may distinguish it.</L>
+<L>And when my choice is fixt, it shall be such</L>
+<L>As your fraternall love must not dispute.</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Sister, my counsel's milde.</L>
+<L>Nor would I have you violent in defence</L>
+<L>Of a suspected folly. Guilt is aptest</L>
+<L>To make excuse. But if your resolution</L>
+<L>Be bent thus wilfully to persist in actions</L>
+<L><PB N="28" REF="18"/>
+Of fear'd dishonour, be assur'd my Spirit</L>
+<L>Shall rage with such an anger, playes ne're painted.</L>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>Dishonour Brother, I have a spirit too,</L>
+<L>That scornes as much an Act of foule dishonour,</L>
+<L>As you, or any Masculine pretender</L>
+<L>To noble Vertues. Guilt is aptest still</L>
+<L>To be suspitious. If a maid be free</L>
+<L>In her discourse, and courteous entertainment,</L>
+<L>She straight is censur'd. But let a man appeare</L>
+<L>Stuck fu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>l of apish Courtship; light, inconstant,</L>
+<L>As talkative as Parrats, that are taught</L>
+<L>A voyces imitation; one that courts</L>
+<L>Every tam'd beauty with a seeming zeale;</L>
+<L>As if his soules devotion were restrain'd</L>
+<L>Onely to her Divinitie; this man's call'd</L>
+<L>A well-bred complementall Gentleman.</L>
+<L>Mens greatest follies, if compar'd with ours,</L>
+<L>Are vertues, fit for our imitation.</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Sister, your <HI>Satyr</HI> smart's not:</L>
+<L>The lashes reach not me.</L>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>They are but suppositions Brother.</L>
+<L>And pray suppose the Gentleman that seem'd</L>
+<L>To court my beauty, were indeed a man,</L>
+<L>Not guilded imperfections; one whose words</L>
+<L>Were full of weighty judgement, not mere sound;</L>
+<L>Whose reall vertues did beget an envie,</L>
+<L>Perhaps an emulation in all others;</L>
+<L>And from the freedome of his richer minde</L>
+<L>He gave himselfe and them to be my servants;</L>
+<L>What gratitude in me might equall this?</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>I know you are free.</L>
+<L>And rather then a complementall servant</L>
+<L>Should be discourag'd in his serious wantonnesse,</L>
+<L>You'l give it countenance to make him bold</L>
+<L>In's amorous pursuit; perhaps to th' impudence</L>
+<L>Of a lascivious charge upon your modestie;</L>
+<L>Because you scorne ingratitude.</L>
+</SP>
+<SP>
+<PB N="29" REF="18"/>
+<SPEAKER>Dorot.</SPEAKER>
+<L>Brother, did not the ties</L>
+<L>Of love and nature check my forward aptnesse,</L>
+<L>I'de tell you y'are not noble, and suspect</L>
+<L>Whether your mind hold that derivative goodnesse</L>
+<L>Which generous bloud communicates, to suspect</L>
+<L>Her re<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>olute constancie whom you call Sister.</L>
+<L>Thinke not your being a man prerogative</L>
+<L>To be the onely Counsellor in manners</L>
+<L>Brother, though to your person I am partiall.</L>
+<L>Through confidence of your appearing vertue;</L>
+<L>The generall vices noted in your sexe,</L>
+<L>Such as with publique ostentation</L>
+<L>You glory to be guiltie of, which in</L>
+<L>Our very thoughts raise blushes—</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Sister no more.</L>
+<L>Leaving these circumstantiall arguments,</L>
+<L>Pray let a Fathers care and Brothers love</L>
+<L>Commend him first whom you intend for Husband:</L>
+<L>You'l finde us tyrants else. Nature is kind;</L>
+<L>But if provokt, she hath a <HI>Tygers</HI> mind.</L>
+<L>Ile finde him out and satisfie my selfe</L>
+<L>How farre he is deserving.</L>
+</SP>
+<STAGE>Goes forth by the middle <HI>Scene.</HI></STAGE>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>How is our weaknes trodden and insulted on</L>
+<L>By these imperious men! Aid me resolves</L>
+<L>Against their threats and counsels, unlesse grounded</L>
+<L>On stronger reasons then suspition.</L>
+<L>As the pure Oare refin'd exceeds in value</L>
+<L>Treble proportions of the courser drosse;</L>
+<L>So true desert in Man an outward glosse.</L>
+</SP>
+<STAGE>Goes forth by the middle <HI>Scoene.</HI></STAGE>
+</DIV2>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<PB N="30" REF="19"/>
+<HEAD>Act. 3. Scoen. 1.</HEAD>
+<STAGE>Enter <HI>DOROTHY</HI> and <HI>SVSAN,</HI> in
+the <HI>BALCONE.</HI></STAGE>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Come Mris <HI>Dorothy;</HI> here's a Moone would
+make a great bellied uman long for greene cheefe. Me
+thinks 'tis pleasant taking the ayre by Moone-shine.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>But 'tis not so healthfull The night infects the
+ayre with unwholsome vapours.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>A figg for these Physicall observations. I have
+knowne a Doctors prescriptions cast down a Gentleuman
+for three quarters of a yeare. But if ever I lie under any of
+them for the greene sicknes.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Fie upon thee.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Why I doe not meane naughtines. But what
+doe you thinke made me so earnest to have you hither?</P>
+</SP>
+<SP>
+<SPEAKER>Doroth.</SPEAKER>
+<P>Some wanton humour. You have d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>unke a
+cup of Sacke, and want a handsome Ge<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>leman to bee in
+love with.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>No such matter. Ile not drinke a drop more till
+towards supper. I brought you to see a Duell.</P>
+</SP>
+<SP>
+<SPEAKER>Doroth.</SPEAKER>
+<P>Blesse me; betwixt whom?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>My Ladies Gentle-man, and Mr. <HI>Warrant.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Doroth.</SPEAKER>
+<P>They are unequally weapon'd. Mr. <HI>Spruce,</HI>
+though hee be a Tailor weares a—the foolish rime runs
+in my head. I had almost said a dagger, but 'tis a sword;
+and my Fathers Clerke hath onely his inkhorne.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>And that's a terrible one. But I saw the Cutler
+bring him a sword; I saw it naked, which was enough
+to fright many a gentleuman. I saw him trie it on a bar of
+iron in the kitchin; and many more fearfull preparations.</P>
+</SP>
+<SP>
+<PB N="31" REF="19"/>
+<SPEAKER>Dorot.</SPEAKER>
+<P>But will not you prevent them?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>By no means, unlesse there were more dan∣ger.
+'Twill be mirth for this twelve-month, if our eyes
+(through this imperfect Moone-light) can but reach the
+sight of them. What confident daring will be betwixt
+them at some great distance?</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>And what's their quarrell?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>The love of a Gentleuman, I assure you.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Your selfe perhaps.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>No otherwise indeed. My beauty is the object
+of their valour. The Combatants will enter presently. The
+Knight of the <HI>Inkhorue,</HI> and the Knight of the <HI>Spanish
+Needle.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Doro.</SPEAKER>
+<P>Both affecting the Lady of the <HI>Closet.</HI> But Mris.
+<HI>Secretary,</HI> what if my Lady Mothers Chamber-maid and
+<HI>Ioane</HI> in the Kitchen were here?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>For you to make them Ladies, as you have done
+me. Indeed they might serve by Moone-light; the day
+perhaps would discover a greasie Gentry.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Fie; now you forget your selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>'Tis ordinary for a waiting-Gentleuman but
+newly made a Lady to forget her selfe. But see, I am pre∣vented
+from proceeding. Let us observe.</P>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>The second Scoene.</HEAD>
+<STAGE>Enter <HI>WARRANT,</HI> and a little after him <HI>SPRVCE,</HI>
+by the middle <HI>SCOENE.</HI></STAGE>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>'Tis a good sword; it cost me two pieces. No
+matter. Many a mans death hath cost more at the Phy∣sitians.
+Who would be affraid to kill a man; when hee is
+sure of his pardon?</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Hee is now in some deepe meditation of your
+beautie.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>See Mistris, there's the other.</P>
+</SP>
+<SP>
+<PB N="32" REF="20"/>
+<SPEAKER>Spruce.</SPEAKER>
+<P>That sure is <HI>Warrant.</HI> I'le goe this way. It
+shall never be said I went after a man to kill him, though
+I am confident Mistris <HI>Secretary</HI> will begg me.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>They goe contrary wayes. Wee shall not see
+the fight. They meane to meete and end it at the <HI>An∣tipodes.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>But what should I thinke of killing him? I
+know hee dare as well take the wall of a drunken Consta∣ble,
+or justle a Buffe-coat leading a wench, as meet me.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Me thinks I perceive them stand.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Yes, yes; 'tis <HI>Warrant:</HI> I smell him hitherto.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Is not that <HI>Spruce?</HI> certainly 'tis hee. Me thinks
+I see him tremble hitherto. Hee dare not come neere me;
+and I scorne to goe to him to kill him: It may hinder my
+pardon. Therefore he shall assault me first.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Why, they are fixt. Hath not feare congeal'd
+them into stones?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Dissolv'd them rather into gelley.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>That some good fellow would but come and
+beat the cowardly Rascall.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>That some Sharke would come now and take
+away his hat or cloake.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Now could I fancy in my imagination what they
+say. Mr. <HI>Warrant.</HI> O that I had this Coward <HI>Spruce</HI> here:
+I would dismember him; and then what Gentleuman
+would care a rush for him? Now Mr. <HI>Spruce</HI> hath studien
+the <HI>Arcadia.</HI> He sayes. Oh that I had this <HI>Warrant</HI> here
+It would cut him into <HI>atomes;</HI> that wheresoever the Sun
+shines, the <HI>trophces</HI> of my renowned victorie might bee
+visible.</P>
+</SP>
+<SP>
+<SPEAKER>Aarr.</SPEAKER>
+<P>That he would but come a little neerer.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>That hee were but within twice my swords
+length.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>I would I had but a leg or an arme of him, since
+he will not come, that I may kill him.</P>
+</SP>
+<SP>
+<SPEAKER>Spr.</SPEAKER>
+<P>That I had but his head here; how I would shave it.</P>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<PB N="33" REF="20"/>
+<HEAD>The third Scoene.</HEAD>
+<STAGE>Enter <HI>RALPH</HI> and <HI>DOESON</HI> by the left <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>This is the vertue of Sack boy. Who would
+toile in durt for whay and butter-milke, or the windie
+juice of Pome-waters upon Sundayes? Now could I be as
+valiant as—nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>I could fight with an Army of <HI>Polecats,</HI> so they
+were not Women.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>I could take the wall of three times three Tay∣lors,
+though in the morning, and at a Bakers stall.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>That were a way to have thy skin bodkind full
+of ilet holes.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>If I should throw downe three or foure postes.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>What then?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>What then! why, I would not stay to take
+them up.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Who are these? observe.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Give me an armour of Sack; I am shot-free.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Whilst my Master paye's the reckoning.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Mistris <HI>Dorothy,</HI> I have fasten'd on a designe for
+rare sport. My friends.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>Will you talke to strangers in the street?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>What say you pretty paire of Wag-tailes? doe
+you want Play-mates?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Will you doe a courtesie for a Gentleuman?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Within dores, or without?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>You seeme to be valiant.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>They that trie us shall finde our mettall.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Perceive you not two men yonder in severall
+places?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Wee see somthing, but they may as well be
+flockes.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>For any manhood that's in them. If you will but
+<PB N="34" REF="21"/>
+beat them a little, besides a Gentleumans thankes, some o∣ther
+reward shall attend it.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>How are we sure they are Cowards?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>You may trust the word of a Gent<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>euman.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Come, come, thou standest doubting like a cow∣ardly
+foo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e, These may bee Gentlewoemen of good fa∣shion,
+and apt to take fire at valour. Who knowes what
+preferment's neere us? We have persons.</P>
+</SP>
+<SP>
+<SPEAKER>Ral.</SPEAKER>
+<P>Why then forwards: call upon sack, <HI>Dobson,</HI> sack.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Who are these come towards me? my courage
+begins to have an ague.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Who may these be? my wish (I hope) some
+good fellowes to rob him.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>What was our Commission <HI>Ralph?</HI> to beat them,
+and not kill them.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>To kill them and not hurt them? Call upon
+Sacke, <HI>Dobson:</HI> I begin to be affraid. I can perceive his
+sword; he shakes it fearefully.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Draw thine-then; and sack, sack the walles
+of <HI>Troy.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>The rogue <HI>Spruce</HI> hath sent them to beate mee.
+'Tis so. I must shift for my selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Sirrah, thou man of feare and trembling. Call
+upon Sacke, <HI>Dobson.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Alas, what meane you Gentlemen?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Not so gentle neither. Wee are fiery furious,
+and command thee in the name of Sack, resigne thy wea∣pon,
+and submit to be corrected by our valour.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Kinde Gentlemen, I hope you'l not kill me. I'le
+doe any thing, rather then be kill'd.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>A handsome beating shall asswage our fury.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Sweet Gentlemen, I'le doe any thing rather then
+be beaten.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>'Tis so; they are robbing him, and I scorne to
+aid him. Teach the rogue to be such a coward: he might
+have come to me.</P>
+</SP>
+<SP>
+<PB N="35" REF="21"/>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Are you prepar'd Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Mercifull Gentlemen; I have some money, a
+Cloake and a good Beaver: I'le give you all, and forgive
+you too, so you'l not beat me.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>This was beyond our expectation.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Our mercy may bee brought to a composition.
+But should we be pittifull, could you be content, since you
+cannot fight in your owne defence, to lye in our defence.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>I'le say or sweare any thing, rather then be kill'd
+or beaten.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>That we did beat you?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>That you left mee dead. I'le lye at a Surgeons
+these two moneths; and pretend that my skull was bro∣ken
+in twelve places: that halfe my braines were putri∣fied
+and taken out. I'le be mad all my life after to con∣firme
+people in the beliefe of it.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Depart then, and praise us.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Yes, at the gallowes. I'le have you hang'd for
+ro<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ing me: I shall teach you to attempt any thing on a
+Ju<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>ces Clerke.</P>
+</SP>
+<STAGE>Goes forth by the right <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Nay: pray you stay a little longer.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<P>I am weary; wee'l imagine the rest done. I'le
+send my Brother forth to make them friends.</P>
+</SP>
+<STAGE>Exeunt from the <HI>Balcone.</HI></STAGE>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>'Tis done sure. Now will I home, proclaime
+him a coward, and triumph. Ha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>l doe they way-lay mee!
+the rogue hath hi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>'d them to beat or rob me. An ague of
+feare is upon me. Now could I wish my selfe transform'd
+into a beast, and have foure legs. These two which have
+beene my most usefull members will surely faile.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Sirrah, you Raskall.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>You mistake Sir, I am a Gentleman Vsher.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Then thou abuser of wit and good cloathes, be
+mannerly, and uncover to thy betters.</P>
+</SP>
+<SP>
+<PB N="36" REF="22"/>
+<SPEAKER>Spruce.</SPEAKER>
+<P>I hope Gentlemen you d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e not meane to rob
+me? Trust me, I have no money, but a few farthings of
+my Ladies to give poore people.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>We will be satisfied with a small diminution of
+your plentifull Wardrobe. Wee know you have more
+Cloakes and Beavers at home.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>No I protest Gentlemen. I have but this onely
+case for my Carkasse: and 'twill not be quite paid for til
+the next quarter.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Why then Sir, we will beat you handsomly, and
+that shall allay our fury.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Nay kinde Gentlemen, I had rather stand to my
+Ladies bountie, then be beaten.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Why then thanke our mercy and depart, whilst
+we like honest theeves share our booty.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>And I find out the Constable.</P>
+</SP>
+<STAGE>Goes forth by the right <HI>Scoene.</HI></STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>The fourth Scoene.</HEAD>
+<STAGE>Enter <HI>ARTLOVE</HI> by the left <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>How glorious shews <HI>heaven</HI> with trembling lights</L>
+<L>Sparkling their distant beames! The full orb'd Moone</L>
+<L>Borne on nights dewie wings, rides in her <HI>Sphoere;</HI></L>
+<L>And throwes the shine which from her brothers rayes.</L>
+<L>She borrowes to illuminate the earth</L>
+<L>Through thinner ayre, where no condensed vapours</L>
+<L>Are interpos'd to let her piercing eye</L>
+<L>From seeing that which she gives sight to. Yet</L>
+<L>My heart is wrapt in clouds of leaden sadnesse.</L>
+<L>Love is not that in me which others feigne it.</L>
+<L>I dreame not of delights; my busie fancie</L>
+<L>Presents no fabulous heaven. A hell of torment</L>
+<L>Darken's my mind's bright faculties; and reason
+suffers it selfe to be ecclips'd by passion.</L>
+</SP>
+<SP>
+<PB N="37" REF="22"/>
+<SPEAKER>Dobs</SPEAKER>
+<P>Now we'e are enter'd <HI>Ralph.</HI> what if wee made
+this our professi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>n? many a one lives by it.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>And many a one is hang'd for it.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Oft have these instruments of heavens influence</L>
+<L>Seene my contemplative watchings;</L>
+<L>When with profound and an unwearied search</L>
+<L>I have scan'd the causes of their great effects;</L>
+<L>And waded through the most inscrutable secrets</L>
+<L>Both of the mediate and immediate nature▪</L>
+<L>But comming once to read a Womans face,</L>
+<L>There were so many heavens, that every thought</L>
+<L>In me, requir'd a severall understanding,</L>
+<L>To give each severall grace a severall name,</L>
+<L>And definition.</L>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Thou art affraid of the gallowes?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Not much of the gallowes without a hangman.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>The <HI>Chaos</HI> and the earth were loves first Parents;</L>
+<L>And yet the child did give the Parents forme.</L>
+<L>What Riddles are in nature!</L>
+<L>Man's a disorder'd Masse, a meere confusion</L>
+<L>Of rude, inanimate sense and understanding.</L>
+<L>Vntill inspir'd with loves diviner soule.</L>
+<L>The sense is tir'd, unlesse it varye's objects.</L>
+<L>Knowledge would be finite, were not the mind</L>
+<L>Delighted with diversitie.</L>
+<L>But love's a subject for eternall studie;</L>
+<L>And one faire booke preserv'd so, a full library.</L>
+</SP>
+<SP>
+<SPEAKER>Dobson.</SPEAKER>
+<P>I am resolv'd; I'le nor spare man, woman nor
+child, whilst the sack works.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>For women and children let me alone: if I fall
+upon the one, Ile soone get the other.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>What fabulous errors learning is attended with!</L>
+<L><HI>Plato's</HI> five Worlds; their sempiternitie;</L>
+<L><HI>Pythagoras</HI> transmigration; and opinions</L>
+<L>Judgement would blush to father. But a woman,</L>
+<L>Did men contemplate such a one as I doe,</L>
+<L><PB N="38" REF="23"/>
+They'd Make her all those Worlds: and then include</L>
+<L>All the fam'd excellence of former beauties</L>
+<L>In her more perfect frame.</L>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<HEAD>The fifth Scoene.</HEAD>
+<STAGE>Enter young <HI>WORTHY</HI> by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Is't possible such shew of resolution</L>
+<L>Should appeare in Cowards! I'le make them friends.</L>
+<L>And that being done mine owne intentions</L>
+<L>Must be pursu'd to finde that Gentleman</L>
+<L>Courted my Sister. Love of all sorts bends</L>
+<L>It selfe to courses for it's severall ends.</L>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Now for a daring Constable.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Without his staffe of authoritie, or a fortifica∣tion
+of Sack. A Constable may be valiant when hee com∣mands
+others what he cannot doe himselfe.</P>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<P>What! my paire of valiant Cowards! friends
+already.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>How! Cowards! swallow that word, or it shall
+choake thee.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>These fellowes have out-gone their Commission
+and rob'd them. I was a wise man to come abroad with∣out
+a sword.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Hee hath never a sword. Sirrah, thou man of
+presumption, that hast profan'd our incomparable valour,
+redeeme thy forfeited life of our mercie with some gold
+or silver pictures out of thy silken pockets.</P>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<P>They'l rob me too: Why, Gentlemen; silke
+clothes have not money in them at all times.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>He lookes terribly <HI>Dobson.</HI> Call upon Sack.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>I will cleave him at one stroke.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Doe you meane to murther a Gentleman?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Murder a Gentleman the voyce came thence.</L>
+<L>Ile rescue him, though danger and destruction</L>
+<L><PB N="39" REF="23"/>
+Met me with open mouths. Villaines, desist.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>You have done a benefit I must acknowledge.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>That's to reward it sir; from which base ends</L>
+<L>Good actions should be free. I'de gladly heare</L>
+<L>A short relation of the Accident.</L>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Why dost thou quake so <HI>Ralph?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ralh.</SPEAKER>
+<P>Why dost thou tremble so <HI>Dobson?</HI> I dare bee
+whipt if these bee not some kin to the Gentle woman that
+sent us hither from the thing at yonder house.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Were you sent to rob or kill me?</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Alas Gentlemen, we are very ingrums.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Meere Country Animals. Wee have valour to
+steale a May-pole, or rob the Parso<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s Hens-nest: but to
+kill a man as far from our intents or daring, as pittie from
+an Executioner, or bashfulnesse from a Jingo.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W</SPEAKER>
+<P>Forbeare the rest. This affords me matter: Re∣turne
+to that house, there leave your bootie and receive
+your reward; onely this I'le keepe.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>With all our hearts: wee had rather any body
+should have them, then the hangman both them and us
+for them. Come <HI>Dobson,</HI> we have got the money yet; and
+a little sack will animate us againe. My soul's under foot;
+I must raise it: But if ever I quarrell againe by Moone∣shine
+unlesse I am drunk, valour forsake me.</P>
+</SP>
+<STAGE>Goe forth by the left <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Blest Accident! 'tis surely the same.</L>
+<L>After a stricter view, my memory</L>
+<L>Vnlesse it erres, tells me I have seene your person</L>
+<L>Before this at my fathers.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>If you are the son of Sir <HI>Generous Worthy.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Y. H.</SPEAKER>
+<L>It was the blessing</L>
+<L>Nature and Fortune did bestow on me.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>It is indeed a blessing, when the vertues</L>
+<L>Of noble Races are hereditary;</L>
+<L>And doe derive themselves from th' imitation</L>
+<L>Of vertuous Ancestours. You have a faire Sister.</L>
+</SP>
+<SP>
+<PB N="40" REF="24"/>
+<SPEAKER>Y. Wor.</SPEAKER>
+<P>Her beaurie is not worth your commenda∣tions.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Your modestie is too severe</L>
+<L>In your restraint from praising her pure excellence,</L>
+<L>Which should be Poets studie; not with fiction,</L>
+<L>And common figures, but diviner attributes:</L>
+<L>Then they must call it nothing but it selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Have I found you? I shall search you deeper.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>The subjects weight would make a Poem weighty;</L>
+<L>And take away the imputation</L>
+<L>Which seeming solidnesse would throw upon't</L>
+<L>Of a light fancie.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>It seemes you love my Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>He were a Divell did not love such goodnesse.</L>
+<L>It is the onely vertue: frailty boasts of,</L>
+<L>To love faire sensuall objects: but my soule</L>
+<L>Hath noted inward beauty in her mind,</L>
+<L>Which makes me glory (though it be presumption)</L>
+<L>That I doe love her.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Cal't not presumption sir, you doe deserve her,</L>
+<L>In that you have indear'd me for my life</L>
+<L>Who am her Brother. And I commend you wit,</L>
+<L>Which I presume my Sisters love hath whetted.</L>
+<L>'Twas a quaint Plott. Were th' Actors here againe,</L>
+<L>I'd pay their wages.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Your Riddle needs some <HI>Oedipus</HI> to solve it.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Why sir, ridiculous fables</L>
+<L>May sometimes serve for imitation.</L>
+<L>Though twere a meere appointment in this rescue,</L>
+<L>To shew your love and valour.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>What base suspition</L>
+<L>Poysons his jealous thoughts! 'Tis injurie</L>
+<L>Beyond all patience.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Alas sir, you are mov'd?</P>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Yes, to an indignation, whose just heat</L>
+<L>Burnes me almost to rage. But there are charmes</L>
+<L><PB N="41" REF="24"/>
+And spels about you conjure downe my spirit.</L>
+<L>You are her Brother.</L>
+</SP>
+<SP>
+<SPEAKER>Young. Wor.</SPEAKER>
+<P>It seemes your guilt dare not denie the
+truth?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Dare not denie it!</L>
+<L>Were thy hands armd with Thunder;</L>
+<L>Hadst thou a <HI>Gorgons</HI> looke, wer't not her Brother,</L>
+<L>Ring'd in the terror of a thousand Jibbets</L>
+<L>And executioners, I have a point</L>
+<L>Should finde thy hart out.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>But I must tell you sir,</L>
+<L>Seldome high spirits that pursue their honours,</L>
+<L>With earnest fllights, will stoop at weake respects:</L>
+<L>But prey upon th' opinion of those men</L>
+<L>That scan their actions; tearing their reputations</L>
+<L>Out of suspitions bowels. Hee's not a Gentle man</L>
+<L>Will not preserve his honour.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Your speech, Sir,</L>
+<L>Savours of strange severity. My honour</L>
+<L>Is that part of my selfe, without which</L>
+<L>The man that's in me can have no subsisting.</L>
+<L>Honour's the greatest of exteriour goods,</L>
+<L>And must be still pursu'd as the reward</L>
+<L>Due unto vertue, through the greatest dangers.</L>
+<L>Yet fortitude is not the appetite</L>
+<L>Of formidable things, nor inconsult</L>
+<L>Rashnes; but vertue fighting for a truth;</L>
+<L>Deriv'd from knowledge of distinguishing</L>
+<L>Good or bad causes. Thinke me not a Coward</L>
+<L>Because I am not rash: nor through defect</L>
+<L>O<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> better counsell, doe not resist the force</L>
+<L>Of will or passion; how soe're your jealousie</L>
+<L>Proceeding from our better thoughts infection</L>
+<L>Hath beene a provocation. And perhaps</L>
+<L>The love I beare your Sister, will appeare</L>
+<L>Your chiefest safety.</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>In an attempt of right</L>
+<L><PB N="42" REF="25"/>
+I have more safetie heere then your pr<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>ences</L>
+<L>Can arme m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> with But if you love my Sister,</L>
+<L>It must be honourable and not wanton:</L>
+<L>She will finde Champi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>eise.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>I must be honourable!</L>
+<L>Those words include a doubt works strangely in me.</L>
+<L>Love must not wrack my reputation.</L>
+<L>Sir, I begin to scan the circumstance,</L>
+<L>And conster your intention. You would trie me:</L>
+<L>Bu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> your temptations have beene too abusive.</L>
+<L>And now my resolution is prepar'd</L>
+<L>To doe my credit justice.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>You will not fight with me that am her Brother?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>There's Magick in those words.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>I doe presume my Sister will reward you</L>
+<L>For these expressions. She is free to pay</L>
+<L>Her servants promis'd wages; be it kisses,</L>
+<L>Or any other dalliance.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>What a prophane breath from his blacke mouth flies,</L>
+<L>Would poison all the idolatrous religions</L>
+<L>That e're aw'd wicked mortalls.</L>
+<L>He is not sure her brother, but some impostor,</L>
+<L>That onely counterfeit's his worthier person,</L>
+<L>I could be patient at the lye, or Coward,</L>
+<L>Or any thing that can make passion violent.</L>
+<L>But her bright honour staind's a cause of justice</L>
+<L>To arme a Nation. Draw, if th'art a man;</L>
+<L>And with the plea of valour, (if th'ast any)</L>
+<L>Defend thy errours: Draw thy sword.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Not against him that loves my Sister.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Is my just anger mock't! love made ridiculous!</L>
+<L>Draw; lest I make my selfe an Executioner.</L>
+<L>And doe an act of justice on thy guilt.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Never against your bosome, where a spirit</L>
+<L>So truely noble dwel's, that hath converted</L>
+<L>All my faign'd jealousies to usefull love.</L>
+</SP>
+<SP>
+<PB N="43" REF="25"/>
+<SPEAKER>Artl.</SPEAKER>
+<L>I am confounded to amazement.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Pray reconcile all your distractions.</L>
+<L>Let not the least distrust abuse your confidence</L>
+<L>Of what I undertake. My Sister's yours,</L>
+<L>If the advise of me that am her Brother,</L>
+<L>And interested in her good or ill,</L>
+<L>Can be prevailing.</L>
+</SP>
+<SP>
+<SPEAKER>Artl</SPEAKER>
+<L>Then requesting Sir,</L>
+<L>That you'l presume no more upon the priviledge</L>
+<L>Of that pure love I beare your vertuous Sister</L>
+<L>T' admit a jealousie of any action,</L>
+<L>Or thought of mine which tends not unto noblenesse,</L>
+<L>Next unto her my bosome holds you deare,</L>
+<L>And shall doe ever.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>So mine the like. Thus noble causes</L>
+<L>Put fire into the spirits of full men.</L>
+<L>Though sometimes seeming valour may arise</L>
+<L>Through lust or wine, from hatefull cowardise.</L>
+</SP>
+<STAGE>Goe forth by the left <HI>Scoene.</HI></STAGE>
+</DIV2>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<HEAD>Act. 4. Scoen. 1.</HEAD>
+<STAGE>Enter <HI>IERKER</HI> and <HI>IEFFREY,</HI> with a
+Drawer, by the left <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>BOY.</SPEAKER>
+<P>ANon, anon Sir, by and by.</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Some more wine Boy. Is Mr. <HI>Art love</HI> return'd?</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Not yet Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffrey.</SPEAKER>
+<P>Poore Gentleman; hee's complaining to the
+Moone, or studying the event of his love in the Starres.
+Mee thinks I could make a counterfeit expression of his
+passions to the life.</P>
+</SP>
+<SP>
+<PB N="44" REF="26"/>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> Ministresse</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> light; dance <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> quall motions</L>
+<L>On thy foure orbes; bu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> qu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ch thy paler fires</L>
+<L>In Lovers teares, that <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> constancie</L>
+<L>M<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>y so be drown'd. I would I were in love Cousin.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Before you are capable of it.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<L>Why Cousin, is it not defin'd to be youth's folly!</L>
+<L>Indeed, all things in Youth are folly.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk</SPEAKER>
+<L>Not so Coz. all folly may be in Youth:</L>
+<L>But many times 'tis mixt with grave discretion,</L>
+<L>That tempers it to use; and make's it judgement</L>
+<L>Equall if not exceeding that which Palseys</L>
+<L>Hath almost shaken into a disease.</L>
+<L>But why would you be in love Coz.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>That I might Poetize: you know 'tis the onely
+dancing Master to teach the Art of Measures; though I
+have knowne Poets scarce able to stand on their feet.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Then you would write <HI>Satyres</HI> Coz?</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>'Tis your dancing conceit. But the Grinkums
+Cousin cleaves not the feete.</P>
+</SP>
+<STAGE><HI>Enter</HI> DASHER.</STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Mr. <HI>Dasher,</HI> this freenesse hath doubled the favor;
+vizit us of your owne accord!</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Gentlemen my selfe, and all that depends on my
+selfe, or on any thing that hath dependance on my selfe,
+is at your service.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>I should desire your wife then.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Sweet young Gentleman, you are the <HI>Epitome</HI> of
+a faire body, and shall command the Commander of my
+selfe and family. I will but present a glasse of Greeke
+Sacke to the hands of a noble Lord, and returne to serve
+you.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>You have a vertue Sir, I could wish communi∣cated.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>What's that Cousin?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>To cozzen Cousin.</P>
+</SP>
+<SP>
+<PB N="45" REF="26"/>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>And would you learne it?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>The <HI>Theorie,</HI> but not the <HI>Practicke.</HI> I converse
+much in Tavernes; and the use should onely be a thrifty
+prevention.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>As my observation hath taught me somthing in a
+baudy house, where they cannot change money.</P>
+</SP>
+<STAGE><HI>Enter</HI> DASHER.</STAGE>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Now Gentlemen dispose of your seruant.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Indeed Mr. <HI>Dasher</HI> our Wine's naught.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>How I naught I who drew it? name but your
+drawer; he is punish't whilst you pronounce it. I'le not
+keepe an offensive mouse that eats the crums under my ta∣ble,
+but shall pay his life to doe you service.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Why Cousin, the Wine's good.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>I onely gave him matter for a complement.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>'Tis pitty to abuse him that is so apt to abuse him∣selfe.
+But what doe you muse on Cousin?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>I am studdying a conceited health.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Why to the long standing of <HI>Banbury</HI> May-pole.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>No Puritan will pledge that.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Yes, the Good-wives: they'l finde dancing a
+more wholsome exercise for the body, then some of their
+Doctrines for the Soule.</P>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>The second Scoene.</HEAD>
+<STAGE>Enter <HI>ART LOVE</HI> and young <HI>WORTHY,</HI>
+by the left <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Ar't come friend, and Mr. <HI>Worthy?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Our mutuall loves.</P>
+</SP>
+<STAGE><HI>Enter</HI> DASHER.</STAGE>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I am bound to serve you Gentlemen, and I wish
+my roofe were worthier, and my disordered houshould
+order'd to your content.</P>
+</SP>
+<SP>
+<PB N="46" REF="27"/>
+<SPEAKER>Artl.</SPEAKER>
+<P>We are bound to thanke your readinesse.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Gentlemen, your servant will send his servants
+to wait upon you presently.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>What accident brought you two together?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>The mercie of my Startes: but what event</L>
+<L>Their influence will direct, I cannot prophesie.</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>re<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>hee be carefull, hee's a <HI>Cynick</HI> noter</L>
+<L>Of men and of their manners</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>If he bite.</L>
+<L>Here's that shall blunt his fangs.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Good friend be milde;</L>
+<L>Temper thy passions here. Scandall may grow</L>
+<L>From low foundations to an heighth of infamy.</L>
+<L>Thou know'st my temperance doth not oft frequent</L>
+<L>These publique places.</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Sir, the relation 'twixt a son and father</L>
+<L>May make you jealous of my partiall nature.</L>
+<L>Trust me, I never yet was so indulgent</L>
+<L>To mine owne weaknesse, that untill my judgement</L>
+<L>Had made a full distinguishment of causes,</L>
+<L>I could bee violent in his defence</L>
+<L>Farther then fisiall dutie; which sometimes</L>
+<L>Hath stretcht it selfe to counsell and advice</L>
+<L>Against suspition. For though your wild behaviour</L>
+<L>In some particular actions might provoke him,</L>
+<L>Shee whom new dutie makes me now call mother</L>
+<L>Hath given large testimonie of her vertue</L>
+<L>Even to satisfaction of all goodnesse;</L>
+<L>Although his age (in other things judicious)</L>
+<L>Cannot so easily admit beliefe,</L>
+<L>And safer confidence.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Though I appeare</L>
+<L>In outward carriage apt to make distrust</L>
+<L>Condemne me vicious; yet my Soule retaines</L>
+<L>(Besides a generous disposition</L>
+<L>Deriv'd from noble blood) some scrupulous sparkes</L>
+<L>Of better conscience. Call it not selfe-flattery</L>
+<L><PB N="47" REF="27"/>
+In that I am mine owne defenses instrument.</L>
+<L>Report sufficiently may informe your knowledge,</L>
+<L>(Nor is it error) that my interest</L>
+<L>In her you now call Mother</L>
+<L>Was beyond all dispute: our equall loves</L>
+<L>Mov'd in one circle; and our thoughts were fixt▪</L>
+<L>Nor can I varie; shee's the object still</L>
+<L>Of my desires. I confesse I use</L>
+<L>Wanton sollicites; and should scarse resist</L>
+<L>My wishes satisfaction she consenting.</L>
+<L>But those delights would end in such a loathing,</L>
+<L>That I should never more have mercifull thought</L>
+<L>There can be any goodnesse left in Woman.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>This jarres upon my heart-strings.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Dos't distast you Sir,</L>
+<L>That I defend my selfe?</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>You must not wrong my Father.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>I doe abhor the thought of injurie.</L>
+<L>Nor shall my spirit fall in the just plea</L>
+<L>Of mine owne right.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>But not to wrong my Father.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>If he bee abusive, Cousin challenge him. I'le bee
+your second.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Hee's not a Crane Coz.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Nor I a Pigmie; you mock my love.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Your forwardnesse is dangerous.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<L>Why, he can never have wit, that is not valiant.</L>
+<L>I'le trie him my selfe, if not to disturb you Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>I thanke you little one.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>How little one I Is not that an affront Cousin?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>'Tis as you take it Coz.</P>
+</SP>
+<SP>
+<SPEAKER>Artl</SPEAKER>
+<P>Fill some Wine boy: never a Drawer here?</P>
+</SP>
+<STAGE><HI>Enter</HI> DASHER.</STAGE>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>What Gentlemen, none to attend you? (whooh)
+An unlook'd for happines<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> that my unworthy selfe is
+prefer'd.</P>
+</SP>
+<SP>
+<PB N="48" REF="28"/>
+<SPEAKER>Y. W.</SPEAKER>
+<P>An inferiour servant may serve, Mr. <HI>Dasher.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I am the servant of my servant that shall serve
+you. And unlesse hee serve you he is not my servant. I'le
+tunre them all away presently for this neglect of your
+worthy Persons.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Men weare swords Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>And boyes too sometimes.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>You'l answer it?</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Answer what Child?</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Little one! Boy! Child! I shall bee degraded
+next to an infant.</P>
+</SP>
+<SP>
+<SPEAKER>Ierker.</SPEAKER>
+<P>Fie Cousin, containe. The Gentleman cannot
+brooke it.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Yes Sir, hee can brooke any thing but wronging
+of his Father.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>I pray no more, the subject is too harsh</L>
+<L>To make good musicke in societie.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Then here's a health to her that best deserves</L>
+<L>The attribute of Faire: whose white and red</L>
+<L>Prove what's lifes mixture. From whose forms exactnes</L>
+<L>Rules of Proportion might be better drawne</L>
+<L>Then from Arts Principles. To her whose Youth</L>
+<L>Warmes Winters icie bosome with her Spring;</L>
+<L>Yet will not wrong your Father. As it goes round,</L>
+<L>Each give his Mistris some comm<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nding Character.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>Why then a health to her whose beauties are</L>
+<L>Not a grosse Earth, with painted superficies;</L>
+<L>But a more spright<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>y Element of pure <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ire.</L>
+<L>Within whose <HI>Sphaere</HI> a glorious M<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nde doth move</L>
+<L>All th' orbes of vertue with celestiall flame.</L>
+<L>Whose active climbings carry her d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>si<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>es</L>
+<L>To th' utmost height of noblenesse and honour:</L>
+<L>To her that calls you Brother.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Let not your love appeare so full of flattery.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Nay, Coz; <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<L>Then here's a health to her will freely put</L>
+<L><PB N="49" REF="28"/>
+Her sweets to use. Kisse, and be kist againe</L>
+<L>Without a fie. Whose boldnesse will not blush</L>
+<L>At an assault, or any wanton touch.</L>
+<L>And if a man persist to farther doing,</L>
+<L>Accounts it losse of time, a tedious wooing.</L>
+<L>To her that I call Mistris.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Bravely come off Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>I can come on Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Now Sir, 'tis yours.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>This Sack shall then have my <HI>Encomium.</HI></L>
+<L>Which had the youthfull Father ever tasted</L>
+<L>He would have left his rites to Poetize;</L>
+<L>And chang'd his Yvy Chaplets into Bayes:</L>
+<L>Vnchain'd his spotted Linxes, and supply'd</L>
+<L>His Chariots loftier course with <HI>Pegasus.</HI></L>
+<L>And with bewitching numbers charm'd the gods</L>
+<L>To be his <HI>Bacchanalls,</HI> that they might feast</L>
+<L>With this most heavenly <HI>Nectar.</HI></L>
+</SP>
+<STAGE><HI>Enter</HI> DASHER.</STAGE>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Mr. <HI>Dasher,</HI> your Wine<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s highly commended.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I can assure you Gentlemen, the Grape from
+whence this Sacke was prest—</P>
+</SP>
+<SP>
+<SPEAKER>Y▪ W.</SPEAKER>
+<P>Grew in <HI>Spaine.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I would have fetcht it farther Gentlemen to doe
+you service. A voyage to the <HI>Indies</HI> should bee no more
+then a descending into my cellar, and up agen.</P>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<P>You have handsomely contracted your journey.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>But Mr. <HI>Dasher,</HI> you have an eminent House, ex∣traordinary
+Wine and entertainment; but no Signe at first
+to distinguish it.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Me thoughts Cousin, the Logger-heads was a
+pretty conceit.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>Had there not beene a third.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Gentlemen; I intended a paire of Scales with a
+glasse of Wine in one Ballance, and a piece of gold in the
+other, or a jewell.</P>
+</SP>
+<SP>
+<PB N="50" REF="29"/>
+<SPEAKER>Y. Wor.</SPEAKER>
+<P>An excellent conceit, to shew the value of
+good Wine.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Sweet Gentlemen, I am the servant of your noble
+wits. I must kisse the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>re hand of an honourable Lord,
+who is now departing: I will then returne to be dispos'd
+by you.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>The third Scoene.</HEAD>
+<STAGE>Enter Sir <HI>GENEROVS,</HI> young <HI>WORTHY</HI> by
+the left <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<P>Sir 'tis my father.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>Ha! my sonne here, and Mr <HI>Ierker!</HI></L>
+<L>I came i'th' person of authoritie,</L>
+<L>Invited by your noise. But that put off,</L>
+<L>Out of my love borne to the generall good,</L>
+<L>I doe advise you to be temperate:</L>
+<L>That the faire hopes conceiv'd of growing vertues</L>
+<L>Might not be lost. 'Tis pitty that your wits,</L>
+<L>Which (joyn'd with some experience) might deserve</L>
+<L>To fill the seats of Magistracie, and be</L>
+<L>A speaking law) should spend themselves in places</L>
+<L>And acts of sin and shame; wherein severitie</L>
+<L>Of law and government must not be partiall.</L>
+<L>Therefore I pray no more of these disorders.</L>
+</SP>
+<SP>
+<SPEAKER>Y. Wor.</SPEAKER>
+<L>Pray Sir, take nothing ill. 'Tis the necessity</L>
+<L>Of his place: his disposition else is milder.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Sir, we are Gentlemen; and by that priviledge</L>
+<L>Though we submit to politique Government</L>
+<L>In publique things may be our owne law-makers</L>
+<L>In morall life. If we offend the law</L>
+<L>The law may punish us; which onely strives</L>
+<L>To take away excesse, not the necessity</L>
+<L>Or use of what's indifferent, and is made</L>
+<L>Or good or bad by 'ts use. We doe not drinke</L>
+<L><PB N="51" REF="29"/>
+To a distemper, and from thence derive</L>
+<L>Th' originall of mischiefes: nor is pleasure</L>
+<L>Our law but temperance. Creation made</L>
+<L>Every thing good, if we abuse it not.</L>
+<L>Then good Sir, (though you find enormitles</L>
+<L>Amongst the rabble) be not so suspitious</L>
+<L>Of our more carefull carriage, that are gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>You have said to satisfaction</L>
+<L>And more then I expected. Harke you sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<P>I did not think th'adst beene so good an Oratou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Why friend? because wanton familiaritie</L>
+<L>Make's us lesse serious when we are alone,</L>
+<L>Must it necessitate we cannot speake</L>
+<L>In a high cause! Cousin, you must be carefull</L>
+<L>Of your behaviour: you are before a Iustice.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Why Cousin, have Iustices power over a mans
+will?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Some busie ones have arrogated much;</L>
+<L>But being told their owne have ever since</L>
+<L>Given Gentlemen a due respect.</L>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<L>I'le make a tryall here. Please you a little</L>
+<L>To put off this severer gravitie;</L>
+<L>And drinke a glasse of Sack. Your age is Priviledge</L>
+<L>In what the law of moderation,</L>
+<L>Denies our hotter blood.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>Pretty sweet Gentleman. Is't possible</L>
+<L>That one so young, should have so gray a wit;</L>
+<L>'Tis wanting many times in graver beards.</L>
+<L>Please you Mr. <HI>Ierker,</HI> to bring these Gentlemen to my
+house to supper. You'l find some emptie dishes.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>We know your table's plentifully furnisht.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>This was very good Sacke, neighbour. Pray
+send me home a dozen Bottles. And keepe good orders.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>The best orders that can be kept in my hous<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>
+or any office of my house shall bee at your Worships ser∣vice.</P>
+</SP>
+<SP>
+<PB N="52" REF="30"/>
+<SPEAKER>Ieffr.</SPEAKER>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ogh; that complem<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nt stinckes.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>You are very cou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ou, neighbour. Will you
+goe along with me Gentlemen!</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>We are your servants. 'Tis a blest opportunity.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>You shall now make tryall of my profest love.</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>The reckoning M. <HI>Dasher</HI></P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>Wee'l take the Barr<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/> our way.</P>
+</SP>
+<STAGE>Goe forth by the left <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Dasher.</SPEAKER>
+<P>You'l doe mee honour to pay it there. Ten
+thousand welcomes wait upon you Gentlemen (whoo<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>)
+Come sirrah, be the <HI>Mercury</HI> of neatnesse, and nimbly set
+this disorder'd roome in order. Then give the gentleman
+below notice, that it is now ready to doe him service:
+Hee's like to be a bountifull guest. He talks of selling his
+Land, and being a Wit: but how can that agree together I
+yes, very well. A countrey Gentleman to s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ll his land, is
+as it were to change his copie: leave his knowne trade to
+project a better profit. Which changing of Copie here
+with us, ends many times in the citie freehold at Lud∣gate.</P>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>The fourth Scoene.</HEAD>
+<STAGE>Enter <HI>DVNG VVORTH, RALPH</HI> and <HI>DOBSON,</HI>
+by the left <HI>SCOENE.</HI></STAGE>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Worthy Sir, I have now made ready a roome to
+entertaine your worthy person. My house was so cramd
+with Lords; and this especially with most choyce gentle∣men,
+some of the admired wits, to which very name I owe
+respect and service.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>'Tis a fine Chamber, it shines like a Gold-smiths
+shop in Cheap-side.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>'Twould much inde<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>re mee to your kindnesse
+to bring mee acquainted with some of those Wits: you
+say they keepe their rendevous here many times. If I may
+<PB N="53" REF="30"/>
+mold my selfe capable I should gladly add to their number.
+Indeed, I have had but Countrey breeding.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>City bringing up forfooth.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Yes; for we ridd like mad men.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Questionlesse, Sir, there are of the wits some
+mercenary ones, whom your money may command to be
+your servants. But these are of a nobler straine. Howsoe∣ver,
+I will upon the next occasion shew my desire to doe
+you service.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Prethee <HI>Ralph,</HI> what be those Wits? A familie?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>No <HI>Dobson,</HI> they be of all tribes. Some are Iewes,
+and some are Gentiles. Some are noble both in blood
+and condition, and some in neither. Some studie Arts
+of use; some of delight; some conceive well, but talke
+wickedly.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Those be the Women <HI>Ralph.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ral.</SPEAKER>
+<P>No interruptions. Some breake jests; some breake
+pates; some breake Tailours; and some breake their
+fasts with Duke <HI>Humphrey.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>A wise house-keeper belike.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Some weare Plush that others pay for. Some
+love Sacke, and some love wenches. Few will dye of the
+Aldermans Gout, and some will never bee cur'd of their
+owne—</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>I understand thee <HI>Ralph.</HI> But how com'st thou
+to know all this?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Tut man; I liv'd in <HI>London</HI> before now; was
+servant to one that converst much with the wits, and kept
+an Academie of Musicke. I tell thee <HI>Dobson,</HI> I have pickt
+up mo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e learning among the crummes of a broken bisket,
+after one of their meetings at a Taverne, then would
+make twenty Ballad-makers commence Po<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>tasters; and
+with the over-plus indoctrinate ten Iustices Clerks, and
+an under-Sheriffe.</P>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<PB N="54" REF="31"/>
+<HEAD>The fifth Scoene.</HEAD>
+<STAGE><HI>Enter</HI> Mris. TONGALL, <HI>and</HI> LITTLEVVORD <HI>by
+the left</HI> Scoene.</STAGE>
+<SP>
+<SPEAKER>Dungw.</SPEAKER>
+<P>Sweet Mistris, you are welcome to my ex∣pectation.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>If my presumption to bring a worthy acquain∣tance
+along with me, seem's not unmannerly.</P>
+</SP>
+<SP>
+<SPEAKER>Dungw.</SPEAKER>
+<P>You rather expresse kindnesse to a stranger
+that desires worthy company.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Sweet Mr. <HI>Dasher,</HI> you are the best Woman Vin∣tener
+that ever lov'd a Gossips tale. You have so many
+good things to pleasure a woman with. You were wont to
+have an excellent neat tongue.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Sweet Mris. <HI>Tongall,</HI> my best tongue, and all is
+at your service.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Kind Master <HI>Dasher.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>To your welcome Mistresse.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>My humblenes receives your favour thankfully.
+My service to you Mr. <HI>Dasher.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I kisse the hand of your servant.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>And make a legg. This Vintener sure hath had
+very mannerly breeding. he came not from the Bankes
+side, where the surly Watermen live.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Noble sir, I presume to present my desires to doe
+you service.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>This Gentleman hath lesse manners. Hee an∣swers
+nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>My friend (Sir) though he be of few words,
+is a fine wit, and a great observer.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>A Wit, Mistris; I shall be the prouder of his ac∣quaintance.
+But when I am a Witt, I shall preferre my
+talking before my observation.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>I thank you Mr <HI>Little-word.</HI></P>
+</SP>
+<SP>
+<PB N="55" REF="31"/>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Mr. <HI>Littleword</HI> and Mris <HI>Tongall!</HI> very good.
+Sure this woman had a French-man to her Father.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Indeed Mr. <HI>Dasher,</HI> 'tis excellent Sacke. If you
+were unmarried you should have my daughter <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>inny,</HI> for
+keeping such good Wi<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/> in your house.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I retribute all due thanks for your kindnesse, that
+you would doe me so great an honour.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Mistris, you said I should have your daughter.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>My friend, why so thou shalt. This Sacke makes
+my heart merry.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Who then shall my Master have?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Why my Daughter linny.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>A right woman: so her tongue goe, no mat∣ter
+what she sayes.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>What will that Gentleman with his table-booke!</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Let's have a health to some body.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Please you Sir, to my daughter Iinny.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Let it goe round then.</P>
+</SP>
+<SP>
+<SPEAKER>Tongall.</SPEAKER>
+<P>And hee that will not pledge it, shall not
+have her.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>I hope we shall drinke now <HI>Ralph.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Else we lose both our share of the Sack, and our
+hopes of her daughter Iinny.</P>
+</SP>
+<STAGE>Ent. Drawer.</STAGE>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Some more Wine.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>(Whooh) be nimble sirrah; and bring of my
+kingdome (that's my word for good wine) that it may
+wait on these Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P><HI>William,</HI> thou art an honest fellow; and if thou
+bringst us good wine, thou shalt have my daughter Iinny
+from them all.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Sure this Gentleman write's what I speake. I
+hope 'twas not treason to say my Kingdome. I would I
+knew what he were.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>The Vi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>tener seem's troubled at this Gentle∣mans
+table-booke.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>'Tis his practise of observation. Hee is taking
+<PB N="56" REF="32"/>
+a humour for a Play: perhaps my talking of my daugh∣ter
+Iinny.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>I'le hatch some mirth from it. Sir, you must not
+take it ill, if I tell you of your errours. You have spoken
+somthing rashly.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Kind and worthy Sir, my life is your servant for
+this noble care.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>That silent Gentleman is an intelligencer; a state
+spie. Hee'<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> informe against you. Therefore complie with
+him to prevent it. 'Tis his pollicie to say nothing him∣selfe,
+that his observation may be the more, and his owne
+danger the lesse.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Sir, I owe your goodnesse all that ever I have
+beene, am, or shall be. He writes againe.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>Now Mr. <HI>Little-word,</HI> you have some fine mat∣ter
+there to worke upon.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>To undoe me. Sir, I desire you will command
+all that is to bee commanded in my house to doe you ser∣vice.
+Yes, yes; he writes againe.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>That word command is a word of great dan∣ger,
+I would you had not us'd it.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Alas Sir, Mris <HI>Tongall,</HI> 'twas not neighbourly
+done of you to bring an informer into my hous<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>How, I bring an Informer! as I am a Matron, he's
+a Gentleman, a wit, and a rare Projector.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I believe it, to undoe a poore Vintener, that
+cannot complement a Gentleman into a ten pounds ex∣pence;
+but his necke must be in danger. Sir, if I were a
+King I would be your servant. He writes againe.</P>
+</SP>
+<STAGE>Enter a <HI>BOY.</HI></STAGE>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Blesse me Sir, you have spoken treason.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Alas, Sir, I, am undone then.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Master, the Constable and other officers are com∣ming
+up.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Yes, yes; to apprehend me.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>'Tis for us, <HI>Dobson.</HI></P>
+</SP>
+<SP>
+<PB N="57" REF="32"/>
+<SPEAKER>Dung.</SPEAKER>
+<P>The Constable▪ I hope wee are not suspected
+persons.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>If I thought you were, you should never have my
+daughter Iinny.</P>
+</SP>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>The sixth Scoene.</HEAD>
+<STAGE>Enter <HI>CONSTABLE</HI> and <HI>OFFICERS;</HI> by
+the left <HI>SCOENE.</HI></STAGE>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>By your leave Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>You are welcome Sir, and I pray be gone.</P>
+</SP>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>But not without you Sir. You are suspected, and
+must answer—</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>Answer what? heere are neither Traitors nor
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I feare I shall be prov'd both.</P>
+</SP>
+<SP>
+<SPEAKER>Tong▪</SPEAKER>
+<P>No Sir, nor night-walkers that are taken up, and
+cast downe I have declar'd my selfe of as good carriage
+as any in the neighbour-hood; and my daughter Iinny
+waits upon an honourable Ladie.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Mr. Constable, I am your servant, I hope you
+suspect no Traitors in my house. If you doe, they shall
+wait upon you into the Cellar; and there commit what
+treason you will against as good Sack as is in the King of
+<HI>Spaines</HI> Dominions. The Gentleman writes still. I am ut∣terly
+lost.</P>
+</SP>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>There are two suspected to be heere, that have
+broken the peace, and committed a robbery.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Denie it <HI>Ralph.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>I tell you Constable, there are none heere,
+but can breake the peace, as well as you that are a Con∣stable.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>They shall obey your authority, and in the Vin∣teners
+phraze wait upon you.</P>
+</SP>
+<SP>
+<PB N="58" REF="33"/>
+<SPEAKER>Dash.</SPEAKER>
+<P>I feare I must wait upon the Gallowes.</P>
+</SP>
+<SP>
+<SPEAKER>Dungw.</SPEAKER>
+<P>Being my servants, Ple goe likewise along
+with you.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Yes, yes; a meere plot to goe along, that hee
+may witnesse against me.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Feare nothing <HI>Ralph,</HI> the Gentlewomen will
+not see us hang'd.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>But they may suffer us, and that's a word for
+hanging.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>You seeme apprehensive of your owne danger.
+There's a reckoning to pay; if you but forgive it, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>'le free
+you from this Gentlemans information.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Most gladly Sir, and bee your servant. But how
+shall I be sure of it?</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>You shall heare it from his owne mouth. You
+will not (Sir) informe any thing against this man! I pray
+say no.</P>
+</SP>
+<SP>
+<SPEAKER>Little.</SPEAKER>
+<P>No.</P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>I am satisfied: and will be your servant in any
+thing but treason.</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>But be sure you speake to Mistris <HI>Dorothy.</HI> Nay
+I'le along with you too, and perhaps speake a good
+word.</P>
+<P>I have acquaintance with the Iustice, and his Clerke
+knows my daughter <HI>Iinny.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dash.</SPEAKER>
+<P>Let mee bee your servant Mr. Constable, and
+light you downe. I hope my house will receive no scan∣dall
+by this.</P>
+</SP>
+<SP>
+<SPEAKER>Dung.</SPEAKER>
+<P>'Twas a beginning yet, and more may hit.</P>
+<P>Thus in th' abus'd sense cheating is cal'd wit.</P>
+</SP>
+<STAGE>Goe forth by the left <HI>Scoene.</HI></STAGE>
+</DIV2>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<PB N="59" REF="33"/>
+<HEAD>Act. 5. Scoen. 1.</HEAD>
+<STAGE>Enter <HI>SVSAN,</HI> by the middle <HI>SCOENE.</HI></STAGE>
+<SP>
+<SPEAKER>SVSAN.</SPEAKER>
+<P>THanks honest <HI>Nicholas.</HI> 'Tis time to cover: my La∣dy
+will to supper so soone as my Master comes home.
+He brings strangers with him. This Butler is the kindest
+fellow to a Gentleuman; and deserves my love more for
+this bottle of Sacke, then <HI>Warrant</HI> or <HI>Spruce</HI> for fighting.
+Come thou inspirer of a diviner soule, that teachest my∣steries,
+of which without thee none are capable: to bee
+valiant; to love; to Poetise: suffer a thirsty gentleuman
+to delight her drye pallat with thy sweet moisture, and re∣fresh
+her spirits with thy comfortable operation. <HI>(Drinks)</HI>
+Excellent Sack, as I am a Gentleuman. Now am I in love
+with my old Master for buying it; wth the Vintener for
+selling it; with the Drawer for drawing it; nay, with the
+very Porter that brought it home: but most of all with
+kinde <HI>Nicholas</HI> for bestowing it upon mee; good heart,
+hee hath v<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nt<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>'d a chiding if it should be mist. <HI>(Drinks.)</HI>
+What foolish Poets were they that made the more foo∣lish
+gods drinke <HI>Nectar!</HI> Had <HI>Apollo</HI> presented <HI>Daphne</HI>
+but with a cup of such Sack, sh<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e would have lov'd him,
+as I d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e <HI>Nicholas:</HI> but not to lye with him. A gentle∣uman
+must not humble her selfe to a Butler. <HI>(Drinks.)</HI>
+My Ladie.</P>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<PB N="60" REF="34"/>
+<HEAD>The second <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/></HEAD>
+<STAGE>Enter <HI>LADIE,</HI> by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Lady▪</SPEAKER>
+<L>What is't should make my Husbands jealousie</L>
+<L>Rage <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>o within him to suspect the visits</L>
+<L>Of every friend! Cannot my carefull carriage</L>
+<L>Kill his distrust, and make him confident!</L>
+<L>Many a young Ladie that had such excuses</L>
+<L>As I may well pretend, his age, diseases,</L>
+<L>And all the cold defects are incident</L>
+<L>To a decaying strength, would priviledge</L>
+<L>Her rasher wills dispense with young desires.</L>
+<L>Such are in me; but not to satisfaction:</L>
+<L>I must not wrong my fame: though my hot bloud</L>
+<L>Should danc<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> a lustfull measure. But hee's jealous;</L>
+<L>And I must practise some strange cure upon it.</L>
+<L>Secretary.</L>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Madame.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Why doe you gaze upon me?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>I would not for th'exchange your Ladiship were
+a man.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>And why so?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>I should runne madd, for love of your La∣diship.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>What humour have you got? you have sure beene
+tipling. Fie Secretary.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>I hope your Ladiship hath a better opinion of
+your uman, then to be earnest because she jests.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>You know Mr. <HI>Ierker?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>A very handsome gentleman. I wonder no wor∣thy
+Gentleuman is in love with him:</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>No Secretary; what thinke you of me?</P>
+</SP>
+<SP>
+<PB N="61" REF="34"/>
+<SPEAKER>Susan.</SPEAKER>
+<P>Doth your <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> truely and so
+doe.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>But not as I doe▪</L>
+<L>I could betray mine honour to his l<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ve;</L>
+<L>And s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ll my fame for his <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> embraces▪</L>
+<L>Give those delights which are my Husbands due</L>
+<L>To his enjoying.</L>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>And w<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ll your Ladiship discover this to mee?
+Truely I meane not to bee degraded from your Ladiships
+uman, to hold the doore, and crye, my Master's comming.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Thy employment shall be</L>
+<L>Whe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> wee are closely set at dallyance</L>
+<L>Blush not what ere thou seest; but call thy Master;</L>
+<L>The service may be worth a new gowne.</L>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>How, call my Master! Did ever any Ladie en∣joy
+a friend in a corner, and wish her Husband (who is
+sufficiently jealous alreadie) to see it! Now as I am a
+Gentleuman, and had rather bee a Ladie, 'tis not my
+mind.</P>
+</SP>
+<SP>
+<SPEAKER>Lady▪</SPEAKER>
+<L>But 'tis mine;</L>
+<L>His knowledge of't would add to the delight,</L>
+<L>And make th' offence lesse. Citie Dames can practise</L>
+<L>Slights to deceive their Husbands, mine shall know it.</L>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>But is your Ladiship earnest?</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>As earnest as resolves can make me.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>But I am resolv'd not to obey your Ladyship.
+Shall I that am my Ladies Secretary as it were, be treache∣rous
+to her secrets? Then let me not be counted a gentle∣uman.
+If it please your Ladiship Ile tell him you intend
+such a thing that he may prevent it.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Dispute not my commands, but doe them:</L>
+<L>O<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> I shall stop the current of my favours.</L>
+<L>That hitherto have flow'd so fully on thee.</L>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<PB N="62" REF="35"/>
+<HEAD>The third Scoene.</HEAD>
+<STAGE><HI>Enter Sir</HI> GENEROVS WORTHY, IERKER,
+ARTLOVE, <HI>Y.</HI> WORTHY, SVSAN, IEFFREY,
+<HI>by the middle</HI> SCOENE.</STAGE>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>I have brought you some guests Wife. Send
+your entertainment be worth their labour.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>I could wish it much better for Master <HI>Ierkers</HI>
+sake.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>I feare you are too free that way.</L>
+<L>I am yet a man, and my declining age</L>
+<L>Hath not so weakened judgement in me,</L>
+<L>That passion should betray my jealous thoughts.</L>
+<L>Nor can I but suspect, and must be satisfied.</L>
+<L>Her woman is the instrument. Mris. <HI>Susan.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Pray Sir, let me prepare her. No more will I</L>
+<L>In the severer Person of a counsellour</L>
+<L>Instruct your care. But since by curious search</L>
+<L>I have inform'd my knowledge</L>
+<L>Even to satisfaction of his worth,</L>
+<L>Let me commend this noble gentleman</L>
+<L>Vnto your best desires; let him possesse them.</L>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>Brother, without mature consideration</L>
+<L>I dare not doe an act; on which depends</L>
+<L>Such dangerous events.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>My love's your warrant.</L>
+<L>Have not I searchd him throughly? have not I</L>
+<L>Found him deserving all that's due to man,</L>
+<L>Though malice were his judge. View but his person,</L>
+<L>Art could not shape a m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>re exact prep<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rtion:</L>
+<L>And through his Christall bosome read his heart</L>
+<L>Wherein such noble thoughts are character'd—</L>
+</SP>
+<SP>
+<PB N="63" REF="35"/>
+<SPEAKER>Susan.</SPEAKER>
+<P>You shall command a poore Gentleuman any
+thing; neither doe I expect reward. I onely desire you
+will accept it as an act of my love. But why should you
+be jealous of my Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Aske me no idle questions, but doe it. Thou
+mayst bee a Lady thy selfe, if it lie in my power to raise
+thee.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Alas Sir, an old man raise a Gentleuman.</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>We have a father (Brother) to whose care</L>
+<L>We owe another dutie, then that onely</L>
+<L>Which Nature hath injoyn'd us for receiving</L>
+<L>Our beings from him. Let not our rash wills</L>
+<L>Sway'd onely by desire, run any course</L>
+<L>Agrees not with his liking: Yet I'le tell</L>
+<L>The Gentleman how much he owes your love</L>
+<L>For thus commending him.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>How now Sir <HI>Generous?</HI></L>
+<L>Courting my woman? am not I warme enough</L>
+<L>To thaw your frozen appetite?</L>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<L>Truly Sir, if my Lady knew how much I lov'd</L>
+<L>you, 'twould make her jealous.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Indeed it would not.</L>
+<L>Revenge should be a remedie.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>That's my feare.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Nay, to her againe; you are not the first</L>
+<L>That hath abus'd his Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Wife, forgoe these fond thoughts, and with
+care apply your selfe to entertain these gentlemen.
+I'le to my closet.</P>
+</SP>
+<STAGE>goes forth.</STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I want but th' opportunity of their absence,</L>
+<L>Which I must straight contrive.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>I am now animated</L>
+<L>To come the neerest way without more circumstance;</L>
+<L>And tell you how your beauty and your vertues</L>
+<L>Have won on my desires to make them yours.</L>
+</SP>
+<SP>
+<PB N="64" REF="36"/>
+<SPEAKER>Dorot.</SPEAKER>
+<L>I thanke you Sir, and could mine owne eyes see</L>
+<L>But halfe that worth my Brother sayes is in you,</L>
+<L>My equall thoughts should answer.</L>
+</SP>
+<SP>
+<SPEAKER>Y▪ W.</SPEAKER>
+<P>What said she Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>It seemes you did commend me!</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Yes by my hopes of good, no otherwise</L>
+<L>Then I desire to have my selfe commended</L>
+<L>Vpon the like occasion.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<P>I must thanke you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>I doe interpret it; and have thought upon</L>
+<L>Another tryall. Let me intreat you Sister</L>
+<L>To conster my intentions right. Though I</L>
+<L>Commended him, 'twas onely to distinguish</L>
+<L>Your passion and your reason. Now I find</L>
+<L>The latter strongest, that you refuse the love</L>
+<L>Of one so much defective.</L>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>How! defective!</L>
+<L>Brother, my judgement hath as searching eyes</L>
+<L>Can see the fulnesse of his manly worth</L>
+<L>Through all the vailes of your detraction.</L>
+<L>And now to shew how much I doe prefer</L>
+<L>The freedome of my will before your counsell;</L>
+<L>I'le tell him I doe love him.</L>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Sister, I hope</L>
+<L>You are not earnest!</L>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>As earnest as my love;</L>
+<L>Which since I first beheld him tooke possession</L>
+<L>Of all my though<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s, though customary nicenesse</L>
+<L>Restraind me from discovering them; but now—</L>
+</SP>
+<SP>
+<SPEAKER>Lady</SPEAKER>
+<P>Pray daughter oversee the servants.</P>
+</SP>
+<STAGE>Exit Dorothy.</STAGE>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<P>Mother beshrew your heart, she was in a good
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>eine. But come sir, wee<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>l pursue it.</P>
+</SP>
+<STAGE>Exeunt young Worthy, and Artlove.</STAGE>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>It hath beene no small punishment for mee to
+<PB N="65" REF="36"/>
+hold my peace all this while. My Cousin is morall be∣fore
+companie and counsel's my manners. But now I hope
+my tongue shall have libertie; and her's my Ladies gen∣tleuman
+to exercise it with.</P>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<P>Your little Cousin may stay. How like you the plot?</P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>As the end proves it. And since your constancie</L>
+<L>Hath held out 'gainst my leud temptations,</L>
+<L>Which have as well beene tryals of your vertues</L>
+<L>As acts of wantonnesse, I here desist.</L>
+<L>Henceforth my tongue shall never uttor sound</L>
+<L>Offensive to your modestie.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Pray let's sit,</L>
+<L>And enter on the project, though it be nice</L>
+<L>When wit masks vertue in a cloke of vice.</L>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>They are going to it, and heer's a little one will
+tell. Pray sir, can you keepe counsell?</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>As well as a woman.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Indeed they and children are kin.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>You need not feare your secrets.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Then I shall love you heartily. But pray Sir, no
+medling with a gentleumans apron. Here's that will helpe
+your growth: Please you to partake.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>She abuseth me, I must fit her. What is't Mistris?</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Sack I assure you Sir; and I hope you will love
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> poore gentleumans as she loves you.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>If the Butler be not too deeply interested.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Secretarie.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>Madame.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>You forget your imployment.</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>I saw your Ladiship doe nothing yet.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Doe we not kisse!</P>
+</SP>
+<SP>
+<SPEAKER>Susan.</SPEAKER>
+<P>I runne then, and dare not looke backe for feare
+of blushing.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>What strange contrivement's this?</P>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<PB N="66" REF="37"/>
+<HEAD>The fourth Scoene.</HEAD>
+<STAGE>Enter Sir <HI>GENEROVS WORTHY</HI> with <HI>SVSAN,</HI>
+by the middle <HI>Scoene.</HI></STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Nay, blush not Mr. <HI>Ierker,</HI> ours is no act of
+shame, but to be gloried in; youth to youth. Sir <HI>Generous</HI>
+are your hornes so lop-heavy they make you hang the
+head. Never droop at it man. A Lord may bee a Cuck∣old
+and never the wiser: you have gotten the knowledge
+of what o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> did but suspect before.</P>
+</SP>
+<SP>
+<SPEAKER>Sir. Gen.</SPEAKER>
+<L>Out of my warring thoughts discretion</L>
+<L>Ha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> horder'd a resolve, whose practise shall</L>
+<L>Preserve my credit. Though I much wonder</L>
+<L>A womans smooth hypocrisie should make</L>
+<L>Even her secret'st actions to appeare</L>
+<L>Most vertuous; yet in this to staine her whitenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>I did it Sir to cure your jealousie</L>
+<L>More then for satisfaction of desire,</L>
+<L>Which I have often satiated, when</L>
+<L>Your cold abilities were comforted</L>
+<L>With downe and sileuce; when your dreames presented</L>
+<L>The quiet of a grave.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>I did it Sir,</L>
+<L>In gratitude for your hospitality.</L>
+<L>Please you to take my counsell. Be divore't.</L>
+<L>You need no proofes, since shees her owne accuser.</L>
+<L>I'le then procure a dispensation</L>
+<L>And wee'l be marr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ed.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>'Tis assented to.</L>
+<L>Nay more, I'le give you all her portion backe:</L>
+<L>Nor shall the least disquiet in my thoughts</L>
+<L>Make me remember it. Think not (young man) mine age</L>
+<L><PB N="67" REF="37"/>
+So weake▪ but I can conquer passion.</L>
+<L>My act sh<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>l instantly have confirmation;</L>
+<L>And be a president where such inequality</L>
+<L>Of yeares are joyn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Pray good Sir <HI>Generous stay.</HI></L>
+<L>I have not yet consented; and I thinke</L>
+<L>The Law cannot dispense whilst either live.</L>
+<L>If you resolve divorce, you<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>l onely force me</L>
+<L>To an unwil<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ing widdow-hood; and how little</L>
+<L>My innocence deserves, the least suspect,</L>
+<L>Though I did faigne a guilt for better ends,</L>
+<L>Iust heaven can witnesse. There was no necessity</L>
+<L>To tempt my woman to discover us.</L>
+<L>It was my first command.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>I heare strange words</L>
+<L>Which must be scann'd and construed.</L>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<L>Here my solicites cease. But I desire</L>
+<L>I may <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>em<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ine the servant of your vertues,</L>
+<L>And weare your favours livery, whose example</L>
+<L>H<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>h won on my resolves to reconcile</L>
+<L>My <GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>lder soule.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Whilst you persever in't,</L>
+<L>I shall preserve you in my purest thoughts;</L>
+<L>But never to infect them.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>The World reputes me</L>
+<L>A man of full discretion; and mine age</L>
+<L>Is not so rotten yet, to betwice childe.</L>
+<L>Hence yee vaine jealousies, that in love diseas'd</L>
+<L>Are peccant humours: therefore must be purg'd.</L>
+<L>Come to my bosome patterne of true goodnesse.</L>
+<L>Nere more those bug-beares to the minds blest quiet</L>
+<L>Shall fright thee thence.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Then will my joyes be setled.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>Good Sir forgive</L>
+<L>The rashnesse of my passion. I'le no more</L>
+<L><PB N="68" REF="38"/>
+Be jealous of your visits; but desire</L>
+<L>The love I beare your person may beusefull</L>
+<L>To all g<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>od ends.</L>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<HEAD>The fifth Scoene.</HEAD>
+<STAGE><HI>Enter Y.</HI> WORTHY, ARTLOVE, DOROTHY, <HI>&amp;c.</HI></STAGE>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>Nay, blush not Sister;</L>
+<L>Though it be vertues colour. Say't agen.</L>
+<L>Here are more witnesses.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Whence growe's this exultation?</P>
+</SP>
+<SP>
+<SPEAKER>Y. W.</SPEAKER>
+<L>From in ward joy that she affects this gentleman,</L>
+<L>Whose Vertues wonn</L>
+<L>Vpon my love to be his Oratour;</L>
+<L>And not respects infected with the mixture</L>
+<L>Of any worse condition.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Doe you love him?</P>
+</SP>
+<SP>
+<SPEAKER>Dorot.</SPEAKER>
+<L>I hope to your kind judgement 'twill appeare</L>
+<L>A vertuous truth.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>If he be found deserving</L>
+<L>In the dependances on bloud and fortune</L>
+<L>I shall consent, and then may mutuall love</L>
+<L>Render you happy.</L>
+</SP>
+<SP>
+<SPEAKER>Artl.</SPEAKER>
+<L>How am I blest that your white soule</L>
+<L>Hath bounded it's desires within the circuit</L>
+<L>Of my too narrow worth!</L>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>Supper not ready yet <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> my servants are musi∣call;
+please you Gentlemen to dance a little. 'Tis a health∣full
+exercise; bid them prepare their instruments. Come,
+come, settle to it.</P>
+</SP>
+<STAGE>Spruce and Warrant, enter
+with Musicke.</STAGE>
+<SP>
+<L>I love to see a nimble activenesse</L>
+<L>In noble youth; it argues active minds</L>
+<L>In well shap't bodies, and begets a joy</L>
+<L>Dancing within me.</L>
+</SP>
+<STAGE>Dance.</STAGE>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<PB N="69" REF="38"/>
+<HEAD>The sixth Scoene.</HEAD>
+<STAGE><HI>Enter</HI> LITTLEVVORD, TONGALL, DVNGVVORTH,
+CONSTABLE, RALPH <HI>and</HI> DOBSON, <HI>by
+the middle</HI> Scoene.</STAGE>
+<SP>
+<SPEAKER>Sir. Gen.</SPEAKER>
+<P>Welcome neighbour <HI>Tongall:</HI> what meane
+these people?</P>
+</SP>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>I have brought them, an't please your Wor∣shipp.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gener.</SPEAKER>
+<P>Whom, and't please you, Master Con∣stable.</P>
+</SP>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>The theeves, and't please your Worship, that
+rob'd your worships Clerke.</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Now <HI>Warrant.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>How! I rob'd! the Constable is surely drunke.
+I was not rob'd.</P>
+</SP>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>How's that! did not you bring mee to the Ta∣verne;
+shew mee the fellowes, and direct me to appre∣hend
+them? Did you not promise me a share if they might
+be brought to a composition?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Who? I? verily I say I know thee not.</P>
+</SP>
+<SP>
+<SPEAKER>Consta.</SPEAKER>
+<P>How! not know the Constable! Come Mr.
+<HI>Warrant,</HI> let mee understand the mysterie without being
+farther abus'd. You forget the place where wee had re∣creation
+for nothing, onely promising the wenches favour
+upon occasion: against whom wee afterwards inform'd
+to get fees.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gener.</SPEAKER>
+<P>Is't noe otherwise? it shall raise some
+mirth.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>Did not I tell thee <HI>Ralph,</HI> the Gentlewomen?</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Well, 'tis a rare thing to bee a Justice. Were
+I but swel'd with a little authoritie, mee thinks I could
+<PB N="70" REF="39"/>
+crye, you Rogue, you Rascall, or you Constable, most
+gravely.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>And 'tis as rare a thing to bee a Constable; to
+command in the name of authority, and bee drunke at
+midnight, without danger of the st<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ks.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>I shall respect him Mris. <HI>Tongall.</HI> Mr. <HI>Con∣stable</HI>
+I doe conceive an abuse done to my person, in that
+you here traduce two strangers, pretending appointment,
+when none will accuse them; nor can I suddainly disco∣ver
+the errour.</P>
+</SP>
+<SP>
+<SPEAKER>Constable.</SPEAKER>
+<P>Now by all the painted authoritie of my
+staffe—</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>No swearing Constable; I have determin'd
+to conferre a power upon the accused, to judge both
+it and you; and the most offendors shall suffer what shall
+be due.</P>
+</SP>
+<SP>
+<SPEAKER>Consta.</SPEAKER>
+<P>Whither shall I fall! from my Empire of com∣mand,
+to obey a mock-Constable! <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> danger of exam∣ple
+forbid it, that Clownes and fooles b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> not made Justi∣ces
+in earnest.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>No more of this modestie: I'le have it so;
+and exercise your wit. I have knowne a Countrey fellow
+full of knavish clinches.</P>
+</SP>
+<SP>
+<SPEAKER>Dobson.</SPEAKER>
+<P>Yes Sir, 'tis ordinary in a Smith.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Then if I fit you not for a Justice.</P>
+</SP>
+<SP>
+<SPEAKER>Dobson.</SPEAKER>
+<P>And I for a Constable. You shall heare my
+tone.</P>
+</SP>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>And I for an offendor.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Can you write and read young gentleman?</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Like a gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Then you shall be my Worships Clerke. And
+so I assume authoritie. (hem, hem)</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>Now shall we be jeer'd out of our skins.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Set a good face on't.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>(hem, hem,) what are you sirrah?</P>
+</SP>
+<SP>
+<PB N="71" REF="39"/>
+<SPEAKER>Dobs.</SPEAKER>
+<P>I am <HI>Dobson,</HI> the Constable and'<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> please your
+Worsh<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>p.</P>
+</SP>
+<SP>
+<SPEAKER>Const.</SPEAKER>
+<P>He lies and't please your Worship, I am the
+Constable.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>You were the Constable; but your dignitie is
+justly taken from you, and conferr'd upon honest <HI>Iohn
+Dobson.</HI> Thou hast beene a raskall sirrah, a corrupt Con∣stable.
+Thou hast converst with deeds of darknesse, ha∣ting
+the all light, but wenches and a lanthorne: which a
+married Constable can never want at midnight. Thou
+hast watch't little and pray'd lesse: thou shalt therefore
+fast thy selfe into amendement. And so I commit thee
+with thy guard of Bill-men to the mercie of a Shrove-Tuesdayes
+rebellion. (hem, hem.)</P>
+</SP>
+<SP>
+<SPEAKER>Dobson.</SPEAKER>
+<P>Here's an other refendant, and't please your
+Worship.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>N<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>w Sir, what are you?</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>A Justices Clerke.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Oh, I know you sirrah.</P>
+<P>You write true Latine, not to be understood by the Wor∣shipfull
+bench.</P>
+</SP>
+<SP>
+<SPEAKER>Warr.</SPEAKER>
+<P>Your Worship is misinform'd. I cannot write
+true <HI>Orthographie</HI> without a Copie; and for Latine, I
+have lesse then the Dean<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> of Dunstable. I have read <HI>Igno∣ramus:</HI>
+but finding hard words which were not in the
+Dictionary; I sweare I understand it no more then <HI>Igno∣ramus</HI>
+himselfe.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Make his <HI>Mittimus</HI> and send him to schoole;
+(hem, hem,) what are you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Spruce.</SPEAKER>
+<P>A Gentleman Vsher.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>You are a Malki<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> of mock-Gentry; made up
+of silke and vaine-glory. You begin to grow out of fa∣shion.
+I will therefore have you stitcht into a case of com∣plements,
+and commended to some thrifty house-keeping
+Ladie in the Countrey, where you may save her Ladiship
+<PB N="72" REF="40"/>
+the charge of a Taylour; and if you can read, serve for a
+house-Chaplaine in rainy weather. (hem, hem.) Bring
+that Countrey Gentleman before me.</P>
+</SP>
+<SP>
+<SPEAKER>D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ng.</SPEAKER>
+<P>You'<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> grow saucie sirrah.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gene.</SPEAKER>
+<P>Pray let's uphold the jest. I'le not spare mine
+owne person. Your servant's witty.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>You are a Countrey Gentleman; a Gallant out
+of fashion all the yeare; but especially at Se<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>sions, and
+upon high Holi-dayes, when your sattin doublet drawes
+away the eyes of the simple, aud distracts their devoti∣on
+almost into Idolatry: giving it more worship then the
+Heraulds ever gave your Auncestors. You intend as I
+understand to come forth in a new Edition: and whe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+the Mercers and Tailors have new printed you; and that
+some gentile wit may be read in your Character to marry
+a Wife in the City. You shall then have a passe sealed up∣on
+her by a Courtier; be ship't at Cuckolds haven, and
+so transported into <HI>Cornwall.</HI> (Hem, hem.) Now Sir,
+what are you? never a wise word to answere a Ju∣stice?</P>
+</SP>
+<SP>
+<SPEAKER>Tong.</SPEAKER>
+<P>He is my friend Sir; and if you abuse him, you
+shall not have my daughter <HI>Iinny.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>There is a tempest in her tongue able to shake
+the foundation of the wisest Justice-ship.</P>
+</SP>
+<SP>
+<SPEAKER>Dobs.</SPEAKER>
+<P>My Ladie Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Madame, I have heard complaints of your La∣diship,
+that you rise early every morning before noone,
+and are readie before night, unlesse there bee a maske at
+Court. You are likewise a great frequenter of the balls,
+meerely out of charitie to the poore Fidlers.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>He hits you home Wife.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>And this is my Ladies Gentleuman.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Stop your eares Gentlewomen, here's a foule
+businesse towards. But you may tell the man, the time
+and place, though not the manner.</P>
+</SP>
+<SP>
+<PB N="73" REF="40"/>
+<SPEAKER>Secre.</SPEAKER>
+<P>Truely Sir, if I am with child, <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> but with a
+bottle of Sack.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Give it me; I'le keepe it. Many a Justi<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/> in the
+City keepes children are none of his owne. <HI>(Drinks.)</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ierk.</SPEAKER>
+<P>A right Sack Justice.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>And now for you Gentlemen. You are of the
+wits that give Poets Sack and old Bevers, and vent their
+conceits in Tavernes for your owne.</P>
+</SP>
+<SP>
+<SPEAKER>Ieffr.</SPEAKER>
+<P>Please you Sir, these Gentlemen are my friends.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>How's that! a Justice take bribes! the exam∣ple
+is too frequent, and I will have it mended.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>You begin now to overdoe.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Bribes have purchas'd more then the whole
+race of A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>dermen since <HI>Luds</HI> time.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<P>You are bitter now: 'tis time to resigne.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>'Tis time indeed, when I will not take bribes
+to be a Justice <HI>Quondam.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir Gen.</SPEAKER>
+<L>When Wit makes not abuse it's exercise,</L>
+<L>The users of it then are truely wise:</L>
+<L>But 'tis a foolish Vanitie, not Wit,</L>
+<L>When Conscience bounds are broke to practise it.</L>
+</SP>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="41"/>
+<HEAD>The EPILOGVE.</HEAD>
+<L>Y' Ave seene a <HI>Play,</HI> wherein was no <HI>disguise;</HI></L>
+<L>No <HI>Wedding;</HI> no impro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>able <HI>devise:</HI></L>
+<L>But all an easie <HI>matter,</HI> and contein'd</L>
+<L>Within the time of <HI>action.</HI> 'Tis arraign'd;</L>
+<L>And doubtfull stands before your <HI>judgements barre,</HI></L>
+<L>Expecting what your severall <HI>censures</HI> are.</L>
+<L>Some that pretend <HI>commission</HI> to the <HI>Stage,</HI></L>
+<L>As th'only <HI>Cato's</HI> of this <HI>Critick Age;</HI></L>
+<L>Condemning all not done by imitation,</L>
+<L><HI>Because this</HI> new Play <HI>hath a</HI> new foundation</L>
+<L>Wee feare will cry <HI>it</HI> downe: our hope is then</L>
+<L>That your faire <HI>hands</HI> will raise <HI>it</HI> up agen.</L>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="41"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

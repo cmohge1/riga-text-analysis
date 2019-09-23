@@ -1,0 +1,5039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2006-06-09</DATE>
+<RESPSTMT>
+<NAME>Alexis Jakobson</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TYPEs to DIVs in order to validate. 
+*Proofed title page(s). 
+*Checked for N=""s. 
+*Checked for GROUP tags. 
+*Checked <SUP>s</SUP>. 
+*Reviewed structure. 
+*Checked division-marking material at heads and feet of divisions (HEADS, CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). 
+*Checked for signatures. 
+*Checked placement and completeness of PBs. 
+*Checked for damage GAPs, #s, @s, --s, and UNCLEARs. 
+*Corrected ** <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s and <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>s etc. of **. 
+*Converted __ <GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>s to GAP DESC="illegible" RESP="[vendor name]". 
+*Checked spacing of foreign GAPs. 
+*Checked for LBs. 
+*Checked for startqs, endqs, oes, q;s, and Qs. 
+*Checked proofsheets and made corrections found there. 
+*Checked for FIGUREs and decorated initials. 
+*Checked for missing-page GAPs. 
+*Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A04874">
+<STC T="S">15014</STC>
+<BIBNO T="umi">99844932</BIBNO>
+<VID>9791</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<PB REF="1"/>
+<P>THE
+Seven Champions
+of Christendome.</P>
+<P>Acted at the <HI>Cocke-pit,</HI> and at the
+<HI>Red-Bull</HI> in St. <HI>Johns</HI> Streete,
+with a generall liking.</P>
+<P>And never Printed till this
+<HI>Yeare</HI> 1638.</P>
+<P>Written by <HI>J. K.</HI></P>
+<P><HI>LONDON:</HI>
+Printed by <HI>J. Okes,</HI> and are to be
+sold by <HI>James Becket</HI> at his Shop in the
+Inner Temple Gate. 1638.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To his much re∣spected
+and worthy
+Friend Master JOHN
+WAITE.</HEAD>
+<OPENER><SALUTE>Sir,</SALUTE></OPENER>
+<P><SEG REND="decorInit">T</SEG>Hinking of amends
+to expres my grate∣fulnes
+for those ma∣ny
+Favours You
+have shown me, I could pitch on
+no other more fit than this my
+<PB REF="3"/>
+<HI>Genius prompted</HI> me, it was well
+thought on, if Yours give it the
+like acceptance I am happy: for
+<HI>Workes</HI> of this Nature, I dare
+affirme, have beene acceptable
+to most men, contemn'd by
+few, unlesse it bee those of the
+more <HI>Stoicall</HI> disposition, whose
+rigid <HI>Fronts</HI> cry downe all things,
+but what themselves approve
+of. For this <HI>Worke</HI> of it selfe, I
+may say thus much without
+blushing, it received the rights
+of a good Play, when it was
+Acted, which were Applauses &amp;
+Commendations, whether it
+merited them or not, I leave to
+your Judgement: the Nature of
+the <HI>Worke,</HI> being <HI>History;</HI> it con∣sists
+<PB REF="3"/>
+of many parts, not walking
+in one direct path, of <HI>Comedy,</HI> or
+<HI>Tragedy,</HI> but having a larger field
+to trace, which me thinks should
+yeeld more pleasure to the Rea∣der,
+<HI>Novelty</HI> and <HI>Variety</HI> being
+the only Objects these our <HI>Times</HI>
+are taken with: the <HI>Tragedy</HI> may
+be too dull and solid, the <HI>Comedy</HI>
+too sharpe and bitter; but a well
+mixt portion of either, doubt∣lesse
+would make the sweetest
+<HI>harmony.</HI> But this <HI>Worke</HI> as it is,
+and my wishes that all defects in
+it, to my desires, and your con∣tent
+were supplide, I commend
+to your perusall, my selfe, it, and
+resting, to bee commanded by
+you in all friendly Offices,</P>
+<CLOSER><SIGNED>John Kirke.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="4"/>
+<HEAD>The Actors Names.</HEAD>
+<LIST>
+<HEAD>The seven Champi∣ons.</HEAD>
+<ITEM><HI>St.</HI> George <HI>of</HI> England.</ITEM>
+<ITEM>Iames <HI>of</HI> Spaine.</ITEM>
+<ITEM>Anthony <HI>of</HI> Italy.</ITEM>
+<ITEM>Andrew <HI>of</HI> Scotland.</ITEM>
+<ITEM>Patrick <HI>of</HI> Ireland.</ITEM>
+<ITEM>David <HI>of</HI> Wales.</ITEM>
+<ITEM>Denis <HI>of</HI> France.</ITEM>
+</LIST>
+<LIST>
+<ITEM><HI>Tarpax</HI> the Divell.</ITEM>
+<ITEM>The Emperour of <HI>Trebozand.</HI></ITEM>
+</LIST>
+<LIST>
+<HEAD>Three Lords.</HEAD>
+<ITEM>Ancetes.</ITEM>
+<ITEM>Almeno.</ITEM>
+<ITEM>Lenon.</ITEM>
+</LIST>
+<LIST>
+<ITEM>The King of <HI>Tartary.</HI></ITEM>
+<ITEM><HI>Ormandine,</HI> a Magician.</ITEM>
+<ITEM>2 Lords his friends,</ITEM>
+<ITEM><HI>Argalio,</HI> an Inchanter.</ITEM>
+<ITEM><HI>Leonides,</HI> his friend.</ITEM>
+<ITEM><HI>Brandron,</HI> the Giant.</ITEM>
+<ITEM>King of <HI>Macedon.</HI></ITEM>
+<ITEM><HI>Suckabus,</HI> the Clowne.</ITEM>
+<ITEM><HI>Violeta,</HI> the Princesse.</ITEM>
+<ITEM><HI>Carintha</HI> her maid.</ITEM>
+<ITEM>Three Daughters to <HI>Macedon.</HI></ITEM>
+<ITEM><HI>Calib,</HI> the Witch.</ITEM>
+<ITEM>Three Spirits.</ITEM>
+<ITEM>Three attendants on the Em∣perour.</ITEM>
+<ITEM>Three Shepheards.</ITEM>
+<ITEM>A priest of <HI>Pan.</HI></ITEM>
+<ITEM>Three messengers.</ITEM>
+<ITEM>Two armed Knights.</ITEM>
+<ITEM>Three Ghosts; the Father,
+Mother, and Sister of <HI>Le∣onides.</HI></ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="4" MS="y"/>
+<HEAD>The seven Champi∣ons
+of Christendome.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>ACTUS PRIMUS.</HEAD>
+<STAGE>Thunder and Lightning: Enter <HI>Calib</HI> the Witch.</STAGE>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L><SEG REND="decorInit">H</SEG>A, lowder a little; so, that burst was well:</L>
+<L>Agen, ha, ha; house, house your heads you feare▪</L>
+<L>Stroke mortal fooles; when <HI>Calibs</HI> consort plaies</L>
+<L>A Huntse-up to her, how rarely doth it languell</L>
+<L>In mine eares? these are mine Organs,</L>
+<L>The Toad, the Batte, the Raven, and the fell whisling bird,</L>
+<L>Are all my anthum singing Quiresters;</L>
+<L>Such saplesse rootes, and livelesse witherd woods</L>
+<L>Are pleasanter to me, than to behold the jocund</L>
+<L>Month of <HI>May,</HI> in whose greene head of youth,</L>
+<L>The amorous <HI>Flora</HI> strowes her various flowers,</L>
+<L><PB REF="5"/>
+And smiles to see how brave she has de<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>kt her girle:</L>
+<L>But passe we <HI>May,</HI> as game for fangled fooles,</L>
+<L>That dares not set a foote in Arts darke secret,</L>
+<L>And bewitching path as <HI>Calib</HI> has.</L>
+<L>Here is my mansion, within the rugged bowels of this Cave,</L>
+<L>This c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> agge, his Cliffe, this denne, which to behold</L>
+<L>Would freeze to Ice the hissing tramels of <HI>Medusa:</HI></L>
+<L>Yet here inthron'd I sit, more richer in my spels</L>
+<L>And potent charmes, than is the stately mountaine</L>
+<L>Queene, drest with the beauty of her sparkling jems,</L>
+<L>To vie a lustre 'gainst the heavenly Lampes:</L>
+<L>But we are funke in these Antipades, so choakt</L>
+<L>With darknesse in great <HI>Calibs</HI> Cave, that it can</L>
+<L>Stifle day, it can and shall, for we doe loath</L>
+<L>The light, and as our deed es are blacke we hug the night.</L>
+<L>But wheres this boy, my <HI>George,</HI> my love, my life,</L>
+<L>Whom <HI>Calib</HI> lately doates on more than life:</L>
+<L>I must not have him wander from my love, further than</L>
+<L>Sommons of my eye or becke can call him back agen:</L>
+<L>But 'tis my fiend gotten, &amp; deformed issue that misleads him,</L>
+<L>For which, Ile rappe him in a storme of haile, and dash him</L>
+<L>'Gainst the pavement on the rocky den:</L>
+<L>He must not lead my joy astray from me;</L>
+<L>The Parents of that boy begetting him,</L>
+<L>Begot and boare the issue of their deaths, which done,</L>
+<L>The child e Istole, thinking alone to triumph in his death,</L>
+<L>And bathe my body in his popular gore:</L>
+<L>But Dove-like nature favoured so the child, that <HI>Calibs</HI> killing</L>
+<L>Knife fell from her hand, and stead of stabs I kist</L>
+<L>I kist there I lipt boy, and since have brought him up,</L>
+<L>Cope mate, and fellow with my owne sweete sonne:</L>
+<L>And now the boy desires to know, what <HI>Calib</HI></L>
+<L>Hath so long conceal'd from him, his parentage,</L>
+<L>Which still I must, as I have done, put off,</L>
+<L>And cast some pleasing game to file that question</L>
+<L>Out of his thoughts:</L>
+<L>His heart soares high, fame on his temple plaies,</L>
+<L><PB REF="5"/>
+And <HI>Calib</HI> feares her death by <HI>Autumes</HI> day,</L>
+<L>For which my light wing'd spirit of the Aire</L>
+<L>Grand <HI>Tarpax,</HI> prince of the gristy North:</L>
+<L>What, ho <HI>Tarpax,</HI> obey my charmes,</L>
+<L>And with the steele tipt pinions of thy wings,</L>
+<L>Cut through the Clowds and flye unto thy <HI>Calib.</HI></L>
+</SP>
+<STAGE>Thunder and Lightning: <HI>Tarpax</HI> descends.</STAGE>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>No more my <HI>Calib,</HI> see thy <HI>Tarpax</HI> comes,</L>
+<L>More swifter than the motive of an eye,</L>
+<L>Mounted on wings swift as a thought</L>
+<L>I flye unto my Mistresse: now, what wouldst thou?</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Be full resolv'd of feare, struck suddain doubts:</L>
+<L>Age makes my spanne of dayes seeme but an inch,</L>
+<L>And snowes, like cold <HI>December,</HI> on my heart:</L>
+<L>See how I tremble <HI>Tarpax,</HI> as doth the listning Hart,</L>
+<L>When he heares the feather'd arrowes sing his funeral dirge.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Name what afflicts my love.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>But will my <HI>Tarpax</HI> tell me?</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Both must and will.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>When must I dye then? when must <HI>Calibs</HI> life</L>
+<L>Be backe surrenderd by the hands of death?</L>
+<L>Age can no longer to me subsistance give:</L>
+<L>My Taper hath watcht long, when will it out?</L>
+<L>Performe no flattering part for to delude me:</L>
+<L>When? ha, when my <HI>Tarpax?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Fates keepe unknowne from spirits those last times</L>
+<L>Of dayes and houres: yet can I riddle out a prophefie,</L>
+<L>Which if my <HI>Calib</HI> well observe and keepe</L>
+<L>Thy time may farther runne, death stay his sleepe.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Say on sweet <HI>Tarpax.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L><HI>Whilst</HI> Calib <HI>in her powerfull hand</HI></L>
+<L>Holds fast her powerfull art,</L>
+<L><HI>So long may</HI> Calib <HI>by her power,</HI></L>
+<L>Command Death hold his Dart.</L>
+<L><PB REF="6"/>
+But when fond Love by dotage shall,</L>
+<L>Blindfold wise <HI>Calibs</HI> eyes,</L>
+<L>With that great power she did command,</L>
+<L>The great Inchantresse dies.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Ha, ha, ha; and when will that be <HI>Tarpax?</HI></L>
+<L>Vanish like smoake, my feare, come kisse me my Love,</L>
+<L>Thou hast earn'd thy breakefast Chuck; here suck thy fill.</L>
+</SP>
+<STAGE>Clowne within.</STAGE>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Illo ho, ho Illo.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>What mortall's that disturbs us?</L>
+<L>Shall I blast him?</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Hold my Love, 'tis <HI>Suckabus</HI> our sonne; fall off.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>The foole nere saw his Father yet,</L>
+<L>Make us acquainted.</L>
+</SP>
+<STAGE>Enter foole bloody.</STAGE>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>So ho, ho; Mother, Mother.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Defend me <HI>Tarpax:</HI> what doth ayle the boy?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Ale? no mother; I am neither in Ale nor Beere,</L>
+<L>Nor no such graine-tub, peasanticall Element:</L>
+<L>My Hogshead runnes Alegant, and your Nursling broacht it.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Hath <HI>George</HI> done this? Slave, thou lyest:</L>
+<L>Goe call him hither.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Mother, no more such words, my blood's up,</L>
+<L>And I am apt for Rebellion; and you know</L>
+<L>A Souldiers Latin for the Lye, is the stab.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Hold villaine, what resist thy mother?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Oh Lord, helpe me <HI>George, George,</HI> nursling <HI>George.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Villaine come back,</L>
+<L>l'le tosse thee in a whirle-winde i'th' ayre else:</L>
+<L>Come back I say, and learne to put on duty.</L>
+<L>There stands your sire, you Cur; kneele for a benediction.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Hold your hand Mother, I have no mind to be made
+a Buzzard, nor flye like an Owle i'th' ayre, or mount like a
+Kite over Townes and Citties for carrion, without any bi∣ding
+place. Where my father is I know not, but the like∣nesse
+of our persons shews me a Pig of your owne farrow.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>I am thy Father Suckabus.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>You may be the Divell for ought I know,</L>
+<L><PB REF="6"/>
+For you are neither like my Mother, nor me.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Cast feare and wonder off my boy,</L>
+<L>This is thy Father, and a potent spirit,</L>
+<L>Prince of the grisly North, that muffles us, and tyes,</L>
+<L>And also unties the fiery rude band og <HI>Boreas:</HI></L>
+<L>Then, as becomes thee, shew thy reverence to him.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Why now I am satisfi'd; could not you have said
+this before, Pray father, pray the devill to blesse me, and make
+me a man like my mother: So be it.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Our blessings on our Child.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>But doe you heare Father, if you be a Prince, I must
+be a Lord, or an Earle, or a devillish Duke, or somewhat.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Thou art by birth Duke of <HI>Styx, Sulpher, &amp; Helvetia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>O brave, o brave, Duke of <HI>Styx, Sulpher, &amp; Helvetia?</HI></L>
+<L>Pray father, what Title hath my Mother?</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Queene of <HI>Limbony,</HI> and Dutchesse of <HI>Witchcordia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>I thought so, I told my Mother shee lookt like a
+Witch a great while agoe: a poxe on't, I knew it: but doe
+you heare mother, were not you one of the Cats that drunke
+up the Millers Ale in <HI>Lancashire</HI> Wind-mills?</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Peace sir, begon, goe seeke out <HI>George,</HI></L>
+<L>And bring him to me presently.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Must I call <HI>George</HI> agen? Then (I feare) I shall get
+another broken pate, before I get a playster for this: for wee
+doe nothing in the world but fight; he kils me two or three
+times in an houre: he playes a Knight in Armour, and I a
+Lady; that he fights with a great Tree for, and winnes me
+from it: then I play a Gyant, and he kils me; then a Boare,
+and he kills me agen; then an inchanted Castle, and then my
+stones goe to 'rack; then a Lyon, and then hee pulls out my
+heart.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Then an Asse sir.</L>
+</SP>
+<STAGE>Horne within.</STAGE>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Right, and there he kills me agen:</L>
+<L>But Mother, <HI>George</HI> is come, I heare his Horne.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Into my Cave my <HI>Tarpax,</HI> take my some with thee,</L>
+<L>I'le have a little conference with <HI>George.</HI></L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> George.</STAGE>
+<L>Welcome my <HI>George,</HI> my joy, my love, my life,</L>
+<L><PB REF="7"/>
+My soules sole darling, and my fancies dotage</L>
+<L>Commander of great <HI>Calib,</HI> and her power;</L>
+<L>Why does those eyes, the lights of <HI>Calibs</HI> Cell,</L>
+<L>Shoote their illustrious splendor on the Earth,</L>
+<L>And not shine upwards as they were wont to doe?</L>
+<L>Why doe those Armes thus twine into a locke,</L>
+<L>As if dispaire had seiz'd upon thy thoughts,</L>
+<L>And b'lasted quite the flower of thy youth?</L>
+<L>Speake my lov'd Nursling, can <HI>Calib</HI> give thee ease?</L>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>You may, you can.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Why then besure I will:</L>
+<L>Let day-light shine then, and expell those clouds,</L>
+<L>For here I vow, by that infernall power,</L>
+<L>By whom I may command to grant what ere it be,</L>
+<L>Thy full demand, not dangering of our selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>I wish it not, but so much love</L>
+<L>To my kind Nurse, as shews a tender mother</L>
+<L>To her Child, when she first blesses him</L>
+<L>After a long absence.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>This stronger tyes our love; thy demand?</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Then thus: Although I want no Parent in your selfe,</L>
+<L>By your kind fostring and indulgency:</L>
+<L>Be not offended, that I here renew my former suite,</L>
+<L>Which though so long put by,</L>
+<L>Your Oath stands now unto me for to grant.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Say on.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>The knowledge of my Parents, that by them</L>
+<L>I may not be a stranger to my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>That string's not out of Tune, yet still 'tis toucht,</L>
+<L>And I no longer now can put him off:</L>
+<L><HI>George,</HI> you shall, your suit is granted;</L>
+<L>But this condition I must have ye s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ale to,</L>
+<L>And then we will deliver eithers deed.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>'Tis granted.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Then know sweet boy that <HI>Calib</HI> loves thee deare,</L>
+<L>Witnesse my pitty on thee at thy birth,</L>
+<L>When thy adultrous mother cast thee off,</L>
+<L><PB REF="7"/>
+As fearefull least their close lascivious sinne</L>
+<L>Should play the tell-tale of them to the world:</L>
+<L>Wherefore thy Mother strove by Art to kill thee,</L>
+<L>Even in thy first conception, but still my charmes</L>
+<L>I mixt amongst her drugges, whose greater poyson</L>
+<L>Prov'd thy Antidotes, kild what should kill,</L>
+<L>And in the Casket safe preserv'd my jemme.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>O my unhappy Fate! am I a Bastard then?</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Giv't not so grosse a title, but list a little more:</L>
+<L>Thy mother saw the more she strove to kill,</L>
+<L>The more thou quicknest, and grewst stronger still,</L>
+<L>Gave ore the child-bane pills, and from the worlds</L>
+<L>Quicke censuring, screend up the knowledge by obscurity,</L>
+<L>Save unto me the closet of her thoughts,</L>
+<L>And an attendant hand-maid. But to be briefe,</L>
+<L>Maturity being to ripenesse growne,</L>
+<L>I plaide <HI>Luci<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>aes</HI> part, and snatcht thee</L>
+<L>From the knife, aim'd at thy heart; thus having sav'd</L>
+<L>Thee, going from thy unnaturall Damme</L>
+<L>I bore thee to lifes safety; and since</L>
+<L>Thou hast a tongue to speake how I have us'd thee.</L>
+</SP>
+<SP>
+<SPEAKER>George.</SPEAKER>
+<L>Both Nurse and Mother, my duty,</L>
+<L>With my thankes gives it acknowledgement:</L>
+<L>But could my mother, finding painfull throwes,</L>
+<L>Through which I hastned to give her ease,</L>
+<L>Before my tender eyes did ope to see the world,</L>
+<L>Seeke to intombe me up agen?</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Urge it no more she did.</L>
+</SP>
+<SP>
+<SPEAKER>George.</SPEAKER>
+<L>Were they asham'd of their owne worke?</L>
+<L>How were they titled, Base or Noble pray?</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Base, and Noble too:</L>
+<L>Both base by thee, but noble by descent;</L>
+<L>And thou got base, yet maist thou write true gent:</L>
+<L>No further satisfaction seeke to know,</L>
+<L>I call thee <HI>George,</HI> thy sur-name I must not shew.</L>
+</SP>
+<SP>
+<SPEAKER>George.</SPEAKER>
+<L>I have enough:</L>
+<L>Ime glad I soare above the common wing,</L>
+<L><PB REF="8"/>
+Both base and noble too, they ar bloods that keepe</L>
+<L>Two currents in my veines, but they must meete:</L>
+<L>Smile honour and assist mee,</L>
+<L>Let me thy foote-steppes trace,</L>
+<L>My noble deedes shall purge the blood that's base.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>I feare I have said too much:</L>
+<L>Come <HI>George</HI> for mee.</L>
+</SP>
+<SP>
+<SPEAKER>George.</SPEAKER>
+<L>I am ready mother; farewell the name of Nurse:</L>
+<L>Speake, and I grant.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Then thus my <HI>George;</HI></L>
+<L>Thou yet art but an <HI>April</HI> tender bud:</L>
+<L>Before that Month in thee be quite expired</L>
+<L>Looke for thy Mother here, an <HI>Autumne</HI> shaken</L>
+<L>Leafe, and falne to th' earth, dead and forgot;</L>
+<L>Now if thou lov'st me, as I hope thou dost,</L>
+<L>Stay but a little, next puffe of winde makes me but kisse the earth,</L>
+<L>And thou hast freedome; say, is it done?</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>My teares deliver't as my deede; 'tis done.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>That's my sweete boy; and now to give thee further</L>
+<L>Triall of my love, to thee alone the ransome shall belong</L>
+<L>Of sixe obscur'd Champions in my cave, a sight</L>
+<L>Thou never yet beheldst, my loving boy:</L>
+<L><HI>Tarpax</HI> bring forth those daring Champions</L>
+<L>That were sent to kill great <HI>Calib,</HI></L>
+<L>And confound my charme.</L>
+<L>Oh they are come: This is, my <HI>George,</HI> the fiery youth of <HI>Spain,</HI></L>
+<L>Cal'd by the name of <HI>Iames:</HI> this <HI>Anthony</HI> of <HI>Italy:</HI></L>
+<L>This the brave Northerne Knight, brave <HI>Andrew:</HI></L>
+<L>This <HI>Irelands Patricke: Brittaines David</HI> this:</L>
+<L>And this the lively briske crosse capring <HI>French</HI> man <HI>Denis:</HI></L>
+<L>There take 'em to thee, use em as thou please;</L>
+<L>Their armour and their weapons too are thine:</L>
+<L>With which the scare-crowes came to fright us hence.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>A sight would pierce a rocke,</L>
+<L>Goodly shapt persons, how I suffer for them?</L>
+<L>But yet I must dissemble love and pitty:</L>
+<L>Are these 'em Mother? take them away,</L>
+<L><PB REF="8"/>
+They have beene us'd too well; wee'le thinke</L>
+<L>Of harder paine and courser fare.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Thats my best <HI>George,</HI> take this charming wand;</L>
+<L>Make tryall of it then against this rocke,</L>
+<L>And with once waving it about thy head,</L>
+<L>The mortis sinnewed stones shall cleave in sunder,</L>
+<L>And gape like an insatiate grave, to swalow up what's theron:</L>
+<L>And doe but wish that it should close agen,</L>
+<L>Give but the other wave, and it is done:</L>
+<L>There <HI>George</HI> I give it thee.</L>
+<STAGE><HI>Thunder and lightning, a groan,</HI> Tarpax <HI>laughes.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>Thankes loving Mother.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Ha, 'twas <HI>Tarpax</HI> voyce.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Foole, foole, <HI>Calib</HI> foole.</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>O my feare strooke shaken heart.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>What ailes my mother?</L>
+</SP>
+<SP>
+<SPEAKER>Calib.</SPEAKER>
+<L>Nay, nothing <HI>George:</HI> I must a while retire;</L>
+<L>Be not you absent, a minutes</L>
+<L>Space shall send me back agen.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>George.</SPEAKER>
+<L>Though borne in bastardy, how happy was my fate,</L>
+<L>In this good <HI>Calib;</HI> she's cruell unto others,</L>
+<L>And few or none, whose foote doe chance to stray</L>
+<L>Neare the abiding of this great inchantresse,</L>
+<L>But deaths therein, to which they travaile to.</L>
+<L>A world of fancies dance about my braines.</L>
+<L>And shapes me thoughts, which saies I am no bastard:</L>
+<L>Or what a warre my selfe hath with my selfe,</L>
+<L>And spurres me on to know what Fate denies me:</L>
+<L>She told me too my Parentage was noble,</L>
+<L>But name and Title she obscur'd from mee:</L>
+<L>How, or which way; oh I hav't, I will make tryall</L>
+<L>Of her sorcery: she said, what I desir'd to see or know,</L>
+<L>This rod wave 'bout my head should amplifie:</L>
+<L>Take courage <HI>George</HI> then, though they lov'd not thee,</L>
+<L>Yet thus I doe desire their shapes to see.</L>
+<L>Defend me all you ministers of grace.</L>
+</SP>
+<STAGE><PB REF="9"/>
+Thunder and Lightning, then soft musicke:
+Enter the ghost of <HI>Georges</HI> father
+and mother.</STAGE>
+<STAGE>Fath. George.</STAGE>
+<STAGE>Moth. George.</STAGE>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>J answer to that name: say on.</L>
+</SP>
+<SP>
+<SPEAKER>Fath.</SPEAKER>
+<L>Then first to settle these thy wandring thoughts,</L>
+<L>Thou art our sonne, truely legitimate;</L>
+<L>Vomit the thought of Bastard, thou art none,</L>
+<L>But heire to the Earle of <HI>Coventry.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>O say, resolve me compleat shadows of my Parents,</L>
+<L>Vpon my knees with Reverence I bow, tell me, oh tell me,</L>
+<L>Since from your ayrie shapes I heare both sound &amp; voice</L>
+<L>Adde to distressed <HI>George</HI> a second birth and life,</L>
+<L>In saying that yee live.</L>
+</SP>
+<SP>
+<SPEAKER>Fath.</SPEAKER>
+<L>O no.</L>
+</SP>
+<SP>
+<SPEAKER>Mo.</SPEAKER>
+<L>O No.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>How soone fresh flowers fall, which now did grow.</L>
+</SP>
+<SP>
+<SPEAKER>Fath.</SPEAKER>
+<L>Delay not long thy Parents rest my <HI>George,</HI></L>
+<L>Heare a briefe story, and then send me hence:</L>
+<L>Know then that cursed <HI>Calib,</HI> which now doates on thee,</L>
+<L>Did not at first doe so, but poison'd us,</L>
+<L>And fled with thee away unto that Cell of honour,</L>
+<L>Secur'd by her inchantments from all danger,</L>
+<L>Then hir intents not satisfied with both our lives,</L>
+<L>Began to prey on thine; but pitty, spight of Hell,</L>
+<L>Flew from thine eyes, and overthrew the Murdresse black in∣tent▪</L>
+<L>That since th'ast liv'd in love and favour with her.</L>
+<L>But now be wise, her power is in thy hand.</L>
+<L>Oh then be swift, be swift to execute</L>
+<L>Thy Parents murder on the damned witch:</L>
+<L>That done, redeeme the Christian Champions, go with them,</L>
+<L>Her Cave is not unfurnisht of rich Armes;</L>
+<L>Fame holds the Christian Trophy thou must beare,</L>
+<L><HI>Englands</HI> Red Crosse shall <HI>George,</HI> then St. <HI>George</HI> weare,</L>
+<L>That summond us, back sends us: <HI>George</HI> waft thy wand.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Farewell.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Farewell deare son.</L>
+<STAGE>Thunder &amp; lightning.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Go rest, go rest sweet shadows, be no more disturb'd,</L>
+<L><PB REF="9"/>
+All my sick passions, that late were scatter'd with</L>
+<L>My troubled thoughts, are re-united in this little Orbe:</L>
+<L>But for this <HI>Calib,</HI> this accursed Hagge,</L>
+<L>Whose deeds are blacker than her tempting tutors,</L>
+<L>Revenge hath fill'd her cup unto the brim,</L>
+<L>And she shall quaffe her foule soules black perdition.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Protract not <HI>George,</HI> we rest not till she dies.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>No more, no more, revenge like lightning flies.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>A noise within: Enter Witch, <HI>Tarpax,</HI> with other spirits
+arm'd, Clowne with them, Thundring and Lightning.</STAGE>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Shield me my <HI>Tarpax</HI> from the furious boy,</L>
+<L>That hurries to my death more swifter</L>
+<L>Than the hot fiery Steeds, that threw</L>
+<L>Ambitious <HI>Phaeton</HI> from his pride: defend me then.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L><HI>Calib,</HI> we cannot.</L>
+<L>Thy power's extinct, and thou thy selfe must fall:</L>
+<L>Did dotage on thy Deaths-man blind thee so,</L>
+<L>To give thy safe protection and thy power to him?</L>
+<L>Now arm'd with both, comes to destroy thee.</L>
+<L>Fie <HI>Calib,</HI> fie, could not the Riddle which I read to thee,</L>
+<L>When thou desired'st the knowledge of thy doome,</L>
+<L>Forewarne thee then? Prepare, he comes.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Hell and confusion.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>I, confusion comes.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>How comes he? arm'd?</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>One hand thy power, the other beares a Falchion.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Oh gentle <HI>Tarpax,</HI> numbe his sences so,</L>
+<L>That he forget the power of his wand, we may be safe.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>He comes, he comes.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Circle me round, and keepe him off a while,</L>
+<L>Whilst on the outside of this Rocke I climbe</L>
+<L>Vp by the crags unto the top.</L>
+</SP>
+<STAGE>Thundring &amp; lightning: Enter <HI>George</HI> in a fury,
+the spirits keepe him backe.</STAGE>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Have I found thee witch?</L>
+<L><PB REF="10"/>
+I'le not be long from thy accursed heart;</L>
+<L>The bastard, hagge, is prov'd legitimate heire</L>
+<L>To great <HI>Coventry,</HI> whom thou, thou devill,</L>
+<L>Worse than those that guard thee, murther'd.</L>
+<L>But in despight of all thy hellish hoast,</L>
+<L>Who faint against the justice of my cause,</L>
+<L>I thus assay thee.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Thus we defend her.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Fight sweet spirits, fight, kill but that boy,</L>
+<L>I'le let ope Rivers of my blood to you,</L>
+<L>And you shall drinke your fill.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>This instrument is not of power to deale with fiends.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Destroy him <HI>Tarpax,</HI> let not the villaine breath.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>I will make tryall of this other toole.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L><HI>Calib</HI> farwell, we can no longer stay,</L>
+<L>Wee'le meete thee strait in flames, our joviall day.</L>
+</SP>
+<SP>
+<SPEAKER>Cal.</SPEAKER>
+<L>Now cleaves the Rock, and I doe sinke to Hell;</L>
+<L>Roare wind, clap Thunder for great <HI>Calibs</HI> knell.</L>
+<STAGE>Musick: the Rocke cleaves, she sinkes; thunder &amp; lightning.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Sinke downe unto thy black infernall fellows hagge.</L>
+<L>This messenger assures me Heaven's pleas'd,</L>
+<L>At whose sweet ayre the other ayre dissolves,</L>
+<L>And all the black inchanted vapours hell cast up,</L>
+<L>Descends to make her night more horrid there:</L>
+<L>And now those woods that were so long choak't up</L>
+<L>With Hells black sulpher and disastrous fumes,</L>
+<L>Give welcome to the golden eye of day,</L>
+<L>As a most cheerefull and blest visitant.</L>
+<L>But stay a little, all is not firmely finisht,</L>
+<L>There is an unlickt lumpe of hers remaines,</L>
+<L><HI>Suckabus</HI> her son: oh are ye there sir? Come, prepare ye.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Alas sir, what to doe?</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>To make a brand for the devills fire:</L>
+<L>I'le cut your throate, and send you thither strait.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>I doe beseech you sir, have no compassion on me,</L>
+<L>And let me live with you:</L>
+<L>There be Cookes enough in hell without me,</L>
+<L><PB REF="10"/>
+Their roast-meate is too hot for my fingers,</L>
+<L>I shall never be able to licke 'em; I had rather be</L>
+<L>Your Scullian here, than Cooke Ruffian there:</L>
+<L>I beseech you take pitty on me a Motherlesse child,</L>
+<L>Let me live with you sir, and <HI>Suckabus</HI> shall suck</L>
+<L>Out his owne heart to doe you any pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Well, take thy life, be faithfull in my service,</L>
+<L>Thy Mothers sin hath perisht with her life:</L>
+<L>Learne thou by her example then to shun it,</L>
+<L>Be my attendant still and follow me.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>I thanke you sir, and for this life that you have sav'd,</L>
+<L>Thinke it no life, for it is not; you may command,</L>
+<L>And have it when you please; and I'le be as firme to you</L>
+<L>As fire in water, as tender as the Foxe o're the Goose,</L>
+<L>Or the Wolfe o're the Lambe; when you are most</L>
+<L>In any danger, I'le be farthest off from yee;</L>
+<L>Disobey your commands, and keepe your secrets like a cryer,</L>
+<L>Or any thing else I can doe for you.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Well sir, wee'le conster your good meaning,</L>
+<L>I long to be in armour, mounted on a Steed,</L>
+<L>To scuffle with black danger and her bug-beares:</L>
+<L>First Ile set free those Knights, and cherish them;</L>
+<L>Then see how long lost armour sits upon their backs,</L>
+<L>That done to Armes, to hunt out Honours game,</L>
+<L>For <HI>George</HI> is no <HI>George</HI> till I purchase fame.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>As they go off,</HI> Tarpax <HI>comes in, and beckons to the Clowne.</HI></STAGE>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Illo hist, <HI>Suckabus</HI> come hither.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>I cannot; doe not you see my Master gone before?</L>
+<L>I am now bound, and must obey, must follow after:</L>
+<L>You have fry'd my mother in stekes by this time,</L>
+<L>And you would have my Lambe stones and sweet-bread</L>
+<L>To inch out your commons.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Come backe, or I will force thee.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<P>Sfoote Ile set all the prentises in the house about
+your eares if you strike me, besides the Law my Master shall
+<PB REF="11"/>
+take of yee; but now I remember Club Law is better: for
+they love your Angels so wel there's no pleading against you.</P>
+</SP>
+<SP>
+<SPEAKER>Tarp.</SPEAKER>
+<L>My Angels slave?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Why any bodies, yours, or the Divells, all's one
+to them, so they have 'em: but now the humour has tooke me
+to come backe; what is your pleasure?</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Onely a short remembrance of your duty,
+With an acknowledgement you have a father, and al's done:
+My blessing shall attend thee.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Let me first know, whether I have a mother or no,
+for mothers have so often belide the childes father, that I am
+very doubtfull whether ever I had any.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Cast off those doubts then, I am thy Father,</L>
+</SP>
+<SP>
+<SPEAKER>Calib</SPEAKER>
+<L>was thy mother, was? nay is,</L>
+<L>Though strange it seemes to thee,</L>
+<L>Earth was too base to hold so great a Queene:</L>
+<L>Didst thou not note the love 'twixt <HI>George</HI> and she?</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Nay truely Father I did note something, but I can∣not
+say directly what it was.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>'Twas love, great love betwixt 'em boy,</L>
+<L>But in the bottome of their honey cup I mixt</L>
+<L>A little dregges of bitter gall, which straight</L>
+<L>Converted all their love to hate, and in that hate,</L>
+<L>That <HI>George,</HI> thy master, sought her death:</L>
+<L>But by my power I clave the rocke in twaine,</L>
+<L>Whose carefull subjects underneath were ready</L>
+<L>To catch her in their armes, who when they had her;</L>
+<L>Those flames ascending up, which put such horrour into her,</L>
+<L>Were Bone-fires of their joy and loving hearts.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>O that I were there to leape over one of them.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>I, they would make thee leap.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>And I am old dogge at that 'yfaith.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>And now thy mother's in my Kingdome, boy,</L>
+<L>By this time crown'd with their applausive</L>
+<L>Shouts, Queene of <HI>Helvetia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>O my sweet Mother:</L>
+<L>Well, Ile but serve my time out, and come home to you: you
+<PB REF="11"/>
+have staid me some thing long Father, I must goe eate a dish
+of Trotters to my breakfast, I shall hardly overtake my
+Master else.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Observe this fatherly instruction first:</L>
+<L>Thou art to travaile with thy Master, boy,</L>
+<L>Through perrilous adventures, all sorts of</L>
+<L>Countries, fashions, garbes and manners,</L>
+<L>Thou must observe thou art effeminate in shape and favour,</L>
+<L>Iust thy sweete mothers, sweete hu'd faire Effigies,</L>
+<L>Fram'd to make woemen do ate and flye</L>
+<L>To thee; refuse 'em not, take all that comes,</L>
+<L>Increase the world like one of <HI>Tarpax</HI> sonnes.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>As long as my backe will hold let me alone.</L>
+</SP>
+<SP>
+<SPEAKER>Tarp.</SPEAKER>
+<L>And when thou com'st in company of men,</L>
+<L>What ere they be, refuse not what they do;</L>
+<L>If they quaffe Wine by Gallons, do so too:</L>
+<L>Or cloud the aire with <HI>India's</HI> precious weede,</L>
+<L>Kindle that fuell; let thy Chimny smoak too.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Like a Fury.</L>
+</SP>
+<SP>
+<SPEAKER>Tarp.</SPEAKER>
+<L>Swallow no wrong, stabbe if they give the lie;</L>
+<L>Sweare and forsweare; the rules of galantry.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>If e're a Knight of the Post mend me for that,
+hang me.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Lye to get profit; borrow, pay no debts,</L>
+<L>Cheat and purloyne, thy are gaming Dicers bets.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>If <HI>Cottington</HI> out doe me Ile be whipt.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Love ease and sleepe, it ripes the memory:</L>
+<L>But in each sleepe have severall sleepers by thee:</L>
+<L>Females, no men, I charge thee on my blessing.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Ile take my choyce here if you will.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>No, no, goe travaile farther first;</L>
+<L>These rules if thou observ'st and keep'st,</L>
+<L>Thou soone shalt see thy mother.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>It shall be my daily practice Father:</L>
+<L>Farewell if I see you no more.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>O we must meete agen nere feare't:</L>
+<L>Obey but my commands; so farewell sonne,</L>
+<L><PB REF="12"/>
+Blessing on my boy.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Father farewell:</L>
+<L>I were an ungracious boy if I would not obey.</L>
+<L>Now wenches looke to yourselves.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Andrew, David, Patricke, George, Denis,
+James, Anthony, <HI>all arm'd and plum'd.</HI></STAGE>
+<SP>
+<SPEAKER>George.</SPEAKER>
+<L>Renowned Christian Knights welcome to liberty,</L>
+<L>The blacke Inchantresse, by whose hell-bred power,</L>
+<L>Bright honour was subdu'd, and pinniond up darke,</L>
+<L>Is now her selfe fetter'd and manicl'd in the store-house</L>
+<L>Where her accursed crimes can never</L>
+<L>Pay the summe that ransomes her.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>Our loves, our honours, and our lives</L>
+<L>Rest pawnes to <HI>George</HI> of <HI>England</HI> for this favour.</L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>Which we acknowledge with a generall thanks.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>Thus doe I cancell all those bonds but love,</L>
+<L>There rest my debtor still, as I will yours:</L>
+<L>The lazy dust, that long hath hid your guilt,</L>
+<L>Is now brush't off, and you new polish't to the world agen:</L>
+<L>Sift the dead Ashes ere they kill the sparkes,</L>
+<L>And let Fames wings fanne 'em to glorious flames;</L>
+<L>Shine bright my Christian Comets of the world,</L>
+<L>And English <HI>George,</HI> whom these your loves hath made</L>
+<L>Seventh brother with you, in the Schoole of Armes</L>
+<L>Shall prove no truant, Noble Christian Knights.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>Let <HI>Scotlands Andrew</HI> be the mount, brave youth,</L>
+<L>From whence thy beames may take a prospective,</L>
+<L>To see, to wish, to have, to rule the same.</L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>Brave maiden Knight, raise me another hill</L>
+<L>Upon his mount, a Beacon upon that,</L>
+<L>Which kindled, all the world may see the flame,</L>
+<L>And Fame cry out, I'me wearied with thy Fame.</L>
+</SP>
+<SP>
+<SPEAKER>Denis.</SPEAKER>
+<L>The <HI>Sybels</HI> have fore-told no more but seven,</L>
+<L>The odde man now is come, and all is even.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>Even in our loves, even in what heaven us sends;</L>
+<L><PB REF="12"/>
+Still Pagans scourges, and still Christians friends:</L>
+</SP>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L>Then let us seven defend the Christians name:</L>
+<L>And let <HI>George</HI> beare the Trophy of our fame.</L>
+</SP>
+<SP>
+<SPEAKER>Iames.</SPEAKER>
+<L>Advance it youth; let thy white standard beare</L>
+<L>A bloody Crosse, to fill the world with feare.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>I crave a generall voyce, are all so pleas'd?</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>We are.</L>
+</SP>
+<SP>
+<SPEAKER>George.</SPEAKER>
+<L>Let us imbrace, and seale it with each breast:</L>
+<L>And here behold your maiden Knight doth draw</L>
+<L>Defence to all that wrong insultion treads on:</L>
+<L>First in our cause 'gainst those fell miscreants,</L>
+<L>That trample on the Christians sacred Crosse,</L>
+<L>Lifting aloft the <HI>Mahometane</HI> Moone,</L>
+<L>Dishonour both to heaven and Christendome:</L>
+<L>Next to maintaine by force and dint of Armes</L>
+<L>Opressed Ladies wrongs, widowes, &amp; Orphans, or who else,</L>
+<L>Which wrongfully dares tread within a List;</L>
+<L>And further let this Christian power extend</L>
+<L>'Gainst blacke Inchantments, witchcraft, and the like,</L>
+<L>That Arts foule potency may meete us with.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>All this we sweare too on thy maiden sword.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>It shall suffice; the Brazen Piller's not farre,</L>
+<L>Vnto whose circuits knits the heads and paths</L>
+<L>Of seven faire severall wayes:</L>
+<L>Honour we altogether winne, is not to one;</L>
+<L>Then let us part, and as we part proclaime,</L>
+<L>Whose Champions we goe forth to purchace fame.</L>
+<L><HI>George</HI> for brave <HI>England</HI> stands.</L>
+</SP>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L><HI>Denis</HI> for brave <HI>France.</HI></L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>The bony <HI>Scotland Andrew</HI> will advance.</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L><HI>Iames</HI> stands for <HI>Spaine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L><HI>Patricke</HI> for <HI>Ireland.</HI></L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>And <HI>David</HI> will the <HI>Brittaines</HI> name defend.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>The Reare is brought up by <HI>Anthony,</HI></L>
+<L>Who goes a Champion forth for <HI>Italy.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>Bravely resolv'd, at all the world we'le play,</L>
+<L>But Christendome that is our tiring house,</L>
+<L><PB REF="13"/>
+The rest our stage.</L>
+<L>On which our buskin seames must wade in blood,</L>
+<L>But time no trifling loves, nor staies for none,</L>
+<L>Lets mount, and part, honour is yet unwonne.</L>
+</SP>
+<STAGE>Exeunt omnes.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>ACTUS SECUNDUS.</HEAD>
+<STAGE><HI>Enter Emperour of</HI> Trebizond, Carinthia <HI>the Princesse,</HI> An∣cetes
+<HI>a Lord,</HI> Violeta, <HI>&amp; attendance.</HI></STAGE>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>The Gods are angry with us, and their arrowes</L>
+<L>Sticke in our bosomes, though we have inhausted</L>
+<L>The glory of our Isles, and paid oblations on their Altars,</L>
+<L>We remaine regardlesse and forsaken.</L>
+</SP>
+<SP>
+<SPEAKER>Princesse.</SPEAKER>
+<L>O Sacred <HI>Pallas,</HI> protector of the Virgin votary;</L>
+<L>Thou in whose well mixt soule</L>
+<L>Iudgement and worth holds equall ballance;</L>
+<L>From those Sphere-like eyes that shoot forth terrour</L>
+<L>To the amazed world, send piercing lightning</L>
+<L>To consume these Monsters that o're-whelme our kingdome.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L><HI>Ancetes</HI> are our Proclamations forth,</L>
+<L>And a reward propos'd to those bold men</L>
+<L>Dare undertake their ruine?</L>
+</SP>
+<SP>
+<SPEAKER>Ancet.</SPEAKER>
+<L>They are my Lord; and unto him, by whose</L>
+<L>Unequal'd power the monstrous Dragon falls,</L>
+<L>There is allotted the glorious shield,</L>
+<L>Whose Verdge is studded round with Pearle,</L>
+<L>Diamonds, Rubies, and Saphires, Carbuncles,</L>
+<L>And other stones fetcht from the Orient:</L>
+<L>That Shield which from the <HI>Indian</HI> Provinces</L>
+<L>Was sent as tribute to abate your wrath,</L>
+<L>And stay your army from invasion.</L>
+</SP>
+<SP>
+<SPEAKER>Empr.</SPEAKER>
+<L>Tis well.</L>
+</SP>
+<SP>
+<SPEAKER>Ancet.</SPEAKER>
+<L>And to his valour that shall quell the pride</L>
+<L><PB REF="13"/>
+Of that fierce Lyon forraging these fields,</L>
+<L>That doth devoure the harmlesse passengers,</L>
+<L>Great <HI>Mars</HI> his Armour, and his Ebon Lance,</L>
+<L>A hot <HI>Barbarian</HI> Steed, whose fiery pace</L>
+<L>Darts terrour through the trembling enemies,</L>
+<L>With such majesticke footing strikes the earth,</L>
+<L>As if he did disdaine the touch of it;</L>
+<L>This as a donative is freely given</L>
+<L>To him whose valour shall confound that beast.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>How many Knights, even in their spring of youth,</L>
+<L>The pride and riches of this populous land,</L>
+<L>Has his vast bowels made their Sepulcher?</L>
+</SP>
+<SP>
+<SPEAKER>Empr.</SPEAKER>
+<L>Teares not availe, but gives woes ballance waight,</L>
+<L>Which of himselfe's too heavy: this last Edict</L>
+<L>Will spurre our youthfull Gallants to the Chace</L>
+<L>Of this untamed Monster: oh we want those</L>
+<L><HI>Gretian</HI> youths those former Ages bred;</L>
+<L>A bold <HI>Alcides,</HI> whole unequal'd strength</L>
+<L>Tyr'd a Step-mothers sharpe invention:</L>
+<L>Deeds, whose relation frighted other men,</L>
+<L>Were but his pleasure and his pastime then:</L>
+<L>What Knights this morning are prepar'd</L>
+<L>To incounter the dreadfull Dragon?</L>
+</SP>
+<SP>
+<SPEAKER>Ancet.</SPEAKER>
+<L>The sprightly youths, <HI>Niger, Pallemon,</HI> &amp; <HI>Antigonus;</HI></L>
+<L><HI>Niger</HI> well mounted on a sable horse,</L>
+<L>His armour of the same resemblance,</L>
+<L>Discover'd in him actions sterne, and high,</L>
+<L>Past through the City with Magesticke pace:</L>
+<L>His outward forme prefigur'd to the eye,</L>
+<L>Future presages of bold victory.</L>
+<L>Next <HI>Pallemon</HI> gave our eyes view</L>
+<L>Of Knightly prowesse, his armour russet,</L>
+<L>Round beset with flames; though artificiall,</L>
+<L>Seem'd to consume the youthfull wearer,</L>
+<L>True embleme of unpittied light braine pride;</L>
+<L>A fiery Sorrell bore the noble youth,</L>
+<L>Who chew'd the ringled bit, as in disdaine,</L>
+<L><PB REF="14"/>
+To be o're-master'd by so weake a Raine:</L>
+<L>And as the Sunne forsooke his Mistresse lappe,</L>
+<L>He left the City. Last of all appear'd</L>
+<L><HI>Antigonus,</HI> in a sure armour clad;</L>
+<L>A milke white Courser bare him through the streetes:</L>
+<L>His Plume agree'd with it, and at all poynts</L>
+<L>White, like the cause he went for:</L>
+<L>When he set forth, me thought he lookt like Iustice</L>
+<L>Dropt from heaven, to take revenge on wrong</L>
+<L>And cruelty, the peoples prayers</L>
+<L>Went with him, and their eyes</L>
+<L>Dropt teares, o're-masterd with their extasies.</L>
+</SP>
+<SP>
+<SPEAKER>Empr.</SPEAKER>
+<L>Oh be propitious heaven to their designes,</L>
+<L>Give double vigour to their able nerves,</L>
+<L>Inflame their hearts with matchlesse charity.</L>
+<L><HI>Ancetes</HI> haste you to the Temple strait,</L>
+<L>Give order to <HI>Apollo's</HI> sacred Priests,</L>
+<L>To make his Altars smoak with hallowed fumes,</L>
+<L>Let neither prayers nor Sacrifice be scant,</L>
+<L>To move the Gods to heare our just complaint,</L>
+</SP>
+<SP>
+<SPEAKER>Ancet.</SPEAKER>
+<L>I shall my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Empr.</SPEAKER>
+<L>Good daughter be it your charge to summon all</L>
+<L>The Virgin Votaries of <HI>Dianaes</HI> traine,</L>
+<L>Attir'd in all the choyce habiliments,</L>
+<L>To gratulate these warlike youths returne,</L>
+<L>'Tis our last hazard, and like Gamesters now,</L>
+<L>We venture all at one uncertaine throw:</L>
+<L>If we prevaile, immortall Verse shall crowne</L>
+<L>And memorize their happy victory;</L>
+<L>But if they fall, their ruines shall be song</L>
+<L>In Elegiacke straines, recorded fit</L>
+<L>For such untimely fatall overthrowes:</L>
+<L>How ever, honour shall adorne their Herse,</L>
+<L>And they still live by never dying Verse.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Country Swaines.</STAGE>
+<L>1 <HI>Sw.</HI> Wit must not be advanc'd then?</L>
+<L>2. No, all's dust.</L>
+<L><PB REF="14"/>
+3. Must not the May-pole up?</L>
+<L>What will this come to at length?</L>
+<L>1. God <HI>Pan</HI> will never endure it.</L>
+<L>2. He must endure it, an he were a god of Tustaffety:</L>
+<L>I am in a fustian-fume to see't,</L>
+<L>But all will doe no good.</L>
+<L>Well fellow well-braine, doe I live to see,</L>
+<L>The May-pole slighted, I could be drunke</L>
+<L>By priviledge in those dayes, and had</L>
+<L>A stay to leane on: now 'tis past,</L>
+<L>And who can helpe it?</L>
+<L>3. That we shall presently know:</L>
+<L>Here comes the Priest of <HI>Pan,</HI></L>
+<L>And hee'le dissolve us, 'tis all to nothing else.</L>
+<STAGE>Enter <HI>Priest.</HI></STAGE>
+<SP>
+<SPEAKER>Priest.</SPEAKER>
+<L>Lay by your idle sports and vanities,</L>
+<L>And send up vowes and sad repentant teares:</L>
+<L>These offend, and pull downe ruines on us,</L>
+<L>To provoke the gods, ready to destroy us.</L>
+<L>1. What newes <HI>Baptisto</HI> there?</L>
+</SP>
+<STAGE><HI>Enter</HI> Baptisto.</STAGE>
+<SP>
+<SPEAKER>Bap.</SPEAKER>
+<L>Oh sir, I cannot speake and tell yee,</L>
+<L>Let me weepe out mine eyes first,</L>
+<L>And then I may chance finde the way too't.</L>
+</SP>
+<SP>
+<SPEAKER>Priest.</SPEAKER>
+<L>Prithee whither, out with it?</L>
+</SP>
+<SP>
+<SPEAKER>Bap.</SPEAKER>
+<L>Betimes this morning unfolding my sheepe,</L>
+<L>Some halfe a mile off the Dragons denne:</L>
+<L>For hee's no night-walker, take that by th' way,</L>
+<L>And in the day time I'le keepe out of's company.</L>
+<L>2. Come forward.</L>
+</SP>
+<SP>
+<SPEAKER>Bap.</SPEAKER>
+<L>Comes me a Gentleman all in black armour,</L>
+<L>To inquire of me where was the Dragons lodging:</L>
+<L>I told him where he kept house, but wisht him,</L>
+<L>If he would be welcome, to bring his stoole with him;</L>
+<L>For he was very churlish, and as most</L>
+<L>Of our great men now a dayes, devoure all his neighbours:</L>
+<L>He smil'd, and on he rode; I followed to see</L>
+<L>What would follow, and into a tree I got me:</L>
+<L><PB REF="15"/>
+The trampling of his Horse awak't the Monster,</L>
+<L>And forth comes the devill out of his denne,</L>
+<L>The Knight runnes at him with his Launce,</L>
+<L>Pierc't through one of his ugly wings,</L>
+<L>But by fatall chance his Courser stumbl'd,</L>
+<L>And by unfortunate happe threw him betweene</L>
+<L>The Monsters jawes, who in a trice</L>
+<L>With his large devillish teeth crusht him in pieces.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>Alas poore Gentleman!</L>
+</SP>
+<SP>
+<SPEAKER>Bap.</SPEAKER>
+<L>He had not hardly breath'd himselfe alittle,</L>
+<L>When suddenly two gallant Knights assaild him,</L>
+<L>Who long held combate with him, till the Lyon,</L>
+<L>His devillish deare companion, came to helpe him;</L>
+<L>Who presently then sent 'em</L>
+<L>To accompany their fellows fate.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>Vnhappy chance!</L>
+</SP>
+<SP>
+<SPEAKER>Bap.</SPEAKER>
+<L>They having done their worke, went to their dens,</L>
+<L>To licke their wounds, I thinke for want</L>
+<L>Of better Surgeans: I tooke the opportunity,</L>
+<L>And hither stole to relate the newes.</L>
+</SP>
+<STAGE>Loud Musick.</STAGE>
+<SP>
+<SPEAKER>Priest.</SPEAKER>
+<L>But soft, what Musick's this? surely there are</L>
+<L>Some great ones abroad, and here they come:</L>
+<L>Let's stand aside awhile.</L>
+</SP>
+<STAGE><HI>Flourish: Enter Emperour</HI> Ancetes, Andrew, <HI>and</HI> Anthony,
+his daughter, three other Virgins, Bowes, Arrows, and
+Quivers by their sides; attendants.</STAGE>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L><HI>Ancetes,</HI> thou hast told us deeds of wonder,</L>
+<L>And, but our eyes convince our doubtfull thoughts,</L>
+<L>We could not give beleefe too't: Now their deaths,</L>
+<L>That ran on danger for their Countries good,</L>
+<L>Have ample recompence: what power, for none</L>
+<L>But a Celestiall one, could arme your hands,</L>
+<L>And give your spirits vigor to o'recome</L>
+<L>So much of danger?</L>
+</SP>
+<SP>
+<SPEAKER>Anth.</SPEAKER>
+<L>No other sir, but our true borne loves</L>
+<L><PB REF="15"/>
+To noble actions, pitty of others wrong'd,</L>
+<L>And faire renowne, are all the spurres</L>
+<L>Should put on noble spirits to warlike actions,</L>
+<L>And in that to fall, or rise with glory:</L>
+<L>Who would not venture this weake peece</L>
+<L>Of flesh, which every Ague beats?</L>
+<L>Nor ever held I life at such a rate,</L>
+<L>But to get fame, I dare and will tempt Fate.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>What a bold spirit he moves with!</L>
+<L>Noble youths; we glory that our Countries earth</L>
+<L>Now beares so much of man upon her.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Sir, by my fathers leave I doe pronounce</L>
+<L>Y'are freely welcome, not to us alone, but to all,</L>
+<L>All faithfull subjects to my Father, and their loud joyes</L>
+<L>Shall speake it; one worke of gratitude</L>
+<L>We owe the gods, the other to your valours.</L>
+<L>What remaines, but that you blesse our eyes</L>
+<L>With the true figures of our deare lives preserver?</L>
+<L>Therefore unarme your selves, your dangerous combate,</L>
+<L>The heate and dust, and the fast closure of</L>
+<L>Your Armours strictnesse may much impaire your healths;</L>
+<L>Let me prevaile with you.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>Bright Lady, where necessity implies an act of duty,</L>
+<L>Manly vertue should clap on spurres to hasten piety:</L>
+<L>These goodly parts, they were not made alone to serve</L>
+<L>Our selves, but like pure fountaines, freely to dispence</L>
+<L>Our streames to others wants: and so faire Lady,</L>
+<L>Vrgent affaires call on our swords and valours,</L>
+<L>To revenge the wrongs of some few Virgins,</L>
+<L>That have long expected our wisht for presence.</L>
+</SP>
+<SP>
+<SPEAKER>Anth.</SPEAKER>
+<L>This, I hope, may plead in our excuse,</L>
+<L>And no way render us discourteous or unworthy</L>
+<L>For departing unarmed, or else unman'd</L>
+<L>From this faire presence, and so we take our leaves.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Make me not so unworthy by your absence,</L>
+<L>To my owne subjects, and to forraigne Nations,</L>
+<L>VVho shall read the story of your deeds,</L>
+<L><PB REF="16"/>
+And my requitall, but they will brand me with ingratitude.</L>
+<L>Can you maintaine the good of charity</L>
+<L>In your owne actions, yet tye mine in bonds,</L>
+<L>When she should stretch her silver wings,</L>
+<L>And pay back thanks for so large benefits:</L>
+<L>No, take the meed your valours have deserv'd,</L>
+<L>And let us crowne our hopes, in that we long</L>
+<L>Have wisht your faire aspects:</L>
+<L>Nor shall your stay exceed our one nights welcome,</L>
+<L>And then a faire farewell.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>Where Majesty and beauty both command,</L>
+<L>In vaine were our resistance: Brother, your hands</L>
+<L>And mine shall be imployd; to unbuckle yours</L>
+<L>I'le quickly ease your shoulders of a burden.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Nay, wee'le be helpers all.</L>
+<STAGE>Vnarmes them.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>You make sure worke sirs,</L>
+<L>Every light justle leaves you not defencelesse,</L>
+<L>And I commend your care in it.</L>
+</SP>
+<SP>
+<SPEAKER>Anth.</SPEAKER>
+<L>He that encounters danger, must not thinke</L>
+<L>His skin of Armour proofe: tho but young schollers,</L>
+<L>We have learn'd that discipline.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Of goodly presence both, and farre exceeds</L>
+<L>The youths our Countrey breeds, in forme and stature;</L>
+<L>Speake my <HI>Carintha,</HI> what judge yee of them?</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>Madam, so well, that had I leave to wed,</L>
+<L>One of these Knights should blesse my Marriage-bed.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Then you are indifferent, your love is equall?</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>In troth it is.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>So is not mine; but thoughts a while conceale,</L>
+<L>What passion might unwisely now reveale.</L>
+</SP>
+<SP>
+<SPEAKER>Ance.</SPEAKER>
+<L>They are both unarm'd.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Now worthy Knights, mine eye is pleas'd</L>
+<L>In viewing your faire presence,</L>
+<L>I would gladly know what Countrey owes yee,</L>
+<L>For the place is happy that first gave yee beeing.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>Not one my Lord:</L>
+<L>We owe our lives first light to severall Nations,</L>
+<L><PB REF="16"/>
+An Iland farre remov'd from <HI>Grecian</HI> shores,</L>
+<L>VVhose lovely waste proud <HI>Neptune</HI> circles round,</L>
+<L>Her craggy clifts ambitiously threat Heaven,</L>
+<L>And strikes pale terrour to the Mariner,</L>
+<L>VVhen unadvisedly he falls on them.</L>
+<L>The inhabitants proportion'd like our selves,</L>
+<L>Well skill'd in Science, and all humane Arts;</L>
+<L>A government of peace and unity,</L>
+<L>For plenty, farre exceeding all the Isles</L>
+<L><HI>Europes</HI> vast bounds or wealthy <HI>Asia</HI> yeelds,</L>
+<L>The name <HI>Britannia,</HI> which includes within it</L>
+<L>Faire <HI>England, Wales,</HI> and <HI>Scotland;</HI></L>
+<L>The last of which I fetcht my birth from.</L>
+<L>Thus have you heard at full</L>
+<L>What I can give you of relation.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>It pleases us: but now sir we must crave</L>
+<L>The like from you, and then to Court we hie</L>
+<L>To gratulate your welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Anth.</SPEAKER>
+<L>Then know my Lord, <HI>Italian</HI> earth I claime,</L>
+<L>Mother of Arts, and Nurse of noble spirits;</L>
+<L>And in that Countrey, <HI>Rome,</HI> my place of birth,</L>
+<L>Great Mistris of the world, whose large-stretcht armes</L>
+<L>O're Land and Sea holds domination:</L>
+<L>Renown'd for government in peace or warre</L>
+<L>Even to the shoare of scorching <HI>India,</HI></L>
+<L>Their armes strike terrour through the world:</L>
+<L>Kings were their vassals, and their awfull swords</L>
+<L>Brought the knowne world to their subjection.</L>
+<L>Nor wonder not great King, that we should leave</L>
+<L>A Court that's fraughted with such happinesse,</L>
+<L>For Christians glory and our Countries fame</L>
+<L>We have adventur'd life and honour too.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>And both are lost I feare, unhappy men:</L>
+<L>Whom in my piety I should respect,</L>
+<L>The gods in justice causes me reject.</L>
+<L>Lay hands on 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>On us? for what?</L>
+</SP>
+<SP>
+<PB REF="17"/>
+<SPEAKER>Empr.</SPEAKER>
+<L>Performe our will, in the delay is death.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Is this your welcome, love, and gratitude?</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Your honour or your valour now will be of small assu∣rance:</L>
+<L>What ill-fated starre guided your haplesse feete</L>
+<L>Into this land? these eyes that shot forth welcome,</L>
+<L>Now must send Embassadours of death to your cold hearts,</L>
+<L>No acclamations now must fill your eares</L>
+<L>With joyfull conquest: <HI>Apollos</HI> Garland,</L>
+<L>That should grace your browes,</L>
+<L>Must decke your Coffins, the grave your chambers,</L>
+<L>And the wormes must be</L>
+<L>The sad companions of your destiny.</L>
+<L>Boldly then prepare,</L>
+<L>For in your journey you have equall share.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>We mist your aimes in this;</L>
+<L>'Tis a strange turning from courteous welcome,</L>
+<L>To blacke threats of death.</L>
+</SP>
+<SP>
+<SPEAKER>Empr.</SPEAKER>
+<L>Ile ease your doubts, though not your misery;</L>
+<L>You both are Christians?</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>We are.</L>
+</SP>
+<SP>
+<SPEAKER>Empr.</SPEAKER>
+<L>In being so, you post to your owne ruine:</L>
+<L>The holy Gods, whom piety commands us to obey,</L>
+<L>Have from their Oracles sent this decree,</L>
+<L>What ever Christian sets his haplesse foote</L>
+<L>On this forbidden ground unlesse he instantly</L>
+<L>Recant his faith, let him be made</L>
+<L>A bloody sacrifice to appease our wrath:</L>
+<L>Now here lies before yee the riches</L>
+<L>Of our kingdome, glory, and honour,</L>
+<L>The benefits of sweete and happy life,</L>
+<L>All the most choyce delights, that with our love</L>
+<L>May be propos'd to you; even these our beauties,</L>
+<L>Turne your amorous eyes, please your owne fancies,</L>
+<L>And inrich your selves where you best affect,</L>
+<L>Onely relinquish the religion which now you hold,</L>
+<L>And turne unto our Gods; that done,</L>
+<L>As we are Emperour of <HI>Trebizon,</HI></L>
+<L><PB REF="17"/>
+All these shall be perform'd: but if through</L>
+<L>Pride, and hated wilfulnesse, you shall refuse</L>
+<L>Our proffer, a present death attends you.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>We are prepar'd.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Then in your death this favour we will shew,</L>
+<L>Because your valour hath so shew'd you both,</L>
+<L>To be borne High and Noble, we give this priviledge,</L>
+<L>To chuse your executioners.</L>
+</SP>
+<SP>
+<SPEAKER>Andr.</SPEAKER>
+<L>Thou hast redeem'd thy honour, and this sentence</L>
+<L>Speakes thee a royall Tyrant: Come my friend,</L>
+<L>We two, like Travellers that are inforc'd</L>
+<L>To venture on a lodging fild with horrors in outward shew,</L>
+<L>Threatning no way but ruine, the blacke preparatives</L>
+<L>Of sad decay, being Vshers to the entrance;</L>
+<L>But once being in, then thinke, my constant partner,</L>
+<L>What endlesse welcome followes; pleasures unspeakable,</L>
+<L>Beyond the sublimary thoughts of our poore natures:</L>
+<L>If but the thought of this advance the soule,</L>
+<L>And drives our sence to admiration:</L>
+<L>Oh then how glorious is that wisht for seat,</L>
+<L>Where all these benefits shall be compleat.</L>
+</SP>
+<SP>
+<SPEAKER>Anthon.</SPEAKER>
+<L>I need no armour, but my constant heart,</L>
+<L>And thou hast given new life to't</L>
+<L>In our deaths; our innocence shall make our</L>
+<L>After story be worth all knowing judgements:</L>
+<L>Nor shall our bloods be shed by vulgar hands,</L>
+<L>Since we have power in the disposing it.</L>
+<L>Come beauteous Ladies, now expresse your arts,</L>
+<L>Make your <HI>Apollo</HI> wonder at your skill,</L>
+<L>And with more glory than he did ascend</L>
+<L><HI>Olimpus</HI> top, after blacke <HI>Pythons</HI> fall:</L>
+<L>With more shall you salute your peoples eyes,</L>
+<L>Rejoycing in our haplesse Tragedies.</L>
+</SP>
+<SP>
+<SPEAKER>Princesse.</SPEAKER>
+<L>Vnhappy <HI>Violeta.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>Lost <HI>Carintha.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Bind them fast: Now <HI>Violeta,</HI> arme thy feeble hand,</L>
+<L>Strike sure and fearelesse, for thou sendst the gods</L>
+<L><PB REF="18"/>
+A pleasing Sacrifice.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>O unhappy mayd, lost in my best of wishes!</L>
+<L>Was I borne to ruine vertue, and gaine by it a name</L>
+<L>Hatefull to all posterity? Royall Sir,</L>
+<L>Have you no other to imploy, than her</L>
+<L>That you gave life too? must I become an executioner?</L>
+<L>Or doe you thinke me Marble? oh that I were,</L>
+<L>That I might ever weepe for your injustice:</L>
+<L>For ever may my hand forget its motion</L>
+<L>If it give way to this: Know I dare dye,</L>
+<L>Rather than act this mischiefe.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Are you of that opinion too <HI>Carintha?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>Sir I am, and rather will I chuse a noble death,</L>
+<L>Than live with such dishonour.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Oh my unbounded passions, give 'em vent,</L>
+<L>The flame will else consume me:</L>
+<L>Fall from me all respects of nature;</L>
+<L>I will forget that I had such a thought,</L>
+<L>As to beleeve thee mine: farewell the houres</L>
+<L>I often spent in contemplation of thy beauty,</L>
+<L>Youth, and breeding; thou and these shall be like things</L>
+<L>Forgotten, and if thy hand refuse to act our will,</L>
+<L>Expect the utmost of all sad afflictions</L>
+<L>Our hate can cast upon thee.</L>
+</SP>
+<SP>
+<SPEAKER>Princesse.</SPEAKER>
+<L>I am prepar'd, and glory in my suffrings.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Binde them then, since you are so resolv'd,</L>
+<L>Wee'le give you cause to expresse your fortitude:</L>
+<L>They shall suffer first.</L>
+</SP>
+<SP>
+<SPEAKER>Anthon.</SPEAKER>
+<L>Give us a hearing Sir:</L>
+<L>We doe not wish to pull on others ruines</L>
+<L>With our owne; nor would we make you guilty</L>
+<L>Of a crime so soule, least after ages should traduce</L>
+<L>Your name for this impiety; give us then</L>
+<L>Your first and voluntary promise that your</L>
+<L>Tongue alowd, and we will quit these</L>
+<L>Ladies from the act.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>We agree to't, and by our Gods I sweare my promise</L>
+<L><PB REF="18"/>
+To performe without all doubt or fraud.</L>
+</SP>
+<SP>
+<SPEAKER>Anton.</SPEAKER>
+<L>Vnbinde us then, and give us in our hands</L>
+<L>Our well try'd swords, and you shall see how quickly</L>
+<L>We will charme a passage to our wisht</L>
+<L>For expirations, we will embrace in steele:</L>
+<L>And worthy friend, doe but strike home,</L>
+<L>And thou shalt soone perceive how quickly weele have</L>
+<L>Freedome; thou shalt see how I will meet thy wishes,</L>
+<L>And woe thy backward sword to give to me</L>
+<L>A passage to yon blessed Kingdome.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Vnbinde 'em strait, and arme 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Princesse.</SPEAKER>
+<L>This is cruell; sinke mine eyes into your</L>
+<L>Hollow cavernes, doe not see an act so full of horrour.</L>
+</SP>
+<SP>
+<SPEAKER>Emp.</SPEAKER>
+<L>Are yee prepar'd?</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Yes, for your eternall ruines.</L>
+</SP>
+<SP>
+<SPEAKER>Anthon.</SPEAKER>
+<L>We are free, and like untamed Lyons,</L>
+<L>We now will forrage, and bath us in your bloods.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>So, they are all disperst and fled; never before</L>
+<L>Stood life on such a fickle poynt with us:</L>
+<L>Lets leave this cursed Kingdome,</L>
+<L>Mount our Steeds, which through negligence,</L>
+<L>Our enemies have faild to sieze on;</L>
+<L>Leave them to curse their starres;</L>
+<L>And still be sure, in all our actions,</L>
+<L>That heavens mighty hand,</L>
+<L>Can mens devices easie countermand.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>ACTUS TERTIUS.</HEAD>
+<STAGE><HI>Enter</HI> Almona <HI>and</HI> Lenon, <HI>being throwne by</HI> David.</STAGE>
+<SP>
+<SPEAKER>Almon.</SPEAKER>
+<L>No more, no more, your words are feathers</L>
+<L>For the winde to play with.</L>
+</SP>
+<SP>
+<SPEAKER>Lenon.</SPEAKER>
+<L>Will you not joyne with me to be reveng'd?</L>
+<L><PB REF="19"/>
+When was it knowne that <HI>Lenon</HI> and <HI>Almona</HI></L>
+<L>Parted with victories tryumphant, which now flies</L>
+<L>With a disdain'd applause from us unto a stranger?</L>
+<L>When did these Bulwarks which hath stood till now</L>
+<L>The shock of all the Knights our parts hath seene,</L>
+<L>Ere shrinke under the sinews of an Army?</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Why now, just now we have;</L>
+<L>Have we not still by daring challenges oppos'd our selves</L>
+<L>The round worlds opposites? Have not our prowesses</L>
+<L>In stately lifts tost up the golden ball, and wonne it?</L>
+<L>Is not bright honour free in Princes Courts?</L>
+<L>We have o'recome, and now we are o'recome,</L>
+<L>And shall we envie what we ever loved,</L>
+<L>And were lov'd for? so thinkes the Adder,</L>
+<L>When his sting is gone, his hissing has the power to venome too.</L>
+<L>Cast off that coate, it not becomes thee <HI>Lenon;</HI></L>
+<L>'Twill weare thy honour thread-bare to the bones,</L>
+<L>And make death seize on thee with infamy.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Let Death come how he will,</L>
+<L>And doe you tamely suffer what you will,</L>
+<L>This <HI>Brittish</HI> Knight shall never boast in <HI>Wales,</HI></L>
+<L>That ere he triumpht Victor over me.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Another charge:</L>
+<L><HI>A charge and a shout cry</HI> Arbasto.</L>
+<L>What over desperate and life-weary foole</L>
+<L>Dares meete the couched Lance of this brave Knight,</L>
+<L>Seeing the foyle we tooke?</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>The cry went in our Prince <HI>Arbasto's</HI> name:</L>
+<L>Hearke another charge gives 'em a second meeting:</L>
+<L>'Tis well he kept his saddle at the first:</L>
+<STAGE>A charge, a cry <HI>Arbasto.</HI></STAGE>
+<L>Looke to the Prince there some, and take him:</L>
+<L>For falne I'me sure he is before this time.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>I now admire and love this venture in him:</L>
+<L>Well done young twig of a most Royall bough,</L>
+<L>Thou hast wonne our losses, which we must allow.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Heark, the third charge is begun.</L>
+</SP>
+<STAGE>A charge, a crye, save the Prince.</STAGE>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>I doe not like that sound, what ever accident</L>
+<L>Betides, <HI>Arbasto</HI> hath not lost but wonne renowne:</L>
+<L><PB REF="19"/>
+Now, what newes bringst thou?</L>
+</SP>
+<STAGE>Enter Messenger.</STAGE>
+<SP>
+<SPEAKER>Mes.</SPEAKER>
+<L>Set ope your eares to entertaine sad news,</L>
+<L>I sing the latest <HI>Requiem</HI> of our Prince, hee's slaine.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Falne I beleeve, but yet I hope not slaine.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>This whet-stone makes revenges edge more keene:</L>
+<L>Goe forward good mischance.</L>
+</SP>
+<SP>
+<SPEAKER>Mes.</SPEAKER>
+<L>Twice met this brave young Prince the <HI>Brittish</HI> Knights,</L>
+<L>And bore his body stiffe against his shock,</L>
+<L>Vnmov'd of either stirrop or of saddle,</L>
+<L>Their shiver'd Launces quarrell'd as they brake,</L>
+<L>And as they upward flew, clasht strong together,</L>
+<L>And he unmov'd, undanted twice appear'd</L>
+<L>As faire for Victor as his stout opponent,</L>
+<L>And had he rested there, he had equall shar'd</L>
+<L>The dayes bright honour with him.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Well, the disaster.</L>
+</SP>
+<SP>
+<SPEAKER>Mes.</SPEAKER>
+<L>Bowing his plumed head unto his Syre,</L>
+<L>Who sent him smiles of joyes incouragement,</L>
+<L>Addrest him for the third, and last Careere:</L>
+<L>The Christian Knight likewise 'gan couch his Lance,</L>
+<L>But as he graspt it in his manly fist,</L>
+<L>An angry fire circled about his eyes,</L>
+<L>And from the furrows of his browes Revenge</L>
+<L>Leapt forth, and seizes on the Prince:</L>
+<L>They charg'd, he fell, and in the fall his neck</L>
+<L>He broke; so ends my heavy <HI>Nuntius.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>The Prince!</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>So Honour sprung a bud, and blasted it</L>
+<L>Before it grew to his maturity;</L>
+<L>Noble Prince, I pitty thy misfortune, more, the Knights;</L>
+<L>And I for this condemne nimble mischance,</L>
+<L>But not the Knight at all.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Murderous villain, if my braines can invent torture</L>
+<L>Sufficient, sufficient; here begins thy hell,</L>
+<L>And I thy first devill.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>And I will second be how to prevent yee.</L>
+</SP>
+<STAGE><PB REF="20"/>
+<HI>Enter the King of</HI> Tartary, <HI>two Knights in armour, the body
+of the Prince</HI> Arbasto in a Herse.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Set downe the broken columne of mine age,</L>
+<L>The golden Anchor, <HI>Hope,</HI> once shewed to me,</L>
+<L>Hath split and sunke the vessell held my wealth:</L>
+<L>Oh my <HI>Arbasto.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alm.</SPEAKER>
+<L>Take comfort Royall sir,</L>
+<L>Fame stories few are living; more the dead,</L>
+<L>Death hath but rockt him then on honours bed:</L>
+<L>Then let him sleepe.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hee's a good Physitian that can quite kill griefe,</L>
+<L>That hath but newly made his patient of me:</L>
+<L>Tear<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s must give vent first to the oppressed heart,</L>
+<L>And Time lay drawing plaisters to the sore,</L>
+<L>Before he can find ease, but yet I thanke yee.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Most Noble Sir,</L>
+<L>Teares shews effeminate in noble spirits,</L>
+<L>Those aged sluces want that Raine that falls,</L>
+<L>Bewaile him not with teares, but with revenge;</L>
+<L>If drops must needs be spilt, let 'em be blood.</L>
+<L>His blood that wilfully sheds blood,</L>
+<L>The Law of Nations wisely did allow</L>
+<L>All Iusts and Turnaments in Princes Courts,</L>
+<L>For honours cause to breake a friendly staffe,</L>
+<L>But not to make a butchery or shambles in Court lists:</L>
+<L>Therefore if I might of his jury be,</L>
+<L>My Verdict should be given up, he must dye.</L>
+</SP>
+<SP>
+<SPEAKER>Alm.</SPEAKER>
+<L>Lord <HI>Lenon,</HI> 'tis most certaine he must dye:</L>
+<L>I love my Soveraigne well, I lov'd his sonne,</L>
+<L>But dare not say that he deserves to dye:</L>
+<L>This stranger here, came here in honours cause,</L>
+<L>Stak't honour downe, and bravely bore it hence:</L>
+<L>Your selfe, silence but envies tongue, can witnesse with me,</L>
+<L>I have spoke but truth: where lives the Noblenesse</L>
+<L>But in the minde? wild beasts have strength, irrationall</L>
+<L><PB REF="20"/>
+And rude, but want the sence of reasons government:</L>
+<L>Let rage hot raines bite upon temperance:</L>
+<L>The Iron handed Fates warres hard at game,</L>
+<L>And threw a cast at brave <HI>Arbastoes</HI> life;</L>
+<L>But let your sentence passe my Lord, ha' done,</L>
+</SP>
+<SP>
+<SPEAKER>Len.</SPEAKER>
+<L>Spoke like no lover of his Soveraignes sonne</L>
+</SP>
+<SP>
+<SPEAKER>Alm.</SPEAKER>
+<L>Reply'd not like a lover unto either:</L>
+<L>Your valours's horse-like, and it must be tam'd,</L>
+</SP>
+<SP>
+<SPEAKER>Len.</SPEAKER>
+<L>Twill breake the Riders necke dares but to back him▪</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Forbeare I say, on your allegeance:</L>
+<L>Had my <HI>Arbasto</HI> dyed in our defence,</L>
+<L>Against the pride of the hot <HI>Persian</HI> Host,</L>
+<L>That seekes to pale his Temple with our wreath,</L>
+<L>And name <HI>Tartary</HI> new <HI>Persia,</HI></L>
+<L>Our cares had beene but slight, but in a friendly</L>
+<L>Breathing exercise, when honor goes a feasting but for shew,</L>
+<L>A jesting practice in the Schoole of Armes,</L>
+<L>There for to lose him.</L>
+</SP>
+<SP>
+<SPEAKER>Len.</SPEAKER>
+<L>An ill intent arm'd Executions hand.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I know not that; why should he ruine him,</L>
+<L>Shewing more kind innated friendship to him,</L>
+<L>Than brother shewes to brother.</L>
+</SP>
+<SP>
+<SPEAKER>Len.</SPEAKER>
+<L><HI>Remus</HI> and <HI>Romulus,</HI> my Lord, one suckt more</L>
+<L>Harder on the Wolfe than tother,</L>
+<L>Thinke what a game <HI>Hope</HI> lost.</L>
+</SP>
+<SP>
+<SPEAKER>Alm.</SPEAKER>
+<L>Upon my soule, my Lord, the Knight is cleare</L>
+<L>Of any foule intent against your sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Len.</SPEAKER>
+<L>Why <HI>Almaine, Almaine,</HI> dare you stand to this?</L>
+</SP>
+<SP>
+<SPEAKER>Alm.</SPEAKER>
+<L><HI>Lenon</HI> I dare, and in thy venome blood write</L>
+<L>He's not guilty.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No more I say, upon your lives no more:</L>
+<L>Too hard it is for me to give a true descidence to the cause,</L>
+<L>The Knight was ever courteous, faire, and free,</L>
+<L>And 'gainst the <HI>Persian</HI> in my just defence,</L>
+<L>Ransom'd my sonne from multitudes of losse,</L>
+<L>And brought home conquest to our very gate,</L>
+<L>I cannot then in honour take his life,</L>
+<L><PB REF="21"/>
+Our neighbour Kings would say, I dealt not faire,</L>
+<L>And quite disclaime in us all brother-hood:</L>
+<L>To banish him, were but the more to enlarge his fame;</L>
+<L>All kingdomes are but Knight errands native home.</L>
+</SP>
+<SP>
+<SPEAKER>Len.</SPEAKER>
+<L>In private be it spoke my Liege, I like not</L>
+<L><HI>Almonas</HI> love to this same Knight:</L>
+<L>It little shewes love to the deceased Prince:</L>
+<L>What was he but a young strait tender plant;</L>
+<L>The sturdy Oke might well have spar'd him then:</L>
+<L>His toward hopes were ruin'd and cut downe:</L>
+<L>Had he done this in any other Court, to any Prince</L>
+<L>So toward as your Sonne, he had ere this beene attomes:</L>
+<L>Your sonne has suffer'd, let him suffer too,</L>
+<L>Who ever wilfully committed murther,</L>
+<L>And was without excuse? but can that save?</L>
+<L>No more should this my Liege, I have but said.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And wisely <HI>Lenon,</HI> goe bring forth the Knight;</L>
+<L>We are determin'd that he shall not live;</L>
+<STAGE>Exit for him.</STAGE>
+<L>Nor shall he suffer here within our Courts,</L>
+<L>Wee'le kill him in a nobler gentile way:</L>
+<L>O here he comes.</L>
+</SP>
+<STAGE>Enter Knight bound.</STAGE>
+<SP>
+<SPEAKER>Alm.</SPEAKER>
+<L>You'r gone; false <HI>Lenon</HI> hath betraid yee to your death.</L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>Welcome my Fate.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sir Knight, you have not fairely dealt with us;</L>
+<L>Though 'gainst my foes you brought me honour home,</L>
+<L>My deare sonnes life you have tooke for your reward;</L>
+<L>But you shall finde 'tis treasure stole, not bounty given,</L>
+<L>And for that theft your life must satisfie.</L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>King of <HI>Tartary,</HI> heare sad <HI>David</HI> speake.</L>
+</SP>
+<SP>
+<SPEAKER>Len.</SPEAKER>
+<L>Now the excuse my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>Those honours I have brought you home,</L>
+<L>It seemes this accident hath cancel'd,</L>
+<L>And stifles all my merits in your love:</L>
+<L>Yet let 'em hang like pendants on my herse,</L>
+<L>That I did love the unfortunate deceas'd,</L>
+<L>These drops of teares, true sorrowes, testifie;</L>
+<L>And what hath happend to that lifes deare losse,</L>
+<L><PB REF="21"/>
+Was not by will, but fatall accident:</L>
+<L>I hold my hand up at the hand of heaven, not guilty:</L>
+<L>King, thinke not I speake to have thee spare my life,</L>
+<L>For halfe my life lies dead there with thy Sonne,</L>
+<L>And here the other halfe is ready too, to testifie,</L>
+<L>How well I lov'd the Prince, though now I dye.</L>
+</SP>
+<SP>
+<SPEAKER>Lenon.</SPEAKER>
+<L>A Heads man and an Axe there.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>For him that calls him.</L>
+</SP>
+<SP>
+<SPEAKER>Alm.</SPEAKER>
+<L>I that was well said King; Spannell no more.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy hand once more brave English Knight,</L>
+<L>We are at peace, and will not what we may:</L>
+<L>But let me now one thing enjoyne you to,</L>
+<L>Not as a pennance for my deare sonnes losse,</L>
+<L>But as a further safety of my Kingdome,</L>
+<L>And larger interest of your love to me.</L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>Give me the danger, I can meet but death.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My hopes are better of thee, noble Knight;</L>
+<L>Heare then thy taske, thou shalt then hence</L>
+<L>In Knightly order ride, 'gainst him, not onely</L>
+<L>Aided <HI>Persia</HI> 'gainst our power, but shakes our</L>
+<L>Kingdome with the power of hell, blake <HI>Ormandine,</HI></L>
+<L>The inchanted Garden-keeper; if that thou dar'st</L>
+<L>Attempt, and bring his head, I will not onely</L>
+<L>Quittance this mischance, which makes me wretched,</L>
+<L>But halfe my part of this large Crowne</L>
+<L>Is thine, and when I dye,</L>
+<L><HI>David</HI> of <HI>Wales</HI> reignes King of <HI>Tartary;</HI></L>
+<L>Speake comfortable words of the attempt.</L>
+</SP>
+<SP>
+<SPEAKER>David.</SPEAKER>
+<L>It is the oath of Knight-hood I have tane, and here</L>
+<L>Againe before you I will take, from hence being</L>
+<L>parted, ne're to make stay more than a nights</L>
+<L>Repose till I am there, and being there,</L>
+<L>By all the honours of a Knight I vow</L>
+<L>Blacke <HI>Ormandines</HI> head, and lay it at your feete:</L>
+<L>This, by the honour of a Knight, Ile do, or dye in the attempt.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Tis enough; rise noble <HI>David,</HI></L>
+<L>So, n<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>w shall I be reveng'd for my sonnes life,</L>
+<L><PB REF="22"/>
+Without the clamour of the world for it:</L>
+<L>Thou bring his head, poore Knight, thou maist as well</L>
+<L>Rob <HI>love</HI> of lightning, or claspe a hand <HI>Garnado,</HI></L>
+<L>Being fir'd: to morrow morning you shall forward set;</L>
+<L>On with the Herse till you returne</L>
+<L>We sorrowes path shall tread,</L>
+<L>And bury griefe when thou bringst <HI>Ar<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ands</HI> head.</L>
+</SP>
+<STAGE>A dead March within.</STAGE>
+<STAGE>Exeunt.</STAGE>
+<LG>
+<HEAD>Chorus.</HEAD>
+<L>Our <HI>Brittaine</HI> Knight we leave in his hard journey</L>
+<L>But more hard attempt, yet all the other have not idle beene,</L>
+<L>For since their parting at the brazen Piller,</L>
+<L>Each hath shar'd strange and perillous adventures,</L>
+<L>Which here in severall acts to personate, would in the</L>
+<L>Meanest fill a larger Scene than on this Stage</L>
+<L>An Action would containe;</L>
+<L>But to the shortnesse of the time wee'le sort,</L>
+<L>Each Champion in't shall beare a little part</L>
+<L>Of their more larger History:</L>
+<L>Then let your fancies deeme upon a stage,</L>
+<L>One man a thousand, and one houre an age.</L>
+<L>And now with patience beare your kind attents to the</L>
+<L>Red Crosse bearer, English <HI>George,</HI> your high renowned</L>
+<L>Knight, who since the hand of Christendome parted her</L>
+<L>Seven faire Knights, the dangers he hath seene and past,</L>
+<L>Would make the brightest day looke pale and tremble,</L>
+<L>Nay death himselfe, that ends mortality,</L>
+<L>To thinke of death, and that himselfe must dye.</L>
+<L>After renowned <HI>George</HI> from the fell Dragons jawes,</L>
+<L>Redeem'd <HI>Sabrina, P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>mils</HI> onely heire, with slaughter</L>
+<L>Of the Hell-produced fiend; his wife he wonne,</L>
+<L>Had <HI>Pomil</HI> promise kept; but in a large requitall</L>
+<L>Of her life, incens'd by the <HI>Moroco</HI> King, our Champions rivall,</L>
+<L>Cast <HI>George</HI> in prison, in a hatefull Dungeon;</L>
+<L>He that deserv'd his Crowne, and daughters bed,</L>
+<L>He ingratefully with branne and water fed 7 years together,</L>
+<L><PB REF="22"/>
+Which time expir'd, the miserable Knight found once</L>
+<L>That opportunity shewed him a little favour,</L>
+<L>For by the breaking of the Laylers neck,</L>
+<L>He gaind the keyes which gave him liberty:</L>
+<L>When being freed, and out of dangers port,</L>
+<L>You his kind Countrymen shall see</L>
+<L>For <HI>Englands</HI> honour, <HI>Georges</HI> Chivaldry.</L>
+</LG>
+<STAGE>Enter Clowne like a poore shepheard.</STAGE>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Oh most astonishable hunger! thou that dost pinch
+worse than any Fairies, or the gummes of old women: thou
+that dost freeze the mortall gouts of a man more than the R<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>∣zom'd
+stick of a Base Violl, what shall be said? what shall
+be done to thee? Oh my glorious Mother, what a time of
+eating had I in thy dayes, nay, my magnanimous Master,
+whom I lost in the devils arse of Peake: what a plentifull
+progresse had I with thee, when we did nothing but kill Gy∣ants
+and wild beasts, then the golden gobbets of Beefe and
+Bacon, whose shining fat would cry clash in spight of my
+teeth, now I may compare with <HI>Ploydens</HI> law, the case is al∣<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>r'd;
+A shepheard, a sheep-biter; nay, I were happy then,
+I would wish no better bitings than Mutton; the Cobs of
+Herring, and parings of Cheese is now a Sundayes dyet, and
+yet they cry out of my abhominable feeding, my unsatisfied
+gut, with a Wolfe at the end on't: I have eate up my Tarre∣box
+for hunger already, what will be next troe? Soft, who
+comes here, my fellow Swaine withsome pittifull provant
+for my dinner?</P>
+</SP>
+<STAGE>Enter Shepheard.</STAGE>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P><HI>Suckabus,</HI> where art thou?</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Heere, where the bare bones of him will be very
+shortly: what hast thou brought me there?</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P>A feast, a feast; here's princely cheere for thee: here's
+two Carrots and a Turnip, and a little morsell of Beane∣bread,
+that I stole to hearten thee up withall.</P>
+</SP>
+<SP>
+<PB REF="23"/>
+<SPEAKER>Clow.</SPEAKER>
+<P>Sweet fellow <HI>Coridon,</HI> give me't, I shal grow a Phi∣osopher
+shortly if I fare o'this fashion: O the very steame
+of the three fat Oxen that my Master found boyling for the
+Gyants dinner, which we kill'd, would have fill'd both our
+bellies for a Fortnight.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Ha, three Oxen for one Gyants dinner?</L>
+<L>Thou art mistaken sure; thou art not old enough to see a Giant,</L>
+<L>And could thy Master and thee kill him?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Why there's the wit of a Bell-weather; one? we
+kill'd a hundred: but talke I to thee, that wert never no Tra∣veller
+since thou wilt not beleeve a truth, Ile hold my tongue,
+and fall to my teeth.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Nay good fellow <HI>Suckabus</HI> be not angry,</L>
+<L>I doe beleeve: What are those Gyants? Prithee tell me?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>No Iackalents, no Pigmies, no Dwarfes.</L>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Nay, I doe beleeve they are lusty fellows,</L>
+<L>And men of tall stomacks, they could never eate so much else,</L>
+<L>Three Oxen at one meale.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Tush, a Fasting-dayes <HI>Medicum;</HI> but when he makes
+a Feast to stuffe his abhominable gut, three hundred Acres
+of Oates will scarse make Oate-meale to thicken his por∣ridge-pot.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Now the Devill choake him,</L>
+<L>For hee's fitter farrefor hell, than to live here.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Hell? what should he doe there? hee'd pisse out
+their fire, and drowne all the devills in his urine.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>O monstrous! marry blesse me from him, I had thought</L>
+<L>They had not beene much taller than some of our Guard.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>The Guard? Hum, still like a Bell-weather? why
+hee'le chop up two yeomen of the Guard like pocht egges at
+a spoonefull: there's not a meale that he makes, but hee will
+load yee two Dung-carts with the picking of his teeth.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Blesse us!</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Blesse thee? why dost thou know what thou speak'st?</L>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>No hurt I hope good fellow <HI>Suckabus:</HI></L>
+<L>But how could you two kill this monstrous man?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Why as we killd a great many more of 'em; wee
+<PB REF="23"/>
+rid a Horseback into their bellies, made a Quintin of their
+hearts, and rod out at the But-hole end.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>That may be done indeed, this carries some shew of
+truth.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Why, didst thou thinke the rest were lies?</L>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P>No, no; Lord, what indiscretion people learne by
+Travaile! I have heard my Master say, hee was Page to a
+Knight erant they call'd old Dick, who ha's bin sixe dayes
+together in the bottome of the Sea, and tooke Tobacko
+'mongst the sharkes and such adventures, but none like this
+you speake of: Travell'd you e're with him?</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>I had more wit yfaith; I deale in no water-workes.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P>But pray tell me now, what stature might this man
+be you kill'd?</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>His stature? Let me not lye, he was not the biggest
+that e're we kill'd, let me tell yee that, he was just about that
+stature that Tuttle-field would fitly make a Grave for: I have
+told yee of a place before; 'tis neare <HI>London</HI> in <HI>England,</HI>
+where men goe a Trayning to get 'em good stomacks.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P>That's more than e're I heard of yfaith, that souldiers
+want stomacks: what enemies doe they meet with there?</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Why Barrels of Beere, bottles of Sack, Costerd∣mongers,
+Cakes, and Creame, and their wives that bring
+'em their dinner.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P>I marry sir, I would willingly be put into such ser∣vice;
+sure, their Commanders are brave fellows.</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>The bravest can be pickt out in each parish, and the
+ablest too, yet I heard one man in the shape of a Monster, put
+a Captaine and his Company to slight.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P>O monstrous!</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Come, no more of that; let me intreat thy absence
+till I have eate my vittails, and I will tell thee more.</P>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<P>Good <HI>Suckabus</HI> doe, and I'le see if I can tell thee of
+a Dwarfe shall be all as little.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Well, say and hold; come master Carret and mistris
+Turnup, I want but Beefe and Porke for sawce to yee, but
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>unger bids me fall to merrily, and I shall not want for
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>awe.</P>
+</SP>
+<STAGE>Eates.</STAGE>
+<STAGE><PB REF="24"/>
+Enter <HI>George</HI> in poore habit.</STAGE>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Thanks to my great preserver, by whose sacred power</L>
+<L>Poore <HI>George</HI> of <HI>England</HI> is set free agen<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/></L>
+<L>From death, danger, and imprisonment;</L>
+<L>I bow with duty to thy Deity; seven yeares</L>
+<L>Hath Famine under bolts and barrs dungeon'd me up,</L>
+<L>Accompanied with my teares in the darke bowels</L>
+<L>Of a loathsome Den, a place so farre remote from comfort,</L>
+<L>That not the smallest chinke or crany</L>
+<L>Could let the Sun-beames in to point on me;</L>
+<L>Yet thou, in whose foundation stands my building,</L>
+<L>Hast given me freedome and my hope agen,</L>
+<L>Those sweet companions that dispaire shut out.</L>
+<L>Now <HI>George</HI> agen may weare a plumed crest,</L>
+<L>And wave the Standard of great Christendome</L>
+<L>In the defiance of her opposites: I'me poore in show,</L>
+<L>Yet since my freedome hath thus long laine rusty,</L>
+<L>And unoyl'd loines unarm'd, are grown a strength immutable</L>
+<L>And from the pinching pangs of famines jawes</L>
+<L>A second time ransom'd my pining life;</L>
+<L>But since I have left those desart woods behind,</L>
+<L>Let me behold this goodly prospective.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>So my panniar's pritty well sussifi'de, and the
+whelps in my belly muzzeld from barking any more this two
+houres: How now what proper stripling's this stands ga∣ping
+about him? let me survey him.</P>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<P>A goodly place, pleasant, and full of ayre.</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>I cannot for my guts call to mind where I have seen
+this fellow.</P>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<P>Inricht with plenties hand.</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>But that he had a horse and Armour, hee doth re∣semble
+my long lost Master <HI>George</HI> of <HI>England.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Ha? what Eccho's that gives me my name,</L>
+<L>Without a summons which it answers to?</L>
+<L>What fellow's this that walkes and stares about me?</L>
+<L>I am no wonder that I know of;</L>
+<L>And but that time makes me to doubt, I should suppose</L>
+<L><PB REF="24"/>
+Him for to be my servant <HI>Suckabus</HI> I lost.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>The same, the same; I am your servant, and fellow
+<HI>Suckabus:</HI> Oh my sweet Master ▪ have we found one another?
+I could e'ne kisse thee round about for joy.</P>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>I' me glad to see thee;</L>
+<L>It seemes you have alterd fortune with your Master:</L>
+<L>Where hast thou liv'd and wander'd since I lost thee?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Oh sir, I have had such a company of Masters in law
+since I left you: First sir, I serv'd a Lord till he entertain'd a
+Cooke, and then I must stay no longer: Then I was Gentle∣man
+Vsher to a young Lady, but she hating new fashions, I
+hated her service. Then sir, I serv'd a young Heire newly
+come to his Living, and because he open'd his gates, and let
+Hospitality enter, I bid <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>lanlet to him: then I serv'd a Vsu∣rer,
+and because he would often be drunke, and let his An∣gels
+flye <HI>gratis,</HI> I gave him the bag too: Then I dwelt with a
+Procter, and he every day would bid conscience to dinner,
+so there was no staying with him: Then I serv'd a Scrivener,
+but he was so taken up with his Orator the Pillary, that I was
+faine to leave him too; and then I came here a sheep-biting,
+as you see sir.</P>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<P>'Tis very well sir; but will you leave your sheepe &amp;
+your sheepe-hooke, and follow me without leesing?</P>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Follow thee? that I will, till I finde no land to tread
+on, nor water to swimme on: Shepheard farwell, Fox, looke
+to the Lambs, Wolfe, keepe the sheepe safe: now shall we
+kill Gyants, and eate meate agen.</P>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Be true to me, once more y'are entertain'd,</L>
+<L>'T shall not be long before thou seest</L>
+<L>This low dejected state shining in compleat steele:</L>
+<L>He that in pursuit of adventures goes,</L>
+<L>Must not shun danger, though he meet with blows:</L>
+<L>Come <HI>Suckabus.</HI></L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Loud Musick: Enter the Inchanter <HI>Ormandine</HI> with some
+selected friends that live with him in his Magick Arts, with his
+spirits Canopy borne over his head.</STAGE>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>This is the state of Princely <HI>Ormandine;</HI></L>
+<L><PB REF="25"/>
+Tho once dejected, and low trodden downe</L>
+<L>Vnder the feet of Fortunes petty Kings,</L>
+<L>Above her envy re-advanc'd agen; and you my friends</L>
+<L>And partners in her frowns, shal now deride her petty Deity,</L>
+<L>Laugh at those Kings, which like to guilded moats!</L>
+<L>Dance in the Sun-beame of her various smile:</L>
+<L>And when we have laught our fills, my fury then</L>
+<L>Shall rise, and like a Torrent in the Ocean rais'd</L>
+<L>By swelling spring-tides driven from their bounds,</L>
+<L>So shall the rage of <HI>Oxmandines</HI> swift vengeance</L>
+<L>At once o'reflow the cruell <HI>Tartar</HI> and <HI>Arabian</HI> Kings.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Great <HI>Ormandine</HI> has given us satisfaction;</L>
+<L>We were your subjects first, so are we now,</L>
+<L>Yet never liv'd in that tranquillity,</L>
+<L>When we did bow under your Scepter as now we doe:</L>
+<L>Then cares of Countries safety, and your person,</L>
+<L>Care of our wives, our substance, and our selves, expell'd</L>
+<L>Our stomacks, tooke our sleepes away, and made our eyes</L>
+<L>Feares watchmen; here art thou crown'd with Arts</L>
+<L>Rich, potent, and commanding power;</L>
+<L>There sate a golden hoope temper'd with feare,</L>
+<L>That tatt or 'd on thy head, here with a wand thou call'st,</L>
+<L>And art obey'd; there by the <HI>Tartars</HI> cruelty dismay'd,</L>
+<L>Thy pleasures mixt with store of misery,</L>
+<L>Vndor the pride of <HI>Tartars</HI> tyranny.</L>
+<L>Then let me speake, but farre from contradiction,</L>
+<L>Your hand hath laid her actions waite on well.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Rest you contended with content, our will admits</L>
+<L>No counsell but our owne; here lives no pitty of our Enemy▪</L>
+<L>We have bought vengeance at a mightier rate,</L>
+<L>Than you, or can, or must be privy to.</L>
+<L>Learning by time and industry are bought,</L>
+<L>But he that barters for revengefull Arts,</L>
+<L>Must with his best pri'zd jewell from depart:</L>
+<L>I have yet shewed tricks to make 'em laugh,</L>
+<L>But long it shall not be ere I smite home</L>
+<L>To make us pastimes by their generall ruines:</L>
+<L><PB REF="25"/>
+And now my friends and subjects shall behold</L>
+<L>The indented time and riddle of our safety: Ho <HI>Tarpax,</HI></L>
+<L>The chiefest which attends upon our acts.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>What would my Master? <HI>Tarpax</HI> must obey.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Set forth my brazen pillar.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>'Tis done.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Now wonder at the Tablet I shall read,</L>
+<L>Which while it comes to passe, live in more pleasures</L>
+<L>And voluptuous state, than doth the <HI>Roman</HI> Potentates.</L>
+<STAGE>He Reads.</STAGE>
+<L><HI>ORmand</HI> be bold, seeare, and free,</L>
+<L>Revell thou in Arts potency,</L>
+<L>Till from the cold and Northerne Clime,</L>
+<L>A Knight post on the wings of time,</L>
+<L>Being lighted on <HI>Tartaries</HI> ground,</L>
+<L>Of Fame spoke loud by honour crown'd:</L>
+<L>From <HI>Brute</HI> descended, and his brest</L>
+<L>Is with a sanguine Crosse be blest:</L>
+<L>Then shall this Sword, thy Art here clos'd,</L>
+<L>By him be drawne, thy Art oppos'd;</L>
+<L>Thy life, thy Arts, thy potent power</L>
+<L>Expire, dissolve that instant houre.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>This bug-beare frights us not, and yet my fall must come</L>
+<L>From <HI>Brute</HI> descended, and on his breast</L>
+<L>The Embleme of our hate, a sanguine Crosse:</L>
+<L>Must <HI>Ormandines</HI> great power be shaken downe</L>
+<L>By a chill Northerne Ague-shaken Knight,</L>
+<L>A lumpe of snow, a frosty I sickle? this saying damps me,</L>
+<L>And the thinne pure blood, which but even now</L>
+<L>Flowed through the azure branches of my veines,</L>
+<L>Is runne to cherish my feare-trembling heart,</L>
+<L>Who, there affrighted at its horrid ruine,</L>
+<L>Mixt with cold comfort, is congeal'd to clods,</L>
+<L>And I a blood lesse substance doe remaine.</L>
+</SP>
+<SP>
+<SPEAKER>Lord.</SPEAKER>
+<L>Why is our King and governour dismay'd?</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Walke in I pray, I'me very much disturb'd:</L>
+<STAGE>Exeunt Lords.</STAGE>
+<L>Aswarthy passion harrows up my sence: Ho <HI>Tarpax.</HI></L>
+</SP>
+<SP>
+<PB REF="26"/>
+<SPEAKER>Tar.</SPEAKER>
+<L>Your call must be obey'd: I'me here.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Fetch me my Characters, my calculation, &amp; my glasse.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>They are here.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>My ever-ready servant, fly to the first Aëriall degree,</L>
+<L>Snatch thee a cloud, and wrap thy selfe intoo't;</L>
+<L>Fly to <HI>Tartaria,</HI> looke within his Court, confines, &amp; Country,</L>
+<L>If any Christian Knight there be arriv'd,</L>
+<L>I feare me <HI>Tarpax;</HI> bring me answer swift,</L>
+<L>Whilst I survy my Booke and magick glasse.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>I'me gone; ten minutes hence expect me back.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Ha? what's here?</L>
+<L>The <HI>Tartars</HI> sonne slaine by a <HI>Brittish</HI> Knight,</L>
+<L>Who, as a pennance for this hainous fact,</L>
+<L>Sent here to fetch my head, by Oath enjoyn'd too't:</L>
+<L>A <HI>Brittish</HI> Knight, the same my Tablet speaks of:</L>
+<L>Now <HI>Ormandine</HI> must fall. Ho <HI>Tarpax!</HI></L>
+<L>What sees my <HI>Tarpax?</HI></L>
+</SP>
+<STAGE><HI>Enter</HI> Tarpax.</STAGE>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Great <HI>Ormand,</HI> haste unto thy powerfull charmes,</L>
+<L>We will assist thee in what Hell can doe,</L>
+<L>With strength, with horrour, and detested shapes,</L>
+<L>To daunt the courage of this Northerne Knight,</L>
+<L>That comes to fetch the head of <HI>Ormandine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>I read the same here too; be swift my <HI>Tarpax,</HI></L>
+<L>Summon up Hells hoast to be my Guardians</L>
+<L>'Gainst this Northerne Knight: put out the golden Candle</L>
+<L>Of the day with horrid darknesse from the night below:</L>
+<L>Vnchain the windes, send out our fiery raines,</L>
+<L>Breake <HI>Atlas</HI> backe with Thunder through the clouds,</L>
+<L>And dart your quick-past lightning at his face:</L>
+<L>Raise Earthquakes shaking round about his steps,</L>
+<L>To bandy him from one place to another;</L>
+<L>Let horrour empty all her store-house:</L>
+<L>If <HI>Ormandine</HI> can vanquish but this Knight,</L>
+<L>Secure and firme still stand our power and might.</L>
+</SP>
+<STAGE>Exit▪</STAGE>
+<STAGE>Enter <HI>David</HI> arm'd Cap-a-pe.</STAGE>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>How shall I style this <HI>Tartar?</HI></L>
+<L>I cannot say hee's noble, nor yet base: h'as given me life,</L>
+<L>But with that strange adventure,</L>
+<L><PB REF="26"/>
+That he himselfe is confident I perish:</L>
+<L>My Knighly Oath assures him I will on, and setting on,</L>
+<L>Am sure enough to fall: unhappy <HI>David</HI> in that Princes death,</L>
+<L>Whom Fates, no will of mine, gave so unkind a meeting;</L>
+<L>For which the sable plume and Corslet I doe weare,</L>
+<L>As a true Embleme of my inward sorrow:</L>
+<L>Rest Princely ashes in a golden Vrne,</L>
+<L>Whilst wretched <HI>David</HI> in a worke is sent,</L>
+<L>To his owne sad Requiems bitterment,</L>
+<L>And be mine owne destroyer: take courage yet,</L>
+<L>Let not base feare steal from thy heart the name of man away,</L>
+<L>Death cannot dresse himselfe in such a shape,</L>
+<L>But I dare meete him; on then in pursuit of a Knightly vow,</L>
+<L>If 't chance Dice run so, that we must fall,</L>
+<L>Fame shall weare black at <HI>Davids</HI> Funerall.</L>
+</SP>
+<STAGE><HI>Enter above</HI> Ormandine, <HI>his friends,</HI> Tarpax, <HI>&amp;
+
+
+spirits.</HI></STAGE>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Hee's now within a Mile and lesse of us;</L>
+<L>Spirits away, each fall unto his taske,</L>
+<STAGE><HI>Enter</HI> David.</STAGE>
+<L>Whilst I raise stormes which may dismay the Knight.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Yonder's the place, mine eye hath reacht it:</L>
+<L>Now <HI>Ormandine,</HI> our bloody game begins,</L>
+<L>Heads are our stakes, and there's but one can winne.</L>
+<L>Protect me Heaven, what sudden strange Eclipse do I behold</L>
+<STAGE>Thunder &amp; light∣ning</STAGE>
+<L>The golden Sun that now smil'd in my face,</L>
+<L>Drawes in his beames, and robes himselfe in black:</L>
+<L>In what a darke vaile is the cleare azur'd sky!</L>
+<L>You do begin to entertaine me <HI>Ormandy,</HI></L>
+<L>But wee'le have better welcome e're we part:</L>
+<L>I, let your thunder come, we dread it not;</L>
+<L>What send yee Fire-drakes too to meet with us?</L>
+<L>Your worst of horrour is best welcome to me:</L>
+<L>Your ministers rather invite me on, than like to bug-beares</L>
+<L>Fright me back agen: more visitants of hell-bred sorcery?</L>
+<L>I must needs through, or sinke.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>There's nothing we can doe,</L>
+<L>Can quell the valour of this Christian Knight.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>My feares devine this is the man,</L>
+<L>By whom great <HI>Ormand</HI> falls: hee's come unto the gates,</L>
+<L><PB REF="27"/>
+And now sticke fast my sword, and we are yet secure:</L>
+<L>So, in spight of all the tampring of your Arts</L>
+<L>We are got something neare you now.</L>
+<L>This is the gate; what have we here? a Brazen Pillar,</L>
+<L>In it a golden sword, immur'd and rivited;</L>
+<L>A golden Tablet with inscriptions on't,</L>
+<L>Let me discourse with you a little first.</L>
+<L>Ormand <HI>be bold, secure, and free,</HI></L>
+<L>Revell in arts strong potency,</L>
+<L>Till from the cold and Northerne Clime,</L>
+<L>A Knight poast on the wings of time.</L>
+<L>Ha, what's here? <HI>Till from the Northerne Clime,</HI></L>
+<L>A Knight poast on the wings of time.</L>
+<L>A Northerne Knight! why that's my selfe:</L>
+<L>Let's see a little farther.</L>
+<L><HI>Being lighted on</HI> Tarta y's <HI>ground,</HI></L>
+<L>Of fame bel<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>v'd by honour crown'd.</L>
+<L>I am arriv'd here in <HI>Tartary,</HI> a Northerne Knight,</L>
+<L>And for my same and deeds of Chivaldry, with honour</L>
+<L>Hath been crown'd in Princes Courts: a little farther yet.</L>
+<L><HI>From</HI> Brute <HI>descended, and his brest</HI></L>
+<L>Is with a sanguine Crosse be blest.</L>
+<L>I have enough; <HI>David</HI> of <HI>Wales</HI> from <HI>Brute</HI> descended is,</L>
+<L>A Christian Knight, that we res the sanguine Crosse,</L>
+<L>That must dissolve this blacke Inchantment here:</L>
+<L>Come let me clutch thy temper in my hand,</L>
+<L>Thus draw thee forth, and thus: will you not come?</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>O you are not the man, ha, ha,</L>
+<L>Feare Vanish once agen; goe Spirits, sieze that Knight,</L>
+<L>And bring him straight.</L>
+<L>Ormand <HI>and all laugh: Spirits with fiery Clubs, they fight.</HI></L>
+</SP>
+<STAGE><HI>Enter</HI> Ormandine.</STAGE>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Knight, Knight forbeare,</L>
+<L>In vaine thy stroaks are dealt against our power:</L>
+<L>Thou maist as well number those briny drops,</L>
+<L>As cope with these, or scape with life, did not we pitty thee;</L>
+<L><PB REF="27"/>
+Spirits away.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Art not thou <HI>Ormandine?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>The same; thy friend and <HI>Ormandine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>That head I come for, and must ha't.</L>
+<L>Runnes at him with his sword, he puts it by with his wand.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>The body will not yet so part with it;</L>
+<L>This is the <HI>Tartars</HI> cruelty not thine;</L>
+<L>I know thy oath stands gag'd to bring this head,</L>
+<L>Or not returne; thus shalt thou save thy oath,</L>
+<L>Here shalt thou live, with <HI>Ormandine</HI> thy friend,</L>
+<L>Here spend thy dayes, crown'd with delight and mirth,</L>
+<L>Pleasure shall be thy vassell to command,</L>
+<L>With new inventions, fresh varieties,</L>
+<L>And when thy dalliance would consort with love,</L>
+<L>Queenes shall infold thee in their Ivory armes,</L>
+<L>Which to affirme, and give thee love and liking,</L>
+<L>This waving of my wand above thy head,</L>
+<L>Dissolves this horrour, and does give thee cause</L>
+<L>To change thy minde.</L>
+</SP>
+<STAGE>The day cleares, inchantments cease:
+Sweete Musicke.</STAGE>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>What alteration's here! your pardon mighty Sir;</L>
+<L>Oh let me never, never part from hence.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Be Master of your wish: come sit here by me,</L>
+<L>Ile rape your care, and captivate your eye.</L>
+</SP>
+<STAGE>soft Musicke.</STAGE>
+<STAGE>Enter free Excesse, immodest Mirth, Delight, Desire, Lust
+satied, and sicknesse, they dance; after the dance
+Excesse, Delight, and Desire embrace him
+to a lazy tune, they touch him, he falls
+into their armes, so carry him away.</STAGE>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>How happy now is <HI>Ormandine</HI> in this; I will no more</L>
+<L>Credit the Tablet I shall for ever raine, as now I doe:</L>
+<L>Eternity shall seale my habitation here,</L>
+<L>The <HI>Brittaine</HI> Knight is now within my power,</L>
+<L>Charme hangs a drousie rest upon his eyes,</L>
+<L><PB REF="28"/>
+And he shall sleepe his youth to a full age.</L>
+<L>As for the <HI>Arabian</HI> bird, and the proud <HI>Tartar,</HI></L>
+<L>Revenge arm'd with destruction to them slies;</L>
+<L>Who seekes my life, without my pitty dyes.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> George arm'd, and Clowne with him.</STAGE>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Come on sir <HI>Suckabus,</HI> how doe you like this altera∣tion?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Nay, we are come to weare good cloth agen, and
+we fill our bellies at other folkes cost: marry we part with
+crackt Crownes for our Ordinaries. They that in the low
+Countrey-garrisons kill men for three shillings a weeke, are
+punies to us; by that time I have serv'd but halfe my time, I
+shall be able to play with all the Fencers in Christendome.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Leave your folly sir.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Leave your prating sir, and then wee'le leave our li∣vings
+both together.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Villaine no more;</L>
+<L>How pleasant is this place, how fresh and cleare,</L>
+<L>As when the last of <HI>Aprill</HI> offers to sweet <HI>May</HI></L>
+<L>The pride and glory of the youthfull Spring,</L>
+<L>The lovers coupling time! the farther that I goe,</L>
+<L>The more <HI>Elizium</HI> like it doth appeare.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Good Master let's goe back agen: I doe not like this
+talking of <HI>Elizium;</HI> it is a place where good and honest men
+come in, and for mine owne part, I am in the minde never
+to trouble it.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>I thinke so too:</L>
+<L>What's here the platforme of a Garden?</L>
+<L>If that the Sun rob'd in his brightest glory,</L>
+<L>Dazell not mine eyes, it is the richest that I ever saw,</L>
+<L>The Paradise of some Deity:—Musicke too.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Ey, two Taylers are a dancing for a butter'd bunne.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>List <HI>Suckabus,</HI> hear'st thou no Musick?</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>I thinke I heare the Horse-head and the Tongs.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Most heavenly Musick, follow me close,</L>
+<L><PB REF="28"/>
+Wee'le see the guider of this heavenly spheare,</L>
+<L>For sure no mortall ownes it.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Pray Sir lets backe againe, I have no minde to 't,</L>
+<L>the Sunne shines so hot, I feare we shall have some raine.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>What's here, a wonder past the other beauties farre?</L>
+<L>A Brazen Pillar, through whose impregnable body</L>
+<L>Sticks a Sword, a Tablet, and Inscriptions</L>
+<L>Writ upon't, wonder falls on me!</L>
+<L>Bee'st thou inchantment, th'art the loveliest shape</L>
+<L>That ever hels Art strove to tempt withall:</L>
+<L>By your leave a little, it seemes these are no secrets,</L>
+<L>Y'are open breasted, I must know your mind:</L>
+<L>We will not stand on doubts.</L>
+</SP>
+<STAGE>He reads, pulls out the sword: Thunder and Lightning:
+a great cry within.</STAGE>
+<L>I am the man, for <HI>England,</HI> oh y'are welcome Sir.</L>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Did not I tell yee? now shall I be roasted for Di∣vels,
+and my bones scorcht into small-coales: Where's the
+goodly weather that we had even now? where's the tongs
+and the Tailers a dancing.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>Follow me slave, wee'le in, and with this
+Immur'd blade, that I set free, cut out my passage through the
+Gates of horror: the inchantment's done, and <HI>Georges</HI> happy fate
+Some Christians may redeeme from Tyrants hate.</L>
+</SP>
+<STAGE><HI>Exit</HI> George.</STAGE>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Well, I were best runne away, while I have legges
+to carry me: he's a good loving Master, this same honest
+<HI>George,</HI> but he does lead me into more quarrels and dangers
+than all the roaring <HI>Davids</HI> in the world; but they are co∣wardly
+rascals, &amp; I wil stay no longer, my accounts are made
+even, and I will backe agen; hay day, they are at it.</L>
+</SP>
+<STAGE>Thunder &amp; Lightning, Divels run laughing over the stage:
+Tarpax <HI>with 'em.</HI></STAGE>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Come, we are freed, lets now prepare his death,
+That being done, give welcome to him in confusion.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>O brave, that by his likenesse and voyce should be
+my Sire <HI>Suckabus,</HI> 'tis he; Ile take acquaintance of him.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Who's that, the issue of my <HI>Calib?</HI></L>
+<L><PB REF="29"/>
+Begone afore I'le follow.</L>
+</SP>
+<STAGE>Exeunt spirits.</STAGE>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>He sees me, and stayes a purpose to talke with me:
+I will put on my mothers good face, and salute him: pray
+sir, hoping that the like is the same, Father give me your bles∣sing.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>What <HI>Suekabus?</HI> O let me kisse my boy:</L>
+<L>A blessing on my Princely sonne and heire.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Thanke you Father, I have not knowne my selfe a
+long time: but now your blood royall begins to plumpe up
+my veines. Have you brought me never a Letter from my
+Mother Queene?</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>None my sweet sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Why that shews now, shee's in her Pontificalities,
+in my kingdome after your decease, shee never minds the
+sweet heire of her body, she casts me backward, as if I were
+unworthy to be Prince of her joyes: but I shall think on't.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Be patient sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>You talke you know not what; have you no Carri∣ers
+in your kingdome?</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Yes, divers.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Is <HI>Hobson</HI> there, or <HI>Dawson,</HI> or <HI>Tom Long?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>I know not till I make inquiry.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Well, doe so Father;</L>
+<L>And if you find 'em, send to me by 'em; they are honest men.
+Not a Letter? Can <HI>Limbonias</HI> Queene, and Dutchesse of
+<HI>Witchfordia</HI> so much forget her selfe, and that royall blood
+of hers, as not to send a Letter to me?</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>List to me my sonne, and Ile shew thee the cause,</L>
+<L>Why so thy mother and our royall selfe sent not unto thee:</L>
+<L>For hadst thou but obey'd the charge I left,</L>
+<L>Iust at the parting of thy mother from thee,</L>
+<L>Thou hadst e're this beene with us gentle boy,</L>
+<L>Inthron'd and honour'd as thy Mother is:</L>
+<L>Welcom'd with tryumphs, shows, and fire-workes:</L>
+<L>Of what we want, we shall be furnisht shortly.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>I would you had 'em, they'd give much content;
+Oh I doe love those things a life i'faith. Have you any squibs
+<PB REF="29"/>
+in your Country? any Green-men in your shows, and Whi∣zers
+upon lines, Iacke Pudding upon Rope, or Sis in fire-workes?
+But pray father let me know why you did not send.</P>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Then thus: I did not bid thee unsolace thy mind</L>
+<L>Like a dejected low-begotten slave,</L>
+<L>But revell, drinke, laugh, and carowse, quarrel, and stab,</L>
+<L>Game, wench, sweare and curse, and if thy master offend thee,</L>
+<L>Watch him asleepe, and kindly cut his throat;</L>
+<L>So doing, hadst thou long e're this come to us.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Forgive me this, and if the obeying of your wil, wil
+bring me to you, let me alone; I'le not be long from home:
+But Father, what, no trick, no invention to make me famous
+e're I come to you? why, my Mother could juggle as well
+as any Hocus Pocus i'th'world, and shall I doe nothing?</P>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Here, take this paper, learne these nino words in't;</L>
+<L>At reading the first three, I will appeare to thee,</L>
+<L>To satisfie what ever thou demand'st.</L>
+<L>The vertue of the other three is this:</L>
+<L>Look, in what place soe're thou wish thy selfe,</L>
+<L>Or company should meet thee to thy mind,</L>
+<L>Speake but the middle three, 'tis done:</L>
+<L>The best and last three words carry this property;</L>
+<L>Which once rehearst by thee,</L>
+<L>Whom thou shalt please, shall straightwaies doat on thee,</L>
+<L>Love thee intirely, nay, would dye for thee,</L>
+<L>If that in pitty thou not comfortst them:</L>
+<L>There's a jewell for my princely boy.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<P>Oh sweet father, now thou lov'st thy boy: but you
+know father, I never was so well learn'd, as to say God by
+my speed.</P>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>The better, I would not have thee boy:</L>
+<L>I will infuse that learning in thy braine,</L>
+<L>That thou shalt read that whensoere thou please.</L>
+</SP>
+<SP>
+<SPEAKER>Clow.</SPEAKER>
+<L>Pray read em over to me father.</L>
+</SP>
+<SP>
+<SPEAKER>Tar.</SPEAKER>
+<L>Observe the first three words: <HI>Hulcha, pulch, palcha;</HI></L>
+<L>These three being spok, I straight appeare.</L>
+<L>The next is <HI>Runi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>, rant, runto;</HI> then art thou</L>
+<L><PB REF="30"/>
+Where thou please, and in what company,</L>
+<L>The last and best <HI>Plagmanitis, squirtis, pampistis,</HI></L>
+<L>Thy love lies in thine armes.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<P>What a gift is here! I will Cuckold the great
+Turke, love all his Concubines, and lye with all over and o∣ver:
+I will beget a thousand of Giants, fill the world full of
+Basterds, march with an Army Royall of 'em into my King∣dome,
+depose my Father, and live like a Monarch.</P>
+</SP>
+<SP>
+<SPEAKER>Tarp.</SPEAKER>
+<L>Come bring me a little on my way my sonne,</L>
+<L>Ile tell thee braver things than these that thou shalt doe.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Oh my sweete father, what a man art thou!</L>
+</SP>
+<STAGE><HI>Enter</HI> George, <HI>bringing out</HI> Ormand and his friends.</STAGE>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>What is the cause, you tenne times worse than divels,</L>
+<L>That thus, like Traitors, you deface and spoyle</L>
+<L>So faire a stampe as your great Makers is?</L>
+<L>Why have you sold your endlesse blisse for bane?</L>
+<L>Had they the hopes man has shining on them,</L>
+<L>Worlds would not gaine a life of thousand yeares,</L>
+<L>And in those lives raigne Kings and Emperours,</L>
+<L>Change those Celestiall joyes you might have had:</L>
+<L>Ever lost wretches, where's your power now?</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Vanquisht by thee: that sanguine Crosse my Tablet foretold,</L>
+<L>Blood-sheds mine eyes for to behold it worne</L>
+<L>And thou that Christian Knight confounds my state:</L>
+<L>Yet as thou honourst what I feare to see,</L>
+<L>As thou art hopefull of what's past in me,</L>
+<L>And as thou art a Knight sworne to honour,</L>
+<L>Grant me one small request.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>If thy request in honours grant stands faire,</L>
+<L>Give us the knowledge, we will see't perform'd,</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Then spare the lives of these two harmlesse men.</L>
+<L>Which I secur'd by safety of my charmes.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Are they not practis'd in thy horrid Art?</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Christian no.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>The happier men: rise, we have no hate against yee.</L>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<L>Live still in honour, courteous Christian Knight.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Now <HI>Ormandine</HI> quit this my grant▪</L>
+<L><PB REF="30"/>
+With one request from me.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>'tis yours; say on.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>I crave the knowledge of your former being,</L>
+<L>Before you found the path of your destruction.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Know then▪ that Island seated in the Maine,</L>
+<L>Whose crosticke sides poynts to <HI>Barbaries</HI> kingdome,</L>
+<L>Was I once Duke of, the nearest parts to it is this</L>
+<L>Of <HI>Tartary,</HI> the other is <HI>Arabia,</HI> whose Kings disturb'd</L>
+<L>My peace and government: Briefely, by flight we sav'd our</L>
+<L>Lives; and to revenge those wrongs I practic'd on this Art,</L>
+<L>And since have liv'd scourges to both those Kings:</L>
+<L>My Tablet and Piller then erected, through whose hardnesse</L>
+<L>Stuck that temper'd blade; the riddles date on't did so strange appeare,</L>
+<L>That I thought ever, ever to live here.</L>
+<L>And now you shall behold another Christian Knight,</L>
+<L>Sent from the <HI>Tartar</HI> King, by oath enjoynd to fetch my</L>
+<L>Head, this did I deeme the man, hath brought what you have,</L>
+<L>My confusion, but missing of my fears, I entertaind him faire,</L>
+<L>Yet dreading still least he might prove the man,</L>
+<L>My Art hung on his eyes these charmes of sleepe,</L>
+<L>Which till I expiate, can never wake:</L>
+<L>His name is <HI>David,</HI> and a Brittaine Knight.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Ha, my brother! Prepare thee <HI>Ormand,</HI> this shal wake him.</L>
+</SP>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Hold, do not with crimson purple your white blade</L>
+<L>With such a hancell: give me but leave to mount</L>
+<L>Yon storied steps, and you shall see brave Archers hit me sure:</L>
+<L>Thinke not that I must live, would you life give,</L>
+<L>Be good unto my friends: I falne, take up your friend &amp; hence.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Well to your Fate: farewell.</L>
+</SP>
+<STAGE>Thunder.</STAGE>
+<SP>
+<SPEAKER>Orm.</SPEAKER>
+<L>Oh are you aiming, twas time I came, you had</L>
+<L>Fetcht me else: so, so, we are met.</L>
+<STAGE>Thunder strikes him.</STAGE>
+<L>He that sels blisse, and would in this Art shine,</L>
+<L>At last shall pay for't, as did <HI>Ormandine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>So, farewell <HI>Ormandine;</HI> wake <HI>David,</HI> wake.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Is the Inchantment past? where is this fiend, this divel?</L>
+<L><HI>Ormandine,</HI> your charmes no longer shall prevaile on me.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>No more, they shall not noble <HI>Brittaine</HI> Knight,</L>
+<L><PB REF="31"/>
+See who with joy imbrace thee in his armes.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Brother of <HI>England,</HI> farre-renowned <HI>George,</HI></L>
+<L>Am I a second time enlarg'd by thee?</L>
+<L>I shall pay Time a death indebted to thy valour.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Doe not engage so farre,</L>
+<L>Who knows what haps attend our next adventure?</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Brother, where's <HI>Ormand?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Dead!</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Oh I am lost, for ever lost and gone,</L>
+<L>For ever bearing Knightly Armes agen: oh, oh—</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Brave <HI>Brittain</HI> Knight with patience heare,</L>
+<L>Ile tell o're your owne Story.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Say on my Oracle, I will attend.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>This Sword you see is mine, inchantments done,</L>
+<L>You waken'd from deaths sleepe, think it not strange,</L>
+<L><HI>Ormand</HI> did declare before his death,</L>
+<L>Your Oaths adventure for to fetch his head:</L>
+<L>By the <HI>Tartarian</HI> King, your Oath shall be perform'd,</L>
+<L>Wee'le take it off; these harmelesse men</L>
+<L>That hither fled, onely to save their lives,</L>
+<L>Shall you get favour'd of their King agen;</L>
+<L>Ile beare you company unto the King,</L>
+<L>Where we agen must part: you shall be further satisfi'd</L>
+<L>In all what appeares darke, Ile open as we ride.</L>
+<L>Come brother <HI>David,</HI> we the world that range,</L>
+<L>Must not admire at accidents or change.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>ACTUS QUARTUS.</HEAD>
+<STAGE><HI>Enter</HI> Argalio, Leonides, <HI>and spirits.</HI></STAGE>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Come deare <HI>Leonides,</HI> My loves sole minion,</L>
+<L>That like the powerfull ruler of the Fates,</L>
+<L>Turnes my restlesse <HI>Negr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>mantick</HI> charmes</L>
+<L>Into what forme best fitts thy apperite:</L>
+<L><PB REF="31"/>
+Speake my <HI>Leonides,</HI> prithee smile, and speake it,</L>
+<L>Could Earth or Hell invent a guard</L>
+<L>To shield black crimes from direfull punishment?</L>
+<L>Walls are by Warres strong Engins raz'd and torne,</L>
+<L>And Center-reaching cavernes of the earth,</L>
+<L>Have oft bin made the inhabitants sad graves:</L>
+<L>But to build thee a stronger Barracado,</L>
+<L>I have fetcht force from underneath the Poles,</L>
+<L>The slimy mists of darke <HI>Avernus</HI> Lake,</L>
+<L><HI>Cocitus</HI> pitchy steems are mixt with that,</L>
+<L>And black compounded smoake the <HI>Cyclops</HI> send</L>
+<L>From the foule sulpher of hot <HI>Aetna's</HI> Forge,</L>
+<L>All which I have compounded in a lumpe,</L>
+<L>To make this Isle obscure and tenebrous.</L>
+<L>I'le tell thee friend, those furious Gyants that did warre with heaven,</L>
+<L>Had they effected their great enterprise,</L>
+<L>Could not more glory in their usurpation,</L>
+<L>Than I doe in this Master-piece of Art.</L>
+</SP>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>True great <HI>Argalio,</HI></L>
+<L>Yet here I live as a repriev'd prisoner,</L>
+<L>In hope of life, sure of imprisonment,</L>
+<L>Losing the benefit of lifes repast.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>In what?</L>
+</SP>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>In the grand losse of the all-pleasing light,</L>
+<L>Without the which life is a misery too hard to be inflicted.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Wrong not thy judgment with that fond opinion,</L>
+<L>Night, why 'tis the proper spheare, the Orbe of pleasure;</L>
+<L>When doe those heires of pleasure, <HI>Cupids</HI> Lords,</L>
+<L>The active Courtiers and attractive Dames,</L>
+<L>Choose to expresse their quintessence of mirth</L>
+<L>In sports and revells, is't not in the Night?</L>
+<L>Night and the pleasures that she brings with her,</L>
+<L>Shall make thee scorne day, as unnecessary:</L>
+<L>My several spirits in an active dance</L>
+<L>Shall now present themselves.</L>
+</SP>
+<STAGE>Enter spirits, and dance; thunder &amp; lightning.</STAGE>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>Why are these terrours mixt with our delights?</L>
+</SP>
+<SP>
+<PB REF="32"/>
+<SPEAKER>Arg.</SPEAKER>
+<L>The angry heavens with common destiny, Thunder,</L>
+<L>Reprove my sports.</L>
+</SP>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>As they'd oppose my sinnes:</L>
+<STAGE>Enter <HI>Leopides</HI> with father and sister.</STAGE>
+<L>See, see where those poore soules,</L>
+<L>Their murthering hands puld from the mortall</L>
+<L>Motion of their flesh, come backe to give</L>
+<L>The Ferry-man his hire, I am behinde hand in that</L>
+<L>Fatall debt: but now in spight of his blacke churlish Oare,</L>
+<L>Wee'le waft ourselves unto the hoped shoare.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Correct thy feare affrighted fantasie</L>
+<L>Against these fond illusions, see they are vanisht;</L>
+<L>Come unto pleasures turne, they but abuse thy thoughts.</L>
+</SP>
+<STAGE>Enter Spirits.</STAGE>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>O great <HI>Argalio,</HI> call thy ablest charmes,</L>
+<L>Never had Art more need to helpe her Mistresse:</L>
+<L>Three bold adventerous Knights prepare themselves</L>
+<L>To ruine thee▪ and thy <HI>Leonides:</HI></L>
+<L><HI>Aurela,</HI> Queene of this unhappy Kingdome,</L>
+<L>Has given her best advice to further them.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Be carefull of your charge,</L>
+<L>Downe to the infernall vaults, call up</L>
+<L>The Legion of the lower World, and throw</L>
+<L>Hels vengeance on them:</L>
+<L>Come my <HI>Leonides,</HI> away with feare,</L>
+<L>Should these charmes faile, which to mistrust were poore,</L>
+<L>My Art should helpe thee with tenne thousand more.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Iames.</STAGE>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>Sure I have lost mine eyes, or else am walkt</L>
+<L>Into eternall darknesse: I have read how wise</L>
+<L><HI>Vlysses</HI> saw the under world, convers'd with bold</L>
+<L><HI>Achylles</HI> and the <HI>Greekes,</HI> and then returnd alive</L>
+<L>To earth agen, but Fables helpe but weakly,</L>
+<L>Imitate what really I feele I have lost,</L>
+<L>My fellowes in this endlesse night; till now</L>
+<L>Their voyees kept me company. Ho <HI>Denis, Denis.</HI></L>
+</SP>
+<SP>
+<PB REF="32"/>
+<SPEAKER>Within.</SPEAKER>
+<L>Here, here.</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>Where art thou man?</L>
+</SP>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L>Wading through fire, and buffetting with aire.</L>
+</SP>
+<SP>
+<SPEAKER>Iames.</SPEAKER>
+<L>Where's <HI>Patricke?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Within.</SPEAKER>
+<L>Here, here.</L>
+</SP>
+<STAGE><HI>Enter</HI> Patr.</STAGE>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>Where's my noble Spaniard?</L>
+</SP>
+<STAGE><HI>Enter</HI> Iam.</STAGE>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>Here, my friend.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>We all came severall waies then?</L>
+</SP>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L>But a worse than I have ventur'd, never</L>
+<L>Man set foote to: first through a Lake that</L>
+<L><HI>Lybias</HI> Desarts yeeld not more hot contagions,</L>
+<L>Venome that has strooke confused terrour</L>
+<L>Throughout all my limbes, and pierc'd my armours</L>
+<L>Closure, then was I faine to enterpose my shield,</L>
+<L>Betwixt me and that pondrous weight, that fell,</L>
+<L>As if some Castles ruines had falne downe,</L>
+<L>To crush me into nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L><HI>Mulciber</HI> like I walkt through fire,</L>
+<L>And as the <HI>Salamander</HI> bathed in the flames,</L>
+<L>Winding his body in a streame of sulphure,</L>
+<L>So the devouring heate incompast me.</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>But I had musicke in my passage friends,</L>
+<L>The Whistler and the Screech-Owle joyn'd their songs,</L>
+<L>The boding Ravens made the consort up,</L>
+<L>And with their multitudes prest me to earth;</L>
+<L>But here the ayre breaths cold and gently on us:</L>
+<L>Is not yon light? or being inur'd to darknesse,</L>
+<L>Have not our eyes forgot their faculties?</L>
+<L>'Tis light; what's here, a Pillar, and a Tablet on't?</L>
+<L>The lively Taper, which not onely cleares our eyes,</L>
+<L>So long invaded with <HI>Cimerian</HI> mists, but gives</L>
+<L>Vs light, by viewing this Inscription, thereby</L>
+<L>For to unfold this darke Aenigma.</L>
+<L>Read <HI>Denis.</HI></L>
+</SP>
+<LG>
+<HEAD>Denis Reades.</HEAD>
+<L>Read, and wonder, you that be not be</L>
+<L>Not borne to end this prodigie.</L>
+<L><PB REF="33"/>
+The golden Fleece, which <HI>Iason</HI> sought,</L>
+<L>In embleme must be hither brought,</L>
+<L>The Floure de Luce and Harpe must ioyne,</L>
+<L>Before the Riddle you untwine.</L>
+<L><HI>Iberi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s</HI> earth must yeeld a Knight,</L>
+<L>That must extinguish this great light.</L>
+<L>By the same water must be found,</L>
+<L>That borne was on unvenom'd ground.</L>
+<L>A gallion Helmet, that must hold</L>
+<L>The water that these Charmes unfold;</L>
+<L>That done, this land resumes her rest,</L>
+<L>And all Inchantments here deprest.</L>
+</LG>
+<L>Either my Genius flatters my best thoughts,</L>
+<L>Or else we three were borne to consummate</L>
+<L>This great adventure.</L>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>'Tis most plaine, <HI>Spaine</HI> gave me birth,</L>
+<L>The Golden Fleece mine Armes,</L>
+<L>The figure of that prize which <HI>Iason</HI> brought,</L>
+<L>And to make perfect the Inscription,</L>
+<L>Here is a Helmet fram'd in <HI>Normandy,</HI></L>
+<L>Which I have worne in all my travailes since.</L>
+</SP>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L>No more of doubts; <HI>Argalio</HI> and <HI>Leonides</HI></L>
+<L>Prepare to meete your ruine, your all potent Charmes,</L>
+<L>Me thinks I see them flye from roome to roome,</L>
+<L>Searching the Cavernes and obscurest Vaults</L>
+<L>To hide their guilty heads from vengeance:</L>
+<L>And this strong Charme, once thought invincible,</L>
+<L>When it shall vanish like an idle dreame,</L>
+<L>Their confidence will plague their Conscience more,</L>
+<L>Than if they had mistrusted it before.</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>No more delaies, but boldly lets assaile,</L>
+<L>Our cause is good, and justice must prevaile.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Argalio, <HI>and</HI> Leonides.</STAGE>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>It cleares, it cleares:</L>
+<L>What does thy Art availe thee,</L>
+<L>Thou that hast said for to obscure the Sunne,</L>
+<L>Where are they fled? hide thy selfe now <HI>Argalio,</HI></L>
+<L><PB REF="33"/>
+And hide my errours with thee, they are vaine,</L>
+<L>As my beleefes are, that thou hast a knowledge</L>
+<L>Above my mischieves: horse us on the Clouds,</L>
+<L>For nought else can prevent our imminent ruine.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Art thou yet doubtfull, unbeleeving boy?</L>
+<L>Remember the large stretcht thoughts</L>
+<L>I have imploy'd to arme thee, could I cause</L>
+<L>Darknesse? could my powerfull Art hide the</L>
+<L>Bright Sunne in his most royall progresse?</L>
+<L>And shall it be confin'd by these opposers?</L>
+</SP>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>I cannot have a faith in these delusions:</L>
+<L>Let me despaire and dye; here is a sword</L>
+<L>Can quickly ease my torments, and set free</L>
+<L>A burthend Conscience: how freely will my spirit</L>
+<L>Greet the aire of hells blacke kingdome:</L>
+<L>There the <HI>Thracian</HI> sits, hard by the sullen</L>
+<L>Waters of blacke <HI>Styx,</HI> fingring his Lute;</L>
+<L>To heare whose pleasing straines, hells Ministers</L>
+<L>Forget their offices, the wearied soules their torments,</L>
+<L>The whole Vault resounds his ecchoes;</L>
+<L>Thither will I hie, and lay my troubled head</L>
+<L>Upon his lap, and he shall charme me</L>
+<L>Into endlesse slumbers.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Hold braine-sicke man, looke up for thy safety;</L>
+<L>Seest thou this Throne by sable spirits borne,</L>
+<L>In it wee'le mount, so unbeleev'd a height,</L>
+<L>Earth shall appeare an attome to thine eye:</L>
+<L>Thou shalt view <HI>Cynthia</HI> in her silver spheare,</L>
+<L>Couch'd by <HI>Aurora</HI> on her Rosie bed; and make</L>
+<L>The Sunne-God jealous of your loves:</L>
+<L>Wee'le progresse over the Celestiall Orbes,</L>
+<L>Thence to the Windes, and view the hollow cave,</L>
+<L>Where <HI>Aeol</HI> fetters up the unruly broode;</L>
+<L>Then by descentions pleasing to our thoughts,</L>
+<L>Wee'le take survey of <HI>Neptunes</HI> watry rule,</L>
+<L>Ride o're the bosome of the Ocean</L>
+<L>On crooked <HI>Dolphins,</HI></L>
+<L><PB REF="34"/>
+<HI>Amphion</HI> like, striking a well tun'd Harp,</L>
+<L>And then to th' earth agen.</L>
+</SP>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>Thou hast given me a new life,</L>
+<L>I feele a new unwonted joy assaile me,</L>
+<L>And all my sorrowes vanish like those clouds,</L>
+<L>That even but now invirond us with darknesse.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Mount then my Sonne, and as we reach the sky,</L>
+<L>My Spirits shall salute us with sweete bayes,</L>
+<L><HI>Iove</HI> shall bow downe his head to heare their layes,</L>
+<L>And wish himselfe commander of their skill:</L>
+<L>Will this delight thee?</L>
+</SP>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>Oh my happy friend.</L>
+</SP>
+<STAGE>Enter Champions.</STAGE>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>Earth, nor her strongest hold shall not secure 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L>O act of wonder, we in vaine pursue:</L>
+<L>Looke how they raise themselves unto the clouds:</L>
+<L>Oh had I wings but to ore'take</L>
+<L>The Villaine, Divell, Inchanter.</L>
+</SP>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<L>Ha, ha, ha; fooles to imagine you could wrong <HI>Argalio,</HI></L>
+<L>I pitty you, or else my powerfull hand</L>
+<L>Should crush you into ayre:</L>
+<L>Stand, and admire, whilst we ascend a height</L>
+<L>'Bove your weake thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>Yet are we happy, though they scap'd</L>
+<L>Our justice, that we have freed</L>
+<L>The Countrey from contagion. The people</L>
+<L>Finde this benefit already;</L>
+<STAGE>Shouts within.</STAGE>
+<L>And harke, with shouts applaud this act</L>
+<L>Of wonder: Lets to the Queene,</L>
+<L>And fully give relations of all these accidents,</L>
+<L>Then are we free for other Warlike deeds.</L>
+<L>Vertue should still be active, apt to right</L>
+<L>Those which are wrong'd, and good deeds to requite.</L>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<PB REF="34"/>
+<HEAD>ACTUS QUINTUS.</HEAD>
+<STAGE>Enter <HI>Suckabus</HI> with bread and meate in his hand.</STAGE>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<P>Ah sirrah, the world is pretty well amended with
+me now, thankes to my Kingly father, and his Charmes,
+'twas time for me to leave the domineering Rascall, and
+his beggerly crue of wanderers, Groomes I may tearme
+them, for if they had beene Knights they would never
+have us'd a Prince amongst 'em so. I have travail'd five
+times through the world, and not a Towne, City, or Bur∣rough
+in <HI>England</HI> but I carryed the markes on my shoul∣ders
+to shew for't. The best dayes that ever I saw with
+'em, was when we hir'd <HI>Charles Waine,</HI> and rid about the
+elements, that was the best twelve dayes journey that e're
+I had: and I remember we had good lodging at the twelve
+Signes, and nobly us'd, for they would not take one
+Penny, and to say the truth we had no money to give:
+but how we got up, or how the divell we got downe
+agen I know not: and then we fell to our old course
+agen, to kill every one that wee met: which course I
+not liking, in regard wee must fight for our victualls, I
+begg'd this charme of my Father, where hearing of a
+famous Castle of <HI>Brandrons,</HI> and what a brave house hee kept
+for Victuals, I out with my Spell, and straight wisht
+me there; which being no sooner utter'd, but a Hawke
+or a Buzard flew betwixt my legs, mounted me in the
+Aire, and set me downe here, where I finde whole
+Oxen, boyld in a Pottage-pot will hold more water
+than the Thames, and now having pretty well stuft my
+Pannier, Ile e'ne take a He sleepes. nap, and so wish my selfe some∣where
+else.</P>
+</SP>
+<STAGE><PB REF="35"/>
+<HI>Enter</HI> Brandron.</STAGE>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>How weary am I with this forraging,</L>
+<L>Yet cannot finde my hunted prey come in:</L>
+<L>Have I a truce granted to a fruitfull Kingdome,</L>
+<L>And her chiefe City, not a mile from hence</L>
+<L>Vpon condition I should spare his City,</L>
+<L>Selfe, and people, to have my quicke provision hunted</L>
+<L>Into my Iron nets, and doe they breake and baffle thus?</L>
+<L>Is Beare and Lyon food too good for me?</L>
+<L>Why then I see I must take paines to march,</L>
+<L>And with my Iron Mace, pound, pash, and morter them</L>
+<L>And City too: oh the net is falne,</L>
+<L>'Tis well you keepe your league.</L>
+<L>How now, what scare-Crow's that?</L>
+<L>A sleeping Dormouse in my Castle walls: how got he in?</L>
+<L>I have no other Porter than my selfe,</L>
+<L>And through the key-hole sure he could not craule;</L>
+<L>How or which way should this small spie get in?</L>
+<L>Sirrah awake, or with one phillip of my Iron Mace,</L>
+<L>Ile send eternall sleepe to sieze on thee:</L>
+<L>Awake you dog.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>I, I, you say very well Father, 'tis true indeed,</L>
+<L>And then watch him asleepe, and kindly cut his throat.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>How? cut my throat? I shall prevent yee slave:</L>
+<L>Wren of deformity awake I say.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>I heare a rumbling noyse, Ile e'ne packe up my trin∣kets,
+and begon: Oh Lord what will become of me! I have
+wisht my selfe to have my braines beate out.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>What art thou worme?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>An't please you Sir, I am a Prince, a sweete young
+Prince, my Fathers name is <HI>Tarpax,</HI> Prince of the grisly
+North, my mothers name was <HI>Calib,</HI> Queene of <HI>Limbonia,</HI>
+and Dutches of <HI>Witchfordia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Perish thy father and thy mother, as thy selfe shall:</L>
+<L>Slave how gotst thou in?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>I flew over the Castle wall.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Bird of the Divell, where's your wings to flye?</L>
+</SP>
+<SP>
+<PB REF="35"/>
+<SPEAKER>Clown.</SPEAKER>
+<L>If you will give me leave, you shall see me flye the
+same way backe agen.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>No my fin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> Pidgeon, I will clip your wings:</L>
+<L>Come to my Caldron, come Ile see how finely you can</L>
+<L>Flutter there, it reekes and bubbles, there</L>
+<L>Ile plunge thee in, there shalt thou play my Pige.</L>
+<L>Till thou art fine, soft, plumpe, and tender sod▪</L>
+<L>And then Ile picke thy bones my dainty bird.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<P>O Lord, what shall become of me? boyld, O Lord,
+the very terrour of that word, hath thrust the charme quite
+from my head, that Charme would save me; oh sweet father
+now or never helpe me, and save a Prince from boyling, a
+boyld Prince is his meate else.</P>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Dispatch my bird.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>O sweete father, now, now, now I goe else,</L>
+<L>Boyld: oh the thought of that word: O <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ha't,</L>
+<L>Sweete Father I thanke thee,</L>
+<L>Has put that Charme into my head</L>
+<L>Shall make 'em all in love with me:</L>
+<L>Now I care not.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Why when I say?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Splagnalis squirtis p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>mpistis.</L>
+<L>The Giant in a maze lets fall his Club.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Ha! The beames of wonder shootes into mine eyes,</L>
+<L>And love and pitty hath surpriz'd my heart.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Oh sweete father, now he's mine sure, and I will
+domineere.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>The mornings majesty doth not so fresh break forth,</L>
+<L>When she doth usher the Altitionate from forth his bed</L>
+<L>Of spices, here to shine: how were mine eyes deluded,</L>
+<L>My sweet boy, when that I thought</L>
+<L>Deformity hung here? for which upon my knees</L>
+<L>I begge thy gracious pardon, and with submission,</L>
+<L>And contrition, doe desire that favour,</L>
+<L>But to kisse thy foote.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>My foote? no you shall kisse somewhere else,</L>
+<L>My back-side of this hand is yours.</L>
+</SP>
+<SP>
+<PB REF="36"/>
+<SPEAKER>Bran.</SPEAKER>
+<L>I merit not that favour, heavenly boy.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Goe too, Ile have my will, my hand is yours I say.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>And for that hand my whole heart is thy slave;</L>
+<L>Demand, and take the life of <HI>Brandron.</HI></L>
+<L>Then say, my dotage darling, canst thou love me?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>As well as I love roast Beefe:</L>
+<L>Hast any victualls love? I am a hungry.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Enough, my dainty boy; the banquet of the Gods,</L>
+<L>To which flew <HI>Saturne,</HI> once in thirty yeares,</L>
+<L>Tasteth not there of more delightsome Cates,</L>
+<L>Than Ile have for my love: come in my boy,</L>
+<L>Walke with me hand in hand,</L>
+<L>Thou shalt not aske, but have thy full demand.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter the sixe Champions.</STAGE>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>Brothers, you are welcome all to <HI>Brandrons</HI> Castle.</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>Not <HI>Brandron</HI> nor his Castle</L>
+<L>Long shall beare that name.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>A strong and sumptuous habitation.</L>
+</SP>
+<SP>
+<SPEAKER>Jam.</SPEAKER>
+<L>To good a Palace for a Tyrants raine.</L>
+</SP>
+<SP>
+<SPEAKER>Andr.</SPEAKER>
+<L>What, shall we knock, and rouse the Monster up?</L>
+</SP>
+<SP>
+<SPEAKER>Ant.</SPEAKER>
+<L>Lets walke the round, and take a view</L>
+<L>Of this strong Castle first; happily we may finde</L>
+<L>A passage in, for to surprize him</L>
+<L>E're he thinke of us; lets strike upon occasion,</L>
+<L>But advantage, in Law of Armes, deserves this</L>
+<L>Hatefull Traitor.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>Your counsell wee'le allow, on, let be so:</L>
+<L>Come Gentlemen, lets walke, but not too neare</L>
+<L>The Castle pray, least treasons bounty</L>
+<L>Should drop downe upon us.</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>What if we finde no entrance,</L>
+<L>And he refuse our summons, and not come?</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>That cannot be, we then might sterve the fiend;</L>
+<L>His foode is dayly hunted to these nets,</L>
+<L>And once a day we are sure to meet with him:</L>
+<L>Then let us carefull passe about these walls.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><PB REF="36"/>
+Enter Clowne and <HI>Brandron.</HI></STAGE>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>How lik'st thou <HI>Brandron,</HI> and his Castle boy?</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>As I am a Prince,</L>
+<L>I was never better pleas'd in all my life.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Musicke to <HI>Brandrons</HI> eare that thou art so.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Now you talke of Musicke, will you heare me sing?</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>A contradiction to thy will, were poyson</L>
+<L>To my thoughts: on my soules harmony.</L>
+</SP>
+<LG>
+<HEAD>Clowne sings.</HEAD>
+<L>I have a Love, as white as a Raven,</L>
+<L>Excelling for blacknesse the snow,</L>
+<L>She will scould, scratch, and bite</L>
+<L>Like a Fury or Spright,</L>
+<L>And yet she was counted no shrow.</L>
+<L>The haire of her head was like Coblers thred,</L>
+<L>Which Sow-haires doe draw through so,</L>
+<L>Her Legges on each foote</L>
+<L>Is so sweld with the gout,</L>
+<L>That my love is not able tog<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e.</L>
+<L>Her face bares a front, like to <HI>Weare</HI> water-spout.</L>
+<L>Which brought was from thence by great cunning,</L>
+<L>With a Mill in her bum,</L>
+<L>That did roare like a drum,</L>
+<L>Which did set her faire nose still a running.</L>
+</LG>
+<STAGE>How like you this love?</STAGE>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L><HI>Orion,</HI> that o're-strid the Dolphine with his Harp,</L>
+<L>Nere song nor plaid such chanting melody:</L>
+<L>Thou hast made me drousie love with thy sweet aire.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>I carry aire at both ends of my Pipe,</L>
+<L>But this is the sweeter: come what shall we doe?</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Walke with thy <HI>Iove,</HI> my lovely <HI>Ganymede,</HI></L>
+<L>And once a day survey my Castle round,</L>
+<L>Then will I play with these thy silken locks,</L>
+<L>Kisse that sweete <HI>Venus</HI> Mole upon thy Cheeke,</L>
+<L>And smell unto thy sweete Sabean breath,</L>
+<L>Then will we walke and view my silver fountaine,</L>
+<L>And my silver Swans, whom next to thee,</L>
+<L><PB REF="37"/>
+I take most pleasure in.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>I like that Fountaine very well,</L>
+<L>And the three Swans that swimmes about it:</L>
+<L>I was wishing for a Goose-pye made</L>
+<L>Made of one of 'em but the tother day.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Little dost thou know what those Swans be.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Why, what are they?</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>List, and Ile tell thee:</L>
+<L>Those Swans are daughters to the King of <HI>Macedon,</HI></L>
+<L>Whom I surpriz'd, and kept within my Castle,</L>
+<L>Till at the length, so scorcht with loves hot flames▪</L>
+<L>That <HI>Brandron</HI> needes must dye, if not enjoy:</L>
+<L>So thinking to deflowre 'em one by one,</L>
+<L>Each by her prayers converted to a Swanne,</L>
+<L>And flew for safety in my golden fountaine,</L>
+<L>And there for ever shall my <HI>Ledas</HI> Birds</L>
+<L>Remaine, unharm'd by <HI>Brandron,</HI> or any.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Oh monstrous, I have heard indeed that wenches
+have turnd pretty Conies, Ducks, or Pigeons; but Swans, O
+brave: Come whither shall we goe now love?</L>
+</SP>
+<SP>
+<SPEAKER>Leon.</SPEAKER>
+<L>Vp to the promontary top of my faire Castle,</L>
+<L>There take thy pleasure of the mornings aire,</L>
+<L>Breath'd from <HI>Aurora's</HI> care the Sun doth wake,</L>
+<L>From thence to banquet upon Lyons hearts,</L>
+<L>Ile feast the hye and strong, my <HI>Ganymed:</HI></L>
+<L>Come let us mount, pleasure's to us a toy,</L>
+<L>My happinesse consists in thee my boy.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter the Sixe Champions.</STAGE>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L>As yet we cannot finde a sitting place,</L>
+<L>Where we may make a breach for entrance.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>What shall we rouse him then?</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>A little stay, we have not yet begirt the Castle walls,</L>
+<L>The time of his approach will not be long,</L>
+<L>For all his Iron nets are stor'd you see.</L>
+</SP>
+<SP>
+<SPEAKER>Anth.</SPEAKER>
+<L>I long to see, and grapple with the monster.</L>
+</SP>
+<SP>
+<SPEAKER>Andr.</SPEAKER>
+<L>Here's no man here but hath the same desire.</L>
+<L>Come let us walke.</L>
+</SP>
+<STAGE><PB REF="37"/>
+Enter <HI>Brandron</HI> and Clowne above.</STAGE>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Where art thou love?</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Here, here, as close as beggery to a Prodigall,</L>
+<L>Ile ne're forsake yee Ile warrant.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>'Tis well; now we have attaind the highest top: ha!</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Whats the matter Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>See, see, sixe stragling spies, wandring fugitives</L>
+<L>Are lurking 'bout my Walls to make a breach,</L>
+<L>And steale my Swans away; but I will downe,</L>
+<L>And with my Iron Mace send 'em a welcome,</L>
+<L>That their powder bones shall seeme a pastime</L>
+<L>For the winde to play with.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Goe to love, no more such words,</L>
+<L>No more I say, I know 'em well enough.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Dost thou my love?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Yes, and I am afraid you will know 'em to your</L>
+<L>Cost: there's not a man of these, but is able to cope</L>
+<L>With a whole army.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Ha, ha, ha.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>You were best tell me I lye:</L>
+<L>Have you not heard of seven roaring boyes,</L>
+<L>That made such a damnable thunder through the world,</L>
+<L>Making Gallimafries of all came in their way?</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>O the Christian curres, what then?</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>These are sixe of 'em, and I'me afraid the seventh,</L>
+<L>And that's my Master, <HI>George</HI> of <HI>England.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Are these the men? beshrew me heart</L>
+<L>The largenesse of their fame makes <HI>Brandron</HI> shrug.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Doe not you feare for all this;</L>
+<L>What will you say if I betray all these Champions to yee,</L>
+<L>And bring 'em all unarm'd unto your mercy?</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>I cannot love thee dearer if thou dost,</L>
+<L>But I am loath to venture thee my love.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Take you no care for that, Ile do't,</L>
+<L>Give me the keyes, and Then when i have got them in</L>
+<L>Vnarm'd, if we cannot make our parties good with 'em,</L>
+<L>Wou'd you were hang'd y'faith.</L>
+</SP>
+<SP>
+<PB REF="38"/>
+<SPEAKER>Bran.</SPEAKER>
+<L>Goe and befortunate, I long till thou returnst.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Champions.</STAGE>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>There is no hope of entrance till hee comes.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>Shall we obscure our selves till then,</L>
+<L>Or face the Monster at his comming out?</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Obscure, no brother <HI>Andrew,</HI> here's not a man of us</L>
+<L>But singly dares both meete and cope with him:</L>
+<L>But soft, I heare the gates unlocke,</L>
+<L>Each stand upon his guard, the Giant comes.</L>
+</SP>
+<STAGE>Enter Clown.</STAGE>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>Who this?</L>
+<L>This the mighty <HI>Brandron?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Den.</SPEAKER>
+<L>If blacke Inchantments doe not blinde mine eyes,</L>
+<L>I well should know that habite and that person:</L>
+<L>Send me your judgements, know you not that face?</L>
+</SP>
+<SP>
+<SPEAKER>Anth.</SPEAKER>
+<L>'Tis <HI>Suckabus,</HI> our brother <HI>Georges</HI> man.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>You are not deceiv'd Sir, I'me the very same.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>What <HI>Suckabus?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Gentlemen, 'tis no wonder for us that are Cham∣pions
+to meete at tho worlds end: my master's i'th Castle.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>How?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<P>'Tis as I tell yee; we saw yee out of a window
+looke about the Castle walls, and laught heartily at yee, and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>o did the Ladies too.</P>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>How, Ladies?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<P>Yes faith Ladies: my master hath kild the Giant,
+a foule great lubberly knave he was I'me sure a that: wee
+had much a doe with him ere he fell: but now have wee the
+bravest life with the Ladies, we doe nothing but dance with
+'em al day long. You must come up unto my Master presently.</P>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>With all our hearts;</L>
+<L>Lead the way good <HI>Suckabus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<P>Nay not so hasty neither: my Master doth earnest∣ly
+desire you, that you would deliver all your weapons to
+me, for feare of frighting the Ladies; there must no
+signe of a Souldier now appeare, all must be lovers that doe
+enter there.</P>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>With all our hearts; take 'em, and lead the way.</L>
+</SP>
+<SP>
+<PB REF="38"/>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Why now it is as it should be;</L>
+<L>Ile bring you sweet linnen and water to refresh you, and then
+into your pantables, and pump up the Ladies.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>Excellent <HI>Suckabus.</HI></L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Brandron.</STAGE>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Ha, ha, ha; how happy am I in this faithfull boy?</L>
+<L>I have beheld through a chinke, the Knights</L>
+<L>Brought in unarm'd and weaponlesse:</L>
+<L>Oh my prosperous polititian how I love thee:</L>
+<L>These were the Knights whom I did ever feare,</L>
+<L>And now I have 'em all mine owne but one:</L>
+<L>Oh here comes my boy; the newes, the newes?</L>
+<L>My eyes best object; what are they spring'd my love?</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>I, they are my owne, fast lockt in a pitfold:</L>
+<L>But I have stranger newes to tell thee than this.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Say on, we are secure frhm feare and danger now.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>After my slight had fetcht 'em in unarm'd,</L>
+<L>And Cag'd my birds fast under locke and key,</L>
+<L>I went to fetch some weapons that I left</L>
+<L>Behinde me at the gate porch: where peeping</L>
+<L>Through a key-hole, by more chance I spide my Master</L>
+<L><HI>George</HI> of <HI>England,</HI> prancing his steede about the walls.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>What's he the seventh?</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>I, and the veriest kill-cow of 'em all,</L>
+<L>These are but very punies to him.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Goe and betray him as thou didst the rest.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Nay soft, some wiser than some: hee's no such
+fellow as yee take him for; he may heare me, but he'le
+see me hang'd ere he trust mee; for indeed I have beene
+so trusty to him, that he'le be sure to trusse, if he catch me.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>I will not venture thee▪ come, lets to these Knights,</L>
+<L>If they will yeeld unto our faire demands,</L>
+<L>And by that Christian power they doe adore,</L>
+<L>Sweare fealty and faithfull love to us,</L>
+<L>To fight our battailes, and our Champions prove,</L>
+<L>'Gainst those that shall oppose our might and power,</L>
+<L>We are their friends, and they shall live in favour;</L>
+<L><PB REF="39"/>
+But if deniall breath from ones lip,</L>
+<L>He and the rest shall perish instantly:</L>
+<L>Follow me love.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> George.</STAGE>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Through blacke Inchantments, misbeleeving men,</L>
+<L>Wild beasts and monsters, and through death himselfe,</L>
+<L>Hath <HI>George</HI> of <HI>England</HI> made his passage, to the desire</L>
+<L>Of my longing thoughts; and by my</L>
+<L>Tedious travailes have I now obtain'd,</L>
+<L>And here I am arriv'd, where ends my fame,</L>
+<L>Or deeper shall insculpe my honour'd name.</L>
+<L>The Castle beares a foule usurped title,</L>
+<L>Which I will read out of the Tyrants heart,</L>
+<L>And backe deliver injur'd honours due,</L>
+<L>Or dye in the attempt.</L>
+<L>A rich and stately building▪</L>
+<L>How fast 'tis rivited into the Rocke,</L>
+<L>As if the sure foundations and the walls were one,</L>
+<L>How gaind'd the monster such a policy to vanquish,</L>
+<L>And still hold it as his owne?</L>
+<L>I have no other way but one, and this is it,</L>
+<L>This sword must play the Pioner for me,</L>
+<L>Which through <HI>Brandrons</HI> platted coat of brasse,</L>
+<L>Shall cut his passage to his heart:</L>
+<L>And thus I ring deaths larum at his gate.</L>
+</SP>
+<STAGE><HI>Enter</HI> Brandron aloft.</STAGE>
+<SP>
+<SPEAKER>Bra.</SPEAKER>
+<L>Ha, what hare-braind frantick Vrchin have we there?</L>
+<L>Dost come to meete the Crowes and chatting Pyes?</L>
+<L>They'le make a banquet of thy carkasse:</L>
+<L>Reserve your smooth-fac'd brow to play with Ladies,</L>
+<L>Begon I say, and doe not make reply,</L>
+<L>For if thou urge me to a Porters paines,</L>
+<L>The strong nerv'd <HI>Cyclops,</HI> who by pondrous waight,</L>
+<L>Forg'd out the gates of steele, neare laid such strokes,</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> I will on thy childish Burgonet.</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> thou see'st I'me pittifull.</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/> be accepted at thy hand by such as feare</L>
+<L><PB REF="39"/>
+Thy bug-beare tearmes, were thy deeds as much:</L>
+<L>Therefore descend, and to my hands deliver up the keyes,</L>
+<L>With it those Virgins, undeflowr'd and wrongd,</L>
+<L>The daughters to the King of <HI>Macedon,</HI></L>
+<L>Or by the sacred Crosse of Christendome,</L>
+<L>Vnder whose Banner <HI>George</HI> of <HI>England</HI> fights,</L>
+<L>Ile pitch thy head upon the wall thoustandst,</L>
+<L>And Traitor like thy hatefull limbes beside.</L>
+</SP>
+<SP>
+<SPEAKER>Bra.</SPEAKER>
+<L>O, we have heard of you before, but since you are so hot▪</L>
+<L>Ile fetch a Iulip for to coole your blood,</L>
+<L>You shall be fought, and fought, and fought with too:</L>
+<L>Betake you to your tooles, that valour tries,</L>
+<L>For ne're till now you plaid your Master-prize,</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>I doe accept it: <HI>Brandron</HI> in this alone</L>
+<L>Doe I finde thee honourable: meane time,</L>
+<L>I will prepare to entertaine them.</L>
+</SP>
+<STAGE>Enter <HI>Brandron</HI> aloft, with all the Champions and Clowne.</STAGE>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Hollow once more, looke up and see,</L>
+<L>If these thou conquerst, then thou copst with me,</L>
+<L>But not before: nay, never start, I know thou knowst 'em wel,</L>
+<L>You ne're so strange were, as you must be now:</L>
+<L>I keepe those bonds which yoakt your amities,</L>
+<L>And I have broke those bonds:these, once what ere they were,</L>
+<L>Are now my subjects, and all sworne to fight</L>
+<L>In <HI>Brandrons</HI> quarrell, be it wrong or right.</L>
+<L>I, and to dye in't: question them I pray.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Amazement throwes his wonders on my head:</L>
+<L>Brother resolve me, is it so, or no?</L>
+<L>I see y'are prisoners to his power and will,</L>
+<L>But let me know the meanes that makes you so,</L>
+<L>Lives there no foule inchantment in this place?</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Brother not any.</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>Monster, I know thou took'st 'em not in fight;</L>
+<L>The meanest of them them there that stands by thee,</L>
+<L>But with the quicke flames of his resolution,</L>
+<L>Had scorcht thee into ashes: give reason then</L>
+<L>How this should come to passe?</L>
+</SP>
+<SP>
+<PB REF="40"/>
+<SPEAKER>Bran.</SPEAKER>
+<L>One of you tell him, if you please you may.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>We all arrived at one Court, the <HI>Macedonian</HI> Kings,</L>
+<L>And comming hither in his wrongs behalfe,</L>
+<L>Met with your Hell-borne <HI>Suckabus,</HI></L>
+<L>Who was before by <HI>Brandron</HI> entertaind;</L>
+<L>No sooner we approacht the Castle here,</L>
+<L>And made a gentle walke about the walls,</L>
+<L>But running to us with great signes of joy, that slave</L>
+<L>Came to us, told us your selfe was here,</L>
+<L>And how the mighty <HI>Brandron</HI> by your hand was slaine.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Ha, ha, ha; oh my dainty boy, stand neare my love,</L>
+<L>Here's none dares injure thee.</L>
+</SP>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<L>Looke how Master <HI>George</HI> on foote-backe frownes</L>
+<L>on me, but I care not.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Further he told us 'twas your faire request,</L>
+<L>Having sweete Musicke and faire Ladyes with you,</L>
+<L>We should come in unarm'd and weaponlesse:</L>
+<L>We being joyfull, thinking truth he spake,</L>
+<L>Were all betray'd, and so to <HI>Brandron</HI> led,</L>
+<L>And so our lives were granted, on condition,</L>
+<L>His wrong or right to guard against the world.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Brood of the Divell thou shalt pay for this.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Thy worst, I defie thee.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>What we must fight then?</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Brother we must.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Well then, what remedy?</L>
+<L>But tell me <HI>Brandron,</HI> ere we beginne,</L>
+<L>Since thou hast set this quarrell on our heads,</L>
+<L>Shall I have faire and single opposition?</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Champion thou shalt.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Seale it with your oath, and then 'tis firme.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Why by the <HI>Ethiopes</HI> stampe, yon burning ball,</L>
+<L>I vow; and this I furthermore will promise,</L>
+<L>That each severall Combatant shall beare severall armes;</L>
+<L>And to thy selfe, from our rich Armory,</L>
+<L>Weapons Ile send compleat, although mine enemy:</L>
+<L>Here, take the keyes, my boy, and see each weapon fitted</L>
+<L><PB REF="40"/>
+Both for him and them: meane time, heare will we sit</L>
+<L>Spectators of their deedes: Oh they are met.</L>
+</SP>
+<STAGE>Enter Champions severally, arm'd; weapons
+brought for <HI>George.</HI></STAGE>
+<SP>
+<SPEAKER>Da.</SPEAKER>
+<L>Y'are welcom to our castle: I'me your first man brother</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>You are welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>For <HI>Brandron,</HI> and his right.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>For <HI>England,</HI> and the <HI>Brittaines</HI> doe I fight.</L>
+<STAGE>fight.</STAGE>
+<L>Brother y'are mine, your quarrell is not good.</L>
+<STAGE>David is orecome.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Da.</SPEAKER>
+<L>What I have lost, then call it <HI>Brandrons</HI> blood.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>You are noble. Come the next.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>That's I for <HI>Brandron.</HI></L>
+</SP>
+<STAGE>fight.</STAGE>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>I stand for <HI>Scotland</HI> now.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>You have wonne it fairely; take it as your owne.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Y'are welcome home.</L>
+</SP>
+<SP>
+<SPEAKER>And.</SPEAKER>
+<L>And I am glad it is so well falne out.</L>
+</SP>
+<STAGE>Each fight their severall Combates: <HI>George</HI> overcomes
+them all: <HI>Brandron</HI> stampes.</STAGE>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Let us unite our brother-hoods againe.</L>
+<L>You are welcome to your liberty.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>We joy to see't.</L>
+</SP>
+<SP>
+<SPEAKER>Iam.</SPEAKER>
+<L>There are the keyes▪ enter, and sieze on <HI>Brandron.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>Am I betray'd?</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Each hath the best done to defend your state,</L>
+<L>Then yeeld thee to the mercy of our brother.</L>
+</SP>
+<SP>
+<SPEAKER>Bran.</SPEAKER>
+<L>First will I head long throw me from this Tower,</L>
+<L>And dash my braines 'gainst the craggy rocks,</L>
+<L>That murmures at the fall of <HI>Brandron:</HI></L>
+<L>No, Christian slaves, you shall not write</L>
+<L>Your glories in my blood, to say,</L>
+<L>The mighty <HI>Brandron</HI> fell by you:</L>
+<L><HI>Brandron</HI> wins glory to himselfe to yeeld,</L>
+<L>And thus will conquer <HI>Brandron</HI> in the field,</L>
+</SP>
+<STAGE>He beates out his owne braines.</STAGE>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>One ruine ends for to beginne another:</L>
+<L>Enter the Castle, seeke the slave his man.</L>
+<L>And give his guerdon for his treachery.</L>
+</SP>
+<SP>
+<PB REF="41"/>
+<SPEAKER>Dav.</SPEAKER>
+<L>That will we doe; follow me <HI>Anthony.</HI></L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>What drum is that? lets in, and stand upon our guard,</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>It is our friend, the King of <HI>Macedon.</HI></L>
+<L>That comes to gratifie our victory.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Wee'le greete him with a token of our loves.</L>
+</SP>
+<STAGE>Enter the King, Drumme, Colours, and Souldiers.</STAGE>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I come in loving quest of you, brave Christian Knights,</L>
+<L>Who since your absence from our mournfull Court,</L>
+<L>In this adventure tooke in our behalfes,</L>
+<L>Feare made us doubt your safety and your lives:</L>
+<L>Wherefore resolv'd, in quittance of your losse,</L>
+<L>More than the wrongs I did sustaine before,</L>
+<L>Made us thus change our mournfull blacke for steele,</L>
+<L>And arm'd with dread lesse danger of our lives,</L>
+<L>Came thus resolv'd, to fight, and dye for you.</L>
+</SP>
+<SP>
+<SPEAKER>Pat.</SPEAKER>
+<L>You have out-done us in your noble minde:</L>
+<L>Brother of <HI>England,</HI> embrace this aged King:</L>
+<L>And reverend Sir, doe you the like by him;</L>
+<L>This the seventh, which in this enterprise,</L>
+<L>Redeem'd us from the hateful hands of treachery.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I joy to see such worth abound in man,</L>
+<L>May honours spring send Garlands for thy brow,</L>
+<L>And victory still dwell on thy triumphant arme:</L>
+<L>I glory in your conquest.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Which glory once more shines upon thy head;</L>
+<L>The hatefull monster, that usurpt so long,</L>
+<L>And kept poore <HI>Tenopas</HI> in dread and aw,</L>
+<L>Hath Iustice from his owne hand done himselfe,</L>
+<L>And you are honour of your losse agen:</L>
+<L>Therefore reserve it as our loving deed,</L>
+<L>And weare it as our favour.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>You so inrich me with your love and bounty,</L>
+<L>My life and kingdome is too poore to thanke yee.</L>
+<L>Were I assur'd of my daughters lives,</L>
+<L>I were ascended to my height of joy.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Of that these gentlemen can more resolve yee.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>We never knew, nor saw no Ladies there.</L>
+</SP>
+<SP>
+<PB REF="41"/>
+<SPEAKER>Mac.</SPEAKER>
+<L>Why then they are dead:</L>
+<L>Sweete peace rest with their soules.</L>
+</SP>
+<STAGE>Enter with the Clowne.</STAGE>
+<SP>
+<SPEAKER>Clowne.</SPEAKER>
+<P>As you are gentlemen use not a Prince so hardly:
+what I have done was meerely out of love; because I would
+have you staid men, men of biding, to be forth comming,
+though not every houre comming forth: Master <HI>George,</HI> for
+my Queene mothers sake, that kild your father and mother,
+and kept you in a Cave, have compassion upon me.</P>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Dispatch, and hang the slave.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>What shall I do now? I have been calling to my fa∣ther
+for helpe, and he does nothing, but stands and laughes
+at me, and will not put my charme in my head.</L>
+</SP>
+<SP>
+<SPEAKER>Dav.</SPEAKER>
+<L>Nay come away good <HI>Suckabus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Which is the King of <HI>Macedon,</HI> I pray?</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I am my friend, but cannot save thy life,</L>
+<L>Because thou didst betray these gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>I doe beseech thy Kingly worship to save my lifs, &amp;</L>
+<L>I will bring you where your daughters are.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Thou powrest fresh blood into our empty veines,</L>
+<L>And melts the snow that lay upon my heart:</L>
+<L>Victorious Knights, as much renownd for pitty,</L>
+<L>As for valour, upon my aged knees I beg the life</L>
+<L>Of this condemned wretch.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>You must not kneele:upon condition that thou dost performe,</L>
+<L>Thy words, we will not onely give thee life,</L>
+<L>But guard on thee with rich rewards, and love:</L>
+<L>But if thy feare delude us, hoping to save thy life—</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Why you may hang me then, that's all the care I take.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>And wilt thou bring me to my daughters friend?</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Come follow me, Ile lead you a dance.</L>
+<STAGE>Sings.</STAGE>
+<L>Three whitings they cockle, and set in their luddle,</L>
+<L>Sing bay Cocke without a combe, sing cock a duddle.</L>
+<L>Looke you, doe you see those three Swans? these Swans were
+once the Daughters, Ducks and Darlings to the King of <HI>Ma∣cedon.</HI></L>
+</SP>
+<SP>
+<PB REF="42"/>
+<SPEAKER>Geor.</SPEAKER>
+<L>Those were the Swans that in the fountaine liv'd:</L>
+<L>Did not I tell you what this slave would do?</L>
+<L>Dispatch and hang him straight.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>I doe beseech yee spare him;</L>
+<L>And noble Knights, thus for to let you know,</L>
+<L>I doe give faithfull credit to his words;</L>
+<L>Heare me relate what once my daughters told me;</L>
+<L>The eldest having priviledge of Birth,</L>
+<L>Came to me first for to relate her dreame,</L>
+<L>And askt me if I could interprete it;</L>
+<L>I answerd, as I had small faith in dreames,</L>
+<L>So I had lesse knowledge to expound the meaning.</L>
+<L>Yet went she on; I dreamt, said she, my sisters and my selfe</L>
+<L>Were playing round about your golden fountaine,</L>
+<L>When suddenly we all three were-surpris'd,</L>
+<L>By a fierce savage and inhumane Monster,</L>
+<L>And as his flaming Lust did us pursue,</L>
+<L>We turnd to Swans, and in the fountaine flew.</L>
+<L>As she related so did both the rest,</L>
+<L>And all three had one dreame.</L>
+</SP>
+<SP>
+<SPEAKER>Clown.</SPEAKER>
+<L>Ile assure you, the Giant that is dead told me the selfe
+same tale, and how he would have done something to 'em, but
+having three Eeles by the taile they slipt out of his fingers, &amp;
+flew like Swans into the golden fountaine.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>This doth confirme it more: oh my Swans, my girles!</L>
+<L>Come shall we sing our Requiem together?</L>
+<L>And at the stretching out your silver wings,</L>
+<L>Your aged father falls and dies with you.</L>
+</SP>
+<SP>
+<SPEAKER>Geo.</SPEAKER>
+<L>Take comfort, royal <HI>Macedon,</HI> as heaven for to preserve</L>
+<L>Their honours, chang'd their shapes it may be pleas'd</L>
+<L>For to restore't agen, for after prescripts to beleeving men,</L>
+<L>And would you but become—</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>In that Ile interrupt yee: hold I pray,</L>
+<L>Let me imbrace you all; nay, take sure hold:</L>
+<L>Though clouds of darknesse did my cleare shine smother,</L>
+<L>I am converted to each here a brother.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>A happy conversion.</L>
+</SP>
+<SP>
+<PB REF="42" MS="y"/>
+<SPEAKER>Geor.</SPEAKER>
+<L>Blest <HI>Macedon,</HI> thou hast sent a gift to heaven,</L>
+<L>Borne upon Angels wings;</L>
+<STAGE>The swans turne.</STAGE>
+<L>And is by us on earth here ratified,</L>
+<L>Which without this could never have beene done.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>O father, father, happy are we now.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>My blessing on my Swans, my new found joyes:</L>
+<L>We all are Christians now.</L>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<L>Oh happy state!</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>Each Lady doth deserve a Monarchs bed.</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<L>Renowned Knights, may we desire to know,</L>
+<L>Which of you are unmarried?</L>
+</SP>
+<SP>
+<SPEAKER>An. De. Pat.</SPEAKER>
+<L>We are.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Then here's three Ladies, take 'em to your beds.</L>
+</SP>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L><HI>George</HI> highly honours aged <HI>Macedon.</HI></L>
+</SP>
+<SP>
+<SPEAKER>3 Knig.</SPEAKER>
+<L>But can the Ladies love accord with us?</L>
+</SP>
+<SP>
+<SPEAKER>3 Lad.</SPEAKER>
+<L>Most willingly.</L>
+</SP>
+<SP>
+<SPEAKER>3 King.</SPEAKER>
+<L>We thus then seale our contracts.</L>
+</SP>
+<SP>
+<SPEAKER>Geor.</SPEAKER>
+<L>Which thus we ratifie:</L>
+<L>Sit with the Brides, most noble <HI>Macedon,</HI></L>
+<L>And since kinde fortune sent such happy chance,</L>
+<L>Wee'le grace your Nuptialls with a souldiers dance.</L>
+</SP>
+<STAGE>They dance.</STAGE>
+<SP>
+<SPEAKER>Mac.</SPEAKER>
+<L>True noble Knights, how am I honour'd in you?</L>
+</SP>
+<SP>
+<SPEAKER>Georg.</SPEAKER>
+<L>No more good <HI>Macedon:</HI> pray lead the way,</L>
+<L>Wee'le see your Nuptiall Rites,</L>
+<L>That taske once done,</L>
+<L>We must abroad for same of Christendome.</L>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,6096 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2002-02-20</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; added DIV3 to first DIV2 act to account for scene; added N attributes DIV2s. Checked placement and completeness of PBs; moved several PBs inside SPs; added missing final PB REF. Checked for damage GAPs, #s, @s, oes, --s, and UNCLEARs. Corrected 5 $$Word$$s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, q;s and Qs. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Corrected numerous carry-over words (marked by opening parentheses) that had been misplaced. Checked proofsheets and made corrections. Sample: 6 minutes. Proofing: 20 minutes. Tag review and corrections: 30 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A00966">
+<STC T="S">11072</STC>
+<BIBNO T="umi">99838154</BIBNO>
+<VID>2517</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>THE NIGHT-VVALKER, OR THE LITTLE THEIFE.</P>
+<P>A COMEDY, As it vvas presented by her Majesties Servants, at the Private House in <HI>Drury</HI> Lane.</P>
+<P>Written by <HI>John Fletcher.</HI> Gent.</P>
+<P><HI>LONDON,</HI> Printed by <HI>Tho. Cotes,</HI> for <HI>Andrew Crooke,</HI> and <HI>William Cooke:</HI> 1640.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO The vvorthily-deserving all his ingenuous Attributes VVILLIAM HVDSON <HI>Esq.</HI></HEAD>
+<OPENER><SALUTE>Worthy Sir,</SALUTE></OPENER>
+<P>I Should derogate from your worth, to doubt of your pardon, andif should wrong too much your goodnesse to present the endeavours of some fro∣thy braine to the triall of your judgement, when the More ignorant world had al∣ready condemned it; but sir, this is one of the ccheirs of much admired, much lamented <HI>Fletcher,</HI> whose matchlesse Fancies are fit onely for the perusall of such as you, who have candour and knowledge so uni∣ted, that there cannot be a reprive for those Poems you condemne; accept this weake Testimonie of my Service, and as yours by familiar acquaintance with them, favourably entertaine these witty conceits par∣ticularly presented unto you, by him who shall glory in nothing more than to be stiled</P>
+<CLOSER><SIGNED>The Honorer of Your Vertues, <GAP DESC="illegible" REASON="page cropped" EXTENT="4 letters" DISP="••••"/></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="3"/>
+<LIST>
+<HEAD>The Actors Names.</HEAD>
+<ITEM>TOm Lurcher.</ITEM>
+<ITEM>Jacke Wildbraine.</ITEM>
+<ITEM>Gentlemen.</ITEM>
+<ITEM>Justice Algripe.</ITEM>
+<ITEM>Franke Hartlove.</ITEM>
+<ITEM>Toby.</ITEM>
+<ITEM>Servants.</ITEM>
+<ITEM>Sexton.</ITEM>
+<ITEM>Bell-Ringers.</ITEM>
+<ITEM>Boy.</ITEM>
+<ITEM>A Lady, <HI>Mother to</HI> Maria.</ITEM>
+<ITEM>Maria.</ITEM>
+<ITEM>Nurse.</ITEM>
+<ITEM>Mistrisse Newlove.</ITEM>
+<ITEM>Women.</ITEM>
+<ITEM>Mistresse.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="3"/>
+<HEAD>THE NIGHT-VVALKER: OR, The little Theefe.</HEAD>
+<DIV2 N="1" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus primus, Scena prima</HEAD>
+<SP>
+<STAGE>Enter Tom Lurcher and Iack Wildbraine.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lurc.</SPEAKER>
+<L>IAcke.</L>
+</SP>
+<SP>
+<SPEAKER>Wild.</SPEAKER>
+<L>What winde brought thee hither?</L>
+<L>In what old hollow tree, or rotten wall</L>
+<L>Hast thou beene like a Swallow all this Winter,</L>
+<L>Where hast thou beene man?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Following the Plow.</L>
+</SP>
+<SP>
+<SPEAKER>Wild.</SPEAKER>
+<L>What Plow? Thou hast no Land,</L>
+<L>Stealing's thy owne purchase.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>The best inheritance.</L>
+</SP>
+<SP>
+<SPEAKER>Wild.</SPEAKER>
+<L>Not in my opinion,</L>
+<L>Thou hadst five hundred pound a yeare.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis gone,</L>
+<L>Prethee no more on't, have I not told thee,</L>
+<L>And oftentimes, nature made all men equall,</L>
+<L>Her distribution to each child alike;</L>
+<L>Till labour came and thrust a new Will in,</L>
+<L>Which I allow not: till men wonne a priviledge</L>
+<L>By that they call endeavour, which indeede</L>
+<L><PB REF="4"/>
+Is nothing but a lawfull Cosenage,</L>
+<L>An allowed wayto cheate, why should my neighbour</L>
+<L>That hath no more soule then his Horsekeeper,</L>
+<L>Nor bounteous faculties above a Broome man,</L>
+<L>Have fortie thousand pound, and I foure groates;</L>
+<L>Why should he keepe it?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Thy old opinion still.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Why should that Scrivener</L>
+<L>That ne're writ reason in his life, nor any thing</L>
+<L>That time e're gloried in, that never knew</L>
+<L>How to keepe any curtesie conceal'd</L>
+<L>But <HI>Noverint universt</HI> must proclaime it,</L>
+<L>Purchase perpetually, and I a rascall:</L>
+<L>Consider this, why should that mouldy Cobler</L>
+<L>Marry his daughter to a wealthy Merchant,</L>
+<L>And give five thousand pound, is this good justice?</L>
+<L>Because he has a tougher constitution;</L>
+<L>Can feede upon old songs, and save his money,</L>
+<L>Therefore must I goe beg?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>What's this to thee?</L>
+<L>Thou canst not mend it, if thou beest determind</L>
+<L>To roball like a tyrant, yet take heede</L>
+<L>A keener justice doe not overtake thee,</L>
+<L>And catch you in a Nooze.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I am no Woodcocke,</L>
+<L>He that shall sit downe frighted with that foolery</L>
+<L>Is not worth pitty, let me alone to shuffle;</L>
+<L>Thou art for wenching.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>For beauty I, a safe course,</L>
+<L>No halter hangs in my way, I defie it.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>But a worse fate, a wilfull povertie,</L>
+<L>For where thou gainst by one that indeede loves thee,</L>
+<L>A thousand will draw from thee, tis thy destiny;</L>
+<L>One is a kinde of weeping crosse <HI>Iacke,</HI></L>
+<L>A gentle purgatory, doe not fling at all,</L>
+<L>You'le pay the Box so often, till thou perish.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Take you no care for that Sir, tis my pleasure,</L>
+<L>I will imploy my wits a great deale faster</L>
+<L><PB REF="4"/>
+Then you shall doe your fingers, and my Loves,</L>
+<L>If I mistake not, shall prove riper harvest</L>
+<L>And handsomer, and come within lesse danger.</L>
+<L>Where's thy young sister?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I know not where she is, she is not worth caring for,</L>
+<L>She has no wit.</L>
+<L>Oh you'd be nibling with her,</L>
+<L>Shee's farre enough I hope, I know not where,</L>
+<L>Shee's not worth caring for, a sullenthing</L>
+<L>Shee wod not take my counsell <HI>Iacke,</HI></L>
+<L>And so I parted from her.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Leave her to her wants?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I gave her a little money what I could spare,</L>
+<L>Shee had a minde toth countrey, she is turn'd</L>
+<L>By this some Farriers dairy maid, I may meet her</L>
+<L>Riding from market one day twixt her Dorsers;</L>
+<L>If I doe, by this hand I wonnot spare</L>
+<L>Her butter pence.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Thou wilt not rob thy Sister.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>She shall account me for her Egges and Cheeses.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>A pretty Girle, did not old <HI>Algripe</HI> love her,</L>
+<L>A very pretty Girle she was.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Some such thing,</L>
+<L>But he was too wise to fasten; let her passe.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Then where's thy Mistresse?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Where you shannot finde her,</L>
+<L>Nor know what stuffe she is made on, no indeed Sir,</L>
+<L>I chose her not for your use.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Sure she is handsome.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Yes indeed is she, she is very handsome, but that's all one</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Youle come toth marriage.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Is it to day.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Now, now, they are come from Church now.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Any great preparation,</L>
+<L>Does Justice <HI>Algripe</HI> shew his power.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Very glorious, and glorious people there.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I may meet with him yet er'e I die as cunning as he is.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>You may doe good <HI>Tom</HI> at the marriage,</L>
+<L><PB REF="5"/>
+We have Plate and daintie things.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Doe you no harme Sir,</L>
+<L>For yet me thinkes the marriage should be mar'd</L>
+<L>If thou maist have thy will, farewell, say nothing.</L>
+<STAGE>Exit</STAGE>
+<STAGE>Enter Gentlemen.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>You are welcome noble friends.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>I thanke you Sir,</L>
+<L>Nephew to the old Lady, his name is <HI>Wildbraine,</HI></L>
+<L>And wild his best condition.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>I have heard of him,</L>
+<L>I pray ye tell me Sir, is young <HI>Maria</HI> merry</L>
+<L>After her marriage rites? does she looke lively?</L>
+<L>How does she like her man?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Very scurvely,</L>
+<L>And as untowardly she prepares herselfe,</L>
+<L>But tis mine Ants will, that this dull mettall</L>
+<L>Must be mixt with her to allay her handsomenesse.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Had <HI>Hartlove</HI> no fast friends?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>His meanes are little,</L>
+<L>And where those littles are, as little comforts</L>
+<L>Ever keepe company: I know she loves him,</L>
+<L>His memory beyond the hopes of —</L>
+<L>Beyond the <HI>Indies</HI> in his mouldy Cabinets,</L>
+<L>But tis her unhansome fate.</L>
+<STAGE>Enter Hartlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>I am sorry fort,</L>
+<L>Here comes poore <HI>Franke,</HI> nay we are friends, start not Sir,</L>
+<L>We see your willow and are sorry for,</L>
+<L>And though it be a wedding we are halfe mourners.</L>
+</SP>
+<SP>
+<SPEAKER>Fra.</SPEAKER>
+<L>Good Gentlemen remember not my fortunes.</L>
+<L>They are not to be help'd with words.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Looke up man,</L>
+<L>A proper sensible fellow and shrinke for a Wench,</L>
+<L>Are there no more? or is she all the hansomnesse?</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Prethee leave fooling.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Prethee leave thou whining,</L>
+<L>Have maides forgot to love?</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>You are injurious.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Let 'em alone a while, thei'le follow thee.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Come good <HI>Franke,</HI></L>
+<L><PB REF="5"/>
+Forget now, since there is no remedy,</L>
+<L>And shew a merry face, as wise men would doe.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Be a free guest, and thinke not of those passages.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Thinke how to nicke him home, thou knowst she dotes on thee;</L>
+<L>Graffe me a daintie medler on his crabstocke;</L>
+<L>Pay me the dreaming puppy.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Well, make your mirth, the whilst I beare my misery;</L>
+<L>Honest mindes woud ha better thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>I am her kinsman,</L>
+<L>And love her well, am tender of her youth,</L>
+<L>Yet honest <HI>Franke,</HI> before I would have that stinkard,</L>
+<L>That walking rotten tombe, enjoy her maidenhead.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Prethee leave mocking.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Prethee <HI>Franke</HI> beleeve me,</L>
+<L>Go to consider, harke, they knocke to dinner,</L>
+<STAGE>Knock within.</STAGE>
+<L>Come wo't thou goe?</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>I prethee <HI>Franke</HI> goe with us,</L>
+<L>And laugh and dance as we doe.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>You are light Gentlemen,</L>
+<L>Nothing to weigh your hearts, pray give me leave,</L>
+<L>Ile come and see, and take my leave.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Wee'le looke for you,</L>
+<L>Doe not despaire, I have a tricke yet.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Yes,</L>
+<L>When I am mischievous I will beleeve your projects:</L>
+<L>She is gone, for ever gone, I cannot helpe it,</L>
+<L>My hopes and all my happinesse gone with her.</L>
+<L>Gone like a pleasing dreame: what mirth and jollitie</L>
+<L>Raignes round about this house? how every office</L>
+<L>Swetes with new joyes, can she be merry too?</L>
+<L>Is all this pleasure set by her appointment?</L>
+<L>Sure she has a false heart then; still they grow lowder</L>
+<L>The old mans god, his gold, has wonne upon her</L>
+<L>(Light hearted Cordiall gold) and all my services</L>
+<L>That offred naked truth, are cleane forgotten:</L>
+<L>Yet if she were compel'd, but it cannot be,</L>
+<L>If I could but imagine her will mine,</L>
+<STAGE>Enter Lady and Wildbraine.</STAGE>
+<L>Although he had her body.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>He shall come in.</L>
+<L><PB REF="6"/>
+Walke without doores o' this day, though an enemy,</L>
+<L>It must not be.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>You must compell him Madam.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>No she shall fetch him in, Nephew it shall be so.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>It will be fittest.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Can faire <HI>Maria</HI> looke agen upon me?</L>
+<L>Can there be so much impudence in sweetnesse?</L>
+<STAGE>Enter Maria.</STAGE>
+<L>Or has she got a strong heart to defie me?</L>
+<L>She comes her selfe: how rich she is in Jewels!</L>
+<L>Me thinkes they show like frozen Isicles,</L>
+<L>Cold winter had hung on her, how the Roses</L>
+<L>That kept continuall spring within her cheekes</L>
+<L>Are withered with the old mans dull imbraces?</L>
+<L>She would speake to me. I can sigh too Lady</L>
+<L>But from a sounder heart: yes, and can weepe too</L>
+<L>But tis for you, that ever I beleev'd you,</L>
+<L>Teares of more pious value then your marriage;</L>
+<L>You would encase your selfe, and I must credit you,</L>
+<L>So much my old obedience compells from me;</L>
+<L>Goe, and forget me, and my povertie,</L>
+<L>I neede not bid you, y'are too perfect that way:</L>
+<L>But still remember that I lov'd <HI>Maria,</HI></L>
+<L>Lov'd with a loyall love, nay turne not from me,</L>
+<L>I will not aske a treare more, you are bountifull,</L>
+<L>Goe and rejoyce, and I will waite upon you</L>
+<L>That little of my life left.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Good Sir heare me,</L>
+<L>What has beene done, was the act of my obedience</L>
+<L>And not my will: forc'd from me by my parents,</L>
+<L>Now tis done, doe as I doe, beare it hansomely</L>
+<L>And if there can be more societie</L>
+<L>Without dishonour to my tie of marriage</L>
+<L>Or place for noble love, I shall love you still,</L>
+<L>You had the first, the last, had my will prosper'd;</L>
+<L>You talke of little time of life: deare <HI>Franke,</HI></L>
+<L>Certaine I am not married for eternity,</L>
+<L>The joy my marriage brings tells me I am mortall</L>
+<L><PB REF="6"/>
+And shorter liv'd then you, else I were miserable;</L>
+<L>Nor can the gold and ease his age hath brought me</L>
+<L>Adde what I coveted, 'content, goe with me,</L>
+<L>They seeke a day of joy, prethee let's show it</L>
+<L>Though it beforc'd, and by this kisse beleeve me</L>
+<L>How ever, I must live at his command now,</L>
+<L>Ile dye at yours.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I have enough, Ile honour yee.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Lurcher.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Here are my trinkets, and this lustie marriage</L>
+<L>I meane to visit, I have shift of all sorts,</L>
+<L>And here are thousand wheeles to set 'em working,</L>
+<L>I am very merry, for I know this wedding</L>
+<L>Will yeeld me lustie pillage, if mad <HI>Wildgoose</HI></L>
+<L>That deboshd rogue keepe but his ancient revells</L>
+<L>And breede a hubbub in the house I am happy.</L>
+<STAGE>Enter Boy.</STAGE>
+<L>Now what are you?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>A poore distressed boy Sir,</L>
+<L>Friendlesse and comfortlesse, that would entreate</L>
+<L>Some charitie and kindnesse from your worship,</L>
+<L>I would faine serve Sir, and as faine indeavour</L>
+<L>With dutious labour to deserve the love</L>
+<L>Of that good Gentleman shall entertaine me.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A pretty Boy, but of too milde a breeding,</L>
+<L>Too tender and too bashfull a behaviour,</L>
+<L>What canst thou doe?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I can learne any thing</L>
+<L>That's good and honest, and shall please Master.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>He blushes as he speakes, and that I like not,</L>
+<L>I love a bold and secure confidence,</L>
+<L>An impudence that one may trust, this boy now</L>
+<L>Had I instructed him had beene a Jewell,</L>
+<L>A treasure for my use, thou canst not lye.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I would not willingly.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Nor thou hast no wit</L>
+<L>To dissemble neately.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Doe you love such boyes, Sir?</L>
+</SP>
+<SP>
+<PB REF="7"/>
+<SPEAKER>Lur.</SPEAKER>
+<L>Oh mainely, mainely, I would have my boy impudent,</L>
+<L>Outface all truth, yet doe it piously:</L>
+<L>Like <HI>Proteus,</HI> cast himselfe into all formes,</L>
+<L>As sudden and as nimble as his thoughts,</L>
+<L>Blench at no danger, though it be the Gallowes,</L>
+<L>Nor make no conscience of a cosonage</L>
+<L>Though it be ith Church; your soft, demure, still children —</L>
+<L>Are good for nothing, but to get long graces —</L>
+<L>And sing songs to dull tunes; I would keepe thee</L>
+<L>And cherish thee, hadst thou any active qualitie,</L>
+<L>And be a tender master to thy knavery,</L>
+<L>But thou art not for my use.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Doe you speake this seriously?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Yes indeed doe I.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Would you have your Boy Sir</L>
+<L>Read in these morall mischiefes?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Now thou mov'st me.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>And be a well traind youth in all activities?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>By any meanes.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Or doe you this to try me,</L>
+<L>Fearing a pronenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I speake this to make thee.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Then take me Sir, and cherish me and love me;</L>
+<L>You have me what you would: beleeve me Sir</L>
+<L>I can doe any thing for your advantage,</L>
+<L>I guesse at what you meane; I can lie naturally,</L>
+<L>As easily, as I can sleepe Sir, and securely:</L>
+<L>As naturally I can steale too.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>That I am glad on,</L>
+<L>Right heartily glad on, hold thee there, thou art excellent.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Steale any thing from any body living.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Not from thy Master.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>That's mine owne body.</L>
+<L>And must not be.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>The Boy mends mightily.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>A rich man, that like snow, heapes up his moneys</L>
+<L>I have a kind of pious zeale to meet still;</L>
+<L>A foole that not deserves 'em, I take pittie on,</L>
+<L>For feare he should run mad, and so I ease him.</L>
+</SP>
+<SP>
+<PB REF="7"/>
+<SPEAKER>Lur.</SPEAKER>
+<L>Excellent boy, and able to instruct me,</L>
+<L>Of my owne nature just.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I scorne all hazard,</L>
+<L>And on the edge of danger I doe best sir,</L>
+<L>I have a thousand faces to deceive,</L>
+<L>And to those twice so many tongues to flatter,</L>
+<L>An impudence no brasse was ever tougher,</L>
+<L>And for my conscience.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Peace, I ha found a Jewell,</L>
+<L>A Jewell all the Indies cannot match,</L>
+<L>And thou shat feele —</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>This title, and I ha done sir;</L>
+<L>I never can confesse, I ha that spell on me;</L>
+<L>And such rare modesties before a Magistate,</L>
+<L>Such Innocence to catch a Judge, such ignorance.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Ile learne of thee, thou art my owne, come Boy</L>
+<L>Ile give thee action presently.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Have at you.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What must I call thee</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Snap sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis most naturall</L>
+<L>A name borne to thee, sure thou art a Fairie,</L>
+<L>Shew but thy skill, and I shall make thee happie.</L>
+<STAGE>Enter Lady, Nurse, Mistresse Newlove, Tebia.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Where be these knaves? who strues up all the liveries,</L>
+<L>Is the brides bed made?</L>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>Yes Madam and a bell</L>
+<L>Hung under it artificially.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Out knave out</L>
+<L>Must we have larums now?</L>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>A little warning</L>
+<L>That we may know when to begin our healths Madam,</L>
+<L>The Justice is a kinde of old Jade Madam,</L>
+<L>That will goe merriest with a bell.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>All the house drunke.</L>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>This is a day of Jubile.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Are the best hangings up, and the plate set out?</L>
+<L>Who makes the Posset, Nurse?</L>
+</SP>
+<SP>
+<PB REF="8"/>
+<SPEAKER>Nur.</SPEAKER>
+<L>The dairie mayd,</L>
+<L>And sheele put that in will make him caper:</L>
+<L>Well Madam, well, you might ha chose another,</L>
+<L>A handsomer for your yeares.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Peace he is rich Nurse,</L>
+<L>He is rich, and thats beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>I am sure he is rotten,</L>
+<L>Would he had beene hang'd when he first saw her. <HI>Termagant!</HI></L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>What an angry queane is this, where,</L>
+<L>Who lookes to him?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>He is very merry Madam</L>
+<L>M. <HI>Wildbraine,</HI> has him in hand, ith' bottome o'th Sellar</L>
+<L>He sighes and tipples.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Alas good Gentleman,</L>
+<L>My hearts sore for thee.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Sorrow must have his course, sirra</L>
+<L>Give him some Sacke to dry up his remembrance,</L>
+<L>How does the Bridegroome, I am afraide of him.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>He is a trim youth to be tender of, hempe take him.</L>
+<L>Must my sweete new blowne Rose finde such a winter</L>
+<L>Before her spring be neere.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Peace, peace, thou art foolish.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>And dances like a Towne top: and reeles, and hobbles.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Alas, good Gentleman, give him not much wine.</L>
+</SP>
+<SP>
+<SPEAKER>Tom.</SPEAKER>
+<L>He shall ha none by my consent.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Are the women comforting my daughter?</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>Yes, yes, Madam,</L>
+<L>And reading to her a patterne of true patience,</L>
+<L>They read and pray for her too.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>They had neede,</L>
+<L>Ye had better marry her to her grave a great deale:</L>
+<L>There will be peace and rest, alas poore gentlewoman,</L>
+<L>Must she become a Nurse now in her tendernesse?</L>
+<L>Well Madam well my heart bleeds.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Thou art a foole still</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Pray heaven I be.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>And an old foole to be vext thus.</L>
+<L>Tis late she must to bed, goe knave be merry,</L>
+<L><PB REF="8"/>
+Drinke for a Boy, away to all your charges.</L>
+<STAGE>Enter Wildbraine, and Franke Heartlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Doe as thou wot, but if thou dost refuse it</L>
+<L>Thou art the stupid'st asse, there's no long arguing,</L>
+<L>Time is too precious <HI>Franke.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I am hot with wine,</L>
+<L>And apt now to beleeve, but if thou dost this</L>
+<L>Out of a villanie, to make me wrong her,</L>
+<L>As thou art prone enough.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Does she not love thee?</L>
+<L>Did she not cry downe right eene now to part with thee?</L>
+<L>Had she not swounded if I had not caught her?</L>
+<L>Canst thou have more?</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I must confesse all this.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Doe not stand prating, and misdoubting, casting,</L>
+<L>If she goe from thee now, she's lost for ever;</L>
+<L>Now now she's going, she that loves thee going,</L>
+<L>She whom thou lov st.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Pray let me thinke a little.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>There is no leisure; thinke when thou hast imbrac'd her</L>
+<L>Can she imagine thou didst ever honour her,</L>
+<L>Ever beleeve thy oathes, that tamely sufferst</L>
+<L>An old dry ham of horse flesh to enjoy her</L>
+<L>Enjoy her Maiden head; take but that from her</L>
+<L>That we may tell posterity a man had it,</L>
+<L>A handsome man, a gentleman, a young man,</L>
+<L>To save the honour of our house, the credit,</L>
+<L>Tis no great matter I desire.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I heare you.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Free us both from the feare of breeding foules</L>
+<L>And ophs, got by this shaddow: we talke too long.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>She is going now to bed, among the women</L>
+<L>What opportunitie can I have to meete her?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Let me alone, hast thou a will? speake soundly,</L>
+<L>Speake discreetely, speake home and handsomely,</L>
+<L>Ist not pitty, nay misery, nay infamie to leave</L>
+<L>So rare a pie to be cut up by a raskall.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I will goe presently, now, now, I stay thee.</L>
+</SP>
+<SP>
+<PB REF="9"/>
+<SPEAKER>Wi.</SPEAKER>
+<L>Such a dainty Doe, to be taken</L>
+<L>By one that knowes not necke beefe from a Phesant,</L>
+<L>Nor cannot rellish Braggat from Ambrofia.</L>
+<L>Is it not conscience.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Yes, yes, now I feele it.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>A meritorious thing.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Good Father Wildgoose,</L>
+<L>I doe confesse it.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Come then follow me</L>
+<L>And plucke a mans heart up, Ile locke thee privately</L>
+<L>Where she alone shall presently passe by,</L>
+<L>None neere to interupt thee but be sure;</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I shall be sure enough, leade on, and crowne me.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>No wringings in your minde now as you love me.</L>
+<STAGE>Ex.</STAGE>
+<STAGE>Enter Lady, Maria, Iustice. Gent. Nurse, Newlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Tis time you were a bed.</L>
+</SP>
+<SP>
+<SPEAKER>In.</SPEAKER>
+<L>I prethee sweete heart</L>
+<L>Consider my necessity, why art sad?</L>
+<L>I must tell you a tale in your eare anon.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Of <HI>Tom Thumb.</HI></L>
+<L>I beleeve that will prove your stiffest story.</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>I pitty the young wench.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>And so doe I too.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Come, old stickes take fire.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>But the Plague is, heele burne out instantly;</L>
+<L>Give him another cup.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Those are but flashes,</L>
+<L>A run of sacke wonot set him high enough.</L>
+<L>Will ye to bed?</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>I must.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Come have a good heart,</L>
+<L>And win him like a bowle to lye close to you,</L>
+<L>Make your best use.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>Nay prethee Ducke goe instantly,</L>
+<L>Ile daunce a Jig or two to warme my body.</L>
+<STAGE>Enter Wildbraine.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wild</SPEAKER>
+<L>Tis almost midnight.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Prethee to bed <HI>Maria.</HI></L>
+</SP>
+<SP>
+<PB REF="9"/>
+<SPEAKER>Wil.</SPEAKER>
+<L>Goe you afore, and let the Ladies follow,</L>
+<L>And leave her to her thoughts a while, there must be</L>
+<L>A time of taking leave of the same fooleries</L>
+<L>Bewailing others maiden-heads.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Come then,</L>
+<L>Weele waite in the next roome.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Doe not tarry</L>
+<L>For if thou dost, by my troth I shall fall asleepe <HI>Mall.</HI></L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Doe, doe, and dreame of Dotrells, get you to bed quickly</L>
+<L>And let us ha no more stirre, come no crying</L>
+<L>Tis too late now, carry your selfe discreetely,</L>
+<L>The old theefe loves thee deerely, thats the benefit.</L>
+<L>For the rest you must make your owne play, Nay not that way,</L>
+<L>Theile pull yee all to peeces, for your whim whams,</L>
+<L>Your garters and your gloves, goe modestly</L>
+<L>And privately steale to bed, tis very late <HI>Mall,</HI></L>
+<L>For if you goe by them such a new larum.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I know not which way to avoyde em.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>This way</L>
+<L>This through the Cloisters: and so steale to bed,</L>
+<L>When you are there once, all will separate</L>
+<L>And give yee rest, I came out of my pitty</L>
+<L>To shew you this.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I thanke you.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Here's the keyes</L>
+<L>Goe presently and locke the doores fast after yee,</L>
+<L>That none shall follow.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Good night.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Good-night sweete Cosen,</L>
+<L>A good, and sweete night, or Ile curse thee <HI>Franke.</HI></L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Franke Hartlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fra.</SPEAKER>
+<L>She staies long, sure young <HI>Wildgoose</HI> has abus'd me,</L>
+<L>He has made sport wi'me, I may yet get out againe,</L>
+<L>And I may see his face once more, I ha soule intentions,</L>
+<L>But they are drawne on by a fouler dealing.</L>
+<STAGE>Enter Maria.</STAGE>
+<L>Harke, harke, it was the doore,</L>
+<L>Something comes this way, wondrous still, and stealing</L>
+<L><PB REF="10"/>
+May be some walking spirit to affright me.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Oh heaven my fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Tis her voyce, stay.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Save me</L>
+<L>Blesse me you better powers.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I am no Devill.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Yare little better to disturb me now.</L>
+</SP>
+<SP>
+<SPEAKER>Pr.</SPEAKER>
+<L>My name is <HI>Hartlove</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Fye, fie, worthy friend,</L>
+<L>Fye noble sir.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I must talke farther with yee</L>
+<L>You know my faire affection.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>So preserve it,</L>
+<L>You know I am married now, for shame be civiller,</L>
+<L>Not all the earth shall make me.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Pray walke this way,</L>
+<L>And if you ever lov'd me.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Take heede <HI>Franke</HI></L>
+<L>How you divert that love to hate, goe home prethee.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Shall he enjoy that sweete?</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Nay pray unhand me.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>He that nere felt what love was.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Then I charge you</L>
+<L>Stand further off.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>I am tame, but let me walke we'yee,</L>
+<L>Talke but a minute.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>So your talke be honest</L>
+<L>And my untainted honour suffer not</L>
+<L>Ile walke a turne or two.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Give me your hand then.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Wildbraine, Iustice, Lady, Nurse, Gent. Women, Newlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iust.</SPEAKER>
+<L>Shee's not in her Chamber.</L>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<L>She is not here.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>And Ile tell you what I dream'd</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Give me a Torch.</L>
+</SP>
+<SP>
+<SPEAKER>1 and G.</SPEAKER>
+<L>Be not too hastie sir.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Nay let him goe,</L>
+<L><PB REF="10"/>
+For if my dreame be true, he must be speedy,</L>
+<L>He will be trickt, and blaz'd else.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>As I am a woman</L>
+<L>I cannot blame her if she take her liberty,</L>
+<L>Would she would make thee cuckold thou old bully,</L>
+<L>A notorious cuckold for tormenting her.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Ile hang her then.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Ile blesse her then, she does Justice,</L>
+<L>Is this old stinking doggs flesh for her dyet?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Prethee honest Nurse doe not fret too much</L>
+<L>For feare I dreame youle hang your selfe too.</L>
+</SP>
+<SP>
+<SPEAKER>Iust.</SPEAKER>
+<L>The Cloister?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Such was my fancie, I doe not say tis true,</L>
+<L>Nor doe Ibid you be too confident.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Where are the keyes, the keyes I say.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>I dream'd she had 'em to locke her selfe in.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>What a devill doe you meane?</L>
+<STAGE>Enter Servant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>No harme good Nurse be patient</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>They are not in the window, where they use to be.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>What foolish dreames are these?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I am mad.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>I hope so.</L>
+<L>If you be not mad, Ile doe my best to make yee.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>This is some tricke.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>I smell the Wildgoose.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Come gentlemen, come quickely I beseech you,</L>
+<L>Quicke as you can, this may be your case Gentlemen.</L>
+<L>And bring some lights, some lights.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Move faster, faster, youle come too late else.</L>
+<L>Ile stay behind and pray for ye, I had rather she were dishonest,</L>
+<L>Than thou shouldst have her.</L>
+<STAGE>Enter Maria and Franke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Y'are most unmanly, yet I have some breath lest;</L>
+<L>And this steele to defend me, come not neere me,</L>
+<L>For if you offer but another violence,</L>
+<L>As I have life Ile kill you, if I misse that,</L>
+<L>Upon my owne heart will I execute,</L>
+<L><PB REF="11"/>
+And let that faire beleefe out, I had of you.</L>
+</SP>
+<SP>
+<SPEAKER>Fra.</SPEAKER>
+<L>Most vertuous Maide, I have done, forgive my follies:</L>
+<L>Pardon, O pardon, I now see my wickednesse,</L>
+<L>And what a monstrous shape it puts upon me,</L>
+<L>On your faire hand I seale.</L>
+<STAGE>Enter.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Downe with the doore.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>We are betraide, oh <HI>Franke, Franke.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fra.</SPEAKER>
+<L>Ile dye for ye</L>
+<L>Rather than you shall suffer, Ile — —</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Now Enter.</L>
+<L>Enter sweete Gentlemen, mine eyes, mine eyes,</L>
+<L>Oh how my head akes.</L>
+<STAGE>Enter All.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Is it possible?</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Hold her, she sinkes.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>A plot upon my honour</L>
+<L>To poyson my faire name, a studied villanie,</L>
+<L>Farewell, as I have hope of peace, I am honest,</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>My brains, my brains, my monstrous brains, they bud sure.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>She is gone, she is gone.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>A handsome riddance of her.</L>
+<L>Would I could as easily lose her memory.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Is this the sweete of Marriage, have I bred thee</L>
+<L>For this reward?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Hold, hold, he's desperate too.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>Be sure ye hold him fast, weele bind him over</L>
+<L>To the next Sessions, and if I can Ile hang him.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Nay then Ile live to be a terrour to thee,</L>
+<L>Sweete Virgin Rose farewell: heaven has thy beauty,</L>
+<L>Thats onely fit for heaven. Ile live a little</L>
+<L>To finde the villaine out that wrought this injury,</L>
+<L>And then most blessed soule, Ile climbe up to thee.</L>
+<L>Farewell, I feele my selfe another creature.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Oh misery of miseries.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>I told ye Madam.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Carry her in, you will pay backe her portion.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>No not a penny, pay me backe my credit</L>
+<L>And Ile condition weye.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>A sad wedding</L>
+<L><PB REF="11"/>
+Her grave must be her Bridall bed, oh <HI>Mall,</HI></L>
+<L>Would I had wed thee to thy owne content</L>
+<L>Then I had had thee still.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I am mad, farewell,</L>
+<L>Another wanton wife will prove a hell.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Actus Secundus.</HEAD>
+<SP>
+<STAGE>Enter Tom Lurch. and his Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What hast thou done?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I have walked through all the lodgings.</L>
+<L>A silence as if death dwelt there inhabits.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What hast thou seene?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Nought but a sad confusion thing</L>
+<L>Every left in such a loose disorder</L>
+<L>That were there twenty theeves, they would be laden.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Tis very well, I like thy care, but tis strange</L>
+<L>A wedding night should be so solitary.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Certainely there is some cause, some death or sicknesse</L>
+<L>Is falne suddenly upon some friend,</L>
+<L>Or some strange newes is come.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Are they all a bed?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I thinke so, and sound a sleepe, unlesse it be</L>
+<L>Some women that keepe watch in a low parlour,</L>
+<L>And drinke, and weepe, I know not to what end.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Where's all the plate?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Why lockt up in that roome.</L>
+<L>I saw the old Lady, ere she went to bed</L>
+<L>Put up her plate, and some of the rich hangings</L>
+<L>In a small long chest, her chaine and rings are there too,</L>
+<L>It stands close by the Table on a forme.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>T was a good notice, didst thou see the men.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I saw them sad too, and all take their leaves,</L>
+<L>But what they sayd I was too farre to heare sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis daintily discover'd, we shall certainely</L>
+<L>Have a most prosperous night, which way.</L>
+</SP>
+<SP>
+<PB REF="12"/>
+<SPEAKER>Boy.</SPEAKER>
+<L>A close one,</L>
+<L>A backe doore, that the women have left open,</L>
+<L>To goe in and out to fetch necessaries,</L>
+<L>Close on the Garden side.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I love thy diligence,</L>
+<L>Wert thou not fearefull.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Fearefull? Ile be hang'd first.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Say they had spied thee.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I was then determain'd</L>
+<L>To have cry'd downe right too, and have kept 'em company,</L>
+<L>As one that had an interest in their sadnesse,</L>
+<L>Or made an errand to I know not whom sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>My dainty Boy, let us discharge, that plate</L>
+<L>Makes a perpetuall motion in my fingers</L>
+<L>Till I have fast hold of it.</L>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>Pray be wise sir, doe't hansomely, be not greedie,</L>
+<L>Lets handle it with such an excellence</L>
+<L>As if we would bring theeving into honour:</L>
+<L>We must disguise, to fright these reverend watches.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Still my blest Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>And cleere the Roome of drunken Jealousies,</L>
+<L>The chest is of some weight, and we may make</L>
+<L>Such noise ith carriage we may be snap'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Come open, heres a devills face.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>No, no, sir, weele have no shape so terrible,</L>
+<L>We will not doe the divell so much pleasure,</L>
+<L>To have him face our plot.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A winding sheete then.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Thats too cold a shift,</L>
+<L>I would not weare the reward of my wickednesse,</L>
+<L>I wonder you are an old theefe, and no cunninger,</L>
+<L>Where's the long cloake?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Here, here.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Give me the Turbant</L>
+<L>And the false beard, I heare some comming this way,</L>
+<L>Stoope, stoope, and let me sit upon your shoulders</L>
+<L>And now as I direct: stay let 'em enter,</L>
+<L>And when I touch move forward, make no noise.</L>
+</SP>
+<SP>
+<PB REF="12"/>
+<STAGE>Enter Nurse and Tobie.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Oh tis a sad time, all the burnt wine is drunke Nicke.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>We may thank your dry chaps for't, the Canaries gone too</L>
+<L>No substance for a sorrowfull minde to worke upon,</L>
+<L>I cannot mourne in beere, if she should walke now</L>
+<L>As discontented spirits are wont to doe.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>And meete us in the Cellar.</L>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>What sence have we with single beere against her?</L>
+<L>What heart can we defie the divell with?</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>The March Beere's open.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>A fortification of March Beere will doe well,</L>
+<L>I must confesse tis a most mighty Armour,</L>
+<L>For I presume I cannot pray.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Why <HI>Nicholas?</HI></L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>We Coachmen have such tumbling faiths, no pray'rs</L>
+<L>Can goe an even pace.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Hold up your candle.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Verily Nurse, I have cry'd so much</L>
+<L>For my young Mistresse, that is mortified,</L>
+<L>That if I have not more sacke to support me,</L>
+<L>I shall even sleepe, heigho, for another flagon;</L>
+<L>These burialls and Christnings are the mournefulst matters,</L>
+<L>And they aske more drinke.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Drinke to a sad heart's needfull.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Mine's ever sad, for I am ever dry Nurse.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Me thinkes the light burnes blew, I prethee snuffe it</L>
+<L>There's a theefe in't I thinke.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>There may be one neere it.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Whats that that moves there, ith' name of — Nicholas?</L>
+<L>That thing that walkes.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Would I had a ladder to behold it,</L>
+<L>Mercy upon me, the Ghost of one oth' Guard sure,</L>
+<L>Tis the Devill by his clawes, he smells of Brimstone,</L>
+<L>Sure he farts fire, what an earth-quake I have in me;</L>
+<L>Out with thy prayer booke Nurse.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>It fell ithe frying-pan, and the Cats eate it.</L>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>J have no power to pray, it growes still longer,</L>
+<L>Tis Steeple high now, and it sayles away Nurse,</L>
+<L><PB REF="13"/>
+Lets call the Butler up, for he speakes Latine,</L>
+<L>And that will daunt the Devill: I am blasted,</L>
+<L>My bellies growne to nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>Fye, flye, <HI>Tobie.</HI></L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bo.</SPEAKER>
+<L>So let them goe, and whilst they are astonishd</L>
+<L>Let us presently upon the rest now sodainely.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Off, off, and up agen, when we are neere the Parlour,</L>
+<L>Art sure thou knowst the Chest?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Though it were ith' darke sir,</L>
+<L>I can goe to't.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>On then and be happie.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Tobie.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>How my haunches quake? is the thing here still</L>
+<L>Now can I out-doe any Button maker, at his ownetrade,</L>
+<L>I have fifteene fits of an Ague, Nurse, tis gone I hope</L>
+<L>The hard hearted woman has left me alone. Nurse —</L>
+<L>And she knowes too I ha but a leane Conscience to keepe me company.</L>
+<STAGE>Noise within.</STAGE>
+<L>The Devills among em in the parlour sure,</L>
+<L>The Ghost three stories high, he has the Nurse sure,</L>
+<L>He is boyling of her bones now, harke how she whistles:</L>
+<L>There's gentlewomen within too, how will they doe?</L>
+<L>Ile to the Cooke, for he was drunke last night,</L>
+<L>And now he is valiant, he's a kin toth' Devill too</L>
+<L>And feares no fire,</L>
+<STAGE>Enter Lurcher and Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>No light?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Noneleft sir,</L>
+<L>They are gone, and carried all the candles with 'em</L>
+<L>Their fright is infinite, lets make good use on't</L>
+<L>We must be quick sir, quick, or the house will rise else.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Was this the Chest?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Yes, yes.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>There was two of 'em</L>
+<L>Or I mistake.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I know the right, no stay sir,</L>
+<L>Nor no discourse, but to our labour Iustily,</L>
+<L>Put to your strength and make as little noise,</L>
+<L><PB REF="13"/>
+Then presently out at: the backe doore.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Come Boy.</L>
+<L>Come happie child and let me hug thy excellence.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Wildbraine.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wil,</SPEAKER>
+<L>What thousand noyses passe through all the roomes?</L>
+<L>What cryes and hurries? sure the Devills drunke.</L>
+<L>And tumbles through the house, my villanies</L>
+<L>That never made me apprehend before</L>
+<L>Danger or feare, a little now molest me;</L>
+<L>My Cosens death sits heavie o'my conscience,</L>
+<L>Would I had beene halfe hangd when I hammer'd it.</L>
+<L>I aym'd at a living divorce, not a buriall</L>
+<L>That <HI>Franke</HI> might have had some hope: harke still</L>
+<L>In every roome confusion, they are all mad,</L>
+<L>Most certaine all starke mad within the house</L>
+<L>A punishment inflicted for my lewdnesse,</L>
+<L>That I might have the more sense of my mischiefe</L>
+<L>And runne the more mad too, my Aunt is hang'd sure,</L>
+<L>Sure hang'd her selfe, or else the fiend has fetch'd her;</L>
+<L>I heard a hundred cryes, the Devill, the Devill,</L>
+<L>Then roaring and then tumbling, all the chambers</L>
+<L>Are a meere babell, or another bedlam.</L>
+<L>What should I thinke? I shake my selfe too:</L>
+<L>Can the Devill finde no time, but when we are merry,</L>
+<L>Here's something comes.</L>
+<STAGE>Enter Newlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>Oh that I had some company,</L>
+<L>I care not what they were, to ease my misery,</L>
+<L>To comfort me,</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Whose that?</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>Againe? nay then receive</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Hold, hold I am no fury.</L>
+<L>The Merchants wife.</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>Are ye a man? pray heaven you be.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>I am.</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>Alas I have met sir</L>
+<L>The strangest things too night.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Why doe you stare.</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>Pray comfort me, and put your candle out</L>
+<L><PB REF="14"/>
+For if I see the Spirit againe I dye fort.</L>
+<L>And hold me fast, for I shall shake to peeces else.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Ile warrant you, Ile hold yee,</L>
+<L>Hold ye as tenderly; I have put the light out,</L>
+<L>Retire into my Chamber, there Ile watch we yee,</L>
+<L>Ile keepe you from all frights.</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>And will ye keepe me.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Keepe you as secure Lady.</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>You must not wrong me then, the devill will have us.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>No, no, Ile love you, then the devill will feare us.</L>
+<L>For he feares all that love, pray come in quickely,</L>
+<L>For this is the malicious house he walkes in,</L>
+<L>The houre he blasts sweete faces, lame the limbs in,</L>
+<L>Depraves the senses, now within this halfe houre</L>
+<L>He will have powre to turne all Citizens wives</L>
+<L>Into strange creatures, Owles, and long-taild Monkeys</L>
+<L>Jayes, Pies, and Parrots, quickely, I smell his brimstone.</L>
+</SP>
+<SP>
+<SPEAKER>New.</SPEAKER>
+<L>It comes agen I am gone, shift for your selfe sir.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Sure this whole night is nothing but illusion,</L>
+<L>Here's nothing comes, all they are mad, damd devill</L>
+<L>To drive her backe agen, 't had beene thy policy</L>
+<L>To have let us alone, we might have done some fine thing</L>
+<L>To have made thy hel-hood laugh, tis a dainty wench</L>
+<L>If I had her againe, not all your fellow goblins</L>
+<L>Nor all their clawes should scratch her hence, Ile stay still,</L>
+<L>May be her fright will bring her backe agen,</L>
+<L>Yet I will hope.</L>
+<STAGE>Enter Toby.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>I can finde no bed, no body, nor no chamber,</L>
+<L>Sure they are all ith' cellar, and I cannot finde that neither,</L>
+<L>I am led up, and downe like a tame asse, my light's out</L>
+<L>And I grope up and downe like blind-man buffe</L>
+<L>And breake my face, and breake my pate.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>It comes againe sure</L>
+<L>I see the shadow, Ile have faster hold now,</L>
+<L>Sure she is mad, I long to lye with a mad-woman,</L>
+<L>She must needes have rare new trickes.</L>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>I heare one whisper</L>
+<L><PB REF="14"/>
+If it be the devill now to allure me into his clutches,</L>
+<L>For Devils have a kinde of tone like crickets,</L>
+<L>I have a glimpse of her guise, tis she would steale by me,</L>
+<L>But Ile stand sure.</L>
+</SP>
+<SP>
+<SPEAKER>Tob.</SPEAKER>
+<L>I have but a dram of wit left,</L>
+<L>And thats even ready to runne, oh for my bed now.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>She nam'd a bed, I like that, she repents sure,</L>
+<L>Where is she now.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Who's that.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Are you there, In, In, In presently.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>I feele his talents through me</L>
+<L>Tis an old haggard devill, what will he doe with me?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Let me kisse thee first, quicke, quicke.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>A lecherous Devill.</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>What a hairie whore tis, sure she has a muffler.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>If I should have a young Satan by him, for I dare not de∣ny him,</L>
+<L>In what case were I? who durst deliver me?</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Tis but my sancie, she is the same, in quickly, gently my</L>
+<L>Sweete girle.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Sweete Devill be good to me.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Lurch. and Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Wheres my love Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Shees comming with a Candle</L>
+<L>To see our happie prize.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I am cruell wearie.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I cannot blame ye, plate is very heavie</L>
+<L>To carry without light or helpe.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>The feare too</L>
+<L>At every stumble to be discovered boy,</L>
+<L>At every cough to raise a Constable,</L>
+<L>Well, wee'le be merry now.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>We have some reason;</L>
+<L>Things compasd without feate or eminent danger</L>
+<L>Are too luxurious sir to live upon.</L>
+<L>Money and wealth got thus are as full venture,</L>
+<L>And carry in their natures as much merit</L>
+<L>As his, that digs em out 'oth mine, they last too</L>
+<L><PB REF="15"/>
+Season'd with doubts and dangers most delitiously,</L>
+<L>Riches that fall upon us are too ripe,</L>
+<L>And dull our appetites.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Most learned child.</L>
+<STAGE>Enter Mistresse.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Y'are welcome, where have you left it.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>In the next roome, hard by.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Is it plate all.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>All, all, and Jewels, I am monstrous weary,</L>
+<L>Prethee lets goe to bed.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Prethee lets see it first.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>To morrowes a new sweet.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Yes to melt it,</L>
+<L>But lets agree to night, how it shall be handled</L>
+<L>Ile have a new gowne.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Shat have any thing.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>And such a riding suite as Mistresse <HI>Newloves,</HI></L>
+<L>What though I be no gentlewoman borne,</L>
+<L>I hope I may atchieve it by my carriage.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Thou sayst right.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>You promis'd me a horse too, and a lackquay.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Thou shat have horses sixe, and a postilion.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>That will be stately sweete heart, a postilion.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Nay weele be in fashion, he shall ride before us</L>
+<L>In winter, with as much dirt would dampe a musket,</L>
+<L>The inside of our coach shall be of scarlet.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>That will be deere.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>There is a dye projecting</L>
+<L>Will make it cheape wench, come thou shalt have any thing.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Where is this chest, I long sweete to behold</L>
+<L>Our Jndies.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Mistresse lets melt it first, and then tis fit</L>
+<L>You should dispose it, then tis safe from danger.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Ile be a loving Mistresse to my boy too.</L>
+<L>Now fetch it in and lets rejoyce upon't.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Hold your light Mistresse, we may see to enter.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Ha whats h ere? call you this a chest?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>We ha mist sir.</L>
+<L><PB REF="15"/>
+Our hast and want of light made us mistake?</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>A very Coffin.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>How, a Coffin? Boy, Tis very like one.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>The devill ow'd us a shame, and now he has paid us.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Is this your Treasure?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Bury me alive in't.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>It may be there is no roome.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Nay, I will search it,</L>
+<L>Ile see what wealth's within, — — a womans face,</L>
+<L>And a faire womans.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I cannot tell sir,</L>
+<L>Belike this was the sadnesse that possest 'em;</L>
+<L>The plate stood next, I'me sure.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I shake, I shake Boy, what a cold sweat —</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>This may worke, what will become on's sir?</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>She is cold, dead cold: de'e finde 'your conscience,</L>
+<L>De'e bring your Gillians hither — nay, shee's punish'd,</L>
+<L>Your conceal'd love's cas'd up?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis <HI>Maria,</HI> the very same, the Bride, new horror!</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>These are fine trickes, you hope shee's in a sound,</L>
+<L>But Ile take order she shall ne'r recover</L>
+<L>To bore my nose, come, take her up and bury her</L>
+<L>Quickly, or Ile cry out; take her up instantly.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Be not so hasty foole, that may undoe us;</L>
+<L>Wee may be in for murther so; be patient,</L>
+<L>Thou seest shee's dead, and cannot injure thee.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>I am sure she shall not.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Be not sir dejected,</L>
+<L>Too much a strange mistake! this had not beene else,</L>
+<L>It makes me almost weepe to thinke upon't.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>What an unluckie theefe am I?</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Ile no considering, either bestirre your selfe, or —</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Hold.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Let it not stay to smell then, I will not</L>
+<L>Indure the stinke of a Rivall.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Would twere there agen.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>We must bury her.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>But where o'th sudden, or with what providence,</L>
+<L><PB REF="16"/>
+That no eyes watch us.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Take a Spade and follow me.</L>
+<L>The next faire ground we meete, make the Church yard;</L>
+<L>As I live, Ile see her lodg'd.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>It must be so,</L>
+<L>How heavy my heart is, I ha no life left.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I am past thinking too, no understanding,</L>
+<L>That I should misse the right Chest.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>The happy Chest.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>That, which I saw and markt too.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Well passion wo'not helpe us,</L>
+<L>Had I twentie falls for this?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Twas my fault sir.</L>
+<L>And twentie thousand feares for this, oth'devill,</L>
+<L>Now could I curse, well, we have her now,</L>
+<L>And must dispose her.</L>
+<STAGE>Enter Mistresse.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Hang both for two blind buzzards, here's a Spade</L>
+<L>Quickly or Ile call the neighbours.</L>
+<L>There's no remedy,</L>
+<L>Would the poore hungry prisoners had this pastie.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Iustice, and a Servant with a light.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>'Twas a strange mischance sir.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Mischance, saist? No twas happinesse to me,</L>
+<L>There's so much charge sav'd, I haue her portion,</L>
+<L>Ile marry twenty more on such conditions.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Did it not trouble you sir,</L>
+<L>To see her dead?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Not much, I thanke my conscience;</L>
+<L>I was tormented till that happen'd, furies</L>
+<L>Were in my braine to thinke my selfe a Cuekold</L>
+<L>At that time of the night:</L>
+<L>When I come home, I charge you shut my doores,</L>
+<L>Locks, bolts, and barres, are little enough to secure me,</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Why, and please you?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Foole to aske that question;</L>
+<L>To keepe out women, I expect her mother</L>
+<L>Will visit me with her clamors, oh I hate</L>
+<L><PB REF="16"/>
+Their noise, and doe abhorre the whole sexe heartlly;</L>
+<L>They are all walking Devills, Harpyes, I will study</L>
+<L>A weeke together how to raile sufficiently,</L>
+<L>Vpon e'm all, and that I may be furnish'd,</L>
+<L>Thou shat buy all the railing Bookes and Ballads,</L>
+<L>That Malice hath invented against women,</L>
+<L>I will read nothing else, and practise 'em,</L>
+<L>Till I grow fat with curses.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>If youle goe</L>
+<L>To th'charge, let me alone to finde you Bookes.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>They come neere us.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Whats that?</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>Where? hold up the Torch Knave.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Did you heare nothing? 'tis a —</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Why dost make a stand?</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Whats that?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Where, where, dost see any thing?</L>
+<L>We are hard by the Church-yard, and I was never</L>
+<L>Valiant at midnight in such irkesome places;</L>
+<L>They say Ghosts walke sometimes, harke, de'e heare nothing?</L>
+<STAGE>Enter Eurcher, Boy, and Mistres.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>No further, dig here, and lay her in quickly.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What light is that Boy, we shall be discover'd;</L>
+<L>Set the Coffin up an end, and get behind me,</L>
+<L>There's no avoiding.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Oh.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>Where's that groane? I begin to be afraid.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>What shall we doe sir?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>We are almost at home now, thou must goe forward;</L>
+<L>Perhaps 'twas my imagination.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis he?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I know him too, let me alone.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Oh sir, a Ghost, the very Ghost of Mistresse Bride.</L>
+<L>I have no power to runne away.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Cursed Ghost; blesse me, preserve me,</L>
+<L>I doe command thee what so ere thou art,</L>
+<L>I doe conjure thee leave me; doe not fright me;</L>
+<L>If thou beest a devill vexe me not so soone,</L>
+<L>If thou beest</L>
+<L><PB REF="17"/>
+The spirit of my wife.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Thy wife.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I shall be tormented.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Thy abus'd wife, that cannot peaceably</L>
+<L>Enjoy her death, thou hast an evill conscience.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>I know it.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Among thy other sinnes which blacke thy soule,</L>
+<L>Call to thy minde thy vow made to another,</L>
+<L>Whom thou hast wrong'd, and make her satisfaction</L>
+<L>Now I am dead, thou perjur'd man, or else</L>
+<L>A thousand blacke tormentors shall persue thee,</L>
+<L>Vntill thou leape into eternall flames;</L>
+<L>Where gold which thou adorest here on earth</L>
+<L>Melted, the Fiends shall powre into thy throate;</L>
+<L>For this time passe, goe home, and thinke upon me,</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A way.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>There are more spirits.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Thanke you deare wife,</L>
+<L>Ile bestow twentie nobles of a Tombe for thee,</L>
+<L>Thou shalt not walke and catch cold after death.</L>
+<STAGE>They goe backward in.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>So, so, they'r gone, 'twas my ingenious rascall:</L>
+<L>But how dost know he made vowes to another?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I over-heard the women talke to night on't;</L>
+<L>But now lets lose no time sir, pray lets bury</L>
+<L>This Gentlewoman, where's my Mistresse?</L>
+<STAGE>Enter Mistresse.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Here, I durst not tarry.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>We ha so cosen'd the old forty i'th hundred,</L>
+<L>And the devill hinder him not, hee'le goe a pilgrimage;</L>
+<L>But come, about our businesse, set her downe agen.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Oh.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Shee groanes, ha.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>Oh.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Agen, she stirres.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Lets flye, or else we shall be torne in peeces.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>And you be good at that, bury your selfe,</L>
+<L>Or let the Sexton take ye for his fee,</L>
+<L>Away boy.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>I am very cold, dead cold;</L>
+<L>Where am I? What's this? a Coffin? where have I beene?</L>
+<L><PB REF="17"/>
+Mercy defend me: Ha, I doe remember</L>
+<L>I was betrai'd, and swounded; my heart akes,</L>
+<L>I am wondrous hungry too, dead bodies eate not;</L>
+<L>Sure I was meant for buriall, I am frozen;</L>
+<L>Death, like a cake of Ice dwells round about me,</L>
+<L>Darkenesse spreads o're the world too, where? what path,</L>
+<L>Best providence direct me.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus Tertius.</HEAD>
+<SP>
+<STAGE>Enter Lady, Wildbraine, Women, Toby,</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>THou art the most unfortunate fellow;</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>Why Aunt, what have I done?</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>The most malicious varlet,</L>
+<L>Thy wicked head never at rest, but hammering,</L>
+<L>And hatching hellish things, and to no purpose,</L>
+<L>So thou maist have thy base will.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Why doe you raile thus?</L>
+<L>Cannot a scurvy accident fall out,</L>
+<L>But I must be at one end on't?</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Thou art at both ends.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Cannot young sullen wenches play the sooles,</L>
+<L>And marry, and die, but I must be the agent?</L>
+<L>All that I did (and if that be an injury,</L>
+<L>Let the world judge it) was but to perswade her</L>
+<L>(And as I take it) I was bound to it too,</L>
+<L>To make the reverend coxecombe her husband Cuckold:</L>
+<L>What else could I advise her, was there harme i'this?</L>
+<L>You are of yeares, and have runne through experience,</L>
+<L>Would you be content if you were young agen,</L>
+<L>To have a continuall cough grow to your pillow,</L>
+<L>A rottennesse, that vaults are perfumes to</L>
+<L>Hang in your roofe, and like a fogge infect you;</L>
+<L>Anointed hammes to keepe his hinges turning</L>
+<L>Reeke ever in your nose, and twenty nightcaps,</L>
+<L>With twenty severall sweats.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Some Jew, some Justice,</L>
+<L><PB REF="18"/>
+A thousand heathen smells to say truth Madam,</L>
+<L>And would you mellow my young pretty Mistresse</L>
+<L>In such a mis-ken?</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Sirra,</L>
+<L>Where's the body of my Girle?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I know not,</L>
+<L>I am no Conjurer, you may looke the body,</L>
+<L>I was like to be stolne away my selfe, the Spirit</L>
+<L>Had like to ha surpris'd me in the shape of a woman,</L>
+<L>Of a young woman, and you know those are dangerous.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>So had I Madam, simply though I stand here,</L>
+<L>I had beene ravish'd too: I had twenty Spirits</L>
+<L>In every corner of the house a Fiend met me.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>You lie like raskalls,</L>
+<L>Was Mistresse <HI>Newlove</HI> such a Spirit sir</L>
+<L>To fright your worship;</L>
+<L>Well, I discharge you sir, ye'are now at libertie,</L>
+<L>Live where you please, and doe what prankes you fancy,</L>
+<L>You know your substance, though you are my Nephew,</L>
+<L>I am no way bound sir to protect your mischiefe;</L>
+<L>So fare you well.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Farewell good Aunt, I thanke you,</L>
+<L>Adiew honest <HI>Nicke,</HI> the divell if he have power,</L>
+<L>Will persecute your old bones, for this marriage,</L>
+<L>Fare well Mistresse <HI>Win.</HI></L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>And shall we part with dry lips;</L>
+<L>Shall we that have beene fellow devills together</L>
+<L>Flench for an old womans fart?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Tis a fine time a night too, but we must part <HI>Nick.</HI></L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Shall we never ring againe? ne're tosse the tenor,</L>
+<L>And roule the changes in a Cup of Claret?</L>
+<L>You shall not want what ere I lay my hands on,</L>
+<L>As I am sure <HI>Automedon</HI> the Coachman,</L>
+<L>Shall be distributed; beare up, I say, hang sorrow,</L>
+<L>Give me that bird abroad that lives at pleasure,</L>
+<L><HI>Sam</HI> the Butlers true, the Cooke a reverend Trojan,</L>
+<L>The Faulkner shall sell his Hawkes, and sweare they were rotten,</L>
+<L>There be some wandring spoones, that may be met with,</L>
+<L><PB REF="18"/>
+Ile pawne a Coach horse, peace, utter no sentences.</L>
+<L>The harnesse shall be us'd in our warres also;</L>
+<L>Or shall I drive her (tell me but your will now,</L>
+<L>Say but the word) over some rotten bridge,</L>
+<L>Or by a Marle pit side, she may slip in daintily,</L>
+<L>Let me alone for my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>No, no, farewell <HI>Toby,</HI></L>
+<L>Farewell spinie <HI>Nicholas,</HI> no such thing,</L>
+<L>There be wayes i'the world, if you see me</L>
+<L>A day or two hence, may be wee'le cracke a quart yet,</L>
+<L>And pull a bell, commend to the houshold;</L>
+<L>Nay, cry not <HI>Toby</HI> 'twill make thy head giddy.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Sweet Master <HI>Wildbraine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>No more <HI>Toby</HI> go, the times may alter —</L>
+<L>But where's the coarse of my dead cosen,</L>
+<L>(If she be dead) I hop'd 'thad but dissembled</L>
+<L>That sits heavy here: <HI>Toby,</HI> honest <HI>Toby,</HI></L>
+<L>Lend me thy Lanthorne, I forgot 'twas darke,</L>
+<L>I had neede look to my wayes now.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Take a lodging with me to night in the Stable,</L>
+<L>And ride away to morrow with one of the horses</L>
+<L>Next your heart, pray doe.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>No, good night good neighhour <HI>Toby,</HI> I will wander,</L>
+<L>I scorne to submit my selfe, ere I have rambled,</L>
+<L>But whether, or with what, thats more materiall;</L>
+<L>No matter, and the worst come it is but stealing,</L>
+<L>And my Aunt won'ot see me hang'd for her owne credit,</L>
+<L>And farewell in a halter costs me nothing.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Hartlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>The night, and all the evills the night covers,</L>
+<L>The Goblins, Hagges, and the blacke spawne of darkenesse</L>
+<L>Cannot fright me, no death, I dare thy cruelty,</L>
+<L>For I am weary both of life and light too;</L>
+<L>Keepe my wits heaven, they say spirits appeare</L>
+<L>To melancholy minds, and the graves open,</L>
+<L>I would faine see the faire <HI>Marias</HI> shadow,</L>
+<L>But speake unto her spirit ere I died,</L>
+<L>But aske upon my knees a mercy from her:</L>
+<L><PB REF="19"/>
+I was a villaine, but her wretched Kinsman,</L>
+<L>That set his plot, shall with his heart blood satisfie</L>
+<L>Her injur'd life and honor, what lights this?</L>
+<STAGE>Enter Wildbraine with a Lanthorne.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>It is but melancholy walking thus;</L>
+<L>The Taverne doores are baricadoed too,</L>
+<L>Where I might drinke till morne, in expectation;</L>
+<L>I cannot meete the Watch neither; nothing in</L>
+<L>The likenesse of a Constable, whom I might</L>
+<L>In my distresse abuse, and so be carried,</L>
+<L>For want of other lodging to the Counter.</L>
+</SP>
+<SP>
+<SPEAKER>Fra.</SPEAKER>
+<L>Tis his voyce, Fate, I thanke thee.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Ha, who's that, and thou beest a man speake?</L>
+<L><HI>Franke Heartlove,</HI> then I bare my destinies,</L>
+<L>Thou art the man of all the world I wish'd for;</L>
+<L>My Aunt has turn'd me out a doores, she has,</L>
+<L>At this unchristian houre, and I doe walke,</L>
+<L>Me thinkes, like <HI>Guido Faux</HI> with my darke Lanthorne,</L>
+<L>Stealing to set the towne a fire; ith' country</L>
+<L>I should be tane for William o'the Wispe,</L>
+<L>Or Robin Goodfellow, and how dost <HI>Franke?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>The worse for you.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Come, thar't a foole, art going to thy lodging?</L>
+<L>Ile lie with thee to night, and tell thee stories,</L>
+<L>How many devills we ha met withall;</L>
+<L>Our house is haunted <HI>Franke,</HI> whole legions,</L>
+<L>I saw fiftie for my share.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Didst not fright e'm?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>How, fright e'm? no, they frighted me sufficiently.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Thou hadst wickednesse enough to make them stare,</L>
+<L>And be afraid o'thee, malicious devill;</L>
+<L>And draw thy sword, for by <HI>Marias</HI> soule;</L>
+<L>I will not let thee scape to doe more mischiefe.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Thou art mad, what dost meane?</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>To kill thee, nothing else will ease my anger,</L>
+<L>The injury is fresh, I bleede with all,</L>
+<L>Nor can that word expresse it, there's no peace in't,</L>
+<L>Nor must it be forgiven but in death;</L>
+<L><PB REF="19"/>
+Therefore call up thy valour if thou'st any,</L>
+<L>And summon up thy spirits to defend thee;</L>
+<L>Thy heart must suffer for thy damn'd practises,</L>
+<L>Against thy noble co<GAP DESC="illegible" REASON="blotted" EXTENT="2 letters" DISP="••"/>n, and my innocence.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Hold, heare a word; did I doe any thing</L>
+<L>But for your good, that you might have her,</L>
+<L>That in that desperate time I might redeeme her,</L>
+<L>Although with shew of losse.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Out ugly villaine,</L>
+<L>Fling on her the most hated name of Whore</L>
+<L>To the worlds eye, and face it out in courtesie,</L>
+<L>Bring him to see't, and make me drunke to attempt it.</L>
+<STAGE>Enter Maria.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I heare some voyces this way.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>No more, if you can pray, doe it as you fight.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>What new frights oppose me? I have heard that tongue.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Tis my fortune,</L>
+<L>You could not take me in a better time sir,</L>
+<L>I ha nothing to lose, but the love I lent thee,</L>
+<L>My life my sword protect.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I know 'em both, but to prevent their ruines,</L>
+<L>Must not discover — — stay men most desperate;</L>
+<L>The mischiefe you are forward to commit</L>
+<L>Will keepe me from my grave, and tie my spirit</L>
+<L>To endlesse troubles else.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Ha, tis her Ghost. <HI>Fr. Maria.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Heare me both, each wound you make</L>
+<L>Runnes through my soule, and is a new death to me,</L>
+<L>Each threatning danger will affright my rest;</L>
+<L>Looke on me <HI>Hartlove,</HI> and my kinsman view me;</L>
+<L>Was I not late in my unhappy marriage,</L>
+<L>Sufficient miserable? full of all misfortunes?</L>
+<L>But you must adde with your most impious angers</L>
+<L>Unto my sleeping dust this insolence?</L>
+<L>Would you teach time to speake eternally</L>
+<L>Of my disgraces; make Records to keepe 'em,</L>
+<L>Keepe them in brasse? fight then, and kill my honor;</L>
+<L>Fight deadly both, and let your bloody swords,</L>
+<L>Through my reviv'd, and reeking infamy</L>
+<L>(That never shall be purg'd) finde your owne ruines:</L>
+<L><PB REF="20"/>
+<HI>Hartlove,</HI> I lov'd thee once, and hop'd againe</L>
+<L>In a more blessed love to meet thy spirit,</L>
+<L>If thou kilst him, thou art a murtherer,</L>
+<L>And murther shall never inherit heaven:</L>
+<L>My time is come, my concealed grave expects me,</L>
+<L>Farewell, and follow not, your feete are bloody,</L>
+<L>And will pollute my peace: I hope they are melted,</L>
+<L>This is my way sure.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Stay blessed souls.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Would she had come sooner, and ha sav'd some blood.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Dost bleed?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Yes certainely, I can both see and feele it.</L>
+</SP>
+<SP>
+<SPEAKER>Fr.</SPEAKER>
+<L>Now I well hope it is not dangerous;</L>
+<L>Give me thy hand, as farre as honor guides me,</L>
+<L>Ile know thee againe.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I thanke thee heartily;</L>
+<L>I know not where to get a Surgeon;</L>
+<L>This vision troubles me, sure she is living,</L>
+<L>And I was foolish blind, I could not finde it;</L>
+<L>I bleed apace still, and my heart growes heavy,</L>
+<L>If I goe farre I faint, Ile knocke at this house,</L>
+<L>They may be charitable, would 'twere perfect day.</L>
+<STAGE>Enter Mistresse.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Tis not he? What would you sir?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I would crave a little rest Lady,</L>
+<L>And for my hurts some Surgerie, I am a Gentleman</L>
+<L>That Fortune of a fight —</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>A hansome Gentleman,</L>
+<L>Alas he bleedes, a very hansome gentleman,</L>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>A sweet young wench, beshrow my heart a faire one;</L>
+<L>Fortune has made me some recompence.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Pray come in, the aire is hurtfull for you;</L>
+<L>Pray let me lead you, Ile have a bed for you presently,</L>
+<L>Ile be your Surgeon too, alas sweet gentleman.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I feele no hurts, the morning comes too fast now.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Softly I beseech you.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Lady and Toby.</STAGE>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>He is not up yet Madam, what mean't you</L>
+<L>To come forth so earely?</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>You blocke head;</L>
+<L>Your eyes are sow'd up still, they cannot see</L>
+<L>When it is day: oh my poore <HI>Maria,</HI></L>
+<L><PB REF="20"/>
+Where be the women?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>They said they would follow us.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>He shall not laugh thus at my misery,</L>
+<L>And kill my child, and steale away her body,</L>
+<L>And keepe her Portion too.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Let him be hang'd fort,</L>
+<L>You have my voyce.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>These women not come yet?</L>
+<L>A sonne in law, Ile keepe a Conjurer,</L>
+<L>But Ile finde out his knavery.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Doe, and Ile helpe him;</L>
+<L>And if he were here this whip should conjure him,</L>
+<L>Here's a capias, and it catch hold on's breech,</L>
+<L>Ide make him soone beleeve the devill were there.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>An old Usurer.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>He married the mony, thats all he lookt for,</L>
+<L>For your daughter, let her sinke or swimme.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Ile swimme him;</L>
+<L>This is his house, I wonder they stay thus,</L>
+<L>That we might raile him out on's wits.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>They'le come,</L>
+<L>Feare not Madam, and bring Clappers with 'em,</L>
+<L>Or some have lost their old wont, I have heard</L>
+<L>No disparagement to your Ladyship, some o'their tongues</L>
+<L>Like Tom a Lincolne three miles off.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Oh fie,</L>
+<L>How tedious are they?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>What and we lost no time,</L>
+<L>You and I shall make a shift to beginne with him,</L>
+<L>And tune our Instruments, till the confort come</L>
+<L>To make up the full noise, Ile knocke.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Who's that? raps so sawcily?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Tis I, <HI>Toby,</HI> come downe, or else we'le fetch you downe,</L>
+<L>Alas, this is but the Sauncebell, here's a Gentlewoman</L>
+<L>Will ring you another peale, come downe, I say.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Some new fortifications, looke to my doores,</L>
+<L>Put double barres, I will not have her enter,</L>
+<L>Nor any of her Tribe, they come to terrifie me?</L>
+<L>Keepe out her tongue too if you can.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>I heare you,</L>
+<L><PB REF="21"/>
+And I will send my tongue up to your worship,</L>
+<L>The Eccho of it shall flye o're the streete;</L>
+<L>My Daughter, that thou killedst with kindnesse (Iew)</L>
+<L>That thou betrayedst to death, thou double Iew,</L>
+<L>And after stol'st her body.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Iew's too good for him.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I defie you both;</L>
+<L>Thy daughter plaid the villaine and betray'd me.</L>
+<L>Betray'd my honor.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Honor, Rascall,</L>
+<L>And let that beare an action, Ile try it with thee,</L>
+<L>Honor?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Oh Reprobate!</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Thou mustie Iustice,</L>
+<L>Buy an honorable halter, and hang thy selfe.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>A worshipfull ropes end is to good for him.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Get honor that way, thou wot die a dogge else.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Come and be whipt first.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Where is her Porrion.</L>
+<STAGE>Enter Nurse and women.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Where Ile keepe it safely.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Traitor, thou shalt not keepe it.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>More of the kennell? put more bolts to'th doores there,</L>
+<L>And arme your selves, hell is broke loose upon us.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>I am glad y'are come, wele blow the house downe.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Oh Nurse, I have such cause —</L>
+</SP>
+<SP>
+<SPEAKER>Wo.</SPEAKER>
+<L>Vilaine, viper, although you had no cause, we are bound</L>
+<L>To helpe.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Yes, and beleeve, we come not here to examine,</L>
+<L>And if you please weele fire the house.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Call the Constable.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>A charitable motion, fire is comfortable.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>No, no, wele onely let him know our minds,</L>
+<L>We will commit no outrage, he's a Lawyer.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Give me my Musket.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Wheer's my daughters body,</L>
+<L>That I may bury it?</L>
+</SP>
+<SP>
+<SPEAKER>Wo.</SPEAKER>
+<L>Speake, or weele bury thee,</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Alive weele bury thee, speake old Iniquitie.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Bury him alive by all meanes for a testimony.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Their voyces make my house reele, oh for Officers,</L>
+<L><PB REF="21"/>
+I am in a dreame, thy daughters spirit</L>
+<L>Walkes a nights, and troubles all the neighbours;</L>
+<L>Goe hire a conjurer, Ile say no more.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>The Law shall say more.</L>
+</SP>
+<SP>
+<SPEAKER>Wo. and Nur.</SPEAKER>
+<L>We are witnesses,</L>
+<L>And if thou beest not hang'd —</L>
+<STAGE>Enter Lurcher, and Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Buy a Booke of good manners,</L>
+<L>A short booke of good manners.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Buy a ballad, a ballad of the maide was got with child.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>That might ha beene my case last night,</L>
+<L>Ile ha't what ere it cost me.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>A ballad of the Witches hang'd at Ludlow.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>I will have taht too;</L>
+<L>There wasan Aunt of mine, I thinke amongst e'm,</L>
+<L>I would be glad to heare her Testament.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A new booke of women.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>The thunders laid, how they stare at him.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A new booke of fooles, a strange booke,</L>
+<L>Very strange fooles.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Ile owe thee a good turne what e're thou art.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A booke of walking spirits.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>That I like not.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Nor I, they walk'd me the fooles morris.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A booke of wicked women.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Thats well thought on.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Of rude malicious women, of proud women,</L>
+<L>Of scolding women, we shall nere get in.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>A ballad of wronged Maydes.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Ile buy that.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A little, very little booke</L>
+<L>Of good and godly women, a very little one,</L>
+<L>So little, you may put it in a nutshell.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>With a small print, that no body can reade it.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Peace firra, or Ile teare your bookes.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Open the doore, and let him in, I love him.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A booke of evill Magistrates.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>I marry, dee here that Justice.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>And their eviller wives,</L>
+<L>That we are their places in their peticotes.</L>
+</SP>
+<SP>
+<PB REF="22"/>
+<SPEAKER>Iu.</SPEAKER>
+<L>Dee you heare that Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>A booke new Printed, against Playing,</L>
+<L>Dancing, Masking, May-poles; a zealous Brothers booke,</L>
+<L>And full of fables.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Another booke of women, of mad women,</L>
+<L>Women that were borne in March.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Are you got in?</L>
+<L>We would ha pull'd your knaves hide else; this fellow</L>
+<L>Was sent to abuse us, but we shall have time</L>
+<L>To talke more with this Iustice.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Farewell Madam, as you like this come visit me agen,</L>
+<L>You and your treble strings, now scold your hearts out —</L>
+</SP>
+<SP>
+<SPEAKER>Wo.</SPEAKER>
+<L>Shall he carry it thus away?</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Goe to the Judge, and what you'le have us sweare —</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>I thanke yee heartily,</L>
+<L>Ile keepe that for the last, I will goe home,</L>
+<L>And leave him to his Conscience for a while,</L>
+<L>If it sleepe long, Ile wake it with a vengeance.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Servants.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>What booke has he given thee?</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>A dainty booke, a booke of the great Navy,</L>
+<L>Of fifteene hundred shippes of Cannon proofe,</L>
+<L>Built upon Whales to keepe their Keeles from sinking;</L>
+<L>And Dragons in 'em, that spit fire ten mile;</L>
+<L>And Elephants that carry goodly castles.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Dost thou beleeve it?</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Shall we not beleeve bookes in Print?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>I have <HI>John Taylors</HI> booke of Hempeseede too,</L>
+<L>Which for two lines I hapned on by chance,</L>
+<L>I reverence.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>I prethee what are they?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>They are so put upon the time, as if</L>
+<L>He studied to answer the late Histriomastix,</L>
+<L>Talking of change and transformations,</L>
+<L>That wittily, and learnedly he bangs him,</L>
+<L>So may a Puritans ruffe, though starched in Print,</L>
+<L>Be turn'd to Paper, and a Play writ in't:</L>
+<L>A Play in the Puritans ruffe? Ile buy his Workes for't,</L>
+<L>And confute <HI>Horace</HI> with a Water Poet:</L>
+<L>What hast there, a ballad too?</L>
+</SP>
+<SP>
+<PB REF="22"/>
+<SPEAKER>2.</SPEAKER>
+<L>This? This is a peece of Poetrie indeed;</L>
+<STAGE>He sings; Iustice cries within.</STAGE>
+<L>What noise is that?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Some cry ith' streets; prethee sing on.</L>
+<STAGE>Sing againe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Agen, dost not heare? 'tis ith'house certainely?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Tis a strange noise? and has a tang o'the Iustice.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Lets see?</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter the Servants bringing in their Master bound and gag'd.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Vnty his feete, pull out his gagge, he will choake else;</L>
+<L>What desperate rogues were these.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Give him fresh aire.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I will never study bookes more;</L>
+<L>I am undone, these villaines have undone me,</L>
+<L>Rifled my Deske, they have undone me learnedly;</L>
+<L>A fire take all their bookes, Ile burne my Study:</L>
+<L>Where were you rascalls when the villaines bound me,</L>
+<L>You could not heare.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>He gave us bookes sir, dainty bookes to busie us;</L>
+<L>And we were reading in that which was the Brewhouse;</L>
+<L>A great way off, we were finging ballads too,</L>
+<L>And could not heare.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>This was a precious theefe,</L>
+<L>A subtill tricke to keepe my servants safe.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>What ha you lost fir?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>They ransack'd all before my face, and threatned</L>
+<L>To kill me, if I cough'd, they have a chaine,</L>
+<L>My rings, my boxe of casting gold, my purse too,</L>
+<L>They rob'd me miserably; but that which most grieves me,</L>
+<L>They tooke away some writings; 'twas a Rogue</L>
+<L>That knew me, and set on by the old Lady,</L>
+<L>I will indite her for't.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Shall we pursue 'em?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Runne, runne, cursed raskalls,</L>
+<L>I am out of my wits, let not a creature in,</L>
+<L>No not with necessaries.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>We shall be starv'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>Ile buy my meate at window, as they passe by;</L>
+<L>I wonot trust my Scrivenor, he has bookes too;</L>
+<L>And bread Ile ha flung up; I charge yee all</L>
+<L>Burne all the bookes i th house.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Your little Prayer booke?</L>
+</SP>
+<SP>
+<PB REF="23"/>
+<SPEAKER>Iu.</SPEAKER>
+<L>Ile never pray agen, ile have my doores</L>
+<L>Made, up nothing but walls, and thicke ones too;</L>
+<L>No sound shall tempt me agen, remember I</L>
+<L>Have forswoare bookes.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>If you should be call'd to take you oath.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I will forsweare all oathes, rather than see</L>
+<L>A thing but in the likenesse of a booke:</L>
+<L>And I were condemn'd, Ile rather chuse to hang,</L>
+<L>Than read agen; come in, and search all places,</L>
+<L>They may be about the house, were the doores lock'd?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>But the keyes in 'em, and if they be gone,</L>
+<L>They could not want wit to locke us in sir.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Never was man so miserably undone,</L>
+<L>I would lose a limbe to see their rogueships totter.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Lady and Nurse.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Thy brothers daughter, saist, and borne in Wales?</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>I have long time desir'd to see her, and I hope</L>
+<L>Your Ladiship will not be offended.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>No, no.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>I should be happy if she might be serviceable</L>
+<L>To you Madam.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Beshrow me, but at first, she tooke me much,</L>
+<L>Is she not like <HI>Maria?</HI> setting aside</L>
+<L>Her language very like her, and I love her</L>
+<L>The bettet for't, I prethee call her hither,</L>
+<L>Shee speakes feate English.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L><HI>Why,</HI> Guennith, Guennith, du hummah Guenneth;</L>
+<L>She is course Madam, after her country guise,</L>
+<L>And were she in fine cloathes —</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Ile have her hansome:</L>
+<L>What part of Wales were you borne in?</L>
+<STAGE>Enter Maria.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>In Abehundis Madams.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>She speakes that name in Welsh, which we call Breck-</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>What can you doe? nocke.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Her was toe many tings in Walls, know not the fashion in Londons; her was milke the Cowes, make seeze and butters, and spinne very well the Welsh freeze, her was Cooke to te Mou taine cots, and sing very fine prittish tunes, was mage good ales and breds, and her know to daunce on Sundayes, marge you now Madams.</P>
+</SP>
+<SP>
+<PB REF="23"/>
+<SPEAKER>La.</SPEAKER>
+<L>A pretty innocence, I doe like her infinitely, <HI>Nurse.</HI></L>
+<L>And if I live —</L>
+<STAGE>Enter Servant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Here is Mr. <HI>Hartlove,</HI> Madame, come to see you:</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Alas poore Gentleman, prethee admit him.</L>
+<STAGE>Enter Hartlove and Gent.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Madame, I am come to take my last leave.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>How sir?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Of all my home affections, and my friends,</L>
+<L>For the interest you had once in <HI>Maria,</HI></L>
+<L>I would acquaint you when I leave the kingdome.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Would there were any thing in my poore power</L>
+<L>That might divert your will, and make you happy;</L>
+<L>I am sure I have wrong'd her too, but let your pardon</L>
+<L>Assure me you are charitable; shee's dead</L>
+<L>Which makes us both sad: What doe you looke on?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>The likest face —</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Plesse us awle, why does that sentilman make such unders and mazements at her, I know her not.</P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Be not offended maid.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>How the Wench blushes, shee represents <HI>Marias</HI> losse to him.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Will the sentillman hurt her, pray you be her defences, was have mad phisnomies, is her troubled with Lunaticks in her praine pans, blesse us awle.</P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Where had you this face?</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Her faces be our none I warrant her.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I wonot hurt you, all the lineaments</L>
+<L>That built <HI>Maria</HI> up; all those springing beauties</L>
+<L>Dwell on this thing, change but her tongue, I know her:</L>
+<L>Let me see your hand.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Du Guin, was never theeves, and robberies; here is no sindge in her hands warrant her.</P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Trust me, the selfesame white,</L>
+<L>And softnesse, prethee speake our English Dialect.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Haleggs? what does her speage hard urds to her, to make poore <HI>Guennith</HI> ridicles, was no mannerly sentilman to a∣buse her.</P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>By the love,</L>
+<L>That everlasting love I bare <HI>Maria</HI></L>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>Ma.</SPEAKER>
+<P><HI>Mariai,</HI> her name was <HI>Guenith,</HI> and good names, was poore else, oman maide, her have no fine kanags to madge her tricksie, yet in her owne cuntries was held a fine ense her can tell her, and honest ense too, marg you dat now, her can keepe her little legges close enough warrant her.</P>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>How prettily this anger shewes.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>She gabbles innocently.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Madam, farewell, and all good fortune dwell w'ee,</L>
+<L>With me my owne affections; farwell maide,</L>
+<L>Faire gentle maide.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>She sighes.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Du cat a whee.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I cannot goe, theres somewhat calls me backe.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Poore <HI>Franke,</HI></L>
+<L>How gladly would I entertaine thy love,</L>
+<L>And meet thy worthy flame, but shame forbids me:</L>
+<P>If please her Ladyships dwell here with <HI>Guenneth,</HI> and learne to spinne and card <GAP DESC="illegible" REASON="missing" EXTENT="2 letters" DISP="••"/>ll, to mage flannells, and linseyes ulseis, sall tawg co'd urds to her Ladyships urships for her.</P>
+<STAGE>The teares flow from him.</STAGE>
+<L>The teares of true affection, woe is me,</L>
+<L>O cursed love that glories in maides miseries,</L>
+<L>And true mens broken hearts.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Alas I pitty him, the wench is rude, and knowes you not, forgive her.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Wyne your nyes pray you, though was porne in Walls 'mong craggy rocks, and mountains, yet heart is soft, looke you, hur can weepe too, when her see men mage prinie teares and la∣mentations.</P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>How hard she holds me?</L>
+<L>Just as <HI>Maria</HI> did, weepes the same drops,</L>
+<L>Now as I have a living soule, her sigh too;</L>
+<L>What shall I thinke, is not your name <HI>Maria,</HI></L>
+<L>If it be not, delude me with so much charity</L>
+<L>To say it is.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Vpon her life, you was mightie deale in love with some podies, your pale seekes and hollow nyes, and pantings upon her posome, know very well, because looke you, her thinke her honest sentilman, you sall call her <HI>Maria.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Good Madam, thinke not ill I am thus sawcie.</L>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>La.</SPEAKER>
+<L>Oh no sir, be you not angry with the wench.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I am most pleas'd.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Lets interrupt him, hee'le be mad our right else.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Observe a little more.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Would I could in your language beg a kisse.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>If her have necessities of a kisse, looke you, dere is one in sarities.</P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Let me suffer death,</L>
+<L>If in my apprehension, two twinnd cherries</L>
+<L>Be more a kin, than her lips to <HI>Marias;</HI></L>
+<L>And if this harsh illusion would but leave her,</L>
+<L>She were the same; good Madam, shall I have</L>
+<L>Your consent now.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>To what?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>To give this Virgin to me.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Shees not mine, this is her Kiswoman,</L>
+<L>And has more power to dispose; alas, I pitty him.</L>
+<L>Pray gentlemen prevaile with him to goe;</L>
+<L>More that I wish his comfort than his absence.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>You have beene alwayes kind to me, will you</L>
+<L>Denie me your faire Chosen.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>'Twere fit you first obtain'd her owne consent.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>He is no friend that wishes my departure,</L>
+<L>I doe not trouble you.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Tis not <HI>Maria.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Her shadow is enough, Ile dwell with that,</L>
+<L>Persue your owne wayes, shall we live together?</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>If her will come to morrow and tauge to her, her will tell her more of her meanings, and then if her be melancholy, her will sing her a Welch song too, to make her merries, but <HI>Guenneth</HI> was very honest; her was never love but one sentleman, and he was beare her great teale of goodills too, was marry one day, S. <HI>Davy</HI> her give her five paire of white gloves, if her will dance at her weddings.</P>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>All I am worth,</L>
+<L>And all my hopes, this strange voyce would forsake her,</L>
+<L>For then she shud be — prethee stay a little,</L>
+<L>Harke in thine eare, dissemble not, but tell me,</L>
+<L>And save my life; I know you are <HI>Maria:</HI></L>
+<L>Speake but as I doe ten words to confirme me;</L>
+<L><PB REF="25"/>
+You have an English soule, doe not disguise it</L>
+<L>From me with these strange accents — She pinch'd hard</L>
+<L>Againe, and figh'd.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>What ailes the Wench?</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Why, <HI>Gunith.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>She's gone too.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Come leave this dreame.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>A dreame? I thinke so;</L>
+<L>But 'twas a pleasing one, now Ile obey,</L>
+<L>And forget all these wonders, lead the way.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus Quartus.</HEAD>
+<SP>
+<STAGE>Enter Wildbraine, and Toby.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>HOnest <HI>Toby?</HI></L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Sweet Mr. <HI>Wildbraine,</HI> — I am glad I ha met weyee.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Why did my Aunt send for me?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Your Aunt's a mortall, and thinkes not on you</L>
+<L>For ought I can perceive.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Is my Cosen alive agen?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Neither, and yet we doe not heare</L>
+<L>That she's buried.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>What should make thee glad then?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>What should make me glad? have I not cause,</L>
+<L>To see your Princely body well, and walke thus,</L>
+<L>Looke blith and bonny, and your wardrobe whole still.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>The Case is cleare, and I ha found a Mine,</L>
+<L>A perfect Indie, since my Aunt casheer'd me;</L>
+<L>What think'sts of this?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Oh delicate bells.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Thou puttest me in minde,</L>
+<L>We are to ring anon, I meant to send for thee;</L>
+<L>Meete me at the old Parish Church.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Say no more.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>When thy Lady is a bed, we ha conspir'd</L>
+<L>A midnight peale for joy.</L>
+</SP>
+<SP>
+<PB REF="25"/>
+<SPEAKER>To.</SPEAKER>
+<L>If I faile hang me i'th bell-ropes.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>And how? and how does my Aunt?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>She's up to'th eares in Law;</L>
+<L>I doe so whirle her to the Counsellors chambers,</L>
+<L>And backe againe, and bounce her for more money,</L>
+<L>And too again, I know not what they doe with her,</L>
+<L>But she's the merriest thing among these Lawdrivers;</L>
+<L>And in their studies halfe a day together;</L>
+<L>If they doe get her with <HI>Magna Charta,</HI> she sweares,</L>
+<L>By all the abilitie of her old body,</L>
+<L>She will so claw the Justice, she will sell</L>
+<L>The tiles of the house she vowes, and sacke out o'th cellar</L>
+<L>(That she worships to Idolatry) but she'le hang him.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I would she could: but harke thee honest <HI>Toby,</HI></L>
+<L>If a man have a Mistresse, may we not</L>
+<L>Without my Aunts leave, borrow now and than</L>
+<L>A coach to tumble in, toward the Exchange,</L>
+<L>And so forth?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>A Mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>She may be thine when we are married.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Command, Ile carry you both in pompe;</L>
+<L>And let my Lady go a foot a Law-catching,</L>
+<L>And exercise her cornes: where is she Master <HI>Iohn?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Shat see her.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Shall we ring for her?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>And drinke her health.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Drinke stiffely for five houres.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Weele drinke fifteene.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>To night? we will ha twenty torches then,</L>
+<L>And through the streets drive on triumphantly;</L>
+<L>Triumphantly weele drive, by my Ladyes doore,</L>
+<L>As I am a Christian Coachman, I will rattle you</L>
+<L>And urine in her Porch, and she shall feare me:</L>
+<L>If you say more, I shall runne mad outright,</L>
+<L>I will drinke sacke and surfeit instantly;</L>
+<L>I know not where I am now.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Lurcher.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Hold for thy buttons sake, the knave's transported.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L><HI>Jacke Wildbraine?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Honest <HI>Tom,</HI> how thrives the fellonious world with thee now?</L>
+</SP>
+<SP>
+<PB REF="26"/>
+<SPEAKER>Lur.</SPEAKER>
+<L>You looke and talke as you were much exalted.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Thar't 'ithe right</L>
+</SP>
+<SP>
+<SPEAKER>Tom.</SPEAKER>
+<L>Ile te ll thee first,</L>
+<L>I ha shooke off my Aunt, and yet I live still,</L>
+<L>And drinke, and sing; her house had like to ha spoil'd me;</L>
+<L>I keepe no houres now;</L>
+<L>Nor neede any false key</L>
+<L>To the old womans Cabinets, I ha money</L>
+<L>Vpon my word, and pawne no oathes toth' Butler;</L>
+<L>No matrimoniall protestations;</L>
+<L>Our sacke possets to the Chambermaid,</L>
+<L>I praise my Fate, there be more wayes toth' wood <HI>Tom.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Prethee release my wonder.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Ile encrease it, wipe thine eyes,</L>
+<L>Here is a chaine worth money and some man had it,</L>
+<L>A foolish Diamond, and other trifles —</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>The very same, oh Gipsey! Infidell!</L>
+<L>All that I sweat, and ventur'd me necke for,</L>
+<L>He has got already; who would trust a strumpet.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>This? This is nothing to what I possesse</L>
+<L>At home.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What home?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>A house that shall be namelesse;</L>
+<L>The Mistresse of it mine too, such a peece</L>
+<L>For flesh and blood, added to that so loving —</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Is, shee married?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I know not, nor I care not;</L>
+<L>But such a prize, so mounting, so delicious,</L>
+<L>Thou wilt runne mad, Ile tell thee more hereafter.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Nay, prethee a word more.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I tooke no paines to finde out all this Paradise,</L>
+<L>My Destiny threw me upon't ith' darke, I found it</L>
+<L>Wanting a lodging too.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>No old acquaintance?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Never, never saw her;</L>
+<L>But these things happen not in every age,</L>
+<L>I cannot stay, If thou wilt meete anon</L>
+<L>At my owne randevow, thou knowest the Taverne,</L>
+<L>Weele sup together, after that, a company</L>
+<L>Of merry lads have made a match to ring.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>You keepe your exercise, i'the old Church?</L>
+</SP>
+<SP>
+<PB REF="26"/>
+<SPEAKER>Wi.</SPEAKER>
+<L>No other,</L>
+<L>There is no musicke to the bells, we wo'd</L>
+<L>Have bonefires if we durst, and thou wo'd come</L>
+<L>It shall cost thee nothing <HI>Tom,</HI> hang pilfering.</L>
+<L>And keepe me company, in time I may</L>
+<L>Shew thee my Wench too.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I cannot promise; but you will be there?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Weele tosse the bells, and make the steeple</L>
+<L>Rore boy, but come to supper then.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>My hand, and expect me:</L>
+<L>Yes I will come or send, and to some purpose;</L>
+<L>Art come boy?</L>
+<STAGE>Enter Boy with Gowne, Beard, and Constables staffe.</STAGE>
+<L>Excellent, Knave, how didst thou purchase these?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>The staffe I stole last night from a sleeping Constable;</L>
+<L>The rest I borrowed by my acquaintance with</L>
+<L>The Players boyes; you were best to lose no time sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>So, so, helpe boy, tis very well, doe I not looke</L>
+<L>Like one that breakes the Kings peace with authoritie?</L>
+<L>You know your charge, prepare things hansomely,</L>
+<L>My diligent boy, and leave me to my office.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>There wants nothing already; but I fly sir.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Now Fortune prove no slut, and Ile adore thee.</L>
+<L><HI>Within. Ser.</HI> Whose there?</L>
+<STAGE>Knocks.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A friend wo'd speake with Master Iustice.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Who are you?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I am the Constable.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>My Master is not at leasure to heare businesse.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>How? Not at leasure to doe the king service;</L>
+<L>Take heede what you say sir; I know his worship,</L>
+<L>If he knew my businesse, would no excuse.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>You must goe to another Iustice, Ile assure</L>
+<L>My Master is not well in health.</L>
+</SP>
+<SP>
+<SPEAKER>Lur</SPEAKER>
+<L>I know not,</L>
+<L>But if your worshipfull be not at leasure</L>
+<L>To doe him selfe a benefit, I am gone sir,</L>
+<L>An infinite benefit, and the State shall thanke him for;</L>
+<L>Thanke him, and thinke on him too; I am an Officer,</L>
+<L>And know my place, but I doe love the Justice;</L>
+<L>I honor any authoritie above me:</L>
+<L><PB REF="27"/>
+Beside, he is my neighbour, and I worship him.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>You have no bookes uor ballads Mr. Constable</L>
+<L>About you?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What should I doe with bookes does it become</L>
+<L>A man of my place to understand such matters?</L>
+<L>Pray call your Master, if he please to follow me,</L>
+<L>I shall discover to him such a plot,</L>
+<L>Shall get him everlasting fame, Ile be hang'd for't</L>
+<L>And he be not knighted instantly, and for reward</L>
+<L>Have some of the malefactors lands Ile bring him too;</L>
+<L>But I cannot dally time.</L>
+<STAGE>Within.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Who's that?</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>A Constable sir, would speake about some businesse,</L>
+<L>He sayes, will bring you fame, and mighty profit.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Please your worship, come downe, Ile make you happy;</L>
+<L>The notabl'st peece of villany I have in hand sir,</L>
+<L>And you shall find it out; I ha made choyce</L>
+<L>To bring your worship to the first knowledge, and</L>
+<L>Thanke me, as you finde the good on't afterwards.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>What is it? Treason?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis little better, I can tell you, I have lodg'd</L>
+<L>A crew of the most ranke and desperate villaines:</L>
+<L>They talke of robberies, and wayes they did 'em;</L>
+<L>And how they left men bound in their studies.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>With bookes and ballads?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>That sir? that, and murders,</L>
+<L>And thousand knaveries more, tha're very rich sir,</L>
+<L>In money, jewels, chaines,, and a hundred more</L>
+<L>Devices.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Happy, happy Constable, I meet yee</L>
+<L>At the backe doore, get ready knaves.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Not a man I beseech you,</L>
+<L>I have privately appointed strength about me,</L>
+<L>They cannot start, your men would breede suspition;</L>
+<L>All my desire is you would come alone;</L>
+<L>That you might have the hope of the enterprise,</L>
+<L>That you might heare e'm first, and then proceed sir,</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I come, I come.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis very well.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<PB REF="27"/>
+<SPEAKER>Iu.</SPEAKER>
+<L>Keepe all my doores fast, tis something late.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>So, so, and please your worship Ile direct you.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>My Master stayes, I doubt his lime-twigges catch not,</L>
+<L>If they doe, alls provided; but I all</L>
+<L>This while forget my owne state, faire <HI>Maria</HI></L>
+<L>Is certainely alive, I met her in</L>
+<L>Another habit, with her Nurse, 'twas she:</L>
+<L>There is some tricke in't, but when this is over,</L>
+<L>Ile finde it out, this project for the Usurer</L>
+<L>May have good effect; however' twill be sport</L>
+<L>To mortifie him a little;</L>
+<L>He's come without him:</L>
+<L>Have you fail'd sir?</L>
+<STAGE>Enter Lurcher.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Prosper'd? my little ingineere; away,</L>
+<L>He is ith' next roome, be not you seene sirra.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>The pitfalls ready, never Justice</L>
+<L>Was caught in such a nooze, ere he get out,</L>
+<L>Hee shall runne through a scouring purgatory,</L>
+<L>Shall purge him to the quicke, tis night already.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Algripe and Lurcher.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Come softly, yet sir softly, are you not weary?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Tha'st brought me into a melancholy place,</L>
+<L>I see no creature.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>This is, sir, their denne</L>
+<L>Where they suppose themselves secure, I am saint,</L>
+<L>With making hast; but I must be thus troubled,</L>
+<L>And therefore never goe without a cordiall;</L>
+<L>Without this I should die;</L>
+<L>How it refreshes me</L>
+<L>Already? wilt please your worship? I might have had</L>
+<L>The manners to halet you drinke before me;</L>
+<L>Now am I lusty.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Thas a good taste.</L>
+<STAGE>Seemes to drinke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Taste? how dee finde the vertue, nay sir spare it not:</L>
+<L>My wife has the receit, dos it not stirre</L>
+<L>Your worships body? when you come to examine,</L>
+<L>'Till make you speake like Thunder.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Hoy he.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>It workes already.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Is there never a chaire, I was wearier than I thought,</L>
+<L><PB REF="28"/>
+But who shall we have to take 'em, Mr. Constable?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Let me alone, when I but give the watch word</L>
+<L>We will have men enough to surprise an army.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I begin to be sleepie; what, hast a chaire?</L>
+<STAGE>Enter another with a chaire.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>They doe not dreame of us, tis early rising;</L>
+<L>Care, care, and earely rising, common wealths men</L>
+<L>Are ever subjects to the nods; sit downe sir,</L>
+<L>A short nap is not much amisse; so, so, he's fast;</L>
+<L>Fast as a fish ith' net, he has winking powder</L>
+<L>Shall worke upon him to our wish, remove him,</L>
+<L>Nay, we may cut him into collops now</L>
+<L>And he n're feele; have you prepar'd the vault sirra?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Yes, yes, sir, every thing ins place.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>When we ha plac'd him, you an I boy</L>
+<L>Must about another project hard by, his potion</L>
+<L>Will binde him sure enough till we returne,</L>
+<L>This villany weighes mainely, but wele purge yee.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Bells ring. Enter Sexton.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>Now for mine eares, mine eares be constant to me;</L>
+<L>They ring a wager, and I must deale justly, ha boyes.</L>
+<STAGE>Enter Lurcher and Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Dost here 'em, harke, these be the Ringers?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Are you sure the same?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Or my directions faile;</L>
+<L>The coast is cleare:</L>
+<L>How the bells goe? how daintily they tumble?</L>
+<L>And me thinkes they seeme to say; Fine fooles Ile fit you.</L>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>Excellent agen, good boyes — oh that was nought.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Who's that?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Be you conceal'd by any moanes yet, harke,</L>
+<L>They stop, I hope theile too't agen, close sir.</L>
+<STAGE>Enter Wildbraine, Toby, Ringers.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>A palpable knocke.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>'Twas none.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Be Iudg'd by the Sexton then,</L>
+<L>If I have eares.</L>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>A Knocke, a knocke, a grosse one.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Carman, your gallon of wine, you ring most impiously,</L>
+<L>Art thou of the worshipfull company of the knights oth' West,</L>
+<L><PB REF="28"/>
+And handle a bell with no more dexterity;</L>
+<L>You thinke you are in Thames street</L>
+<L>Justling the carts: oh a cleane hands a jewell.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Good speede to your good exercise.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Y' are welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I come sir from a gentleman, and neighbour hard by,</L>
+<L>One that loves your musicke well.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>He may have more on't,</L>
+<L>Handle a bell, as you were haling timber;</L>
+<L>Grosse, grosse, and base, absurd.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Ile mend it next peale.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>To intreate a knowledge of you, whether it be</L>
+<L>By the Eare you ring thus cunningly or by the Eye;</L>
+<L>For to be plaine, he has laid ten pounds upon't.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>But which way has he layd?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>That your Eare guides you,</L>
+<L>And not your Eye.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Has won, has won, the Ear's our onely instument:</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>But how shall we be sure on't.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Put all the lights out, to what end serve our Eyes then,</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>A plaine Case.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>You say true, tis a fine cunning thing to ring by th'eare sure:</L>
+<L>And can you ring ith' darke so?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>All night long boy.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>'Tis wonderfull, let this be certaine gentlemen,</L>
+<L>And halfe his wager he allowes among yee;</L>
+<L>Ist possible you should ring so?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Possible, thou art a child, Ile ring when I am dead drunke;</L>
+<L>Out with the lights, no twinckling of a candle,</L>
+<L>I know my rope to, as I know my nose,</L>
+<L>And can bang it soundly ith' darke, I warrant you.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Come lets confirme him straight and win the wager.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Let me heare to strengthen me;</L>
+<L>And when y'ave rungile bring the money to you.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>So so, follow 'em;</L>
+<L>They shall have a coole reward, one hath gold of mine,</L>
+<L>Good store in's pocket,</L>
+<STAGE>Ring.</STAGE>
+<L>But this will be reveng'd in a short warning.</L>
+<L><PB REF="29"/>
+They are at it Iustily; hay, how wantonly</L>
+<L>They ring away their cloaths, how it delights me;</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Here, here, sir.</L>
+<STAGE>Enter Boy with cloaths.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Hast <HI>Wildbraines?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>His whole case sir; I felt it out, and by the guards</L>
+<L>This should be the Coachmans, another suit too.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Away Boy, quickly now to the Usurer,</L>
+<L>His houre to wake approaches.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>That once finish'd,</L>
+<L>Youle give me leave to play sir: here they come.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Wildbraine, Toby, and Ringers.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I am monstrous wearie,</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Fie, how I sweat? Reach me my cloake to cover me,</L>
+<L>I runne to oyle like a Propise; 'twas a brave peale.</L>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>Let me light my candle first, then Ile waite on you:</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>A very brave peale.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Carman, you came in close now.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Sure 'tis past midnight.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>No stirring in the streets I heare,</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Walke further, was that a pillar? tis harder than my nose.</L>
+<L>Where's the Boy promis'd us five pound?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Roome, I sweat still; come, come, my cloake,</L>
+<L>I shall take cold</L>
+<STAGE>Enter Sexton.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>Where lies it?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Here, here, and all our cloathes.</L>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>Where, where?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Ith' corner.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Is thy candle blinde too, give me the bottle,</L>
+<L>I can drinke like a Fish now, like an Elephant.</L>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>Here are the corners, but here are no cloathes;</L>
+<L>Yes, here is a cuffe.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>A cuffe? give me the candle.</L>
+<L>Cuffes wo'not cover me — I smell a knavery.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Ist come to a cuffe? my whole suit turned to a button?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Now am I as cold againe as though 'twere Christmas;</L>
+<L>Cold with my feare, Ile never ring by the eare more.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>My new cloathes vanish'd?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>My all cloathes <HI>Toby.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Here's none.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Not one of my dragones wings left to adorne me</L>
+<L>Have I muted all my feathers?</L>
+</SP>
+<SP>
+<PB REF="29"/>
+<SPEAKER>Wi</SPEAKER>
+<L>Cheated by the eare; a plot to put out the candle;</L>
+<L>I could be mad; my chaine, my rings, the gold, the gold.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>The cold, the cold I cry, and I cry truely,</L>
+<L>Not one sleeve, nor a cape of a cloake to warme me.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>What miserable fooles were we?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>We had e'en best, gentlemen,</L>
+<L>Every man chuse his rope againe, and fasten it,</L>
+<L>Aud take a short turne to a better fortune</L>
+<L>To be bauds to our miseries, and put our owne lights out?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Preethee Sexton lets have a fire at thy house,</L>
+<L>A good fire, weele pay thee some way for't, I am stone cold.</L>
+</SP>
+<SP>
+<SPEAKER>Sex.</SPEAKER>
+<L>Alas I pitty you, come quickly gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Sure I ha beene in a dreame, I had no mistresse,</L>
+<L>Nor gold, nor cloathes, but am a ringing rascall.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Fellowes in affliction, lets take hands all,</L>
+<L>Now are we fit for tumblers.</L>
+<STAGE>Enter Lurcher and others, bringing in Algripe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>So, so, presently his sleepe will leave him.</L>
+<L>And wonder seize upon him,</L>
+<L>Bid 'em within be ready.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>What sound's this?</L>
+<L>What horrid dinne? what dismall place is this?</L>
+<L>I never saw before, and now behold it;</L>
+<L>But by the halfe light of a lampe, that burnes here:</L>
+<L>My spirits shake, tremble through my body;</L>
+<L>Helpe, helpe,</L>
+<STAGE>Enter two Furies with blacke tapers.</STAGE>
+<L>Mercy, protect me, my soule quakes,</L>
+<L>What dreadfull apparitions! how I shudder!</L>
+</SP>
+<SP>
+<SPEAKER>1, 2 and Fu.</SPEAKER>
+<L>Algripe.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>What are you?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>We are helhounds helhounds, that have commission</L>
+<L>From the Prince of darkenesse,</L>
+<L>To fetch thy blacke soule to him.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Am I not alive still?</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Thou art, but we have brought thee instruments</L>
+<L>Will quickly rid thy miserable life, Stabbe,</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Poyson.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Hang thy selfe, this choyse is offer'd</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Thou canst not hope for heaven; thy base soule is</L>
+<L>Lost to all hope of mercy.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Quickly, quickly.</L>
+<L>The torments coole</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>And all the Fiends expect thee.</L>
+<L><PB REF="30"/>
+Come with us to that pit of endlesse horrour,</L>
+<L>Or we will force thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>Oh, oh oh.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Grones are too late, sooner the ravisher,</L>
+<L>Whose soule is hurl'd into eternall frost,</L>
+<L>Stung with the force of twenty thousand Winters</L>
+<L>To punish the distempers of his blood,</L>
+<L>Shall hope to get from thence, then thou avoid</L>
+<L>The certaintie of meeting hell where he is.</L>
+<L>Shall murderers be there for ever dying,</L>
+<L>Their soules shot through with adders, torne on Engines,</L>
+<L>Dying as many deaths for killing one,</L>
+<L>Could any imagination number them,</L>
+<L>As there be moments in eternity:</L>
+<L>And shall that Justice spare thee, that hast slaine,</L>
+<L>Murdered by thy extortion so many?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Oh, oh.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Doe execution quickly, or weele carry thee alive to hell.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Gently, gentle devills, doe not force me</L>
+<L>To kill my selfe, nor doe not you do't for me;</L>
+<L>Oh let me live, Ile make amends for all.</L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Tell us of thy repentance? perjur'd villaine,</L>
+<L>Pinch off his flesh, he must be whipt, salted and whipt.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Oh misery of miseries!</L>
+</SP>
+<SP>
+<SPEAKER>Recorders 1 and 2</SPEAKER>
+<L>Teare his accursed limbs, to hell with him, ha.</L>
+<L>A mischiefe on that innocent face, away.</L>
+<STAGE>Creepes in</STAGE>
+<STAGE>Enter Boy like an Angell.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Malicious furies hence, choake not the seedes</L>
+<L>Of holy penitence.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>This must be an Angell,</L>
+<L>How at his presence the fiends crawle away!</L>
+<L>Here is some light of mercy.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Be thou wise,</L>
+<L>And entertaine it, wretched, wretched man;</L>
+<L>What poore defence hath all thy wealth beene to thee?</L>
+<L>What sayes thy conscience now?</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>Be my good Angell, here I promise thee,</L>
+<L>To become honest, and renounce all villany;</L>
+<L>Enjoyne me any pennance, ile build Churches;</L>
+<L><PB REF="30"/>
+A whole city of Hospitalls.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Take heede,</L>
+<L>There is no dallying, nor are these impos'd.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Name any thing within my power, sweet Angell;</L>
+<L>And if I doe not faithfully performe it,</L>
+<L>Then whip me every day, burne me each minute,</L>
+<L>Whole yeares together, let me freeze to Isicles.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I'th number of thy soule oppressions;</L>
+<L>Thou hast undone a faithfull gentleman,</L>
+<L>By taking forfeit of his land.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>Young <HI>Lurcher,</HI></L>
+<L>I doe confesse.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>He lives most miserable,</L>
+<L>And in despaire may hang or drowne himselfe;</L>
+<L>Prevent his ruine, or his blood will be</L>
+<L>More sinne in thy account: hast thou forgotten</L>
+<L>He had a sister?</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I doe well remember it.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Couldst thou for Mammon breake thy solemne vow.</L>
+<L>Made once to that unhappy maide, that weepes</L>
+<L>A thousand teares a day for thy unkindnesse,</L>
+<L>Was not thy faith contracted, and thy heart?</L>
+<L>And couldst thou marry another?</L>
+</SP>
+<SP>
+<SPEAKER>Ju.</SPEAKER>
+<L>But she's dead,</L>
+<L>And I will make true satisfaction.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>What doe I instance these, that hast beene false</L>
+<L>To all the world.</L>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<L>I know it, and will henceforth</L>
+<L>Practise repentance, doe not frowne sweete Angell;</L>
+<L>I will restore all morgages, forsweare</L>
+<L>Abominable Usury, live chaste;</L>
+<L>For I have beene wanton in my shroud, my age;</L>
+<L>And if that poore innocent maide, I so abus'd</L>
+<L>Be living, I will marry her, and spend</L>
+<L>My dayes to come religiously.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I was commanded but a messenger</L>
+<L>To tell thee this, and rescue thee from those,</L>
+<L>Whose malice would have dradg'd thee quicke to hell,</L>
+<L>If thou abuse this mercy and repent not,</L>
+<L><PB REF="31"/>
+Double damnation will expect thee for it;</L>
+<L>But if thy life be vertuous hereafter,</L>
+<L>A blessednesse shall reward thy good example,</L>
+<L>Thy fright hath much diftracted thy weake senses,</L>
+<L>Drinke of this violl, and renew thy spirits,</L>
+<L>I ha done my office, thinke on't and be happy.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>So, so, He gapes already, now he's fast;</L>
+<L>Thou hast acted rarely; but this is not all;</L>
+<L>First, helpe to convey him out o'th vault.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>You will dispense with me now, as you promis'd sir.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>We will make shift without thee, tha'st done well,</L>
+<L>By our device this bandoge may scape hell.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Lady, Nurse, Maria.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Didst thinke <HI>Maria,</HI> this poore outside, and</L>
+<L>Dissembling of thy voyce could hide thee from</L>
+<L>A mothers searching eye, though too much feare,</L>
+<L>Lest thou we'rt not the same, might blind a lover</L>
+<L>That thought thee dead too; oh my deare <HI>Maria,</HI></L>
+<L>I hardly kept my joyes in from betraying thee:</L>
+<L>Welcome againe to life, we shall find out</L>
+<L>The mystery of thy absence; conceale</L>
+<L>Thy person still, for <HI>Algripe</HI> must not know thee:</L>
+<L>And exercise this pretty dialect;</L>
+<L>If there be any course in Law to free thee,</L>
+<L>Thou shalt not be so miserable; be silent</L>
+<L>Good Nurse.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>You shall not neede to feare me Madam,</L>
+<L>I doe not love the usuring Iew so well;</L>
+<L>Beside, 'twas my tricke to disguise her so.</L>
+</SP>
+<SP>
+<SPEAKER>La,</SPEAKER>
+<L>Be not dejected <HI>Mall.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Your care may comfort me;</L>
+<L>But I despaire of happinesse.</L>
+<L><HI>Hartlove,</HI> I dare not see him</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Wele withdraw.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>I shall but grieve to see his passions too,</L>
+<L>Since there's no possibility to relieve him.</L>
+<STAGE>Enter Hartlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>The worlds a Labyrinth, where unguided men</L>
+<L><PB REF="31"/>
+Walke up and downe to finde their wearinesse;</L>
+<L>No sooner have we measur'd with much toile</L>
+<L>One crooked path, with hope to gaine our freedome,</L>
+<L>But it betrayes us to a new affliction;</L>
+<L>What a strange mockerie will man become</L>
+<L>Shortly to all the creatures?</L>
+<L>Oh <HI>Mariah!</HI></L>
+<L>If thou beest dead, why does thy shadow fright mee I</L>
+<L>Sure tis because I live; were I but certaine</L>
+<L>To meete thee in one grave, and that our dust</L>
+<L>Might have the priviledge to mixe in silence,</L>
+<L>How quickly should my soule shake off this burden!</L>
+<STAGE>Enter Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Thus farre my wishes have successe, Ile lose</L>
+<L>No time: Sir, are not you call'd Mr. <HI>Hartlove?</HI></L>
+<L>Pardon my rudenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>What does that concerne</L>
+<L>Thee Boy, tis a name cannot advantage thee,</L>
+<L>And I am weary on't.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Had you conceal'd,</L>
+<L>Or I forgot it sir, so large were my</L>
+<L>Directions, that you could not speake this language,</L>
+<L>But I should know you by your sorrow.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Thou</L>
+<L>Wert well inform'd, it seemes; well, whats your businesse I</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I come to bring you comfort.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Is <HI>Maria</HI></L>
+<L>Alive agen? thats somewhat, and yet not</L>
+<L>Enough to make my expectation rise, to</L>
+<L>Past halfe a blessing, since we cannot meete</L>
+<L>To make it up a full one; th'art mistaken.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>When you have heard me, you'le thinke otherwise;</L>
+<L>In vaine I should report <HI>Maria</HI> living:</L>
+<L>The comfort that I bring you must depend</L>
+<L>Vpon her death.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Th'art a dessembling boy,</L>
+<L>Some one has sent thee to mocke me, though my anger</L>
+<L>Stoope not to punish thy greene yeares, unripe</L>
+<L>For malice; did I know what person sent thee</L>
+<L>To tempt my sorrow thus, I should revenge it.</L>
+</SP>
+<SP>
+<PB REF="32"/>
+<SPEAKER>Boy.</SPEAKER>
+<L>Indeede I have no thought so uncharitable,</L>
+<L>Nor am I sent to grieve you, let me suffer</L>
+<L>More punishment than ever boy deserv'd,</L>
+<L>If you doe finde me false; I serve a Mistresse</L>
+<L>Would rather dye than play with your misfortunes;</L>
+<L>Then good sir heare me out.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Who is your Mistresse?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Before I name her, give me some incouragement,</L>
+<L>That you receive her message, she is one</L>
+<L>That is full acquainted with your misery,</L>
+<L>And can bring such a portion of her sorrow</L>
+<L>In every circumstance so like your owne,</L>
+<L>You'le love and pitty her, and wish your griefes</L>
+<L>Might marry one anothers.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Thou art wilde.</L>
+<L>Canst thou bring comfort from so sad a creature?</L>
+<L>Her miserable story can at best,</L>
+<L>But swell my Volume, large enough already.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>She was late belov'd, as you were, promis'd faith,</L>
+<L>And marriage, and was worthy of a better</L>
+<L>Than he, that stole <HI>Marias</HI> heart.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>How's that?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Just as <HI>Maria</HI> dealt with your affection;</L>
+<L>Did he that married her, deale with my Mistresse,</L>
+<L>When carelesse both of honor and Religion;</L>
+<L>They cruelly gave away their hearts to strangers.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Part of this truth I know, but prethee boy</L>
+<L>Proceede to that thou cam'st for; thou didst promise</L>
+<L>Something, thy language cannot hitherto</L>
+<L>Encourage me to hope for.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>That I come to,</L>
+<L>My Mistresse thus unkindly dealt with all,</L>
+<L>You may imagine, wanted no affliction;</L>
+<L>And had ere this, wept her selfe drie as marble,</L>
+<L>Had not your fortune come to her reliefe,</L>
+<L>And twinne to her owne sorrow brought her comfort.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Could the condition of my fate so equall,</L>
+<L>Lessen her sufferings?</L>
+</SP>
+<SP>
+<PB REF="32"/>
+<SPEAKER>Boy.</SPEAKER>
+<L>I know not how</L>
+<L>Companions in griefe sometimes diminish,</L>
+<L>And make the pressure easie, by degrees:</L>
+<L>She threw her troubles off, remembring yours,</L>
+<L>And from her pitty of your wrongs, there grew</L>
+<L>Affection to your person thus increas'd,</L>
+<L>And with it, confidence, that those whom Nature</L>
+<L>Had made so even in their weight of sorrow,</L>
+<L>Could not but love as equally one another,</L>
+<L>Were things but well prepar'd, this gave her boldnesse</L>
+<L>To employ me thus farre.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>A strange message boy.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>If you incline to meete my Mistresse love,</L>
+<L>It may beget your comforts; besides that,</L>
+<L>Tis some revenge, that you above their scorne</L>
+<L>And pride, can laugh at them, whose perjurie</L>
+<L>Hath made you happy, and undone themselves.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Have you done boy.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Onely this little more;</L>
+<L>When you but see, and know my Mistresse well,</L>
+<L>You will forgive my tediousnesse, shee's faire,</L>
+<L>Faire as <HI>Maria</HI> was.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Ile heare no more,</L>
+<L>Goe foolish boy, and tell thy fonder Mistresse</L>
+<L>She has no second faith to give away;</L>
+<L>And mine; was given to <HI>Maria,</HI> though her death,</L>
+<L>Allow me freedome, see the Picture of her,</L>
+<STAGE>Enter Maria, Nurse.</STAGE>
+<L>I would give ten thousand Empires for the substance;</L>
+<L>Yet for <HI>Marias</HI> sake, whose divine Figure</L>
+<L>That rude frame carries, I will love this counterfeit</L>
+<L>Above all the world, and had thy Mistresse all</L>
+<L>The grace and blossome of her sexe; now she</L>
+<L>Is gone, that was a walking Spring of beauty,</L>
+<L>I would not looke upon her.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Sir, your pardon,</L>
+<L>I have but done a message; as becomes</L>
+<L>A servant, nor did she on whose commands</L>
+<L>I gladly waited, bid me urge her love</L>
+<L><PB REF="33"/>
+To your disquiet, she would chide my deligence</L>
+<L>If I should make you angry.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Pretty Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Indeede I feare I have offended you:</L>
+<L>Pray if I have, enjoyne me any penhance for it;</L>
+<L>I have perform'd one duty, and could as willingly</L>
+<L>To purge my fault, and shew I suffer with you,</L>
+<L>Plead your cause to another.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>And Ile take thee</L>
+<L>At thy word boy, thou hast a moving language,</L>
+<L>That pretty innocent, Coppie of <HI>Maria</HI></L>
+<L>Is all I love, I know not how to speake,</L>
+<L>Winne her to thinke well of me, and I will</L>
+<L>Reward thee to thy wishes.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I undertake</L>
+<L>Nothing for gaine, but since you have resolv'd</L>
+<L>To love no other, Ile be faithfull to you,</L>
+<L>And my propheticke thoughts bid me already</L>
+<L>Say I shall prosper.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Thou wert sent to blesse me.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Pray give us opportunity.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Be happy.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Hee's gone.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>With your faire leave Mistresse</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Have you pusinesse with her pray you?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I have a message from a gentleman,</L>
+<L>Please you vouchsafe your eare more private.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>You shall have my absence Neece.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<P>Was the sentleman afeard to declare his matters openly, here was no bodies was not very honest, if her like not her er∣rands the petter, was wist to keept her preathes to coole her porridges, can tell her that now for aule her private hearings, and tawgings.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>You may, if please you, finde another language,</L>
+<L>And with lesse paines be understood.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>What is her meaning?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Come, pray speake your owne English.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Have boyes lost her i<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>ts and memories? plesse us aule.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I must be plaine then, come, I know you are</L>
+<L><HI>Maria,</HI> this thinne vaile cannot obscure you:</L>
+<L><PB REF="33"/>
+Ile tell the world you live, I have not lost yee,</L>
+<L>Since first with griese and shame to be surpris'd,</L>
+<L>A violent trance tooke away shew of life;</L>
+<L>I could discover by what accident</L>
+<L>You were convey'd away at midnight, in</L>
+<L>Your coffin, could declare the place, and minute,</L>
+<L>When you reviv'd, and what you have done since as perfectly —</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Alas, I am betraid to new misfortunes.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>You are not for my knowledge, Ile be dumbe</L>
+<L>For ever, rather than be such a traytor;</L>
+<L>Indeede I pitty you, and bring no thoughts,</L>
+<L>But full of peace, call home your modest blood,</L>
+<L>Pale hath too long usurp'd upon your face;</L>
+<L>Thinke upon love agen, and the possession</L>
+<L>Of full blowne joyes, now ready to salute you.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>These words undoe me more than my owne grieses.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I see how feare would play the tyrant with you,</L>
+<L>But Ile remove suspition; have you in</L>
+<L>Your heart an entertainement for his love,</L>
+<L>To whom your Virgin faith made the first promise?</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>If thou mean'st <HI>Hartlove,</HI> thou dost wound me still,</L>
+<L>I have no life without his memory,</L>
+<L>Nor with it any hope to keepe it long,</L>
+<L>Thou seest I walke in darkenesse like a theefe,</L>
+<L>That feares to see the world in his owne shape,</L>
+<L>My very shadow frights me, tis a death</L>
+<L>To live thus, and not looke day in the face,</L>
+<L>Away, I know thee not.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>You shall hereafter know, and thanke me Lady,</L>
+<L>Ile bring you a discharge at my next visit,</L>
+<L>Of all your feares, be content faire <HI>Maria,</HI></L>
+<L>Tis worth your wonder</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Impossible.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Be wise and silent,</L>
+<L>Dresse your selfe, you shall be what you wish.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Doe this, and be</L>
+<L>My better Angell.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>All your cares on me.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<PB REF="34"/>
+<HEAD>Actus Quintus.</HEAD>
+<SP>
+<STAGE>Enter Lurcher, and Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I Must applaud thy diligence.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>It had beene nothing</L>
+<L>To ha left him in the Porch; I call'd his Servants,</L>
+<L>With wonders they acknowledg'd him, I pretended</L>
+<L>It was some spice sure of the falling sicknesse,</L>
+<L>And that was charitie to bring him home;</L>
+<L>They rub'd and chaf'd him, ply'd him with strong water,</L>
+<L>Still he was senselesse, clamors could not wake him;</L>
+<L>I wished 'em then get him to bed, they did so,</L>
+<L>And almost smothr'd him with rugges and pillowes;</L>
+<L>And cause they should have no cause to suspect me,</L>
+<L>I watch'd them till he wak'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>'Twas excellent.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>When his time came to yawne, and stretch himselfe,</L>
+<L>I bid em not be hastie to discover</L>
+<L>How he was brought home, his eyes fully open,</L>
+<L>With trembling he began to call his servants,</L>
+<L>And told 'em he had seene strange visions,</L>
+<L>That should convert him from his Heathen courses;</L>
+<L>They wondred, and were silent, there he preach'd</L>
+<L>How sweet the aire of a contented conscience</L>
+<L>Smelt in his nose now, ask'd 'em all forgivenesse</L>
+<L>For their hard pasture since they liv'd with him;</L>
+<L>Bid 'em beleeve, and fetch out the cold sur-loine:</L>
+<L>Pierce the strong beere and let the neighbours joy in't:</L>
+<L>The conceal'd Muskadine should now lye open</L>
+<L>To every mouth; that he would give toth' poore,</L>
+<L>And mend their wages; that his doores should be</L>
+<L>Open to every miserable sutor.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What said his servants then?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>They durst not speake,</L>
+<L>But blest themselves, and the strange' meanes that had</L>
+<L>Made him a Christian in this over-joy,</L>
+<L>I tooke my leave, and bad 'em say their prayers,</L>
+<L><PB REF="34"/>
+And humor him, lest he turned Iew agen.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Enough, enough. Whose this?</L>
+<STAGE>Enter Toby.</STAGE>
+<L>Tis one of my ringers; stand close, my Ladies Coachman.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Buy a mat for a bed, buy a mat;</L>
+<L>Would I were at racke and manger among my horses;</L>
+<L>We have devided the Sextons</L>
+<L>Houshould stuffe amongst us, one has the rugge, and hee's</L>
+<L>Turn'd Irish, another has a blanket, and he must begge in't,</L>
+<L>The sheetes serve another for a frocke, and with the bed-cord,</L>
+<L>He may passe for a Porter, nothing but the mat would fall</L>
+<L>To my share, which with the helpe of a tune and a hassocke</L>
+<L>Out oth' Church may disguise me till I get home;</L>
+<L>A pox a bell-ringing by the Eare, if any man take me</L>
+<L>At it agen, let him pull mine to the Pillory, I could wish</L>
+<L>I had lost mine Eares, so I had my cloathes agen;</L>
+<L>The weather w'onot allow this fashion,</L>
+<L>I doe looke for an ague besides.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>How the Raskall shakes?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>Here are company:</L>
+<L>Buy a mat for a bed, but a mat,</L>
+<L>A hassocke for your feet, or a Pisse cleane and sweete;</L>
+<L>Buy a mat for a bed, by a ma:</L>
+<L>Ringing, I renounce thee, Ile never come to Church more.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>You with a mat?</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>I am call'd.</L>
+<L>If any one should offer to buy my mat, what a case were I in?</L>
+<L>Oh that I were in my oate tubbe with a horse-loafe,</L>
+<L>Something to hearten me:</L>
+<L>I dare not heare 'em;</L>
+<L>Buy a mat for a bed, buy a mat:</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Hee's deafe.</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>I am glad I am: buy a mat for a bed.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>How the Raskall sweats? What a pickle he's in?</L>
+<L>Every streete he goes through will be a new torment,</L>
+</SP>
+<SP>
+<SPEAKER>To.</SPEAKER>
+<L>If ever I meet at midnight more a jangling:</L>
+<L>I am cold, and yet I drop; buy a mat for a bed buy a mat.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>He has punishment enough.</L>
+<STAGE>Enter Wildbraine.</STAGE>
+<L>Who's this, my tother youth? he is turn'd Beare.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I am halfe a fraid of my selfe: this poore shift</L>
+<L><PB REF="35"/>
+I got oth' Sexton to convey me hansomely</L>
+<L>To some harbour, the wench will hardly know me;</L>
+<L>They'le take me for some Watchman oth' parish;</L>
+<L>I ha ne're a penny left me, thats one comfort;</L>
+<L>And ringing has begot a monstrous stomacke,</L>
+<L>And that's another mischiefe, I were best goe home,</L>
+<L>For every thing will scorne mee in this habit.</L>
+<L>Besides, I am so full of these young bell-ringers;</L>
+<L>If I get in adoores, not the power oth' countrey,</L>
+<L>Nor all my Aunts curses shall disembogue me.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Bid her come hither presently, — hum, tis he.</L>
+<STAGE>Exit. Ser.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wil.</SPEAKER>
+<L>I am betraid to one that will eternally laugh at me,</L>
+<L>Three of these rouges will Jeere a horse to death.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Tis Mr. <HI>Wildbraine</HI> sure, and yet me thinkes</L>
+<L>His fashion's strangely altred; sirra watchman,</L>
+<L>You rugamuffin, turne you louzie beares skinne:</L>
+<L>You with the bed-rid bill.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Ha's found me out;</L>
+<L>There's no avoiding him, I had rather now</L>
+<L>Be arraign'd at Newgate for a robberie</L>
+<L>Than answer to his Articles: your will sir,</L>
+<L>I am in haste.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Nay then I will make bold wo'yee;</L>
+<L>A Watchman and asham'd to shew his countenance,</L>
+<L>His face of authoritie; I have seene that physiognomy;</L>
+<L>Were you never in prison for pilfering?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>How the rouge worries me.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Why may not this</L>
+<L>Be the villaine rob d my house last night,</L>
+<L>And walkes disguis'd in this malignant rugge,</L>
+<L>Arm'd with a tunne of Iron, I will have you</L>
+<L>Before a Magistrate.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>What will become of me?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>What art thou? speake.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I am the wandring Iew, and please your worship.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>By your leave Rabbi, I will shew you then</L>
+<L>A Synagogue, iclip't Bridewell, where you</L>
+<L>Under correction may rest your selfe;</L>
+<L>You have brought a bill to guard you, there be dog whips</L>
+<L><PB REF="35"/>
+To firke such rugg'd curres, whips without bells</L>
+<L>Indeed.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Bells.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>How he sweets?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I must be knowne, as good at first; now, jeere on,</L>
+<L>But doe not anger me too impudently,</L>
+<L>The Rabbi will be mov'd then.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>How? <HI>Iacks Wildebraim</HI></L>
+<L>What time oth' Moone man, ha? what strange bells</L>
+<L>Hast in thy braines.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>No more bells,</L>
+<L>No more bells, they ring backwards.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Why, where's the Wench, the blessing that befell thee?</L>
+<L>The unexpected happinesse? wher's that <HI>Jacke?</HI></L>
+<L>Where are thy golden dayes?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>It was his tricke as sure as I am lousie,</L>
+<L>But how to be reveng'd —</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Fie, fie, <HI>Iacke,</HI></L>
+<L>Marry a Watchmans widow in thy young dayes,</L>
+<L>With a revenew of old Iron, and a rugge,</L>
+<L>Is this the Paragon, the dainty Peece,</L>
+<L>The delicate divine Rogue?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Tis euough I am undone,</L>
+<L>Mark'd for a misery, and so leave prating;</L>
+<L>Give me my bill,</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>You neede not aske your Taylors,</L>
+<L>Vnlesse you had better linings; it may be</L>
+<L>To avoid suspition you are going thus</L>
+<L>Disguis'd to your faire Mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Mocke no further,</L>
+<L>Or as I live Ile lay my bill o'thy pate,</L>
+<L>Ile take a Watchmans fury into my fingers,</L>
+<L>To ha no judgement to distinguish persons</L>
+<L>And knocke thee downe.</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>Come, I ha done, and now</L>
+<L>Will speake some comfort to thee, I will leade thee</L>
+<L>Now to my Mistresse hither to conceal'd;</L>
+<L>She shall take pitty on thee too, she loves</L>
+<L>A hansome man; thy miserie invites me</L>
+<L>To doe thee good, Ile not be jealous <HI>Iacke;</HI></L>
+<L>Her beauty shall commend it selfe; but doe not</L>
+<L>When I have brought you into grace supplant me.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Art thou in earnest, by this cold Iron —</L>
+</SP>
+<SP>
+<SPEAKER>Lu.</SPEAKER>
+<L>No oathes, I am not costive; here she comes:</L>
+<STAGE>Enter Mistresse.</STAGE>
+<L>Sweet heart, I have brought a gentleman,</L>
+<L><PB REF="36"/>
+A friend of mine to be acquainted with you,</L>
+<L>He's other than he seemes; why d'ee stare thus?</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>Oh sir, forgive me, I have done you wrong.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Whats the matter? didst ever see her af re <HI>Iacke?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Prethee doe what thou wo't wo'mee, if thou hast</L>
+<L>A minde, hang me up quickly.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Never despaire, Ile give thee my share rather,</L>
+<L>Take her, I hope she loves thee at first sight,</L>
+<L>She has Peticoates will patch thee up a suit;</L>
+<L>I resigne all, onely Ile keepe these trifles,</L>
+<L>I tooke some paines for 'em, I take it <HI>Iacke;</HI></L>
+<L>What thinke you pinke of beauty, come let me</L>
+<L>Counsell you both to marry, she has a trade,</L>
+<L>If you have audacitie to hooke in Gamsters:</L>
+<L>Let's ha a wedding, you will be wondrous rich;</L>
+<L>For she is impudent, and thou art miserable;</L>
+<L>'Twill be a rare match.</L>
+</SP>
+<SP>
+<SPEAKER>Mi.</SPEAKER>
+<L>As you are a man forgive me, Ile redeeme all.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>You wo'not to these geere of marriage then?</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>No, no, I thanke you <HI>Tom,</HI> I can watch for</L>
+<L>A groat a night, and be every gentlemans fellow.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Rise, and be good, keepe home and tend your businesse.</L>
+<STAGE>Exit. Mi.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Thou hast don't to purpose, give me thy hand <HI>Tom;</HI></L>
+<L>Shall we be friends? thou see'st what state I am in,</L>
+<L>Ile undertake this pennance to my Aunt,</L>
+<L>Just as I am, and openly Ile goe;</L>
+<L>Where, if I be received againe for currant,</L>
+<L>And fortune smile once more —</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Nay, nay, I me satisfied, so farewell honest louzie <HI>Iacke.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>I cannot helpe it, some men meet with strange destinies.</L>
+<L>If things goe right thou maist be hang'd, and I</L>
+<L>May live to see't, and purchase thy apparrell:</L>
+<L>So farewell <HI>Tom,</HI> commend me to thy Polcat.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Lady, Nurse, Servant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Now that I have my counsell ready, and my cause ripe;</L>
+<L>The Judges all inform'd of the abuses;</L>
+<L>Now that he should be gone.</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>No man knowes whether,</L>
+<L><PB REF="36"/>
+And yet they talke he went forth with a Constable</L>
+<L>That told him of strange businesse, that would bring him</L>
+<L>Money and lands, and heaven knowes what; but they</L>
+<L>Have search'd, and can not finde out such an Officer:</L>
+<L>And as a secret, Madam, they told your man</L>
+<L><HI>Nicholas,</HI> whom you sent thither as a spie,</L>
+<L>They had a shrewd suspition 'twas the devill</L>
+<L>I'th likenesse of a Constable, that has tempted him</L>
+<L>By this time to strange things; there have beene men</L>
+<L>As rich as he, have met convenient rivers,</L>
+<L>And so forth; many trees have borne strange fruits:</L>
+<L>De'e thinke he has not hang'd himselfe?</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>If he be hang'd, who ha's his goods?</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>They are forfeited, they say.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>He has hang'd himselfe for certaine then,</L>
+<L>Onely to cosen me of my Girles portion.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>Very likely.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Or did not the Constable carry him to some prison?</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>They thought on that too, and search'd every where.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>He may be close for treason, perhaps executed.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>Nay, they did looke among the quarters too,</L>
+<L>And muster'd all the bridge-house for his night-cap.</L>
+<STAGE>Enter Servant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Madam, here is the gentleman agen.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>What gentleman?</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>He that lov'd my young Mistresse.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Alas, tis <HI>Heartlove,</HI> 'twill but feede his melancholy,</L>
+<L>To let him see <HI>Maria,</HI> since we dare not</L>
+<L>Yet tell the world she lives; and certainely,</L>
+<L>Did not the violence of h<GAP DESC="illegible" REASON="blotted" EXTENT="2 letters" DISP="••"/> passion blind him,</L>
+<L>He would see past her borrowed tongue and habit.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>Please you entertaine him a while Madam,</L>
+<L>Ile cast about for some thing with your daughter.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Do what thou wot, pray Mr. <HI>Hartlove</HI> enter.</L>
+<STAGE>Enter Hartlove.</STAGE>
+<STAGE>Exit. Ser. &amp; Nurse severally.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Madam, I come to aske your gentle pardon.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Pardon, for what? you ne're offended me,</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Yes, if you be the mother of <HI>Maria.</HI></L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>I was her mother, but that word is cancel'd,</L>
+<L><PB REF="37"/>
+And buried with her in that very minute</L>
+<L>Her soule fled from her, we lost both our names</L>
+<L>Of mother and of daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Alas, Madam,</L>
+<L>If your relation did consist but in</L>
+<L>Those naked termes, I had a title nearer,</L>
+<L>Since love unites more than the tie of blood;</L>
+<L>No matter for the empty voyce of mother;</L>
+<L>Your nature still is left, which in her absence</L>
+<L>Must love <HI>Maria,</HI> and not see her ashes</L>
+<L>And memory polluted.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>You amaze me, by whom?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>By me, I am the vile profaner.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Why doe you speake thus indiscreetly sir?</L>
+<L>You ever honor'd her.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I did alive,</L>
+<L>But since she died, I ha beene a villaine to her.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>I doe beseech you say not so; all this</L>
+<L>Is but to make me know, how much I sinn'd</L>
+<L>In forcing her to marry.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Doe not mocke me,</L>
+<L>I charge you by the Virgin you have wept for;</L>
+<L>For I have done an impious act against her,</L>
+<L>A deede able to fright her from her sleepe,</L>
+<L>And through her marble, oft to be reveng'd;</L>
+<L>A wickednesse, that if I should be filent,</L>
+<L>You as a witnesse must accuse me for't.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Was I a witnesse?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Yes, you knew I lov'd</L>
+<L><HI>Maria</HI> once; or grant, you did but thinke so,</L>
+<L>By what I ha profest, or she has told you,</L>
+<L>Was't not a fault unpardonable in me,</L>
+<L>When I should drop my teares upon her grave.</L>
+<L>Yes, and proose sufficient.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>To what?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>That I forgetfull of my fame and vowes</L>
+<L>To faire <HI>Maria,</HI> ere the worme could pierce</L>
+<L>Her tender shroud, had chang'd her for an other;</L>
+<L>Did you not blush to see me turne a Rebell?</L>
+<L>So soone to court a shadow, a strange thing,</L>
+<L>Without a name? Did you not curse my levitie,</L>
+<L>Or thinke upon her death with the lesse sorrow</L>
+<L>That she had scap'd a punishment more killing,</L>
+<L><PB REF="37"/>
+Oh how I shame to thinke on't.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Sir in my</L>
+<L>Opinion, 'twas an argument of love</L>
+<L>To your <HI>Maria,</HI> for whose sake you could</L>
+<L>Affect one that but carried her small likenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>No more, you are too charitable, but</L>
+<L>I know my guilt, and will from henceforth never</L>
+<L>Change words with that strange maide, whose innocent face</L>
+<L>Like your <HI>Marias</HI> wonne so late upon me,</L>
+<L>My passions are corrected, and I can</L>
+<L>Looke on her now, and woman kinde, without</L>
+<L>Love in a thought; 'tis thus, I came to tell you.</L>
+<L>If after this acknowledgement, youl'e be</L>
+<L>So kinde to shew me in what filent grave</L>
+<L>You have dispos'd your daughter, I will aske</L>
+<L>Forgivenesse of all her dust, and never leave,</L>
+<L>Till with the loud confession of my shame</L>
+<L>I wake her ghost, and that pronounce my pardon:</L>
+<L>Will you deny this favour? then farewell,</L>
+<L>Ile never see you more: ha!</L>
+<STAGE>Enter Nurse, Maria in her owne apparell, after some shew of wonder he goes toward her.</STAGE>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Be not deluded sir, upon my life</L>
+<L>This is the soule whom you but thought <HI>Maria</HI></L>
+<L>In my daughters habit; what did you meane Nurse?</L>
+<L>I knew she would but cozen you, is she not like now?</L>
+<L>One dew unto another is not nearer.</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>She thinkes she is a gentlewoman;</L>
+<L>And that imagination has so taken her,</L>
+<L>She scornes to speake, how hansomely she carries it,</L>
+<L>As if she were a well bread thing, her body?</L>
+<L>And I warrant you, what lookes?</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Pray be not foolish.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I disturbe no body, speake but halfe a word</L>
+<L>And I am satisfied, but what needs that?</L>
+<L>Ile sweare tis she.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>But doe not, I beseech you,</L>
+<L>For trust me sir, you know not what I know.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Peace then,</L>
+<L><PB REF="38"/>
+And let me pray, she holds up her hands with me.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>This will betray all.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Love ever honor'd,</L>
+<L>And ever young, thou Soveraigne of all hearts,</L>
+<L>Of all our sorrowes, the sweet ease,</L>
+<STAGE>She weepes now,</STAGE>
+<L>Does she still cozen me?</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<L>You will see anon,</L>
+<L>'Twas her desire, expect the issue Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>My soules so bigge, I cannot pray; tis she,</L>
+<L>I will goe neerer.</L>
+<STAGE>Enter Algripe, Lurcher, Boy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Here's Mr. <HI>Algripe</HI> and other strangers Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Here good Lady,</L>
+<L>Vpon my knees I aske thy worships pardon;</L>
+<L>Heres the whole summe I had with thy faire daughter;</L>
+<L>Would she were living, I might have her peace too,</L>
+<L>And yeeld her up againe to her old liberty:</L>
+<L>I had a wife before, and could not marry;</L>
+<L>My pennance shall be on that man that honor'd her</L>
+<L>To conferre some land.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>This is incredible.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Tis truth.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Doe you know me sir?</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Ha, the gentleman I deceiv'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>My name is <HI>Lurcher.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>'Shat have thy morgage.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I ha that already, no matter for the deede</L>
+<L>If you release it.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Ile do't before thy witnesse;</L>
+<L>But where's thy sister? if she live I am happy, though</L>
+<L>I conceale our contract, which was</L>
+<L>Stolne from me with the evidence of this land.</L>
+<STAGE>The Boy goes to Maria and gives her a paper; she wonders, and smiles upon Hartlove, he amaz'd approaches her: afterward she shewes it her mother, and then gives it to Hartlove.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Your daughter smiles.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>I hope she lives, but where, I cannot tell sir.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Even here, and please you sir.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>How?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Nay, tis she;</L>
+<L>To worke thy faire way, I preserved you brother,</L>
+<L>That would have lost me willingly, and serv'd yee</L>
+<L>Thus like a Boy; I serv'd you faithfully,</L>
+<L>And cast your plots but to preserve your credit;</L>
+<L>Your foule ones I diverted to faire uses;</L>
+<L><PB REF="38"/>
+So farre as you would hearken to my counsell;</L>
+<L>That all the world may know how much you owe me.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>Welcome entirely, welcome my deare <HI>Alathe,</HI></L>
+<L>And when I lose the agen, blessing forsake me:</L>
+<L>Nay, let me kisse thee in these cloathes.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>And I too,</L>
+<L>And blesse the time I had so wise a sister, wer't thou the little theefe?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>I stole the contract, I must confesse,</L>
+<L>And kept it to my selfe, it most concerne me.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Contracted? this distroies his after marriage.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Dare you give this hand</L>
+<L>To this young gentleman, my heart goes with it.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L><HI>Maria</HI> alive I how my hearts exalted, tis my duty;</L>
+<L>Take her <HI>Franke Hartlove,</HI> take her; and all joyes</L>
+<L>With her; besides some land to advance her Joynture.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>What I have is your owne, and blessings crowne yee.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Give me roome,</L>
+<L>And fresh aire to confider, gentlemen,</L>
+<L>My hopes are too high.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Be more temperate,</L>
+<L>Or Ile be Welsh againe.</L>
+</SP>
+<SP>
+<SPEAKER>Al.</SPEAKER>
+<L>A day of wonder.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Lady, your love, I ha kept my word; there was</L>
+<L>A time, when my much sufferings made me hate you,</L>
+<L>And to that end I did my best to crosse you:</L>
+<L>And fearing you were dead I stole your Coffin,</L>
+<L>That you might never more usurpe my office:</L>
+<L>Many more knacks I did, which at the Weddings</L>
+<L>Shall be told of as harmelesse tales.</L>
+<STAGE>Enter Wildbrains. Shout within.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Hallow your throates a peeces, I am at home;</L>
+<L>If you can roare me out againe —</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>What thing is this?</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>A continent of fleas: roome for the Pageant;</L>
+<L>Make roome asore there; your kinsman Madam.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>My kinsman? let me wonder!</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Do, an Ile wonder too, to see this company</L>
+<L>At peace one with another; tis not worth</L>
+<L><PB REF="39"/>
+Your admiration, I was never dead yet;</L>
+<L>Ye're merry Aunt, I see, and all your company:</L>
+<L>If yee be not, Ile foole up, and provoke yee;</L>
+<L>I will doe any thing to get your love againe:</L>
+<L>Ile forsweare midnight Tavernes and remptations;</L>
+<L>Give good example to your Groomes, the maides</L>
+<L>Shall goe to bed and take their rest this yeare;</L>
+<L>None shall appeare with blisters in their bellies.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>And when you will foole againe, you may goe ring.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Madam, have mercy.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Your submission sir,</L>
+<L>I gladly take, we will</L>
+<L>Enquire the reason of this habit afterwards;</L>
+<L>Now you are soundly sham'd, well wi restoore you:</L>
+<L>Wheres <HI>Toby?</HI></L>
+<L>Wheres the Coachman?</L>
+</SP>
+<SP>
+<SPEAKER>Nur.</SPEAKER>
+<L>Hee's a bed, Madam,</L>
+<L>And has an ague, he sayes.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Ile be his Physitian.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>We must a foote then.</L>
+</SP>
+<SP>
+<SPEAKER>Lur.</SPEAKER>
+<L>Ere the Priest ha done</L>
+<L><HI>Toby</HI> shall waite upon you with his Coach,</L>
+<L>And make your Flanders Mares dance backe agen we'yee,</L>
+<L>I warrant you Madam you are mortified,</L>
+<L>Your sute shall be granted too.</L>
+</SP>
+<SP>
+<SPEAKER>Wi.</SPEAKER>
+<L>Make, make roome afore there.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Home forward with glad hearts, home child.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>I waite you.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>On joyfully, the cure of all our griefe,</L>
+<L>Is owing to this pretty little Theese.</L>
+<STAGE>Exeunt Omnes.</STAGE>
+</SP>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="39"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

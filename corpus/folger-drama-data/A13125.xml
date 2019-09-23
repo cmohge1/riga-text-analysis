@@ -1,0 +1,5005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-03-03</DATE>
+<RESPSTMT>
+<NAME>Olivia Bottum</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked <SUP>s</SUP>. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Converted136 $-groups to GAP DESC="illegible" RESP="apex". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Took songs out of Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE 2003-03-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A13125">
+<STC T="S">23420</STC>
+<BIBNO T="umi">99852810</BIBNO>
+<VID>18160</VID>
+</IDG>
+<GROUP>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>AGLAURA.</P>
+<P>LONDON, Printed by <HI>Iohn Haviland</HI> for <HI>Thomas Walkley,</HI> and are to be sold at his shop at the Signe of the Flying Horse betweene York-house and Britaines Burse. 1638.</P>
+</DIV1>
+<DIV1 TYPE="imprimatur">
+<PB REF="2"/>
+<P><HI>Aprilis</HI> 18. 1638.</P>
+<P>Imprimatur, MATTH. CLAY.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="2"/>
+<HEAD>PROLOGVE.</HEAD>
+<LG>
+<L>I'Ve thought upon't; and cannot tell which way</L>
+<L>Ought I can say now, should advance the Play.</L>
+<L>For Playes are either good, or bad; the good,</L>
+<L>(If they doe beg) beg to be understood.</L>
+<L>And in good faith, that has as bold a sound,</L>
+<L>As if a beggar should aske twentie pound.</L>
+<L>—Men have it not about them:</L>
+<L>Then (Gentlemen) if rightly understood,</L>
+<L>The bad doe need lesse Prologue than the good:</L>
+<L>For if it chance the Plot be lame, or blinde,</L>
+<L>Ill cloath'd, deform'd throughout, it needs must finde</L>
+<L>Compassion,—It is a beggar without Art:—</L>
+<L>But it fals out in penny worths of Wit,</L>
+<L>As in all bargaines else. Men ever get</L>
+<L>All they can in; will have London measure,</L>
+<L>A bandfull over in their verie pleasure.</L>
+<L>And now yee have't; hee could not well deny'ee,</L>
+<L>And I dare sweare hee's scarce a saver by yee.</L>
+</LG>
+<LG>
+<HEAD>Prologue to the Court.</HEAD>
+<L>THose common passions, hopes, and feares, that still,</L>
+<L>The Poets first and then the Prologues fill</L>
+<L>In this our age, hee that writ this, by mee,</L>
+<L>Protests against as modest foolerie.</L>
+<L>Hee thinks it an odd thing to be in paine,</L>
+<L>For nothing else, but to be well againe.</L>
+<L>Who writes to feare is so; had hee not writ;</L>
+<L>You <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ere had been the Iudges of his wit;</L>
+<L>And when hee had, did hee but then intend</L>
+<L>To please himselfe, hee sure might have his end</L>
+<L>Without th'expence of hope, and that hee had</L>
+<L>That made this Play, although the Play be bad.</L>
+<L>Then Gentlemen be thriftie, save your doomes</L>
+<L>For the next man, or the next Play that comes;</L>
+<L>For smiles are nothing, where men doe not care,</L>
+<L>And frownes as little, where they need not feare.</L>
+</LG>
+<LG>
+<HEAD>To the King.</HEAD>
+<L>THis (Sir) to them, but unto Majestie.</L>
+<L>All hee has said before, hee does denie.</L>
+<L>Yet not to Majestie: that were to bring</L>
+<L>His feares to be, but for the Queene and King,</L>
+<L>Not for your selves; and that hee dares not say:</L>
+<L>Y'are his Soveraignes another way:</L>
+<L>Your soules are Princes, and you have as good</L>
+<L>A title that way, as yee have by blood</L>
+<L>To governe, and here your powers more great</L>
+<L>And absolute, than in the royall Seat.</L>
+<L>There men dispute, and but by Law obey,</L>
+<L>Here is no Law at all, but what yee say.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="3"/>
+<HEAD>Scena Persia.</HEAD>
+<LIST>
+<ITEM><HI>KING,</HI> In love with <HI>Aglaura.</HI></ITEM>
+<ITEM><HI>THERSAMES,</HI> Prince, in love with <HI>Aglaura.</HI></ITEM>
+<ITEM><HI>ORBELLA,</HI> Queene, at first Mistresse to <HI>Ziriff:</HI> in love with <HI>Ariaspes.</HI></ITEM>
+<ITEM><HI>ARIASPES,</HI> Brother to the King.</ITEM>
+<ITEM><HI>ZIRIFF,</HI> Otherwayes <HI>Sorannez</HI> disguised, Captaine of the Guard, in love with <HI>Orbella,</HI> brother to <HI>Aglaura.</HI></ITEM>
+<ITEM><HI>JOLAS,</HI> A Lord of the Councell, seeming friend to the Prince, but a Traytour, in love with <HI>Semanthe.</HI></ITEM>
+<ITEM><HI>AGLAURA,</HI> In love with the Prince, but nam'd Mistresse to the King.</ITEM>
+<ITEM><HI>ORSAMES,</HI> A young Lord antiplatonique; friend to the Prince.</ITEM>
+<ITEM><HI>PHILAN,</HI> The same.</ITEM>
+<ITEM><HI>SEMANTHE,</HI> In love with <HI>Ziriff;</HI> platonique.</ITEM>
+<ITEM><HI>ORITHIE,</HI> In love with <HI>Thersames.</HI></ITEM>
+<ITEM><HI>PASITHAS,</HI> A faithfull servant.</ITEM>
+<ITEM><HI>JOLINAS, Aglaura's</HI> waiting-woman.</ITEM>
+<ITEM>COURTIERS.</ITEM>
+<ITEM>HUNTSMEN.</ITEM>
+<ITEM>PRIEST.</ITEM>
+<ITEM>GUARD.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="3"/>
+<HEAD>AGLAURA.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>ACTUS I.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENA I.</HEAD>
+<STAGE><HI>Enter</HI> JOLAS, JOLINA.</STAGE>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>MArried? and in <HI>Diana's</HI> Grove!</L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>So was th'appointment, or my Sense deceiv'd me.</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>Married!</L>
+<L>Now by those Powers that tye those prettie knots,</L>
+<L>'tis verie fine, good faith 'tis wondrous fine:</L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>What is, Brother?</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>Why? to marrie Sister—</L>
+<L>t'injoy 'twixt lawfull and unlawfull thus</L>
+<L>a happinesse, steale as 'twere ones owne;</L>
+<L><HI>Diana's</HI> Grove, sayest thou?—<HI>Scratcheth his head.</HI></L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>That's the place; the hunt once up, and all</L>
+<L>ingag'd in the sport, they meane to leave</L>
+<L>the company, and steale unto those thickets,</L>
+<L>where, there's a Priest attends them;</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>And will they lye together, think'st thou?</L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>Is there distinction of sex thinke you?</L>
+<L>or flesh and bloud?</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>True; but the King, Sister!</L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>But love, Brother!</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>Thou sayest well;</L>
+<L>'tis fine, 'tis wondrous fine:</L>
+<L><HI>Diana's</HI> grove—</L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>Yes, <HI>Diana's</HI> grove,</L>
+<L>but brother if you should speake of this now,—</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>Why thou know'st a drowning man holds not a thing so fast:</L>
+<L><HI>Sema<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>he!</HI> she shuns me too:</L>
+</SP>
+<STAGE>Enter <HI>Semanthe,</HI> she sees <HI>Jolas,</HI> and goes in agen.</STAGE>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>The wound festred sure!</L>
+<L>the hurt the boy gave her, when first</L>
+<L>shee look'd abroad into the world, is not yet cur'd.</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>What hurt?</L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>Why, know you not</L>
+<L>shee was in love long since with young <HI>Zorannes,</HI></L>
+<L>(<HI>Aglaura's</HI> brother,) and the now Queenes betroth'd?</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>Some such slight Tale I've heard.</L>
+</SP>
+<SP>
+<SPEAKER>JOLIN.</SPEAKER>
+<L>Slight? she yet does weepe, when she but heares him nam'd,</L>
+<L>and tels the prettiest and the saddest stories</L>
+<L>of all those civill wars, and those Amours,</L>
+<L>That, trust me, both my Lady and my selfe</L>
+<L>turne weping Statues still.</L>
+</SP>
+<SP>
+<SPEAKER>JOLAS,</SPEAKER>
+<L>Pish, 'tis not that.</L>
+<L>'Tis <HI>Ziriff,</HI> and his fresh glories here</L>
+<L>have robb'd me of her.</L>
+<L>Since he thus appear'd in Court,</L>
+<L>my love has languish'd worse than Plants in drought.</L>
+<L>But time's a good Physician: come, lets in:</L>
+<L>the King and Queene by this time are come forth.</L>
+</SP>
+<STAGE><PB N="2" REF="4"/>
+Exeunt.</STAGE>
+<STAGE>Enter Serving-men to <HI>Ziriff.</HI></STAGE>
+<SP>
+<SPEAKER>1 SERV.</SPEAKER>
+<L>Yonder's a crowd without, as if some strange sight</L>
+<L>were to be seene to day here.</L>
+</SP>
+<SP>
+<SPEAKER>2 SERV.</SPEAKER>
+<L>Two or three with Carbonadoes afore in stead of faces</L>
+<L>mistooke the doore for a breach, and at the opening of it,</L>
+<L>are striving still which should enter first.</L>
+</SP>
+<SP>
+<SPEAKER>3 SERV.</SPEAKER>
+<L>Is my Lord busie?</L>
+</SP>
+<STAGE>(Knocks.)</STAGE>
+<STAGE>Enter <HI>Ziriff</HI> as in his Studie.</STAGE>
+<SP>
+<SPEAKER>1 SERV.</SPEAKER>
+<L>My Lord, there are some Souldiers without—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Well, I will dispatch them presently.</L>
+</SP>
+<SP>
+<SPEAKER>2 SERV.</SPEAKER>
+<L>Th'Embassadours from the Cadusians too—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Shew them the Gallerie.</L>
+</SP>
+<SP>
+<SPEAKER>3 SERV.</SPEAKER>
+<L>One from the King—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Againe? I come, I come.</L>
+<STAGE>Exeunt Serving-men.</STAGE>
+<STAGE><HI>Ziriff</HI> solus.</STAGE>
+<L><HI>Gre<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>nesse,</HI> thou vainer shadow of the Princes beames,</L>
+<L>begot by meere reflection, nourish'd in extreames;</L>
+<L>first taught to creepe, and live upon the glance,</L>
+<L>poorely to fare, till thine owne proper strength</L>
+<L>bring thee to surfet of thy selfe at last.</L>
+<L>How dull a Pageant, would this States-play seeme</L>
+<L>to mee now; were not my love and my revenge</L>
+<L>mixt with it?—</L>
+<L>Three tedious Winters have I waited here,</L>
+<L>like patient Chymists blowing still the coales,</L>
+<L>and still expecting, when the blessed houre</L>
+<L>would come, should make me master of</L>
+<L>the Court <HI>Elixar,</HI> Power, for that turnes all:</L>
+<L>'tis in projection now; downe, sorrow, downe,</L>
+<L>and swell my heart no more, and thou wrong'd ghost</L>
+<L>of my dead father, to thy bed agen,</L>
+<L>and sleepe securely;</L>
+<L>it cannot now be long, for sure <HI>Fate</HI> must,</L>
+<L>as't has beene cruell, so, a while be just.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter King and Lords, the Lords intreating for Prisoners.</STAGE>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>I say they shall not live; our mercie</L>
+<L>would turne sinne, should we but use it er'e:</L>
+<L>Pittie, and Love, the bosses onely be</L>
+<L>of government, merely for shew and ornament.</L>
+<L>Feare is the bit that mans proud will restraines,</L>
+<L>and makes its vice its vertue—See it done.</L>
+<STAGE>Enter to them Queene, <HI>Aglaura,</HI> Ladies, the King addresses himselfe to <HI>Aglaura.</HI></STAGE>
+<L>So early, and so curious in your dresse, (faire Mistresse?)</L>
+<L>these prettie ambushes and traps for hearts</L>
+<L>set with such care to day, looke like designe:</L>
+<L>speake, Lady, is't a massacre resolv'd?</L>
+<L>is conquering one by one growne tedious sport?</L>
+<L>or is the number of the taken such,</L>
+<L>that for your safetie you must kill out-right?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Did none doe greater mischiefe (Sir) than I,</L>
+<L>heav'n would not much be troubled with sad storie,</L>
+<L>nor would the quarrell man has to the Starres</L>
+<L>be kept alive so strongly.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>When hee does leave't</L>
+<L>woman must take it up, and justly too;</L>
+<L><PB REF="4"/>
+for robbing of the sex and giving all to you.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Their weaknesses you meane, and I confesse, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>The greatest subjects of their power or glorie.</L>
+<L>Such gentle rape thou act'st upon my soule,</L>
+<L>and with such pleasing violence dost force it still;</L>
+<L>that when it should resist, it tamely yeilds,</L>
+<L>making a kinde of haste to be undone,</L>
+<L>as if the way to victorie were losse,</L>
+<L>and conquest came by overthrow.</L>
+</SP>
+<STAGE>Enter an Expresse delivering a Packet upon his knee.</STAGE>
+<STAGE>The King reads.</STAGE>
+<SP>
+<SPEAKER>QU.</SPEAKER>
+<L>Prettie!</L>
+<STAGE>The Queene looking upon a flower in one of the Ladies heads.</STAGE>
+<L>Is it the child of nature, or of some faire hand?</L>
+</SP>
+<SP>
+<SPEAKER>LA.</SPEAKER>
+<L>'Tis as the beautie Madam of some faces,</L>
+<L>Arts issue onely.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Thersames,</L>
+<L>This concernes you most, brought you her picture?</L>
+</SP>
+<SP>
+<SPEAKER>EXP.</SPEAKER>
+<L>Something made u<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> for her in haste I have.</L>
+</SP>
+<STAGE>Presents the Picture.</STAGE>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>If she does owe no part of this faire dower</L>
+<L>unto the Painter, she is rich enough.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>A kinde of merrie sadnesse in this face</L>
+<L>becomes it much.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>There is indeed, <HI>Aglaura,</HI></L>
+<L>a prettie sullennesse drest up in smiles,</L>
+<L>that sayes this beautie can both kill, and save.</L>
+<L>How like you her <HI>Thersames?</HI></L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>As well as any man can doe a house</L>
+<L>by seeing of the portall, here's but a face,</L>
+<L>and faces (Sir) are things I have not studied;</L>
+<L>I have my dutie, and may boldly sweare,</L>
+<L>what you like best will ever please me most.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Spoke like <HI>Thersames,</HI> and my sonne,</L>
+<L>come! the day holds faire,</L>
+<L>let all the Hunts-men meet us in the vale,</L>
+<L>we will uncouple there.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Ariaspes:</HI> solus stayes behinde.</STAGE>
+<SP>
+<SPEAKER>ARIASP.</SPEAKER>
+<L>How odd a thing a croud is unto me!</L>
+<L>sure nature intended I should be alone,</L>
+<L>had not that old doting man-mid-wife <HI>Time</HI></L>
+<L>slept, when he should have brought me forth, I had</L>
+<L>beene so too—</L>
+<STAGE>Studies and scratches his head.</STAGE>
+<L>To be borne neere, and onely neere a crowne—</L>
+</SP>
+<STAGE>Enter <HI>Jolas.</HI></STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>How now my Lord?</L>
+<L>what? walking o'th'tops of Pyramids?</L>
+<L>whispering your selfe away</L>
+<L>like a deny'd lover? come! to horse, to horse,</L>
+<L>and I will shew you streight a sight shall please you</L>
+<L>more than kinde lookes from her you dote upon</L>
+<L>after a falling out.</L>
+</SP>
+<SP>
+<SPEAKER>ARIASP.</SPEAKER>
+<L>Prithee what is't?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Ile tell you as I goe.—</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Hunts-men hollowing and whooping.</STAGE>
+<SP>
+<SPEAKER>HUNT.</SPEAKER>
+<L>Which way? which way?</L>
+</SP>
+<STAGE>Enter <HI>Thersames, Aglaura</HI> muffled.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>This is the grove, 'tis somewhere here within.—</L>
+</SP>
+<STAGE><PB N="4" REF="5"/>
+Exeunt.</STAGE>
+<STAGE><HI>Enter dogging of them,</HI> Ariaspes, Jolas.</STAGE>
+<SP>
+<SPEAKER><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>.</SPEAKER>
+<L>Gently! Gently!</L>
+</SP>
+<STAGE>Enter <HI>Orsames, Philan,</HI> a Huntsman, two Courtiers.</STAGE>
+<SP>
+<SPEAKER>HUNTS.</SPEAKER>
+<L>No hurt, my Lord, I hope.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>None, none,</L>
+<L>Thou wouldst have warranted it to another,</L>
+<L>if I had broke my neck:</L>
+<L>what? do'st thinke my horse and I shew tricks?</L>
+<L>that which way soever he throwes me</L>
+<L>like a Tumblers boy I must fall safe?</L>
+<P>was there a bed of roses there? would I were Eunuch if I had not as lief h'a falne in the state, as where I did, the ground was as hard, as if it had been pav'd with Pla∣tonicke Ladies hearts, and this unconscionable fellow askes whether I have no hurt; where's my horse?</P>
+</SP>
+<SP>
+<SPEAKER>1 COURT.</SPEAKER>
+<L>Making love to the next mare I thinke.</L>
+</SP>
+<SP>
+<SPEAKER>2 COURT.</SPEAKER>
+<L>Not the next I assure you,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> gallop't away, as if all the spurs i'th' field</L>
+<L>were in his sides.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Why there's it: the jade's in the fashion too.</L>
+<L>Now h'as done me an injurie, he will not come neere me.</L>
+<L>Well when I hunt next, may it be upon a starv'd cow,</L>
+<L>without a saddle too.</L>
+<P>And may I fall into a saw-pit, and not be taken up, but with suspition of having beene private, with mine owne beast there. Now I better consider on't too, Gentle∣men, 'tis but the same thing we doe at Court; here's everie man striving who shall be formost, and hotly pursuing of what he seldome overtakes, or if he does, it's no great matter.</P>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<P>He that's best hors'd (that is best friended) gets in soonest, and then all hee has to doe is to laugh at those that are behind. Shall we help you my Lord?—</P>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Prithee doe—stay!</L>
+<L>To be in view, is to be in favour,</L>
+<L>is it not?</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Right,</L>
+<P>and he that has a strong faction against him, hunts upon a cold sent, and may in time come to a losse.</P>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<P>Here's one rides two miles about, while another leapes a ditch and is in be∣fore him.</P>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Where note the indirect way's the nearest.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Good againe—</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<P>And here's another puts on, and fals into a quagmire, (that is) followes the Court till he has spent all (for your Court quagmire is want of money) there a man is sure to stick, and then not one helps him out, if they doe not laugh at him.</P>
+</SP>
+<SP>
+<SPEAKER>1 COURT.</SPEAKER>
+<P>What thinke you of him, that hunts after my rate and never sees the Deere?</P>
+</SP>
+<SP>
+<SPEAKER>2 COURT.</SPEAKER>
+<P>Why hee is like some young fellow, that followes the Court, and never sees the King.</P>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>To spurre a horse till he is tir'd, is</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>To importune a friend till he be wearie of you.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>For then upon the first occasion y'are throwne off, as I was now.</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>This is nothing to the catching of your horse <HI>Orsames.</HI></L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<P>Thou say'st true, I thinke he is no transmigrated Philosopher, and there∣fore not likely to be taken with moralls.</P>
+<P>Gentlemen—your help, the next I hope will bee yours, and then 'twill bee my <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>urne.—</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter againe married, <HI>Ther sames, Aglaura,</HI> Priest.</STAGE>
+<SP>
+<SPEAKER>THERS.</SPEAKER>
+<L>Feare not my Deare, if when Loves diet</L>
+<L><PB N="5" REF="5"/>
+was bare lookes and those stolne too,</L>
+<L>he yet did thrive! what then</L>
+<L>will he doe now? when everie night will be</L>
+<L>a feast, and everie day fresh revelrie.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Will he not surfet, when he once shall come</L>
+<L>to grosser fare (my Lord) and so grow sicke,</L>
+<L>and Love once sicke, how quickly will it dye?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Ours cannot; 'tis as immortall as the things</L>
+<L>that elemented it, which were our soules:</L>
+<L>nor can they ere impaire in health, for what</L>
+<L>these holy rites doe warrant us to doe,</L>
+<L>more than our bodies would for quenching thirst.</L>
+<L>Come let's to horse, we shall be mist,</L>
+<L>for we are envies marke, and Court eyes carrie farre.</L>
+<L>Your prayers and silence Sir:—</L>
+</SP>
+<STAGE>to the Priest.</STAGE>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Ariaspes, Jolas.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>If it succeed? I weare thee here my <HI>Iolas</HI>—</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>If it succeed? will night succeed the day?</L>
+<L>or houres one to another? is not his lust</L>
+<L>the Idoll of his soule? and was not she</L>
+<L>the Idoll of his lust? as safely he might</L>
+<L>have stolne the Diadem from off his head,</L>
+<L>and he would lesse have mist it.</L>
+<L>You now, my Lord, must raise his jealousie,</L>
+<L>teach it to looke through the false opticke feare,</L>
+<L>and make it see all double: Tell him the Prince</L>
+<L>would not have thus presum'd, but that he does</L>
+<L>intend worse yet; and that his crowne and life</L>
+<L>will be the next attempt.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Right, and I will urge</L>
+<L>how dangerous 'tis unto the present state,</L>
+<L>To have the creatures, and the followers</L>
+<L>of the next Prince (whom all now strive to please)</L>
+<L>too neere about him:</L>
+</SP>
+<SP>
+<SPEAKER>JoL.</SPEAKER>
+<L>What if the male-contents that use</L>
+<L>to come unto him were discovered?</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>By no meanes; for 'twere in vaine to give</L>
+<L>him discontent (which too must needs be done)</L>
+<L>if they within him gave't not nourishment.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Well, Ile away first for the print's too big</L>
+<L>if we be seene together.—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>I have so fraught this Barke with hope, that it</L>
+<L>dares venture now in any storme, or weather;</L>
+<L>and if hee sinke or splits, all's one to me.</L>
+<L>"Ambition seemes all things, and yet is none,</L>
+<L>"but in disguise stalkes to opinion</L>
+<L>"and fooles it into faith, for everie thing:</L>
+<L>'Tis not with th'ascending to a Throne,</L>
+<L>As 'tis with staires, and steps, that are the same;</L>
+<L>For to a Crowne, each humor's a degree;</L>
+<L>and as men change, and differ, so must wee.</L>
+<L>The name of vertue doth the people please,</L>
+<L>not for their love to vertue, but their case,</L>
+<L>and Parrat Rumour I that tale have taught.</L>
+<L>By making love I hold the womans grace,</L>
+<L>'tis the Court double key, and entrance gets</L>
+<L><PB N="6" REF="6"/>
+to all the little plots; the fierie spirits</L>
+<L>my love to Armes hath drawne into my faction;</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, but the minion of the Time, is mine,</L>
+<L>and he shall be, or shall not be at all.</L>
+<L>He that beholds a wing in pieces torne,</L>
+<L>and knowes not that to heav'n it once did beare</L>
+<L>the high-flowne and selfe-less'ning bird, will think</L>
+<L>and call them idle Subjects of the winde:</L>
+<L>when he that has the skill to imp and binde</L>
+<L>these in right places, will thus truth discover;</L>
+<L>That borrowed Instruments doe oft convey</L>
+<L>the Soule to her propos'd Intents, and where</L>
+<L>our Stars deny, Art may supply—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Semanthe, Orithie, Orsames, Philan.</STAGE>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Thinke you it is not then</L>
+<L>the little jealousies (my Lord) and feares,</L>
+<L>joy mixt with doubt, and doubt reviv'd with hope</L>
+<L>that crownes all love with pleasure? these are lost</L>
+<L>when once wee come to full fruition;</L>
+<L>like waking in the morning when all night</L>
+<L>on sancie has beene fed with some new strange delight.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>I grant you, Madam, that the feares, and joyes,</L>
+<L>hopes, and desires, mixt with despaires, and doubts,</L>
+<L>d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e make the sport in love; that they are</L>
+<L>the ve<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ie dogs by which we hunt the hare;</L>
+<L>but as the dogs would stop, and streight give o're</L>
+<L>were it not for the little thing before;</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>o would our passions; both alike must be</L>
+<L>flesh't in the chase.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>Will you then place the happinesse, but there,</L>
+<L>where the dull plow man and the plow-mans horse</L>
+<L>can finde it out? Shall soules refin'd, not know</L>
+<L>how to preserve alive a noble flame,</L>
+<L>but let it die, burne out to appetite?</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Love's a Chamelion, and would live on aire,</L>
+<L>ph<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>sick for agues, starving is his food.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Why? there's it now! a greater Epicure</L>
+<L>lives not on earth; my Lord and I have beene</L>
+<L>in<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> priv<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e kitchin, seene his bills of Fare.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>And how, and how my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>A mightie Prince,</L>
+<L>and full of curiositie—Harts newly slaine</L>
+<L>serv'd up intire, and stucke with little Arrowes</L>
+<L>in stead of Cloves—</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Sometimes a cheeke plumpt up</L>
+<L>with broth, with creame and clarret mingled</L>
+<L>for sauce, and round about the dish</L>
+<L>Pomegranate kernells, strew'd on leaves of Lillies.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Then will he have black eies, for those of late</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e feeds on much, and for varietie</L>
+<L>the gray—</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>You forget his cover'd dishes</L>
+<L>of <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ene-stra<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>es, and Marmalade of lips,</L>
+<L>p<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>rfum'd by breath sweet as the beanes first blossomes.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Rare!</L>
+<L>And what's the drinke to all this meat, my Lord?</L>
+</SP>
+<SP>
+<PB N="7" REF="6"/>
+<SPEAKER>ORS.</SPEAKER>
+<L>Nothing but pearle dissolv'd, teares still fresh, fetch'd</L>
+<L>from Lovers eyes, which if they come to be</L>
+<L>warme in the carriage, are streight cool'd with sighs.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>And all this rich proportion, perchance</L>
+<L>we would allow him:</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>True! but therefore this is but his common di<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>r;</L>
+<L>onely serves</L>
+<L>when his chiefe Cookes, <HI>Liking</HI> and <HI>Opportuni<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e,</HI></L>
+<L>are out o'th' way; for when hee feasts indeed,</L>
+<L>'tis there, where the wise people of the world</L>
+<L>did place the vertues, i'th' middle—Madam.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>My Lord, there is so little hope we should convert you;</L>
+<L>and if we should, so little got by it,</L>
+<L>that wee'll not lose so much upon't as sleepe.</L>
+<L>Your Lordships servants—</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Nay Ladies wee'll wait upon you to your chambers.</L>
+</SP>
+<SP>
+<SPEAKER>PH.</SPEAKER>
+<L>Prithee lets spare the complement, we shall doe no good.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>By this hand Ile try,</L>
+<L>they keepe me fasting, and I must be praying.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Aglaura</HI> undressing of her selse, <HI>Jolina.</HI></STAGE>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Undresse mee:—</L>
+<L>Is it not late, <HI>Iolina?</HI></L>
+<L>it was the longest day, this—</L>
+</SP>
+<STAGE>Enter <HI>Thersames.</HI></STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Softly, as Death it selfe comes on,</L>
+<L>when it does steale away the sicke mans breath,</L>
+<L>and standers by perceive it not,</L>
+<L>have I trod the way unto these lodgings.</L>
+<L>How wisely doe those Powers</L>
+<L>that give us happinesse, order it?</L>
+<L>sending us still feares to bound our joyes,</L>
+<L>which else would over-flow and lose themselves:</L>
+<L>see where shee sits,</L>
+<L>like Day retir'd into another world.</L>
+<L>Deare mine! where all the beautie man admires</L>
+<L>in scattered pieces, does united lye.</L>
+<L>Where sense does feast, and yet where sweet desire</L>
+<L>lives in its longing, like a misers eye,</L>
+<L>that never knew, nor saw sacietie:</L>
+<L>tell me, by what approaches must I come</L>
+<L>to take in what remaines of my felicitie?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Needs there any new ones, where the breach</L>
+<L>is made already? you are entred here—</L>
+<L>long since (Sir) here, and I have giv'n up all.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>All but the Fort, and in such wars, as these,</L>
+<L>till that be yeilded up, there is no peace,</L>
+<L>nor triumph to be made; come! undoe, undoe,</L>
+<L>and from these envious clouds slide quicke</L>
+<L>into Loves proper Sphere, thy bed:</L>
+<L>The wearie traveller, whom the busie Sunne</L>
+<L>hath vex't all day, and scortch'd almost to tinder,</L>
+<L>nere long'd for night, as I have long'd for this.</L>
+<L>What rude hand is that?</L>
+<STAGE>One knocks hastily.</STAGE>
+<L>Goe <HI>Iolina,</HI> see, but let none enter—</L>
+</SP>
+<STAGE>Iolina goes to the doore.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>'Tis <HI>Z<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>iff,</HI> Sir.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>—Oh—</L>
+<L><PB N="8" REF="7"/>
+Something of weight hath falne out it seemes,</L>
+<L>which in his zeale he could not keepe till morning.</L>
+<L>But one short minute, Deare, into that chamber.—</L>
+<STAGE><HI>Enter</HI> Ziriff.</STAGE>
+<L>How now?</L>
+<L>thou start'st, as if thy sinnes had met thee,</L>
+<L>or thy Fathers ghost; what newes man?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Such as will send the blood of hastie messages</L>
+<L>unto the heart, and make it call</L>
+<L>all that is man about you into councell;</L>
+<L>where's the Princesse, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Why? what of her?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>The King must have her—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>How?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>The King must have her (Sir)</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Though feare of worse makes ill, still relish better,</L>
+<L>and this looke handsome in our friendship, <HI>Ziriff,</HI></L>
+<L>yet so severe a preparation—,</L>
+<L>there needed not: come, come! what ist?</L>
+<STAGE><HI>Ziriff</HI> leads him to the doore, and shewes him a Guard.</STAGE>
+<L>A Guard! <HI>Thersames,</HI></L>
+<L>thou art lost; betray'd</L>
+<L>by faithlesse and ungratefull man,</L>
+<L>out of a happinesse:—</L>
+<STAGE>He steps betweene the doore and him, and drawes.</STAGE>
+<L>the verie thought of that,</L>
+<L>will lend my anger so much noble justice,</L>
+<L>that wert thou master of as much fresh life,</L>
+<L>as th'ast beene of villany, it should not serve,</L>
+<L>nor stocke thee out, to glorie, or repent</L>
+<L>the least of it.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Put up: put up! such unbecomming anger</L>
+<L>I have not seene you weare before.</L>
+<L>What? draw upon your friend,</L>
+<STAGE>Discovers himselfe.</STAGE>
+<L>doe you beleeve me right now?—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>I scarce beleeve mine eyes:—<HI>Zorannes.</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>The same, but how preserv'd, or why</L>
+<L>thus long disguis'd to you, a freer houre must speake:</L>
+<L>That y'are <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>etraid is certaine, but by whom,</L>
+<L>unlesse the Priest himselfe, I cannot ghesse</L>
+<L>mor<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> than the marriage, though he knowes not of:</L>
+<L>if you now send her on these early summons</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>fore the sparks are growne into a flame,</L>
+<L>you doe redeeme th'offence, or make it lesse;</L>
+<L>and (on my life) yet his intents are faire,</L>
+<L>and he will but besiege, not force affection.</L>
+<L>So you gaine time; if you refuse, there's <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ut</L>
+<L>one way; you know his power and passion.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Into how strange a labyrinth am I</L>
+<L>now falne! what shall I doe <HI>Zorannes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Doe (Sir) as Sea-men, that have lost their light</L>
+<L>and way: strike saile, and lye quiet a while.</L>
+<L>Your forces in the Province are not yet</L>
+<L>in readinesse, nor is our friend <HI>Zephines</HI></L>
+<L>arriv'd at Delphos; nothing is ripe, besides—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Good heavens, did I but dreame that she was mine?</L>
+<L>upon imagination did I climbe up to</L>
+<L><PB N="9" REF="7"/>
+this height? let mee then wake and dye,</L>
+<L>some courteous hand snatch mee from what's to come,</L>
+<L>and ere my wrongs have being, give them end:</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>How poore, and how unlike the Prince is this?</L>
+<L>this trifle woman does unman us all;</L>
+<L>robs us so much, it makes us things of pittie.</L>
+<L>Is this a time to loose our anger in?</L>
+<L>and vainly breathe it out? when all wee have</L>
+<L>will hardly fill the saile of Resolution,</L>
+<L>and make us beare up high enough for action.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>I have done (Sir) pray chide no more;</L>
+<L>the slave whom tedious custome has enur'd</L>
+<L>and taught to thinke of miserie as of food,</L>
+<L>counting it but a necessarie of life,</L>
+<L>and so digesting it, shall not so much as once</L>
+<L>be nam'd to patience, when I am spoken of:</L>
+<L>marke mee; for I will now undoe my selfe</L>
+<L>as willingly, as virgins give up all first nights</L>
+<L>to them they love:—</L>
+</SP>
+<STAGE>Offers to goe out.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Stay, Sir, 'twere fit <HI>Aglaura</HI> yet were kept</L>
+<L>in ignorance: I will dismisse the Guard,</L>
+<L>and be my selfe againe.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>In how much worse estate am I in now,</L>
+<L>Than if I nere had knowne her; privation,</L>
+<L>is a miserie as much above bare wretchednesse,</L>
+<L>as that is short of happinesse:</L>
+<L>So when the Sunne does not appeare,</L>
+<L>'Tis darker 'cause it once was here.</L>
+</SP>
+<STAGE>Enter <HI>Ziriff</HI> speakes to <HI>Orsames</HI> and others halfe entred.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Nay, Gentlemen:</L>
+<L>there needs no force, where there is no resistance:</L>
+<L>Ile satisfie the King my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>—Oh 'tis well y'are come,</L>
+<L>there was within me fresh Rebellion,</L>
+<L>and reason was almost unking'd agen.</L>
+<L>But you shall have her Sir—</L>
+</SP>
+<STAGE>Goes out to fetch <HI>Aglaura.</HI></STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>What doubtfull combats in this noble youth</L>
+<L>passion and reason have!—</L>
+</SP>
+<STAGE><HI>Enter</HI> Thersames <HI>leading</HI> Aglaura.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Here Sir—</L>
+</SP>
+<STAGE>Gives her, goes out.</STAGE>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>What meanes the Prince, my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Madam, his wiser feare has taught him to disguise</L>
+<L>his love, and make it looke a little rude at parting.</L>
+<L>Affaires that doe concerne, all that you hope from</L>
+<L>happinesse, this night force him away:</L>
+<L>and lest you should have tempted him to stay,</L>
+<L>(Which hee did doubt you would and would prevaile)</L>
+<L>he left you thus: he does desire by mee</L>
+<L>you would this night lodge in the little towre,</L>
+<L>which is in my command; the reasons why</L>
+<L>himselfe will shortly tell you.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>'Tis strange, but I am all Obedience—</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB N="10" REF="8"/>
+<HEAD>ACTUS II.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENA I.</HEAD>
+<STAGE><HI>Enter</HI> Thersames, Jolas <HI>a Lord of the Counsell.</HI></STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>I told him so, Sir, urg'd 'twas no common knot,</L>
+<L>that to the tying of it two powerfull Princes,</L>
+<L>Vertue and Love were joyn'd, and that</L>
+<L>a greater than these two was now</L>
+<L>ingaged in it; Religion; but 'twould not doe,</L>
+<L>the corke of passion boy'd up all reason so</L>
+<L>that what was said, swam but o'th'top of th'eare</L>
+<L>nere reach't the heart:</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Is there no way for Kings to shew their power,</L>
+<L>but in their Subjects wrongs? no subject neither</L>
+<L>but his owne sonne?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Right Sir:</L>
+<L>no quarrie for his lust to gorge on, but on what</L>
+<L>you fairely had flowne at, and taken:</L>
+<L>well—wert not the King, or wert indeed</L>
+<L>not you, that have such hopes, and such a crowne</L>
+<L>to venter, and yet—</L>
+<L>tis but a woman.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<P>How? that but againe, and thou arr more injurious than hee, and woul't provoke me sooner.</P>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Why Sir?</L>
+<L>there are no altars yet addrest unto her,</L>
+<L>nor sacrifice; if I have made her lesse</L>
+<L>than what she is, it was my love to you:</L>
+<L>For in my thoughts, and here within, I hold her</L>
+<L>the noblest peece Nature ere lent our eyes,</L>
+<L>and of the which, all women else, are but</L>
+<L>weake counterfeits, made up by her journey-men:</L>
+<L>but was this fit to tell you?</L>
+<L>I know you value but too high all that,</L>
+<L>and in a losse we should not make things more,</L>
+<L>tis miseries happinesse, that wee can make it lesse</L>
+<L>by art, throw a forgetfulnesse upon our ills,</L>
+<L>Yet who can doe it here?</L>
+<L>when everie voyce, must needs, and everie face,</L>
+<L>by shewing what she was not, shew what she was.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Ile instantly unto him—</L>
+</SP>
+<STAGE>drawes.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Stay Sir</L>
+<L>Though't be the utmost of my Fortunes hope</L>
+<L>to have an equall share of ill with you:</L>
+<L>yet I could wish we sold this trifle life,</L>
+<L>at a farre dearer rate, than we are like to doe,</L>
+<L>since' tis a King's the Merchant.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Ha!</L>
+<L>King, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> 'tis indeed,</L>
+<L>and there's no Art can cancell that high bond:</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>—Hee cooles againe.—</L>
+<STAGE>(to himselfe.)</STAGE>
+<L>True Sir, and yet mee thinks to know a reason—</L>
+<L>for passive nature nere had glorious end,</L>
+<L>and he that States preventions ever learn'd,</L>
+<L>knowes, 'tis one motion to strike and to defend.</L>
+</SP>
+<STAGE><PB N="11" REF="8"/>
+Enter Serving-man.</STAGE>
+<SP>
+<SPEAKER>SERV.</SPEAKER>
+<L>Some of the Lords without, and from the King.</L>
+<L>they say, wait you.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>What subtle State tricke now?</L>
+<L>but one turne here, and I am back my Lord.—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>This will not doe; his resolution's like</L>
+<L>a skilfull horse-man, and reason is the stirrop,</L>
+<L>which though a sudden shock may make</L>
+<L>it loose, yet does it meet it handsomely agen.</L>
+<L>Stay, 'tmust be some sudden feare of wrong</L>
+<L>to her, that may draw on a sudden act</L>
+<L>from him, and ruine from the King; for such</L>
+<L>a spirit will not like common ones, be</L>
+<L>rais'd by everie spell, 'tis in loves circle</L>
+<L>onely 'twill appeare.</L>
+</SP>
+<STAGE><HI>Enter</HI> Thersames.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>I cannot beare the burthen of my wrongs</L>
+<L>one minute longer.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Why! what's the matter Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>They doe pretend the safetie of the State</L>
+<L>now, nothing but my marriage with <HI>Cadusia</HI></L>
+<L>can secure th'adjoyning countrey to it;</L>
+<L>confinement during life for me if I refuse</L>
+<L><HI>Diana's</HI> Nunnerie for her—And at that Nunn'rie, <HI>Iol<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>s,</HI></L>
+<L>allegiance in mee like the string of a watch</L>
+<L>wound up too high, and forc'd above the nicke,</L>
+<L>ran backe, and in a moment was unravell'd all.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Now by the love I beare to Justice,</L>
+<L>That Nunn'rie was too severe; when vertuous love's a crime</L>
+<L>what man can hope to scape a punishment,</L>
+<L>or who's indeed so wretched to desire it?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Right!</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>What answer made you, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>None, they gave me till to morrow,</L>
+<L>and ere that be, or they or I</L>
+<L>must know our destinie:</L>
+<L>come friend let's in, there is no sleeping now;</L>
+<L>for time is short, and we have much to doe.—</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Orsames, Philan, <HI>Courtiers.</HI></STAGE>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<P>Judge you, Gentlemen, if I be not as unfortunate as a gamester thinks himselfe upon the losse</P>
+<L>of the last stake; this is the first she</L>
+<L>I ever swore to heartily, and (by those eyes)</L>
+<L>I thinke I had continued unperjur'd a whole moneth,</L>
+<L>(and that's faire you'll say.)</L>
+</SP>
+<SP>
+<SPEAKER>1 COURT.</SPEAKER>
+<L>Verie faire—</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Had she not run mad betwixt.—</L>
+</SP>
+<SP>
+<SPEAKER>2 COURT.</SPEAKER>
+<L>How? mad?</L>
+<L>who? <HI>Semanthe?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Yea, yea, mad, aske <HI>Philan</HI> else.</L>
+<L>people that want cleere intervalls talkenot</L>
+<P>so wildly: Ile tell you Gallants; 'tis now, since first I found my selfe a little bot, and quivering 'bout the heart, some ten dayes since, (a tedious Ague) Sirs; (but what of that?)</P>
+<L>the gratious glance, and little whisper past,</L>
+<L>approaches made from th'hand unto the lip,</L>
+<L><PB N="12" REF="9"/>
+I came to visit her, and (as you know we use)</L>
+<L>breathing a sigh or two by way of prologue,</L>
+<L>told her, that in Loves Physicke 'twas a rule,</L>
+<L>where the disease had birth to seeke a cure;</L>
+<L>I had no sooner nam'd love to her, but she</L>
+<L>began to talke of Flames, and Flames,</L>
+<L>neither devouring, nor devour'd, of Aire,</L>
+<L>and of Camelions—</L>
+</SP>
+<SP>
+<SPEAKER>1 COURT.</SPEAKER>
+<L>Oh the <HI>Platoniques.</HI></L>
+</SP>
+<SP>
+<SPEAKER>2 COURT.</SPEAKER>
+<P>Those of the new religion in love! your Lordship's merrie, <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>oth, how doe you like the humor on't?</P>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>As thou would'st like red haire, or leannesse</L>
+<L>in thy Mistresse; scurvily, 'tdoes worse with handsomnesse,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>han strong desire would doe with impotence;</L>
+<L>a me<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>re tricke to inhance the price of kisses—</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Sure these silly women, when they feed</L>
+<L>our expectation so high, doe but like</L>
+<L>ignorant Conjurers, that raise a Spirit</L>
+<L>which handsomly they cannot lay againe:</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>True, 'tis like some that nourish up</L>
+<P><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>oung Lions till they grow so great, they are affraid of themselves, they dare not grant at last,</P>
+<L>for feare they should not satisfie.</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Who's for the Towne? I must take up againe,</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<P>This villanous Love's as chargeable as the Philosophers Stone, and thy Mistresse as hard to compasse too!</P>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>The Platonique is ever so; they are as tedious</L>
+<L>before they come to the point, as an old man</L>
+<L>fall'n into the Stories of his youth;</L>
+</SP>
+<SP>
+<SPEAKER>2. COUR.</SPEAKER>
+<L>Or a widow into the praises of her first husband.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Well, if she hold out but one moneth longer,</L>
+<L>if I d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e not quite forget, I ere beleaguer'd there,</L>
+<L>and remove the siege to another place, may all</L>
+<L>the curses beguil'd virgins lose upon their perjur'd Lovers</L>
+<L>fall upon mee.</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>And thou woult deserve'em all.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>For what?</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>For being in the company of those</L>
+<L>that tooke away the Prince's Mistresse from him.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Peace, that will be redeem'd—</L>
+<L>I put but on this wildnesse to disguise my selfe;</L>
+<L>there are brave things in hand, hearke i'thy eare:—</L>
+</SP>
+<STAGE>(Whisper)</STAGE>
+<SP>
+<SPEAKER>1. COURT.</SPEAKER>
+<L>Some severe plot upon a maiden-head.</L>
+<L>These two young Lords make love,</L>
+<L>as Embroyderers worke against a Maske, night and day;</L>
+<L>They thinke importunitie a neerer way than merit,</L>
+<L>and take women as Schoole-boyes catch Squirrells.</L>
+<L>hunt 'em up and downe till they are wearie,</L>
+<L>and fall downe before'em.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Who loves the Prince failes not—</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>And I am one: my injuries are great as thine,</L>
+<L>and doe perswade as strongly.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>I had command to bring thee,</L>
+<L>faile not and in thine owne disguise</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Why in disguise?</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>It is the Princes policie and love;</L>
+<L><PB N="13" REF="9"/>
+for if wee should miscarrie,</L>
+<L>some one taken might betray the rest</L>
+<L>unknowne to one another,</L>
+<L>each man is safe, in his owne valour;</L>
+</SP>
+<SP>
+<SPEAKER>2. COURT.</SPEAKER>
+<P>And what Mercers wife are you to cheapen now in stead of his silks?</P>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<P>Troth; 'tis not so well; 'tis but a Cozen of thine—come <HI>Philan</HI> let's along:—</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Queene alone.</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>What is it thus within whispering remorse,</L>
+<L>and calls Love Tyrant? all powers, but his,</L>
+<L>their rigour, and our feare, have made divine!</L>
+<L>But everie Creature holds of him by sense,</L>
+<L>the sweetest Tenure; yea! but my husbands brother:</L>
+<L>and what of that? doe harmlesse birds or beasts</L>
+<L>aske leave of curious Heraldrie at all?</L>
+<L>Does not the wombe of one faire spring,</L>
+<L>bring unto the earth many sweet rivers,</L>
+<L>that wantonly doe one another chace,</L>
+<L>and in one bed, kisse, mingle, and embrace?</L>
+<L>Man (Natures heire) is not by her will ti'de,</L>
+<L>to shun all creatures are alli'd unto him,</L>
+<L>for then hee should shun all; since death and life</L>
+<L>doubly allies all them that live by breath:</L>
+<L>The Aire that does impart to all lifes brood,</L>
+<L>refreshing, is so neere to it selfe, and to us all,</L>
+<L>that all in all is individuall:</L>
+<L>But, how am I sure one and the same desire</L>
+<L>warmes <HI>Ariaspes:</HI> for Art can keepe alive</L>
+<L>a beddred love.</L>
+</SP>
+<STAGE><HI>Enter</HI> Ariaspes.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Alone, (Madam) and overcast with thought,</L>
+<L>uncloud—uncloud—for if wee may beleeve</L>
+<L>the smiles of Fortune, love shall no longer pine</L>
+<L>in prison thus, nor undelivered travell</L>
+<L>with throes of feare, and of desire about it.</L>
+<L>The Prince, (like to a valiant beast in nets)</L>
+<L>striving to force a freedome suddenly,</L>
+<L>has made himselfe at length, the surer prey:</L>
+<L>the King stands only now betwixt, and is,</L>
+<L>just like a single tree, that hinders all the prospect:</L>
+<L>'tis but the cutting downe of him, and wee—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Why would't thou thus imbarque into strange seas,</L>
+<L>and trouble Fate, for what wee have already?</L>
+<L>Thou art to mee what thou now seek'st, a Kingdome;</L>
+<L>and were thy love as great, as thy ambition;</L>
+<L>I should be so to thee.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Thinke you, you are not Madam?</L>
+<L>as well and justly may you doubt the truths,</L>
+<L>tortur'd, or dying men doe leave behinde them:</L>
+<L>but then my fortune turnes my miserie,</L>
+<L>when my addition shall but make you lesse;</L>
+<L>shall I endure that head that wore a crowne,</L>
+<L>for my sake should weare none? First let mee lose</L>
+<L>th'exchequer of my wealth, your love; nay, may</L>
+<L>all that rich Treasurie you have about you,</L>
+<L><PB N="14" REF="10"/>
+be rifled by the man I hated, and I looke on;</L>
+<L>though youth be full of sinne, and heav'n be juft,</L>
+<L>so sad a doome I hope they keepe not from me;</L>
+<L>Remember what a quicke Apostacie he made,</L>
+<L>when all his vowes were up to heav'n and you.</L>
+<L>How, ere the Bridall torches were burnt out,</L>
+<L>his flames grew weake, and sicklier; thinke on that,</L>
+<L>thinke how unsafe you are, if she should now,</L>
+<L>not sell her honour at a lower rate,</L>
+<L>than your place in his bed.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>And would not you prove false too then?</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>By this—and this—loves break-fast:</L>
+<STAGE>(Kisses her.)</STAGE>
+<L>by his feasts too yet to come, by all the</L>
+<L>beautie in this face, divinitie too great</L>
+<L>to be prophan'd—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>O doe not sweare by that;</L>
+<L>Cankers may eat that flow'r upon the stalke,</L>
+<L>(for sicknesse and mischance, are great devourers)</L>
+<L>and when there is not in these cheeks and lips,</L>
+<L>l<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ft red enough to blush at perjurie,</L>
+<L>when you shall make it, what shall I doe then?</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Our soules by that time (Madam)</L>
+<L>will by long custome so acquainted be,</L>
+<L>they will not need that duller truch-man Flesh,</L>
+<L>but freely, and without those poorer helps,</L>
+<L>converse and mingle; meane time wee'll teach</L>
+<L>our loves to speake, not thus to live by signes,</L>
+<L>and action is his native language, Madam,</L>
+<STAGE>Enter <HI>Ziriff</HI> unseene.</STAGE>
+<L>this box but open'd to the Sense will doe't.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>I undertake I know not what,</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Thine owne safetie (Dearest)</L>
+<L>let it be this night, if thou do'st;</L>
+<STAGE>Whisper and kisse.</STAGE>
+<L>love thy selfe or mee.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>That's verie sudden.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Not if wee be so, and we must now be wise,</L>
+<L>For when their Sunne sets, ours begins to rise.—</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Ziriff <HI>solus.</HI></STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Then all my <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>eares are true, and shee is false;</L>
+<L>false as a falling Star, or Glow-wormes fire:</L>
+<L>This Devill Beautie is compounded strangely,</L>
+<L>It is a subtill point, and hard to know,</L>
+<L>whether't has in't more active tempting,</L>
+<L>or more passive tempted; so soone it forces,</L>
+<L>and so soone it yeelds—</L>
+<L>Good Gods! shee seiz'd my heart, as if from you</L>
+<L>sh'ad had Commission to have us'd mee so;</L>
+<L>and all mankinde besides—and see, if the just Ocean</L>
+<L>makes more haste to pay</L>
+<L>to needy rivers, what it borrow'd first,</L>
+<L>then shee to give, where shee nere tooke;</L>
+<L>mee thinks I feele anger, Revenges harbenger</L>
+<L>chalking up all within, and thrusting out</L>
+<L>of doores, the tame and softer passions;—</L>
+<L>It must be so:</L>
+<L>To love is noble <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>railtie, but poore sin</L>
+<L><PB N="15" REF="10"/>
+When wee fall once to Love, unlov'd agen.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter King,</HI> Ariaspes, Jolas.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>'Twere fit your Justice did consider, (Sir)</L>
+<L>what way it tooke; if you should apprehend</L>
+<L>the Prince for Treason (which hee never did)</L>
+<L>and which, unacted, is unborne; (at least will be beleev'd so)</L>
+<L>lookers on, and the loud talking croud,</L>
+<L>will thinke it all but water colours</L>
+<L>laid on for a time,</L>
+<L>and which wip'd off, each common eye would see,</L>
+<L>Strange ends, through stranger wayes:</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Think'st thou I will compound with Treason then?</L>
+<L>and make one feare anothers Advocate?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Vertue forbid Sir, but if you would permit,</L>
+<L>them to approch the roome (yet who would advise</L>
+<L>Treason should come so neare?) there would be then</L>
+<L>No place left for excuse.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>How strong are they?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Weake, considering</L>
+<L>the enterprize; they are but few in number,</L>
+<L>and those few too, having nothing but</L>
+<L>their resolutions considerable about them.</L>
+<L>A Troope indeed design'd to suffer what</L>
+<L>they come to execute.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Who are they are thus wearie of their lives?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Their names I cannot give you.</L>
+<L>For those hee sent for, hee did still receive</L>
+<L>at a back doore, and so dismist them too.</L>
+<L>But I doe thinke <HI>Ziriff</HI> is one.—</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Take heed! I shall suspect thy hate to others,</L>
+<L>not thy love to mee, begot this service;</L>
+<L>This Treason thou thy selfe do'st say</L>
+<L>has but an houres age, and I can give accompt</L>
+<L>of him, beyond that time.—Brother, in the little Tower</L>
+<L>where now <HI>Aglaura's</HI> prisoner,</L>
+<L>you shall finde him; bring him along,</L>
+<L>hee yet doth stand untainted in my thoughts,</L>
+<L>and to preserve him so,</L>
+<L>hee shall not stirre out of my eyes command</L>
+<L>till this great cloud be over.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Sir, 'twas the Prince who first—</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>I know all that! urge it no more!</L>
+<L>I love the man;</L>
+<L>and 'tis with paine, wee doe suspect,</L>
+<L>where wee doe not dislike:</L>
+<L>th'art sure hee will have some,</L>
+<L>and that they will come to night?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>As sure as night will come it selfe.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Get all our Guards in readinesse, we will our selfe</L>
+<L>disperse them afterwards; and both be sure</L>
+<L>to weare your thoughts within: Ile act the rest:</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Philan, Orsames, <HI>Courtiers.</HI></STAGE>
+<SP>
+<SPEAKER>2. COURT.</SPEAKER>
+<L>Well.—If there be not some great storme towards,</L>
+<L>nere trust mee; Whisper (Court Thunder) is in</L>
+<L>everie corner, and there has beene to day</L>
+<L>about the Towne a murmuring</L>
+<L><PB N="16" REF="11"/>
+and buzzing, such as men use to make,</L>
+<L>when they doe feare to vent their feares;</L>
+</SP>
+<SP>
+<SPEAKER>1. COURT.</SPEAKER>
+<P>True, and all the States-men hang downe their heads, like full ear'd corne; two of them</P>
+<L>where I sup't, ask't what time of night it was,</L>
+<L>and when 'twas told them, started, as if</L>
+<L>they had beene to run a race.</L>
+</SP>
+<SP>
+<SPEAKER>2. COURT.</SPEAKER>
+<P>The King too (if you marke him,) doth faigne mirth and jollitie, but through them both,</P>
+<L>flashes of discontent, and anger make escapes:</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Gentlemen! 'tis pittie heav'n</L>
+<L>design'd you not to make the Almanacks.</L>
+<L>You ghesse so shrewdly by the ill aspects,</L>
+<L>or neere conjunctions of the great ones,</L>
+<L>at what's to come still; that without all doubt</L>
+<L>the Countrey had beene govern'd wholly by you,</L>
+<L>and plow'd and reap'd accordingly; for mee,</L>
+<L>I understand this mysterie as little</L>
+<L>as the new Love, and as I take it too,</L>
+<L>'tis much about the Time that everie thing</L>
+<L>but Owles, and Lovers take their rest;</L>
+<L>Goodnight, <HI>Philan</HI>—away—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>1. COURT.</SPEAKER>
+<L>'Tis early yet; let's goe on the Queens side</L>
+<L>and foole a little; I love to warme my selfe</L>
+<L>before I goe to bed, it does beget</L>
+<L>handsome and sprightly thoughts, and makes</L>
+<L>our dreames halfe solid pleasures.</L>
+</SP>
+<SP>
+<SPEAKER>2. COURT.</SPEAKER>
+<L>Agreed: agreed:</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>ACTUS III.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENA I.</HEAD>
+<STAGE>Enter Prince: Conspiratours:</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>COuldst thou not finde out <HI>Ziriff?</HI></L>
+</SP>
+<SP>
+<SPEAKER>1. COURT.</SPEAKER>
+<L>Not speake with him my Lord;</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>et I sent in by severall men.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>I wonder <HI>Iolas</HI> meets us not here too.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>'Tis strange, but let's on now how ere,</L>
+<L>when Fortunes, honour, life, and all's in doubt</L>
+<L>bravely to dare, is bravely to get out.</L>
+</SP>
+<STAGE>Excursions: The Guard upon them.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Betrai'd! betrai'd!</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Shift for your selfe Sir, and let us alone,</L>
+<L>wee will secure your way, and make our owne.</L>
+</SP>
+<STAGE>Ex<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>nt.</STAGE>
+<STAGE>Enter the King, and Lords.</STAGE>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Follow Lords, and see quick execution done,</L>
+<L>leave not a man alive.</L>
+<L>Who treads on fire, and does not put it out,</L>
+<L>Disperses feare in many sparks of doubt.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Conspirators, and the Guard upon them.</STAGE>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Stand friends, an equall partie—</L>
+</SP>
+<STAGE>(Fight.)</STAGE>
+<STAGE>Three of the Conspirators fall, and three of the Kings side: <HI>Orsames</HI> and <HI>Philan</HI> kill the rest.</STAGE>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Brave <HI>Orsames,</HI> 'tis pleasure to dye neere thee.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Talke not of dying <HI>Philan,</HI> we will live,</L>
+<L>and serve the noble Prince agen; we are alone,</L>
+<L>off then with thy disguise, and throw it in the bushes;</L>
+<STAGE>They throw off their disguises.</STAGE>
+<L><PB N="17" REF="11"/>
+quick, quick; before the torrent comes upon us:</L>
+<L>wee shall be streight good Subjects, and I despaire not</L>
+<L>of reward for this nights service: so.—</L>
+<L>wee two now kill'd our friends! 'tis hard,</L>
+<L>but 'tmust be so.</L>
+</SP>
+<STAGE>Enter <HI>Ariaspes, Jolas,</HI> two Courtiers, part of the Guard.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Follow! Follow!</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Yes; so you may now, y'are not likely to overtake.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L><HI>Orsames,</HI> and <HI>Philan,</HI> how came you hither?</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>The neerest way it seemes, you follow'd (thank you)</L>
+<L>as if 'thad beene through quicksets:</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>'s Death have they all escap'd?</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Not all, two of them wee made sure;</L>
+<L>but they cost deare, looke here else.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Is the Prince there?</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>They are both Princes I thinke,</L>
+<L>they fought like Princes I am sure.</L>
+</SP>
+<STAGE><HI>Jolas</HI> puls off the vizors.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L><HI>Stephines,</HI> and <HI>Odîris</HI>—we trifle.</L>
+<L>Which way tooke the rest?</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Two of them are certainly here abouts.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Upon my life they swam the river;</L>
+<L>some streight to horse, and follow ore the bridge;</L>
+<L>you, and I my Lord, will search this place a little better.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Your Highnesse will I hope remember, who were</L>
+<L>the men were in—</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Oh! feare not, your Mistresse shall know y'are valiant.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L><HI>Philan!</HI> if thou lov'st mee, let's kill them upon the place.</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Fie: thou now art wild indeed;</L>
+<L>thou taught'st mee to be wise first,</L>
+<L>and I will now keepe thee so.—Follow, follow.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Aglaura</HI> with a Lute.</STAGE>
+<STAGE>The Prince comes and knocks within.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Madam!</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>What wretch is this that thus usurps</L>
+<L>upon the priviledge of Ghosts, and walks</L>
+<L>at mid-night?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Aglaura.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Betray mee not</L>
+<L>my willing sense too soone, yet if that voyce</L>
+<L>be false.—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Open faire Saint, and let mee in.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>It is the Prince—</L>
+<L>as willingly as those</L>
+<L>that cannot sleepe doe light; welcome (Sir,)</L>
+<STAGE>(Opens.)</STAGE>
+<L>welcome above.—</L>
+<STAGE>Spies his sword drawne.</STAGE>
+<L>Blesse mee, what meanes this unsheath'd minister of death?</L>
+<L>if, Sir, on mee quick Justice be to passe,</L>
+<L>why this? absence alas, or such strange lookes</L>
+<L>as you now bri<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>g with you would kill as soone:</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Softly! for I, like a hard hunted Deere,</L>
+<L>have only hearded here; and though the crie</L>
+<L>reach not our eares, yet am I follow'd close:</L>
+<L>ô my heart! since I saw thee,</L>
+<L>Time has beene strangely Active, and begot</L>
+<L>a Monstrous issue of unheard of Storie:</L>
+<L>Sit; thou shalt have it all! nay, sigh not.</L>
+<L><PB N="18" REF="12"/>
+such blasts will hinder all the passage;</L>
+<L>Do <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>t thou remember, how wee parted last?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Can I forget it Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>That word of parting was ill plac'd, I sweare,</L>
+<L>it may be ominous; but do'st thou know</L>
+<L>into whose hands I gave thee?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Yes into <HI>Z<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>riffi</HI> Sir.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>That <HI>Ziriff</HI> was thy brother, brave <HI>Zorannes</HI></L>
+<L>preserv'd by miracle in that sad day</L>
+<L>thy father fell, and since thus in disguise,</L>
+<L>waiting his just revenge.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>You doe amaze me, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>And must doe more, when I tell all the Storie.</L>
+<L>The King, the jealous King, knew of the marriage,</L>
+<L>and when thou thought'st thy selfe by my direction,</L>
+<L>thou wert his Prisoner;</L>
+<L>unlesse I would renounce all right,</L>
+<L>and cease to love thee, (o strange, and fond request <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>)</L>
+<L>immur'd thou must have beene in some sad place,</L>
+<L>and lockt for ever, from <HI>Thersames</HI> sight.</L>
+<L>For ever—and that unable to indure</L>
+<L>this night, I did attempt his life.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Was it well done Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>O no! extremely Ill!</L>
+<L>for <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>o attempt and not to act was poore:</L>
+<L>here the dead-doing Law, (like ill-paid Souldiers)</L>
+<L>leaves the side 'twas on, to joyne with power.</L>
+<L>Royall villany now will looke so like to Justice,</L>
+<L>that the times to come and curious posteritie,</L>
+<L>will finde no difference: weep'st thou <HI>Aglaura?</HI></L>
+<L>come, to bed my Love!</L>
+<L>and wee will there mock Tyrannie, and Fate,</L>
+<L>those softer houres of pleasure, and delight,</L>
+<L>that like so many single pearles, should have</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>orn'd our thread of life, wee will at once,</L>
+<L>by Loves mysterious power, and this nights help</L>
+<L>contract to one, and make but one rich draught</L>
+<L>of all.</L>
+</SP>
+<SP>
+<SPEAKER>AG<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</SPEAKER>
+<L>What meane you Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>To make my selfe incapable of miserie,</L>
+<L>by taking strong preservative of happinesse:</L>
+<L>I would this <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ght injoy thee:</L>
+</SP>
+<SP>
+<SPEAKER>AG<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</SPEAKER>
+<L>Doe: Sir, doe what you will with mee,</L>
+<L>for I am too much yours, to deny the right</L>
+<L>however claim'd—but—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>But what <HI>Aglaura?</HI></L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Gather not roses in a wet and frowing houre,</L>
+<L>they'll lose their sweets then, trust mee they will Sir.</L>
+<L>What pleasure can Love take to play his game out,</L>
+<L>when death must keepe the Stakes—</L>
+<STAGE>A noise without.</STAGE>
+<L>harke Sir—grave bringers, and last minutes are at hand,</L>
+<L>hide, hide your selfe, for Loves sake hide your selfe.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>As soone the Sunne may hide himselfe, as I.</L>
+<L>The Prince of <HI>Persia</HI> hide himselfe?—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>O talke not Sir; the Sunne does hide himselfe</L>
+<L>when night and blacknesse comes—</L>
+</SP>
+<SP>
+<PB N="19" REF="12"/>
+<SPEAKER>THER.</SPEAKER>
+<L>Never sweet Ignorance, he shines in th'other world then;</L>
+<L>and so shall I, if I set here in glorie:</L>
+<L>Enter</L>
+<STAGE>Opens the doore, enter <HI>Ziriff.</HI></STAGE>
+<L>yee hastie seekers of life.</L>
+<L>Soranne<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>My brother!</L>
+<L>If all the joy within mee come not out,</L>
+<L>to give a welcome to so deare an o<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ject,</L>
+<L>excuse it Sir; sorrow locks up all doores.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>If there be such a Toy about you, Sister,</L>
+<L>keep't for your selfe, or lend it to the Prince;</L>
+<L>there is a dearth of that Commoditie,</L>
+<L>and you have made it Sir. Now?</L>
+<L>what is the next mad thing you mea<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e to doe?</L>
+<L>will you stay here? when all the Court's beset</L>
+<L>like to a wood at a great hunt, and busie mischiefe hastes</L>
+<L>to be in view, and have you in her power—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>To mee all this—</L>
+<L>for great griefe's deafe as well as it is dumbe,</L>
+<L>and drives no trade at all with Counsell: (Sir)</L>
+<L>why doe you not Tutor one that has the Plague,</L>
+<L>and see if hee will feare an after ague fit;</L>
+<L>such is all mischiefe now to mee; there is none left</L>
+<L>is worth a thought, death is the worst, I know,</L>
+<L>and that compar'd to shame, does looke more lovely now</L>
+<L>than a chaste Mistresse, set by common woman—</L>
+<L>and I must court it Sir?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>No wonder if that heav'n for sake us, when wee leave our selves:</L>
+<L>what is there done should feed such high despaire?</L>
+<L>were you but safe—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Deare (Sir) be rul'd,</L>
+<L>if love, be love, and magick too,</L>
+<L>(as sure it is where it is true;)</L>
+<L>wee then shall meet in absence, and in spight</L>
+<L>of all divorce, freely enjoy together,</L>
+<L>what niggard Fate thus peevishly denies.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Yea: but if pleasures be themselves but dreames,</L>
+<L>what then are the dreames of these to men?</L>
+<L>that monster, Expectation, will devoure</L>
+<L>all that is within our hope or power,</L>
+<L>and ere wee once can come to shew, how rich</L>
+<L>wee are, wee shall be poore,</L>
+<L>shall wee not <HI>Sorannez?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I understand not this,</L>
+<L>in times of envious penurie (such as these are)</L>
+<L>to keepe but love alive is faire, wee should not thinke</L>
+<L>of feasting him: come (Sir)</L>
+<L>here in these lodgings is a little doore,</L>
+<L>that leads unto another; that againe,</L>
+<L>unto a vault, that has his passage under</L>
+<L>the little river, opening into the wood;</L>
+<L>from thence 'tis but some few minutes easie businesse</L>
+<L>unto a Servants house of mine (who for his faith</L>
+<L>and honestie, hereafter must</L>
+<L>looke big in Storie) there you are safe however;</L>
+<L>and when this Storme has met a little calme,</L>
+<L><PB N="20" REF="13"/>
+what wild desire dares whisper to it selfe,</L>
+<L>you may enjoy, and at the worst may steale:</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>What shall become of thee <HI>Aglaura</HI> then?</L>
+<L>shall I leave thee their rages sacrifice?</L>
+<L>and like dull Sea-men threatned with a storme,</L>
+<L>throw all away, I have, to save my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Can I be safe when you are not? my Lord!</L>
+<L>knowes love in us divided happinesse?</L>
+<L>am I the safer for your being here?</L>
+<L>can you give that you have not for your selfe?</L>
+<L>my innocence is my best guard, and that your stay</L>
+<L>betraying it unto suspition, takes away.</L>
+<L>If you did love mee?—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Growes that in question? then 'tis time to part:—</L>
+<STAGE>Kisses her.</STAGE>
+<L>when wee shall meet againe <HI>Heav'n</HI> onely knowes,</L>
+<L>and when wee shall I know we shall be old:</L>
+<L>Love does not calculate the common way,</L>
+<L>Minutes are houres there, and the houres are dayes,</L>
+<L>each day's a yeare, and everie yeare an age;</L>
+<L>what will this come to thinke you?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Would this were all the ill,</L>
+<L>for these are prettie little harmlesse nothings;</L>
+<L>Times horse runs full as fast, hard borne and curb'd,</L>
+<L>as in his full carreere, loose-rain'd and spurr'd:</L>
+<L>come, come, let's away.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Happinesse, such as men lost in miserie</L>
+<L>would wrong in naming, 'tis so much above them.</L>
+<L>All that I want of it, all you deserve,</L>
+<L>Heav'n send you in my absence.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>And miserie, such as wittie malice would</L>
+<L>Iay out in curses, on the thing it hates,</L>
+<L>Heav'n send mee in the stead, if when y'are gone</L>
+<L>I welcome it, but for your sake alone.—</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Leads him out, and en∣ters up out of the vault.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<P>Stir not from hence, Sir, till you heare from me so goodnight deere Prince.</P>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Goodnight deere friend.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>When wee meet next all this will but advance—</L>
+<L>Joy never feasts so high,</L>
+<L>as when the first course is of miserie.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>ACTUS IV.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENA I.</HEAD>
+<STAGE>Enter three or foure Courtiers.</STAGE>
+<SP>
+<SPEAKER>1. COURT</SPEAKER>
+<L>BY this light—a brave Prince,</L>
+<P>hee made no more of the Guard, than they would of a Taylor on a Maske night, that has refus'd trusting before.</P>
+</SP>
+<SP>
+<SPEAKER>2. COURT.</SPEAKER>
+<L>Hee's as Active as he is valiant too;</L>
+<L>did'st mark him how hee stood like all the points</L>
+<L>o'th' Compasse, and as good Pictures,</L>
+<L>had his eyes, towards everie man.</L>
+</SP>
+<SP>
+<SPEAKER>3. COURT.</SPEAKER>
+<L>And his sword too,</L>
+<L>all th'other side walk up and downe the Court now,</L>
+<L>as if they had lost their way, and stare,</L>
+<L>like Grey-hounds, when the Hare has taken the furze,</L>
+</SP>
+<SP>
+<PB N="21" REF="13"/>
+<SPEAKER>1. COURT.</SPEAKER>
+<L>Right,</L>
+<L>and have more troubles about'em</L>
+<L>than a Serving-man that has forgot his message</L>
+<L>when hee's come upon the place.—</L>
+</SP>
+<SP>
+<SPEAKER>2. COURT.</SPEAKER>
+<L>Yonder's the King within, chafing, and swearing</L>
+<L>like an old Falconer upon the first flight</L>
+<L>of a young Hawke, when some Clowne</L>
+<L>has taken away the quarrie from her;</L>
+<L>and all the Lords stand round about him,</L>
+<L>as if hee were to be baited, with much more feare,</L>
+<L>and at much more distance,</L>
+<L>than a Countrey Gentlewoman sees the Lions the first time:</L>
+<L>looke: hee's broke loose.—</L>
+</SP>
+<STAGE><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>nter King a<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>d Lords.</STAGE>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Finde him; or by <HI>Osiris</HI> selfe, you all are T<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>aitours;</L>
+<L>and equally shall pay to Justice; a single man,</L>
+<L>and guiltie too, breake through you all!</L>
+</SP>
+<STAGE>Enter <HI>Ziriff.</HI></STAGE>
+<SP>
+<SPEAKER>ZIR</SPEAKER>
+<L>Confidence!</L>
+<L>(thou paint of women, and the States-mans wisdome,</L>
+<L>valour for Cowards, and of the guilties Innocence,)</L>
+<L>assist mee now.</L>
+<L>Sir, send these Starers off:</L>
+<L>I have some businesse will deserve your privacie.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Leave us.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>How the villaine swells vpon us?—</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Not to punish thought,</L>
+<L>or keepe it long upon the wrack of doubt,</L>
+<L>know Sir,</L>
+<L>That by corruption of the waiting woman,</L>
+<L>the common key of Secrets, I have found</L>
+<L>the truth at last, and have discover'd all:</L>
+<L>the Prince your Sonne was by <HI>Ag<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>aura</HI> meanes,</L>
+<L>convey'd last night unto the Cypresse Grove,</L>
+<L>through a close vault that opens in the lodgings:</L>
+<L>hee does intend to joyne with <HI>Carimania,</HI></L>
+<L>but ere hee goes, resolves to finish all</L>
+<L>the rites of Love, and this night meanes</L>
+<L>to steale what is behinde.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>How good is Heav'n unto mee!</L>
+<L>that when it gave mee Traitours for my Subjects,</L>
+<L>would lend mee such a Servant!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>How just (Sir) rather,</L>
+<L>that would bestow this Fortune on the poore.</L>
+<L>and where your bountie had made debt so infinite</L>
+<L>that it grew desperate, their hope to pay it—</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Enough of that, thou do'st but gently chide</L>
+<L>mee for a fault, that I will mend; for I</L>
+<L>have beene too poore, and low in my rewards</L>
+<L>unto thy vertue: but to our businesse;</L>
+<L>the question is, whether wee shall rely</L>
+<L>upon our Guards agen?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>By no meanes Sir:</L>
+<L>hope on his future fortunes, or their Love</L>
+<L>unto his person, has so sicklied ore</L>
+<L>their resolutions, that wee must not</L>
+<L>trust them.</L>
+<L><PB N="22" REF="14"/>
+Besides, it were but needlesse here;</L>
+<L>hee <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> through the vault alone, and I</L>
+<L>my selfe <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> dertake that businesse,</L>
+<L>if that were all, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>t there is something else,</L>
+<L>this accident doth prompt my zeale to serve you in.</L>
+<L>I know you love <HI>Aglaura</HI> (Sir) with passion,</L>
+<L>a<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>d would enjoy her; I know besides</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>hee loves him so, that whosoere shall bring</L>
+<L>the ti<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>mgs of his death, must carrie back</L>
+<L>the newes of hers, so that your Justice (Sir)</L>
+<L>must rob your hope: but there is yet a way—</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Here! take my heart; for I have hitherto</L>
+<L>to <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>amly spent the treasure of my love,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e have it coyn'd <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>eight into friendship all,</L>
+<L>and make a present to thee.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>If any part of this rich happinesse,</L>
+<L>(<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ortune prepares now for you) shall owe it selfe</L>
+<L>unto my weake endevours, I have enough.</L>
+<L><HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> without doubt this night expects</L>
+<L>the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, and why</L>
+<L>you should not then supply his place by stealth,</L>
+<L>and <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>n disguise—</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>I apprehend thee <HI>Ziriff,</HI></L>
+<L>but there's difficultie—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Who trades in Love must be an adventurer, (Sir)</L>
+<L>but here is scarce enough to make the pleasure dearer:</L>
+<L>I know the Cave; your Brother and my selfe</L>
+<L>with <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> (for those w'are sure doe hate him,)</L>
+<L>with <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> few chosen more betimes will wait</L>
+<L>the Princes passing through the vault; if hee</L>
+<L>comes first, hee's dead; and if it be your selfe,</L>
+<L>we<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> will conduct you to the chamber doore,</L>
+<L>and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> 'twixt you and danger afterwards.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>I have conceiv'd of Joy, and am growne great:</L>
+<L>Till I have safe deliverance, time's a cripple</L>
+<L>and <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> crutches.—as for thee my <HI>Ziriff,</HI></L>
+<L>I doe here entertaine a friendship with thee,</L>
+<L>shall drowne the memorie of all patternes past;</L>
+<L>wee will oblige by turnes; and that so thick,</L>
+<L>and fast, that curious studiers of it,</L>
+<L>shall not once dare to cast it up, or say</L>
+<L>b<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> way of ghesse, whether thou or I</L>
+<L>remaine the debtors, when wee come to die.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Semanthe, Orithie, Philan, Orsames, <HI>Lords and Ladies.</HI></STAGE>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>Is the Queene ready to come out?</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Not <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>et sure, the Kings brother is but newly entred;</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Come my Lord, the Song then.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>The Song.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>A vengeance take this love, it spoyles a voyce</L>
+<L>worse than the losing of a maiden-head.</L>
+<L>I have got such a cold with rising</L>
+<L>and walking in my shirt a nights, that</L>
+<L>a Bittorne whooping in a reed is better musike.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>This modestie becomes you as ill, my Lord,</L>
+<L>as wooing would us women: pray, put's not to't.</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>Nay Ladies, you shall finde mee,</L>
+<L><PB REF="14" MS="y"/>
+as free, as the Musicians of the woods</L>
+<L>themselves; what I have, you shall not need to call for,</L>
+<L>nor shall it cost you any thing.</L>
+<LG>
+<HEAD>SONG.</HEAD>
+<LG>
+<L>WHy so pale and wan fond Lover?</L>
+<L>Prithee why so pale?</L>
+<L>Will, when looking well can't move her,</L>
+<L>Looking ill prevaile?</L>
+<L>Prithee why so pale?</L>
+</LG>
+<LG>
+<L>Why so dull and mute young Sinner?</L>
+<L>Prithee why so mute?</L>
+<L>Will, when speaking well can't win her,</L>
+<L>Saying nothing doo't?</L>
+<L>Prithee why so mute?</L>
+</LG>
+<LG>
+<L>Quit, quit, for shame, this will not move</L>
+<L>This cannot take her;</L>
+<L>If of her selfe shee will not Love,</L>
+<L>Nothing can make her,</L>
+<L>The Devill take her.</L>
+</LG>
+</LG>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>I should have ghest, it had been the issue of</L>
+<L>your braine, if I had not beene told so;</L>
+</SP>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>A little foolish counsell (Madam) I gave a friend</L>
+<L>of mine foure or five yeares agoe, when he was</L>
+<L>falling into a Consumption.—</L>
+</SP>
+<STAGE>Enter Queene.</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Which of all you have seene the faire prisoner</L>
+<L>since shee was confinde?</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>I have Madam.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>And how behaves shee now her selfe?</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>As one that had intrench'd so deepe in Innocence,</L>
+<L>shee fear'd no enemies, beares all quietly,</L>
+<L>and smiles at Fortune, whil'st shee frownes on her.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>So gallant! I wonder where the beautie lies</L>
+<L>that thus inflames the royall bloud?</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>Faces, Madam, are like bookes, those that doe study them</L>
+<L>know best, and to say truth, 'tis still</L>
+<L>much as it pleases the Courteous Reader.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>These Lovers sure are like Astronomers,</L>
+<L>that when the vulgar eye discovers, but</L>
+<L>a Skie above, studded with some few Stars,</L>
+<L>finde out besides strange fishes, birds, and beasts.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>As men in sicknesse scortch'd into a raving</L>
+<L>doe see the Devill, in all shapes and formes,</L>
+<L>when standers by wondring, aske where, and when;</L>
+<L>So they in Love, for all's but feaver there,</L>
+<L>and madnesse too.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>That's too severe <HI>Semanthe;</HI></L>
+<L>but wee will have your reasons in the parke;</L>
+<L>are the doores open through the Gardens?</L>
+</SP>
+<SP>
+<SPEAKER>LO.</SPEAKER>
+<L>The King has newly led the way.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Ariaspes: Ziriff,</HI> with a warrant sealed.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Thou art a Tyrant, <HI>Ziriff:</HI> I shall die with joy.</L>
+</SP>
+<SP>
+<PB N="24" REF="15"/>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I must confesse my Lord; had but the Princes ills</L>
+<L>prov'd <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>eight, and not thus dangerous,</L>
+<L>hee should have ow'd to mee, at least I would</L>
+<L>have laid a claime unto his safetie; and</L>
+<L>like Physicians, that doe challenge right</L>
+<L>in Natures cures, look'd for reward and thanks;</L>
+<L>but since 'twas otherwise, I thought it best</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>o save my selfe, and then to save the State.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>'Twas wisely done.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Safely I'me sure, my Lord! you know 'tis not</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ur custome, where the Kings dislike, once swells to hate,</L>
+<L>there to ingage our selves; Court friendship</L>
+<L>is a Cable, that in stormes is ever cut,</L>
+<L>and I made bold with it; here is the warrant seal'd</L>
+<L>and for the execution of it, if you thinke</L>
+<L>wee are not strong enough, wee may have</L>
+<L><HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> for him the King did name.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>And him I would have named.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>But is hee not too much the Prince's (Sir?)</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Hee is as lights in Scenes at Masques,</L>
+<L>what glorious shew so ere hee makes without,</L>
+<L>I that set him there, know why, and how;</L>
+<STAGE><HI>Enter</HI> Jolas.</STAGE>
+<L>but here hee is.—</L>
+<L>Come <HI>Iol<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>s.</HI> and since the Heav'ns decreed,</L>
+<L>the man whom thou should'st envie, should be such,</L>
+<L>That all men else must doo't; be not asham'd</L>
+<L>thou once we<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> guiltie of it;</L>
+<L>but blesse them, that they give thee now a meanes,</L>
+<L>to make a friendship with him, and vouchsafe</L>
+<L>to finde thee out a way to love, where well</L>
+<L>thou could'st not hate.</L>
+</SP>
+<SP>
+<SPEAKER>JO<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</SPEAKER>
+<L>What meanes my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Here, here hee stands that has preserv'd us all!</L>
+<L>that sacrifi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>'d unto a <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>u lique good,</L>
+<L>(the dearest private good wee mortalls have)</L>
+<L>Frien<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>hip: gave into ourarmes the Prince,</L>
+<L>when nothing but the sword (perchance a ruine)</L>
+<L>was left to doe it.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>How could I chide my love, and my ambition now,</L>
+<L>that thrust mee upon such a quarrell? here I doe vow—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Hold, doe not vow my Lord, let it deserve it first;</L>
+<L>and yet (if Heav'n blesse honest mens intents)</L>
+<L>'tis not impossible.</L>
+<L>My Lord, you will be pleas'd to informe him in particulars,</L>
+<L>I must be gone.—</L>
+<L>the King I feare already has beene left</L>
+<L>too long alone.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Stay—the houre and place.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Eleven, under the Tarras walke;</L>
+<L>I will not faile you there.</L>
+<STAGE>Goes out, returnes back againe.</STAGE>
+<L>I had forgot:—</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>may be, the small remainder of those lost men</L>
+<L>that were of the Conspiracie, will come along with him:</L>
+<L>'twere best to have some chosen of the Guard</L>
+<L>within our call—</L>
+</SP>
+<STAGE><HI>Exit</HI> Ziriff.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Honest, and carefull <HI>Ziriff:</HI></L>
+<STAGE><HI>Jolas</HI> stands musing.</STAGE>
+<L><PB N="25" REF="15" MS="y"/>
+how now Planet strooke?—</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>This <HI>Ziriff</HI> will grow great with all the world.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Shallow man! short sightedder than Travellers in mists,</L>
+<L>or women that outlive themselves; do'st thou not see,</L>
+<L>that whil'st hee does prepare a Tombe with one hand</L>
+<L>for his friend, hee digs a Grave with th'other for himselfe?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>How so?</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Do'st thinke hee shall not feele the weight of this,</L>
+<L>as well as poore <HI>Thersames?</HI></L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Shall wee then kill him too at the same instant?</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>And say, the Prince made an unluckie thrust.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Right.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Dull, dull, hee must not dye so uselesly.</L>
+<L>As when wee wipe of filth from any place,</L>
+<L>wee throw away the thing that made it clea<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e,</L>
+<L>so this once done, hee's gone.</L>
+<L>Thou know'st the People love the Prince, to their rage</L>
+<L>something the State must offer up; who fitter</L>
+<L>than thy rivall and my enemy?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Rare! our witnesse will be taken.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Pish! let mee alone.</L>
+<L>The Giants that made mountaines ladders,</L>
+<L>and thought to take great <HI>Iov<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></HI> by force, were fooles:</L>
+<L>not hill on hill, but plot on plot, does make</L>
+<L>us sit above, and laugh at all below us.—</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Aglaura,</HI> and a Singing Boy.</STAGE>
+<SP>
+<SPEAKER>BOY.</SPEAKER>
+<L>Madam, 'twill make you melancholly,</L>
+<L>Ile sing the <HI>Prince's</HI> Song, that's sad enough.</L>
+</SP>
+<SP>
+<SPEAKER>AG<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</SPEAKER>
+<L>What you will Sir.</L>
+</SP>
+<SP>
+<LG>
+<HEAD>SONG.</HEAD>
+<LG>
+<L>NO, no, faire Heretique, it needs must bee</L>
+<L>But an ill Love in mee,</L>
+<L>And worse for thee.</L>
+</LG>
+<LG>
+<L>For were it in my Power,</L>
+<L>To love thee now this hower,</L>
+<L>More than I did the last;</L>
+</LG>
+<LG>
+<L>I would then so fall,</L>
+<L>I might not Love at all;</L>
+</LG>
+<LG>
+<L>Love that can flow, and can admit increase,</L>
+<L>Admits as well an Ebb, and may grow lesse.</L>
+</LG>
+<LG>
+<HEAD>2</HEAD>
+<L>True Love is still the same; the torrid Zones,</L>
+<L>And those more frigid ones,</L>
+<L>It must not know:</L>
+</LG>
+<LG>
+<L>For Love growne cold or hot,</L>
+<L>Is Lust, or Friendship, not</L>
+<L>The thing wee have;</L>
+</LG>
+<LG>
+<L>For that's a flame would die,</L>
+<L>Held downe, or up to high:</L>
+</LG>
+<LG>
+<L>Then thinke I love more than I ca<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> expresse,</L>
+<L>And would love more, could I but love thee lesse.</L>
+</LG>
+</LG>
+</SP>
+<SP>
+<PB N="26" REF="16"/>
+<SPEAKER>AGL.</SPEAKER>
+<L>Leave mee! for to a Soule, so out of Tune</L>
+<L>as mine is now; nothing is harmony:</L>
+<L>when once the maine-spring, <HI>Hope,</HI> is falne into</L>
+<L>disorder; no wonder, if the lesser wheeles,</L>
+<L><HI>Desire,</HI> and <HI>Ioy,</HI> stand still; my thoughts like <HI>Bees</HI></L>
+<L>when they have lost their King, wander</L>
+<L>confusedly up and downe, and settle no where.</L>
+<STAGE><HI>Enter</HI> Orithie.</STAGE>
+<L><HI>Orithie,</HI> flie! flie the roome,</L>
+<L>as thou would'st shun the habitations</L>
+<L>which Spirits haunt, or where thy nearer friends</L>
+<L>walk after death; here is not only Love,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ut Loves plague too—mis-fortune; and so high,</L>
+<L>that it is sure infectious!</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<P>Madam, so much more miserable am I this way than you, that should I pitie you, I should forget my selfe:</P>
+<L>my sufferings are such, that with lesse patience</L>
+<L>you may endure your owne, than give mine Audience.</L>
+<L>There is that difference, that you may make</L>
+<L>yours none at all, but by considering mine!</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>O speake them quickly then! the marriage day</L>
+<L>to passionate Lovers never was more welcome,</L>
+<L>than any kinde of ease would be to mee now.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>Could they be spoke, they were not then so great.</L>
+<L>I love, and dare not say I love; dare not hope,</L>
+<L>what I desire; yet still too must desire—</L>
+<L>and like a starving man brought to a feast,</L>
+<L>and made say grace, to what he nere shall taste,</L>
+<L>be thankfull after all, and kisse the hand,</L>
+<L>that made the wound thus deepe.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>'Tis hard indeed, but with what unjust scales,</L>
+<L>thou took'st the weight of our mis-fortunes,</L>
+<L>be thine owne Judge now.</L>
+<L>thou mourn'st for losse of that thou never hadst,</L>
+<L>or if thou hadst a losse, it never was</L>
+<L>of a <HI>Thersames.</HI></L>
+<L>would'st thou not thinke a Merchant mad, <HI>Orithie?</HI></L>
+<L>if thou shouldst see him weepe, and teare his haire,</L>
+<L>because hee brought not both the Indies home?</L>
+<L>and wouldst not thinke his sorrowes verie just,</L>
+<L>if having fraught his ship with some rich Treasure,</L>
+<L>hee sunke i'th' verie Port? This is our case.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>And doe you thinke there is such odds in it?</L>
+<L>would Heaven we women could as easily change</L>
+<L>our fortunes as ('tis said) wee can our minds.</L>
+<L>I cannot (Madam) thinke them miserable,</L>
+<L>that have the Princes Love.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Hee is the man then—</L>
+<L>blush not <HI>Orithie,</HI> 'tis a sinne to blush</L>
+<L>for loving him, though none at all to love him.</L>
+<L>I can admit of rivalship without</L>
+<L>a jealousie—nay shall be glad of it:</L>
+<L>wee two will sit, and thinke, and thinke, and sigh,</L>
+<L>and sigh, and talke of love—and of <HI>Thersames.</HI></L>
+<L>Thou shalt be praising of his wit, while I</L>
+<L>admire he governes it so well:</L>
+<L><PB REF="16"/>
+like this thing, said thus, th'other thing thus done,</L>
+<L>and in good language him for these adore,</L>
+<L>while I want words to doo't, yet doe it more.</L>
+<L>Thus will wee doe, till death it selfe shall us</L>
+<L>divide, and then whose fate 'tshall be to die</L>
+<L>first of the two, by legacie shall all</L>
+<L>her love bequeath, and give her stock to her</L>
+<L>that shall survive; for no one stock can serve,</L>
+<L>to love <HI>Thersames</HI> so as hee'll deserve.</L>
+</SP>
+<STAGE>Enter King, <HI>Ziriff.</HI></STAGE>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>What have wee here impossibilitie?</L>
+<L>a constant night, and yet within the roome</L>
+<L>that, that can make the day before the Sunne?</L>
+<L>silent <HI>Aglaura</HI> too?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>I know not what to say:</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>s't to your pitie, or your scorne, I owe</L>
+<L>the favour of this visit (Sir?) for such</L>
+<L>my fortune is, it doth deserve them both:</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>And such thy beautie is, that it makes good</L>
+<L>all Fortunes, sorrow lookes lovely here;</L>
+<L>and there's no man, that would not entertaine</L>
+<L>his griefes as friends, were hee but sure they'd shew</L>
+<L>no worse upon him—but I forget my selfe,</L>
+<L>I came to chide.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<P>If I have sinn'd so high, that yet my punishment equalls not my crime,</P>
+<L>doe Sir; I should be loth to die in debt</L>
+<L>to Justice, how ill soere I paid</L>
+<L>the scores of Love.—</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<P>And those indeed thou hast but paid indifferently to mee, I did deserve at least faire death,</P>
+<L>not to be murthered thus in private:</L>
+<L>that was too cruell, Mistresse.</L>
+<L>And I doe know thou do'st repent, and wilt</L>
+<L>yet make mee satisfaction:</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>What satisfaction Sir?</L>
+<L>I am no monster, never had two hearts;</L>
+<L>One is by holy vowes anothers now,</L>
+<L>and could I give it you, you would not take it,</L>
+<L>for'tis alike impossible for mee,</L>
+<L>to love againe, as you love Perjurie.</L>
+<L>O Sir! consider, what a flame love is.</L>
+<L>If by rude meanes you thinke to force a light,</L>
+<L>that of it selfe it would not freely give,</L>
+<L>you blow it out, and leave your selfe i'th' darke.</L>
+<L>The Prince once gone, you may as well perswade</L>
+<L>the light to stay behinde, when the Sun posts</L>
+<L>to th'other world, as mee; alas! wee two,</L>
+<L>have mingled soules more than two meeting brooks;</L>
+<L>and whosoever is design'd to be</L>
+<L>the murtherer of my Lord, (as sure there is,</L>
+<L>has anger'd heav'n so farre, that 'tas decreed</L>
+<L>him to encrease his punishment that way)</L>
+<L>would hee but search the heart, when hee has done,</L>
+<L>hee there would finde <HI>Aglaura</HI> murther'd too.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Thou hast <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>come mee, mov'd so handsomely</L>
+<L><PB N="28" REF="17"/>
+for pitie, that I will dis-inherit</L>
+<L>the elder brother, and from this houre be</L>
+<L>thy Convert, not thy Lover.—</L>
+<L><HI>Ziriff,</HI> dispatch away—</L>
+<L>and hee that brings newes of the Prince's welfare,</L>
+<L>looke that hee have the same reward, wee had decreed</L>
+<L>to him, brought tidings of his death.</L>
+<L>'Tmust be a busie and bold hand, that would</L>
+<L>unlinke a chaine the Gods themselves have made:</L>
+<L>peace to thy Thoughts: <HI>Aglaura</HI>—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Ziriff</HI> steps back and speakes.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>What ere he sayes beleeve him not <HI>Aglaura:</HI></L>
+<L>for lust and rage ride high within him now:</L>
+<L>hee knowes <HI>Thersames</HI> made th'escape from hence,</L>
+<L>and does conceale it only for his ends:</L>
+<L>for by the favour of mistake and night,</L>
+<L>hee hopes t'enjoy thee in the Prince's roome;</L>
+<L>I shall be mist—else I would tell thee more;</L>
+<L>But thou mayest ghesse, for our condition</L>
+<L>admits no middle wayes, either wee must</L>
+<L>send them to Graves, or lie our selves in dust:—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Aglaura</HI> stands still and studies.</STAGE>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Ha! 'tis a strange Act thought puts me now upon;</L>
+<L>yet sure my brother meant the selfe same thing,</L>
+<L>and my <HI>Thersames</HI> would have done't for mee:</L>
+<L>to take his life, that seekes to take away</L>
+<L>the life of Life, (honour from mee;) and from</L>
+<L>the world, the life of honour, <HI>Thersames;</HI></L>
+<L>must needs be something sure, of kin to Justice.</L>
+<L>If I doe faile, th'attempt howere was brave,</L>
+<L>and I shall have at worst a handsome grave—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Jolas, Semanthe.</STAGE>
+<STAGE>Semanthe <HI>steps back,</HI> Jolas <HI>stayes her.</HI></STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>What? are we growne, <HI>Semanthe,</HI> night, and day?</L>
+<L>Must one still vanish when the other comes?</L>
+<L>Of all that ever Love did yet bring forth</L>
+<L>(and 't has beene fruitfull too,) this is</L>
+<L>the strangest Issue.—</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>What my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Hate, <HI>Semanthe.</HI></L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>You doe mistake, if I doe shun you, 'tis,</L>
+<L>as bashfull Debtors shun their Creditors,</L>
+<L>I cannot pay you in the selfe same coyne,</L>
+<L>and am asham'd to offer any other.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>It is ill done, <HI>Semanthe,</HI> to plead bankrupt,</L>
+<L>when with such ease you may be out of debt;</L>
+<L>In loves dominions, native commoditie</L>
+<L>is currant payment, change is all the Trade,</L>
+<L>and heart for heart, the richest merchandize.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>'Twould here be meane my Lord, since mine would prove</L>
+<L>In your hands but a Counterfeit, and yours in mine</L>
+<L>worth nothing; Sympathy, not greatnesse,</L>
+<L>makes those Jewells rise in value.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Sympathy! ô teach but yours to love then,</L>
+<L>and two so rich no mortall ever knew.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>That heart would Love but ill that must be taught,</L>
+<L><PB N="29" REF="17"/>
+such fires as these still kindle of themselves.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>In such a cold, and frozen place, as is</L>
+<L>thy breast? how should they kindle of themselves</L>
+<L>Semanthe?</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Aske? how the Flint can carrie fire within?</L>
+<L>'tis the least miracle that Love can doe:</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Thou art thy selfe the greatest miracle,</L>
+<L>for thou art faire to all perfection,</L>
+<L>and yet do'st want the greatest part of beautie,</L>
+<L>Kindnesse; thy crueltie (next to thy selfe,)</L>
+<L>above all things on earth takes up my wonder.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Call not that crueltie, which is our fate,</L>
+<L>beleeve me <HI>Iolas,</HI> the honest Swaine</L>
+<L>that from the brow of some steepe cliffe far off,</L>
+<L>beholds a ship labouring in vaine against</L>
+<L>the boysterous and unruly Elements, ne're had</L>
+<L>lesse power, or more desire to help than I;</L>
+<L>at everie sigh, I die, and everie looke,</L>
+<L>does move; and any passion you will have</L>
+<L>but Love, I have in store: I will be angrie,</L>
+<L>quarrell with destinie, and with my selfe</L>
+<L>that 'tis no better; be melancholy;</L>
+<L>And (though mine owne disasters well might plead</L>
+<L>to be in chiefe,) yours only shall have place,</L>
+<L>Ile pitie, and (if that's too low) Ile grieve,</L>
+<L>as for my sinnes, I cannot give you ease;</L>
+<L>all this I doe, and this I hope will prove</L>
+<L>'tis greater Torment not to love, than Love.—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>So perishing Sailours pray to stormes,</L>
+<L>and so they heare agen. So men</L>
+<L>with death about them, looke on Physitians that</L>
+<L>have given them o're, and so they turne away:</L>
+<L>Two fixed Stars that keepe a constant distance,</L>
+<L>and by lawes made with themselves must know</L>
+<L>no motion excentrick, may meet as soone as wee:</L>
+<L>The anger that the foolish Sea does shew,</L>
+<L>when it does brave it out, and rore against</L>
+<L>a stubborne rock that still denies it passage,</L>
+<L>is not so vaine and fruitlesse, as my prayers.</L>
+<L>Yee mightie Powers of Love and Fate, where is</L>
+<L>your Justice here? It is thy part (fond Boy)</L>
+<L>when thou do'st finde one wounded heart, to make</L>
+<L>the other so, but if thy Tyranny</L>
+<L>be such, that thou wilt leave one breast to hate,</L>
+<L>If wee must live, and this survive,</L>
+<L>how much more cruell's Fate?—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>ACTUS V.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENA I.</HEAD>
+<STAGE><HI>Enter</HI> Ziriff, Ariaspes, Jolas.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>A Glorious night!</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Pray Heav'n it prove so.</L>
+<L>Are wee not there yet?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>'Tis about this hollow.</L>
+</SP>
+<STAGE><PB N="30" REF="18"/>
+Enter the Cave.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>How now! what region are we got into?</L>
+<L>Th'enheritance of night;</L>
+<L>Are wee not mistaken a turning <HI>Ziriff,</HI></L>
+<L>and stept into some melancholy Devils Territorie?</L>
+<L>Sure 'tis a part of the first <HI>Chaos,</HI></L>
+<L>that would endure no change.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>No matter Sir, 'tis as proper for our purpose,</L>
+<L>as the Lobbie for the waiting womans.</L>
+<L>Stay you here, Ile move a little backward,</L>
+<L>and so wee shall be sure to put him past</L>
+<L>retreat: you know the word if't be the Prince.</L>
+<STAGE>Goes to the mouth of the Cave.</STAGE>
+<STAGE>Enter King.</STAGE>
+<L>Here Sir, follow mee, all's quiet yet.—</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Hee is not come then?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>No.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Where's <HI>Ariaspes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Waiting within.</L>
+</SP>
+<STAGE>Hee leads him on, steps behinde him, gives the false word, they kill the King.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>I doe not like this waiting,</L>
+<L>nor this fellowes leaving us.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>This place does put odd thoughts into thee,</L>
+<L>then thou art in thine owne nature too, as jealous</L>
+<L>as either Love, or Honor: Come, weare thy sword in readines,</L>
+<L>and thinke how neere wee are a crowne.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Revenge!</L>
+<L>So let's drag him to the light, and search</L>
+<L>his pockets, there may be papers there that will</L>
+<L>discover the rest of the Conspiratours.</L>
+<L><HI>Iol<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>s,</HI> your hand—</L>
+</SP>
+<STAGE>Draw him out.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Whom have wee here? the King!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes, and <HI>Zorrannes</HI> too, Illo! hoe!—</L>
+<STAGE>Enter <HI>Pasithas</HI> and others.</STAGE>
+<L>Unarme them.</L>
+<L>D'ee stare?</L>
+<L>This for my Fathers injuries and mine:</L>
+<STAGE>Points to the Kings dead body.</STAGE>
+<L>halfe Love, halfe Duties Sacrifice,</L>
+<L>this—for the noble Prince, an offering to friendship:</L>
+</SP>
+<STAGE>Runs at <HI>Jolas.</HI></STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Basely! and tamely—</L>
+</SP>
+<STAGE>Dies.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>What hast thou done?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Nothing—kill'd a Traytour,</L>
+<L>So—away with them, and leaves us,</L>
+<L><HI>Pasithas</HI> be onely you in call.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>What do'st thou pawse?</L>
+<L>hast thou remorse already murtherer?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>No foole: 'tis but a difference I put</L>
+<L>betwixt the crimes: <HI>Orbella</HI> is our quarrell;</L>
+<L>and I doe hold it fit, that love should have</L>
+<L>a nobler way of Justice, than Revenge</L>
+<L>or Treason; follow mee out of the wood,</L>
+<L>and thou shalt be Master of this againe:</L>
+<L>and then, best arme and title take it.</L>
+<STAGE>They goe out and enter agen.</STAGE>
+<L>There—</L>
+</SP>
+<STAGE>Gives him his sword.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Extremely good! Nature tooke paines I sweare,</L>
+<L>the villaine and the brave are mingled handsomly.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>'Twas Fate that tooke it, when it decreed</L>
+<L>wee two should meet, nor shall they mingle now</L>
+<L>wee are brought together strait to part.—</L>
+</SP>
+<STAGE>Fight,</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Some Devill sure has borrowed this shape.</L>
+<STAGE><PB N="31" REF="18"/>
+Pawse.</STAGE>
+<L>my sword ne're stay'd thus long to finde an entrance.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>To guiltie men, all that appeares is Devill,</L>
+<L>come Trifler, come.—</L>
+</SP>
+<STAGE>Fight againe, <HI>Ariaspes</HI> falls.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Whither, whither, thou fleeting Coward life?</L>
+<L>Bubble of Time, Natures shame, stay; a little, stay!</L>
+<L>till I have look'd my selfe into revenge,</L>
+<L>and star'd this Traytour to a carcasse first.</L>
+<L>—It will not be:—</L>
+<STAGE>Falls.</STAGE>
+<L>the Crowne, the Crowne, too</L>
+<L>now is lost, for ever lost—oh!—</L>
+<L>Ambition's, but an <HI>Ignis fatuus,</HI> I see</L>
+<L>misleading fond mortalitie,</L>
+<L>That hurries us about, and sets us downe</L>
+<L>Just—where—wee—first—begun—</L>
+</SP>
+<STAGE>Dies.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>What a great spreading mightie thing this was,</L>
+<L>and what a nothing now? how soone poore man</L>
+<L>vanishes into his noone-tide shadow?</L>
+<L>but hopes o're fed have seldome better done:—</L>
+<STAGE>(Hollowes.) Enter <HI>Pasithas.</HI></STAGE>
+<L>Take up this lump of vanitie, and honour,</L>
+<L>and carrie it the back way to my lodging,</L>
+<L>there may be use of States-men, when th'are dead:</L>
+<L>So.—for the Cittadell now, for in such times</L>
+<L>as these, when the unruly multitude</L>
+<L>is up in swarmes, and no man knowes which way</L>
+<L>they'll take, 'tis good to have retreat.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Thersames.</HI></STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>The Dog-star's got up high, it should be late:</L>
+<L>and sure by this time everie waking eare,</L>
+<L>and watchfull eye is charm'd; and yet mee thought</L>
+<L>a noyse of weapons strucke my eare just now.</L>
+<L>'Twas but my Fancie sure, and were it more,</L>
+<L>I would not tread one step, that did not lead</L>
+<L>to my <HI>Aglaura,</HI> stood all his Guard betwixt,</L>
+<L>with lightning in their hands;</L>
+<L><HI>Danger!</HI> thou Dwarfe drest up in Giants clothes,</L>
+<L>that shew'st farre off, still greater than thou art:</L>
+<L>goe, terrifie the simple, and the guiltie, such</L>
+<L>as with false Opticks, still doe looke upon thee.</L>
+<L>But fright not Lovers, wee dare looke on thee</L>
+<L>in thy worst shape, and meet thee in them too.</L>
+<L>Stay—These trees I made my marke, 'tis hereabouts,</L>
+<L>—Love guide mee but right this night,</L>
+<L>and Lovers shall restore thee back againe</L>
+<L>those eyes the Poets tooke so boldly from thee.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Aglaura</HI> with a torch in one hand, and a dagger in the other.</STAGE>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>How ill this does become this hand, how much worse</L>
+<L>this suits with this, one of the two should goe.</L>
+<L>The shee within mee sayes, it must be this—</L>
+<L>honour sayes this—and honour is <HI>Thersames</HI> friend.</L>
+<L>What is that shee then? it is not a thing</L>
+<L>that sets a Price, not upon mee, but on</L>
+<L>life in my name, leading mee into doubt,</L>
+<L>which when 'tas done, it cannot light mee out.</L>
+<L>For feare does drive to Fate, or Fate if wee</L>
+<L>doe flie, oretakes, and holds us, till or death,</L>
+<L>or infamie, or both doth cease us.—</L>
+<STAGE>Puts out the light.</STAGE>
+<L><PB N="32" REF="19"/>
+Ha!—would 'twere in agen.</L>
+<L>Antiques and strange mishapes,</L>
+<L>such as the Porter to my Soule, mine Eye,</L>
+<L>was ne're acquainted with, Fancie lets in,</L>
+<L>like a distracted multitude, by some strange accident</L>
+<L>piec'd together, feare now afresh comes on,</L>
+<L>and charges Love to home.</L>
+<L>—Hee comes—hee comes—</L>
+<P>woman, if thou would'st be the Subject of mans wonder, not his scorne hereafter,</P>
+<L>now shew thy selfe.</L>
+<STAGE>Enter Prince rising from the vault, shee stabs him two or three times, hee falls, shees goes back to her chamber.</STAGE>
+<L>Sudden and fortunate.</L>
+<L>My better Angell sure did both infuse</L>
+<L>a strength, and did direct it.</L>
+</SP>
+<STAGE>Enter <HI>Ziriff.</HI></STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Aglaura!</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Brother—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>The same.</L>
+<L>So slow to let in such a long'd for Guest?</L>
+<L>must Joy stand knocking Sister, come, prepare,</L>
+<L>prepare.—</L>
+<L>The King of <HI>Persia</HI>'s comming to you strait!</L>
+<L>the King!—marke that.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>I thought how poore the Joyes you brought with you,</L>
+<L>were in respect of those that were with mee:</L>
+<L>Joyes, are our hopes stript of their feares,</L>
+<L>and such are mine; for know, deare Brother,</L>
+<L>the King is come already, and is gone—marke that.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Is this instinct, or riddle? what King? how gone?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>The Cave will tell you more—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Some sad mistake—thou hast undone us all.</L>
+<STAGE>Goes out, enters <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>stily againe.</STAGE>
+<L>The Prince! the Prince! cold as the bed of earth</L>
+<L>hee lies upon, as senslesse too; death hangs</L>
+<L>upon his lips,</L>
+<L>like an untimely frost, upon an early Cherrie;</L>
+<L>the noble Guest, his Soule, tooke it so ill</L>
+<L>that you should use his old Acquaintance so,</L>
+<L>that neither pray'rs, nor teares, can e're perswade</L>
+<L>him back againe.—</L>
+<STAGE><HI>Aglaura</HI> swounes: rubs her.</STAGE>
+<L>hold, hold! wee cannot sure part thus!</L>
+<L>Sister! <HI>Aglaura! Thersames</HI> is not dead,</L>
+<L>It is the Prince that calls—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>The Prince, where?—</L>
+<L>Tell mee, or I will strait goeback againe,</L>
+<L>into those groves of Gessemine, thou took'st mee from,</L>
+<L>and finde him out, or lose my selfe for ever.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>For ever.—I: there's it!</L>
+<L>for in those groves thou talk'st of,</L>
+<L>there are so many by-wayes, and odd turnings,</L>
+<L>leading unto such wild and dismall places,</L>
+<L>that should weegoe without a guide, or stir</L>
+<L>before Heav'n calls, 'tis strongly to be feared</L>
+<L>wee there should wander up and downe for ever,</L>
+<L>and be benighted to eternitie!—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Benighted to eternitie?—What's that?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Why 'tis to be benighted to eternitie;</L>
+<L><PB N="33" REF="19"/>
+to sit i'th' darke, and doe I know not what;</L>
+<L>unriddle at our owne sad cost and charge,</L>
+<L>the doubts the learned here doe onely move—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>What place have murtherers brother there? for sure</L>
+<L>the murtherer of the Prince must have</L>
+<L>a punishment that Heaven is yet to make.—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>How is religion fool'd betwixt our loves,</L>
+<L>and feares? poore Girle, for ought that thou hast done,</L>
+<L>thy Chaplets may be faire and flourishing,</L>
+<L>as his in the <HI>Elysium:</HI></L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Doe you thinke so?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes, I doe thinke so.</L>
+<L>The juster Judges of our Actions,</L>
+<L>would they have beene severe upon</L>
+<L>our weaknesses,</L>
+<L>would (sure) have made us stronger.—</L>
+<L>Fie! those teares</L>
+<L>a Bride upon the marriage day as properly</L>
+<L>might shed as thou, here widowes doo't</L>
+<L>and marrie next day after:</L>
+<L>To such a funerall as this, there should be</L>
+<L>nothing common—</L>
+<L>Wee'll mourne him so, that those that are alive</L>
+<L>shall thinke themselves more buried sar than hee;</L>
+<L>and wish to have his grave, to finde his Obsequies:</L>
+<L>but stay—the Body.</L>
+<STAGE>Brings up the bodie, shee swounes and dies.</STAGE>
+<L>Agen! Sister—<HI>Aglaura</HI>—</L>
+<L>ô speake once more, once more looke out faire Soule.—</L>
+<L>Shee's gone.—</L>
+<L>Irrevocably gone.—And winging now the Aire,</L>
+<L>like a glad bird broken from some cage:</L>
+<L>poore Bankrupt heart, when 'thad not wherewithall</L>
+<L>to pay to sad disaster all that was its due,</L>
+<L>it broke—would mine would doe so too.</L>
+<L>My soule is now within mee</L>
+<L>like a well metled Hauke, on a blinde Faulk'ners fist,</L>
+<L>mee thinks I feele it baiting to be gone:</L>
+<L>and yet I have a little foolish businesse here</L>
+<L>on earth; I will dispatch:—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Pasithas,</HI> with the body of <HI>Ariaspes.</HI></STAGE>
+<SP>
+<SPEAKER>PAS.</SPEAKER>
+<P>Let mee bee like my burthen here, if I had not as lieve kill two of the Bloud-royall for him, as carrie one of them; These Gentlemen of high actions are three times as heavie after death, as your private retir'd ones; looke if hee be not re∣duc'd to the state of a Courtier of the second forme now? and cannot stand upon his owne legs, nor doe any thing without help, Hum.—And what's become of the great Prince, in prison as they call it now, the toy within us, that makes us talke, and laugh, and fight, I! why there's it, well, let him be what hee will, and where hee will, Ile make bold with the old Tenement here. Come Sir—come along:—</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Ziriff.</HI></STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>All's fast too, here—</L>
+<L>They sleepe to night</L>
+<L>i'their winding sheets I thinke, there's such</L>
+<L>a generall quiet.</L>
+<L>Oh! here's light I warrant:</L>
+<L>for lust does take as little rest, as care, or age.—</L>
+<L><PB N="34" REF="20"/>
+Courting her glasse, I sweare, fie! that's a flatterer Madam,</L>
+<L>in mee you shall see trulier what you are.</L>
+</SP>
+<STAGE>Knocks. Enter the Queene.</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>What make you up at this strange houre my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>My businesse is my boldnesse warrant,</L>
+<L>(Madam)</L>
+<L>and I could well afford t'have beene without it now,</L>
+<L>had Heav'n so pleas'd.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>'Tis a sad Prologue,</L>
+<L>what followes in the name of vertue?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>The King.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>I: what of him? is well is hee not?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes.—</L>
+<L>If to be free from the great load</L>
+<L>wee sweat and labour under, here on earth</L>
+<L>be to be well, hee is.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Why hee's not dead, is hee?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes Madam, slaine—and the Prince too.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>How? where?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I know not, but dead they are.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Dead!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes Madam.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Didst see them dead?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>As I see you alive.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Dead!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes, dead.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Well, wee must all die;</L>
+<L>the Sisters spin no cables for us mortalls;</L>
+<L>th'are thred; and Time, and chance—</L>
+<L>trust mee I could weep now,</L>
+<L>but watrie distillations doe but ill on graves,</L>
+<L>they make the lodging colder.</L>
+</SP>
+<STAGE>Shee knocks.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>What would you Madam?</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Why my friends, my Lord!</L>
+<L>I would consult and know, what's to be done.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Madam 'tis not so safe to raise the Court;</L>
+<L>things thus unsetled, if you please to have—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Where's <HI>Ariaspes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>In's dead sleepe by this time I'm sure.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>I know hee is not! find him instantly.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I'm gone.—</L>
+<STAGE>Turnes back againe.</STAGE>
+<L>But Madam, why make you choyce of him, from whom</L>
+<L>if the succession meet disturbance,</L>
+<L>all must come of danger?</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>My Lord, I am not yet so wise, as to be jealous;</L>
+<L>pray dispute no further.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Pardon mee Madam, if before I goe</L>
+<L>I must vnlock a secret unto you; such a one</L>
+<L>as while the King did breathe durst know no aire,</L>
+<L><HI>Zorannes</HI> lives.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>And in the hope of such a day as this</L>
+<L>has lingred out a life, snatching, to feed</L>
+<L>his almost famish'd eyes,</L>
+<L>sights now and then of you, in a disguise.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Strange! this night is big with miracle!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>If you did love him, as they say you did,</L>
+<L><PB REF="20"/>
+and doe so still; 'tis now within your power!</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>I would it were my Lord, but I am now</L>
+<L>no private woman, if I did love him once</L>
+<L>(and 'tis so long agoe, I have forgot)</L>
+<L>my youth and ignorance may well excuse't.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Excuse it?</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Yes, excuse it Sir.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Though I confesse I lov'd his father much,</L>
+<L>and pitie him, yet having offer'd it</L>
+<L>unto your thoughts: I have discharg'd a trust;</L>
+<L>and zeale shall stray no further.</L>
+<L>Your pardon Madam:</L>
+</SP>
+<STAGE>Exit. Queene studies.</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>May be 'tis a plot to keep off <HI>Ariaspes</HI></L>
+<L>greatnesse, which hee must feare, because hee knowes</L>
+<L>hee hates him: for these great States-men,</L>
+<L>that when time has made bold with the King and Subject,</L>
+<L>throwing downe all fence that stood betwixt their power</L>
+<L>and others right, are on a change,</L>
+<L>like wanton Salmons comming in with flouds,</L>
+<L>that leap o're wyres and nets, and make their way</L>
+<L>to be at the returne to everie one a prey.</L>
+</SP>
+<STAGE>Enter <HI>Ziriff,</HI> and <HI>Pasithas</HI> throwing downethe dead body of <HI>Ariaspes.</HI></STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Ha! murthered too!</L>
+<L>treason—treason—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>But such another word, and halfe so loud,</L>
+<L>and th'art.—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Why? thou wilt not murther mee too?</L>
+<L>wilt thou villaine?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I doe not know my temper—</L>
+<STAGE>Discovers himselfe.</STAGE>
+<L>Looke here vaine thing, and see thy sins full blowne:</L>
+<L>There's scarce a part in all this face, thou hast</L>
+<L>not beene forsworne by, and Heav'n forgive thee for't!</L>
+<L>for thee I lost a Father, Countrey, friends,</L>
+<L>my selfe almost, for I lay buried long;</L>
+<L>and when there was no use thy love could pay</L>
+<L>too great, thou mad'st the principle away:</L>
+<L>had I but staid, and not began revenge</L>
+<L>till thou had'st made an end of changing,</L>
+<L>I had had the Kingdome to have kill'd:</L>
+<L>As wantons entring a Garden, take</L>
+<L>the first faire flower, they meet, and</L>
+<L>treasure't in their laps.</L>
+<L>Then seeing more, doe make fresh choyce agen,</L>
+<L>throwing in one and one, till at the length</L>
+<L>the first poore flower o're-charg'd, with too much weight</L>
+<L>withers, and dies:</L>
+<L>so hast thou dealt with mee,</L>
+<L>and having kill'd mee first, I will kill—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Hold—hold—</L>
+<L>Not for my sake, but <HI>Orbella's</HI> (Sir) a bare</L>
+<L>and single death is such a wrong to Justice,</L>
+<L>I must needs except against it.</L>
+<L>Finde out a way to make mee long a dying;</L>
+<L>for death's no punishment, it is the sense,</L>
+<L>the paines and feares afore that makes a death:</L>
+<L><PB N="36" REF="21"/>
+To thinke what I had had, had I had you,</L>
+<L>what I have lost in losing of my selfe;</L>
+<L>are deaths farre worse than any you can give:</L>
+<L>yet kill mee quickly, for if I have time,</L>
+<L>I shall so wash this soule of mine with teares,</L>
+<L>make it so fine, that you would be afresh</L>
+<L>in love with it, and so perchance I should</L>
+<L>againe come to deceive you.</L>
+</SP>
+<STAGE>Shee rises up weeping, and hanging downeher head.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>So rises day, blushing at nights deformitie:</L>
+<L>and so the prettie flowers blubber'd with dew,</L>
+<L>and ever washt with raine, hang downe their heads,</L>
+<L>I must not looke upon her:</L>
+</SP>
+<STAGE>(Goes towards him.)</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Were but the Lillies in this face as fresh</L>
+<L>as are the roses; had I but innocence</L>
+<L>joyn'd to their blushes, I should then be bold,</L>
+<L>for when they went on begging they were ne're den<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>de,</L>
+<L>'Tis but a parting kisse Sir—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I dare not grant it.—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Your hand Sir then, for that's a part I shall</L>
+<L>love after death (if after death wee love)</L>
+<L>cause it did right the wrong'd <HI>Zorannes,</HI> here—</L>
+<STAGE>Steps to him, and open the box of poyson, <HI>Zorannes</HI> falls.</STAGE>
+<L>Sleepe, sleepe for ever, and forgotten too,</L>
+<L>all but thy ills, which may succeeding time</L>
+<L>remember, as the Sea-man does his marks,</L>
+<L>to know what to avoyd, may at thy name</L>
+<L>all good men start, and bad too, may it prove</L>
+<L>infection to the Aire, that people dying of it</L>
+<L>may helpe to curse thee for mee.</L>
+<STAGE>Turnes to the body of <HI>Ariaspes.</HI></STAGE>
+<L>Could I but call thee back as eas'ly now;</L>
+<L>but that's a Subject for our teares, not hopes!</L>
+<L>there is no piecing Tulips to their stalks,</L>
+<L>when they are once divorc'd by a rude hand;</L>
+<L>all wee can doe is to preserve in water</L>
+<L>a little life, and give by courteous Art</L>
+<L>what scanted Nature wants Commission for,</L>
+<L>that thou shalt have: for to thy memorie</L>
+<L>such Tribute of moyst sorrow I will pay,</L>
+<L>and that so purifi'd by love, that on thy grave</L>
+<L>nothing shall grow but Violets and Primroses,</L>
+<L>of which too, some shall be</L>
+<L>of the mysterious number, so that Lovers shall</L>
+<L>come thither not as to a Tombe, but to an Oracle.</L>
+</SP>
+<STAGE>Shee knocks, and raises the Court.</STAGE>
+<STAGE>Enter Ladies and Courtiers, as out of their beds.</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Come! come! help mee to weep my selfe away,</L>
+<L>and melt into a grave, for life is but</L>
+<L>repentance nurse, and will conspire with memorie,</L>
+<L>to make my houres my tortures.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>What Scene of sorrow's this? both dead!</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Dead? I! and 'tis but halfe death's triumphs this,</L>
+<L>the King and Prince lye somewhere, just</L>
+<L>such emptietruncks as these.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>The Prince?</L>
+<L>then in griefes burthen I must beare a part.</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>The noble <HI>Ariaspes</HI>—valiant <HI>Ziriff</HI> too.—<HI>Weeps.</HI></L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Weep'st thou for him, fond Prodigall? do'st know</L>
+<L><PB N="37" REF="21"/>
+on whom thou spend'st thy teares? this is the man</L>
+<L>to whom wee owe our ills; the false <HI>Zorannes</HI></L>
+<L>disguis'd, not lost; but kept alive, by some</L>
+<STAGE>Enter <HI>Pasithas,</HI> surveyes the bodies, findes his Master.</STAGE>
+<L>incensed Power, to punish <HI>Persia</HI> thus:</L>
+<L>Hee would have kill'd mee too, but Heav'n was just,</L>
+<L>and furnisht mee with meanes, to make him pay</L>
+<L>this score of villanie, ere hee could doe more.</L>
+</SP>
+<SP>
+<SPEAKER>PAS.</SPEAKER>
+<L>Were you his murth'rer then?—</L>
+</SP>
+<STAGE><HI>Pasithas</HI> runs at her, kills her, and flies, Rub her till shee come to her selfe.</STAGE>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>Ah mee! the Queene.—</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>How doe you Madam?</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Well,—but I was better, and shall—</L>
+</SP>
+<STAGE>Dies.</STAGE>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Oh! shee is gone for ever.</L>
+</SP>
+<STAGE>Enter Lords in their night gownes, <HI>Orsames, Philan.</HI></STAGE>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>What have wee here?</L>
+<L>a Church-yard? nothing but silence, and grave?</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>Oh! here has been (my Lords)</L>
+<L>the blackest night the <HI>Persian</HI> world e're knew,</L>
+<L>the King and Prince are not themselves exempt</L>
+<L>from this arrest; but pale and cold, as these,</L>
+<L>have measured out their lengths.</L>
+</SP>
+<SP>
+<SPEAKER>Lo.</SPEAKER>
+<L>Impossible! which way?</L>
+</SP>
+<SP>
+<SPEAKER>SEM.</SPEAKER>
+<L>Of that wee are as ignorant as you:</L>
+<L>for while the Queene was telling of the Storie,</L>
+<L>an unknowne villaine here has hurt her so,</L>
+<L>that like a sickly Taper, shee but made</L>
+<L>one flash, and so expir'd:</L>
+</SP>
+<STAGE>Enter tearing in <HI>Pasithas.</HI></STAGE>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Here hee is, but no confession.</L>
+</SP>
+<SP>
+<SPEAKER>OR.</SPEAKER>
+<L>Torture must force him then:</L>
+<L>though 'twill indeed, but weakly satisfie</L>
+<L>to know now they are dead, how they did die.</L>
+</SP>
+<SP>
+<SPEAKER>PHI.</SPEAKER>
+<L>Come take the bodies up, and let us all</L>
+<L>goe drowne our selves in teares, this massacre</L>
+<L>has left so torne a state, that 'twill be policie</L>
+<L>as well as debt, to weep till wee are blinde,</L>
+<L>For who would see the miseries behinde?</L>
+</SP>
+</DIV3>
+</DIV2>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<PB N="38" REF="22"/>
+<HEAD>Epilogue.</HEAD>
+<LG>
+<L>OVr Play is done, and yours doth now begin:</L>
+<L>What different Fancies, people now are in?</L>
+<L>How strange, and odd a <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ingle it would make,</L>
+<L>If ére they rise; <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ere possible to take</L>
+<L>All votes.—</L>
+<L>But as when an authentique Watch is showne,</L>
+<L>Each man windes up, and rectifies his owne,</L>
+<L>So in our verie Iudgements; first there sits</L>
+<L>A grave Grand Iurie on it of Towne-wits;</L>
+<L>And they give up their verdict; then agin</L>
+<L>The other Iurie of the Court comes in</L>
+<L>(And that's of life and death) for each man sees</L>
+<L>That oft condemnes, what th'other Iurie frees:</L>
+<L>Some three dayes hence, the Ladies of the Towne</L>
+<L>Will come to have a Iudgement of their owne:</L>
+<L>And after them, their servants; then the Citie,</L>
+<L>For that is modest, and is still last wittie.</L>
+<L>'Twill be a weeke at least yet e're they have</L>
+<L>Resolv'd to let i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> live, or give't a grave:</L>
+<L>Such difficultie, there is to unit<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></L>
+<L>Opinion; or bring it to be right.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<LG>
+<HEAD>Epilogue for the Court.</HEAD>
+<L>SIR:</L>
+<L>THat th'abusing of your ea<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>'s a crime,</L>
+<L>Above th'excuse any six lines in Rhime</L>
+<L>Can make, the Poet knowes: I am but sent</L>
+<L>T'intreat hee may not be a President,</L>
+<L>For hee does thinke that in this place there hee</L>
+<L>Many have done't as much and more than hee;</L>
+<L>But here's, hee sayes, the difference of the Fates,</L>
+<L>Hee begs a Pardon after't, they Estates.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BACK>
+</TEXT>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="22"/>
+<P>AGLAURA</P>
+<P>LONDON, Printed by <HI>Iohn Haviland</HI> for <HI>Thomas Walkley,</HI> and are to be sold at his shop at the Signe of the Flying Horse betweene York-house and Britaines Burse. 1638.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="23"/>
+<HEAD>Prologue.</HEAD>
+<LG>
+<L>FOre Iove, a mightie Sessions: and I feare,</L>
+<L>Though kind last Sizes, 'twill be now severe;</L>
+<L>For it is thought, and by judicious men,</L>
+<L><HI>Aglaura</HI> 'scap't onely by dying then:</L>
+<L>But 'twould be vaine for mee now to indeare,</L>
+<L>Or speake unto my Lords, the Iudges here,</L>
+<L>They hold their places by condemning still,</L>
+<L>And cannot shew at once mercie and skill;</L>
+<L>For wit's so cruell unto wit, that they</L>
+<L>Are thought to want, that find not want i'th play.</L>
+<L>But Ladies you, who never lik'd a plot,</L>
+<L>But where the Servant had his Mistresse got,</L>
+<L>And whom to see a Lover dye it grieves,</L>
+<L>Although 'tis in worse language that he lives,</L>
+<L>Will like't w'are confident, since here will bee,</L>
+<L>That your Sex ever lik'd, varietie.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="prologue">
+<LG>
+<HEAD>Prologue to the Court.</HEAD>
+<L>TIs strange perchance (you'll thinke) that shee that di'de</L>
+<L>At Christmas, should at Easter be a Bride:</L>
+<L>But 'tis a privilege the Poets have,</L>
+<L>To take the long-since dead out of the grave:</L>
+<L>Nor is this all, old <HI>Heroës</HI> asleepe</L>
+<L>'Twixt marble coverlets, and six foot deepe</L>
+<L>In earth, they boldly wake, and make them doe</L>
+<L>All they did living here—sometimes more too,</L>
+<L>They give fresh life, reverse and alter Fate,</L>
+<L>And yet more bold, Almightie-like crea<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>:</L>
+<L>And out of nothing onelyto deifie</L>
+<L>Reason, and Reasons friend, Philosophie,</L>
+<L>Fame, honour, valour, all that's great, or good,</L>
+<L>Or is at least'mongst us, so understood,</L>
+<L>They give, heav'ns theirs, no handsome woman dies,</L>
+<L>But if they please, is strait some star i'th' skies—</L>
+<L>But oh—</L>
+<L>How those poore men of Meetre doe</L>
+<L>Flatter themselves with that, that is not true,</L>
+<L>And' cause they can trim up a little prose,</L>
+<L>And spoile it handsomly, vainly suppose</L>
+<L>Th'are Omnipotent, can doe all those things</L>
+<L>That can be done onely by Gods and Kings.</L>
+<L>Of this wild guilt, hee faine would bee thought free,</L>
+<L>That writ this Play, and therefore (Sir) by mee,</L>
+<L>Hee humbly begs, you would be pleas'd to know,</L>
+<L><HI>Aglaura's</HI> but repriev'd this night, and though</L>
+<L>Shee now appeares u<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>on a Poets call,</L>
+<L>Shee's not to live, unlesse you say shee shall.</L>
+</LG>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="5" TYPE="act">
+<PB N="39" REF="23"/>
+<HEAD>ACTUS V.</HEAD>
+<DIV2 N="1" TYPE="scene">
+<HEAD>SCENA I.</HEAD>
+<STAGE>Enter <HI>Ziriff, Pasithas,</HI> and Guard: hee place<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>m: an<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> Exit. A State set out. Enter <HI>Ziriff, Jolas, Ariaspes.</HI></STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>A Glorious night!</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Pray Heav'n it prove so.</L>
+<L>Are wee not there yet?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>'Tis about this hollow.</L>
+</SP>
+<STAGE>They enter t<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> Cave.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>How now! what region are wee got into?</L>
+<L>the inheritance of night;</L>
+<L>have wee not mistaken a turning <HI>Zirisf,</HI></L>
+<L>and stept into the confines of some melancholy</L>
+<L>Devills Territorie?</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>Sure 'tis a part of the first <HI>Chaos,</HI></L>
+<L>that would not suffer any change,</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>No matter Sir, 'tis as proper for ou<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></L>
+<L>purpose, as the Lobbie for the waiting womans:</L>
+<L>stay you here, I'se move a little backward,</L>
+<L>and so wee shall be sure to put him past</L>
+<L>retreat, you know the word if it be the Prince.</L>
+</SP>
+<STAGE><HI>Ziriff</HI> goes to the Doore.</STAGE>
+<STAGE>Enter King.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Here Sir, follow mee, all's quiet yet.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Is hee not come then?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>No.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Where's <HI>Ariaspes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Waiting within.</L>
+</SP>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>I doe not like this waiting,</L>
+<L>nor this fellowes leaving of us.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>This place does put odd thoughts into thee,</L>
+<L>then thou art in thine owne nature too</L>
+<L>as jealous, as Love, or Honour; weare thy sword</L>
+<L>in readinesse, and thinke how neere wee are a Crowne.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Revenge!—</L>
+</SP>
+<STAGE>Guard seiseth on'<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</STAGE>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Ha! what's this?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Bring them forth.—</L>
+</SP>
+<STAGE>Brings them forth.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>The King.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes, and the Princes friend—</L>
+<STAGE>Discovers himselfe.</STAGE>
+<L>D'you know this face?</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Zorannes.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>The verie same,</L>
+<L>the wrong'd <HI>Zorannes,</HI>—King—</L>
+<L>D'you stare,—</L>
+<L>away with them where I appointed.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Traytours, let mee goe;</L>
+<L>villaine, thou dar'st not doe this—</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Poore Counterfeit,</L>
+<L>how faine thou now would'st act a King, and art not:</L>
+<L>stay you,—</L>
+<STAGE><HI>to</HI> Ariaspes.</STAGE>
+<L>Unhand him,—</L>
+<STAGE>Whispers.</STAGE>
+<L>Leave us now.—</L>
+</SP>
+<STAGE>Exeunt. M<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>net <HI>Ariasp. Zoran.</HI></STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>What does this meane?</L>
+<L>sure hee does intend the Crowne to mee.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Wee are alone,</L>
+<L>follow mee out of the wood, and thou shalt be</L>
+<L><PB N="40" REF="24"/>
+Master of this againe,</L>
+<L>and then best arme and title take it.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Thy offer is so noble, in gratitude I cannot</L>
+<L>but propound gentler conditions,</L>
+<L>wee will divide the Empire.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Now by my fathers soule,</L>
+<L>I doe almost repent my first intents,</L>
+<L>and now could kill thee scurvily, for thinking</L>
+<L>if I had a minde to rule,</L>
+<L>I would not rule alone,</L>
+<L>let not thy easie faith (lost man)</L>
+<L>foole thee into so dull an heresie;</L>
+<L><HI>Orbella</HI> is our quarrell, and I have thought it fit,</L>
+<L>that love should have a nobler way of Justice,</L>
+<L>than Revenge, or Treason.</L>
+<L>If thou dar'st dye handsomly, follow mee.</L>
+</SP>
+<STAGE>Exeunt. And enter both agen.</STAGE>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>There,—</L>
+</SP>
+<STAGE>Gives him his sword.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Extremely good; Nature tooke paines <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> sweare,</L>
+<L>the villaine and the brave are mingled handsomely:—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>'Twas Fate that tooke it, when it decreed</L>
+<L>wee two should meet, nor shall they mingle now,</L>
+<L>wee are but brought together strait to part.—</L>
+</SP>
+<STAGE>Fight.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Some Devill sure has borrowed this shape,</L>
+<L>my sword ne're staid thus long to finde an entrance.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>To guiltie men, all that appeare is Devill;</L>
+<L>come trifler, come,—</L>
+</SP>
+<STAGE>Fight.</STAGE>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Dog, thou hast it.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Why then it seemes my star's as great as his,</L>
+<L>I smile at thee,</L>
+<STAGE><HI>Ariaspes</HI> pants, and runs at him to catch his sword.</STAGE>
+<L>thou now would'st have me kill thee,</L>
+<L>and 'tis a courtesie I cannot afford thee,</L>
+<L>I have bethought my selfe, there will be use</L>
+<L>of thee,—<HI>Pasithas</HI>—to the rest with him.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Pasithas,</HI> and two of the Guard.—Exeunt.</STAGE>
+<STAGE>Enter <HI>Thersames.</HI></STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>The Dog-star's got up high, it should be late:</L>
+<L>and sure by this time every waking eare,</L>
+<L>and watchfull eye is charm'd; and yet mee thought</L>
+<L>a noyse of weapons struck my eare just now.</L>
+<L>'Twas but my Fancie sure, and were it more,</L>
+<L>I would not tread one step, that did not lead</L>
+<L>to my <HI>Aglaura,</HI> stood all his Guard betwixt,</L>
+<L>with lightning in their hands.</L>
+<L>Danger, thou Dwarfe drest up in Giants clothes,</L>
+<L>that shew'st far off still greater than thou art,</L>
+<L>goe, terrifie the simple, and the guistie, such</L>
+<L>as with false Opticks still doe looke upon thee:</L>
+<L>but fright not Lovers, wee dare looke on thee</L>
+<L>in thy wo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>st shapes, and meet thee in them too.—</L>
+<L>Stay, these trees I made my marke, 'tis hereabouts,</L>
+<L>—Love guide mee but right this night,</L>
+<L>and Lo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ers shall restore thee back againe</L>
+<L>those eyes the Poets tooke so boldly from thee.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>A Taper, Table out.</STAGE>
+<STAGE>Enter <HI>Aglaura,</HI> with a Torch in one hand, a Dagger in the other.</STAGE>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>How ill this does become this hand? much worse</L>
+<L><PB N="41" REF="24"/>
+this suits with this, one of the two should goe:</L>
+<L>The shee within mee sayes, it must be this,—</L>
+<L>honour sayes this—and honour is <HI>Thersames</HI> friend.</L>
+<L>What is that shee then, is it not a thing</L>
+<L>that sets a price, not upon mee, but on</L>
+<L>life in my name, leading mee into doubt,</L>
+<L>which when 'thas done, it cannot light mee out?</L>
+<L>For feare does drive to Fate, or Fate if wee</L>
+<L>doe flie, ore-takes, and holds us, till or death,</L>
+<L>or infamie, or both doe seise us.</L>
+<STAGE>Puts out the light.</STAGE>
+<L>Ha!—would 'twere in agen. Antiques &amp; strange mishapes,</L>
+<L>such as the Porter to my Soule, mine Eye,</L>
+<L>was ne're acquainted with, fancie lets in,</L>
+<L>like a disrouted multitude, by some strange accident</L>
+<L>piec'd together; feare now afresh comes on,</L>
+<L>and charges Love too home.</L>
+<L>—Hee comes, hee comes.—</L>
+<STAGE>A little noyse below.</STAGE>
+<L>woman, if thou would'st be the Subject</L>
+<L>of mans wonder, not his scorne hereafter,—</L>
+<L>—now shew thy selfe.</L>
+</SP>
+<STAGE>Enter <HI>Thersames</HI> from the vault, she stabs him as he riseth.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Unkindly done—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>The Princes voyce, defend it Goodnesse?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>What art thou that thus poorely</L>
+<L>hast destroy'd a life?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Oh sad mistake, 'tis hee?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Hast thou no voyce?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>I would I had not, nor a being neither.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L><HI>Aglaura,</HI> it cannot be?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Oh still beleeve so, Sir,</L>
+<L>for 'twas not I indeed, but fatall Love.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Loves wounds us'd to be gentler than these were,</L>
+<L>the paines they give us have some pleasure</L>
+<L>in them, and that these have not.</L>
+<STAGE>Enter <HI>Ziriff</HI> with a taper.</STAGE>
+<L>Oh doe not say 'twas you, for that does wound agen:</L>
+<L>guard mee my better Angell,</L>
+<L>doe I wake? my eyes (since I was man)</L>
+<L>ne're met with any object gave them so much trouble,</L>
+<L>I dare not aske neither to be satisfied,</L>
+<L>shee lookes so guiltily—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Why doe you stare and wonder at a thing</L>
+<L>that you your selfe have made thus miserable?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Good gods, and I o'the partie too.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Did you not tell mee that the King this night</L>
+<L>meant to attempt my honour, that our condition</L>
+<L>would not admit of middle wayes, and that wee must</L>
+<L>send them to graves, or lye our selves in dust?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Unfortunate mistake!</L>
+<STAGE><HI>Ziriff</HI> knocks.</STAGE>
+<L>I never did intend our safetie by thy hands:</L>
+<STAGE>Enter <HI>Pasithas.</HI></STAGE>
+<L><HI>Pasithas,</HI> goe instantly and fetch <HI>Andrages</HI></L>
+<L>from his bed; how is it with you Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>As with the besieg'd:</L>
+<L>my soule is so beset it does not know,</L>
+<L>whether't had best to make a desperate</L>
+<L>sally out by this port or not?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Sure I shall turne statue here.</L>
+</SP>
+<SP>
+<PB N="42" REF="25"/>
+<SPEAKER>THER.</SPEAKER>
+<L>If thou do'st love mee, weepe not <HI>Aglaura:</HI></L>
+<L>all those are drops of bloud, and flow from mee.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Now all the gods defend this way of expiation;</L>
+<L>Think'st thou thy crime, <HI>Aglaura</HI> would be lesse,</L>
+<L>by adding to it? or canst thou hope</L>
+<L>to satisfie those powers, whom great sins</L>
+<L>doe displease, by doing greater.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Discourteous courtesie!</L>
+<L>I had no other meanes left mee than this,</L>
+<L>to let <HI>Thersames</HI> know I would doe nothing</L>
+<L>to him, I would not doe unto my selfe,</L>
+<L>and that thou takest away.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Friend, bring mee a little nearer,</L>
+<L>I finde a kinde of willingnesse to stay,</L>
+<L>and finde that willingnesse something obey'd.</L>
+<L>My bloud now it perswades it selfe</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ou did not call in earnest,</L>
+<L>makes not such haste—</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Oh my dearest Lord,</L>
+<L>this kindnesse is so full of crueltie,</L>
+<L>puts such an uglinesse on what I have done,</L>
+<L>that when I looke upon it, needs must fright</L>
+<L>mee from my selfe, and which is more insufferable,</L>
+<L>I feare from you.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Why should that fright thee, which most comforts mee?</L>
+<L>I glorie in it, and shall smile <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>th' grave,</L>
+<L>to thinke our love was such, that nothing</L>
+<L>but it selfe could e're destroy it.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Destroy it? can it have ever end?</L>
+<L>will you not be thus courteous then in the other world?</L>
+<L>shall wee not be together there as here?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>I cannot tell whether I may or not.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Not tell?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>No:</L>
+<L>The Gods thought mee unworthy of thee here,</L>
+<L>and when thou art more pure,</L>
+<L>why should I not more doubt it?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Because if I shall be more pure,</L>
+<L>I shall be then more fit for you.</L>
+<L>Our Priests assure us an <HI>Flys<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>m,</HI></L>
+<L>and can that be <HI>Elysium</HI> where true Lovers</L>
+<L>must not meet? Those Powers that made our loves,</L>
+<L>did they intend them mortall,</L>
+<L>would sure have made them of a courser stuffe,</L>
+<L>would they not my Lord?—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Prethee speake still,</L>
+<L>this musique gives my soule such pleasing businesse,</L>
+<L>takes it so wholly up, it findes not leasure to</L>
+<L>attend unto the summons death does make,</L>
+<L>yet they are loud and peremptorie now,</L>
+<L>and I can onely—</L>
+</SP>
+<STAGE>Faints.</STAGE>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Some p<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ying Power inspire mee with</L>
+<L>a way to follow <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>: heart wilt thou not</L>
+<L>breake it of thy selfe.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>My griefes besot mee:</L>
+<L>his soule will saile out with this purple tide,</L>
+<L><PB N="43" REF="25"/>
+and I shall here be found staring</L>
+<L>after't, like a man that's come too short o'th' ship,</L>
+<L>and's left behinde upon the land.</L>
+<STAGE>Shee swounes.</STAGE>
+<STAGE><HI>Enter</HI> Andrages.</STAGE>
+<L>Oh welcome, welcome, here lyes, <HI>Andrages,</HI></L>
+<L>alas too great a triall for thy art.</L>
+</SP>
+<SP>
+<SPEAKER>AND.</SPEAKER>
+<L>There's life in him: from whence these wounds?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Oh 'tis no time for storie.</L>
+</SP>
+<SP>
+<SPEAKER>AND.</SPEAKER>
+<L>'Tis not mortall my Lord, bow him gently,</L>
+<L>and help mee to infuse this into him;</L>
+<L>the soule is but asleepe, and not gone forth.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Oh—oh:—</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Hearke, the Prince does live.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>What e're thou art hast given mee now a life;</L>
+<L>and with it all my cares and miseries,</L>
+<L>expect not a reward, no not a thanks.</L>
+<L>If thou would'st merit from mee,</L>
+<L>(yet wh'would be guiltie of so lost an action)</L>
+<L>restore mee to my quietnesse agen,</L>
+<L>for life and that are most incompatible.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Still in despaires:</L>
+<L>I did not thinke till now 'twas in the power</L>
+<L>of Fortune to have robb'd <HI>Thersames</HI> of himselfe,</L>
+<L>for pitie, Sir, and reason live;</L>
+<L>if you will die, die not <HI>Aglaura's</HI> murther'd,</L>
+<L>that's not so handsome: at least die not</L>
+<L>her murthered, and her murtherer too;</L>
+<L>for that will surely follow. Looke up, Sir,</L>
+<L>this violence of Fortune cannot last ever:</L>
+<L>who knowes but all these clouds are shadowes,</L>
+<L>to set off your fairer dayes, if it growes blacker,</L>
+<L>and the stormes doe rise, this harbour's alwayes open.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>What say'st thou, <HI>Aglaura?</HI></L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>What sayes <HI>Andrages?</HI></L>
+</SP>
+<SP>
+<SPEAKER>AND.</SPEAKER>
+<L>Madam, would Heaven his mind would admit</L>
+<L>as easie cure, as his body will,</L>
+<L>'Twas onely want of bloud,</L>
+<L>and two houres rest restores him to himselfe.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>And by that time it may be Heaven</L>
+<L>will give our miseries some ease:</L>
+<L>come Sir, repose upon a bed,</L>
+<L>there's time enough to day.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Well, I will still obey,</L>
+<L>though I must feare it will <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e with mee,</L>
+<L>but as 'tis with tortured men,</L>
+<L>whom States preserve onely to wrack agen.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Take off table.</STAGE>
+<STAGE>Enter <HI>Ziriff</HI> with a taper.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>All fast too, here</L>
+<L>They sleepe to night</L>
+<L>i'their winding sheets I thinke, there's such</L>
+<L>a generall quiet.</L>
+<L>Oh! here's light I warrant you:</L>
+<L>for lust does take as little rest, as care, or age.</L>
+<L>Courting her glasse, I sweare, fie! that's a flatterer Madam,</L>
+<L>in mee you shall see trulier what you are.</L>
+</SP>
+<STAGE><PB N="44" REF="26"/>
+He knocks. Enter Queene.</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>What make you up at this strange houre my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>My businesse is my boldnesse warrant,</L>
+<L>(Madam)</L>
+<L>and I could well afford t'have beene without it now,</L>
+<L>had Heav'n so pleas'd.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>'Tis a sad Prologue,</L>
+<L>what followes in the name of vertue?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>The King—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>I: what of him? is well is hee not?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes,—</L>
+<L>If to be on's journey to the other world</L>
+<L>be to be well, hee is.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Why hee's not dead, is hee?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes, Madam, dead.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>How? where?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I doe not know particulars.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Dead!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes (Madam).</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Art sure hee's dead?</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Madam I know him as certainly dead,</L>
+<L>as I know you too must die hereafter</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Dead!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Yes, dead.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Wee must all die,</L>
+<L>the Sisters spin no cables for us mortalls;</L>
+<L>th'are threds; and Time, and chance—</L>
+<L>trust mee I could weep now,</L>
+<L>but watrie distillations doe but ill on graves,</L>
+<L>they make the lodging colder.</L>
+</SP>
+<STAGE>Shee knocks.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>What would you Madam?</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Why my friends, my Lord;</L>
+<L>I would consult and know, what's to be done.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>(Madam) 'tis no<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> so safe to raise the Court,</L>
+<L>things thus unsetled, if you please to have—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Where's <HI>Ariaspes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>In's dead sleepe by this time sure.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>I know hee is not! find him instantly.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I'm gone.—</L>
+<STAGE>Turnes back againe.</STAGE>
+<L>But (Madam) why make you choyce of him, from whom</L>
+<L>if the succession meet disturbance,</L>
+<L>all must come of danger?</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>My Lord, I am not yet so wise, as to be</L>
+<L>jealous; pray dispute no further.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Pardon mee (Madam) if before I goe</L>
+<L>I must vnlock a secret to you; such a one</L>
+<L>as while the King did breathe durst know no aire,</L>
+<L><HI>Zorannes</HI> lives.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>And in the hope of such a day as this</L>
+<L>has lingred out a life, snatching, to feed</L>
+<L>his almost famish'd eyes,</L>
+<L>sights now and then of you, in a disguise.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Strange! this night is big with miracle!</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>If you did love him, as they say you did,</L>
+<L>and doe so still' 'tis now within your power:</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>I would it were, my Lord, but I am now</L>
+<L><PB N="45" REF="26"/>
+no private woman, if I did love him once,</L>
+<L>(as 'tis so long agoe, I have forgot)</L>
+<L>my youth and ignorance may well excus<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Excuse it?</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Yes, excuse it Sir.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Though I confesse I lov'd his father much,</L>
+<L>and pitie him, yet having offer'd it</L>
+<L>unto your thoughts: I have discharg'd a trust;</L>
+<L>and zeale shall stray no further.</L>
+<L>(Your pardon Madam:)</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>May be 'tis but a plot to keep off <HI>Ariaspes</HI></L>
+<L>greatnesse, which hee must feare, because hee knowes</L>
+<L>hee hates him: for these great States-men,</L>
+<L>that when time has made bold with the King</L>
+<L>and Subject, throwing downe all fence</L>
+<L>that stood betwixt their power</L>
+<L>and others right, are on a change,</L>
+<L>like wanton Salmons comming in with flouds,</L>
+<L>that leap o're wyres and nets, and make their way</L>
+<L>to be at the returne to everie one a prey.</L>
+</SP>
+<STAGE>Enter <HI>Ziriff.</HI></STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Looke here vaine thing, and see thy sins full blowne:</L>
+<L>There's scarce a part in all this face, thou hast</L>
+<L>not beene forsworne by, and Heav'n forgive thee for't!</L>
+<L>for thee I lost a Father, Countrey, friends,</L>
+<L>my selfe almost, for I lay buried long;</L>
+<L>and when there was no use thy love could pay</L>
+<L>too great, thou mad'st the principle away:—<HI>Prompt.</HI>—</L>
+<L>As wantons entring a Garden, take</L>
+<L>the first faire flower they meet, and</L>
+<L>treasure't in their laps.</L>
+<L>Then seeing more, doe make <GAP DESC="illegible" RESP="apex" EXTENT="3 words" DISP="〈◊◊◊〉"/>,</L>
+<L>throwing in one and one, till at the length</L>
+<L>the first poore flower o're-charg'd, with too much weight</L>
+<L>withers, and dies:</L>
+<L>so hast thou dealt with mee,</L>
+<L>and having kill'd mee first, I will kill—</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Hold—hold—</L>
+<L>Not for my sake, but <HI>Orbella's</HI> (Sir) a bare</L>
+<L>and single death is such a wrong to Justice,</L>
+<L>I must needs except against it.</L>
+<L>Finde out a way to make <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ee long a dying;</L>
+<L>for death's no punishment, it is the sense,</L>
+<L>the paines and feares afore that makes a death:</L>
+<L>To thinke what I had had, had I had you,</L>
+<L>what I have lost in losing of my selfe;</L>
+<L>a<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e deaths farre worse than any you can give:</L>
+<L>yet kill mee quickly, for if I have time,</L>
+<L>I shall so wash this soule of mine with teares,</L>
+<L>make it so fine, that you would be afresh</L>
+<L>in love with it, and so perchance I should</L>
+<L>againe come to deceive you.</L>
+</SP>
+<STAGE>Shee rises up weeping, and hanging downe her head.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>So rises day, blushing at nights deformitie:</L>
+<L>and so the prettie flowers blubber'd with dew,</L>
+<L>and over-washt with raine, hang downe their heads,</L>
+<L><PB N="46" REF="27"/>
+I must not looke upon her.</L>
+</SP>
+<STAGE>(Queene goes towards him.)</STAGE>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Were but the Lillies in this face as fresh</L>
+<L>as are the roses; had I but innocence</L>
+<L>joyn'd to these blushes, I should then be bold,</L>
+<L>for when they went a begging they were ne're deni'de,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>is but a parting kisse Sir—</L>
+</SP>
+<STAGE>Enter <HI>Pasithas,</HI> and two Guard.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I dare not grant it.—<HI>Pasithas</HI>—away with her.</L>
+</SP>
+<L><HI>A bed put out:</HI> Thersames <HI>and</HI> Aglaura <HI>on it,</HI> Andrages <HI>by.</HI></L>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Shee wake't mee with a sigh,</L>
+<L>and yet shee sleepes her selfe, sweet Innocence,</L>
+<L>can it be sinne to love this shape,</L>
+<L>and if it be not, why am I persecuted thus?—</L>
+<L>shee sighs agen, sleepe that drownes all cares,</L>
+<L>cannot I see charme loves? blest pillowes,</L>
+<L>through whose finenesse does appeare</L>
+<L>the violets, lillies, and the roses</L>
+<L>you are stuft withall, to whose softnesse</L>
+<L>I owe the sweet of this repose,</L>
+<L>permit mee to leave with you this,—</L>
+<STAGE>Kisses them, shee wakes.</STAGE>
+<L>see if I have not wake't her,</L>
+<L>sure I was borne, <HI>Aglaura,</HI> to destroy</L>
+<L>thy quiet.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Mine, my Lord,</L>
+<L>call you this drowsinesse a quiet then?</L>
+<L>belee<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e mee, Sir, 'twas an intruder I much</L>
+<L>struggled with, and have to thanke a dreame,</L>
+<L>not you, that it thus left mee.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>A dreame! what dreame, my Love?</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>I dream't (Sir) it was day,</L>
+<L>and the feare you should be found here.</L>
+</SP>
+<STAGE><HI>Enter</HI> Ziriff.</STAGE>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>Awake; how is it with you, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Well, extremely well, so well, that had I now</L>
+<L>no better a remembrancer than paine,</L>
+<L>I should forget I e're was hurt,</L>
+<L>thanks to Heaven, and good <HI>Andrages.</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>And more than thanks I hope wee yet shall</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ive to pay him. How old's the night?</L>
+</SP>
+<SP>
+<SPEAKER>AND.</SPEAKER>
+<L>Far-spent I feare, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>I have a cause that should be heard</L>
+<L>yet ere day breake, and I must needs entreat</L>
+<L>you Sir to be the Judge in't.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>What cause, <HI>Zorannes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>ZIR.</SPEAKER>
+<L>When you have promis'd—</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>'Twere hard I should denie thee any thing.—</L>
+<STAGE><HI>Exit</HI> Zorannes.</STAGE>
+<L>Know'st thou, <HI>Andrages,</HI> what hee meanes?</L>
+</SP>
+<SP>
+<SPEAKER>AND.</SPEAKER>
+<L>Nor cannot ghesse, Sir,—</L>
+<STAGE>Draw in the bed.</STAGE>
+<L>I read a trouble in his face, when first</L>
+<L>hee left you, but understood it not.</L>
+</SP>
+<STAGE>Enter <HI>Zorannes,</HI> King, <HI>Ariaspes, Jolas,</HI> Queene, and two or three Guard.</STAGE>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Have I not pitcht my nets like a good Huntsman?</L>
+<L>Looke, Sir, the noblest of the Herd are here.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>I am astonished.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>This place is yours.—</L>
+</SP>
+<STAGE>Helps him up.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>What would'st thou have mee doe.</L>
+</SP>
+<SP>
+<PB N="47" REF="27"/>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Remember, Sir, your promise,</L>
+<L>I could doe all I have to doe, alone;</L>
+<L>but Justice is not Justice unlesse't be justly done:</L>
+<L>here then I will begin, for here began my wrongs.</L>
+<L>This woman (Sir) was wondrous faire, and wondrous</L>
+<L>kinde,—I, faire and kinde, for so the storie runs,</L>
+<L>she gave me looke for looke, and glance for glance,</L>
+<L>and every sigh like eccho's was return'd,</L>
+<L>wee sent up vow by vow, promise on promise,</L>
+<L>so thick and strangely multiplyed,</L>
+<L>that sure we gave the heavenly Registers</L>
+<L>their businesse, and other mortalls oaths</L>
+<L>then went for nothing, wee felt each others paines,</L>
+<L>each others joyces, thought the same thought,</L>
+<L>and spoke the verie same;</L>
+<L>wee were the same, and I have much adoe</L>
+<L>to thinke shee couldbe ill, and I not</L>
+<L>be so too, and after this, all this (Sir)</L>
+<L>shee was false, lov'd him, and him,</L>
+<L>and had I not begun revenge,</L>
+<L>till shee had made an end of changing,</L>
+<L>I had had the Kingdome to have kill'd,</L>
+<L>what does this deserve?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>A punishment hee best can make</L>
+<L>that suffered the wrong.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>I thanke you, Sir,</L>
+<L>for him I will not trouble you,</L>
+<L>his life is mine, I won it fairly,</L>
+<L>and his is yours, hee lost it fouly to you—</L>
+<L>to him, Sir, now:</L>
+<L>A man so wicked that he knew no good,</L>
+<L>but so as't made his sins the greater for't.</L>
+<L>Those ills, which singly acted bred de<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>paire</L>
+<L>in others, he acted daily, and ne're thought</L>
+<L>upon them.</L>
+<L>The grievance each particular has against him</L>
+<L>I will not meddle with, it were to give him</L>
+<L>a long life, to give them hearing,</L>
+<L>Ile onely speake my owne.</L>
+<L>First then the hopes of all my youth,</L>
+<L>and a reward which Heaven had settled on mee,</L>
+<L>(if holy contracts can doe any thing)</L>
+<L>hee ravisht from mee, kill'd my father,</L>
+<L><HI>Aglaura's</HI> father, Sir, would have whor'd my sister,</L>
+<L>and murther'd my friend, this is all:</L>
+<L>and now your sentence, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>We have no punishment can reach these crimes:</L>
+<L>therefore 'tis justest sure to send him where</L>
+<L>th'are wittier to punish than we are here:</L>
+<L>and cause repentance oft stops that proceeding,</L>
+<L>a sudden death is sure thegreatest punishment.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>I humbly thanke you, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>What a strange glasse th'have shew'd me now my <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></L>
+<L>in; our sins like to our shadowes,</L>
+<L>when our day is in its glorie scarce appear'd,</L>
+<L>towards our evening how great and monstrous</L>
+<L>they are.</L>
+</SP>
+<SP>
+<PB N="48" REF="28"/>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Is this all you have to say?—</L>
+</SP>
+<STAGE>Drawes.</STAGE>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Hold:—now goe you up.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>What meane you, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Nay, I denyed not you,—</L>
+<L>That all thy accusations are just,</L>
+<L>I must acknowledge,</L>
+<L>and to these crimes, I have but this t'oppose,</L>
+<L>hee is my Father, and thy Soveraigne.—</L>
+<L>'Tis wickednesse (deare Friend) wee goe about</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>o punish, and when w'have murther'd him,</L>
+<L>what difference is there 'twixt him and</L>
+<L>our selves, but that hee first was wicked?—</L>
+<L>Thou now would'st kill him' cause he kill'd thy Father,</L>
+<L>and when th'hast kill'd, have not I the selfe same</L>
+<L>quarrell?</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Why Sir, you know you would your selfe</L>
+<L>have done it.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>True: and therefore 'tis I beg his life,</L>
+<L>there was no way for mee to have</L>
+<L>redeem'd th'intent, but by a reall</L>
+<L>saving of it.</L>
+<STAGE>Be ready Courtiers, and Guard, with their swords drawne, at the brests of the Prisoners.</STAGE>
+<L>If hee did ravish from thee thy <HI>Orbella,</HI></L>
+<L>remember that that wicked issue had</L>
+<L>a noble parent, Love,—Remember</L>
+<L>how he lov'd <HI>Zorannes</HI> when he was <HI>Ziriff,</HI>—</L>
+<L>ther's something due to that.—</L>
+<L>If you must needs have bloud for your revenge,</L>
+<L>take it here—despise it not <HI>Zorannes:</HI></L>
+<STAGE>Zorannes <HI>turnes away.</HI></STAGE>
+<L>The gods themselves, whose greatnesse</L>
+<L>makes the greatnesse of our sins,</L>
+<L>and heightens 'em above what wee can doe</L>
+<L>unto each other, accept of sacrifice</L>
+<L>for what wee doe 'gainst them,</L>
+<L>why should not you, and 'tis much thriftier too:</L>
+<L>you cannot let out life there, but my honour</L>
+<L>goes, and all the life you can take here,</L>
+<L>posteritie will give mee back agen;</L>
+<L>see, <HI>Aglaura</HI> weepes:</L>
+<L>that would have beene ill Rhetorique in mee,</L>
+<L>but where it is, it cannot but perswade.</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Th'have thaw'd the ice about my heart;</L>
+<L>I know nor what to doe.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Come downe, come downe, I will be King agen,</L>
+<L>there's none so fit to be the Judge of this</L>
+<L>as <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>; the life you shew'd such zeale to save,</L>
+<L>I here could willingly returne you back;</L>
+<L>but that's the common price of all revenge.</L>
+</SP>
+<STAGE><HI>Enter Guard,</HI> Orsames, Philan, <HI>Courtiers,</HI> Orithie, Semanthe.</STAGE>
+<SP>
+<SPEAKER>JOL. ARI.</SPEAKER>
+<L>Ha, ha, ha: how they looke now?</L>
+</SP>
+<SP>
+<SPEAKER>ZOR.</SPEAKER>
+<L>Death: what's this?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Betray'd agen;</L>
+<L>all th'ease our Fortune gives our miseries is hope,</L>
+<L>and that still proving false, growes part of it.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>From whence this Guard?</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Why Sir, I did corrupt, while we were his prisoners,</L>
+<L>one of his owne to raise the Court; shallow soules,</L>
+<L><PB N="49" REF="28"/>
+that thought wee could not countermine;</L>
+<L>come Sir, y'are in good posture to dispatch them.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Lay hold upon his instrument:</L>
+<L>Fond man, do'st thinke I am in love with villany?</L>
+<L>all the service they can doe mee here</L>
+<L>is but to let these see the right I doe</L>
+<L>them now is unconstrain'd, then thus I doe proceed.</L>
+<L>Upon the place <HI>Zorannes</HI> lost his life,</L>
+<L>I vow to build a tomb, and on that tomb</L>
+<L>I vow to pay three whole yeares penitence,</L>
+<L>if in that time I finde that heaven and you</L>
+<L>can pardon; I shall finde agen the way</L>
+<L>to live amongst you.</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>Sir, be not so cruell to your selfe, this is an age.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>'Tis now irrevocable, thy Fathers lands</L>
+<L>I give thee back agen, and his commands,</L>
+<L>and with them leave to weare the Tyara,</L>
+<L>that man there has abus'd.—</L>
+<L>To you <HI>Orbella,</HI></L>
+<L>who it seemes are foule as well as I,</L>
+<L>I doe prescribe the selfe same physick</L>
+<L>I doe take my selfe:</L>
+<L>but in another place, and for a longer time,</L>
+<L><HI>Diana's</HI> Nunnerie.</L>
+</SP>
+<SP>
+<SPEAKER>ORB.</SPEAKER>
+<L>Above my hopes.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>For you, who still have beene</L>
+<L>the ready instrument of all my cruelties,</L>
+<L>and there have cancell'd all the bonds of brother,</L>
+<L>perpetuall banishment: nor, should</L>
+<L>this line expire, shall thy right have a place.</L>
+</SP>
+<SP>
+<SPEAKER>ARI.</SPEAKER>
+<L>Hell and Furies.—</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>Thy crimes deserve no lesse, yet cau<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e thou wert</L>
+<L>Heavens instrument to save my life,</L>
+<L>thou onely hast that time of banishment,</L>
+<L>I have of penitence.—</L>
+</SP>
+<STAGE>Comes downe. <HI>Ziriff</HI> offers to kisse the Kings hand.</STAGE>
+<SP>
+<SPEAKER>JOL.</SPEAKER>
+<L>May it be plague and famine here till I returne.</L>
+<L>No: thou shalt not yet forgive mee:</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L><HI>Aglaura,</HI> thus I freely part with thee,</L>
+<L>and part with all fond flames and warme desires,</L>
+<L>I cannot feare new agues in my bloud</L>
+<L>since I have overcome the charmes</L>
+<L>thy beautie had, no other ever can</L>
+<L>have so much power, <HI>Thersames,</HI> thou look'st pale,</L>
+<L>is't want of rest?</L>
+</SP>
+<SP>
+<SPEAKER>THER.</SPEAKER>
+<L>No Sir; but that's a storie for your eare—</L>
+</SP>
+<STAGE>They whisper.</STAGE>
+<SP>
+<SPEAKER>ORS.</SPEAKER>
+<L>A strange and happie change.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>All joyes wait on you ever.</L>
+</SP>
+<SP>
+<SPEAKER>AGL.</SPEAKER>
+<L>Orithie,</L>
+<L>how for thy sake now could I wish</L>
+<L>Love were no Mathematick point,</L>
+<L>but would admit division, that <HI>Thersames</HI> might,</L>
+<L>though at my charge, pay thee the debt hee owes thee.</L>
+</SP>
+<SP>
+<SPEAKER>ORI.</SPEAKER>
+<L>Madam, I loved the Prince, not my selfe;</L>
+<L>since his vertues have their full rewards,</L>
+<L>I have my full desires.</L>
+</SP>
+<SP>
+<SPEAKER>KING.</SPEAKER>
+<L>What miracles of preservation have wee had?</L>
+<L><PB N="50" REF="29"/>
+how wisely have the stars prepar'd you for felicitie?</L>
+<L>nothing endeares a good more than the contemplation</L>
+<L>of the difficultie wee had to attaine to it:</L>
+<L>but see, Nights Empire's out,</L>
+<L>and a more glorious auspitiously does begin;</L>
+<L>let us goe serve the gods, and then prepare</L>
+<L>for jollitie, this day Ile borrow from my vowes,</L>
+<L>nor shall it have a common celebration,</L>
+<L>since 't must be,</L>
+<L>a high record to all posteritie.—</L>
+</SP>
+<STAGE>Exeunt omnes.</STAGE>
+</DIV2>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<HEAD>Epilogue.</HEAD>
+<LG>
+<L>PLayes are like Feasts, and everie Act should bee</L>
+<L>Another Course, and still varietie:</L>
+<L>But in good <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>aith provision of wit</L>
+<L>Is growne of late so difficult to get,</L>
+<L>That doe wee what wee can, w'are not able,</L>
+<L>Without cold meats to furnish out the Table.</L>
+<L>Who knowes but it was needlesse too? may bee</L>
+<L>'Twas here, as in the Coach-mans trade, and hee</L>
+<L>That turnes in the least compasse, shewes most Art:</L>
+<L>How e're, the Poet hopes (Sir) for his part,</L>
+<L>You'll like not those so much, who shew their skill</L>
+<L>In entertainment, as who shew their will.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="29"/>
+</DIV1>
+</BACK>
+</TEXT>
+</GROUP>
+</EEBO>
+</ETS>
+

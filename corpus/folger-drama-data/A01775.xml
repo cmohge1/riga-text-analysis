@@ -1,0 +1,3429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-06-11</DATE>
+<RESPSTMT>
+<NAME>Olivia Bottum</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked <SUP>s</SUP>. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 46 $-groups by inserting appropriate letters or GAPs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Resolved carryover lines. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A01775">
+<STC T="S">11910</STC>
+<BIBNO T="umi">99838977</BIBNO>
+<VID>3370</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE LADIES Priviledge.</P>
+<P>As it was Acted with good al∣lowance at the Cock-pit in <HI>Drury-lane,</HI> And before their Majesties at <HI>White-Hall</HI> twice.</P>
+<P><HI>By their MAIESTIES Servants.</HI></P>
+<P>The AUTHOR <HI>Henry Glapthorne.</HI></P>
+<Q>Militat omnis amans, et habet sua castra Cupido.</Q>
+<P>Imprinted at <HI>London</HI> by <HI>I. Okes,</HI> for <HI>Francis Constable,</HI> and are to be sold at his shops in Kings-street, at the signe of the Goat, and in Westminster-hall. 1640.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To the true Example of He∣roicke Vertue, and Favourer of Arts, Sir FREDERICK CORNWALLIS.</HEAD>
+<P>SIR:</P>
+<P><SEG REND="decorInit">Y</SEG>Ou are so well acquainted with the Iustice of <HI>Nobility,</HI> that your owne <HI>Fame</HI> is your owne <HI>History:</HI> you are writ in that Sir. Nor need I study to expresse it in a larger Chara∣cter, since it is texted already in a Vo∣lume, time (which is <HI>Edaxrerum)</HI> cannot exterminate. Thinke not, worthiest Sir, this can in me be flattery; your worth admits none: nor dare I sell my selfe to such a slavery, as to beginne my
+<PB REF="3"/>
+service to You with that unmanly pro∣stitution: You have alwayes affoorded me such transcendent favours, that I should descend to ingratitude, should not I study a retribution: which though I cannot reach at, accept Sir, I beseech you, this Essay of gratitude from</P>
+<CLOSER><SIGNED><HI>Your most obliged honourer,</HI> Hen: Glapthorne.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="3"/>
+<HEAD>The Persons.</HEAD>
+<LIST>
+<ITEM>Trivulei, <HI>Duke</HI> of Genoa.</ITEM>
+<ITEM>Doria, <HI>Admirall</HI> of Genoa.</ITEM>
+<ITEM>Vitelli, <HI>his Friend.</HI></ITEM>
+<ITEM>Adorni <HI>his Lieutenant.</HI></ITEM>
+<ITEM>Bonivet, <HI>a Kinsman to</HI> Trivulci.</ITEM>
+<ITEM>Lactantio, <HI>a Genoese Lord.</HI></ITEM>
+<ITEM>Sabelli, <HI>Page to</HI> Doria.</ITEM>
+<ITEM>Frangipan, <HI>nephew to</HI> Corimba</ITEM>
+<ITEM>Senators, Officers of State.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Chrisea,</CELL>
+<CELL ROWS="2">Neeces to <HI>Trivulci.</HI></CELL>
+</ROW>
+<ROW>
+<CELL>Eurione,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Corimba, <HI>a Court Matron.</HI></ITEM>
+<ITEM>Priest, Executioner, Virgins, Attendants,</ITEM>
+</LIST>
+<P>The <HI>Scene</HI> Genoa.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="4"/>
+<HEAD><HI>The</HI> Prologue.</HEAD>
+<LG>
+<L><SEG REND="decorInit">T</SEG>Is worth my Feares, to see within this place</L>
+<L>Wits most accomplish'd Senate; tis a grace</L>
+<L>Transcending our desert, tho not our feare,</L>
+<L>Least what our Author writes should not appeare</L>
+<L>Fit for this Iudging presence; all the wayes</L>
+<L>He knowes that lead to the true throne of Playes</L>
+<L>Are rough uneasie pathes, such as to tread</L>
+<L>Would fright an active able Muse; strike dead</L>
+<L>A weake and timerous travailer: for some</L>
+<L>Will gine the play a pitious Martyrdome</L>
+<L>Ere it hath life; yet have t'excite that flame,</L>
+<L>Only distrust in the new Authors name.</L>
+<L>Others for shortnesse force the Author run,</L>
+<L>And end his Play before his Plot be done.</L>
+<L>Some in an humorous squemishnesse will say,</L>
+<L>They only come to heare, not see the Play,</L>
+<L>Others to see it only, there have beene,</L>
+<L>And are good store, that come but to be seene:</L>
+<L>Not see nor heare the Play: How shall we then</L>
+<L>Please the so various appetites of men.</L>
+<L>It starts our Authors confidence, who by me</L>
+<L>Tels you thus much t'excuse the Comedy.</L>
+<L>You shall not here be feasted with the sight</L>
+<L>Of anticke showes; but Actions, such as might</L>
+<L>And have beene reall, and in such a phrase,</L>
+<L>As men should speake in: Ladies if you praise,</L>
+<L>At least allow his language and his plot,</L>
+<L>Your owne just Priviledge, his Muse hath got</L>
+<L>So full a wreath, that spight of Envies frowne</L>
+<L>Shall in his Brow sit as a lasting Crowne.</L>
+</LG>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="4"/>
+<HEAD>The Ladies Priviledge.</HEAD>
+<DIV2 N="1" TYPE="act and scene">
+<HEAD>Act. 1. Scena. 1.</HEAD>
+<SP>
+<STAGE><HI>Enter</HI> Bonivet, Lactantio, <HI>and</HI> Vitelli.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bonivet.</SPEAKER>
+<L><SEG REND="decorInit">I</SEG>S the newes certayne he is arriv'd?</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>The Duke</L>
+<L>Had sure intelligence, that the whole Fleet</L>
+<L>Anchor'd last night without the Bay: and now</L>
+<L>For confirmation of it, the thick breath</L>
+<L>Of his saluting Cannon hangs in Clouds</L>
+<L>Over the Cittadell, and the glad noyse</L>
+<L>Of the applauding people, gratulate</L>
+<L>His entrance to the River.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>The day rose</L>
+<L>So cheerefully, as if it meant to gild</L>
+<L>With unaccustom'd light, his sayles swolne big</L>
+<L>As pregnant mother with the pleasing ayre</L>
+<L>Of victory.</L>
+</SP>
+<SP>
+<SPEAKER>Lac.</SPEAKER>
+<L>The rumour of the Fleet</L>
+<L>Has fild all <HI>Italy</HI> with wonder, how</L>
+<L>So small a number should in open fight</L>
+<L>Defeat the Turkish Navy; and conclude</L>
+<L>The Generals skill and valour, the mayne cause</L>
+<L>Of the atchievement.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Hee has return'd as large</L>
+<L><PB REF="5"/>
+Assurance of his worth, as when his force</L>
+<L>Back'd with successive fortune which attends</L>
+<L>His mighty resolution, over-threw</L>
+<L>The power of <HI>Uenice</HI> in a fight; which changed</L>
+<L>The Sea into a flame, and tooke me in't</L>
+<L>His fortunate Captive.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>Sir, tis noble in you</L>
+<L>To acknowledge that as good, which might have bin</L>
+<L>Your eminent ruine; stately buildings so</L>
+<L>Rise out of ancient structures which the rage</L>
+<L>Of eating time, or anger of the windes</L>
+<L>Had totter'd from the ground works: you may prove</L>
+<L>As fairely happy in the Generals love,</L>
+<L>As in the honour which your name or Country</L>
+<L>Confer'd on your desert.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>You speake the scope</L>
+<L>Of my intention, a perfect friend</L>
+<L>Includes both honour, Country, Family,</L>
+<L>And all that's deare and holy: such a friend</L>
+<L>As is my <HI>Doria,</HI> to whose spacious merit</L>
+<L>Succession shall pay volumes, who was man</L>
+<L>Ere in the smooth field of his face, rough age</L>
+<L>Displayd his hairy Ensigne; who has puld</L>
+<L>Bright honours wreath from her triumphant front</L>
+<L>In battailes when the trembling Sea being calme</L>
+<L>Did croud and thrust its waves into a storme</L>
+<L>To part the dreadfull fury.</L>
+</SP>
+<SP>
+<SPEAKER>Lac.</SPEAKER>
+<L>The report</L>
+<L>Of his Land services do stand on termes</L>
+<L>Of Competition with the multitude</L>
+<L>Of his Sea Victories.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Yet must subscribe</L>
+<L>To his Navall triumphs: though the Land</L>
+<L>Has seene him Conquerour, when the bodies flayne</L>
+<L>Buried the ground they dy'd on, which did shake</L>
+<L>To view it selfe entomb'd by them, for whom</L>
+<L>It was ordain'd a Sepulchre, the Drums</L>
+<L>Were to his eares delightfull as the Lute:</L>
+<L><PB REF="5"/>
+Pikes moving then in Forrest, seem'd as groves</L>
+<L>Of lofty Cedars stird by sportive winds,</L>
+<L>And when warres Quiresters, the whistling Fife,</L>
+<L>And surly Trumpet sung an army dirge,</L>
+<L>That fatall musicke wraps his sprightfull sence,</L>
+<L>Like joviall Hymnes at Nuptialls.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>You cannot exceed</L>
+<L>His praises duty, since his worth containes</L>
+<STAGE>Ent. Frangipan.</STAGE>
+<L>Honours most severall attributes.</L>
+</SP>
+<SP>
+<SPEAKER>Lac.</SPEAKER>
+<L>Signior <HI>Frangipan,</HI></L>
+<L>What riding post on foot, whither in such haste?</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Very well met gentlemen, I scarce have breath</L>
+<L>To utter a wise word yet.</L>
+</SP>
+<SP>
+<SPEAKER>Lac.</SPEAKER>
+<L>We doe believe you Signior, and are in doubt</L>
+<L>When you'll have leasure for't.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Heare you the newes,</L>
+<L>The General's arriv'd: farewell, he will not land</L>
+<L>Till I have had the maiden-head of his hand.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>Tis such another Parrat, he relates</L>
+<L>Things by tradition, as dogs barke: his newes</L>
+<L>Still marches in the reare, yet he relates it</L>
+<L>As confidently, as if each tale he tells,</L>
+<STAGE>Ent. Doria, Adorni, &amp; Sabelli.</STAGE>
+<L>As to be straight inserted as an eight</L>
+<L>To the seven former wonders—But here comes one</L>
+<L>Will cut off the Fooles Character: renowned Generall</L>
+<L>Doe us the gratious honour to permit us</L>
+<L>Salute the hand has sav'd our Country.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Noblest friends,</L>
+<L>I am more victorious in your earely loves,</L>
+<L>Than in the Turkish Conquest; though I remaine</L>
+<L>A Captive to your kindnesse, my <HI>Vitelli,</HI></L>
+<L>The solid earth, or a continued Rocke,</L>
+<L>May by some strange eruptions of the wind,</L>
+<L>Be rent, and so divided; but true friends</L>
+<L>Are adjuncts most inseparable: I have</L>
+<L>Still worne thee here <HI>Vitelli,</HI> as a Jewell</L>
+<L>Fit for no other Cabinet: gentlemen</L>
+<L>Your welcome hands me thinks we should embrace,</L>
+<L><PB REF="6"/>
+So as ships grapple in hot fight, nor part,</L>
+<L>Till our affectionate fury has discharg'd</L>
+<L>Vollies of joyfull courtesie.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>This is fitter ceremony for them</L>
+<L>Then to embrace an enemy, who will not part</L>
+<L>On termes so easie; these gentlemen know better</L>
+<P>To cut a Caper, than a Cable, or board a Pinck in the Burdells, than a Pinace at sea: I marvaile my Lord should know such Milk-sops.</P>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>My Lord,</L>
+<L>You come t'instruct us Courtship, as y'ave taught</L>
+<L>Your foes to feare your valour: you appeare</L>
+<L>As if this were your Nuptiall day, on which</L>
+<L>You were to wed bright triumph; but you can</L>
+<L>As well Court peace in silkes, as raging warre</L>
+<L>In burnish'd steele, and touch the ravishing strings</L>
+<L>With as much cunning industry as if</L>
+<L><HI>Mars</HI> could like <HI>Orpheus</HI> strike the trembling Harp▪</L>
+<L>Signior <HI>Adorni</HI> welcome home, I hope</L>
+<L>Y'ave made a richer prize, then when my ship</L>
+<L>Struck to your mercy.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Yes, we are very like</L>
+<L>To make good prize indeed, when all the profit</L>
+<L>Goes to the State and heavy-headed Burgers,</L>
+<L>That lye and snort at home, and eate what we</L>
+<L>Sweat bloody drops for.</L>
+</SP>
+<SP>
+<SPEAKER>Do.</SPEAKER>
+<L>Honest <HI>Adorni,</HI></L>
+<L>His bluntnesse must excuse him gentlemen▪</L>
+<L>How harsh and rough soe're he seemes, his honour</L>
+<L>Will quickly vary, when I have bin tyr'd</L>
+<L>With toyle of warre; the observations which</L>
+<L>His travailes have afforded him of men,</L>
+<L>Countries, and manners, lively set forth</L>
+<STAGE>Flourish. Enter Trivulci, Chrisea, Eurione, Corimba.</STAGE>
+<L>By his expressive action, has begot</L>
+<L>Mirth in my drowsie soule: when y'are acquainted</L>
+<L>With his conceit of carriage; you'll not affect</L>
+<L>A jovialler Companion,—See the Duke</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>My noble warriour,</L>
+<L>Peace now lookes lovely on us, since we enjoy</L>
+<L><PB REF="6"/>
+The author of't in safety: rise my <HI>Doria,</HI></L>
+<L>Let me embrace those youthfull limbes which cloath</L>
+<L>Warre in loves livery: thy honour'd father,</L>
+<L>When he return'd laden with Turkish spoyles,</L>
+<L>As trophies of his valour from the slaughter</L>
+<L>Of <HI>Haly Bassa</HI> at <HI>Lepanto,</HI> where</L>
+<L>The Christian name was hazzarded, arriv'd not</L>
+<L>More welcome to the State; beleeve me youth,</L>
+<L>Hadst thou a mother living, to be proud</L>
+<L>Of thy Nativity, unlesse she wept</L>
+<L>For joy to see thee, could no way expresse</L>
+<L>A more affectionate gladnesse: <HI>Chrisea,</HI></L>
+<L><HI>Eurione</HI> welcome him home, who cannot</L>
+<L>Receive an equall grace to the just value</L>
+<L>Of his deservings.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Your grace prepares us for that,</L>
+<L>We did intend to offer.</L>
+</SP>
+<SP>
+<SPEAKER>Corin.</SPEAKER>
+<P>Yes truely did wee sir, this Generall is ill-bred, I war∣rant him, to slight a gentlewoman of my demeanor.</P>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>My gracious Lord,</L>
+<L>To tender thanks, where tis a debt, not duty,</L>
+<L>Befits an equall; subjects ought to offer,</L>
+<L>With the sincere devotion that our Priests</L>
+<L>Doe prayers to Heaven, their hearts as sacrifices</L>
+<L>To their deserving Princes, whose sole favours</L>
+<L>Doe as the quickning lustre of the Sunne</L>
+<L>Cherish inferiour spirits: yours have bin</L>
+<L>Showr'd downe on me as elementall dew</L>
+<L>On the parcht earth, which drinks it up, and cannot</L>
+<L>Give heaven a retribution, yet my duty</L>
+<L>Shall speak my willing thankfulnesse, and while</L>
+<L>These armes can weild victorious steele, no danger</L>
+<L>Shal fright me from that service which I owe</L>
+<L>My Prince and Country: since men are not borne</L>
+<L>For themselves onely; but their life's a debt</L>
+<L>To th' Common-wealth that bred 'hem.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Gentle warriour,</L>
+<L>Thy fathers spirit swells thy soule, I reade it▪</L>
+<L><PB REF="7"/>
+In thy submissive loyalty; lets in,</L>
+<L>Tis just that those who caus'd the warres to cease,</L>
+<STAGE>Flour. Ex. praeter Corim. and Eurione.</STAGE>
+<L>Should have the early fruits of their owne peace,</L>
+</SP>
+<SP>
+<SPEAKER>Euri. and Corimba.</SPEAKER>
+<L>Have you imploy'd a serious diligence yet</L>
+<L>In giving Lord <HI>Vitelli</HI> secret notice</L>
+<L>Of my affection to him?</L>
+</SP>
+<SP>
+<SPEAKER>Corim.</SPEAKER>
+<L>Truely Madam,</L>
+<L>And as I hope to have a husband yet</L>
+<L>Ere I be fifty, I have beene so ta'ne up</L>
+<L>About my new device, I scarce have leisure</L>
+<L>To say my prayers sincerely: Ladybird</L>
+<L>You looke not sprightly, ravishing, onely this fear</L>
+<L>Was not well cut, nor well laid on, it wanted</L>
+<L>A little of my learned art: <HI>Vitelli</HI></L>
+<L>Doubt him not Madam, he shall love you so:</L>
+<L>Tis pretty neat now; I would not have a Lady</L>
+<L>That weares a <GAP DESC="illegible" REASON="bleedthrough" EXTENT="1 word" DISP="〈◊〉"/> about her, have the least</L>
+<L>Pimple in her countenance discompos'd▪ it does</L>
+<L>Disgallant a whole beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>But <HI>Corimba▪</HI></L>
+<L>What's this to me, thou maist as well tell tales</L>
+<L>Of love to one departing life, these toyes</L>
+<L>Relish with me as bitter pills with children,</L>
+<L>Wilt thou effect my businesse?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I confesse</L>
+<L>I have beene very fortunate in bringing</L>
+<L>Couples together, though I neare could couple</L>
+<L>My selfe with any, your Ladyship could not</L>
+<L>Have chose a better agent.</L>
+<STAGE>Enter Frangipan.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Save you sweet Lady, save you, Aunt I have</L>
+<L>Lost all my morning exercise at tennis</L>
+<L>In seeking you, and yet was still in hazzard▪</L>
+<L>Whether I should meet you; I must request a little</L>
+<L>Helpe from your Art good Aunt, a patch, or two,</L>
+<L><PB REF="7"/>
+To make me appeare more lovely; for my glase</L>
+<L>Tells me I have a very scurvy face</L>
+<L>Without some ornament.</L>
+</SP>
+<SP>
+<SPEAKER>Cori.</SPEAKER>
+<L>Tis a good innocent face, be not asham'd on't;</L>
+<L>Ile cut out one instantly; nay I never</L>
+<L>Goe unprovided of materialls let me see,</L>
+<L>What forme is best for thee; that somthing timerous</L>
+<L>A heart stuck neatly on thy face, will excite</L>
+<L>Thy heart to more audacity, good Madam</L>
+<L>Dost not become him prettily? Cosen be sure</L>
+<L>You doe commend this fashion to all gentlemen,</L>
+<L>Wert but as common among them as Ladyes,</L>
+<L>My wit would be eternally made famous</L>
+<L>For the invention.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Wilt please you to dispatch Ant, i'me in hast,</L>
+<L>I've a whole staple of newes to vent.</L>
+</SP>
+<SP>
+<SPEAKER>Corin.</SPEAKER>
+<L>Of what troe?</L>
+<L>I would have my kind red more ridiculous</L>
+<L>To th'world than I am; Cosen all your newes</L>
+<L>Is stale; invent me rather some choice story,</L>
+<L>How true or false no matter, and declare it</L>
+<L>For newes, twill please farre better, and endeare</L>
+<L>Your judgement i'th' relation—</L>
+<STAGE>Enter Doria, Chrisea, Sabelli.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Noble Generall y'are happily encountred:</L>
+<L>Have you seen my Aunt yet Signior; here she is, <HI>I</HI> have</L>
+<L>Newes to informe you worth your knowledge.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Keep them</L>
+<L>Good Signior till some other time: <HI>Eurione</HI></L>
+<L>We must implore your absence, we'd be private.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Why we have beene trusted</L>
+<L>With as good secrets: please your Lordship</L>
+<L>Accept this Crescent, you see my Cosen</L>
+<L><HI>Is</HI> in the fashion; let me lay it on,</L>
+<L>Insooth your face is, for a souldiers,</L>
+<L>Too smooth, and polite; this device will shew</L>
+<L><PB REF="8"/>
+As't had a skar upon it, which is an honour</L>
+<L>To faces Military.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Good Madam gravity,</L>
+<L>Keep your devices for your Chamber Lords,</L>
+<L>That dance to Ladies shadowes; pray be gone,</L>
+<L>We need not your society—<HI>Sabelli</HI></L>
+<STAGE>Exeunt.</STAGE>
+<L>Put to the doore, and then be gone—<HI>Chrisea</HI></L>
+<STAGE>Exit.</STAGE>
+<L>The modest Turtles which</L>
+<L>In view of other more lascivious Birds</L>
+<L>Exchange their innocent loves in timerous sighes,</L>
+<L>Do when alone most prittily convert</L>
+<L>Their chirps to billing; and with feather'd armes</L>
+<L>Encompasse mutually their gawdy neckes.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>You would inferre that we</L>
+<L>Should in their imitation spend this time</L>
+<L>Intended for a conference which concernes us</L>
+<L>Neerer then Complement.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Why my <HI>Chrisea,</HI></L>
+<L>We may entwine as freely, since our loves</L>
+<L>Are not at age yet to conceive a sinne,</L>
+<L>Thine being new borne, and mine too young to speake</L>
+<L>A lawlesse passion, for my services</L>
+<L>Pay me with pricelesse treasure of a kisse,</L>
+<L>While from the balmy fountaynes of thy lips</L>
+<L>Distils a moisture precious as the Dew,</L>
+<L>The amorous bounty of the morne</L>
+<L>Casts on the Roses cheeke: what wary distance</L>
+<L>Do you observe? speake, and enrich my eares</L>
+<L>With accents more harmonious then the Larks</L>
+<L>When she sings Hymns to Harvest.</L>
+</SP>
+<SP>
+<SPEAKER>Chri</SPEAKER>
+<L>Sure my Lord</L>
+<L>Y'ave studied Complement; I thought the warre</L>
+<L>Had taught men resolution, and not language.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Oh you instruct me justly, I should rather</L>
+<L>Have tane the modest Priviledge of your lip,</L>
+<L>And then endeavor'd to repay the grace</L>
+<L>With my extreamest eloquence.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>You mistake me.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="8"/>
+Dor.</SPEAKER>
+<L>Remit my ignorance, and let me read</L>
+<L>The mystery of thy language in thy lookes,</L>
+<L>In which are lively Characters of love</L>
+<L>Writ in the polish'd tablets of thy cheekes:</L>
+<L>Which seeme to vary colours, like the Clouds</L>
+<L>When they presage a storme; and those bright eyes</L>
+<L>Dart unaccustom'd beames, which shine as anger</L>
+<L>Flash'd from their fiery motion.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>You misconster</L>
+<L>The intention of my lookes, I am not angry</L>
+<L>Though much distemper'd.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>At what, by whom?</L>
+<L>Lives there a creature so extreamly bad</L>
+<L>Dares dis-compose your patience? speake, reveale</L>
+<L>The monster to me; were he fenc'd with flames,</L>
+<L>Or lock'd in Bulwarkes of congested yee:</L>
+<L>And all the feinds stood Centinels to guard</L>
+<L>The passage, I would force it to his heart,</L>
+<L>Through which the mounting violence of my rage</L>
+<L>Should peirce like lightning.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>I beleeve</L>
+<L>That in some triviall quarrell to redeeme</L>
+<L>My fame, should scandall touch it, you would fight</L>
+<L>Perhaps to shew your valour: But I have</L>
+<L>A taske to enjoyne me, which my feares possesse me,</L>
+<L>You dare not venture to accept.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>By truth</L>
+<L>You wrong my faith and courage to suspect me</L>
+<L>Of so extreame a Cowardize: have I stood the heat</L>
+<L>Of Battailes till upon the mountainous piles</L>
+<L>Of slaughter'd Carcasses, the soules which left em</L>
+<L>Seem'd to ascend to Heaven: that your suspition</L>
+<L>Should taint my honour with this base revolt?</L>
+<L>This is not noble in you.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Doe not rage,</L>
+<L>When you shall heare it, you will then confesse</L>
+<L>Your confident errour.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>My loyalty will not</L>
+<L><PB REF="9"/>
+Permit that strong rebellion in my breast,</L>
+<L>To doubt the meanest falsehood in a word</L>
+<L>Her voyce can utter, which should charme the world</L>
+<L>To a beliefe, some Cherubim has left</L>
+<L>Its roome in heaven, to carroll to the earth</L>
+<L>Celestiall Anthems, and <HI>I</HI> now beginne</L>
+<L>To question my owne frailty; but by all</L>
+<L>Which we call good or holy, be't your will</L>
+<L><HI>I</HI> should invade inevitable death,</L>
+<L><HI>In</HI> its most ugly horrour, my obedience</L>
+<L>Shall like a carelesse Pilot cast this bark</L>
+<L>On that pale rocke of ruine.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Will you sweare this?</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Yes, invent</L>
+<L>A forme of oath so binding, that no Law</L>
+<L>Or power can dispense with: and ile seal</L>
+<L>With my best blood: pray Madam tell me what</L>
+<L>The imposition is you judge so easily,</L>
+<L>Will stagger my just truth, that <HI>I</HI> may flye</L>
+<L>On Loves light wings to act it.</L>
+</SP>
+<SP>
+<SPEAKER>Chr.</SPEAKER>
+<L>Heare it then, and doe not,</L>
+<L>As you respect your oath, or love, request</L>
+<L>The cause of what <HI>I</HI> shall command.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Still Suspitions:</L>
+<L>My honour be my witnesse, which no action</L>
+<L>Shall violate, <HI>I</HI> will not.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Enough, that vow</L>
+<L>Cannot but be materiall, receive it,</L>
+<L><HI>I</HI> must no longer love you.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>That's no command: what did you say <HI>Chrisea?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Chr.</SPEAKER>
+<L><HI>I</HI> must no longer love you, and command you,</L>
+<L>Leave your affection to me.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Y'are very pleasant Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>You'll finde me very serious: nay more,</L>
+<L><HI>I</HI> love another, and I doe enjoyne you,</L>
+<L>Since tis a man you may o're-rule, to assist me</L>
+<L>In my obtaining him, without whose love</L>
+<L>I'me resolute to perish.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="9"/>
+Dor.</SPEAKER>
+<L>Sure I dreame,</L>
+<L>Or some strange suddaine death has chang'd his frame</L>
+<L>To immortality; for were I flesh</L>
+<L>And should heare this, certaine my violent rage</L>
+<L>Would pull me to some desperate act beyond</L>
+<L>The reach of fury; these are words would infect</L>
+<L>Rose-colour'd patience; Cleere and lovely front</L>
+<L>With loathsome leprosie, change flames to teares</L>
+<L>And with unusuall harshnesse of the sound</L>
+<L>Deafen the genius of the world.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Where's now</L>
+<L>The strength of soule you boasted, does the noyse</L>
+<L>Of the death speaking Cannon, not affright</L>
+<L>Your setled resolution, and the voyce</L>
+<L>Of a weak woman shake your youthfull blood</L>
+<L>Into an ague: since you so ill beare this</L>
+<L>When you shall heare the man, whose love has stolne</L>
+<L>Your interest, you will rage more than unlimited fire</L>
+<L>In populous Cities.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Sure tis she who speakes:</L>
+<L>I doe enjoy yet sound untainted sence,</L>
+<L>Each faculty does with a peacefull harmony retaine</L>
+<L>Its proper Organ; yet she did rehearse</L>
+<L>She must no longer love me: oh that word transformes</L>
+<L>The soule of quiet into rage,</L>
+<L>Above distracted madnes: madam tell me,</L>
+<L>What place is this? for you have led me</L>
+<L>Into a subtle Labyrinth, where I never</L>
+<L>Shall have fruition of my former freedome,</L>
+<L>But like an humble anchorite, that digs</L>
+<L>With his owne nayles his grave, must live confin'd</L>
+<L>To the sad maze for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Sir you cannot</L>
+<L>By most submissive and continued prayers</L>
+<L>Reclaime my affection, which stands fixt as Fate</L>
+<L>Vpon your friend <HI>Vitelli.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>My friend <HI>Vitelli?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Sir, I not use</L>
+<L><PB REF="10"/>
+To jest my life away: <HI>Vitelli</HI> is</L>
+<L>The person, to obtaine whose pretious love</L>
+<L>I doe conjure you by all tyes of honour</L>
+<L>To imploy your utmost diligence.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Can I bee</L>
+<L>So tame o'th' suddaine? has the feeble spirit</L>
+<L>Of some degenerate Coward frighted hence</L>
+<L>My resolution, which has given a Law</L>
+<L>To fate it selfe, that I must now become</L>
+<L>The stale to my owne ruine: oh <HI>Chrisea,</HI></L>
+<L>Who wert so good that vertue would have sigh'd</L>
+<L>At the unwelcome spectacle, had you</L>
+<L>Appeard but woman in a passion,</L>
+<L>Though of the slightest consequence: oh doe not</L>
+<L>Abjure that Saint-like temper, it will be</L>
+<L>A change hereafter, burdenous to your soule:</L>
+<L>A sinne to one, who all his life-time blest</L>
+<L>With peace of conscience, at his dying minute</L>
+<L>Falls into mortall enmity with heaven,</L>
+<L>And perishes eternally.</L>
+</SP>
+<SP>
+<SPEAKER>Chr.</SPEAKER>
+<L>My will guides my determination, and you must</L>
+<L>In honour act your promise.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Yes, I will,</L>
+<L>Since you can urge it tho, but two</L>
+<L>Things pretious to me, and one cruell word</L>
+<L>Robs me of both; my friend and her, <HI>Chrisea</HI></L>
+<L>I have not left another sigh to move,</L>
+<L>Nor teare to beg your pitty.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>They are but vaine,</L>
+<L>You may as easily thinke to kisse the starres,</L>
+<L>'Cause they shine on you, as recall my vowes,</L>
+<L>Which I will urge no further; but wish you</L>
+<L>Regard your honour: But farewell, I must</L>
+<L>Be cruell e're, to my owne love unjust.</L>
+<STAGE>Ex.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>She's gone; what vapour, which the flattering Sunne</L>
+<L>Attracts to heaven, as to create a starre,</L>
+<L>And throw it a fading meteor to the earth,</L>
+<L>Has falne like me: I am not yet growne ripe</L>
+<L><PB REF="10"/>
+For perfect sorrow, but as a bubling brooke,</L>
+<L>That sports and curles within its flowry Bankes,</L>
+<L>Till the vast sea devoure it, onely falling</L>
+<L>Into theabysse of mischiefe; passions surround</L>
+<L>My intellectuall powers, only my heart,</L>
+<L>Liketo a rocky Island does advance</L>
+<L>Above the fo my violence of the flood,</L>
+<L>Its unmov'd head: love be my carefull guide,</L>
+<L>Who sailes 'gainst danger both of wind and tide.</L>
+<STAGE>Ex.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Actus Secundus.</HEAD>
+<SP>
+<STAGE>Enter Bonivet, Lactantio, and Adorni.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>THanks good <HI>Adorni,</HI> we are much endeer'd</L>
+<L>To your relation; this rich corsick wine</L>
+<L>Erected our dull spirits, and you shall</L>
+<L>Command our service in as high and jocund</L>
+<L>A Nature.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Sir, although I am</L>
+<L>One that affects not the nice phrase of Court,</L>
+<L>Having bin nurs'd in warre, yet I can frame</L>
+<L>My selfe to imitation of what honour</L>
+<L>Shall there, or any where appeare to be.</L>
+<L>Worthy my laughter.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>You have explain'd your knowledge, we who breath</L>
+<L>Onely the aire of <HI>Genoa,</HI> and ne're tasted</L>
+<L>Forraigne behaviour, covet nothing more</L>
+<L>Than certaine knowledge of it, as 'tis proper to</L>
+<L>Complexions intellectuall to delight.</L>
+<L>In novelties; your Spaniard as you say,</L>
+<L>Is of a staid, serious, and haughty garbe:</L>
+<L><PB REF="11"/>
+Acts all his words with shrugs and gestures, kisses</L>
+<L>His hand away in kindnesse, is of dyet</L>
+<L>Sparing, will pick his teeth as formally</L>
+<L>After an Orenge, or a clove of Garlicke,</L>
+<L>which is his ordinary morsell, as he'd fed</L>
+<L>On Partridges or Pheasant.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>'Tis his grace</L>
+<L>After his dinner Sir, and to confirme</L>
+<L>Their most officious gravity, a <HI>Castilian</HI></L>
+<L>Was for some crime in <HI>Paris</HI> to be whipt</L>
+<L>In triumph through the streetes, and being admonished</L>
+<L>To be more swift of foote, so a voyd</L>
+<L>The dreadfull lash the sooner, in scorne answer'd,</L>
+<L>He rather would be flead alive, than breake</L>
+<L>A Title of his gravity.</L>
+</SP>
+<SP>
+<SPEAKER>La.</SPEAKER>
+<L>Much good</L>
+<L>Doe it his patient shoulders: but <HI>Adorni,</HI></L>
+<L>What thinke you of the <HI>French?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Very ayry people, who participate</L>
+<L>More fire than earth; yet generally good,</L>
+<L>And nobly disposition'd, something inclining</L>
+<STAGE>Ent. Corim.</STAGE>
+<L>To over-weening fancy—This Lady</L>
+<L>Tells my remembrance of a Comick scene,</L>
+<L>I once saw in their Theatre.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>Adde it to</L>
+<L>Your former courtesies, and expresse it.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Your entreaty</L>
+<L>Is a command, if this grave Lady please,</L>
+<L>To act the Lady I must court.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Why doe you thinke</L>
+<L>I cannot play the woman? I have plaid a womans part</L>
+<L>About twenty, twenty yeares agoe in a Court Masque,</L>
+<L>And tho I say't as well as some o' them, &amp; have bin courted too,</L>
+<P>But it is truth, I have a foolish quality as many more women are guilty of besides my selfe, I alwayes love them best, which slight me most, and scorne those that doe court mee: look you Signior, if't be a lovers part you are to act:</P>
+<L>Take a black spot or two, I can furnish you.</L>
+<L><PB REF="11"/>
+'Twill make your face more amorous, and appeare</L>
+<L>More gracious in your Mistris eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Stand faire Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Tis your part to stand faire sir: doubt not my carriage—</L>
+<L>O most rare man: sincerely, I shall love the <HI>French</HI></L>
+<L>The better while I live for this.</L>
+<STAGE>Ador Acts furiously.</STAGE>
+<L>Nay pray sir; gentlemen entreat the man</L>
+<L>To pacifie his wrath, tell him Ile love him,</L>
+<L>Rather than see him rage thus.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>He would have just reason to be mad indeed then, but now</L>
+<L>The Mood is alter'd.</L>
+<STAGE>Ador. acts ut antea.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Excellently ravishing: this is of force</L>
+<L>To make the hardest hearted Lady love him:</L>
+<L>Can I intreat him but to teach my Cosen</L>
+<L>Some of his French, he will for ever be engallanted—</L>
+<STAGE>Enter Eurione, and Frangipan,</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>Beautious Cosen,</L>
+<L>Y'ave mist the quaintest sport; honest <HI>Adorni</HI></L>
+<L>You would endeare this Lady to you, would you</L>
+<L>Please to react it.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Nay, if you make me common once, farewell,</L>
+<L>I am not for your company.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Pray sir a word or two; here is a gentleman,</L>
+<L>Nay Nephew, though I say't a toward young man,</L>
+<L>Vouchsafe him your acquaintance.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Will he fight, is he souldier?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>No truely sir, nor shall hee bee:</L>
+<L>I would be loath to have my onely Cosen</L>
+<L>Heated about the heart with lead; he's dull</L>
+<L>Enough already: <HI>Frangipan</HI> come hither,</L>
+<L>This gentleman will for my sake teach thee <HI>French.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>For your sake reverent Madam I shall do't:</L>
+<L>Sir please you walke, we will conferre on rudiments.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Come with him Coz: Sir, and you have occasion</L>
+<L>To use me in a pleasure, stands within</L>
+<L>The ability of my performance, pray command,</L>
+<L><PB REF="12"/>
+You shall not be deny'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Come Signiors, will you walke?</L>
+<STAGE>Ex.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Cosen <HI>Bonivet,</HI></L>
+<L>I should be glad, after some minutes, to</L>
+<L>Enjoy your Company.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>I shall attend your Ladyship.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L><HI>Corimba</HI> what answer from <HI>Vitelli?</HI> do I live?</L>
+<L>Or in the killing rigour of his scorne</L>
+<L>Must I dye wretched.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Sincerely Madam,</L>
+<L>You are too timorous of your owne deserts,</L>
+<L>Or else you durst not doubt, that he, or any</L>
+<L>You being so neat your selfe, and drest as neatly</L>
+<L>As any Lady in the Court, should hazzard</L>
+<L>The reputation of his wit, by slighting</L>
+<L>Such an accomplish'd beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>You talke,</L>
+<L>And play the cunning flatterer, to excuse</L>
+<L>Your negligence; but know affections fire</L>
+<L>Once kindled by desire, and blowne by thought</L>
+<L>Into a heat, expires a thousand sighes,</L>
+<L>Which as loves smoak, like incense flyes to heaven,</L>
+<L>While the light fire with nimble wings doe soare</L>
+<L>To its owne spheare, true lovers hearts who cherish</L>
+<L>The flame, till they to ashes burne, and perish.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Why Ladybird, are you so passionate, the gentleman</L>
+<L>Is a kind gentleman, has all that may</L>
+<L>Set forth a man; for when I told him how</L>
+<L>Like a hurt Deare you wounded were with love,</L>
+<L>Life how he leapt for joy, as if the selfe</L>
+<L>Same arrow which struck you, had glanc'd on him,</L>
+<L>And as a token of his love, hee sent you</L>
+<L>A bleeding heart in a Cornelion, which</L>
+<L>Beshrew me, most unfortunately I lost.</L>
+<STAGE>Enter Chrisea.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L><HI>Cornuba</HI> see</L>
+<L>If Generall <HI>Doria</HI> be within—<HI>Eurione</HI></L>
+<STAGE>Ex. Cor.</STAGE>
+<L><PB REF="12"/>
+I have beene seeking thee, how dost thou sister?</L>
+<L>I must demand a question that concernes</L>
+<L>The safety of your fame.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>I rest</L>
+<L>Secure in mine owne innocence, and no malice</L>
+<L>Can forge an accusation which can blemish</L>
+<L>My meanest thought with scandall.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>I beleeve, but know <HI>Eurione</HI> I am enform'd</L>
+<L>You doe affect <HI>Vitelli,</HI> and conjure you</L>
+<L>By the deare memory of our mother, tell me</L>
+<L>If the report be certaine.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Should I deny't,</L>
+<L>My love would muster thousand blushes up</L>
+<L>To invade my guilty Cheeks, I must confesse</L>
+<L>I love him so, as modesty and truth</L>
+<L>Afford me warrant.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Tis ill done, and childishly so easily to impart</L>
+<L>The treasure of your liberty, to keeping</L>
+<L>Of a neglected stranger.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>His owne worth</L>
+<L>Deserves as noble knowledge here, as many</L>
+<L>Who borrow titular glory from the dust</L>
+<L>Of their forgotten Ancestours.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>You defend him</L>
+<L>Like a brave Championesse, as if you meant,</L>
+<L>T'ingage your dearest pawne of life and honour</L>
+<L>In his protection.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Say I did, the even'st,</L>
+<L>Though most strict justice would allow as lawfull</L>
+<L>My honourable purpose.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Fie, you are lead on too wildly by your fancy sister,</L>
+<L>It ill befits the greatnesse of your blood</L>
+<L>To seeke to mixe its pure streame with a poore</L>
+<L>Regardlesse River.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>He appeares to me</L>
+<L>Broad in his owne dimensions as the sea,</L>
+<L>Cleare as a brooke, whose Christall lips salute</L>
+<L>Onely the freshest medowes: such a Creature</L>
+<L><PB REF="13"/>
+That were some cunning painter to expresse</L>
+<L>An Angell cloath'd in humane shape, he might</L>
+<L>From his derive a patterne.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>But suppose my fancy</L>
+<L>Should over-sway my judgement, to affect</L>
+<L><HI>Vitelli;</HI> sure your manners would allow me,</L>
+<L>By willing resignation of your choyce,</L>
+<L>The priviledge of my birth-right.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Would you urge</L>
+<L>A claime so justly mine, because you view'd</L>
+<L>The light two yeares before me: no <HI>Chrisea.</HI></L>
+<L>Love's an unlimited passion, that admits</L>
+<L>No Ceremonious difference: this prerogative</L>
+<L>Should Queenes endevour, their unvalued Dowries</L>
+<L>Are not of worth to purchase: and tho here</L>
+<L>As it befits me, I observe the distance</L>
+<L>Due to your birth; yet in loves sacred Court,</L>
+<L>My place is high as yours, and there we may</L>
+<L>Walke hand in hand together.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Doe not flatter</L>
+<L>Your fancy with this vaine conceite: <HI>Vitelli</HI></L>
+<L>Must be no more yours; Know I have enjoyn'd</L>
+<L>The Generall <HI>Doria</HI> to engage his friend,</L>
+<L>To imbrace my proffer'd love to him.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>You strive,</L>
+<L>Because you thinke my young and timerous flame</L>
+<L>Unapt t'incounter brave <HI>Vitellis</HI> heat;</L>
+<L>As cunning Nurses doe with froward Babes,</L>
+<L>Fright them into an appetite: but say</L>
+<L>All this were reall, thinke you <HI>Doria</HI> would</L>
+<L>So easily be perswaded to renownce</L>
+<L>His proper interest, and inthrall his friend</L>
+<L>To an unwilling slavery?</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>By truth he has impawn'd his honour to endeavor</L>
+<L>What I have utter'd, gentle Girle consider</L>
+<L>Loves unresisted violence, and beleeve</L>
+<L>I would not have a rivall to usurpe</L>
+<L>A corner in the Kingdome of that heart</L>
+<L><PB REF="13"/>
+Of which i'me soveraigne, so farewell deere soule,</L>
+<L>Consider out.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Consider out, why this is such an act,</L>
+<L>Done by a cruell sister, as shall taint</L>
+<L>That holy name with such a blacke reproach</L>
+<L>That should a thousand pious Virgins weepe,</L>
+<L>Rivers of teares, their most immaculate drops</L>
+<L>Would not wash white her scandall haplesse girle,</L>
+<L>That in loves tempests wert but lately tost;</L>
+<L>And now recoverd in a calme art lost,—</L>
+<STAGE>Enter Lactantis.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lact.</SPEAKER>
+<L>Madam the Duke intreats your instant company.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L><HI>I</HI> shall attend his pleasure, good <HI>Lactantio.</HI></L>
+<L>If you can meet my Cosen <HI>Bonivet,</HI></L>
+<L>Desire him visite me.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Doria.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Noble <HI>Lactantio,</HI></L>
+<L>Y'are happily encounterd, <HI>I</HI> expected</L>
+<L>My friend <HI>Vitelli</HI> here, this is his houre,</L>
+<L><HI>I</HI> wonder he is tardie.</L>
+</SP>
+<SP>
+<SPEAKER>Lact.</SPEAKER>
+<L>Your Lordship prevents the time with speed, or else <HI>Vitelli</HI></L>
+<L>Has some impediment by businesse, sir.</L>
+<STAGE>Enter Uitelli.</STAGE>
+<L>Y'are opportunely welcome to deliver</L>
+<L>Your owne excuse, I was about to stretch</L>
+<L>My invention for you.</L>
+</SP>
+<SP>
+<SPEAKER>Uit.</SPEAKER>
+<L>Noble friend, your enemy had you ingagd your faith</L>
+<L>To any personall meeting could expect you,</L>
+<L>But at the minute, reason may dispense</L>
+<L>Twixt us with such a nicety.</L>
+</SP>
+<SP>
+<SPEAKER>Lact.</SPEAKER>
+<L>Now your friends</L>
+<L>Arriv'd, I must beg licence to depart,</L>
+<L>I have some vrgent businesse.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Good <HI>Lactantio</HI> your time's your owne.</L>
+</SP>
+<SP>
+<SPEAKER>Lact.</SPEAKER>
+<L>I kisse your Lordships hand.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Friend now wee're alone, I safely may</L>
+<L>Speake my conjecture, I have read your lookes,</L>
+<L>And in their pensive Characters finde secret,</L>
+<L>Strange signes of sadnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L><HI>I</HI> am sad indeed,</L>
+<L>When my remembrance tells me I have only</L>
+<L><PB REF="14"/>
+Verball assurance of your friendship.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Try me by any attempt, whose danger does surpasse</L>
+<L>The common path of daring, beet to snatch,</L>
+<L>A firy boult when it from heaven comes wrap'd</L>
+<L><HI>In</HI> sheetes of lightning to afford true proofe</L>
+<L>Of my affection, and with eager haste,</L>
+<L>Such as inspires a husband to enjoy</L>
+<L>His spouses virgine purity, ile runne</L>
+<L>To the atchievement.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>These are but protests; such as be got by ceremony, proceed</L>
+<L>Not from intensive zeale, yet ile experience</L>
+<L>The truth of your affection by a triall</L>
+<L>Of such a noble and effective weight,</L>
+<L>Which if you bravely doe support, you'l stand</L>
+<L>As some tall Pyramid or Columne for</L>
+<L>Your owne memoriall to tell after-times</L>
+<L>The power and strength of friendship.</L>
+</SP>
+<SP>
+<SPEAKER>Uit.</SPEAKER>
+<L>Pray nam't, and 'twere a burden would orepresse the earth,</L>
+<L>Ile be the able <HI>Atlas</HI> to sustaine</L>
+<L>Heaven on my willing shoulders.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>There is a Lady in whose each eye sits fire, &amp; on her cheek</L>
+<L>Victorious beauty captive to her smiles</L>
+<L>Dances in lovely triumph, one who emblemes</L>
+<L>The glory of mortality in each looke,</L>
+<L>Contracts the orbe of lusture to a glance,</L>
+<L>Brandishes beames, whose purity dispence,</L>
+<L>Light more immaculate then the gorgeous east,</L>
+<L>Weares when the prostrate <HI>Indian</HI> does adore</L>
+<L>Its rising brightnesse, yet this wonder doates</L>
+<L>On you with such inevitable fervor</L>
+<L>That I in pitty of her sufferings come</L>
+<L>T'intreate you love her.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Whom my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>You cannot appeare so strangely stupid not to acknow∣ledge</L>
+<L>Creations miracle, when I point out </L>
+<L>Her very figure you as well may seeme,</L>
+<L>When the bleake North does with congealing blasts</L>
+<L>Binde up the crisling streames in chaines of Ise,</L>
+<L><PB REF="14"/>
+Not to know Winter, ignorant of her</L>
+<L>Who had she liv'd when superstitious mists</L>
+<L>Shaded the world, more groves of gammes had fam'd,</L>
+<L>T'her Divinest beauty, then to all</L>
+<L>The race of idle deities: tis <HI>Chrisea,</HI></L>
+<L>The faire <HI>Chrisea</HI> loves you.</L>
+</SP>
+<SP>
+<SPEAKER>Uit.</SPEAKER>
+<L>The faire <HI>Chrisea,</HI> your Lordship's merry.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Doe you slight</L>
+<L>What I deliver'd with that unfain'd zeale,</L>
+<L>That penitents doe their prayers, I say, <HI>Chrisea,</HI></L>
+<L>A name whose every accent sweetlier sounds,</L>
+<L>Then quires of <HI>Syrens</HI> sence bereaving notes,</L>
+<L><HI>Chrisea</HI> loves you infinitely above</L>
+<L>Expressive termes; the Orators shoud strive</L>
+<L>To paint her masculine fancy, and i'me bound</L>
+<L>To pay this homage to her best content,</L>
+<L>As to conjure you, by all sacred ties</L>
+<L>Of honour, amity, and what else may serve</L>
+<L>To inforce the indeerement with your noblest love</L>
+<L>To gratifie her fancy.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>No perswasion</L>
+<L>Can make me thinke this serious, good my Lord,</L>
+<L>Doe not you love <HI>Chrisea?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>More then a babe does the kind Nurse that feedes it with her blood,</L>
+<L>More then I doe my quiet, or the joyes </L>
+<L>Of ought but blest eternity; <HI>Uitelli,</HI></L>
+<L>No other argument can more convince,</L>
+<L>Suspition should it doubt my love: but this</L>
+<L>That to procure her peace, I have confinde</L>
+<L>The greatnesse of my passion, and give up</L>
+<L>To thy dispose, a Iewell which the earth</L>
+<L>And sea should both unlade their hidden wealth,</L>
+<L>Should not have purchas'd from me.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>These are arts to pusle my conceits, my Lord</L>
+<L>I'me no such punie in the Craft of love,</L>
+<L>That I want braine to finde this drift, which is</L>
+<L>As obvious to me as your eyes: now you</L>
+<L>Are home return'd victorious, big with praise,</L>
+<L>Laden with titles that sit heavier on you</L>
+<L><PB REF="15"/>
+Then your steele Corslet in hot fight coniemne,</L>
+<L>Affinity with me, to whom y'ave heard</L>
+<L>the faire <HI>Eurione</HI> has resign'd her heart,</L>
+<L>And by this circumvention should I court</L>
+<L>At your entreates her sister might pretend</L>
+<L>A righteous cause, for an unjust revolt,</L>
+<L>For were it otherwise,, your temper could not</L>
+<L>Brooke your <HI>Chriseas</HI> change without a start</L>
+<L>Into a sudden fury.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>This language I understand not, by my honour friend,</L>
+<L>This ireration may disperse your doubt,</L>
+<L><HI>I</HI> doe agen conjure you by all right</L>
+<L>Friendship can challenge in you to affect</L>
+<L><HI>Chrisea</HI> nobly; shall I have your answer?</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Nay then my Lord, since you are serious, freely I resume</L>
+<L>The priviledge of my liberty; this body</L>
+<L>I doe confesse your captive, and t'has sufferd</L>
+<L>an honourable thraldome, but my minde</L>
+<L>Remaines unbounded as the ayre or fire,</L>
+<L>Are from their spheares, <HI>Eurione</HI> has wone</L>
+<L>By the subduing valor of her lookes,</L>
+<L>That in a field of fancy, not of blood,</L>
+<L>And ere another shall usurpe her right,</L>
+<L>In the defence ile dye her willing martyr.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L><HI>I</HI> judg'd what serious value</L>
+<L>your boasted friendship would retaineith test,</L>
+<L>Draw your bright weapon, know that I doe hate</L>
+<L>Basenesse as much as cowardice: and since</L>
+<L>You slight a Lady for whose pricelesse love</L>
+<L>Kings might resigne their Crownes, and humbly fall</L>
+<L>Like bare foot pilgrimes prostrate at the shrine</L>
+<L>Of such a beauty, sure if in this sword,</L>
+<L>Death has a residence your life shall finde it,</L>
+<L>And not survive to boast the cruell triumph of her refusall.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Sir your sword cannot excite a trembling in my blood,</L>
+<L>The glistring splend our cherishes my sight,</L>
+<L>Like polish'd Chrystall, henceforth name of friend</L>
+<L>Be no more known betwixt us then a dreame.</L>
+<L><PB REF="15"/>
+Thus I expire it, I may now regaine</L>
+<L>My honour forfeited in the Generall cause</L>
+<L>By this particular Combate.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Should my fate yield me the conquest, yet his death would not</L>
+<L>Beget <HI>Chriseas</HI> quiet, but augment</L>
+<L>Her griefe and hate against me: stay, forbeare,</L>
+<L>I feele a palsie in my veines, and cannot</L>
+<L>Manage this little instrument of death,</L>
+<L>My sinewes put on infancy agen</L>
+<L>And have no vigor in them, oh <HI>Vitelli,</HI></L>
+<L>I am so full of passion, I have scarce</L>
+<L>Roome left to vent a sigh, a mine of lead</L>
+<L>Hangs on my heart, and with its weight has crack'd</L>
+<L>The feeble courage.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Noble soule, his griefe</L>
+<L>Workes more compunction in me, than his sword</L>
+<L>Did suddaine anger; could I grant what you</L>
+<L>Request, no brand-markt slave should fulfill</L>
+<L>Sooner his Masters most severe command,</L>
+<L>Than I would yours; but this abrogates all lawes</L>
+<L>Of friendships duty: ify'ave vowd this act,</L>
+<L>You may as safely disanull the Oath,</L>
+<L>As should you in some desperate fury sweare</L>
+<L>To be your fathers murtherer.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Bid me first renounce</L>
+<L>My allegeance to my honour, sell my faith</L>
+<L>I owe my Native Country: my <HI>Vitelli</HI></L>
+<L>I feele an humour in my braine, which strives</L>
+<L>For passage at mine eyes, wilt see me weepe?</L>
+<L>Consider friend, denying my request</L>
+<L>Thou dost undoe a Lady, who may claime</L>
+<L>The priviledge of all hearts: depriv'st the world</L>
+<L>Of such a jemme, that should old nature strive</L>
+<L>To frame her second, it would quite ex haust</L>
+<L>Her glorious treasury, then in her ruine:</L>
+<L>My life and honour's forfeited, think this,</L>
+<L>And were thy heart obdurate as a rocke</L>
+<L>Of Adamant, this thought joyn'd with my teares</L>
+<L><PB REF="16"/>
+Would sooner than the blood of Goats dissolve it</L>
+<L>To gentle softnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Your eyes are moving advocates, they speake</L>
+<L>Such an o're-flowing Language, that my love</L>
+<L>Then in its owne cause a most partiall Judge,</L>
+<L>Allowes my mercy freedome to pronounce</L>
+<L>Sentence on your side: you have prevail'd,</L>
+<L>Ile serve <HI>Chrisea,</HI> as her pleasure shall</L>
+<L>Dispose my will and fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I beginne to feele my spirits quicken, and my blood</L>
+<L>Receive its noble temper; deare <HI>Vitelli,</HI></L>
+<L>Thy noblenesse does prompt thee to an act</L>
+<L>Shall write thy friendship higher in the lists</L>
+<L>Of sacred amity, than mothers loves.</L>
+<L>Goe to my best <HI>Chrisea,</HI> she expects</L>
+<L>To know by thee the truth of my successe,</L>
+<L>Tell her I am more happy in her blisse,</L>
+<L>Than if I had enjoy'd her constant love:</L>
+<L>So leave me love, I may perhaps transgresse</L>
+<L>Man-hood agen, and shouldst thou see me weepe</L>
+<L>Twice, thou wouldst judge my former flood of teares</L>
+<L>A feigned passion.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Your Genius guard you; thus I apply</L>
+<L>Balme to his wounds, while I doe bleeding dye.</L>
+<STAGE>Ex.</STAGE>
+<STAGE>Enter Bonivet.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>Noble Generall, I come to gratulate the happy choyse</L>
+<L>Y'ave made in faire <HI>Chrisea;</HI> she's a Lady,</L>
+<L>That though she were a stranger to my blood,</L>
+<L>My judgement would allow as rich a vertue</L>
+<L>As ever glorifi'd the sexe.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>'Twould be a sacrilegious errour not to admit</L>
+<L>Your Character for truth, but in our loves</L>
+<L>A thousand hidden causes doe produce</L>
+<L>Alternate changes, my returne has setled</L>
+<L>My thoughts on new resolves, and I must suite</L>
+<L>My affections to them.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="16"/>
+Bon.</SPEAKER>
+<L>How? perhaps because</L>
+<L>You are return'd triumphant with your bayes,</L>
+<L>Growing upon your brow, you doe reject</L>
+<L>The love before you su'd for, tis not noble</L>
+<L>So to abase a Lady, whose bright fame,</L>
+<L>Although untainted as a Christall rocke,</L>
+<L>Must passe a popular censure, if you, who</L>
+<L>Did with such earnestnesse pretend her match</L>
+<L>Should on the suddaine scorne it.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I'me not bound</L>
+<L>To give you reasons why; but know my mind,</L>
+<L>Which your contesting cannot alter's fixt</L>
+<L>On what I have related.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>I must then tell you</L>
+<L>You doe defame the opinion of that worth</L>
+<L>The world does credit in you: this affront,</L>
+<L>Should all her other friends sit idle gazers</L>
+<L>On her disgrace, should stirre me to attempt</L>
+<L>An ample satisfaction from your heart,</L>
+<L>Though you had multitudes of greater glories</L>
+<L>Heap'd on your head, or were defenc'd with legions</L>
+<L>To affright me from the adventure.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Sir, your courage is juster than your quarrell, doe you think</L>
+<L><HI>I</HI> weare a sword onely for ornament;</L>
+<L>And though our yeares declare us equalls, yet</L>
+<L>My education was i'th' trade of warre.</L>
+<L>Tis my profession to infranchise soules</L>
+<L>From prisons of their flesh, and would be loath</L>
+<L>Cause you have interest in <HI>Chriseas</HI> blood,</L>
+<L>Your passion should betray you to the fury</L>
+<L>Of my incensed wrath.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>All discourse is tedious to me, sure the world's abus'd</L>
+<L>With report of your valour, men who commit</L>
+<L>Affronts they dare not answer, use excuse</L>
+<L><HI>In</HI> moderation of them, <HI>I</HI> expected</L>
+<L><HI>I</HI> should have met an adversary of you,</L>
+<L>Of temper hot as lightning, and as bold</L>
+<L>As Lyons vext with hunger, and <HI>I</HI> finde you</L>
+<L><PB REF="17"/>
+A tame dege nerate Coward:</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>All respect of love and pitty hence:</L>
+<STAGE>sight.</STAGE>
+<L>Beare up, my steele</L>
+<L>Has prickt your breast; I would not have you dye</L>
+<L><HI>Chriseas</HI> Martyr.</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>I've puld untimely ruine on mee, I'me hurt,</L>
+<L>I feare to mortall danger: Noble Generall,</L>
+<L>See me conducted to <HI>Lactantios</HI> house,</L>
+<L>There I shall get a Surgeon.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Noble young man,</L>
+<L>Muster thy strongest spirits up: I am one</L>
+<L>Of Fortunes pastimes; yesterday return'd,</L>
+<L>Advanc'd to heaven by the peoples breath,</L>
+<L>To day hurl'd downe into the abysse of death.</L>
+<STAGE>Ex.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus Tertius.</HEAD>
+<SP>
+<STAGE>Enter Chrisea, and Corimba.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>CAme none yet from the Generall?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>No insooth Madam; I protest your sister</L>
+<L>If she continue in these suddaine fits,</L>
+<L>Will so undoe her face, that all my art</L>
+<L>Can never rectifi't; shee weepes, as if</L>
+<L>She might as easily be supply'd with eyes</L>
+<L>As with new dressings, ile be sworne, I tooke</L>
+<L>As hearty paines to cut a handsome heart;</L>
+<L>And though I say't it was a pretty one</L>
+<L>As e're was made of Taffaty, to grace her Check,</L>
+<L>And never trust me if I lye to you,</L>
+<L>Her teares has wash'd her heart away.</L>
+</SP>
+<SP>
+<SPEAKER>Chr.</SPEAKER>
+<L>Th'art still</L>
+<L><PB REF="17"/>
+In these impertinent discourses: what's the cause</L>
+<L>My sister is so prodigall of her griefe,</L>
+<L>To let thee see her vent it?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Why Madam, I have seene a Lady weepe,</L>
+<L>Besides your sister, and have wept my selfe too,</L>
+<L>I never shall forget the time; I could</L>
+<L>Een cry agen to thinke on't; twas at the death</L>
+<L>Of your fine little Iewell: never Lady</L>
+<L>Nurst such a dainty puppy, but hee's gone,</L>
+<L>And farewell he; I will not give a rush</L>
+<L>For any woman cannot use her eyes</L>
+<L>With as much liberty as her tongue, these fooles,</L>
+<L>These loving Ideots men for three forc'd drops</L>
+<L>Will mollifie like wax, and be made apt</L>
+<L>For any impression.</L>
+<STAGE>Enter Vitelli.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Chr.</SPEAKER>
+<L><HI>Vitelli</HI> you are wellcome, I suppose</L>
+<L>Your businesse has been urgent, we expected</L>
+<L>Your presence sooner, howsoever now</L>
+<L>Tis grateful hither.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>My young Lady shall</L>
+<L>Have notice of's arrivall, perhaps his sight</L>
+<L>Will cheere her drooping spirits.</L>
+<STAGE>Ex.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Madam, my friend</L>
+<L>The Generall, does by me tender his best</L>
+<L>and truest service to you, he has sent me</L>
+<L>Prompt, to fulfill the nicest poynt of duty</L>
+<L>Your pleasure casts upon me.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Sir, the Generall is so just in his proceeding, I must ever</L>
+<L>Esteeme him truely Noble, though I should</L>
+<L>Banish him my affection.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>I could wish</L>
+<L>The sweetnesse of your vertue would vouchsafe</L>
+<L>To lay a reclamation of your love:</L>
+<L>Had you but seene with what ambitious haste,</L>
+<L>With what extreame perswasions he endeavour'd</L>
+<L><PB REF="18"/>
+The satisfaction of your will, you could not.</L>
+<L>Fancy a change from one so worthy.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>No? not to enjoy your selfe?</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Me Madam;</L>
+<L>No equall eye can parallell my poore</L>
+<L>Regardlesse merit, with the glorious worth</L>
+<L>Which does as farre transcend mine in desert,</L>
+<L>As't does in eminence of fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Sir your modesty</L>
+<L>Extenuates your owne worthinesse, to bestow</L>
+<L>A large addition on your friends, my judgement</L>
+<L>Has ballanc'd both, and has concluded which</L>
+<L>Ought to be held most noble, I doe honour</L>
+<L>True constancy in men, pray tell me sir,</L>
+<L>For it concernes me neerely, did you ever.</L>
+<L>Fervently love my sister?</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>To include,</L>
+<L>(All strength of humane zeale) as <HI>Doria</HI> does adore</L>
+<L>Your excellent beauty, with a heat</L>
+<L>Holy as soules in deonest fancy</L>
+<L>Their sainted fellowes.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>And can you extinguish</L>
+<L>So great a flame so easily, can entreates,</L>
+<L>So soone subdue your temper? if your truth</L>
+<L>Be of this wavering quality, how shall I</L>
+<L>Receive assurance of it?</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>The vow</L>
+<L>I made, my friend secures it, thinke not Madam</L>
+<L>That both my parents with perswasive prayers,</L>
+<L>Could have enforc'd me violate my faith</L>
+<L>To faire <HI>Eurione,</HI> but when my friend,</L>
+<L>My honor'd friend to whom I owe my life,</L>
+<L>As tenant to his, bounty did in teares,</L>
+<L>A souldiers teares whose every drop prevailes.</L>
+<L>More then a captive princesse, plead the losse.</L>
+<L>Of his owne life, my gratitude did vanquish</L>
+<L>Passion, and forc'd me tear even from my soule</L>
+<L><HI>Euriones</HI> affection.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="18"/>
+Chri.</SPEAKER>
+<L>You are just</L>
+<L>In your determination.</L>
+<STAGE>Enter Eurione.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Blesse me friendship,</L>
+<L>And with thy white wings overshade my heart,</L>
+<L>Or here descends a Saint will dispossesse thee</L>
+<L>Of the accustom'd shrine, a barke enclos'd,</L>
+<L>Twixt two encountring tides is not more tost</L>
+<L>Then I twixt striving passions, while a friend,</L>
+<L>I cannot be a lover.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L><HI>Uitelli</HI> am I in your opinion lost? my sister</L>
+<L>Relates so sad a wonder, that if truth,</L>
+<L>I am undone for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Harke she speakes too,</L>
+<L>A tempting language; such was our first mothers voyce,</L>
+<L>While she was innocent, deeere Ladies would</L>
+<L>I could divide my selfe, for being one,</L>
+<L>I cannot on the Theater of my minde,</L>
+<L>Act both a friend and lover, that two names</L>
+<L>Of so intire affinity should occasion</L>
+<L>So manifest a dissension, in a soule</L>
+<L>That would be true, yet is inforc'd, though loath,</L>
+<L>To forfeit one, or to be false to both.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>My expectation did not</L>
+<L>Sage this softnesse in you, I had thought</L>
+<L>You had come furnish'd with a full resolve</L>
+<L>To act your friends request.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Yet I must needs</L>
+<L>Speake in a cause so moving; Madam thinke</L>
+<L>How much more noble tis in you to save,</L>
+<L>Then to destroy; behold three bleeding hearts</L>
+<L>Imploring pitty from you, mine, your sisters,</L>
+<L>And your adorer <HI>Dorias,</HI> which one word</L>
+<L>Of yours would ransome from approaching death,</L>
+<L>Oh be not sparing of that breath, 'twill sound</L>
+<L>In the just eares of heaven more sweet then prayers</L>
+<L>Offerd by Cloyster'd virgins, of resume</L>
+<L>Your native charity, and fulfill my suite,</L>
+<L>And in requitall of that sacred grant.</L>
+<L><PB REF="19"/>
+Time shall depend like summer on your brow,</L>
+<L>And your whole life be one continued youth.</L>
+<L>Such were the springs in Paradise, and when</L>
+<L>You passe to be a sharer in heavens blisse,</L>
+<L>Virgins and innocent lovers spotlesse teares,</L>
+<L>Hardned to pearle by the stronge heare of finger,</L>
+<L>Shall be your monument.</L>
+</SP>
+<SP>
+<SPEAKER>Chr.</SPEAKER>
+<L>This whole discourse</L>
+<L>Should you inlarge it to a volumne, cannot</L>
+<L>Alter my meanest thought, I only wish you</L>
+<L>As you are noble to respect your honour;</L>
+<L>That's all my answer.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>But doe you meane</L>
+<L><HI>Uitelli,</HI> to performe what <HI>Doria</HI> has enjoyn'd you.</L>
+</SP>
+<SP>
+<SPEAKER>Uit.</SPEAKER>
+<L><HI>I</HI> shall melt</L>
+<L>Into a willing pitty, if the flame</L>
+<L>Of friendship did not with its effectuall heat,</L>
+<L>Dry up loves moysturer deere Madam he</L>
+<L>That has commanded me this deathfull taske,</L>
+<L>Claimes such a lawfull Interest in my life,</L>
+<L>That spight of my affection, <HI>I</HI> must-yield</L>
+<L>To his resistlesse will: yet I will love you</L>
+<L>So far as honour gives me warrant, and</L>
+<L>Wish you the best of women, the best joyes</L>
+<L>Happinesse can impart to you, farewell,</L>
+<L>'Tis a befitting gratitude to give</L>
+<L>That life a being; by whose guift I live.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>sorrowes flow high; griefe unto griefe succeed,</L>
+<L>Wounds are more dangerous which doe inward bleed.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Adorni, and Frangipan.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Come let not this dishearten you, your French</L>
+<L>Is a thing easily gotten, and when you have it,</L>
+<L>As hard to shake it off, runnes in your blood,</L>
+<L>As 't were your mother language, but there is</L>
+<L>An observation farre more necessary</L>
+<L>T'improve your judgement, still let your discourse</L>
+<L><PB REF="19"/>
+Concerne the forraigne businesse, and be sure</L>
+<L>To applaud out-landish fashions, and take off from</L>
+<L>What is native, as if you shall heare</L>
+<L>Any commend the <HI>Genoa</HI> garbe, or state</L>
+<L>Answer in <HI>France,</HI> in <HI>Naples,</HI> or in <HI>Spaine,</HI></L>
+<L>No Matter where, so it be farre enough.</L>
+<L>From hence, they are more politicke, more witty;</L>
+<L>Every way more deserving, this will speake</L>
+<L>Infinitely judicious, when to praise</L>
+<L>Our owne domesticke manners, is as if</L>
+<L>A man should praise himselfe, and be accounted</L>
+<L>A selfe conceited gul for't.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Very good, this is a rule Ile put in practice I,</L>
+<L>Thanks to my inclination can speake ill</L>
+<L>Of my owne father signior.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Signior; still, you betray your igorance, why signior,</L>
+<L>Mounsiuer has a farre more airy and harmonious sound,</L>
+<L>There's musicke in the letters, still polish your phrase</L>
+<L>With particles of language, which till I've taught you</L>
+<L>Perfectly answer with a shrug or nod,</L>
+<L>Or any forraigne gesture, such a silence</L>
+<L>Will be esteem'd for gravity, and become you better</L>
+<L>Then volubility of speech does some</L>
+<L>Whose tongues are gentlemen ushers to their wits,</L>
+<L>Still going before it, and when you doe speake,</L>
+<L>Let it not be, as now you doe of newes</L>
+<L>Abroach ten daies before, and quite drunke of;</L>
+<L>But what affaires are acted then in <HI>France,</HI></L>
+<L>What in the English Court; and still remember</L>
+<L>T'extoll 'hem infinitely, and if any answer</L>
+<L>Comparatively with our owne a serious laughter,</L>
+<L>Will not become you ill, to shew how much</L>
+<L>You slight their error.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Better still, I like this slighting humour infinitely, but how</L>
+<L>If they should talke of our <HI>Italian</HI> dames, </L>
+<L>I'me bound to be their Champion, for I've heard</L>
+<L>Strangers report, and I hold their opinion,</L>
+<L>Our Curtezans excell all other Nations.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="20"/>
+Ador.</SPEAKER>
+<L>That shew'd those strangers judgements, and confirm'd</L>
+<L>What I would have you understand in <HI>England,</HI></L>
+<L>Where publicke houses are prohibited:</L>
+<L>There are the bravest Lasses, there some <HI>Donsella</HI></L>
+<L>That was the last night yours, shall for two Ducats</L>
+<L>To morrow be a Saylers: when there</L>
+<L>Your Citizens wives, girles fresh as ayre, and wholsome</L>
+<L>As pretious <HI>Candy</HI> wives will meet their Gamsters,</L>
+<L>At a convenient Taverne, rob their husbands</L>
+<L>Without a scruple, and supply their friends,</L>
+<L>While the good innocent Cuckolds pay a price</L>
+<L>For their owne horning.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Excellent, excellent</L>
+<L><HI>Genoa,</HI> I doe defie thy costive girles,</L>
+<L>Ile henceforth love these English sparkes of gold:</L>
+<L>Would I were there: it should goe hard but I</L>
+<L>Would graft on their Aldermens Coxecombs.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Th'are grafted fast already sir, besides</L>
+<L>They ne're get Children, but their Hench boyes on</L>
+<L>Their Sergeants wives, after some City feast,</L>
+<L>When the provoking spirit of White broath, and</L>
+<L>Custard enflames their blood: what <HI>Genoa</HI> Burgesse</L>
+<L>Da res be so boldly courag'd: Ile tell you,</L>
+<L>And marke how base and fordid it appeares</L>
+<L>To have our Cellers stuff'd with Corsike Wines:</L>
+<L>Yet for this foolish sinne cald Temperance,</L>
+<L>Tantalize, and nere taste it, while your Dutch,</L>
+<L>Your noble-spirited German will carrouse</L>
+<L>A score of Goblets to provoke this stomacke</L>
+<L>To's bread and Butter; doe nothing but by discreete</L>
+<L>Counsell of drinke, not match his daughter to</L>
+<L>A man he sees not drunke first, scarce say's prayers</L>
+<L>Till he be full of liquor, which enflames</L>
+<L>The minde to generous actions.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Commend 'hem, and will be glad to imitate.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Your English</L>
+<L>Deserves as large applause, who to say truth,</L>
+<L>Out-drinks the Dutch, as is the common proverb,</L>
+<L><PB REF="20"/>
+The Dutch-man drinks his buttons off, the English</L>
+<L>Doublet and all away, then marke their carriage:</L>
+<L>If two fall out and strike, and be by company</L>
+<L>Parted; though one weares in his face the badge</L>
+<L>Of his dishonour, which excites him to</L>
+<L>As brave revenge, not daunts him: for he'll straight</L>
+<L>Call out his enemy to a single Duell,</L>
+<L>Scorning his life; concerning the Lands lawes,</L>
+<L>Which doe forbid those combats, and ne're part</L>
+<L>Till one be slaine, and the survivour sure</L>
+<L>As death to hang for't.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Excellent, I love a man that cares not for hanging.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Then to their further glory, which takes off</L>
+<L>All the disgrace of halter, they are sure</L>
+<L>Ere they be scarce cold, to be Chronicled</L>
+<L>In excellent new Ballads, which being sung</L>
+<L>Ith' streets 'mong boyes and girles, Colliers, and Carmen,</L>
+<L>Are bought as great memorialls of their fames,</L>
+<L>Which to perpetuate, they are commonly stuck up</L>
+<L>With as great triumph in the tipling houses,</L>
+<L>As they were scutchions.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Better: yet I'de give</L>
+<L>A hundred Ducats to be chronicled</L>
+<L>In such a historicall Canto: who composes them?</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>They have their speciall Poets for that purpos</L>
+<L>Such as still drinke small Beere, and so are apt</L>
+<L>To spit out lamentable stuffe: then for their cloathes</L>
+<L>They hate a cut domesticke, but imitate</L>
+<L>The French precisely gallants, weare their long</L>
+<L>Parisian Breeches, with five poynts at knees,</L>
+<L>Whose tagges concurring with their harmonious spurres</L>
+<L>Afford rare musicke; then have they Doublets</L>
+<L>So short ith' waste, they seeme as 'twere begot</L>
+<L>Vpon their Doublets by their Cloakes, which to save stuffe</L>
+<L>Are but a yeares growth longer than their skirts;</L>
+<L>And all this magazine of device is furnish'd</L>
+<L>By your French Tayler: what Country man is yours?</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>A <HI>Genoese.</HI></L>
+</SP>
+<SP>
+<SPEAKER><PB REF="21"/>
+Ador.</SPEAKER>
+<L>Fie, change him Monsieur,</L>
+<L>You have heard a Spanish Count's</L>
+<L>Lately arriv'd, without any advice, hou'd you salute him?</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Thus sir, after our Italian fashion.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>That's too vulgar;</L>
+<L>You must accost him thus with a state face,</L>
+<L>As if your beard had beene turn'd up that morning</L>
+<L>By advice of all the Barbers in the City,</L>
+<L>As you had drest you in a Looking-glasse,</L>
+<L>Proper to none but the Dukes privy Counsellors:</L>
+<L>Pronounce your <HI>Besolos manas</HI> with a grace,</L>
+<L>As if you were the sonne and heire, apparant</L>
+<L>To th'Adelantado of <HI>Castile.</HI></L>
+<STAGE>Enter Lactantio.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lact.</SPEAKER>
+<L><HI>Adorni,</HI> this is no time for mirth,</L>
+<L>Your noble General has slain Lord <HI>Bonivet,</HI></L>
+<L>And for the act is a prisoner.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Dares the state bereave him of his liberty,</L>
+<L>Without whose most unwearied valour,</L>
+<L>It had beene betray'd to slavery?</L>
+</SP>
+<SP>
+<SPEAKER>Lac.</SPEAKER>
+<L>You know Lord <HI>Bonivets</HI> alliance to the Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Allyance, death a thousand <HI>Bonivets,</HI></L>
+<L>And Dukes and States, weigh not</L>
+<L>A scruple poys'd with his full worth.</L>
+</SP>
+<SP>
+<SPEAKER>Lac.</SPEAKER>
+<L>He's to be tryed ith'morning without noyse,</L>
+<L>For feare of mutiny, and tis suppos'd</L>
+<L>That if some virgin Lady doe not claime</L>
+<L>Her priviledge, and begge his life, he'll suffer.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>If the maid that begges must be above fifteene,</L>
+<L>Tis shrewdly doubted where she'll be found.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>All our virgins ought, if they have vertue, to contend</L>
+<L>For such a glory; but if all be squeamish,</L>
+<L>May all the daughters of our best Burgers runne</L>
+<L>Away with souldiers, and become Sutlers wives.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Or else when they have a masculine itch upon 'hem,</L>
+<L>And would taste man, may they be wed to Eunuchs.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="21"/>
+Lact.</SPEAKER>
+<L>else be forc'd to keepe their maiden-heads</L>
+<L>Till they be musty and not marchantable</L>
+<L>To younger brothers with additions of wealthy portions.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>May they when they would strive to mend their faces to allure a suitor, want paint and blacke-patches to stoppe the Crannies of their Cheekes; may their Pomatum bee mixt with Hogs-grease, that they may be abominable even in the nose of Iewes: may the green-sicknesse raigne in their bloods, and may they be debar'd of oate meale, and clay-wall, and fall to Rats∣bauc.</P>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>May their parents turne most precise precisians,</L>
+<L>And forbid em the sight of playes, or they may never</L>
+<L>Dance unlesse be to a bag-pipe or a Crowd.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>May they want silkes for gownes, and if they seeke</L>
+<L>Supply from <HI>Naples,</HI> let them insteed, be furnish'd</L>
+<L>With their Disease; may Millaners breake and Feather-men,</L>
+<L>May my Aunt dye suddenly, and bury with her</L>
+<L>All her devises; may there be no Earth</L>
+<L>Found to make looking-glasses, that they come to use of</L>
+<L>Kitchen-wenches, dresse their heads by the reflexion of a</L>
+<L>Paile of water, or in a pewter chamber vessell.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L><HI>Lactantio,</HI> let's go wayte the Generall</L>
+<L>In prison, 'twould be base should we neglect him in</L>
+<L>His extremity.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Doria, <HI>and</HI> Sabelli.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Is it confirm'd hee's dead?</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>The generall voyce</L>
+<L>Divulges so ith'City; and the Duke</L>
+<L>Has sent an order which commands you forth</L>
+<L>I'th morning to your tryall: my deare Lord</L>
+<L>I hope the service you have done the State</L>
+<L>Abroad, will here at home secure your life</L>
+<L>From the Lawes violent Rigour.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Yes poore boy,</L>
+<L>If thou mightst be thy masters judge <HI>Sabelli,</HI></L>
+<L><HI>I</HI> am at the period of my fate, and would not</L>
+<L>Have thee a sad spectator of my fall</L>
+<L>At home, whom thou so oft hast waited on</L>
+<L><PB REF="22"/>
+Abroad in triumph, therefore gentle heart,</L>
+<L>Returne home to thy mother, and survive</L>
+<L>To serve a happier master.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>My noble Lord</L>
+<L>Have I so often followed you, when death</L>
+<L>Attended on each step, when every hurt</L>
+<L>That scar'd your noble body, I have wish'd</L>
+<L>Imprinted on my flesh, and with my teares,</L>
+<L>Even drown'd the purple deluge of your wounds,</L>
+<L>That as my truth and loyalties reward,</L>
+<L>I must be turn'd a way unkindly, when</L>
+<L>My last and just est service might declare</L>
+<L>My zeale to you my master; Oh sir,</L>
+<L>You more afflict my innocence with these words,</L>
+<L>Then if sad truth had brought me the report</L>
+<L>Of my owne mothers sunerall, and should you</L>
+<L>Enforce me leave you, the succeeding care,</L>
+<L>And labour of my life should be consum'd</L>
+<L>In a perpetuall weeping.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Good <HI>Sabelli</HI></L>
+<L>Cease this afflicting language, lest I grow as</L>
+<L>Childish as thy selfe, and burst into teares</L>
+<L>To beare thee company.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>Besides my Lord,</L>
+<L>When your blest soule does on immortall wings</L>
+<L>Arrive at heaven who shall attend it there, the</L>
+<L>Saints and Angels will esteeme themselves</L>
+<L>Worthy to be your fellowes, while my poore</L>
+<L>And humble Ghost would reckon it a blisse</L>
+<L>To waite on you, as carefully as when</L>
+<L>We liv'd on earth together, deere my Lord,</L>
+<L>Let me dy with you, death and I have beene</L>
+<L>Play-fellowes these many yeares, he'l only bring me</L>
+<L>To rest as pleasing to my sence as sleepe</L>
+<L>After a tedious watching.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>This kinde passion shakes my</L>
+<L>Most masculine temper; heere <HI>Sabelli</HI></L>
+<L>Accept this Gold, these Iewells, as the lest</L>
+<L><PB REF="22"/>
+Gift of thy perishing Lord, thou shalt accept 'em;</L>
+<L>If the law doe not passe upon my life,</L>
+<L>Ile send for thee agen, I prethee leave me,</L>
+<L>I would be private, and thy presence does</L>
+<L>Disturbe my serious thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>Nay then tis time for</L>
+<L>Me thewretched'st soule on earth to take</L>
+<L>My lasting farewell of you; all the joyes</L>
+<L>Of blest eternity in stead of my</L>
+<L>Desertlesse service; waite upon your life;</L>
+<L>You ne're shall view your boy agen, for sure if your</L>
+<L>Light be extinguish'd, my weake flame</L>
+<L>Cannot continue burning; give me licence</L>
+<L>To kisse your honour'd hand, and to let fall</L>
+<L>A parting drop or two: and now farewell</L>
+<L>For ever noble Lord; that greefe appeares most true,</L>
+<L>That's writ in blood as well as teares.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Poore boy; I have not yet deserv'd so ill</L>
+<L>But my untimely fate excites some pitty.</L>
+<STAGE>Enter Adorni, Lactantio, and Frangipan.</STAGE>
+<L><HI>Adorni</HI> thou art come to see the last</L>
+<L>And greatest of thy Generalls actions,</L>
+<L>Which like a cunning and well mannag'd scene,</L>
+<L>not till the period will disclose the plot</L>
+<L>Or my lifes Tragedy.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Your life my Lord;</L>
+<L>Death dare not venture to invade it, and</L>
+<L>The state as soone will call the enemy</L>
+<L>Into their City, as pretend the least</L>
+<L>Danger to their supporting Columne, which</L>
+<L>Should it but shake, it might dismantle their</L>
+<L>Best Bulwarkes, burne their Navy, and surrender</L>
+<L>Themselves to present slavery.</L>
+</SP>
+<SP>
+<SPEAKER>Lact.</SPEAKER>
+<L>The Duke,</L>
+<L>Though he did hold his kinsman deere, will value</L>
+<L>The publique good before his private ruine.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Let the Duke doe his worst, and all the state</L>
+<L>Stand on <HI>Pontilios,</HI> I can fetch a Lady</L>
+<L>Of excellent quality shall beg your Lordship,</L>
+<L><PB REF="23"/>
+Ile make her doo't.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Nay, should all fayle you sir,</L>
+<L>Should the States angers, and the Dukes partiall-sentence,</L>
+<L>The peoples malice bandy to surprize</L>
+<L>The treasure of your life; know you have friends</L>
+<L>Would fixe the heads of halfe the Towne upon</L>
+<L>Their Lances poynts, ere your least drop of blood</L>
+<L>Should be diminished.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Gentlemen, I thank you</L>
+<L>All your loves; but know the shape of Death</L>
+<L>Is not ougly to me, but if justice</L>
+<L>Contract me to the monster, <HI>I</HI> shall court it</L>
+<L>As 'twere some beauteous Bride; and think the Axe</L>
+<L>That like the Priest, unites me to a Spouse</L>
+<L>That will not play the woman and revolt.</L>
+<L>Come Gentle-men let's in, brave soules doe hate,</L>
+<L>To be dejected by the force of Fate.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus Quartus.</HEAD>
+<SP>
+<STAGE>Enter Chrisa, Enrione, Vitelli.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>I Am very sorry that his Fate has cast</L>
+<L>Such a disastrous chance upon his Life:</L>
+<L>But his desert will blunt the edge of justice,</L>
+<L>And mitigate the severity, which would</L>
+<L>Question the safety of his Life.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>'Tis in your mercy</L>
+<L>To dash the Lawes proceedings, gracious Madam,</L>
+<L>The Priviledge that our Country gives your Sexe,</L>
+<L>Can hope for no imployment, that will rayse</L>
+<L>A greater Trophee to your fame, then this</L>
+<L>To ransome him, whose constancy and truth</L>
+<L>Exceeds all boast of Stories.</L>
+</SP>
+<SP>
+<SPEAKER>Enr.</SPEAKER>
+<L>You'l redeeme</L>
+<L>The opinion of your piety, which scandall,</L>
+<L>Should you omit this just and righteous taske,</L>
+<L>Would blast with blackest infamy.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="23"/>
+Chri.</SPEAKER>
+<L>You plead in your owne cause, not his, t' does not beseem</L>
+<L>My modesty to interpose my selfe</L>
+<L>In that which nought concernes me.</L>
+</SP>
+<SP>
+<SPEAKER>Uit.</SPEAKER>
+<L>Is his life</L>
+<L>Of such a triviall value in your thouglits,</L>
+<L>That you esteem't not worthy your intreats,</L>
+<L>To sav't from killing, ruine, sacred love,</L>
+<L>Thou miracle of Mature, and delight</L>
+<L>Of all who know humanity with some</L>
+<L>Religious arrow pierce her flinty breast,</L>
+<L>Some pious shaft, on whose subduing point</L>
+<L>Pitty and amorous softnesse gently sit,</L>
+<L>Reduce this straying Schismaticke to the first</L>
+<L>Vnspotted purenesse of her constant faith,</L>
+<L>And we will pay a thousand clouds of sighes,</L>
+<L>As incense to thy Altars.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Offer up</L>
+<L>Miriads of virgin vowes and with our teares</L>
+<L>Extinguish all irregular flames that taint</L>
+<L>Thy holy fries.</L>
+</SP>
+<SP>
+<SPEAKER>Uit.</SPEAKER>
+<L>Oh Madam</L>
+<L>What heart so barbarous, does not at loves smiles</L>
+<L>Put off the native fiercenesse, beasts with beasts,</L>
+<L>Observe his lawes; the Lyons whose big breath</L>
+<L>Affrights the trembling people of the woods,</L>
+<L>Were his hoarse accents to be understood,</L>
+<L>They would appeare to be affections groves.</L>
+<L>The Nightingale that on lascivious wings</L>
+<L>Flies from the poplar to the trembling Beech,</L>
+<L>And on each bough chaunts melancholy notes,</L>
+<L>Had hea humane utterance, would proclaime</L>
+<L>Those pensive straines, the musicke of his love;</L>
+<L>And can yee be lesse sensible of a power,</L>
+<L>That is so great, then creatures bard the use</L>
+<L>Of sacred reason, and discourse?</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>This is to seeke to pacifie the sea</L>
+<L>With teares; <HI>Vitelli</HI> you mistake, your friend</L>
+<L>Values not at so deere a rate his life,</L>
+<L><PB REF="24"/>
+As to receive a being tributary</L>
+<L>To my unask'd entreats, besides I should</L>
+<L>Envy the states prerogative, whose mercy</L>
+<L>Is in remitting his unwilling fault,</L>
+<L>But a becomming thankfulnesse, and should</L>
+<L>Be censur'd, as too partiall to my owne</L>
+<L>Affection should I strive to be his wife,</L>
+<L>Whose hand is purpled with the innocent blood</L>
+<L>Of my late murdered kinsman.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>This concernes</L>
+<L>As neerely me as you, but by just truth,</L>
+<L>Though I'me ingag'd by my particular choyce</L>
+<L>To my <HI>Vitelli,</HI> were I sure the Generall</L>
+<L>Would not contemne my offer, and so blast</L>
+<L>My future fame, I would disclaime all eyes</L>
+<L>Of former fancy; and implore his safety.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>This is a sweetnesse</L>
+<L>Which I cold wish you, what has begot</L>
+<L>This strange desertion of your faith, true love,</L>
+<L>Being once receiv'd into the soule converts</L>
+<L>Into its very essence, does become</L>
+<L>The same eternall substance, can you then</L>
+<L>Teare from the tender Cabinet of your brest</L>
+<L>Your very heart? this cruelty exceeds</L>
+<L>The depth of tyranny, but est assur'd,</L>
+<L>If <HI>Doria</HI> suffer by your proud contempt,</L>
+<L>I'me freed then from my promise, and will sooner</L>
+<L>Warme an empoysoning <HI>Scorpion</HI> in my armes,</L>
+<L>Then yeeld my meanest thought to you who are</L>
+<L>By evident circumstance, though not by fact,</L>
+<L>My friend the Generalls murdresse.</L>
+</SP>
+<SP>
+<SPEAKER>Chri</SPEAKER>
+<L>This <HI>Vitelli</HI></L>
+<L>Is not a meanes to winne me to your friend,</L>
+<L>But more avert me from him, it inflames</L>
+<L>My minde with holier fire to Court your love;</L>
+<L>There is an evident beauty in your soule,</L>
+<L>Equall to truest honor, I will cherish</L>
+<L>This bravery in you, if your masculine fancy</L>
+<L><PB REF="24"/>
+Engages you thus constant, to a friend,</L>
+<L>You'l be a loyall husband, fare you well,</L>
+<L>Be still thus noble, and be happy.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>My sister</L>
+<L>Has lost all sence of pitty; deere <HI>Vitelli,</HI></L>
+<L>There is no wretchednesse oppressing earth</L>
+<L>Equall to ours, love thus the Tyrant playes,</L>
+<L>Afflicting innocence by unusuall waies.</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Doria as a prisoner, Lactantio, Adorni, to them Trivulci, Senators, Offi∣cers, and Atten∣dants.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>Tis like your selfe my noble Lord, but see</L>
+<L>The Duke approaching, let your soule expect</L>
+<L>An equall hearing.</L>
+</SP>
+<SP>
+<SPEAKER>Offic.</SPEAKER>
+<L>Beare backe, roome for the Duke and Senate, what</L>
+<L>Cuckold's that would have his Coxcombe broake? beare backe there.</L>
+</SP>
+<SP>
+<SPEAKER>Triv.</SPEAKER>
+<L>Cite in the prisoner.</L>
+</SP>
+<SP>
+<SPEAKER>Offic.</SPEAKER>
+<L>Hee's here my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>I'me sorry that</L>
+<L>You for whose head the gratitude of the state</L>
+<L>Decreed triumphant bayes should be enforc'd</L>
+<L>To stand here a delinquent, but the law</L>
+<L>Must as a streight and uncorrupted streame</L>
+<L>Enjoy its usuall freedome, my Lords,</L>
+<L>We are not met here to arraigne a prisoner,</L>
+<L>Whose guilt does speake his sentence, but a person</L>
+<L>Not only most unblemish'd in his fame,</L>
+<L>But one to whom our country owes its life:</L>
+<L>Who with his dearest blood has balm'd the wounds</L>
+<L>Which michiefes giant-off-springs, raysing warre,</L>
+<L>Cut in the bosome of the common-wealth.</L>
+</SP>
+<SP>
+<SPEAKER>Sen.</SPEAKER>
+<L>We all confesse his worth.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Yet this brave youth,</L>
+<L>This patron of our liberty, all his honours,</L>
+<L>His blood and titles, his defensive bayes</L>
+<L><PB REF="25"/>
+(That would have guarded his victorious front</L>
+<L>From blasts of lightning) laid aside, is come</L>
+<L>To tender satisfaction to the lawes,</L>
+<L>He has offended, and since judgement is</L>
+<L>The immediate act of Justice, it must passe</L>
+<L>To save impartiall censure on his life,</L>
+<L>As on the wretched'st malefactors; for</L>
+<L>His former merits cannot take away</L>
+<L>His present fault; for who ere is guilty</L>
+<L>Vndoes the priviledge of his desert and blood;</L>
+<L>For if great men offending passe unpunish'd,</L>
+<L>The common people who doe use to sinne,</L>
+<L>By their example fearelesse, will runne on</L>
+<L>Into licencious wickednesse.</L>
+</SP>
+<SP>
+<SPEAKER>Sen.</SPEAKER>
+<L>Your grace delivers</L>
+<L>The intension of the state, no oracle</L>
+<L>Could have explain'd the meaning of our lawes</L>
+<L>With more integrity.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Yet my good Lords,</L>
+<L>I speake not this, that my particular vengeance,</L>
+<L>Because slew he my kinsman, has the least</L>
+<L>Ayme at his life, which I would strive to cherish</L>
+<L>As my owne health, or as the Cities peace,</L>
+<L>For Magistrates ought to behold their crimes,</L>
+<L>Not the committers, as the Poets faine</L>
+<L>Of wise <HI>Tyresias,</HI> to want eyes, and only</L>
+<L>Have seeing understanding, for a judge</L>
+<L>Is guilty of the fault he does not punish,</L>
+<L>And if rewards and triumphs doe adorne</L>
+<L>Deserts tis just that shame and punishments</L>
+<L>Should wait on vices, and how much more worthy</L>
+<L>The person is that acts them, so farre sharper</L>
+<L>Should be the penalty inflicted on him.</L>
+</SP>
+<SP>
+<SPEAKER>Sen.</SPEAKER>
+<L>And when the law</L>
+<L>Vses its utmost rigor, tis the crime,</L>
+<L>And not the man it sentences.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>In briefe We must</L>
+<L>Decline his merit, and forget</L>
+<L><PB REF="25"/>
+Our gratitude, and since his hand is dipt</L>
+<L>In civill blood, his life must expiat what</L>
+<L>His arme unfortunately committed.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>My Lords,</L>
+<L>The services which I have done the state,</L>
+<L>Were but my naturall duty, <HI>I</HI> atchieved 'em</L>
+<L>To gaine me fame and glory, and you safety, and</L>
+<L>Should esteeme them Traytors to honour, if their intercession</L>
+<L>Be a protection for my crimes, I meane not</L>
+<L>To plead to save a dis-respected life,</L>
+<L>Cause I feare death, a sea incompass'd rocke</L>
+<L>Is not lesse timerous of the assaulting waves,</L>
+<L>Then I of the grimme monster, but there is</L>
+<L>A fame surviving which I would be loath,</L>
+<L>Should tell posterity I tamely yeelded</L>
+<L>My head to th' Axe, and dyed because my spirit</L>
+<L>Durst not desire to live to quit this scandall,</L>
+<L>I hope what I can urge in my defence</L>
+<L>Shall have indifferent hearing.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Speake freely.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Know then my intention</L>
+<L>Is not by excuse to extenuate my fact,</L>
+<L>Which I confesse most horrid, and woud I pay</L>
+<L>A thousand showers of sorrow, could this hand</L>
+<L>Reedifie that goodly from of flesh</L>
+<L>Which it demolisht, but my pricelesse fame,</L>
+<L>In whose deere cause I slew him, will to justice</L>
+<L>Boldly proclaime, <HI>I</HI> did no more then what</L>
+<L>The truth <HI>I</HI> owe my reputation tells me,</L>
+<L>Was right in poynt of honor.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>But the law</L>
+<L>Does disallow it as unjust, and that</L>
+<L>Must be your judge, and not that idle breath</L>
+<L>Which you abusively terme honor.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Your lawes cannot without partiality pronounce</L>
+<L>Iudgement against me, for they doo acquit</L>
+<L>That man of guilt that to defend his life</L>
+<L>Is forc'd to slay his enemy; my act</L>
+<L><PB REF="26"/>
+Carries the same condition, since my fame,</L>
+<L>Whose safety urg'd me to kill him, is my life,</L>
+<L>My immortall life, as farre transcending this</L>
+<L>As the soule does the body, for the sword,</L>
+<L>Returnes that to its primitive matter dust,</L>
+<L>And there it rests forgotten, but a wound</L>
+<L>Strucke upon reputation, leaves a brand,</L>
+<L>So selfe diffusive is dishonors guilt,</L>
+<L>Even to posterity, and does revive</L>
+<L>After t'has sufferd martyrdome.</L>
+</SP>
+<SP>
+<SPEAKER>Sen.</SPEAKER>
+<L>Yet this</L>
+<L>Cannot excuse your fact, for civill reason</L>
+<L>Allowes a reparation for the losse</L>
+<L>Of fame, but gives no man a lawfull licence</L>
+<L>To snatch the priviledge from the hands of justice,</L>
+<L>Which would dispose it equally.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>This strictnesse destroyes all</L>
+<L>Right of manhood, since a coward</L>
+<L>May fearefully relying on this sufferage</L>
+<L>Of Law affront even valors selfe, consider</L>
+<L>That the most cunning Pilot cannot steere mans</L>
+<L>Brittle vessell 'twixt these dangerous Rocks</L>
+<L>Of law and honor safely, sayle by this,</L>
+<L>And on that suffer ship wracke, for suppose</L>
+<L>I had with patience borne this scandalous name</L>
+<L>Of a degenerate coward, I not only had</L>
+<L>Nip'd the budding valor of my youth,</L>
+<L>As with a killing frost, but left a shame inherent</L>
+<L>To our family, disgrac'd</L>
+<L>My noble fathers memory, defam'd</L>
+<L>Nay cowarded my Ancestors, whose dust,</L>
+<L>Would 'a broke through the Marbles, to revenge</L>
+<L>To me this fatall infamy.</L>
+</SP>
+<SP>
+<SPEAKER>Ador</SPEAKER>
+<L>Well urg'd, and resolutely.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Nay more, your selves</L>
+<L>That hate the deed being done; would have detested</L>
+<L>The doer worse had it not beene perform'd</L>
+<L>Withdrawne my chardge ith' army; as from one</L>
+<L><PB REF="26"/>
+Protested for a coward, I might then</L>
+<L>Have abjur'd the trade of warre, in which I have beene nurs'd,</L>
+<L>Yet for preserving this unvalued jemme</L>
+<L>Of pretious honour that hangs on my soule,</L>
+<L>Like a well polish'd Iewell in the care,</L>
+<L>Of the exactest beauty, must I suffer</L>
+<L>The lawes sterne rigor.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Sir I should refute</L>
+<L>With circumstance your wrong opinion, but in briefe,</L>
+<L>Religious conscience, utterly disclaimes</L>
+<L>An act so barbarous to take mans life,</L>
+<L>Is to destroy Heavens Image, and if those</L>
+<L>Are held as Traytors, and the law inflicts</L>
+<L>Severest tortures on them, who deface</L>
+<L>The stamps of Princes in their coyne, can they appeare,</L>
+<L>As guiltlesse whose rude hands disgrace</L>
+<L>The great Creators Image, and commit</L>
+<L>Treason 'gainst awfull nature; Oh my Lord</L>
+<L>Collect your serious temper, and put off</L>
+<L>The over weening fantasies of youth,</L>
+<L>Consider what a vaine deluding breath</L>
+<L>Is reputation, if compar'd with life.</L>
+<L>Thinke that an idle, or detracting word</L>
+<L>May by a faire submission (which our lawes</L>
+<L>Of honor doe require it will enforce)</L>
+<L>Be wash'd away, but the red guilt of blood</L>
+<L>Sticks as a blacke infection to the soule,</L>
+<L>That like an Aethiop cannot be wash'd white,</L>
+<STAGE>A shout within. Enter Corimba and Frangipan.</STAGE>
+<L>Thinke upon this, and know I must with griefe</L>
+<L>pronounce your fatall sentence.—</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Doe you heare Generall, Ile tell you newes, you were in</L>
+<L>Ieopardy to have had your little weason slit; but I pronounce</L>
+<L>The happy word, be safe; his peece of beauty,</L>
+<L>By my perswasions does intend to take</L>
+<L>The edge of law off, and become your wife,</L>
+<L>True and inseparable.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>With reverence to this presence, my good Lords,</L>
+<L>Know that I come not urg'd by heate of youth.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="27"/>
+Fran.</SPEAKER>
+<L>Tis true Ile beare her witnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Cor</SPEAKER>
+<L>Or any wanton or unchast desire</L>
+<L>To beg this gentleman for my husband, neither</L>
+<L>To raise my selfe a fortune by the match,</L>
+<L>But mov'd in charity, and provok'd in minde,</L>
+<L>With pitty to behold a man so proper,</L>
+<L>Brought to an end untimely, by a death</L>
+<L>So scandalous to honour as the Axe,</L>
+<L>I come to crave our priviledge, and desire him</L>
+<L>For my most lawfull husband.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Gentle mayd</L>
+<L>Your piety does prompt you to an act</L>
+<L>That shall engage your country to erect</L>
+<L>A statue to your memory, though I could not</L>
+<L>Dispence with justice, yet since there's a meanes</L>
+<L>Without the lawes infringement, to preserve him,</L>
+<L><HI>I</HI> doe rejoyce as much as if my sonne</L>
+<L>Had scap'd apparant danger: goe on and prosper</L>
+<L>In your designe.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Doe you thinke because <HI>I</HI> pleaded</L>
+<L>For my honours life,</L>
+<L>I doate so much upon this idle breath,</L>
+<L>As to preserv't with infamy, dispose</L>
+<L>This womanish priviledge to submissive slaves,</L>
+<L>Know that I hate a being that depends</L>
+<L>Upon anothers bounty more then death,</L>
+<L>At which my soule does, like an Eagle stretch its</L>
+<L>Silver wines, and ore the monsters head</L>
+<L>Will make flight at heaven; pray sit proceed</L>
+<L>To judgement suddenly, delay begets</L>
+<L>More tortors in me then your sentence.</L>
+</SP>
+<SP>
+<SPEAKER>Gor.</SPEAKER>
+<P>What doe you meane sir, pray let me understand you Better, looke upon me, <HI>I</HI> am no woman to be slighted.</P>
+</SP>
+<SP>
+<SPEAKER>Fra.</SPEAKER>
+<P>She's not asham'd to shew her face, marry her Uncle, that I may call you so.</P>
+</SP>
+<SP>
+<SPEAKER>Sen.</SPEAKER>
+<P>To wed this figure, is a farre greater punishment then Death.</P>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<P>Nere stand on tearmes, but marry her, and free your
+<PB REF="27"/>
+selfe, and trust to me, you shall not want a mistresse has better colours in her face.</P>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Corimba,</L>
+<L>I'me much engag'd to your officious haste,</L>
+<L>And pay you many thankes, conceive not that</L>
+<L>I doe contemne your person or dislike</L>
+<L>The meannesse of your match, for were your beauty</L>
+<L>Created for a miracle, and adon'd</L>
+<L>With the addition of a fortune ampler,</L>
+<L>Then that perfection, I should crave a licence</L>
+<L>To tell your modesty I am prepar'd</L>
+<L>Rather for death then Nuptialls, and no strength</L>
+<L>Of prayers and beauty, shall have power to tempt me</L>
+<L>From my fixt resolution.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>This is madnesse not courage <HI>Doria.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Sir I must tell you, you know not how to use a woman rightly,</L>
+<L>Perhaps tis bashfulnesse, take courage sir,</L>
+<L>I have reserv'd my deere virginity</L>
+<L>This fifty yeares for such a pious purpose,</L>
+<L>And should you slight me now, <HI>I</HI> should forswear</L>
+<L>Good purposes hereafter: gentlemen perswade him,</L>
+<L>Sure he cannot chuse but melt</L>
+<L>At your entreaties.</L>
+</SP>
+<SP>
+<SPEAKER>Tri</SPEAKER>
+<L>Will you then pull your ruine on; that seeks</L>
+<STAGE>Recorders. Enter Uitelli, and Sabelli, as a Lady. Virgins.</STAGE>
+<L>Thus easily to flye from you; Iustice calls</L>
+<L>On me to give your sentence—new interruptions</L>
+<L>It is the voyce of musicke, and presages</L>
+<L>An Omen as harmonious as its notes,</L>
+<L>Approach faire troops of Virgins, here's subject,</L>
+<L>Fit for your maiden pity.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Tis time for mee to take my farewell, these may bee beauties, perhaps my Lady may bee one, adiew sir; you may be offer'd worse.</P>
+<STAGE>Ex. Cor, and Fran.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>My honour'd Lord,</L>
+<L>The charity I owe my native country,</L>
+<L>That in the ruine of this brave young man,</L>
+<L>Would suffer infinitly, has forc'd us strive</L>
+<L>With earely zeale first to presentour duties</L>
+<L><PB REF="28" MS="y"/>
+For his redemption, 'mong ten thousand Virgins</L>
+<L>That would attempt it, and my true affection</L>
+<L>Has wonne this favour from my fellowes, that</L>
+<L>To me they yield their interest, which I claime</L>
+<L>As my desir'd prerogative.</L>
+</SP>
+<SP>
+<SPEAKER>Tre.</SPEAKER>
+<L>Tis an act the State will thanke you for; unvaile your selfe,</L>
+<L>That we may know to whom we owe our gratitude,</L>
+<L>A most excelling beauty, such an eye</L>
+<L>Would tempt religious coldnesse to a flame,</L>
+<L>Thaw Ages chilly frost, at such a cheeke</L>
+<L>The Spring might take a patterne to create,</L>
+<L>A most accomplish'd freshnesse; in her looks,</L>
+<L>Are modest signes of innocence, such as Saints</L>
+<L>Weare in their liveliest counterfeits: <HI>Doria,</HI> here</L>
+<L>A Lady begs you, whom if you refuse,</L>
+<L>The times would blacke you with the hatefull title</L>
+<L>Of your owne wilfull murther; take her to you</L>
+<L>And live a fortunate husband.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Noble maid, my misery is so extreame a sinne,</L>
+<L>It cannot meet your bounty without breach</L>
+<L>Of vowes; which should I violate, would pull</L>
+<L>Eternall torments on me; keep your beauty</L>
+<L>For one whose soule, free as the ayre he breaths,</L>
+<L>Can yield a mutuall fancy to your flame,</L>
+<L>And not destroy his honour, for your goodnesse</L>
+<L>Since my expir'd date, cannot yield you thanks</L>
+<L>Worthy the bound lesse merit of your love,</L>
+<L>If there can be a gratitude after death</L>
+<L>Express'd by prayers, my soule in heaven shall pay it</L>
+<L>To your kind charity.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>Oh my Lord,</L>
+<L>I did expect this answer, my poore worth</L>
+<L>Cannot deserve your value; yet there is</L>
+<L>A constant purity in my thoughts, that intend you</L>
+<L>So much of Blisse, that had your safety no</L>
+<L>Dependance on my suit, it would be deem'd</L>
+<L>Most cruell to contemne me, I have lov'd you</L>
+<L>These many yeares; wish'd you as many glories</L>
+<L><PB REF="28"/>
+As I have number'd dayes, have vow'd I never</L>
+<L>Will marry any man, but your blest selfe my Lord,</L>
+<L>Should you neglect the justnesse of my request,</L>
+<L>Besides the danger waiting on your life,</L>
+<L>A thousand Virgins, whose unspotted prayers</L>
+<L>Like hosts of guardian Angels, would have borne</L>
+<L>You on their wings to heaven, will for my sake</L>
+<L>Convert their zeale to curses, and in teares</L>
+<L>Of anguish drowne your memory.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Why friend, this is</L>
+<L>Such an o're-weening passion, as does question</L>
+<L>The soundnesse of your judgement, fills the world</L>
+<L>With a conceit you dye; because your feares</L>
+<L>Dare not accept of life: Besides your Mistris,</L>
+<L>To whom you would so strictly keepe your faith,</L>
+<L>Does so much scorne your constancy, that no</L>
+<L>Entreats could move her pitty undertake</L>
+<L>This honourable imployment.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Doe it with speedy diligence.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Her causelesse frailty</L>
+<L>Shall more confirme my truth:</L>
+<L>My Noble Lord pronounce</L>
+<L>My happy sentence, 'twill be welcome to me</L>
+<STAGE>Enter Priest &amp; Executioner.</STAGE>
+<L>As charming harmony, and swell my brest</L>
+<L>With more than humane pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Tri</SPEAKER>
+<L>Are you come? approach,</L>
+<L>Behold this Executioner, and this Priest,</L>
+<L>This is to wed you to destruction, that</L>
+<L>To this rich Mine of purity: your choyse</L>
+<L>May accept either: if you fixe on this,</L>
+<L>Besides your owne redemption, you enjoy</L>
+<L>A Lady, who may clayme as many hearts</L>
+<L>As she has vertuous thoughts; but leane to that,</L>
+<L>Your Spring returnes unpittyed, to the rude</L>
+<L>Armes of perpetuall winter, that will freeze you</L>
+<L>To a ne're melting isicle, be suddaine,</L>
+<L>And wise in your election.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Tis but vaine: a Saint may sooner be o're-come to sell</L>
+<L>His native Piety: come thou grim man,</L>
+<L><PB REF="29"/>
+Thou art to me more lovely then the face of perfect</L>
+<L>Beauty: Do thy office, it will free me</L>
+<L>From these perplexities.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>Well my Lord,</L>
+<L>Since I'me unworthy to enjoy in life</L>
+<L>Your faire society, my soule shall hast</L>
+<L>To waite on you to death, there is no blisse</L>
+<L>Without your presence, since you will not have</L>
+<L>Mercy on your owne life, by your example</L>
+<L>Ile be as harsh to mine, Ile goe</L>
+<L>Before you to the other world,</L>
+<L>And be your lov'd Ghosts Harbenger.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Hold, hold the Lady—</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>Let no hand presume to seize me,</L>
+<L>For the meanest touch that shall</L>
+<L>Endeavour to prevent my will</L>
+<L>Shall urge my speedier ruine: Good my Lord,</L>
+<L>Shall I have answer? I would fayne be going</L>
+<L>On my long journy.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>I'me confounded</L>
+<L>In my imagination, I must yield,</L>
+<L>You have enforc'd a benefit upon me, I</L>
+<L>Can hardly thank you for, yet I will try</L>
+<L>To love you as my wife; that I were lost</L>
+<L>In Clouds of black forgetfulnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>My Lord,</L>
+<L>Your pardon's seal'd as soone as by the Priest</L>
+<L>You are conjoyn'd in marriage:</L>
+<L>Ile not leave you</L>
+<L>Till't be solemniz'd, Hymen light thy Pine,</L>
+<L>Deaths tapers fade at the cleare flame of thine.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<TRAILER>The end of the fourth Act.</TRAILER>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<PB REF="29"/>
+<HEAD>Actus Quintus.</HEAD>
+<SP>
+<STAGE>Enter Trivulci, Doria, Sabelli, Adorni, Priest and Uirgins.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>IS the Priest prepar'd</L>
+<L>For his Hymne after Nuptialls, and the virgins</L>
+<L>Ready to gratulate the Bride, and Bridegroome</L>
+<L>With the appoynted dance?</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>The Priest I thinke</L>
+<L>Has the song perfect, but it is a question</L>
+<L>Among the wisest, whether in the City</L>
+<L>There be seven Virgins to be found to furnish</L>
+<STAGE>Recorders.</STAGE>
+<L>The dance as't should be; but you must accept them</L>
+<L>With all their faults; this musicke speaks their enterance.</L>
+<STAGE>Enter Virgins.</STAGE>
+</SP>
+<LG>
+<HEAD>Song.</HEAD>
+<L>TRiumph appeare, <HI>Hymen</HI> invites</L>
+<L>Thee to wait upon this feast,</L>
+<L>Mixe thy joyes with his delights,</L>
+<L>'Tis the Generall is chiefe guest.</L>
+<L>Bid the Drumme not leave to teach,</L>
+<L>The Souldiers fainting heart to beate,</L>
+<L>Nor warres loud musicke Canon cease,</L>
+<L>Breasts with deathfull fire to heate.</L>
+<L><PB REF="30"/>
+Thy waving Ensignes in the aire display,</L>
+<L>The Generall lives, tis triumphes Holyday;</L>
+<L>Come bright vertues that reside</L>
+<L>In heaven, as in your proper spheare,</L>
+<L>Though all contain'd in the faire bride,</L>
+<L>Chastity doe thou first appear,</L>
+<L>With Temperance and innocent grace,</L>
+<L>Rose-colourd Modesty and truth,</L>
+<L>Dance harmlesse measures in this place,</L>
+<L>With health, and a perpetuall youth:</L>
+<L>And all your Virgin Trophies bring away,</L>
+<L>To grace these Nuptialls, Triumphs Holyday.</L>
+</LG>
+<SP>
+<STAGE>A Dance.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>You have our hearty thanks, and we shal study</L>
+<L>To give you faire requitall; come my Lord</L>
+<L>Erect your drowsie spirits, let your soule,</L>
+<L>Dance ayry measures in your jocund breast;</L>
+<L>This is a day on which each Bridegroome ought</L>
+<L>To weare no earth about him; ayre and fire</L>
+<L>Are <HI>Hymens</HI> proper elements, your mirth</L>
+<L>Ought to infuse into your frolicke guests,</L>
+<L>An humour apt for revelling and sport:</L>
+<L>Your disposition is more dull, than if</L>
+<L>You were to be chiefe mout'ner at a Coarse:</L>
+<L>For shame shake off this sadnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>It becomes you to say truth scurvily, I doe not like it,</L>
+<L>You looke as if y'ad lost some victorie,</L>
+<L>Of which your hope had an assurance: Shall I tell your Lordship</L>
+<L>A very pleasant story?</L>
+<STAGE>Enter Vitelli.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>It must be, if it be delightfull to me, a discourse</L>
+<L>Of some quicke meanes to free me from this cruell</L>
+<L>Oppressive weight of flesh, which does entombe</L>
+<L>My martyr'd soule, that like to sulphury fire</L>
+<L>Hid in a Mountains entrayles, strives to burst</L>
+<L>The prison, and flye upwards; it must needs</L>
+<L><PB REF="30"/>
+Be a sad wedding, when the Bridegroome weares</L>
+<L>His Nuptiall livery on his eyes in teares.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Friend, this is</L>
+<L>A passion too effeminate for a heart</L>
+<L>Endu'd with manly courage; things past helpe</L>
+<L>Should be past thought, your sadnesse casts a Cloud</L>
+<L>Upon the lustre of this Ladyes looks,</L>
+<L>You make her dimme the brightnesse of her eyes</L>
+<L>With unbecomming teares, if you continue</L>
+<L>This strange distraction.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>Alas my Lord,</L>
+<L>Let me participate your cause of sorrow,</L>
+<L>And be a willing partner in your griefe,</L>
+<L>Which like a violent Current that o're-flowes</L>
+<L>The neighbouring fields and medowes in its rage,</L>
+<L>Into two streames divided, smoothly runnes,</L>
+<L>Kissing with calme lips the imprisoning banks,</L>
+<L>Would, though too mighty for you, when my soule</L>
+<L>Should vent a part of it, be milde, and passe</L>
+<L>Away without disturbance of your peace,</L>
+<L>Which to procure I would even burst my heart</L>
+<L>With sighes devoted to your quiet, and</L>
+<L>Become a loving fountaine by my teares</L>
+<L>I shed without intermission.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Gentle Lady,</L>
+<L>I am at such an enmity with fate,</L>
+<L>Makes me incapable of ought but griefe,</L>
+<L>But I shall study to declare how much</L>
+<STAGE>Enter Eurione, Chrisea, Corim. Lact. &amp; Bon.</STAGE>
+<L>I am indebted to your care—good heaven</L>
+<L>Send downe some Angell to protect my heart,</L>
+<L>Or my religion will scarce stay my hand,</L>
+<L>For acting wilfull violence on my life,</L>
+<L>I have suckt poyson from her eyes, that will</L>
+<L>Like to juyce of Hemlocke drowne my soule</L>
+<L>In a forgetfull Lethargy, or oppresse</L>
+<L>My temperate faculties with madnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Cosen y'are welcome, know this vertuous Lady</L>
+<L><PB REF="31"/>
+Who has redeem'd the Generall.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<P>Sir, ime come to gratulate your beauteous bride, and wish you joyes immortall.</P>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>I hope Madam, my innocence has gi'n you no offence,</L>
+<L>That you refuse me, being a stranger to you,</L>
+<L>The Ceremonious wishes, which pertaine</L>
+<L>To new made Brides, and onely doe conferre them</L>
+<L>Vpon my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Your happinesse already,</L>
+<L>Is so superlative, I cannot thinke</L>
+<L>A new addition to it, you enjoy</L>
+<L>The very summe of fortune in your match,</L>
+<L>To such a noble and illustrious husband.</L>
+<L>I no longer can hold my passion in,</L>
+<L>These walls of flesh are not of</L>
+<L>Strength sufficient to contayne</L>
+<L>My big swolne heart: My Lords behold a creature</L>
+<L>So infinitely wretched, I deserve not</L>
+<L>The meanest shew of pitty, who have, like</L>
+<L>A silly merchant, trifled away a jemme,</L>
+<L>The darling of the quarry, lost a love</L>
+<L>By my too foolish nicenesse, to regaine</L>
+<L>Whose forfeiture I would lay downe my life:</L>
+<L>But he is gone for ever, and I left</L>
+<L>A pittious spectacle for the reproach</L>
+<L>And scorne of wiser women.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Is this possible?</L>
+<L>Was all her passion to <HI>Vitelli</HI> seign'd?</L>
+<L>My hopes recover life agen.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Why <HI>Chrisea,</HI></L>
+<L>Whence springs this passionate fury?</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Oh my Lord,</L>
+<L>When you shall heare it, you will sigh for me,</L>
+<L>And shed a charitable teare, at thought</L>
+<L>Of my unkinde disaster: sir my Justice</L>
+<L>Cannot accuse your constancy, which stood</L>
+<L>In the first tryall of your love, as fast</L>
+<L><PB REF="31"/>
+And spotlesse as an Alablaster rocke,</L>
+<L>That had it but persisted in that height</L>
+<L>Of honourable loyalty, your glory</L>
+<L>Had been advanc'd to heaven, as the fix't starre,</L>
+<L>To guid all lovers through the rough</L>
+<L>Seas of affection.</L>
+</SP>
+<SP>
+<SPEAKER>Uit.</SPEAKER>
+<L>This taxation</L>
+<L>Cannot be just from you, who did enforce</L>
+<L>The sad revolt upon him.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L><HI>Is</HI> there in heaven no friendly</L>
+<L>Boult left that will strike this frame into</L>
+<L>The center, and set free a wretch</L>
+<L>(So overgrowne with misery) from life,</L>
+<L>That death would be a comfort above health,</L>
+<L>Or any worldly blessing, may time blot my name out</L>
+<L>Of his Booke, that such a Prodigy</L>
+<L>May not affright succession, nor sticke</L>
+<L>Like an orespreading Leprosie upon</L>
+<L>The beautious face of manhood.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Oh my Lord, each griefe of which</L>
+<L>Y'are sensible, is mine, and not your</L>
+<L>Torment, every sigh you breath is an</L>
+<L>Afflicting motion, expir'd by my vext</L>
+<L>Spirit, and if you could weepe, each drop</L>
+<L>Would be my blood, who am the spring</L>
+<L>Of the whole flood of sorrow; oh forgive</L>
+<L>The too exceeding honor of my love, I would</L>
+<L>Have had you for your perfect truth so glorious;</L>
+<L>Your loyalty should not for</L>
+<L>Preservation of your fame, have needed</L>
+<L>To adopt a statue for its heire, or builded a</L>
+<L>Monumentall pyramid, but love</L>
+<L>Is ofttimes loves undoing.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>This is such</L>
+<L>A cunning la byrin of,</L>
+<L>Sorrow, that no clew</L>
+<L>Can lead them out of.</L>
+</SP>
+<SP>
+<SPEAKER><PB REF="32"/>
+Dor.</SPEAKER>
+<L>It would be</L>
+<L>A great affront to misery, should there live</L>
+<L>A person halfe so wretched to out-dare</L>
+<L>The strength of my affliction, me thinkes</L>
+<L><HI>I</HI> me like some aged mountaine that has stood</L>
+<L>In the seas watry bosome, thousand shocks</L>
+<L>Of threatning tempests, yet by th' flattering waves,</L>
+<L>That cling and curle about his stony limbes,</L>
+<L>Is undermind and ruind, I have scap'd</L>
+<L>Warres, killing, dangers, and by peacefull love,</L>
+<L>Suffer a strange subversion, Oh <HI>Chrisea,</HI></L>
+<L>While I have reason left that can distinguish</L>
+<L>Things with a coole and undistracted sence,</L>
+<L>Let's argue mildly the unhappy cause</L>
+<L>Of our undoings.</L>
+</SP>
+<SP>
+<SPEAKER>Eur.</SPEAKER>
+<L>Truely sister,</L>
+<L>'Twas a suspicious rashnesse, I could wish</L>
+<L>You never had attempted.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>My Lord,</L>
+<L>Humane condition alwaies censures things</L>
+<L>By their event, my aimes have had successe</L>
+<L>So strangely haplesse, that will blast the truth</L>
+<L>Of their intentions purity, I never</L>
+<L>Harbor'd the least suspicion of your faith,</L>
+<L>Which I did strive to perfect, by the test,</L>
+<L>As richest gold refind, and purg'd</L>
+<L>From drosse of other baser metals, and besides</L>
+<L>The triall of your constancy, I meant</L>
+<L>To sound <HI>Vitellies</HI> depth; upon whose love</L>
+<L>My sister doted, so that <HI>I</HI> was loath</L>
+<L>To see her cast the treasure of her heart</L>
+<L>Upon a stranger, of whose constancy</L>
+<L>She had too small assurance.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Gentle Cosen,</L>
+<L>Your good intents encounter'd bad successe,</L>
+<L>But <HI>I</HI> ad mire, since you must needs have notice</L>
+<L>Of his disaster, that the law would passe</L>
+<L><PB REF="32"/>
+Upon his life, you did not to prevent</L>
+<L>All other virgin intercessors haste</L>
+<L>To pay the early tribute of your love.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>My wretched fate</L>
+<L>With a too quicke prevention has orethrowne</L>
+<L>The justnesse of my purpose,</L>
+<L><HI>I</HI> relyed so much upon his noblenesse, <HI>I</HI> thought</L>
+<L>The ugly horror of a thousand deaths</L>
+<L>Could not have mov'd his temper, and besides,</L>
+<L>Knowing his mighty courage, <HI>I</HI> permitted</L>
+<L>The law proceed upon him, that hereafter</L>
+<L>He might be sure no merit can appeare</L>
+<L>Offended justice, otherwise <HI>I</HI> could</L>
+<L>Easily have stop'd this mischiefe.</L>
+<STAGE>Enter Bonivet.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>How <HI>Chrisea?</HI> I understand you not.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Lady, to quit all scruple that I doe not wish</L>
+<L>Yours and your Lords succeeding happinesse, Ile offer</L>
+<L>Something as an oblation that shall ad de</L>
+<L>Peace to your nuptiall garland (see my Lord)</L>
+<L>My Cosen <HI>Bonivet</HI> lives.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Lives? <HI>Lactantio</HI> did not you informe us</L>
+<L>That he was dead, and you had caus'd his body</L>
+<L>To be prepar'd for funerall? which occasioned</L>
+<L>The Generalls suddaine tryall, because our custome</L>
+<L>Does not permit the corpes to be entomb'd,</L>
+<L>Before the murderer have his sentence, sir you shall know</L>
+<L>What tis to mocke the state thus.</L>
+</SP>
+<SP>
+<SPEAKER>Lact.</SPEAKER>
+<L>Good my Lord</L>
+<L>Heare but my just excuse, I am so much the faire</L>
+<L><HI>Chriseas</HI> beauty's by such ties</L>
+<L>Oblig'd to serve her, that I choose to hazzard</L>
+<L>The anger of the state ere her displeasure,</L>
+<L>And doe submit me to your gracious censure.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>I must confirm't,</L>
+<L>Sir it was I who caus'd him to conceale</L>
+<L>My Cosen <HI>Bonivet,</HI> for the causes which</L>
+<L>I did declare before, and now my selfe</L>
+<L><PB REF="33"/>
+Having receiv'd a satisfying proofe</L>
+<L>Of his affection, came resolv'd to cleare</L>
+<L>These misty errors, but my cruell fate</L>
+<L>Has like a suddaine storme which has beate downe</L>
+<L>A goodly field of standing Corne even ripe</L>
+<L>For the laborious sickle, crush'd my hopes</L>
+<L>In one sad minute into nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>My Lord I owe</L>
+<L>Such an obedient duty to your peace,</L>
+<L>That though my heart does wish to waite on yours</L>
+<L>For ever; since I see betwixt this Lady</L>
+<L>And you such firme apparences of love,</L>
+<L>If the law please to allow it, I resigne</L>
+<L>My interest to her and be fortunate</L>
+<L>To see you two live happy.</L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Since the marriage</L>
+<L>Has not arriv'd to consummating act,</L>
+<L>I doe beleeve this may be done.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Doe not delude</L>
+<L>Your favour with vaine hopes, the law cannot</L>
+<L>Dispense with the strict Cannon, tis impossible</L>
+<L>You should be separated.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>This happinesse</L>
+<L>Was too extreamely good to be confirm'd</L>
+<L>To such a wretch as I am: I am like</L>
+<L>One that did dreame of a huge masse of wealth,</L>
+<L>And catching at it, grasp'd the fleeting ayre,</L>
+<L>And waking grieves at the delusion.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>Sir resume your antient quiet, the formall</L>
+<L>Love shall not oppose your peace, Ile disanull</L>
+<L>The marriage easily, and most noble Lord</L>
+<L>Pardon your humble servant.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Sure this is</L>
+<L>Some apparition to confirme my faith,</L>
+<L>Speake, art thou my <HI>Sabelli.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Vit.</SPEAKER>
+<L>Yes tis he, fate would not suffer two such</L>
+<L>Noble soules to be so disunited, gentle boy,</L>
+<L><PB REF="33"/>
+Thy duty to thy Master will continue,</L>
+<L>Thy name in story, as the great example</L>
+<L>Of loyalty in servants.</L>
+</SP>
+<SP>
+<SPEAKER>Sab.</SPEAKER>
+<L>'Twas the zeale I ought in duty to my Mrs. life,</L>
+<L>Hath put me on the attempt, which if he pardon,</L>
+<L>I'me fully satisfied.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>My joyes does with a suddain extasie oppresse</L>
+<L>My fraile mortality, and I should sinke,</L>
+<L>Wert not for my supporters, my <HI>Sabelli,</HI></L>
+<L>Thou hast restor'd two lovers to their blisse,</L>
+<L>Whose gratitude shall pay to thy desert</L>
+<L>The tribute of their hearts: Deare Madam, now</L>
+<L>I hope your scrupulous doubts will remaine free</L>
+<L>From any new suspition.</L>
+</SP>
+<SP>
+<SPEAKER>Chri.</SPEAKER>
+<L>Since I have scap'd the danger past, beleeve ile avoyd</L>
+<L>The like hereafter; my Lord please you confirme</L>
+<L>My choyse; and let my sister be dispos'd</L>
+<L>To good <HI>Vitelli,</HI> he deserves her.</L>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>Your wishes are fulfild, Cosen <HI>Bonivet</HI> welcome to life</L>
+<L>Agen; you and the Generall must be friends.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Your goodnesse will pardon my misfortune?</L>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<L>And desire to be esteem'd your servant.</L>
+<STAGE>Enter Frangipan.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>With your leave gentlemen: Madam I have such newes to tell you, as will tickle your understanding, to beleeve the Ge∣nerall is married; and more, Signior <HI>Doria,</HI> Lord <HI>Bonivet</HI> lives; That's lucky newes for you.</P>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>He's here, good Signior <HI>Frangipan.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>My newes has ever the worst lucke; I must resolve to leave it off.</P>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>But sir J have somesuddaine newes to tell you:</L>
+<L>The thousand Ducats you contracted to pay me,</L>
+<L>When you could understand the French as perfectly</L>
+<L>As my selfe; by all these Lords indifferent judgement is</L>
+<L>Due on this very minute.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>This is newes indeed; you do not mean to make a gul of me, a figo for a thousand Ducats: as J am a gentleman <HI>I</HI> know not French for any thing, not for an Asse: good your grace let mee not be abus'd.</P>
+</SP>
+<SP>
+<SPEAKER><PB REF="34"/>
+Cor.</SPEAKER>
+<L>'Twas I my Lord who made the bargaine with him,</L>
+<L>The mony is not due untill my Cozen</L>
+<L>Have French as perfect as himselfe.</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<P>He has, ile beare him witnesse; for <HI>Adorni</HI> Speakes not one true French word.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>How not one true French Word?</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>No not a word, you must disburse.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Tutor, ile tell you newes,</L>
+<L>You made a foole of mee,</L>
+<L>I could abuse him horribly,</L>
+<L>If I durst for feare of beating.</L>
+</SP>
+<SP>
+<SPEAKER>Ador.</SPEAKER>
+<L>My Lord</L>
+<L>If he will undertake warres,</L>
+<L>Ile quit my bargayne.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Ile pay it trible first, the name of warre Has brought an age on me.</P>
+</SP>
+<SP>
+<SPEAKER>Tri.</SPEAKER>
+<L>You two agree that: Cozens I rejoyce</L>
+<L>To see this happy period of your loves.</L>
+<L>Let's backe unto the Temple, that the Priest</L>
+<L>May by his sacred power unite your hearts.</L>
+<L>Lead to the Temple.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="34"/>
+<HEAD>The Epilogue.</HEAD>
+<SP>
+<SPEAKER>Frangipan.</SPEAKER>
+<L>GEntlemen, Ile tell you Newes, the <HI>Play</HI> is done,</L>
+<L>And he that writ it betwixt hope and Feare</L>
+<L>Stands pensive in the Tyring-house to heare</L>
+<L>Your Censures of his <HI>Play:</HI> Good Gentlemen</L>
+<L>Let it be kind, or otherwise his Pen</L>
+<L>Will write but dully, for he needs must lacke</L>
+<L>If you disprayse't the quickning Spirit of Sacke</L>
+<L>To inflame his Genius, which you'le ever find</L>
+<L>Devoted to you, if your Votes be kind.</L>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

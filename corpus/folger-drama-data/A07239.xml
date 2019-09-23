@@ -1,0 +1,5222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2002-03-01</DATE>
+<RESPSTMT>
+<NAME>Olivia Bottum</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked and corrected carryover lines. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure and added a DIV3 layer. Checked placement and completeness of PBs; moved several inside P and SP tags. Checked for damage GAPs, #s, @s, oes, --s, and UNCLEARs. No $$Word$$s. Checked for &amp;cs with incorrect spacing. Checked for LBs and removed one. Checked for startqs and endqs, q;s and Qs. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked proofsheets and made corrections. Sample: 15 minutes. Proofing: 25 minutes. Tag review and corrections: 60 minutes. DONE 03-04-02.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A07239">
+<STC T="S">17637</STC>
+<BIBNO T="umi">99847674</BIBNO>
+<VID>12728</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE GREAT DVKE OF FLORENCE.</P>
+<P>A Comicall Historie.</P>
+<P>As it hath beene often presented with good allowance by her Ma<SUP>ties</SUP> Servants at the Phoenix in Drurie Lane.</P>
+<P>Written by PHILIP MASSINGER.</P>
+<P><HI>LONDON:</HI> Printed for JOHN MARRIOT. 1636.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<LIST>
+<PB REF="2"/>
+<HEAD>The Actors names.</HEAD>
+<ITEM>COzimo, <HI>Duke of</HI> Florence.</ITEM>
+<ITEM>Giovanni, <HI>Nephew to the Duke.</HI></ITEM>
+<ITEM>Lodovico Sanazarro, <HI>the Dukes Favorite.</HI></ITEM>
+<ITEM>Carolo Charomonte, <HI>Giovanni his Tutor.</HI></ITEM>
+<ITEM>Contarino, <HI>Secretary to the Duke.</HI></ITEM>
+<ITEM><LIST>
+<HEAD>Counsailors of State.</HEAD>
+<ITEM>Alphonso,</ITEM>
+<ITEM>Hippolito,</ITEM>
+<ITEM>Hieronimo,</ITEM>
+</LIST></ITEM>
+<ITEM>Calandrino, <HI>A merrie fellow servant to</HI> Giovanni.</ITEM>
+<ITEM><LIST>
+<HEAD>Servants to <HI>Carolo Charo∣monte.</HI></HEAD>
+<ITEM>Bernardo,</ITEM>
+<ITEM>Caponi,</ITEM>
+<ITEM>Petruchio,</ITEM>
+</LIST></ITEM>
+<ITEM>Fiorinda, <HI>Dutchesse of</HI> Urbin.</ITEM>
+<ITEM>Lidia, <HI>daughter to</HI> Carolo Charomonte</ITEM>
+<ITEM>Calaminta, <HI>Servant to</HI> Fiorinda.</ITEM>
+<ITEM>Petronella, <HI>Servant to</HI> Lidia.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<HEAD>TO THE TRULY HO∣NORED, AND MY NOBLE Favourer, Sir ROBERT WISEMAN Knight, of <HI>Thorrells</HI> Hall in ESSEX.</HEAD>
+<OPENER><SALUTE>SIR:</SALUTE></OPENER>
+<P>AS I dare not be ungratefull for the many benefits you have heretofore conferr'd upon me, so I have just reason to feare that my attempting this way to make satisfaction (in some measure) for so due a debt, will further ingage me. How∣ever examples encourage me. The most able in my poore Quality have made use of Dedi∣cations in this Nature, to make the world take notice (as farre as in them lay) who, and what they were that gave supportment, and protection to their Studies, being more wil∣ling to publish the Dooer, then receive a be∣nefit in a corner. For my selfe, I wil freely, and
+
+
+<PB REF="3"/>
+with a zealous thankfulnesse acknowledge, that for many yeares I had but faintly subsi∣sted, if I had not often tasted of your Bounty. But it is above my strength, and faculties, to celebrate to the desert, your noble inclination, (and that made actuall) to raise up, or to speak more properly, to rebuild the ruines of de∣molish'd Poesie. But that is a worke reser∣ved, and will be, no doubt, undertaken, and finished, by one that can to the life expresse it. Accept I beseech you the tender of my ser∣vice, and in the list of those you have obliged to you, contemne not the Name of</P>
+<CLOSER><SIGNED>Your true and faithfull Honorer PHILIP MASSINGER.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the author">
+<PB REF="3"/>
+<HEAD>On his great Duke of Florence; To M<SUP>r</SUP>. PHILIP MASSINGER, my much esteemed friend.</HEAD>
+<LG>
+<L>ENjoy thy Lawrell! 'tis a noble choice,</L>
+<L>Not by the suffrages of voice</L>
+<L>Procur'd; but by a conquest so atchiev'd</L>
+<L>As that thou hast at full reliev'd</L>
+<L>Almost neglected Poetrie; whose Bayes</L>
+<L>(Sullid by childish thirst of praise)</L>
+<L>Wither'd into a dulnesse of Despaire,</L>
+<L>Had not thy later labour (heire</L>
+<L>Vnto a former industrie) made knowne</L>
+<L>This Work, which thou may'st call thine owne,</L>
+<L>So rich in worth, that th'ignorant may grudge</L>
+<L>To finde true vertue is become their Iudge.</L>
+</LG>
+<CLOSER><SIGNED>GEORGE DONNE.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the author">
+<PB REF="4"/>
+<HEAD>To the deserving memory, of this worthy Worke, and the Author, M<SUP>r</SUP>. PHILIP MASSINGER.</HEAD>
+<LG>
+<L><HI>ACtion</HI> gives many Poems right to live,</L>
+<L><HI>This Piece</HI> gave life to <HI>Action;</HI> and will give</L>
+<L>For state, and language, in each change of Age,</L>
+<L>To Time, delight; and honour to the stage.</L>
+<L>Should late prescription faile which fames that Seat,</L>
+<L>This Pen, might style The Duke of Florence <HI>Great.</HI></L>
+<L>Let many Write; Let much be Printed; read,</L>
+<L>And censur'd; Toyes; no sooner-hatch't, then dead.</L>
+<L>Here, without blush to Truth of commendation,</L>
+<L>Is prov'd, how Art hath out-gone Imitation.</L>
+</LG>
+<CLOSER><SIGNED>IOHN FORD.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="4"/>
+<HEAD>A COMICAL HISTORY OF THE GREAT DVKE OF FLORENCE.</HEAD>
+<DIV2 N="1" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus primi Scena prima.</HEAD>
+<LIST>
+<ITEM>Carolo Charomonte.</ITEM>
+<ITEM>Contarino.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>YOu bring your welcome with you.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Sir, I finde it</L>
+<L>In every circumstance.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Againe most welcome.</L>
+<L>Yet give me leave to wish (and pray you excuse mee)</L>
+<L>For I must use the freedome I was borne with)</L>
+<L>The great Dukes pleasure had commanded you</L>
+<L>To my poore house upon some other service,</L>
+<L>Not this you are designde to; but his will</L>
+<L>Must be obeyde, how ere it ravish from me</L>
+<L>The happy conversation of one</L>
+<L>As deere to me as the old Romans held</L>
+<L>Their houshold <HI>Lars,</HI> whom they beleev'd had power</L>
+<L>To blesse and guard their Families.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>'Tis receiv'd so:</L>
+<L>On my part Signior; nor can the Duke</L>
+<L>But promise to himselfe as much as may</L>
+<L>Be hop'd for from a Nephew. And t'were weaknesse</L>
+<L>In any man to doubt, that <HI>Giovanni</HI></L>
+<L>Train'd up by your experience and care</L>
+<L>In all those Arts peculiar, and proper</L>
+<L>To future Greatnesse, of necessity</L>
+<L>Must in his actions being growne a man</L>
+<L>Make good the Princely education</L>
+<L>Which Hee deriv'd from you.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I have discharg'd,</L>
+<L>To the utmost of my power, the trust the Duke</L>
+<L>Committed to me, and with joy perceive</L>
+<L>
+
+
+<PB REF="5"/>
+The seed of my endeavours was not sowen</L>
+<L>Upon the barren sands, but fruitfull glebe,</L>
+<L>Which yeelds a large encrease; my noble Charge,</L>
+<L>By his sharp wit, and pregnant apprehension</L>
+<L>Instructing those that teach him; making use</L>
+<L>Not in a vulgar and pedantique forme</L>
+<L>Of what's read to him, but 'tis streight digested</L>
+<L>And truly made his owne. His grave discourse,</L>
+<L>In one no more indebted unto yeares,</L>
+<L>Amazes such as heare him; horsmanship</L>
+<L>And skill to use his weapon are by practise</L>
+<L>Familiar to him; as for Knowledge in</L>
+<L>Musique, He needs it not, it being borne with him,</L>
+<L>All that He speaks being with such grace deliver'd</L>
+<L>That it makes perfit harmony.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>You describe</L>
+<L>A wonder to me.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Sir, he is no lesse,</L>
+<L>And that there may be nothing wanting that</L>
+<L>May render him compleat, the sweetnesse of</L>
+<L>His disposition so winnes on all</L>
+<L>Appointed to attend him, that they are</L>
+<L>Rivalls ev'n in the coursest office, who</L>
+<L>Shall get praecedencie to doe him service.</L>
+<L>Which they esteeme a greater happinesse</L>
+<L>Then if they had beene fashion'd, and built up</L>
+<L>To hold command o're others.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>And what place</L>
+<L>Does he now blesse with his presence?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>He is now</L>
+<L>Running at the ring, at which he's excellent.</L>
+<L>He does alott for every exercise</L>
+<L>A severall houre, for Sloath the Nurse of vices</L>
+<L>And rust of action, is a stranger to him.</L>
+<L>But I feare I am tedious, let us passe</L>
+<L>If you please to some other subject, though I cannot</L>
+<L>Deliver him as he deserves.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>You have giv'n him</L>
+<L>
+
+
+<PB REF="5"/>
+A noble character.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And how I pray you</L>
+<L>(For we that never looke beyond our villa's</L>
+<L>Must be inquisitive) are State affaires</L>
+<L>Carried in Court?</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>There's little alteration.</L>
+<L>Some rise, and others fall; as it stands with</L>
+<L>The pleasure of the Duke, their great disposer.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Does <HI>Lodovica Sanazarro</HI> hold</L>
+<L>Waight, and grace with him?</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Every day new honours</L>
+<L>Are showr'd upon him, and without the envie</L>
+<L>Of such as are good men. Since all confesse</L>
+<L>The service done our Master in his warres</L>
+<L>'Gainst <HI>Pisa,</HI> and <HI>Sienna,</HI> may with justice</L>
+<L>Claime what's conferr'd upon him.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>'Tis said nobly.</L>
+<L>For Princes never more make knowne their wisdome</L>
+<L>Then when they cherish goodnesse, where they finde it,</L>
+<L>They being men, and not Gods, <HI>Contarino;</HI></L>
+<L>They can give wealth and titles, but no vertues;</L>
+<L>That is without their power. When they advance</L>
+<L>(Not out of judgement, but deceiving fancie)</L>
+<L>An undeserving man, how ere set of</L>
+<L>With all the trim of greatnesse, state, and power,</L>
+<L>And of a creature ev'n growne terrible</L>
+<L>To him from whom he tooke his Gyant forme,</L>
+<L>This thing is still a Comet, no true starre;</L>
+<L>And when the bounties feeding his false fire</L>
+<L>Begin to faile, will of it selfe goe out,</L>
+<L>And what was dreadfull, prooves ridiculous.</L>
+<L>But in our <HI>Sanazarro</HI> 'tis not so.</L>
+<L>He being pure and tride gold, and any stamp</L>
+<L>Of grace to make him currant to the world</L>
+<L>The Duke is pleas'd to give him, will adde honor</L>
+<L>To the great bestower, for he though allow'd</L>
+<L>Companion to his Master, still preserves</L>
+<L>His Majestie in full lustre.</L>
+</SP>
+<SP>
+<PB REF="6"/>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Hee indeede</L>
+<L>At no part does take from it, but becomes</L>
+<L>A partner of his cares, and eases him,</L>
+<L>With willing shoulders, of a burthen, which</L>
+<L>Hee should alone sustaine.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Is Hee yet married?</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>No Signior, still a Batchelor, how e're</L>
+<L>It is apparent, that the choycest Virgin</L>
+<L>For beauty, bravery, and wealth in <HI>Florence,</HI></L>
+<L>Would with her Parents glad consent, be woon</L>
+<L>(Were his affection, and intent but knowne)</L>
+<L>To be at his devotion.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>So I think too.</L>
+<STAGE>Enter Giovanni &amp; Calandrino.</STAGE>
+<L>But break we off. Here comes my Princely charge.</L>
+<L>Make your approaches boldly, you will finde</L>
+<L>A courteous entertainment.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Pray you forbeare</L>
+<L>My hand, good Signior. 'Tis a ceremony</L>
+<L>Not due to me. 'Tis fit we should embrace</L>
+<L>With mutuall armes.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>It is a favour Sir</L>
+<L>I grieve to be denide.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>You shall o're-come.</L>
+<L>But tis your pleasure, not my pride that grants it.</L>
+<L>Nay pray you Guardian, and good Sir, put on:</L>
+<L>How ill it shewes to have that reverend head</L>
+<L>Be uncover'd to a Boy?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Your Excellence</L>
+<L>Must give me liberty to observe the distance</L>
+<L>And duty that l'owe you.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Owe me duty?</L>
+<L>I doe professe, and when I'doe denie it</L>
+<L>Good fortune leave me; You have beene to me</L>
+<L>A second Father, and may justly challenge</L>
+<L>(For trayning up my youth in Arts, and Armes)</L>
+<L>As much respect, and service, as was due</L>
+<L>To him that gave me life. And did you know Sir</L>
+<L>Or will beleeve from me, how many sleepes</L>
+<L>
+
+
+<PB REF="6"/>
+Good <HI>Charomonte</HI> hath broken in his care</L>
+<L>To build me up a man, you must confesse</L>
+<L><HI>Chiron</HI> the Tutor to the great <HI>Achilles</HI></L>
+<L>Compar'd with him, deserves not to be nam'd.</L>
+<L>And if my gracious Uncle the great Duke</L>
+<L>Still holds me worthy his consideration,</L>
+<L>Or findes in me ought worthy to be lov'd,</L>
+<L>That little rivolet flow'd from this spring,</L>
+<L>And so from me report him.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Fame already</L>
+<L>Hath fill'd his Highnesse eares with the true story</L>
+<L>Of what you are, and how much better'd by him.</L>
+<L>And 'tis his purpose to reward the travaile</L>
+<L>Of this grave Sir with a magnificent hand.</L>
+<L>For though his tendernesse hardly could consent</L>
+<L>To have you one houre absent from his sight,</L>
+<L>For full three yeares he did denie himselfe</L>
+<L>The pleasure Hee tooke in you, that you, here</L>
+<L>From this great Master might arrive unto</L>
+<L>The Theory of those high mysteries</L>
+<L>Which you by action must make plaine in Court.</L>
+<L>'Tis therefore his request (and that from him</L>
+<L>Your Excellence must grant a strict command)</L>
+<L>That instantly (it being not five houres riding)</L>
+<L>You should take horse, and visit him. These his letters</L>
+<L>Will yeeld you farther reasons.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>To the Court!</L>
+<L>Farewell the flower then of the Countries garland.</L>
+<L>This is our Sunne, and when Hee's set, we must not</L>
+<L>Expect or Spring, or Summer, but resolve</L>
+<L>For a perpetuall Winter.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Pray you observe</L>
+<STAGE>Giovanni reading the Letter.</STAGE>
+<L>The frequent changes in his face.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>As if</L>
+<L>His much unwillingnesse to leave your house,</L>
+<L>Contended with his duty.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Now he appeares</L>
+<L>Collected and resolv'd.</L>
+</SP>
+<SP>
+<PB REF="7"/>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>It is the Duke!</L>
+<L>The Duke upon whose favour, all my hopes</L>
+<L>And fortunes doe depend. Nor must I check</L>
+<L>At his commands for any private motives</L>
+<L>That doe invite my stay here, though they are</L>
+<L>Almost not to be master'd. My obedience</L>
+<L>In my departing suddenly shall confirme</L>
+<L>I am his Highnesse creature. Yet I hope</L>
+<L>A little stay to take a solemne farewell</L>
+<L>For all those ravishing pleasures I have tasted</L>
+<L>In this my sweet retirement, from my Guardian,</L>
+<L>And his incomparable daughter, cannot meete</L>
+<L>An ill construction.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>I will answer that,</L>
+<L>Use your owne will.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I would speake to your Sir</L>
+<L>In such a phrase as might expresse the thanks</L>
+<L>My heart would gladly pay. But. —</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I conceive you:</L>
+<L>And something I would say, but I must doe it</L>
+<L>In that dumb rhetorique, which you make use of;</L>
+<L>For I doe wish you all. — I know not how</L>
+<L>My toughnesse melts, and spite of my discretion</L>
+<L>I must turne woman.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>What a sympathic</L>
+<L>There is betweene em.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>Were I on the Rack</L>
+<L>I could not shed a teare. But I am mad,</L>
+<L>And ten to one shall hang my selfe for sorrow</L>
+<L>Before I shift my shirt. But heare you Sir,</L>
+<L>I'll separate you. When you are gone, what will</L>
+<L>Become of me?</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>Why thou shalt to Court with me.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>To see you worried?</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Worried <HI>Calandrino?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Yes Sir. For bring this sweet face to the Court</L>
+<L>There will be such a longing 'mong the Madames,</L>
+<L>Who shall ingrosse it first, nay fight and scratch for't,</L>
+<L>
+
+
+<PB REF="7"/>
+That if they be not stop'd, for entertainment</L>
+<L>They'll kisse his lips off. Nay, if you'll soape so</L>
+<L>And not be tempted to a farther danger,</L>
+<L>These <HI>Succube</HI> are so sharp set, that you must</L>
+<L>Give out you are an Eunuch.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Have a better</L>
+<L>Opinion of Court-Ladies, and take care</L>
+<L>Of your owne stake.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>For my stake 'tis past caring,</L>
+<L>I would not have a bird of uncleane feathers</L>
+<L>Hansell his Limetwig, and so much for him.</L>
+<L>There's something else that troubles me.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>What's that?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Why how to behave my self in Court, &amp; tytely</L>
+<L>I have beene told the very place transformes men,</L>
+<L>And that not one of a thousand, that before</L>
+<L>Liv'd honestly in the Country, on plaine Sallads,</L>
+<L>But bring him thither, marke me that, and feed him</L>
+<L>But a moneth or two with Custards and Court Cakebread,</L>
+<L>And he turnes Knave immediately. I would be honest;</L>
+<L>But I must follow the fashion, or die a beggar.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>And if I ever reach my hopes, beleeve it</L>
+<L>We will share fortunes.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>This acknowledgement</L>
+<STAGE>Enter Lidia.</STAGE>
+<L>Bindes me your debtor ever. Here comes one</L>
+<L>In whose sad lookes you easily may reade</L>
+<L>What her heart suffers, in that she is forc'd</L>
+<L>To take her last leave of you.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>As I live</L>
+<L>A beauty without parallel</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Must you goo then</L>
+<L>So suddenly?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>There's no evasion, <HI>Lydia,</HI></L>
+<L>To gaine the least delay, though I would buy it</L>
+<L>At any rate. Greatnesse with private men</L>
+<L>Esteem'd a blessing, is to me a curse.</L>
+<L>And we, whom for our high births, they conclude</L>
+<L>The onely free men, are the onely slaves:</L>
+<L>
+
+
+<PB REF="8"/>
+Happy the golden meane I had I beene borne</L>
+<L>In a poore sordid Cottage; not nurs'd up</L>
+<L>With expectation to command a Court:</L>
+<L>I might, like such of your condition (Sweetest)</L>
+<L>Have tooke a safe and middle course, and not</L>
+<L>As I am now against my choyse compell'd</L>
+<L>Or to lye groveling on the earth, or rais'd</L>
+<L>So high upon the pinnacles of State,</L>
+<L>That I must either keepe my height with danger,</L>
+<L>Or fall with certaine ruine.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Your owne goodnesse</L>
+<L>Will be your faithfull guard.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>O Lidia.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>So passionate!</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>For had I beene your equall</L>
+<L>I might have seene and lik'd with mine own eyes,</L>
+<L>And not as now with others; I might still,</L>
+<L>And without observation, or envie,</L>
+<L>As I have done, continued my delights</L>
+<L>With you, that are alone in my esteeme</L>
+<L>The abstract of Society; we might walke</L>
+<L>In solitary Groves, or in choyce Gardens;</L>
+<L>From the variety of curious flowers</L>
+<L>Contemplate natures workmanship, and wonders.</L>
+<L>And then for change, neare to the murmur of</L>
+<L>Some bubling fountaine, I might heare you sing,</L>
+<L>And from the well-tun'd accents of your tongue</L>
+<L>In my imagination conceive</L>
+<L>With what mellodious harmony a Quire</L>
+<L>Of Angells sing above, their Makers praises.</L>
+<L>And then with chast discourse, as we return'd,</L>
+<L>Impe feathers to the broken wings of Time,</L>
+<L>And all this I must part from.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>You forget</L>
+<L>The hast impoi'd upon us.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>One word more</L>
+<L>And then I come. And after this, when with</L>
+<L>Continued innocence, of love, and service,</L>
+<L>
+
+
+<PB REF="8"/>
+I had growne ripe for Hymenaeall joyes</L>
+<L>Embracing you, but with a lawfull flame</L>
+<L>I might have beene your husband.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Sir, I was</L>
+<L>And ever am your servant, but it was,</L>
+<L>And 'tis farre from me, in a thought to cherish</L>
+<L>Such sawcie hopes: If I had beene the heire</L>
+<L>Of all the Globes and Scepters mankind bowes to,</L>
+<L>At my best you had deserv'd me; as I am</L>
+<L>How e're unworthy, in my virgin zeale</L>
+<L>I wish you as a partner of your bed,</L>
+<L>A Princesse equall to you, such a one</L>
+<L>That may make it the study of her life,</L>
+<L>With all th'obedience of a wife to please you.</L>
+<L>May you have happy issue, and I live</L>
+<L>To be their humblest handmayde.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I am dumb,</L>
+<L>And can make no reply.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Your Excellence</L>
+<L>Will be benighted.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>This kisse bath'd in teares</L>
+<L>May learne you what I should say.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Give me leave</L>
+<L>To wayt on you to your horse.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And me to bring you</L>
+<L>To the one halfe of your journey.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Your love puts</L>
+<L>Your age to too much trouble.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I grow young</L>
+<L>When most I serve you.</L>
+</SP>
+<SP>
+<SPEAKER>Conta.</SPEAKER>
+<L>Sir, the Duke shal thank you.</L>
+<STAGE>Exeunt omnes.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Actus primi Scaena secunda.</HEAD>
+<LIST>
+<ITEM>Alphonso,</ITEM>
+<ITEM>Hippolito,</ITEM>
+<ITEM>Hieronimo, with a Petition.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Alphonso.</SPEAKER>
+<L>HIs Highnesse cannot take it ill.</L>
+</SP>
+<SP>
+<SPEAKER>Hippolito.</SPEAKER>
+<L>However,</L>
+<L>We with our duties shall expresse our care</L>
+<L>
+
+
+<PB REF="9"/>
+For the safety of his Dukedome.</L>
+</SP>
+<SP>
+<SPEAKER>Hieronimo.</SPEAKER>
+<L>And our loves</L>
+<STAGE>Enter Cozimo the Duke.</STAGE>
+<L>To his person. Here he comes. Present it boldly.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>What needs this form? we are not grown so proud</L>
+<L>As to disdaine familiar conference</L>
+<L>With such as are to counsaile, and direct us.</L>
+<L>This kinde of adoration shew'd not well</L>
+<L>In the old Roman Emperors, who forgetting</L>
+<L>That they were flesh &amp; blood, would be styl'd gods,</L>
+<L>In us to suffer it were worse. Pray you rise.</L>
+<L>Still the old suit, with too much curiousnesse</L>
+<STAGE>Reades.</STAGE>
+<L>You have too often search'd this wound, which yeelds</L>
+<L>Security and rest, not trouble to me.</L>
+<L>For here you grieve, that my firme resolution</L>
+<L>Continues me a Widdower; and that</L>
+<L>My want of issue to succeede me in</L>
+<L>My government, when I am dead, may breed</L>
+<L>Distraction in the State, and make the name</L>
+<L>And family of the Medices, now admir'd,</L>
+<L>Contemptible.</L>
+</SP>
+<SP>
+<SPEAKER>Hippolito.</SPEAKER>
+<L>And with strong reasons Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Alphonso.</SPEAKER>
+<L>For were you old and past hope to beget</L>
+<L>The modell of your selfe; we should be silent.</L>
+</SP>
+<SP>
+<SPEAKER>Hieronimo.</SPEAKER>
+<L>But being in your height and pride of yeeres</L>
+<L>As you are now great Sir, and having too</L>
+<L>In your possession the daughter of</L>
+<L>The deceas'd Duke of <HI>Vrbin,</HI> and his heire,</L>
+<L>Whose Guardian you are made, were you but pleas'd</L>
+<L>To think her worthy of you, besides children</L>
+<L>The Dukedome she brings with her for a dower,</L>
+<L>Will yeeld a large encrease of strength and power</L>
+<L>To those faire territories, which already</L>
+<L>Acknowledge you their absolute Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You presse us</L>
+<L>VVith solid arguments we grant, and though</L>
+<L>VVe stand not bound to yeeld account to any</L>
+<L>VVhy we doe this or that (the full consent</L>
+<L>Of our Subjects being included in our Will)</L>
+<L>
+
+
+<PB REF="9"/>
+We out of our free bounties will deliver</L>
+<L>The motives that divert us. You well know</L>
+<L>That three yeeres since to our much griefe, we lost</L>
+<L>Our Dutches, such a Dutches, that the world</L>
+<L>In her whole course of life, yeelds not a Lady</L>
+<L>That can with imitation deserve</L>
+<L>To be her second: in her grave we buried</L>
+<L>All thoughts of woman: let this satisfie</L>
+<L>For any second marriage. Now whereas</L>
+<L>You name the heire of <HI>Vrbin,</HI> as a Princesse</L>
+<L>Of great revenues, 'tis confess'd she is so;</L>
+<L>But for some causes private to our selfe,</L>
+<L>We have dispos'd her otherwise. Yet despaire not,</L>
+<L>For you ere long with joy shall understand,</L>
+<L>That in our Princely care we have provided</L>
+<L>One worthy to succeed us.</L>
+<STAGE>Enter Lodovico Sanazarro.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Hippolito.</SPEAKER>
+<L>We submit,</L>
+<L>And hold the counsailes of great <HI>Cozimo</HI></L>
+<L>Oraculous.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>My <HI>Sanazaro.</HI> Nay,</L>
+<L>Forbeare all ceremony. You looke sprightly friend,</L>
+<L>And promise in your cleare aspect some novell</L>
+<L>That may delight us.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>O Sir, I would not be</L>
+<L>The Harbinger of ought that might distast you.</L>
+<L>And therefore know (for 'twere a sinne to torture</L>
+<L>Your Highnesse expectation) your Vice-Admirall</L>
+<L>By my directions hath surpriz'd the Gallies</L>
+<L>Appointed to transport the Asian tribute</L>
+<L>Of the great Turke, a richer Prize was never</L>
+<L>Brought into <HI>Florence.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Still my Nightingale,</L>
+<L>That with sweet accents doest assure me, that</L>
+<L>My Spring of happinesse comes fast upon me.</L>
+<L>Embrace me boldly. I pronounce that wretch</L>
+<L>An enemy to brave and thriving action,</L>
+<L>That dares beleeve, but in a thought, we are</L>
+<L>Too prodigall in our favours to this man,</L>
+<L>
+
+
+<PB REF="10"/>
+Whose merits, though with him we should devide</L>
+<L>Our Dukedome, still continuous his debtor.</L>
+</SP>
+<SP>
+<SPEAKER>Hippolito.</SPEAKER>
+<L>'Tis farre from me.</L>
+</SP>
+<SP>
+<SPEAKER>Alphonso.</SPEAKER>
+<L>We all applaud it.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Nay, blush not <HI>Sanazarro,</HI> we are proud</L>
+<L>Of what we build up in thee, nor can our</L>
+<L>Election be disparag'd; since we have not</L>
+<L>Receiv'd into our bosome and our grace</L>
+<L>A glorious lazie Droane, growne fat with feeding</L>
+<L>On others toyle, but an industrious Bee</L>
+<L>That crops the sweet flowers of our enemies,</L>
+<L>And every happy evening returnes</L>
+<L>Loaden with wax and hony to our Hive.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>My best endevours never can discharge</L>
+<L>The service I should pay.</L>
+<STAGE>Enter Giovanni and Contarino.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Thou art too modest,</L>
+<L>But we will study how to give, and when,</L>
+<L>Before it be demanded. <HI>Giovanni!</HI></L>
+<L>My Nephew; let me eye thee better Boy.</L>
+<L>In thee me thinks my Sister lives againe:</L>
+<L>For her love I will be a Father to thee,</L>
+<L>For thou art my adopted Sonne.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Your Servant</L>
+<L>And humblest Subject.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Thy hard travaile Nephew</L>
+<L>Requires soft rest, and therefore we forbeare</L>
+<L>For the present an account, how thou hast spent</L>
+<L>Thy absent houres. See Signiors, see, our care</L>
+<L>Without a second bed provides you of</L>
+<L>A hopefull Prince. Carrie him to his Lodgings,</L>
+<L>And for his farther honour <HI>Sanazarro</HI></L>
+<L>With the rest doe you attend him.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>All true pleasures</L>
+<L>Circle your Highnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>As the rising Sunne</L>
+<L>VVe doe receive you.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>May this never set,</L>
+<STAGE>Exeunt Giovanni, Sanazarro, Hieronimo, Alphonso, Lodovico, Cozimo.</STAGE>
+<L>But shine upon you ever.</L>
+</SP>
+<SP>
+<PB REF="10"/>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Contarino!</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>My gracious Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>What entertainment found you</L>
+<L>From <HI>Carolo de Charamonte?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Free</L>
+<L>And bountifull. He's ever like himselfe</L>
+<L>Noble and hospitable.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>But did my Nephew</L>
+<L>Depart thence willingly?</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>He obey'd your summons</L>
+<L>As did become him. Yet it was apparent</L>
+<L>But that he durst not crosse your will, he would</L>
+<L>Have sojourn'd longer there, he ever finding</L>
+<L>Variety of sweetest entertainment;</L>
+<L>But there was something else, nor can I blame</L>
+<L>His youth, though with some trouble he took leave</L>
+<L>Of such a sweet companion.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Who was it?</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>The daughter sir of Signior <HI>Carolo,</HI></L>
+<L>Faire <HI>Lidia,</HI> a virgin at all parts,</L>
+<L>But in her birth and fortunes, equall to him.</L>
+<L>The rarest beauties <HI>Italy</HI> can make boast of,</L>
+<L>Are but meere shadowes to her, she the substance</L>
+<L>Of all perfection. And what encreases</L>
+<L>The wonder Sir, Her bodies matchlesse forme</L>
+<L>Is better'd by the purenesse of her soule.</L>
+<L>Such sweet discourse, such ravishing behaviour;</L>
+<L>Such charming language, such inchanting manners,</L>
+<L>With a simplicity that shames all Courtship,</L>
+<L>Flow hourely from her, that I doe beleeve</L>
+<L>Had <HI>Circe,</HI> or <HI>Calipso</HI> her sweet graces,</L>
+<L>Wandring <HI>Vlisses</HI> never had remembred</L>
+<L><HI>Penelope,</HI> or <HI>Ithaca.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Be not rap'd so.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Your Excellence would be so had you seen her</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Take up. Take up. But did your observation</L>
+<L>Note any passage of affection</L>
+<L>Betweene her and my Nephew?</L>
+</SP>
+<SP>
+<PB REF="11"/>
+<SPEAKER>Contarino.</SPEAKER>
+<L>How it should</L>
+<L>Be otherwise betweene 'em, is beyond</L>
+<L>My best imagination. <HI>Cupids</HI> arrowes</L>
+<L>Were uselesse there, for of necessity</L>
+<L>Their yeeres and dispositions doe accord so</L>
+<L>They must wound one another.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Umh! Thou art</L>
+<L>My Secretary <HI>Contarino,</HI> and more skill'd</L>
+<L>In politique designes of State, then in</L>
+<L>Thy iudgement of a beauty; give me leave</L>
+<L>In this to doubt it. Here. Goe to my Cabinet, </L>
+<L>You shal find there Letters newly receiv'd touching the state of <HI>Vrbin.</HI></L>
+<L>Pray you with care peruse them, leave the search</L>
+<L>Of this to us.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>I doe obey in all things.</L>
+<STAGE>Exit Contarino.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L><HI>Lydia!</HI> A Diamond so long conceal'd,</L>
+<L>And never worne in Court! of such sweet feature?</L>
+<L>And he on whom I fixe my Dukedomes hopes,</L>
+<L>Made Captive to it! Vmh! 'tis somewhat strange,</L>
+<L>Our eyes are every where, and we will make</L>
+<L>A strict enquiry, <HI>Sanazarro!</HI></L>
+<STAGE>Enter Sanazarro.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Sir!</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Is my Nephew at his rest?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>I saw him in bed Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>'Tis well, and does the Princes <HI>Fiorinda</HI></L>
+<L>(Nay, doe not blush, she is rich <HI>Vrbins</HI> heire)</L>
+<L>Continue constant in her favours to you?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Dread sir, she may dispense thē as she pleases,</L>
+<L>But I looke up to her as on a Princesse</L>
+<L>I dare not be ambitious of, and hope</L>
+<L>Her prodigall graces shall not render me</L>
+<L>Offended to your Highnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Not a scruple.</L>
+<L>He whom I favour as I doe my friend,</L>
+<L>May take all lawfull graces that become him.</L>
+<L>But touching this hereafter; I have now</L>
+<L>(And though perhaps it may appear or trifle)</L>
+<L>Serious imployment for thee.</L>
+</SP>
+<SP>
+<PB REF="11"/>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>I stand ready</L>
+<L>For any act you please.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>I know it friend,</L>
+<L>Have you ne're heard of <HI>Lidia</HI> the daughter</L>
+<L>Of <HI>Carolo Charamonte?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Him I know sir</L>
+<L>For a noble Gentleman, and my worthy friend,</L>
+<L>But never heard of her.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>She is deliver'd</L>
+<L>And feelingly to us by <HI>Contarino</HI></L>
+<L>For a master-peece in nature, I would have you</L>
+<L>Ride suddenly thither to behold this wonder:</L>
+<L>But not as sent by us, that's our first caution:</L>
+<L>The second is, and carefully observe it,</L>
+<L>That though you are a Batchelor, &amp; endow'd with</L>
+<L>All those perfections that may take a virgin,</L>
+<L>On forfeit of our favour doe not tempt her.</L>
+<L>It may be her faire graces doe concerne us.</L>
+<L>Pretend what businesse you think fit, to gaine</L>
+<L>Accesse into her Fathers house, and there</L>
+<L>Make full discovery of her, and returne me</L>
+<L>A true relation, I have some ends in it</L>
+<L>With which we will acquaint you.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>This is Sir</L>
+<L>An easie taske.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Yet one that must exact</L>
+<L>Your secrecie, and diligence. Let not</L>
+<L>Your stay be long.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>It shall not sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Farewell,</L>
+<L>And be, as you would keepe our favour, carefull.</L>
+</SP>
+</DIV3>
+<TRAILER>Finis Actus primi.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus secundi Scaena prima.</HEAD>
+<LIST>
+<ITEM>Fiorinda.</ITEM>
+<ITEM>Calaminta.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>HOw does this dressing show?</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>'Tis of itselfe</L>
+<L>
+
+
+<PB REF="12"/>
+Curious and rare: but borrowing ornament</L>
+<L>As it does from your Grace, that daine sto weare it,</L>
+<L>Incomparable.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Thou flatter'st me.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>I cannot,</L>
+<L>Your Excellence is above it.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Were we lesse perfect,</L>
+<L>Yet being as we are an absolute Princesse,</L>
+<L>We of necessity must be chast, wise, faire,</L>
+<L>By our prerogative. Yet all these faile</L>
+<L>To move where I would have them. How receiv'd</L>
+<L>Count <HI>Sanazarro</HI> the rich Scarfe I sent him</L>
+<L>For his last Visit?</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>With much reverence,</L>
+<L>I dare not say affection. He express'd</L>
+<L>More ceremonie in his humble thanks</L>
+<L>Then feeling of the favour; and appear'd</L>
+<L>Wilfully ignorant in my opinion</L>
+<L>Of what it did invite him to.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>No matter,</L>
+<L>He's blinde with too much light. Have you not heard</L>
+<L>Of any private Mistresse he's ingag'd to?</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>Not any, and this does amaze me Madame,</L>
+<L>That he, a Souldier, one that drinks rich wines,</L>
+<L>Feedes high, and promises as much as <HI>Venus</HI></L>
+<L>Could wish to finde from <HI>Mars,</HI> should in his manners</L>
+<L>Be so averse to women.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Troth I know not,</L>
+<L>He's man enough, and if he has a haunt,</L>
+<L>He preyes farre off like a subtill Fox.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>And that way</L>
+<L>I doe suspect him. For I learnt last night</L>
+<L>(When the great Duke went to rest) attended by</L>
+<L>One private follower, he tooke horse, but whither</L>
+<L>He's rid, or to what end I cannot guesse at,</L>
+<L>But I will finde it out.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Doe faithfull servant,</L>
+<STAGE>Enter Calandrino.</STAGE>
+<L>We would not be abus'd. Who have we here?</L>
+</SP>
+<SP>
+<PB REF="12"/>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>How the foole stares?</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>And lookes as if he were</L>
+<L>Conning his neck-verse.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>If I now proove perfect</L>
+<L>In my A. B. C. of Courtship, <HI>Calandrino</HI></L>
+<L>Is made for ever, I am sent; let me see,</L>
+<L>On a how doe you, as they call't.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>What would'st thou say?</L>
+</SP>
+<SP>
+<SPEAKER>Calan.</SPEAKER>
+<L>Let me see thy notes. These are her lodgings. Well.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>Art thou an Asse?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Peace, thou art a Court wagtaile</L>
+<STAGE>Calandrino still looking on his instructions. Fi. o. rin. da.</STAGE>
+<L>To interrupt me.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>He has giv'n it you.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>And then say to th'illustrious</L>
+<L>I have it. VVhich is she?</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>VVhy this; Fopdoodle.</L>
+</SP>
+<SP>
+<SPEAKER>Calan.</SPEAKER>
+<L>Leave chattering Bulfinch: you would put me out,</L>
+<L>But 't will not doe. Then after you have made</L>
+<L>Your three obeysances to her, kneele and kisse</L>
+<L>The skirt of Gowne. I am glad it is no worse.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>And why so sir?</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>Because I was afraid</L>
+<L>That after the Italian garbe I should</L>
+<L>Have kiss'd her backward.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>This is sport unlook'd for.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>Are you the Princesse?</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Yes sir.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>Then stand faire</L>
+<L>(For I am cholerick) and doe not nip</L>
+<L>A hopefull blosome. Out againe. Three low</L>
+<STAGE>Reades.</STAGE>
+<L>Obeysances.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I am ready.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>I come on then.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>With much formality.</L>
+<STAGE>Makes Antique curtesies.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>Umph. One. two. three.</L>
+<L>Thus farre I am right. Now for the last. O rare!</L>
+<L>Shee is perfum'd all over! Sure great women</L>
+<L>Instead of little dogges are priviledg'd</L>
+<L>
+
+
+<PB REF="13"/>
+To carrie Musk Cats.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Now the ceremony</L>
+<L>Is pass'd, what is the substance?</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>I'll peruse</L>
+<L>My instructions, and then tell you: Her skirt kiss'd,</L>
+<L>Informe her Highnesse, that your Lord,</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>Who's that?</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>Prince Giovanni, who entreates your Grace,</L>
+<L>That he with your good favour may have leave</L>
+<L>To present his service to you. I think I have nick'd it</L>
+<L>For a Courtier of the first forme.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>To my wonder:</L>
+<STAGE>Enter Giovanni and a Gentleman.</STAGE>
+<L>Returne unto the Prince: but he prevents</L>
+<L>My answer. Calaminta take him off,</L>
+<L>And for the neate delivery of his message</L>
+<L>Give him ten Duccats, such rare parts as yours</L>
+<L>Are to be cherish'd.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>We will share. I know</L>
+<L>It is the custome of the Court, when ten</L>
+<L>Are promis'd, five is faire. Fie, fie, the Princesse</L>
+<L>Shall never know it, so you dispatch me quickly,</L>
+<L>And bid me not come to morrow.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>Very good sir.</L>
+<STAGE>Exeunt Calandrino and Calaminta.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Pray you friend</L>
+<L>Informe the Duke I am putting into act</L>
+<L>What he commanded.</L>
+</SP>
+<SP>
+<SPEAKER>Gentleman.</SPEAKER>
+<L>I am proud to be imploy'd sir.</L>
+<STAGE>Exit Gentlemā. They sa∣lute.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>Madam, that without warrant I presume</L>
+<L>To trench upon your Privacies, may argue</L>
+<L>Rudenesse of manners. But the free accesse</L>
+<L>Your Princely courtesie vouchsafes to all</L>
+<L>That come to pay their services, gives me hope</L>
+<L>To finde a gracious pardon.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>If you please, not</L>
+<L>To make that an offence in your construction,</L>
+<L>Which I receive as a large favour from you,</L>
+<L>There needes not this Apologie.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>You continue</L>
+<L>
+
+
+<PB REF="13"/>
+As you were ever, the greatest Mistresse of</L>
+<L>Faire entertainment.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>You are Sir the Master,</L>
+<L>And in the Country have learnt to out-doe</L>
+<L>All that in Court is practis'd. But why should we</L>
+<L>Talke at such distance? You are welcome sir.</L>
+<L>We have beene more familiar, and since</L>
+<L>You wil impose the Province, you should governe,</L>
+<L>Of boldnesse on me, give me leave to say</L>
+<L>You are too punctuall. Sit sir, and discourse</L>
+<L>As we were us'd.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Your Excellence knowes so well</L>
+<L>How to command, that I can never erre</L>
+<L>When I obey you.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Nay, no more of this.</L>
+<L>You shall o'recome; no more I pray you sir.</L>
+<L>And what delights, Pray you be liberall</L>
+<L>In your relation, hath the Country life</L>
+<L>Afforded you?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>All pleasures gracious Madame,</L>
+<L>But the happinesse to converse with your sweet vertues.</L>
+<L>I had a grave Instructer, and my houres</L>
+<L>Design'd to serious Studies yeelded me</L>
+<L>Pleasure with profit in the knowledge of</L>
+<L>What before I was ignorant in. The Signior</L>
+<L>Carolode Charomonte being skilfull</L>
+<L>To guide me through the labyrinth of wilde passions,</L>
+<L>That labour'd to imprison my free soule</L>
+<L>A slave to vitious Sloath.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>You speake him well.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>But short of his deserts. Then for the time</L>
+<L>Of recreation I was allow'd</L>
+<L>(Against the forme follow'd by jealous Parents</L>
+<L>In Italy) full liberty to pertake</L>
+<L>His daughters sweet society. She's a virgin</L>
+<L>Happy in all endowments, which a Poet</L>
+<L>Could fancie in his Mistresse: being her selfe</L>
+<L>A Schoole of goodnesse, where chast Mayds may learne</L>
+<L>
+
+
+<PB REF="14"/>
+(Without the aydes of forraigne Principles)</L>
+<L>By the example of her life and purenesse</L>
+<L>To be as she is, excellent. I but give you</L>
+<L>A briefe Epitome of her vertues, which</L>
+<L>Dilated on at large, and to their merit,</L>
+<L>Would make an ample Story.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Your whole age</L>
+<L>So spent with such a Father, and a Daughter,</L>
+<L>Could not be tedious to you.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>True great Princesse:</L>
+<L>And now since you have pleas'd to grant the hearing</L>
+<L>Of my times expence in the Country, give me leave</L>
+<L>To entreate the favour, to be made acquainted</L>
+<L>What service, or what objects in the Court</L>
+<L>Have in your Excellence acceptance, prov'd</L>
+<L>Most gracious to you?</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I'll meete your demand,</L>
+<L>And make a plaine discovery. The Dukes care</L>
+<L>For my estate and person holds the first</L>
+<L>And choycest place. Then the respect the Courtiers</L>
+<L>Pay gladly to me, not to be contemn'd.</L>
+<L>But that which rais'd in me the most delight</L>
+<L>(For I am a friend to valour) was to heare</L>
+<L>The noble actions truly reported</L>
+<L>Of the brave Count <HI>Sanazarro.</HI> I professe</L>
+<L>When it hath beene, and fervently deliver'd.</L>
+<L>How boldly in the horror of a fight</L>
+<L>Cover'd with fire and smoake, and as if nature</L>
+<L>Had lent him wings, like lightning he hath falne</L>
+<L>Upon the Turkish Gallies, I have heard it</L>
+<L>With a kinde of pleasure, which hath whisper'd to me</L>
+<L>This Worthy must be cherish'd.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>'T was a bounty</L>
+<L>You never can repent.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I glory in it.</L>
+<L>And when he did returne (but still with conquest)</L>
+<L>His Armour off not young Antinous</L>
+<L>Appear'd more Courtly; all the Graces that</L>
+<L>
+
+
+<PB REF="14"/>
+Render a mans Society deere to Ladies,</L>
+<L>Like Pages wayting on him, and it does</L>
+<L>VVorke strangely on me.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>To divert your thoughts</L>
+<L>Though they are fixt upon a noble subject,</L>
+<L>I am a suitor to you.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>You will aske</L>
+<L>I doe presume, what I may grant, and then</L>
+<L>It must not be deni'd.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>It is a favour</L>
+<L>For which I hope your Excellence will thank me.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Nay, without circumstance.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>That you would please</L>
+<L>To take occasion to move the Duke,</L>
+<L>That you with his allowance may command</L>
+<L>This matchlesse virgin Lidia (of whom</L>
+<L>I cannot speake too much) to waite upon you.</L>
+<L>She's such a one, upon the forfeit of</L>
+<L>Your good opinion of me, that will not</L>
+<L>Be a blemish to your trayne.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>'Tis ranke! He loves her;</L>
+<STAGE>Aside.</STAGE>
+<L>But I will fit him with a suit. I pause not</L>
+<L>As if it bred or doubt or scruple in me</L>
+<L>To doe what you desire, for I'll effect it,</L>
+<L>And make use of a faire and fit occasion.</L>
+<L>Yet in returne I aske a boone of you,</L>
+<L>And hope to finde you, in your grant to me</L>
+<L>As I have beene to you.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Command me Madame.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>'Tis neere allyde to yours. That you would be</L>
+<L>A Suitor to the Duke, not to expose</L>
+<L>(After so many trialls of his faith)</L>
+<L>The noble <HI>Sanazarro</HI> to all dangers,</L>
+<L>As if he were a wall to stand the furie</L>
+<L>Of a perpetuall batterie: but now</L>
+<L>To grant him after his long labours, rest</L>
+<L>And liberty to live in Court, his Armes</L>
+<L>And his victorious sword and shield hung up</L>
+<L>
+
+
+<PB REF="15"/>
+For monuments.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>Umph. I'll embrace faire Princea</L>
+<STAGE>Enter Cozimo.</STAGE>
+<L>The soonest oportunity. The Duke!</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Nay, blush not; we smile on your privacie,</L>
+<L>And come not to disturbe you. You are equalls,</L>
+<L>And without prejudice to eithers Honors.</L>
+<L>May make a mutuall change of love and Courtship,</L>
+<L>Till you are made one, and with holy rites,</L>
+<L>And we give suffrage to it.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>You are gracious.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>To our selfe in this. But now break off. Too much</L>
+<L>Taken at once of the most curious viands</L>
+<L>Dulls the sharp edge of appetite. We are now</L>
+<L>For other sports, in which our pleasure is</L>
+<L>That you shall keepe us company.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>We attend you.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Actus secundi Scaena secunda.</HEAD>
+<LIST>
+<ITEM>Bernardo.</ITEM>
+<ITEM>Caponi.</ITEM>
+<ITEM>Petruchio.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Bernardo.</SPEAKER>
+<L>IS my Lord stirring?</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>No; He's fast.</L>
+</SP>
+<SP>
+<SPEAKER>Petruchio.</SPEAKER>
+<L>Let us take then</L>
+<L>Our morning draught. Such as eate store of Beefe,</L>
+<L>Mutton, and Capons, may preserve their healths</L>
+<L>With that thin composition call'd small Beere,</L>
+<L>As 'tis said they doe in England. But Italians</L>
+<L>That think when they have sup'd upon an Olive,</L>
+<L>A Root, or bunch of Raysins, 'tis a Feast,</L>
+<L>Must kill those cludities, rising from cold hearbs,</L>
+<L>With hot and lusty wines.</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>A happinesse</L>
+<L>Those Tramontaines ne're casted.</L>
+</SP>
+<SP>
+<SPEAKER>Bernardo.</SPEAKER>
+<L>Have they not</L>
+<L>Store of wine there?</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>Yes, and drink more in two houres</L>
+<L>Then the Dutchmen, or the Dane in foure and twenty.</L>
+</SP>
+<SP>
+<SPEAKER>Petru.</SPEAKER>
+<L>But what is't? French trash, made of rotten grapes</L>
+<L>
+
+
+<PB REF="15"/>
+And dregs, and lees of Spaine, with Welch Metheglyn,</L>
+<L>A drench to kill a horse, but this pure Nectar</L>
+<L>Being proper to our climate, is too fine</L>
+<L>To brook the roughnesse of the Sea. The spirit</L>
+<L>Of this begets in us quick apprehensions</L>
+<L>And active executions, whereas their</L>
+<L>Grosse feeding makes their understanding like it.</L>
+<L>They can fight, and that's their all.</L>
+<STAGE>They drink.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Security</L>
+<STAGE>Enter Sanazarro. A servant.</STAGE>
+<L>Dwells about this house I think, the gate's wide open,</L>
+<L>And not a servant stirring. See the horses</L>
+<L>Set up, and cloath'd.</L>
+</SP>
+<SP>
+<SPEAKER>Servant.</SPEAKER>
+<L>I shall Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>I'll make bold</L>
+<L>To presse a little further.</L>
+</SP>
+<SP>
+<SPEAKER>Bernardo.</SPEAKER>
+<L>Who is this,</L>
+<L>Count <HI>Sanazarro?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Petruchio.</SPEAKER>
+<L>Yes, I know him. Quickly</L>
+<L>Remove the Flaggon.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>A good day to you friends.</L>
+<L>Nay, doe not conceale your Physick, I approve it,</L>
+<L>And if you please will be a Patient with you.</L>
+</SP>
+<SP>
+<SPEAKER>Petruchio.</SPEAKER>
+<L>My noble Lord.</L>
+<STAGE>Drinks.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>A health to yours. Well done,</L>
+<L>I see you love your selves. And I commend you</L>
+<L>'Tis the best wisedome.</L>
+</SP>
+<SP>
+<SPEAKER>Petruchio.</SPEAKER>
+<L>May it please your Honour</L>
+<L>To walk a turne in the Gallery, I ll acquaint</L>
+<L>My Lord with your being here.</L>
+<STAGE>Exit Petruchio.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Tell him I come</L>
+<L>For a Visit onely. 'Tis a hansome pile this.</L>
+<STAGE>Exit Sanazarro.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>Why here is a brave fellow, and a right one,</L>
+<L>Nor wealth, nor greatnesse makes him proud. </L>
+</SP>
+<SP>
+<SPEAKER>Bernar.</SPEAKER>
+<L>There are too few of them, for most of our new Courtlers</L>
+<L>(Whose Fathers were familiar with the prices</L>
+<L>Of oyle, and corne, with when and to where to vent 'em)</L>
+<L>And left their heires rich from their knowledge that way)</L>
+<L>Like gourds shot up in a night, disclaine to speake</L>
+<L>
+
+
+<PB REF="16"/>
+But to cloath of Tissue.</L>
+<STAGE>Ent. Car. Charom. in a night-Gown. Petruchio following.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Carol.</SPEAKER>
+<L>Stand you prating, knaves,</L>
+<L>When such a guest is under my roofe? See all</L>
+<L>The roomes perfum'd. This is the man that carries</L>
+<L>The sway, and swinge of the Court; and I had rather</L>
+<L>Preserve him mine with honest offices, then. —</L>
+<L>But I'll make no comparisons. Bid my daughter</L>
+<L>Trim her selfe up to the height, I know this Courtier</L>
+<L>Must have a smack at her, and perhaps by his place</L>
+<L>Expects to wriggle further. If he does</L>
+<L>I shall deceive his hopes, for I'll not taint</L>
+<L>My Honour for the Dukedome. Which way went he?</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>To the round Gallerie.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I will entertaine him.</L>
+<L>As fits his worth, and quality, but no farther.</L>
+<STAGE>Exeunt:</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Actus secundi Scaena tertia.</HEAD>
+<LIST>
+<ITEM>Sanazarro solus.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>I Cannot apprehend, yet I have argu'd</L>
+<L>All wayes I can imagine, for what reasons</L>
+<L>The great Duke does imploy me hither, and</L>
+<L>What does encrease the miracle, I must render</L>
+<L>A strict and true account, at my returne</L>
+<L>Of Lidia this Lords daughter, and describe</L>
+<L>In what she's excellent, and where defective.</L>
+<L>'Tis a hard task; he that will undergoe</L>
+<L>To make a judgement of a womans beauty,</L>
+<L>And see through all her plaistrings, and paintings,</L>
+<L>Had neede of Linceus eyes, and with more ease</L>
+<L>May looke like him through nine mud walls, then make</L>
+<L>A true discovery of her. But th'intents</L>
+<L>And secrets of my Princes heart must be</L>
+<L>Serv'd and not search'd into.</L>
+<STAGE>Enter Carolo Charomonte.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Most noble Sir</L>
+<L>Excuse my age subject to ease, and Sloath,</L>
+<L>That with no greaver speed I have presented</L>
+<L>My service with your welcome.</L>
+</SP>
+<SP>
+<PB REF="16"/>
+<SPEAKER>Sanazarro</SPEAKER>
+<L>'Tis more fit</L>
+<L>That I should aske your pardon for disturbing</L>
+<L>Your restat this unseasonable houre.</L>
+<L>But my occasions carrying me so neere</L>
+<L>Your hospitable house, my stay being short to;</L>
+<L>Your goodnesse, and the name of friend, which you</L>
+<L>Are pleas'd to grace me with, gave me assurance</L>
+<L>A Visit would not offend.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Offend my Lord?</L>
+<L>I feele my selfe much younger for the favour.</L>
+<L>How is it with our gracious Master?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>He Sir</L>
+<L>Holds still his wonted Greatnesse, and confesses</L>
+<L>Himselfe your debtor, for your love, and care</L>
+<L>To the Prince Giovanni, and had sent</L>
+<L>Particular thanks by me, had his Grace knowne,</L>
+<L>The quick dispatch of what I was design'd to</L>
+<L>Would have licenc'd me to see you.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I am rich</L>
+<L>In his acknowledgement.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Sir, I have heard</L>
+<L>Your happinesse in a daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Sits the winde there?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Fame gives her out for a rare master-peece.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>'Tis a plaine Village Girle Sir, but obedient,</L>
+<L>That's her best beauty Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Let my desire</L>
+<L>To see her, finde a faire construction from you,</L>
+<L>I bring no loose thought with me.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>You are that way</L>
+<L>My Lord free from suspition. Her owne manners</L>
+<L>(Without an imposition from me)</L>
+<STAGE>Enter Lidia and Petronella.</STAGE>
+<L>I hope will prompt her to it. As she is</L>
+<L>She's come to make a tender of that service</L>
+<L>Which she stands bound to pay.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>With your faire leave</L>
+<L>I make bold to salute you.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Sir, I, you have it.</L>
+</SP>
+<SP>
+<PB REF="17"/>
+<SPEAKER>Petronella.</SPEAKER>
+<L>I am her Gentlewoman, wil he not kisse me to?</L>
+<L>This is course ifaith.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>How he falls off!</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>My Lord, though silence best becomes a Mayde,</L>
+<L>And to be curious to know but what concernes my selfe, and with becomming distance,</L>
+<L>May argue me of boldnesse, I must borrow</L>
+<L>So much of modesty as to enquire Prince Giovannies health?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Hee cannot want, what you are pleas'd to wish him.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Would 'twere so, </L>
+<L>And then there is no blessing that can make </L>
+<L>A hopefull and a noble Prince compleat,</L>
+<L>But should fall on him. O, he was our North star,</L>
+<L>The light and pleasure of our eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Where am I?</L>
+<L>I feele my selfe another thing! Can charmes</L>
+<L>Be writ on such pure Rubies? Her lips melt</L>
+<L>Assoone as touch'd! not those smooth gales that glide</L>
+<L>O're happy Arabie, or rich Sabaea,</L>
+<L>Creating in their passage gummes and spices,</L>
+<L>Can serve for a weake simile to expresse</L>
+<L>The sweetnesse of her breath. Such a brave stature</L>
+<L>Homer bestow'd on Pallas, every limbe</L>
+<L>Proportion'd to it.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>This is strange; my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Sanaza.</SPEAKER>
+<L>I crave your pardon, and yours, matchlesse Mayd,</L>
+<L>For such I must report you.</L>
+</SP>
+<SP>
+<SPEAKER>Petronella.</SPEAKER>
+<L>There's no notice</L>
+<L>Taken all this while of me.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>And I must adde</L>
+<L>If your discourse and reason parallel</L>
+<L>The rarenesse of your more then humane forme,</L>
+<L>You are a wonder.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Pray you my Lord make triall:</L>
+<L>She can speak I can assure you, and that my presence</L>
+<L>May not take from her freedome, I will leave you.</L>
+<L>For know my Lord, my confidence dares trust her</L>
+<L>Where, and with whom she pleases. If he be</L>
+<L>
+
+
+<PB REF="17"/>
+Taken the right way with her, I cannot fancie</L>
+<L>A better match; and for false play I know</L>
+<L>The tricks, and can discerne them. Petronella!</L>
+</SP>
+<SP>
+<SPEAKER>Petronella.</SPEAKER>
+<L>Yes my good Lord.</L>
+<STAGE>Exeunt Carolo and Petronella.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I have imployment for you.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>What's your will Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Madame, you are so large a theame to treat of,</L>
+<L>And every Grace about you offers to me</L>
+<L>Such copiousnesse of language, that I stand</L>
+<L>Doubtfull which first to touch at. If I erre,</L>
+<L>As in my choyce I may, let me entreat you</L>
+<L>Before I doe offend, to signe my pardon,</L>
+<L>Let this the Emblem of your innocence</L>
+<L>Give me assurance.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>My hand joyn'd to yours</L>
+<L>Without this superstition confirmes it.</L>
+<L>Nor neede I feare you will dwell long upon me,</L>
+<L>The barrennesse of the subject yeelding nothing</L>
+<L>That Rhetorick with all her tropes and figures</L>
+<L>Can amplifie. Yet since you are resolv'd</L>
+<L>To prove your selfe a Courtier in my praise,</L>
+<L>As I am a woman (and you men affirme</L>
+<L>Our sex loves to be flatter'd) I'll endure it.</L>
+<STAGE>Carolo above.</STAGE>
+<L>Now when you please begin.</L>
+<STAGE>Turnes from her.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Such Laedas paps were,</L>
+<L>Down pillowes styl'd by Jove. And their pure whitenesse</L>
+<L>Shames the Swans Down, or snow. No heat of lust</L>
+<L>Swells up her Azure veines. And yet I feele</L>
+<L>That this chast Ice but touch'd fans fire in me.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>You neede not noble Sir be thus transported,</L>
+<L>Or trouble your invention to expresse</L>
+<L>Your thought of me: the plainest phrase and language</L>
+<L>That you can use, will be too high a straine</L>
+<L>For such an humble Theme.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>If the great Duke</L>
+<L>Made this his end to try my constant temper,</L>
+<L>Though I am vanquish'd, 'tis his fault, not mine.</L>
+<L>For I am flesh and blood, and have affections</L>
+<L>
+
+
+<PB REF="18"/>
+Like other men. Who can behold the Temples,</L>
+<L>Or holy Altars, but the Objects worke</L>
+<L>Devotion in him? And I may as well</L>
+<L>Walke over burning iron with bare feet</L>
+<L>And be unscorch'd, as looke upon this beauty</L>
+<L>Without desire, and that desire pursu'd to,</L>
+<L>Till it be quench'd with the enjoying those</L>
+<L>Delights, which to atchieve danger is nothing,</L>
+<L>And loyalty but a word.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>I ne're was proud,</L>
+<L>Nor can finde I am guilty of a thought</L>
+<L>Deserving this neglect, and strangenesse from you,</L>
+<L>Nor am I amorous.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Suppose his Greatnesse</L>
+<L>Loves her himselfe, why makes he choyce of me</L>
+<L>To be his agent? it is tyrannie</L>
+<L>To call one pinch'd with hunger to a feast,</L>
+<L>And at that instant cruelly deny him</L>
+<L>To taste of what he sees. Alleageance</L>
+<L>Tempted too farre, is like the triall of</L>
+<L>A good sword on an Anvill; as that often</L>
+<L>Flies in peeces without service to the owner;</L>
+<L>So trust enforc'd too farre prooves treachery,</L>
+<L>And is too late repented.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Pray you Sir,</L>
+<L>Or licence me to leave you, or deliver</L>
+<L>The reasons which invite you to command</L>
+<L>My tedious wayting on you.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>As I live</L>
+<L>I know not what to think on't. Is't his pride,</L>
+<L>Or his simplicity?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Whither have my thoughts</L>
+<L>Carried me from my selfe? in this my dulnesse,</L>
+<L>I have lost an oportunity.</L>
+<STAGE>He turnes to her. She falls off.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>'Tis true,</L>
+<L>I was not bred in Court, not live a starre there,</L>
+<L>Nor shine in rich embroderies, and pearle,</L>
+<L>As they that are the Mistresses of great fortunes,</L>
+<L>
+
+
+<PB REF="18"/>
+Are every day adorn'd with.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazaro.</SPEAKER>
+<L>Will you vouchsafe</L>
+<L>Your eare sweet Lady?</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Yet I may be bold</L>
+<L>For my integrity, and fame, to ranke</L>
+<L>With such as are more glorious. Though I never</L>
+<L>Did injurie, yet I am sensible</L>
+<L>When I am contemn'd, and scorn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Will you please to heare me?</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>O the difference of natures. Giovanni,</L>
+<L>A Prince in expectation, when he liv'd here,</L>
+<L>Stole courtesie from heaven, and would not to</L>
+<L>The meanest servant in my Fathers house</L>
+<L>Have kept such distance.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Pray you doe not think me</L>
+<L>Unworthy of your eare, it was your beauty</L>
+<L>That turn'd me statue, I can speake, faire Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>And I can heare. The harshnesse of your Courtship</L>
+<L>Cannot corrupt my curtesie.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Will you heare me</L>
+<L>If I speake of love?</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Provided you be modest,</L>
+<L>I were uncivill else.</L>
+<STAGE>Carolo descends.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>They are come to parlee,</L>
+<L>I must observe this neerer.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>You are a rare one,</L>
+<L>And such (but that my hast commands me hence)</L>
+<L>I could converse with ever. Will you grace me</L>
+<L>VVith leave to visit you againe.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>So you</L>
+<L>At your returne to Court, doe me the favour</L>
+<L>To make a tender of my humble service</L>
+<L>To the Prince Giovanni.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Ever touching</L>
+<L>Upon that string? And will you give me hope</L>
+<L>Of future happinesse?</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>That, as I shall finde you.</L>
+<L>The Fort that's yeelded at the first assault,</L>
+<L>
+
+
+<PB REF="19"/>
+Is hardly worth the taking.</L>
+<STAGE>Enter Carolo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>O, they are at it.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>She is a Magazine of all perfection,</L>
+<L>And 'tis death to part from her, yet I must,</L>
+<L>A parting kisse faire Maid.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>That custome grants you.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>A homely breakfast does attend your Lordship.</L>
+<L>Such as the place affords.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>No, I have feasted</L>
+<L>Already here, my thanks, and so I leave you.</L>
+<L>I will see you againe. Till this unhappy houre</L>
+<L>I was never lost, and what to doe or say</L>
+<L>I have not yet determin'd,</L>
+<STAGE>Exit Sanazarro.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Gone so abruptly?</L>
+<L>'Tis very strange.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Under your favour Sir,</L>
+<L>His comming hither was to little purpose</L>
+<L>For any thing I heard from him.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Take heede Lidia!</L>
+<L>I doe advise you with a Fathers love,</L>
+<L>And tendernesse of your honour: as I would not</L>
+<L>Have you course and harsh in giving entertainment,</L>
+<L>So by no meanes be credulous. For great men</L>
+<L>Till they have gain'd their ends are Giants in</L>
+<L>Their promises, but those obtain'd, weake Pigmies</L>
+<L>In their performance. And it is a maxime</L>
+<L>Alow'd among them, so they may deceive</L>
+<L>They may sweare any thing; for the Queen of love</L>
+<L>As they hold constantly, does never punish,</L>
+<L>But smile at Lovers perjuries. Yet be wise too,</L>
+<L>And when you are su'd to in a noble way,</L>
+<L>Be neither nice, nor scrupulous.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>All you speake Sir</L>
+<L>I heare as Oracles, nor will digresse</L>
+<L>From your directions.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>So shall you keepe</L>
+<L>Your fame untainted.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>As I would my life Sir.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<TRAILER>Finis Actus secundi.</TRAILER>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<PB REF="19"/>
+<HEAD>Actus tertij Scaena prima.</HEAD>
+<LIST>
+<ITEM>Sanazarro.</ITEM>
+<ITEM>Servant.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Sanaz.</SPEAKER>
+<L>LEave the horses with my Groomes; but be you carefull</L>
+<L>With your best diligence, and speed to finde out</L>
+<L>The Prince, and humbly in my name entreat him</L>
+<L>I may exchange some private conference with him</L>
+<L>Before the great Duke know of my arrivall.</L>
+</SP>
+<SP>
+<SPEAKER>Servant.</SPEAKER>
+<L>I hast my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Here I'll attend his comming,</L>
+<L>And see you keepe your selfe as much as may be</L>
+<L>Conceal'd from all men else.</L>
+</SP>
+<SP>
+<SPEAKER>Servant.</SPEAKER>
+<L>To serve your Lordship</L>
+<L>I wish I were invisible.</L>
+<STAGE>Exit servant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>I am driven</L>
+<L>Into a desperate streight, and cannot steere</L>
+<L>A middle course; and of the two extreames</L>
+<L>Which I must make election of, I know not</L>
+<L>Which is more full of horror. Never servant</L>
+<L>Stood more ingag'd to a magnificent Master</L>
+<L>Then I to Cozimo. And all those honors</L>
+<L>And glories by his Grace conferr'd upon me,</L>
+<L>Or by my prosperous services deserv'd,</L>
+<L>If now I should deceive his trust, and make</L>
+<L>A shipwrack of my loyalty, are ruin'd.</L>
+<L>And on the other side, if I discover</L>
+<L>Lidias divine perfections, all my hopes</L>
+<L>In her are sunke, never to be boy'd up:</L>
+<L>For 'tis impossible, but assoone as seene</L>
+<L>She must with adoration be su'd to.</L>
+<L>A Hermit at his beades, but looking on her,</L>
+<L>Or the cold Cinique, whom Corinthian Lais,</L>
+<L>Not mov'd with her lusts blandishments, call'd a stone,</L>
+<L>At this object would take fire. Nor is the Duke</L>
+<L>Such an Hippolitus, but that this Phaedra</L>
+<L>But seene, must force him to forsake the Groves</L>
+<L>And Dians Huntmanship, proud to serve under</L>
+<L>
+
+
+<PB REF="20"/>
+Venus soft Ensignes. No, there is no way</L>
+<L>For me to hope fruition of my ends,</L>
+<L>But to conceale her beauties; and how that</L>
+<L>May be effected, is as hard a taske</L>
+<L>As with a vayle to cover the Sunnes beames,</L>
+<L>Or comfortable light. Three yeares the Prince</L>
+<L>Liv'd in her company, and Contarino</L>
+<L>The Secretary, hath possess'd the Duke</L>
+<L>What a rare peece she is. But he's my creature,</L>
+<L>And may with ease be frighted to denie</L>
+<L>What he hath said. And if my long experience</L>
+<L>With some strong reasons I have thought upon,</L>
+<L>Cannot o're-reach a youth, my practise yeelds me</L>
+<L>But little profit.</L>
+<STAGE>Enter Giovanni and the servant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>You are well return'd Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sanaz.</SPEAKER>
+<L>Leave us. When that your Grace shall know the motives</L>
+<L>That forc'd me to invite you to this trouble, </L>
+<L>You will excuse my manners.</L>
+<STAGE>Exit servant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Sir, there needs not</L>
+<L>This circumstance betweene us. You are ever</L>
+<L>My noble friend.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>You shall have further cause</L>
+<L>To assure you of my faith and zeale to serve you.</L>
+<L>And when I have committed to your trust</L>
+<L>(Presuming still on your retentive silence)</L>
+<L>A secret of no lesse importance, then</L>
+<L>My honor, nay my head, it will confirme</L>
+<L>What value you hold with me.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Pray you beleeve Sir</L>
+<L>What you deliver to me, shall be lock'd up</L>
+<L>In a strong Cabinet; of which you your selfe</L>
+<L>Shall keepe the key. For here I pawne my Honor</L>
+<L>(Which is the best security I can give yet)</L>
+<L>It shall not be discover'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>This assurance</L>
+<L>Is more then I with modesty could demand</L>
+<L>From such a paymaster, but I must be suddaine,</L>
+<L>And therefore to the purpose. Can your Excellence</L>
+<L>
+
+
+<PB REF="20"/>
+In your imagination conceive</L>
+<L>On what designe, or whither the Dukes will</L>
+<L>Commanded me hence last night?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>No I assure you,</L>
+<L>And it had beene a rudenesse to enquire</L>
+<L>Of that I was not call'd to.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Grant me hearing,</L>
+<L>And I will make you truly understand,</L>
+<L>It onely did concerne you.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Me my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>You in your present state, and future fortunes,</L>
+<L>For both lye at the stake?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>You much amaze me.</L>
+<L>Pray you resolve this riddle.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>You know the Duke,</L>
+<L>If he die issue-lesse (as yet he is)</L>
+<L>Determines you his Heire.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>It hath pleas'd his Highnesse</L>
+<L>Oft to professe so much.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>But say, he should</L>
+<L>Be woone to prove a second wife, on whom</L>
+<L>He may beget a sonne, how in a moment</L>
+<L>Will all those glorious expectations, which</L>
+<L>Render you reverenc'd and remarkable,</L>
+<L>Be in a moment blasted, how e're you are</L>
+<L>His much lov'd sisters sonne?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I must beare it</L>
+<L>With patience, and in me it is a duty</L>
+<L>That I was borne with: and 'twere much unfit</L>
+<L>For the receiver of a benefit</L>
+<L>To offer for his owne ends, to prescribe</L>
+<L>Lawes to the givers pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Sweetly answer'd,</L>
+<L>And like your noble selfe. This your rare temper</L>
+<L>So winnes upon me, that I would not live</L>
+<L>(If that by honest Arts I can prevent it)</L>
+<L>To see your hopes made frustrate. And but think</L>
+<L>How you shall be transform'd from what you are,</L>
+<L>
+
+
+<PB REF="21"/>
+Should this (as heaven avert it) ever happen,</L>
+<L>It must disturbe your peace. For whereas now,</L>
+<L>Being as you are receiv'd for the Heire apparant,</L>
+<L>You are no sooner seene, but wondredat;</L>
+<L>The Signiors making it a businesse to</L>
+<L>Enquire how you have slep'd; and as you walke</L>
+<L>The streetes of Florence, the glad multitude</L>
+<L>In throngs presse but to see you, and with joy</L>
+<L>The Father, pointing with his finger, tells</L>
+<L>His sonne, This is the Prince, the hopefull Prince,</L>
+<L>That must hereafter rule, and you obey him.</L>
+<L>Great Ladies begge your picture, and make love</L>
+<L>To that, despairing to enjoy the substance.</L>
+<L>And but the last night, when't was onely rumor'd</L>
+<L>That you were come to Court (as if you had</L>
+<L>By Sea past hither from another world)</L>
+<L>What generall showts, and acclamations follow'd,</L>
+<L>The bells rung lowd, the boonfires blaz'd, and such</L>
+<L>As lov'd not wine, carrow sing to your health,</L>
+<L>Were drunk, and blush'd not at it. And is this</L>
+<L>A happinesse to part with?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I allow these</L>
+<L>As flourishes of Fortune, with which Princes</L>
+<L>Are often sooth'd, but never yet esteem'd 'em</L>
+<L>For reall blessings.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Yet all these were pay'd</L>
+<L>To what you may be, not to what you are,</L>
+<L>For if the great Duke but shew to his servants</L>
+<L>A sonne of his owne, you shall like one obscure</L>
+<L>Passe unregarded.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I confesse, command</L>
+<L>Is not to be contemn'd, and if my Fate</L>
+<L>Appoint me to it, as I may I'll beare it</L>
+<L>With willing shoulders. But my Lord as yet</L>
+<L>You have tolde me of a danger comming towards me,</L>
+<L>But have not nam'd it.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>That is soone deliver'd;</L>
+<L>Great Cozimo your Uncle, as I more</L>
+<L>
+
+
+<PB REF="21"/>
+Then guesse, for 'tis no frivolous circumstance</L>
+<L>That does perswade my judgement to beleeve it,</L>
+<L>Purposes to be married.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Married, Sir?</L>
+<L>With whom, and on what termes, pray you instruct me?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>With the faire Lidia.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Lidia?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>The daughter</L>
+<L>Of Signior Charomonte.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Pardon me</L>
+<L>Though I appeare incredulons, for on</L>
+<L>My knowledge he ne're saw her.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>That is granted;</L>
+<L>But Contarino hath so sung her praises,</L>
+<L>And giv'n her out for such a master-peece,</L>
+<L>That he's transported with it Sir. And love</L>
+<L>Steales sometimes through the care into the heart</L>
+<L>As well as by the eye. The Duke no sooner</L>
+<L>Heard her describ'd, but I was sent in post</L>
+<L>To see her, and returne my judgement of her.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>And what's your censure?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>'Tis a pretie creature.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>She's very faire.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Yes, yes, I have seene worse faces.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Her limbs are neatly form'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>She hath a waste</L>
+<L>Indeede siz'd to loves wish.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>A delicate hand too.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Then for a legge and foote.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>And there I leave you,</L>
+<L>For I presum'd no further.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>As she is Sir</L>
+<L>I know she wants no gracious part that may</L>
+<L>Allure the Duke, and if he onely see her</L>
+<L>She is his owne. He will not be deni'd,</L>
+<L>And then you are lost. Yet if you'll second me</L>
+<L>(As you haue reason, for it most concernes you)</L>
+<L>I can prevent all yet.</L>
+</SP>
+<SP>
+<PB REF="22"/>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I would you could</L>
+<L>A noble way.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>I will cry downe her beauties;</L>
+<L>Especially the beauties of her minde,</L>
+<L>As much as Contarino hath advanc'd 'em,</L>
+<L>And this I hope, will breed forgetfulnesse,</L>
+<L>And kill affection in him: but you must</L>
+<L>Joyne with me in my report, if you be question'd.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>I never told a lye yet, and I hold it</L>
+<L>In some degree blasphemous to dispraise</L>
+<L>What's worthy admiration. Yet for once</L>
+<L>I will dispraise a little, and not varie</L>
+<L>From your relation.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Be constant in it.</L>
+<STAGE>Enter Alphonso.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Alph.</SPEAKER>
+<L>My Lord, the Duke hath seen your man, &amp; wonders</L>
+<L>You come not to him. See if his desire</L>
+<L>To have cōference with you hath not brought</L>
+<STAGE>Ent. Cozimo, Contarino and Attendants.</STAGE>
+<L>Him hither in his owne person.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>They are comely coursers,</L>
+<L>And promise swiftnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>They are of my knowledge</L>
+<L>Of the best race in Naples.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You are Nephew,</L>
+<L>As I heare, an excellent horseman, and we like it.</L>
+<L>'Tis a faire grace in a Prince. Pray you make triall</L>
+<L>Of their strength and speed, and if you think them fit</L>
+<L>For your imployment, with a liberall hand</L>
+<L>Reward the Gentleman, that did present 'em</L>
+<L>From the Viceroy of Naples.</L>
+<STAGE>Exeunt Giovanni, Al∣phonso, Hippolito.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I will use</L>
+<L>My best endeyour Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Wayte on my Nephew.</L>
+<L>Nay stay you Contarino, be within call,</L>
+<L>It may be we shal use you. You have rode hard Sir,</L>
+<L>And we thank you for it. Every minute seemes</L>
+<L>Irksome, and tedious to us; till you have</L>
+<L>Made your discovery. Say friend, have you seene</L>
+<L>This Phaenix of our age?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>I have seene a Mayde Sir,</L>
+<L>
+
+
+<PB REF="22"/>
+But if that I have judgement, no such wonder</L>
+<L>As she was deliver'd to you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>This is strange.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>But certaine truth, it may be she was look'd on</L>
+<L>With admiration in the Country Sir,</L>
+<L>But if compar'd with many in your Court,</L>
+<L>She would appeare but ordinary.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Contarino</L>
+<L>Reports her otherwise.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Such as ne're saw Swannes,</L>
+<L>May think Crowes beautifull.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>How is her behaviour?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>'Tis like the place she lives in.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>How her wit,</L>
+<L>Discourse, and entertainment?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Very course,</L>
+<L>I would not willingly say poore, and rude,</L>
+<L>But had she all the beauties of faire women,</L>
+<L>The dulnesse of her soule would fright me from her.</L>
+</SP>
+<SP>
+<SPEAKER>Coz.</SPEAKER>
+<L>You are curious Sir, I know not what to think on't.</L>
+<L>Contarino!</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Where was thy judgement man</L>
+<L>To extoll a virgin, Sanazarro tells me</L>
+<L>Is neerer to deformity.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>I saw her,</L>
+<L>And curiously perus'd her, and I wonder</L>
+<L>That she that did appeare to me, that know</L>
+<L>What beauty is, not worthy the observing,</L>
+<L>Should so transport you.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Troth my Lord I thought then.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Thought? Didst thou not affirme it?</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>I confesse Sir</L>
+<L>I did beleeve so then, but now I heare</L>
+<L>My Lords opinion to the contrary,</L>
+<L>I am of another faith: for 'tis not fit</L>
+<L>That I should contradict him. I am dimme Sir,</L>
+<L>But he's sharpe sighted.</L>
+</SP>
+<SP>
+<PB REF="23"/>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>This is to my wish.</L>
+</SP>
+<SP>
+<SPEAKER>Cozi.</SPEAKER>
+<L>We know not what to think of this, yet would not</L>
+<L>Determine rashly of it. How doe you like</L>
+<STAGE>Enter Giovanni, Hippo. Lodovico.</STAGE>
+<L>My Nephewes horsemanship?</L>
+</SP>
+<SP>
+<SPEAKER>Hippolito.</SPEAKER>
+<L>In my judgement Sir</L>
+<L>It is exact and rare.</L>
+</SP>
+<SP>
+<SPEAKER>Alphonso.</SPEAKER>
+<L>And to my fancie</L>
+<L>He did present great Alexander mounted</L>
+<L>On his Bucephalus.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You are right Courtiers,</L>
+<L>And know it is your duty to cry up</L>
+<L>All actions of a Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Doe not betray</L>
+<STAGE>Aside to Giovanni.</STAGE>
+<L>Your selfe, you are safe, I have done my part.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I thanke you,</L>
+<L>Nor will I faile.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>What's your opinion Nephew</L>
+<L>Of the horses?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Two of them are in my judgement</L>
+<L>The best I ever back'd. I meane the roane Sir,</L>
+<L>And the browne bay: but for the chesnut colour'd,</L>
+<L>Though he be full of mettall, hot, and fierie,</L>
+<L>He treads weake in his pasternes.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>So, come neerer;</L>
+<L>This exercise hath put you into a sweat,</L>
+<L>Take this and dry it: and now I command you</L>
+<L>To tell me truly what's your censure of</L>
+<L>Charomontes daughter Lidia.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I am Sir</L>
+<L>A novice in my judgement of a Lady,</L>
+<L>But such as it is, your Grace shall heare it freely.</L>
+<L>I would not speake in of her, and am sorie</L>
+<L>If I keepe my selfe a friend to truth, I cannot</L>
+<L>Report her as I would, so much I owe</L>
+<L>Her reverend Father. But I'll give you Sir</L>
+<L>As neere as I can her character in little.</L>
+<L>She's of a goodly stature, and her limbs</L>
+<L>Not disproportion'd; for her face it is</L>
+<L>
+
+
+<PB REF="23"/>
+Farre from deformity, yet they flatter her</L>
+<L>That style it excellent: her manners are</L>
+<L>Simple and innocent: but her discourse</L>
+<L>And wit deserve my pittie, more then praise.</L>
+<L>At her best my Lord, she is a hansome picture,</L>
+<L>And that said, all is spoken.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>I beleeve you</L>
+<L>I ne're yet found you false.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Nor ever shall Sir.</L>
+<L>Forgive me matchlesse Lidia I too much love</L>
+<STAGE>Aside.</STAGE>
+<L>And jealous feare to lose thee, doe bompell me</L>
+<L>Against my will, my reason, and my knowledge</L>
+<L>To be a poore ditracter of that beauty,</L>
+<L>Which fluent Ovid, if he liv'd againe,</L>
+<L>Would want words to expresse.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Pray you make choyce of</L>
+<L>The richest of our furniture for those horses,</L>
+<STAGE>To Sanazarro.</STAGE>
+<L>And take my Nephew with you, we in this</L>
+<L>Will follow his directions.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Could I finde now</L>
+<L>The Princesse Fiorinda, and perswade her</L>
+<L>To be silent in the suit, that I mov'd to her</L>
+<L>All were secure.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>In that my Lord t'll ayde you.</L>
+</SP>
+<SP>
+<SPEAKER>Coz.</SPEAKER>
+<L>We wil be private, leave us. All my studies</L>
+<STAGE>Exeunt omnes.</STAGE>
+<L>And serious meditations ayme no further</L>
+<L>Then this young mans good. He was my sisters son,</L>
+<L>And she was such a sister when she liv'd</L>
+<L>I could not prize too much, nor can I better</L>
+<L>Make knowne how deere I hold her memory,</L>
+<L>Then in my cherishing the onely issue</L>
+<L>Which she hath left behind her Who's that?</L>
+<STAGE>Ent. Fiorinda.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>My faire charge, you are welcome to us.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I have found it Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>All things goe well in Urbin.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Your gracious care to me an Orphan, frees me</L>
+<L>From all suspition, that my jealous feares can drive into my fancie.</L>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>The next Summer</L>
+<L>In our owne person, we will bring you thither,</L>
+<L>And seat you in your owne.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>When you think fit Sir.</L>
+<L>But in the mean time, with your Highnesse pardon,</L>
+<L>I am a suitor to you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Name it Madame,</L>
+<L>With confidence to obtaine it.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>That you would please</L>
+<L>To lay a strict command on Charomonte,</L>
+<L>To bring his daughter Lidia to the Court,</L>
+<L>And pray you think Sir that 'tis not my purpose</L>
+<L>To imploy her as a servant, but to use her</L>
+<L>As a most wish'd companion.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Ha. Your reason?</L>
+</SP>
+<SP>
+<SPEAKER>Fiorin.</SPEAKER>
+<L>The hopefull Prince your Nephew Sir hath given her</L>
+<L>To me for such an abstract of perfection,</L>
+<L>In all that can be wish'd for in a virgin,</L>
+<L>As beauty, musique, ravishing discourse,</L>
+<L>Quicknesse of apprehension, with choyce manners</L>
+<L>And learning to, not usuall with women;</L>
+<L>That I am much ambitious (though I shall</L>
+<L>Appeare but as a foyle to set her off)</L>
+<L>To be from her instructed, and suppli'd</L>
+<L>In what I am defective.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Did my Nephew</L>
+<L>Seriously deliver this?</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I assure your Grace</L>
+<L>With zeale, and vehemencie, and even when</L>
+<L>With his best words he striv'd to set her forth</L>
+<L>(Though the rare subject made him eloquent)</L>
+<L>He would complaine, all he could say came short</L>
+<L>Of her deservings.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Pray you have patience.</L>
+<L>This was strangely caried. Ha! are we tristed with?</L>
+<L>Dare they doe this? is Cozimos furie, that</L>
+<L>Of late was terrible, growne contemptible?</L>
+<L>Well; we will cleare our browes, and undermine</L>
+<L>
+
+
+<PB REF="24"/>
+Their secret works, (though they have dig'd like Moles,)</L>
+<L>And crush'em with the tempest of my wrath</L>
+<L>When I appeare most calme. He is unfit</L>
+<L>To command others, that knowes not to use it,</L>
+<L>And with all rigour, yet my sterne lookes shall not</L>
+<L>Discover my intents, for I will strike</L>
+<L>When I begin to frowne. You are the Mistresse</L>
+<L>Of that you did demand.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I thank your Highnesse,</L>
+<L>But speed in the performance of the grant</L>
+<L>Doubles the favours Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You shall possesse it sooner then you expect,</L>
+<L>Onely be pleas'd to be ready when my Secretary</L>
+<L>Waites upon you, to take the fresh ayre. My Nephew!</L>
+<L>And my bosome friend so to cheat me, 'tis not faire!</L>
+<STAGE>Enter Giovanni, Sanazarro.</STAGE>
+</SP>
+<SP>
+<SPEAKER>San.</SPEAKER>
+<L>Where should this Princesse be? nor in her lodgings,</L>
+<L>Nor in the private walks, Her owne retreat</L>
+<L>Which she so much frequented?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>By my life</L>
+<L>She's with the Duke. And I much more then feare</L>
+<L>Her forwardnesse to prefer my suit, hath ruin'd</L>
+<L>What with such care we built up.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Have you furnish'd</L>
+<L>Those Coursers, as we will'd you?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>There's no signe</L>
+<L>Of anger in his lookes.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>They are compleat Sir. </L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>'Tis well. To your rest. Soft sleepes wayt on you Madame.</L>
+<L>Tomorrow with the rising of the Sunne</L>
+<L>Be ready to ride with us. They with more safety</L>
+<L>Had trod on fork-tongu'd Adders, thē provok'd me.</L>
+<STAGE>Ex. Coz.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I come not to be thank'd Sir for the speedy</L>
+<L>Performance of my promise touching Lidia,</L>
+<L>It is effected.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>We are undone.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>The Duke</L>
+<L>No sooner heard me with my best of language</L>
+<L>
+
+
+<PB REF="25"/>
+Describe her excellencies, as you taught me,</L>
+<L>But he confirm'd it. You looke sad, as if</L>
+<L>You wish'd it were undone.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>No gracious Madame,</L>
+<L>I am your servant for't.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Be you as carefull</L>
+<L>For what I mov'd to you. Count <HI>Sanazarro,</HI></L>
+<L>Now I perceive you honour me, in vouchsafing</L>
+<L>To weare so sleight a favour.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>'Tis a grace</L>
+<L>I am unworthy of.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>You merit more</L>
+<L>In prizing so a trifle. Take this Diamond,</L>
+<L>I'll second what I have begun. For know</L>
+<L>Your valour hath so woone upon me, that</L>
+<L>'Tis not to be resisted. I have said Sir,</L>
+<L>And leave you to interpret it.</L>
+<STAGE>Exit Fiorinda.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>This to me</L>
+<L>Is Wormewood. 'Tis apparant we are taken</L>
+<L>In our owne nooze. What's to be done?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I know not.</L>
+<L>And 'tis a punishment justly salne upon me</L>
+<L>For leaving truth, a constant Mistresse, that</L>
+<L>Ever protects her servants, to become</L>
+<L>A slave to lyes, and falshood. What excuse</L>
+<L>Can we make to the Duke? what mercy hope for,</L>
+<L>Our packing being laid open?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>'Tis not to</L>
+<L>Be question'd, but his purpos'd journey is</L>
+<L>To see faire Lidia.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>And to divert him</L>
+<L>Impossible.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>There's now no looking backward.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>And which way to goe on with safety not</L>
+<L>To be imagin'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Give me leave. I have</L>
+<L>An Embrion in my braine, which, I despaire not,</L>
+<L>May be brought to forme and fashion, provided</L>
+<L>
+
+
+<PB REF="25"/>
+You will be open breasted.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>'Tis no time now</L>
+<L>Our dangers being equall, to conceale</L>
+<L>A thought from you.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>What power hold you o're Lidia?</L>
+<L>Doe you think that with some hazard of her life</L>
+<L>She would prevent your ruine?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I presume so.</L>
+<L>If in the undertaking it, she stray not</L>
+<L>From what becomes her innocence, and to that</L>
+<L>'Tis farre from me to presse her, I my selfe</L>
+<L>Will rather suffer.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>'Tis enough, this night</L>
+<L>Write to her by your servant Calandrino</L>
+<L>As I shall give directions, my man</L>
+<STAGE>Enter Caland.</STAGE>
+<L>Shall beare him company. See Sir to my wish</L>
+<L>He does appeare, but much transform'd from what</L>
+<L>He was when he came hither.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>I confesse</L>
+<L>I am not very wise, and yet I finde</L>
+<L>A foole, so he be parcell knave in Court,</L>
+<L>May flourish and grow rich.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Calandrino.</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>Peace.</L>
+<L>I am in contemplation.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>Doe not you know me?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>I tell thee? no, on forfeit of my place,</L>
+<L>I must not know my selfe, much lesse my Father,</L>
+<L>But by Petition. That Petition lin'd too</L>
+<L>With golden birds, that sing to the tune of Profit,</L>
+<L>Or I am deafe.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>But you have your sense of feeling.</L>
+<STAGE>Offering to kick him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Nay pray you forbeare.</L>
+</SP>
+<SP>
+<SPEAKER>Calandri.</SPEAKER>
+<L>I have all that's requisite</L>
+<L>To the making up of a Signior. My spruce ruffe,</L>
+<L>My hooded cloake, long stockin, and pain'd hose,</L>
+<L>My Case of tooth-picks, and my silver forke,</L>
+<L>To convey an Olive neatly to my mouth,</L>
+<L>
+
+
+<PB REF="26"/>
+And what is all in all, my pockets ring</L>
+<L>A golden peale. O that the Pesants in the Country</L>
+<L>(My quondam fellowes) but saw me as I am,</L>
+<L>How they would admire and worship me!</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>As they shall,</L>
+<L>For instantly you must thither.</L>
+</SP>
+<SP>
+<SPEAKER>Calandri.</SPEAKER>
+<L>My grand Signior</L>
+<L>Vouchsafe a <HI>bezolus manus,</HI> and a cringe</L>
+<L>Of the last edition.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>You must ride post with Letters</L>
+<L>This night to Lidia.</L>
+</SP>
+<SP>
+<SPEAKER>Calandr.</SPEAKER>
+<L>And it please your Grace</L>
+<L>Shall I use my Coach, or foot-cloath Mule?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>You Whidgin,</L>
+<L>You are to make all speed, think not of pompe.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>Follow for your instructions Sirra.</L>
+</SP>
+<SP>
+<SPEAKER>Calandr.</SPEAKER>
+<L>I have one suit to you</L>
+<L>My good Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>What is't?</L>
+</SP>
+<SP>
+<SPEAKER>Calandr.</SPEAKER>
+<L>That you would give me</L>
+<L>A subtill Court charme, to defend me from</L>
+<L>Th infectious ayre of the Country.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>What's the reason?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Why, as this Court ayre taught me knavish wit,</L>
+<L>By which I am growne rich, if that againe</L>
+<L>Should turne me foole and honest; Vaine hopes farewell,</L>
+<L>For I must die a beggar.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Goe too Sirrha,</L>
+<L>You'll be whip'd for this.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>Leave fooling, and attend us.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<TRAILER>The end of the third Act.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus quarti Scaena prima.</HEAD>
+<LIST>
+<ITEM>Carolo Charomante</ITEM>
+<ITEM>Lidia.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>DAughter I have observ'd since the Prince left us</L>
+<L>(Whose absence I mourn with you, &amp; the visit</L>
+<L>Count Sanazarro gave us, you have nourish'd</L>
+<L>
+
+
+<PB REF="26"/>
+Sad and retired thoughts, and parted with</L>
+<L>That freedome, and alacrity of spirit</L>
+<L>With which you us'd to cheere me.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>For the Count, Sir,</L>
+<L>All thought of him does with his person die;</L>
+<L>But I confesse ingenuously I cannot</L>
+<L>So soone forget the choyce, and chast delights</L>
+<L>The curteous conversation of the Prince,</L>
+<L>And without staine I hope, afforded me</L>
+<L>When he made this house a Court.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>It is in us</L>
+<L>To keepe it so without him. Want we know not,</L>
+<L>And all we can complaine of (heaven be prais'd for)</L>
+<L>Is too much plenty, &amp; we will make use of</L>
+<STAGE>Ent. servants.</STAGE>
+<L>All lawfull pleasures. How now fellowes, when</L>
+<L>Shall we have this lusty dance?</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>In the after-noone Sir,</L>
+<L>'Tis a device Iwis of my owne making,</L>
+<L>And such a one, as shal make your Signiorship know</L>
+<L>I have not beene your Butlar for nothing, but</L>
+<L>I have crotchets in my head. We'll trip it titely,</L>
+<L>And make my sad young Mistresse merry againe,</L>
+<L>Or I'll forsware the Cellar.</L>
+</SP>
+<SP>
+<SPEAKER>Bernardo.</SPEAKER>
+<L>If we had</L>
+<L>Our fellow Calandrino here to dance</L>
+<L>His part, we were perfect.</L>
+</SP>
+<SP>
+<SPEAKER>Petruchia.</SPEAKER>
+<L>O, he was a rare fellow;</L>
+<L>But I feare the Court hath spoil'd him.</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>When I was young</L>
+<L>I could have cut a caper on a pinnacle,</L>
+<L>But now I am old &amp; wise, keepe your figure faire,</L>
+<L>And follow but the sample I shall set you,</L>
+<L>The Duke himselfe will send for us, and laugh at us,</L>
+<L>And that were credit.</L>
+<STAGE>Enter Calandrino.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Who have we here?</L>
+</SP>
+<SP>
+<SPEAKER>Calandrino.</SPEAKER>
+<L>I finde </L>
+<L>VVhat was brawne in the Country, in the Court growes tender.</L>
+<L>The bots on these joulting Jades, I am bruis'd to jelly.</L>
+<L>
+
+
+<PB REF="27"/>
+A Coach for my mony! and that the Curtezans know well,</L>
+<L>Their riding so, makes them last three yeares longer</L>
+<L>Then such as are hacknei'd.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Calandrino, 'tis he.</L>
+</SP>
+<SP>
+<SPEAKER>Calan.</SPEAKER>
+<L>Now to my postures. Let my hand have the honor</L>
+<L>To convey a kisse from my lips to the cover of</L>
+<L>Your foote deere Signior.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Fie, you stoope too low Sir. </L>
+</SP>
+<SP>
+<SPEAKER>Calan.</SPEAKER>
+<L>The hemme of your vestment Lady. Your Glove is for Princes,</L>
+<L>Nay, I have con'd my distances.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>'Tis most Courtly.</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>Fellow Calandrino!</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Signior de Caponi,</L>
+<L>Grand Botelier of the Mansion.</L>
+</SP>
+<SP>
+<SPEAKER>Bernardo.</SPEAKER>
+<L>How is't man?</L>
+<STAGE>Claps him on the shoulder.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Calan.</SPEAKER>
+<L>Be not so rustique in your salutations,</L>
+<L>Signior Bernardo, Master of the accounts.</L>
+<L>Signior Petruchio, may you long continue</L>
+<L>Your function in the chamber.</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>When shall we learne such gambolls in our villa?</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Sure he's mad.</L>
+</SP>
+<SP>
+<SPEAKER>Carol.</SPEAKER>
+<L>'Tis not unlike, for most of such mushroomes are so.</L>
+<L>What newes at Court?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Basto! they are mysteries,</L>
+<L>And not to be reveal'd. With your favour Signior,</L>
+<L>I am in private to conferre a while</L>
+<L>With this Signiora. But I'll pawne my honour,</L>
+<L>That neither my terse language, nor my habit</L>
+<L>How e're it may convince, nor my new shrugs,</L>
+<L>Shall render her enamour'd.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Take your pleasure</L>
+<L>A little of these apish tricks may passe,</L>
+<L>Too much is tedious.</L>
+<STAGE>Exit Carolo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Calandr.</SPEAKER>
+<L>The Prince in this paper</L>
+<L>Presents his service. Nay, it is not Courtly</L>
+<L>To see the seale broke open. So I leave you.</L>
+<L>Signiors of the Villa, I'll descend to be</L>
+<L>Familiar with you.</L>
+</SP>
+<SP>
+<PB REF="27"/>
+<SPEAKER>Caponi.</SPEAKER>
+<L>Have you forgot to dance?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>No, I am better'd.</L>
+</SP>
+<SP>
+<SPEAKER>Petruch.</SPEAKER>
+<L>Will you joyne with us?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>As I like the project.</L>
+<L>Let me warme my braines first with the richest Grape,</L>
+<L>And then I am for you.</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>We will want no wine.</L>
+<STAGE>Exeunt. Manet Lidia.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>That this comes onely from the best of Princes,</L>
+<L>With a kinde of adoration does command me</L>
+<L>To entertaine it, and the sweet contents</L>
+<STAGE>Kissing the letter.</STAGE>
+<L>That are inscrib'd here by his hand, must be</L>
+<L>Much more then musicall to me. All the service</L>
+<L>Of my life at no part can deserve this favour.</L>
+<L>O what a virgin longing I feele on me.</L>
+<L>To unrip the seale, and reade it, yet to breake</L>
+<L>What he hath fastned, rashly, may appeare</L>
+<L>A sawcie rudenesse in me. I must doe it,</L>
+<L>(Nor can I else learne his commands, or serve'em)</L>
+<L>But with such reverence, as I would open</L>
+<L>Some holy Writ, whose grave instructions beat downe</L>
+<L>Rebellious sinnes, and teach my better part</L>
+<L>How to mount upward. So, 'tis done, &amp; I</L>
+<STAGE>Opens the Letter.</STAGE>
+<L>With Eagles eyes wil curiously peruse it.</L>
+<STAGE>Reads the Letter.</STAGE>
+<L><HI>Chast Lidia: the favours are so great</HI></L>
+<L><HI>On me by you conferr'd, that to intreat</HI></L>
+<L><HI>The least addition to 'em, in true sense</HI></L>
+<L><HI>May argue me of blushlesse impudence.</HI></L>
+<L><HI>But such are my extreames, if you denie</HI></L>
+<L><HI>A farther grace, I must unpittied die.</HI></L>
+<L><HI>Hast cuts off circumstance; as you are admir'd</HI></L>
+<L><HI>for beauty, the report of it hath fir'd</HI></L>
+<L><HI>The Duke my Vncle, and I feare you'll prove,</HI></L>
+<L><HI>Not with a sacred, but unlawfull love.</HI></L>
+<L><HI>If he see you, as you are, my hop'd-for light</HI></L>
+<L><HI>Is chang'd into an everlasting night.</HI></L>
+<L><HI>How to prevent it, if your goodnesse finde</HI></L>
+<L><HI>You save two lives, and me you ever binde,</HI></L>
+<L>The honourer of your vertues, Giovanni.</L>
+<L>
+
+
+<PB REF="28"/>
+Were I more deafe then Adders, these sweet charmes</L>
+<L>Would through my eares finde passage to my soule,</L>
+<L>And soone inchant it: To save such a Prince</L>
+<L>VVho would not perish? Vertue in him must suffer,</L>
+<L>And piety be forgotten. The Dukes lust</L>
+<L>Though it rag'd more then Tarquins, shall not reach me.</L>
+<L>All quaint inventions of chast virgins ayde me!</L>
+<L>My prayers are heard, I have't. The Duke ne're saw me,</L>
+<L>Or if that faile, I am againe provided.</L>
+<STAGE>This spoke as if shee studied an evasion.</STAGE>
+<L>But for the servants! They wil take what forme</L>
+<L>I please to put upon them. Giovanni.</L>
+<L>Be safe, thy servant Lidia assures it.</L>
+<L>Let mountaines of afflictions fall on me,</L>
+<L>Their waight is easie, so I set thee free.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Actus quarti Scaena secunda.</HEAD>
+<LIST>
+<ITEM>Cozimo,</ITEM>
+<ITEM>Giovauni,</ITEM>
+<ITEM>Sanazarro,</ITEM>
+<ITEM>Carolo, Servants.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>ARe you not tyr'd with travaile Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>No, no,</L>
+<L>I am fresh and lustie.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>This day shall be ever</L>
+<L>A holy day to me, that brings my Prince</L>
+<L>Under my humble roofe.</L>
+<STAGE>Weepes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>See Sir, my good Tutor</L>
+<L>Sheds teares for joy.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Dry them up Charomonte,</L>
+<L>And all forbeare the roome, while we exchange</L>
+<L>Some private words together.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>O my Lord,</L>
+<L>How grosly have we overshot our selves!</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>In what Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>In forgetting to acquaint</L>
+<L>My Guardian with our purpose; all that Lidia</L>
+<L>Can doe, availes us nothing; if the Duke</L>
+<L>Finde out the truth from him.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>'Tis now pass'd helpe,</L>
+<STAGE>Excunt Giovan. Sanazar.</STAGE>
+<L>And we must stand the hazard, hope the best Sir?</L>
+</SP>
+<SP>
+<PB REF="28"/>
+<SPEAKER>Carolo.</SPEAKER>
+<L>My loyalty doubted Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>'Tis more. Thou hast</L>
+<L>Abus'd our trust, and in a high degree</L>
+<L>Committed treason.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Treason? 'tis a word</L>
+<L>My innocence understands not. VVere my breast</L>
+<L>Transparent, and my thoughts to be discern'd,</L>
+<L>Not one spot shall be found to taynt the candor</L>
+<L>Of my alleageance. And I must be bold</L>
+<L>To tell you Sir (for he that knowes no guilt</L>
+<L>Can know no feare) 'tis tyrannie to o're charge</L>
+<L>An honest man, and such till now I have liv'd,</L>
+<L>And such my Lord I'll die.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Sir, doe not flatter</L>
+<L>Your selfe with hope, these great &amp; glorious words</L>
+<L>Which every guilty wretch, as well as you</L>
+<L>That's arm'd with impudence, can with ease deliver,</L>
+<L>And with as full a mouth, can work on us?</L>
+<L>Nor shall gay flourishes of language cleare</L>
+<L>What is in fact apparent.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Fact? What fact?</L>
+<L>You that know onely, what it is, instruct me,</L>
+<L>For I am ignorant.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>This then Sir: we gave up</L>
+<L>(On our assurance of your faith and care,)</L>
+<L>Our Nephew Giovanni, nay, our heire</L>
+<L>In expectation, to be train'd up by you</L>
+<L>As did become a Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And I discharg'd it.</L>
+<L>Is this the treason?</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Take us with you Sir.</L>
+<L>And in respect we knew his Youth was prone</L>
+<L>To women, and that living in our Court</L>
+<L>He might make some unworthy choyce, before</L>
+<L>His weaker judgement was confirm'd, we did</L>
+<L>Remove him from it; constantly presuming</L>
+<L>You with your best endevours, rather would</L>
+<L>Have quench'd those heates in him, then light a Torch,</L>
+<L>
+
+
+<PB REF="29"/>
+As you have done to his loosenesse.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I? my travaile</L>
+<L>Is ill requited Sir, for by my soule</L>
+<L>I was so curious that way, that I granted</L>
+<L>Accesse to none could tempt him, nor did ever</L>
+<L>One syllable, or obscaene accent touch</L>
+<L>His care that might corrupt him.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>No? Why then</L>
+<L>With your allowance did you give free way</L>
+<L>To all familiar privacie, betweene</L>
+<L>My Nephew and your daughter? Or why did you</L>
+<L>(Had you no other ends in't but our service)</L>
+<L>Reade to 'em, and together (as they had beene</L>
+<L>Schollers of one forme) Grammar, Rhetorique,</L>
+<L>Philosophie, Storie, and interpret to 'em</L>
+<L>The close temptations of lascivious Poets?</L>
+<L>Or wherefore (for we still had spies upon you)</L>
+<L>Was she still present, when by your advice</L>
+<L>He was taught the use of his weapon, horsmanship,</L>
+<L>Wrastling, nay swimming, but to fan in her</L>
+<L>A hot desire of him? and then forsooth</L>
+<L>His exercises ended, cover'd with</L>
+<L>A faire pretence of recreation for him,</L>
+<L>When Lidia was instructed in those graces</L>
+<L>That add to beauty. He brought to admire her,</L>
+<L>Must heare her sing, while to her voyce, her hand</L>
+<L>Made ravishing Musick; and this applauded, dance</L>
+<L>A light Levalto with her.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Have you ended</L>
+<L>All you can charge me with?</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Nor stop'd you there,</L>
+<L>But they must unattended walke into</L>
+<L>The silent Groves, and heare the amorous birds</L>
+<L>Warbling their wanton notes, here a sure shade</L>
+<L>Of barren Sicamours: (which the all-seeing Sunne</L>
+<L>Could not pierce through) neere that an arbor hung</L>
+<L>With spreading Eglantine, there a bubling spring</L>
+<L>Watring a banke of Hyacinths, and Lillies,</L>
+<L>With all allurements, that could move to lust.</L>
+<L>
+
+
+<PB REF="29"/>
+And could this, Charomonte, (should I grant</L>
+<L>They had beene equalls both in birth and fortune)</L>
+<L>Become your gravity? Nay, 'tis cleare as ayre</L>
+<L>That your ambitious hopes to match your daughter</L>
+<L>Into our family, gave connivence to it;</L>
+<L>And this, though not in act, in the intent</L>
+<L>I call high treason.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Heare my just defence Sir,</L>
+<L>And though you are my Prince, it wil not take from</L>
+<L>Your Greatnesse to acknowledge with a blush,</L>
+<L>In this my accusation you have beene</L>
+<L>More sway'd by spleene, and jealous suppositions,</L>
+<L>Then certaine grounds of reason. You had a Father</L>
+<L>(Blest be his memory) that made frequent proofes</L>
+<L>Of my loyalty, and faith, and (would I boast</L>
+<L>The dangers I have broke through in his service)</L>
+<L>I could say more. Nay, you your selfe, dread Sir,</L>
+<L>VVhen ever I was put unto the test,</L>
+<L>Found me true gold, and not adulterate metall,</L>
+<L>And am I doubted now?</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>This is from the purpose.</L>
+</SP>
+<SP>
+<SPEAKER>Carol.</SPEAKER>
+<L>I wil come to it Sir, your Grace wel knew</L>
+<L>Before the Princes happy presence made</L>
+<L>My poore house rich, the chiefest blessings which</L>
+<L>I gloried in, (though now it prove a curse)</L>
+<L>Was an onely daughter. Nor did you command me,</L>
+<L>As a security to your future feares,</L>
+<L>To cast her off: which had you done, how e're</L>
+<L>She was the light of my eyes, and comfort of</L>
+<L>My feeble age; so farre I priz'd my duty</L>
+<L>Above affection, she now had beene</L>
+<L>A stranger to my care. But she is faire.</L>
+<L>Is that her fault, or mine? Did ever Father</L>
+<L>Hold beauty in his issue for a blemish?</L>
+<L>Her education and her manners tempt to.</L>
+<L>If these offend, they are easily remov'd,</L>
+<L>You may, if you think fit, before my face,</L>
+<L>In recompence of all my watchings for you,</L>
+<L>
+
+
+<PB REF="30"/>
+VVith burning corrafives transforme her to</L>
+<L>An ugly Leper; and this done to taint</L>
+<L>Her sweetnes, prostitute her to a loathsom brothel.</L>
+<L>This I will rather suffer Sir, and more,</L>
+<L>Then live suspected by you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Let not passion</L>
+<L>Carie you beyond your reason.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I am calme Sir,</L>
+<L>Yet you must give me leave to grieve, I finde</L>
+<L>My actions misinterpreted. Alas Sir,</L>
+<L>VVas Lidias desire to serve the Prince</L>
+<L>Call'd an offence? or did she practise to</L>
+<L>Seduce his youth, because with her best zeale</L>
+<L>And fervour she endevoured to attend him?</L>
+<L>'Tis a hard construction: though she be my daughter</L>
+<L>I may thus farre speake her. From her infancy</L>
+<L>She was ever civill, her behaviour neerer</L>
+<L>Simplicity then craft; and malice dares not</L>
+<L>Affirme in one loose gesture, or light language,</L>
+<L>She gave a signe she was in thought unchast:</L>
+<L>I'll fetch her to you Sir, and but looke on her</L>
+<L>VVith equall eyes, you must in justice grant</L>
+<L>That your suspition wrongs her.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>It may be,</L>
+<L>But I must have stronger assurance of it</L>
+<L>Then passionate words. And not to trifle time,</L>
+<L>As we came unexpected to your house,</L>
+<L>We will prevent all meanes that may prepare her</L>
+<L>How to answer that, with which we come to charge her.</L>
+<L>And how soever it may be receiv'd</L>
+<L>As a foule breach to hospitable rites,</L>
+<L>On thy alleageance, and boasted faith,</L>
+<L>Nay forfeit of thy head, we doe consine thee</L>
+<L>Close prisoner to thy Chamber, till all doubts</L>
+<L>Are clear'd that doe concerne us.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I obey Sir,</L>
+<L>And wish your Grace had followed my hearse</L>
+<L>To my Sepulchre, my loyalty unsuspected,</L>
+<L>
+
+
+<PB REF="30"/>
+Rather then now? but I am silent Sir,</L>
+<L>And let that speake my duty.</L>
+<STAGE>Exit Carolo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>If this man</L>
+<L>Be false, disguised treacherie ne're put on</L>
+<L>A shape so neere to truth. VVithin there.</L>
+<STAGE>Enter Giovan and Sanazar. ushering in Petronella. Caland. &amp; others setting sorth a banquet.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Bring Lidia forth.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>She comes Sir of her selfe</L>
+<L>To present her service to you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Ha. This personage</L>
+<L>Cannot invite affection.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>See you keepe State.</L>
+</SP>
+<SP>
+<SPEAKER>Petronella.</SPEAKER>
+<L>I warrant you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>The manners of her minde</L>
+<L>Must be transcendent, if they can defend</L>
+<L>Her rougher out-side; may we with your liking</L>
+<L>Salute you Lady?</L>
+</SP>
+<SP>
+<SPEAKER>Petronella.</SPEAKER>
+<L>Let me wipe my mouth Sir</L>
+<L>VVith my Cambrick handkercher, and then have at you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Can this be possible?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Yes sir, you will finde her</L>
+<L>Such as I gave her to you.</L>
+</SP>
+<SP>
+<SPEAKER>Petronella.</SPEAKER>
+<L>VVill your Dukeship</L>
+<L>Sit down and eat some Sugar-plum? here's a Castle</L>
+<L>Of March-Pane too, and this Quince Marmalade</L>
+<L>Was of my owne making. All summ'd up together</L>
+<L>Did cost the setting on, and here is wine too</L>
+<STAGE>Drinks all off.</STAGE>
+<L>As good as e're was tap'd. I'll be your taster,</L>
+<L>For I know the fashion, now you must doe me right Sir,</L>
+<L>You shall nor will, nor choose.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>She's very simple.</L>
+</SP>
+<SP>
+<SPEAKER>Cozi.</SPEAKER>
+<L>Simple, 'tis worse. Doe you drink this often Lady?</L>
+</SP>
+<SP>
+<SPEAKER>Petro.</SPEAKER>
+<L>Still when I am thirsty, and eate when I am hungry.</L>
+<L>Such Junkets come not every day. Once more to you,</L>
+<L>VVith a heart and a halfe ifaith.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Pray you pawse a little,</L>
+<L>If I hold your Cards, I shall pull downe the side,</L>
+<L>I am not good at the game.</L>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Petronella.</SPEAKER>
+<L>Then I'll drink for you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Nay, pray you stay. I'll finde you out a pledge</L>
+<L>That shall supply my place, what think you of</L>
+<L>This compleat Signior? You are a Juno, and in such state</L>
+<L>Must feast this Iupiter, what think you of him?</L>
+</SP>
+<SP>
+<SPEAKER>Petronella.</SPEAKER>
+<L>I desire no better.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>And you will undertake this service for me?</L>
+<L>You are good at the sport.</L>
+</SP>
+<SP>
+<SPEAKER>Calandr.</SPEAKER>
+<L>Who I? A pidler Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Nay, you shall sit inthroan'd, and eate, &amp; drink</L>
+<L>As you were a Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>If your Grace will have me,</L>
+<L>I'll eate and drink like an Emperour.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Take your place then,</L>
+<L>We are amaz'd.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni,</SPEAKER>
+<L>This is grosse. Nor can the imposture</L>
+<L>But be discover'd.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>The Duke is too sharpe sighted</L>
+<L>To be deluded thus.</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Nay, pray you eate faire,</L>
+<L>Or devide, and I will choose. Cannot you use</L>
+<L>Your fork as I doe? Gape and I will feed you.</L>
+<STAGE>Feedes her.</STAGE>
+<L>Gape wider yet, this is Court-like.</L>
+</SP>
+<SP>
+<SPEAKER>Petro.</SPEAKER>
+<L>To choke Dawes with,</L>
+<L>I like it not.</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>But you like this.</L>
+<STAGE>They drink.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petronel.</SPEAKER>
+<L>Let it come Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Cozi.</SPEAKER>
+<L>What a sight is this? we could be angry with you,</L>
+<L>How much you did belye her when you told us</L>
+<L>She was onely simple, this is barbarous rudenesse,</L>
+<L>Beyond beliefe.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>I would not speake her Sir</L>
+<L>Worse then she was.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>And I my Lord chose rather</L>
+<L>To deliver her better parted then she is,</L>
+<L>Then to take from her.</L>
+<STAGE>Enter Caponi.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>E're I'll loose my dance,</L>
+<L>I'll speake to the purpose. I am Sir no Prologue,</L>
+<L>
+
+
+<PB REF="31"/>
+But in plaine termes must tell you, we are provided</L>
+<L>Of a lusty Hornepipe.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Prethee let us have it,</L>
+<L>For we grow dull.</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>But to make up the medley,</L>
+<L>For it is of severall colours, for we must borrow</L>
+<L>Your Graces Ghost here.</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Pray you Sir depose me,</L>
+<L>It will not doe else. I am sir the engine</L>
+<STAGE>Rises and resignes his chaire.</STAGE>
+<L>By which it moves.</L>
+</SP>
+<SP>
+<SPEAKER>Petronel.</SPEAKER>
+<L>I will dance with my Duke too,</L>
+<L>I will not out.</L>
+</SP>
+<SP>
+<SPEAKER>Cozim.</SPEAKER>
+<L>Begin then. There's more in this</L>
+<STAGE>Dance</STAGE>
+<L>Then yet I have discover'd. Some Oedipus</L>
+<L>Resolve this riddle.</L>
+</SP>
+<SP>
+<SPEAKER>Petronel.</SPEAKER>
+<L>Did I not foot it roundly?</L>
+<STAGE>Falls downe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Coz.</SPEAKER>
+<L>As I live stark drunk. Away with her. We'll reward you.</L>
+<L>When you have cool'd your selves in the Cellar.</L>
+</SP>
+<SP>
+<SPEAKER>Caponi.</SPEAKER>
+<L>Heaven preserve you.</L>
+<STAGE>Exeunt dancers.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>We pitty Charomonte's wretched fortune.</L>
+<L>In a daughter, nay, a monster. Good old man!</L>
+<L>The place growes tedious. Our remove shall be</L>
+<L>With speed. We'll onely in a word or two</L>
+<L>Take leave and comfort him.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>'Twill rather Sir</L>
+<L>Encrease his sorrow, that you know his shame,</L>
+<L>Your Grace may doe it by Letter.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Who sign'd you</L>
+<L>A Pattent to direct us? Waite our comming</L>
+<L>In the Garden.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>All will out.</L>
+</SP>
+<SP>
+<SPEAKER>Sanaz.</SPEAKER>
+<L>I more then feare it.</L>
+<STAGE>Exeunt Giovan. &amp; Sanazar.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Coz</SPEAKER>
+<L>These are strange Chimeras to us! what to judge of't</L>
+<L>Is past our apprehension! One command</L>
+<L>Charomonte to attend us. Can it be</L>
+<STAGE>Exit servant.</STAGE>
+<L>That Contarino could be so besotted</L>
+<L>As to admire this prodigie! or her Father</L>
+<L>To dote upon it! or does she personate</L>
+<L>
+
+
+<PB REF="32"/>
+For some ends unknowne to us, this rude behaviour</L>
+<L>Within the Scaene presented, would appeare</L>
+<L>Ridiculous and impossible. O you are welcome.</L>
+<STAGE>Ent. Carol.</STAGE>
+<L>We now acknowledge the much wrong we did you</L>
+<L>In our unjust suspition. We have seene</L>
+<L>The wonder Sir, your daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And have found her</L>
+<L>Such as I did report her. What she wanted</L>
+<L>In Courtship, was I hope suppli'd in civill</L>
+<L>And modest entertainment.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Pray you tell us,</L>
+<L>And truly we command you, Did you never</L>
+<L>Observe she was given to drink?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>To drink Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Yes. Nay more, to be drunk.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I had rather see her buried.</L>
+</SP>
+<SP>
+<SPEAKER>Cozi.</SPEAKER>
+<L>Dare you trust your own eyes, if you finde her now</L>
+<L>More then distemper'd?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>I will pull them out Sir,</L>
+<L>If your Grace can make this good. And if you please</L>
+<L>To grant me liberty, as she is I'll fetch her,</L>
+<L>And in a moment.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Looke you doe, and faile not,</L>
+<L>On the perill of your head.</L>
+</SP>
+<SP>
+<SPEAKER>Carol.</SPEAKER>
+<L>Drunk. She disdaines it.</L>
+<STAGE>Exit Carolo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Such contrarieties were never reade of.</L>
+<L>Charomonte is no foole, nor can I think</L>
+<L>His confidence built on sand. We are abus'd,</L>
+<L>'Tis too apparent.</L>
+<STAGE>Enter Carolo and Lidia.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>I am indispos'd Sir,</L>
+<L>And that life you tender'd once, much indanger'd</L>
+<L>In forcing me from my Chamber.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Here she is Sir,</L>
+<L>Suddainly sick I grant, but sure not drunk,</L>
+<L>Speake to my Lord the Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>All is discover'd.</L>
+<STAGE>Kneeles.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Is this your onely daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And my heire Sir,</L>
+<L>
+
+
+<PB REF="32"/>
+Nor keepe I any woman in my house</L>
+<L>(Unlesse for sordid offices) but one,</L>
+<L>I doe maintaine trimm'd up in her cast habits,</L>
+<L>To make her sport. And she indeede loves wine,</L>
+<L>And wil take too much of it. And perhaps for mirth</L>
+<L>She was presented to you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>It shall yeeld</L>
+<L>No sport to the contrivers, 'tis too plaine now</L>
+<L>Her presence does confirme what Contorino</L>
+<L>Deliver'd of her, nor can sicknesse dimme</L>
+<L>The splendor of her beauties, being her selfe then</L>
+<L>She must exceede his praise.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Will your Grace heare me?</L>
+<L>I am faint and can say little.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Here are accents,</L>
+<L>Whose every syllable is musicall!</L>
+<L>Pray you let me raise you, and a while rest here!</L>
+<L>False Sanazarro, trecherous Giovanni;</L>
+<L>But stand we talking?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Here's a storme soone rais'd.</L>
+</SP>
+<SP>
+<SPEAKER>Coz.</SPEAKER>
+<L>As thou art our Subject, Charomonte, sweare</L>
+<L>To act what we command.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>That is an oath</L>
+<L>I long since tooke.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Then by that oath we charge thee</L>
+<L>Without excuse, deniall, or delay</L>
+<L>To apprehend, and suddainly, Sanazarro,</L>
+<L>And our Ingratefull Nephew. We have said it.</L>
+<L>Doe it without reply, or we pronounce thee,</L>
+<L>Like them, a traytor to us. See them guarded</L>
+<L>In severall lodgings, and forbid accesse</L>
+<L>To all, but when we warrant, Is our will</L>
+<L>Heard, sooner then obay'd?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>These are strange turnes,</L>
+<L>But I must not dispute 'em.</L>
+<STAGE>Exit Carolo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Be severe in't.</L>
+<L>O my abused lenity I from what height</L>
+<L>Is my power falne?</L>
+</SP>
+<SP>
+<PB REF="33"/>
+<SPEAKER>Lidia.</SPEAKER>
+<L>O me most miserable!</L>
+<L>That being innocent, make others guilty.</L>
+<L>Most gracious Prince!</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Pray you rise, and then speake to me.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>My knees shal first be rooted in this earth,</L>
+<L>And Mirrha like I'll grow up to a tree,</L>
+<L>Dropping perpetuall teares of sorrow, which</L>
+<L>Hardned by the rough winde, and turn'd to amber,</L>
+<L>Unfortunate virgins like my selfe shall weare,</L>
+<L>Before I'll make Petition to your Greatnesse</L>
+<L>But with such reverence, my hands held up thus,</L>
+<L>As I would doe to heaven. You Princes are</L>
+<L>As gods on earth to us, and to be su'd too</L>
+<L>With such humility, as his Deputies</L>
+<L>May chalenge from their vassalls.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Here's that forme</L>
+<L>Of language I expected; pray you speake,</L>
+<L>What is your suit?</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>That you would looke upon me</L>
+<L>As an humble thing, that millions of degrees</L>
+<L>Is plac'd beneath you. For what am I dread sir?</L>
+<L>Or what can fall in the whole course of my life,</L>
+<L>That may be worth your care, much lesse your trouble?</L>
+<L>As the lowly shrub is to the lofty Cedar,</L>
+<L>Or a molehill to Olympus, if compar'd,</L>
+<L>I am to you Sir. Or suppose the Prince,</L>
+<L>(Which cannot finde beliefe in me,) forgetting</L>
+<L>The greatnesse of his birth and hopes, hath throwne</L>
+<L>An eye of favour on me, in me punnish,</L>
+<L>(That am the cause) the rashnesse of his youth.</L>
+<L>Shall the Queene of the inhabitants of the ayre,</L>
+<L>The Eagle that beares thunder on her wings,</L>
+<L>In her angry mood destroy her hopefull young,</L>
+<L>For suff'ring a Wren to perch too neere 'em?</L>
+<L>Such is our disproportion.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>With what fervour</L>
+<L>She pleades against her selfe!</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>For me poore Mayde,</L>
+<L>I know the Prince to be so farre above me,</L>
+<L>
+
+
+<PB REF="33"/>
+That my wishes cannot reach him. Yet I am</L>
+<L>So much his creature, that to fix him in</L>
+<L>Your wonted grace and favour, I'll abjure</L>
+<L>His sight for ever, and betake my selfe</L>
+<L>To a religious life (where in my prayers</L>
+<L>I may remember him) and ne're see man more</L>
+<L>But my ghostly father. Will you trust me Sir?</L>
+<L>In truth I'll keepe my word? or if this faile,</L>
+<L>A little more of feare what may befall him,</L>
+<L>Will stop my breath for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Had you thus argu'd</L>
+<STAGE>Raises her.</STAGE>
+<L>As you were your selfe, and brought as advocates</L>
+<L>Your health and beauty, to make way for you.</L>
+<L>No crime of his could put on such a shape,</L>
+<L>But I should looke with the eyes of mercy on it.</L>
+<L>What would I give to see this diamond</L>
+<L>In her perfect lustre, as she was before</L>
+<L>The clouds of sicknesse dimm'd it! yet take comfort,</L>
+<L>And as you would obtaine remission for</L>
+<L>His trecherie to me, cheere your drooping spirits,</L>
+<L>And call the blood againe into your cheekes,</L>
+<L>And then pleade for him. And in such a habit</L>
+<L>As in your highest hopes you would put on,</L>
+<L>If we were to receive you for our Bride.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>I'll doe my best Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>And that best will be</L>
+<L>A crowne of all felicity to me.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<TRAILER>The end of the fourth Act.</TRAILER>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus quinti Scaena prima.</HEAD>
+<SP>
+<STAGE>Sanazarro above.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>TIs prov'd in me, the curse of humane frailty</L>
+<L>(Adding to our afflictions) makes us know</L>
+<L>What's good, and yet our violent passions force us</L>
+<L>To follow what is ill. Reason assur'd me</L>
+<L>It was not safe to shave a Lyons skinne,</L>
+<L>And that to trifle with a Soveraigne, was</L>
+<PB REF="34"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="34"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<L>
+
+
+<PB REF="35"/>
+To play with lightning: yet imperious beauty</L>
+<L>Treading upon the neck of understanding,</L>
+<L>Compell'd me to put off my naturall shape</L>
+<L>Of loyall duty, to disguise my selfe</L>
+<L>In the adulterate, and cobweb masque</L>
+<L>Of disobedient trecherie. Where is now</L>
+<L>My borrowed Greatnesse? or the promis'd lives</L>
+<L>Of following Courtiers ecchoing my will?</L>
+<L>In a moment vanish'd? Power that stands not on</L>
+<L>Its proper base, which is peculiar onely</L>
+<L>To absolute Princes, falls, or rises, with</L>
+<L>Their frowne, or favour. The great Duke my Master</L>
+<L>(Who almost chang'd me to his other selfe)</L>
+<L>No sooner takes his beames of comfort from me,</L>
+<L>But I as one unknowne, or unregarded,</L>
+<L>Unpittied suffer! who makes intercession</L>
+<L>To his mercy for me now? who does remember</L>
+<L>The service I have done him? not a man;</L>
+<L>And such as spake no language, but my Lord,</L>
+<L>The favorite of Tuskanies grand Duke</L>
+<STAGE>Looke backwards.</STAGE>
+<L>Deride my madnesse. Ha! What noise of horses?</L>
+<L>A goodly troope! This back-part of my prison</L>
+<L>Allowes me liberty to see and know them.</L>
+<L>Contarino! Yes, 'tis he, and Lodovico;</L>
+<L>And the Dutchesse Fiorinda; Urbins heire,</L>
+<L>A Princesse I have slighted; yet I weare</L>
+<L>Her favours. And to teach me what I am,</L>
+<L>She whom I scorn'd can onely meditate for me.</L>
+<L>This way she makes, yet speake to her I dare not,</L>
+<L>And how to make suit to her, is a taske</L>
+<L>Of as much difficulty; yes; thou blessed pledge</L>
+<STAGE>Takes off the ring, &amp; a pane of glasse.</STAGE>
+<L>Of her affectionayde me. This supplies</L>
+<L>The want of penne and ink, and this of paper.</L>
+<L>It must be so, and I in my Petition</L>
+<L>Concise and pithie.</L>
+</SP>
+<SP>
+<STAGE>Enter Contarine leading in Fiorinda, Alphonso, Lodovico, Hieronimo, Calaminta.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>'Tis a goodly pile this.</L>
+</SP>
+<SP>
+<PB REF="35"/>
+<SPEAKER>Hieroni.</SPEAKER>
+<L>But better by the owner.</L>
+</SP>
+<SP>
+<SPEAKER>Alphonso.</SPEAKER>
+<L>But most rich</L>
+<L>In the great States it covers.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>The Dukes pleasure</L>
+<L>Commands us hither.</L>
+</SP>
+<SP>
+<SPEAKER>Contari.</SPEAKER>
+<L>Which was laid on us</L>
+<L>To attend you to it.</L>
+</SP>
+<SP>
+<SPEAKER>Lodovico.</SPEAKER>
+<L>Signior Charomonte,</L>
+<L>To see your Excellence his guest, will think</L>
+<L>Himselfe most happy.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Tye my shooe. What's that?</L>
+<STAGE>The pane thrown down.</STAGE>
+<L>A pane throwne from the window no winde stirring?</L>
+</SP>
+<SP>
+<SPEAKER>Calam.</SPEAKER>
+<L>And at your feet too falne, there's somthing writ on't.</L>
+</SP>
+<SP>
+<SPEAKER>Con.</SPEAKER>
+<L>Some Courtier belike would have it known </L>
+<L>He wore a Diamond.</L>
+</SP>
+<SP>
+<SPEAKER>Calaminta.</SPEAKER>
+<L>Ha; it is directed:</L>
+<L>To the Princesse Fiorinda.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>We will reade it.</L>
+<LG>
+<HEAD>The inscription.</HEAD>
+<L>He whom you pleas'd to favour, is cast downe,</L>
+<L>Past hope of rising, by the great Dukes frowne,</L>
+<L>If by your gracious meanes, he cannot have</L>
+<L>A pardon. And that got, be lives your slave.</L>
+</LG>
+<LG>
+<HEAD>The subscription.</HEAD>
+<L>Of men the most distressed, <HI>Sanazarro.</HI></L>
+<L>Of me the most belov'd, and I will save thee,</L>
+<L>Or perish with thee. Sure thy fault must be</L>
+<L>Of some prodigious shape, if that my prayers</L>
+<L>And humble intercession to the Duke</L>
+<L>Prevaile not with him. Here he comes, delay</L>
+<L>Shall not make lesse my benefit.</L>
+</LG>
+<STAGE>Ent. Coz. &amp; Carolo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>What we purpose</L>
+<L>Shall know no change, and therefore move me not,</L>
+<L>We were made as properties, and what we shall</L>
+<L>Determine of'em, cannot be call'd rigour,</L>
+<L>But noble justice. When they prov'd disloyall,</L>
+<L>They were cruell to themselves. The Prince that pardons</L>
+<L>The first affront offer'd to majestie,</L>
+<L>
+
+
+<PB REF="36"/>
+Invites a second, rend'ring that power</L>
+<L>Subjects should tremble at, contemptible.</L>
+<L>Ingratitude is a monster, Carolo,</L>
+<L>To be strangl'd in the birth, not to be cherish'd.</L>
+<L>Madame, you are happily met with.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Sir, I am</L>
+<L>An humble Suitor to you; and the rather</L>
+<L>Am confident of a grant, in that your Grace</L>
+<L>When I made choyce to be at your devotion,</L>
+<L>Vow'd to denie me nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>To this minute</L>
+<L>We have confirm'd it, what's your boone?</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>It is Sir,</L>
+<L>That you in being gracious to your servant,</L>
+<L>The ne're sufficiently prais'd Sanazarro,</L>
+<L>(That now under your heavy displeasure suffers)</L>
+<L>Would be good unto yourselfe. His services</L>
+<L>So many, and so great (your storme of fury</L>
+<L>Calm'd by your better judgment) must inform you,</L>
+<L>Some little slip (for sure it is no more)</L>
+<L>From his loyall duty, with your justice cannot</L>
+<L>Make foule his faire deservings. Great Sir, therefore</L>
+<L>Looke backward on his former worth; and turning</L>
+<L>Your eye from his offence (what'tis I know not)</L>
+<L>And I am confident, you will receive him</L>
+<L>Once more into your favour.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You say well,</L>
+<L>You are ignorant in the nature of his fault,</L>
+<L>Which when you understand (as we'll instruct you)</L>
+<L>Your pitty will appeare a charity</L>
+<L>(It being conferr'd on an unthankfull man)</L>
+<L>To be repented. He's a traytor Madame</L>
+<L>To you, to us, to gratitude, and in that</L>
+<L>All crimes are comprehended.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>If his offence</L>
+<L>Aym'd at me onely, what so e're it is</L>
+<L>'Tis freely pardon'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>This compassion in you</L>
+<L>
+
+
+<PB REF="36"/>
+Must make the colour of his guilt more ugly:</L>
+<L>The honors we have hourely heap'd upon him,</L>
+<L>The titles, the rewards, to the envie of</L>
+<L>The old Nobility, as the common people,</L>
+<L>We now forbeare to touch at, and will onely</L>
+<L>Insist on his grosse wrongs to you. You were pleas'd</L>
+<L>Forgetting both your selfe and proper Greatnesse,</L>
+<L>To favour him, nay, to court him to embrace</L>
+<L>A happinesse, which on his knees with joy</L>
+<L>He should have su'd for. Who repin'd not at</L>
+<L>The grace you did him? yet in recompence</L>
+<L>Of your large bounties, the disloyall wretch</L>
+<L>Makes you a stale; and what he might be by you</L>
+<L>Scorn'd, and derided, gives himselfe up wholly</L>
+<L>To the service of another. If you can</L>
+<L>Beare this with patience, we must say you have not</L>
+<L>The bitternesse of spleene, or irefull passions</L>
+<L>Familiar to women. Pause upon it,</L>
+<L>And when you seriously have waigh'd his cariage,</L>
+<L>Move us againe, if your reason will allow it,</L>
+<L>His trechery knowne: and then if you continue</L>
+<L>His advocate for him, we perhaps, because</L>
+<L>We would denie you nothing, may awake</L>
+<L>Our sleeping mercy. Carolo!</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>My Lord.</L>
+<STAGE>They whisper.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fiorin.</SPEAKER>
+<L>To endure a rivall, that were equall to me,</L>
+<L>Cannot but speake my poverty of spirit,</L>
+<L>But an inferiour more; yet true love must not</L>
+<L>Know, or degrees, or distances. Lidia may be</L>
+<L>As farre above me in her forme, as she</L>
+<L>Is in her birth beneath me, and what I</L>
+<L>In Sanazarro lik'd, he loves in her.</L>
+<L>But if I free him now, the benefit</L>
+<L>Being done so timely, and confirming too</L>
+<L>My strength &amp; power, my soules best faculties being</L>
+<L>Bent wholly to preserve him, must supply me</L>
+<L>With all I am defective, and binde him</L>
+<L>My creature ever. It must needes be so,</L>
+<L>
+
+
+<PB REF="37"/>
+Nor will I give it o're thus.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Does our Nephew</L>
+<L>Beare his restraint so constantly, as you</L>
+<L>Deliver it to us?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>In my judgement Sir</L>
+<L>He suffers more for his offence to you,</L>
+<L>Then in his feare of what can follow it.</L>
+<L>For he is so collected and prepar'd</L>
+<L>To welcome that, you shall determine of him,</L>
+<L>As if his doubts and feares were equall to him.</L>
+<L>And sure he's not acquainted with much guilt,</L>
+<L>That more laments the telling one untruth</L>
+<L>Under your pardon still (for 'twas a fault Sir)</L>
+<L>Then others that pretend to conscience, doe</L>
+<L>Their crying secret sinnes.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>No more, this Glosse</L>
+<L>Defends not the corruption of the text,</L>
+<L>Urge it no more.</L>
+<STAGE>Carolo and the others whisper.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I once more must make bold Sir</L>
+<L>To trench upon your patience. I have</L>
+<L>Consider'd my wrongs duly. Yet that cannot</L>
+<L>Divert my intercession for a man</L>
+<L>Your Grace like me, once favour'd. I am still</L>
+<L>A suppliant to you, that you would vouchsafe</L>
+<L>The hearing his defence, and that I may</L>
+<L>With your allowance see, and comfort him.</L>
+<L>Then having heard all that he can alleadge</L>
+<L>In his excuse, for being false to you,</L>
+<L>Censure him as you please.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You will o're-come,</L>
+<L>There's no contending with you. Pray you enjoy</L>
+<L>What you desire. And tell him, he shall have</L>
+<L>A speedy tryall. In which we'll forbeare</L>
+<L>To sit a Judge, because our purpose is</L>
+<L>To rise up his accuser.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>All encrease</L>
+<L>Ofhappines wait on Cozimo.</L>
+<STAGE>Exeunt Fiorin. Calaminta.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Alphonso.</SPEAKER>
+<L>VVas it no more?</L>
+</SP>
+<SP>
+<PB REF="37"/>
+<SPEAKER>Carolo.</SPEAKER>
+<L>My Honor's pawn'd for it.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>I'll second you.</L>
+</SP>
+<SP>
+<SPEAKER>Lodovi.</SPEAKER>
+<L>Since it is for the service and the safety</L>
+<L>Of the hopefull Prince, fall what can fall, I'll runne</L>
+<L>The desperate hazard.</L>
+</SP>
+<SP>
+<SPEAKER>Hieroni.</SPEAKER>
+<L>He's no friend to vertue</L>
+<L>That does decline it.</L>
+<STAGE>They all knocle.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Ha; what sue you for?</L>
+<L>Shall we be ever troubl'd? doe not tempt</L>
+<L>That anger may consume you.</L>
+</SP>
+<SP>
+<SPEAKER>Corolo.</SPEAKER>
+<L>Let it Sir,</L>
+<L>The losse is lesse, though Innocents, we perish,</L>
+<L>Then that your sisters sonne should fall unheard</L>
+<L>Under your fury. Shall we feare to entreate</L>
+<L>That grace for him, that are your faithfull servants,</L>
+<L>VVhich you vouchsafe the Count, like us a subject?</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Did not we vowe, till sicknesse had forsooke</L>
+<L>Thy daughter Lidia, and she appear'd</L>
+<L>In her perfect health and beauty to pleade for him,</L>
+<L>VVe were deafe to all perswasion?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And that hope Sir</L>
+<L>Hath wrought a miracle. She is recover'd,</L>
+<L>And if you please to warrant her, will bring</L>
+<L>The penitent Prince before you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>To enjoy</L>
+<L>Such happines, what would we not dispense with?</L>
+</SP>
+<SP>
+<SPEAKER>Al., Ludo. and Hie.</SPEAKER>
+<L>We all kneele for the Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>Nor can it stand</L>
+<L>With your mercy, that are gracious to Strangers,</L>
+<L>To be cruell to your owne.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>But art thou certaine</L>
+<L>I shall behold her at the best?</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>If ever</L>
+<L>She was hansome, as it fits not me to say so,</L>
+<L>She is now much better'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Rise, thou art but dead</L>
+<L>If this prove otherwise. Lidia appeare,</L>
+<L>And feast an appetite almost pin'd to death</L>
+<L>
+
+
+<PB REF="38"/>
+With longing expectation to behold</L>
+<L>Thy excellencies; thou as beauties Queene</L>
+<L>Shalt censure the detractors. Let my Nephew</L>
+<L>Be led in triumph under her command,</L>
+<L>We'll have it so; and Sanazarro tremble</L>
+<L>To think whom he hath slander'd; we'll retire</L>
+<L>Our selves a little, and prepare to meete</L>
+<L>A blessing, which imagination tells us</L>
+<L>We are not worthy of; and then come forth</L>
+<L>But with such reverence, as if I were</L>
+<L>(My selfe the Priest, the sacrifice my heart)</L>
+<L>To offer at the Altar of that goodnesse</L>
+<L>That must or kill or save me.</L>
+<STAGE>Exit Cozimo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>Are not these</L>
+<L>Strange gambols in the Duke?</L>
+</SP>
+<SP>
+<SPEAKER>Alphonso.</SPEAKER>
+<L>Great Princes have</L>
+<L>Like meaner men their weaknesse.</L>
+</SP>
+<SP>
+<SPEAKER>Lodovico.</SPEAKER>
+<L>And may use it</L>
+<L>Without controule or check.</L>
+</SP>
+<SP>
+<SPEAKER>Contarino.</SPEAKER>
+<L>'Tis fit they should,</L>
+<L>Their priviledge were lesse else, then their Subjects.</L>
+</SP>
+<SP>
+<SPEAKER>Hier.</SPEAKER>
+<L>Let them have their humors, there's no crossing 'em.</L>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Actus quinti Scaena ultima.</HEAD>
+<LIST>
+<ITEM>Fiorinda,</ITEM>
+<ITEM>Sanazarro,</ITEM>
+<ITEM>Calaminta.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>ANd can it be your bounties should fall down</L>
+<L>In showers on my ingratitude? or the wrongs</L>
+<L>Your Greatnesse should revenge, teach you to pittie?</L>
+<L>What retribution can I make? what service</L>
+<L>Pay to your goodnesse, that in some proportion</L>
+<L>May to the world expresse, I would be thankfull?</L>
+<L>Since my engagements are so great, that all</L>
+<L>My best endevours to appeare your creature</L>
+<L>Can but proclaime my wants, and what I owe</L>
+<L>To your magnificence.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>All debts are discharg'd</L>
+<L>
+
+
+<PB REF="38"/>
+In this acknowledgement: yet since you please</L>
+<L>I shall impose some termes of satisfaction</L>
+<L>For that which you professe your selfe oblig'd for,</L>
+<L>They shall be gentle ones, and such as will not</L>
+<L>I hope afflict you.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>Make me understand</L>
+<L>Great Princesse, what they are, and my obedience</L>
+<L>Shall with all cheerefull willingnesse subscribe</L>
+<L>To what you shall command.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I will binde you to</L>
+<L>Make good your promise. First, I then enjoyne you</L>
+<L>To love a Lady, that a Noble way</L>
+<L>Truly affects you, and that you would take</L>
+<L>To your protection and care the Dukedome</L>
+<L>Of Urbin, which no more is mine, but yours.</L>
+<L>And that when you have full possession of</L>
+<L>My person, as my fortunes, you would use me</L>
+<L>Not as a Princesse, but instruct me in</L>
+<L>The duties of an humble wife, for such</L>
+<L>(The priviledge of my birth no more remembred)</L>
+<L>I will be to you. This consented to</L>
+<L>All injuries forgotten, on your lips</L>
+<L>I thus signe your quietus.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>I am wretched</L>
+<L>In having but one life to be imploy'd</L>
+<L>As you please to dispose it. And believe it,</L>
+<L>If it be not already forfeited</L>
+<L>To the furie of my Prince, as 'tis your gift,</L>
+<L>With all the faculties of my soule, I'll study</L>
+<L>In what I may to serve you.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I am happy</L>
+<STAGE>Enter Glovauni and Lidia.</STAGE>
+<L>In this assurance. What</L>
+<L>Sweet Lady's this?</L>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>'Tis Lidia Madame, she. —</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>I understand you:</L>
+<L>Nay, blush not, by my life she is a rare one!</L>
+<L>And if I were your Judge I would not blame you,</L>
+<L>To like and love her. But Sir you are mine now,</L>
+<L>
+
+
+<PB REF="39"/>
+And I presume so on your constancie,</L>
+<L>That I dare not be jealous.</L>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>All thoughts of her</L>
+<L>Are in your goodnesse buried.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Pray you Sir</L>
+<L>Be comforted, your innocence should not know</L>
+<L>What 'tis to feare, and if that you but looke on</L>
+<L>The guards that you have in your selfe, you cannot.</L>
+<L>The Duke's your Uncle Sir, and though a little</L>
+<L>Incens'd against you, when he sees your sorrow</L>
+<L>He must be reconcil'd. What rugged Tartar,</L>
+<L>Or Canniball, though bath'd in humane gore,</L>
+<L>But looking on your sweetnesse, would forget</L>
+<L>His cruell nature, and let fall his weapon,</L>
+<L>Though then aym'd at your throat?</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>O Lidia,</L>
+<L>Of Mayds the honor, and your sexes glory.</L>
+<L>It is not feare to die, but to loose you</L>
+<L>That brings this Feaver on me. I will now</L>
+<L>Discover to you, that which till this minute</L>
+<L>I durst not trust the ayre with. Ere you knew</L>
+<L>What power the magique of your beauty had,</L>
+<L>I was inchanted by it, lik'd, and lov'd it,</L>
+<L>My fondnesse still encreasing with my yeares:</L>
+<L>And flatter'd by false hopes, I did attend</L>
+<L>Some blessed oportunity to move</L>
+<L>The Duke with his consent to make you mine.</L>
+<L>But now, such is my starre-cross'd destinie,</L>
+<L>When he beholds you as you are, he cannot</L>
+<L>Denie himselfe the happinesse to enjoy you.</L>
+<L>And I as well in reason may entreat him</L>
+<L>To give away his Crowne, as to part from</L>
+<L>A jewell of more value, such you are:</L>
+<L>Yet howsoever, when you are his Dutchesse,</L>
+<L>And I am turn'd into forgotten dust,</L>
+<L>Pray you love my memory. I should say more</L>
+<L>But I am eue off.</L>
+<STAGE>Ent. Coz. Carol. Con. &amp; others.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazar.</SPEAKER>
+<L>The Duke? that counvenance once,</L>
+<L>
+
+
+<PB REF="39"/>
+When it was cloth'd in smiles, shew'd like an Angels,</L>
+<L>But now 'tis folded up in clouds of fury,</L>
+<L>'Tis terrible to looke on.</L>
+<STAGE>The Duke admiring Lidia.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>A while</L>
+<L>Silence your musicall tongue, and let me feast</L>
+<L>My eyes with the most ravishing object that</L>
+<L>They ever gaz'd on. There's no miniature</L>
+<L>In her faire face, but is a copious theme</L>
+<L>Which would (discours'd at large of) make a volume.</L>
+<L>What cleare arch'd browes? what sparkling eyes? the Lillies</L>
+<L>Contending with the Roses in her cheekes,</L>
+<L>Who shall most set them off? what ruby lips?</L>
+<L>Or unto what can I compare her neck,</L>
+<L>But to a rock of christall? every limb</L>
+<L>Proportion'd to loves wish, and in their neatnesse</L>
+<L>Add lustre to the riches of her habit,</L>
+<L>Not borrow from it.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>You are pleas'd to shew Sir</L>
+<L>The fluencie of your language, in advancing</L>
+<L>A Subject much unworthy.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>How unworthy?</L>
+<L>By all the vowes which Lovers offer at</L>
+<L>The Cyprian Goddesse Altars, eloquence</L>
+<L>It selfe presuming, as you are, to speake you,</L>
+<L>Would be struck dumb. And what have you deserv'd then?</L>
+<L>(VVretches you kneele too late) that have endevour'd</L>
+<L>To spout the poyson of your black detraction</L>
+<L>On this immaculate whitenesse? was it malice</L>
+<L>To her perfections? or —</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Your Highnesse promis'd</L>
+<L>A gracious hearing to the Count.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>And Prince too;</L>
+<L>Doe not make voyde so just a grant.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>We will not,</L>
+<STAGE>Ladies in the chaires of State</STAGE>
+<L>Yet since their accusation must be urg'd,</L>
+<L>And strongly, ere their weak defence have hearing,</L>
+<L>We seat you here as Judges to determine</L>
+<L>
+
+
+<PB REF="40"/>
+Of your grosse wrongs and ours. And now remembring</L>
+<L>Whose Deputies you are, be neither sway'd,</L>
+<L>Or with particular spleene, or foolish pittie,</L>
+<L>For neither can become you.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>There's some hope yet</L>
+<L>Since they have such gentle Iudges.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Rise, and stand forth then,</L>
+<L>And heare with horror to your guilty soules</L>
+<L>What we will prove against you. Could this Princesse</L>
+<L>(Thou enemie to thy selfe) stoope her high flight</L>
+<L>Of towring greatnesse to invite thy lownesse</L>
+<L>To looke up to it, and with nimble wings</L>
+<L>Of gratitude, couldst thou forbeare to meet it?</L>
+<L>Were her favours boundlesse in a noble way,</L>
+<L>And warranted by our allowance, yet</L>
+<L>In thy acceptation there appear'd no signe</L>
+<L>Of a modest thankfulnesse?</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>Pray you forbeare</L>
+<L>To presse that farther, 'tis a fault we have</L>
+<L>Already heard, and pardon'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>We will then passe over it, &amp; briefly touch at that</L>
+<L>Which does concern our selfe. In which both being</L>
+<L>Equall offenders, what we shall speake, points</L>
+<L>Indifferently at either. How we rais'd thee</L>
+<L>(Forgetfull Sanazarro of our Grace)</L>
+<L>To a full possession of power, and honors,</L>
+<L>It being too well knowne, we'll not remember.</L>
+<L>And what thou wert (rash youth) in expectation</L>
+<L>(And from which headlong thou hast throwne thy selfe)</L>
+<L>Not Florence, but all Tuskany can witnesse</L>
+<L>With admiration. To assure thy hopes,</L>
+<L>We did keepe constant to a widdowed bed,</L>
+<L>And did deny our selfe those lawfull pleasures,</L>
+<L>Our absolute power and height of blood allow'd us.</L>
+<L>Made both, the keyes that open'd our hearts secrets,</L>
+<L>And what you spake believ'd as Oracles.</L>
+<L>But you in recompence of this to him</L>
+<L>That gave you all, to whom you ow'd your being</L>
+<L>
+
+
+<PB REF="40"/>
+VVith trecherous lies endevour'd to conceale</L>
+<L>This jewell from our knowledge, which our selfe</L>
+<L>Could onely lay just clayme too.</L>
+</SP>
+<SP>
+<SPEAKER>Giovanni.</SPEAKER>
+<L>'Tis most true Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Sinazar.</SPEAKER>
+<L>We both confesse a guilty cause.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Looke on her,</L>
+<L>Is this a beauty fit to be imbrac'd</L>
+<L>By any Subjects armes? Can any tyre</L>
+<L>Become that forhead, but a Diadem?</L>
+<L>Or should we grant your being false to us</L>
+<L>Could be excus'd, your trechery to her</L>
+<L>In seeking to deprive her of that greatnesse</L>
+<L>(Her matchless forme consider'd) she was born too,</L>
+<L>Must ne're finde pardon? we have spoken Ladies</L>
+<L>Like a rough Orator, that brings more truth</L>
+<L>Then rhetorique to make good his accusation,</L>
+<L>And now expect your sentence.</L>
+<STAGE>The Ladies descend from the State.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>In your birth Sir</L>
+<L>You were mark'd out the Iudge of life, and death,</L>
+<L>And we that are your Subjects to attend</L>
+<L>With trembling feare your doome.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>VVe doe resigne</L>
+<L>This Chaire as onely proper to your selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Giovan.</SPEAKER>
+<L>And since in justice we are lost, we flie</L>
+<L>Unto your saving mercie.</L>
+<STAGE>All kneeling.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sanazarro.</SPEAKER>
+<L>VVhich sets off</L>
+<L>A Prince much more then rigour.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And becomes him</L>
+<L>When 'tis express'd to such as fell by weaknesse</L>
+<L>(That being a twin-borne brother to affection)</L>
+<L>Better then wreathes of conquest.</L>
+<L><HI>Hie. Lod. Con. Alph.</HI> VVe all-speake</L>
+<L>Their language mighty Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You know our temper,</L>
+<L>And therefore with more boldnesse venter on it.</L>
+<L>And would not our consent to your demands</L>
+<L>Deprive us of a happinesse hereafter</L>
+<L>
+
+
+<PB REF="41"/>
+Ever to be despair'd of, we perhaps</L>
+<L>Might hearken neerer to you, and could wish</L>
+<L>With some qualification or excuse</L>
+<L>You might make lesse the mountaines of your crimes,</L>
+<L>And so invite our clemencie to feast with you.</L>
+<L>But you that knew with what impatiencie</L>
+<L>Of griefe we parted from the faire Clarinda</L>
+<L>Our Dutchesse, (let her memory still be sacred)</L>
+<L>And with what imprecations on our selfe</L>
+<L>We vow'd, not hoping e're to see her equall,</L>
+<L>Ne're to make triall of a second choyce,</L>
+<L>If Nature fram'd not one that did excell her,</L>
+<L>(As this Mayds beauty prompts us that she does)</L>
+<L>And yet with oathes then mix'd with teares, upon</L>
+<L>Her monument we swore our eye should never</L>
+<L>Againe be tempted, 'tis true, and those vowes</L>
+<L>Are registred above, something here tells me.</L>
+<L>Carolo thou heardst us sweare.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>And sweare so deeply,</L>
+<L>That if all vvomens beauties were in this</L>
+<L>(As she's not to be nam'd with the dead Dutchess.)</L>
+<L>Nay, all their vertues bound up in one story</L>
+<L>(Of which mine is scarce an Epitome)</L>
+<L>If you should take her as a vvife, the waight</L>
+<L>Of your perjuries would sink you. If I durst</L>
+<L>I had told you this before.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>'Tis strong truth Carolo,</L>
+<L>And yet what was necessity in us</L>
+<L>Cannot free them from treason.</L>
+</SP>
+<SP>
+<SPEAKER>Carolo.</SPEAKER>
+<L>There's your error.</L>
+<L>The Prince in care to have you keepe your vowes</L>
+<L>Made unto heaven, vouchsaf'd to love my daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Lidia.</SPEAKER>
+<L>He told me so indeed Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Fiorinda.</SPEAKER>
+<L>And the Count</L>
+<L>Averr'd as much to me.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>You all conspire</L>
+<L>To force our mercy from us.</L>
+</SP>
+<SP>
+<PB REF="41"/>
+<SPEAKER>Carolo.</SPEAKER>
+<L>VVhich giv'n up</L>
+<L>To after-times, preserves you unforsworne,</L>
+<L>An Honor, which will live upon your Tombe</L>
+<L>When your Greatnesse is forgotten.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>Though we know</L>
+<L>All this is practise, and that both are false,</L>
+<L>Such reverence we will pay to dead Clarinda,</L>
+<L>And to our serious oathes, that we are pleas'd</L>
+<L>VVith our owne hand to blinde our eyes, and not</L>
+<L>Know what we understand. Here Giovanni</L>
+<L>VVe pardon thee, and take from us in this,</L>
+<L>More then our Dukedome, love her. As I part</L>
+<L>VVith her, all thoughts of vvomen flie fast from vs.</L>
+<L>Sanazarro, we forgive you. In your service</L>
+<L>To this Princesse merit it. Yet let not others</L>
+<L>That are in trust and grace, as you have beene,</L>
+<L>By the example of our lenity,</L>
+<L>Presume upon their Soveraignes clemencie.</L>
+<STAGE>A showe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>Long live great Cozimo.</L>
+<STAGE>Enter Caland. Petre.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>Sure the Duke is</L>
+<L>In the giving vaine they are so lowd. Come on Spouse,</L>
+<L>We have heard all, and we will have our boone too.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>What is't?</L>
+</SP>
+<SP>
+<SPEAKER>Caland.</SPEAKER>
+<L>That your Grace, in remembrance of</L>
+<L>My share in a dance, and that I play'd your part </L>
+<L>When you should have drunk hard, would get this Signiors grant</L>
+<L>To give this Damsell to me in the Church,</L>
+<L>For we are contracted; in it you shall doe</L>
+<L>Your Dukedome pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>How?</L>
+</SP>
+<SP>
+<SPEAKER>Calandr.</SPEAKER>
+<L>Why the whole race</L>
+<L>Of such as can act naturally fooles parts,</L>
+<L>Are quite worne out, and they that doe survive,</L>
+<L>Doe onely zanie us; and we will bring you,</L>
+<L>If we die not without issue, of both sexes</L>
+<L>Such chopping mirth-makers, as shall preserve</L>
+<L>Perpetuall cause of sport, both to your Grace,</L>
+<L>
+
+
+<PB REF="42"/>
+And your posterity, that sad melancholly</L>
+<L>Shall ne're approach you.</L>
+</SP>
+<SP>
+<SPEAKER>Cozimo.</SPEAKER>
+<L>We are pleas'd in it,</L>
+<L>And will pay her portion. May the passage prove</L>
+<L>Of what's presented, worthy of your love,</L>
+<L>And favour, as was aym'd, and we have all</L>
+<L>That can in compasse of our vvishes fall.</L>
+</SP>
+</DIV3>
+</DIV2>
+<TRAILER>The end.</TRAILER>
+<PB REF="42"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

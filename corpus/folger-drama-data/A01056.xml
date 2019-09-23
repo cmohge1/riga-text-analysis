@@ -1,0 +1,5068 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2002-09-27</DATE>
+<RESPSTMT>
+<NAME>Olivia Bottum</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked <SUP>s</SUP>. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Rearranged SP / SPEAKER / PB to SP / PB / SPEAKER. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Converted 160 $-groups to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. Sample: 10 minutes. Proofing: 30 minutes. Tag review and corrections: 45 minutes. DONE 2002-09-27.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A01056">
+<STC T="S">11164</STC>
+<BIBNO T="umi">99838292</BIBNO>
+<VID>2666</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>LOUES Sacrifice.</P>
+<P>A TRAGEDIE RECEIUED GENE∣</P>
+<P>RALLY WELL.</P>
+<P>Acted by the QVEENES Ma∣jesties Seruants at the <HI>Phoenix</HI> in <HI>Drury-lane.</HI></P>
+<P><HI>LONDON:</HI> Printed by <HI>I.</HI> B. for HVGH BEESTON, dwel∣ling next the Castle in <HI>Cornhill,</HI> 1633.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To my truest friend, my worthiest Kinsman, IOHN FORD of <HI>Grayes-Inne, Esquire.</HI></HEAD>
+<P><SEG REND="decorInit">T</SEG>HE Title of <HI>this little worke</HI> (may good Cozen) is in sence but the argument of a Dedi∣cation; which being in most writers a <HI>Custome,</HI> in many a <HI>complement,</HI> I question not but your cleere knowledg of my intents, will in me read as the <HI>earnest of affection.</HI> My am∣bition herein aimes at a faire flight, borne vp on the double wings of gratitude, for a receiued, and acknow∣ledgement for a continued loue. It is not so frequent to number many kinsmen, &amp; amongst them some friends; as to presume on some friends, and amongst them little friendship. But in euery fulnesse of these particulars, I doe not more partake <HI>through you</HI> (my Cozen) the de∣light, then enioy the benefit of them. This <HI>Inscription to your name,</HI> is onely a faithfull deliuerance to <HI>Memory</HI> of the truth of my respects to <HI>vertue,</HI> and to the equall
+<PB REF="3"/>
+in honour with vertue, <HI>Desert.</HI> The contempt throwne on <HI>studies of this kinde,</HI> by such as dote on their owne sin∣gularity, hath almost so out-fac'd <HI>Inuention,</HI> and pre∣scrib'd <HI>Iudgement;</HI> that it is more safe, more wise, to be <HI>suspectedly silent,</HI> then <HI>modestly confident</HI> of opinion, here∣in. Let me be bold to tell the seuerity of <HI>censurers,</HI> how willingly I neglect their practise, so long as I digresse from no becomming thankfulnesse. Accept then (my Cozen) this <HI>witnesse to Posteritie</HI> of my constancy to your Merits, for no <HI>Ties</HI> of blood, no ingagements of <HI>Friendship</HI> shall more justly liue a <HI>President,</HI> then the sin∣cerity of <HI>Both</HI> in the Heart of</P>
+<P>IOHN FORD.</P>
+</DIV1>
+<DIV1 TYPE="encomium">
+<PB REF="3"/>
+<HEAD>To my friend M<SUP>r</SUP>. IOHN FORD.</HEAD>
+<LG>
+<L>VNto this Altar, rich with thy owne spice,</L>
+<L>I bring one graine, to thy <HI>Loves Sacrifice:</HI></L>
+<L>And boast to see thy flames ascending, while</L>
+<L>Perfumes enrich our Ayre from thy sweet Pile.</L>
+</LG>
+<LG>
+<L>Looke here <HI>THOV</HI> that hast <HI>malice</HI> to the Stage,</L>
+<L>And <HI>Impudence</HI> enough for the whole Age;</L>
+<L><HI>Voluminously-Ignorant!</HI> be vext</L>
+<L>To read this Tragedy, and thy owne be next.</L>
+</LG>
+<P>James Shirley.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="4"/>
+<HEAD>The Sceane <HI>PAVYE.</HI></HEAD>
+<P><TABLE>
+<HEAD>The Speakers in this TRAGEDY.</HEAD>
+<ROW>
+<CELL><HI>PHillippo Caraffa.</HI></CELL>
+<CELL>Duke of Pavy.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Paulo Baglione,</HI></CELL>
+<CELL>Vnckle to the Dutchesse.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Fernando</HI></CELL>
+<CELL>Favorite to the Duke.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Ferentes</HI></CELL>
+<CELL>A wanton Courtier.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Roseilli</HI></CELL>
+<CELL>A young Nobleman.</CELL>
+</ROW>
+<ROW>
+<CELL><TABLE>
+<ROW>
+<CELL><HI>Petruchio</HI></CELL>
+<CELL ROWS="2">Two Counsel∣lors of State.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Nibrassa</HI></CELL>
+</ROW>
+</TABLE></CELL>
+</ROW>
+<ROW>
+<CELL><HI>D'auolos</HI></CELL>
+<CELL>Secretary to the Duke.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Maurucio</HI></CELL>
+<CELL>An old Antike.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Giacopo</HI></CELL>
+<CELL>Servant to <HI>Maurucio.</HI></CELL>
+</ROW>
+<ROW>
+<CELL> </CELL>
+<CELL><HI>Attendants.</HI></CELL>
+</ROW>
+</TABLE></P>
+<P><TABLE>
+<HEAD>Women.</HEAD>
+<ROW>
+<CELL><HI>BIancha</HI></CELL>
+<CELL>The Dutchesse.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Fiormonda</HI></CELL>
+<CELL>The Dukes Sister.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Colona</HI></CELL>
+<CELL>Daughter to <HI>Petruchio.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Iulia</HI></CELL>
+<CELL>Daughter to <HI>Nibrassa.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Morona</HI></CELL>
+<CELL>an old Lady.</CELL>
+</ROW>
+</TABLE></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="4"/>
+<HEAD>Loues Sacrifice.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Actus Primus.</HEAD>
+<SP>
+<STAGE>Enter Roseilli and Roderico D'auolos.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L><SEG REND="decorInit">D</SEG>Epart the Court.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Such was the Dukes command.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>You'ar Secretary to the State and him,</L>
+<L>Great in his counsels, wise, &amp; (I think) honest,</L>
+<L>Haue you, in turning ouer old Records,</L>
+<L>Read but one name descended of the house</L>
+<L>Of <HI>Le<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>,</HI> in his loyalty remisse?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Neuer, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Why then should I now, now, when glorious peace</L>
+<L>Triumphs in change of pleasures, be wip'd off,</L>
+<L>Like to a vselesse moth, from Courtly ease:</L>
+<L>And whither must I goe?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>You haue the open world before you.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Why then tis like I'me banisht.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Not so;</L>
+<L>My warrant is onely to command you from the Court,</L>
+<L>Within fiue houres to depart after notice taken,</L>
+<L>And not to liue within thirty miles of it,</L>
+<L><PB REF="5"/>
+Vntill it be thought meet by his Excellence</L>
+<L>To call you backe: now I haue warn'd you, my Lord,</L>
+<L>At your perill be it if you disobey; I shall</L>
+<L>Informe the Duke of your discontent.—</L>
+<STAGE>Exit R. D.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Doe, Politician, doe:</L>
+<L>I scent the plot of this disgrace; 'tis <HI>Fiormonda,</HI> shee,</L>
+<L>That glorious Widow, whose commanding checke</L>
+<L>Ruines my Loue; like foolish beasts, thus they</L>
+<L>Finde danger, that prey too neere the Lions denne.</L>
+<STAGE>Enter Fernando and Petruchio.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>My Noble Lord <HI>Roseilli!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Sir, the joy</L>
+<L>I should haue welcom'd you with, is wrap'd vp</L>
+<L>In Clouds of my disgrace; yet, honoured Sir,</L>
+<L>Howsoeuer frownes of great ones cast me downe,</L>
+<L>My seruice shall pay tribute in my lownesse,</L>
+<L>To your vprising vertues.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Sir, I know</L>
+<L>You are so well acquainted with your owne,</L>
+<L>You need not flatter mine; trust me, my Lord,</L>
+<L>He be a sutor for you.</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>And I'le second</L>
+<L>My Nephewes suit with importunity.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>You are, my Lord <HI>Fernando,</HI> late return'd</L>
+<L>From trauels; pray instruct me, since the voyce</L>
+<L>Of most supreme Authority commands</L>
+<L>My absence: I determine to bestow</L>
+<L>Some time in learning Languages abroad;</L>
+<L>Perhaps the change of ayre may change in me</L>
+<L>Remembrance of my wrongs at home: Good Sir</L>
+<L>Informe me; say I meant to liue in <HI>Spaine,</HI></L>
+<L>What benefit of knowledge might I treasure?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Troth, Sir, I'le freely speake as I haue found:</L>
+<L>In <HI>Spaine</HI> you lose experience; 'tis a Clymate</L>
+<L>To hot to nourish Arts; the Nation proud,</L>
+<L>And in their pride vnsociable; the Court</L>
+<L>More plyable to glorifie it selfe</L>
+<L><PB REF="5"/>
+Then doe a stranger grace; if you intend</L>
+<L>To trafficke like a Merchant, 'twere a place</L>
+<L>Might better much your Trade; but as for me,</L>
+<L>I soone tooke surfeit on it.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>What for <HI>France?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L><HI>France</HI> I more praise and loue; you are (my Lord)</L>
+<L>Your selfe for horsemanship much fam'd; and there</L>
+<L>You shall haue many proofes to shew your skill,</L>
+<L>The French are passing Courtly, ripe of wit,</L>
+<L>Kind, but extreme dissemblers; you shall haue</L>
+<L>A French-man ducking lower than your knee,</L>
+<L>At th' instant mocking euen your very shoo-tyes:</L>
+<L>To giue the Countrey due, it is on earth</L>
+<L>A Paradise; and if you can neglect</L>
+<L>Your owne appropriaments, but praysing that</L>
+<L>In others, wherein you excell yourselfe,</L>
+<L>You shall be much belou'd there.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Yet, me thought,</L>
+<L>I heard you and the Dutchesse, two nights since,</L>
+<L>Discoursing of an Iland thereabouts</L>
+<L>Call'd—let me thinke—'twas—</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>England.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>That, pray Sir,</L>
+<L>You haue beene there, me thought I heard you praise it.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I'le tell you what I found there; men as neat,</L>
+<L>As Courtly as the French, but in Condition</L>
+<L>Quite opposite: Put case that you (my Lord)</L>
+<L>Could be more rare on horse-backe than you are,</L>
+<L>If there (as there are many) one excell'd</L>
+<L>You in your Art, as much as you doe others,</L>
+<L>Yet will the English thinke, their owne is nothing</L>
+<L>Compar'd with you a stranger; in their habits</L>
+<L>They are not more fantasticke than vncertaine:</L>
+<L>In short, their fare abundance; manhood, beauty,</L>
+<L>No Nation can disparage but it selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>My Lord, <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ou haue much cas'd me, I resolue.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>And whither are you bent?</L>
+</SP>
+<SP>
+<PB REF="6"/>
+<SPEAKER>Ros.</SPEAKER>
+<L>My Lord for trauell,</L>
+<L>To speed for <HI>England.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>No, my Lord, you must not;</L>
+<L>I haue yet some priuate Conference</L>
+<L>To impart vnto you for your good: at night</L>
+<L>I'le meet you at my Lord <HI>Petruchio's</HI> house,</L>
+<L>Till then be secret.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Dares my Cozen trust me?</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Dare I, my Lord! yes, 'lesse your fact were greater</L>
+<L>Than a bold womans spleene.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>The Duke's at hand,</L>
+<L>And I must hence, my seruice to your Lordships.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Now Nephew, as I told you, since the Duke</L>
+<L>Hath held the reines of state in his owne hand,</L>
+<L>Much altered from the man he was before,</L>
+<L>(As if he were transformed in his mind)</L>
+<L>To sooth him in his pleasures, amongst whom</L>
+<L>Is fond <HI>Ferentes;</HI> one whose pride takes pride</L>
+<L>In nothing more then to delight his lust;</L>
+<L>And he (with griefe I speake it) hath, I feare,</L>
+<L>Too much besotted my vnhappy daughter,</L>
+<L>My poore <HI>Colona;</HI> whom, for kinreds sake,</L>
+<L>As you are noble, as you honour vertue,</L>
+<L>Perswade to loue her selfe: a word from you</L>
+<L>May win her more then my entreaties or frownes.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Vnckle, I'le doe my best; meane time pray tell me</L>
+<L>Whose mediation wrought the Marriage</L>
+<L>Betwixt the Duke and Dutchesse? who was agent?</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>His rouing eye, and her inchanting face,</L>
+<L>The onely dower Nature had ordained</L>
+<L>T'aduance her to her Bride-bed: She was daughter</L>
+<L>Vnto a Gentleman of <HI>Millaine,</HI> no better;</L>
+<L>Prefer'd to serue in the Duke of <HI>Millaine's</HI> Court:</L>
+<L>Where, for her beauty, she was greatly fam'd:</L>
+<L>And passing late from thence to <HI>Monacho,</HI></L>
+<L>To visit there her Vncle, <HI>Paul Bagloone,</HI></L>
+<L>The Abbot; Fortune (Queene to such blind matches)</L>
+<L><PB REF="6"/>
+Presents her to the Dukes eye, on the way</L>
+<L>As he pursues the Deere: in short, my Lord,</L>
+<L>He saw her, lou'd her, woo'd her, won her, match'd her,</L>
+<L>No counsell could diuert him.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>She is faire.</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>She is; and to speake truth, I thinke right Noble</L>
+<L>In her Conditions.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>If when I should choose,</L>
+<L>Beauty and Vertue were the Fee propos'd,</L>
+<L>I should not passe for parentage.</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>The Duke doth come.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Let's breake off talke: if euer, now</L>
+<L>Good Angell of my soule protect my truth.</L>
+<STAGE>Enter Duke, Biancha, Fiormonda, Nibrássa. Ferentes, Iulia and D'auolos.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Come my <HI>Biancha,</HI> reuell in mine armes,</L>
+<L>Whiles I, wrapt in my admiration, view</L>
+<L>Lillies and Roses growing in thy cheekes.</L>
+<L><HI>Fernando!</HI> oh thou halfe my selfe! no ioy</L>
+<L>Could make my pleasures full without thy presence!</L>
+<L>I am a Monarch of felicitie,</L>
+<L>Proud in a paire of Iewels, rich and beautifull;</L>
+<L>A perfect Friend, a Wife aboue compare.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Sir, if a man so low in ranke, may hope</L>
+<L>By loyall duty, and deuoted zeale,</L>
+<L>To hold a Correspondence in friendship</L>
+<L>With one so mighty as the Duke of <HI>Pavy,</HI></L>
+<L>My vttermost ambition is to climbe</L>
+<L>To those deserts may giue the stile of seruant.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Of partner in my Dukedome, in my heart,</L>
+<L>As freely as the priuilege of blood</L>
+<L>Hath made them mine, <HI>Phillippo</HI> and <HI>Fernando</HI></L>
+<L>Shall be without distinction: Looke, <HI>Biancha,</HI></L>
+<L>On this good man; in all respects to him</L>
+<L>Be as to me: onely the name of husband,</L>
+<L>And reuerent obseruance of our bed</L>
+<L><PB REF="7"/>
+Shall differ vs in persons, else in soule</L>
+<L>We are all one.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>I shall, in best of Loue,</L>
+<L>Regard the bosome-partner of my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Ferentes.</L>
+</SP>
+<SP>
+<SPEAKER>Fere.</SPEAKER>
+<L>Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>You are one loues Courtship,</L>
+<L>He had some change of words; 'twere no lost labour</L>
+<L>To stuste your Table-bookes, the man speakes wisely.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>I'me glad your Highnesse is so pleasant.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Sister.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>My Lord and brother.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>You are too silent;</L>
+<L>Quicken your sad remembrance: though the losse</L>
+<L>Of your dead husband be of more account</L>
+<L>Then slight neglect, yet 'tis a sinne against</L>
+<L>The state of Princes to exceed a meane</L>
+<L>In mourning for the dead.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Should forme, my Lord,</L>
+<L>Preuaile aboue affection? no, it cannot.</L>
+<L>You haue your selfe here a right noble Dutchesse,</L>
+<L>(Vertuous at least) and should your grace now pay</L>
+<L>(Which heauen forbid) the debt you owe to Nature,</L>
+<L>I dare presume, shee'd not so soone forget</L>
+<L>A Prince that thus aduanc'd her.—Madam, could you?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Bitter and shrewd.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Sister, I should too much bewray my weaknesse,</L>
+<L>To giue a resolution on a passion</L>
+<L>I neuer felt nor fear'd.</L>
+</SP>
+<SP>
+<SPEAKER>Nibr.</SPEAKER>
+<L>A modest answer.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>If credit may be giuen to a face,</L>
+<L>My Lord, I'le vndertake on her behalfe;</L>
+<L>Her words are trusty Heralds to her mind.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Exceeding good; the man will vndertake:</L>
+<L>Obserue it, <HI>Da'uolos.</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>I doe, Lady; 'tis a smooth prayse.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Friend, in thy iudgement I approue thy loue,</L>
+<L><PB REF="7"/>
+And loue thee better for thy iudging mine:</L>
+<L>Though my gray-headed Senate in the lawes</L>
+<L>Of strickt opinion and seuere dispute,</L>
+<L>Would tye the limits of our free effects,</L>
+<L>(Like superstitious Iewes, to match with none</L>
+<L>But in a tribe of Princes like our selues)</L>
+<L>Grosse nurtur'd slaues, who force their wretched soules</L>
+<L>To crouch to profit; nay, for trash and wealth,</L>
+<L>Dote on some crooked or mishapen forme,</L>
+<L>Hugging wise Natures lame deformity,</L>
+<L>Begetting creatures vgly as themselues:</L>
+<L>But why should Princes doe so, that command</L>
+<L>The store-house of the earths hid minerals?</L>
+<L>No, my <HI>Bianchae,</HI> thou art to me as deare</L>
+<L>As if thy portion had bin Europes riches,</L>
+<L>Since in thine eyes lyes more than these are worth:</L>
+<L>Set on; they shall be strangers to my heart</L>
+<L>That enuy thee thy Fortunes:</L>
+<L>Come, <HI>Fernando,</HI> my but divided selfe, what we haue done</L>
+<L>We are onely debtor to heauen for.—On.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Now take thy time, or neuer, <HI>Da'uolos;</HI></L>
+<L>Preuaile, and I will raise thee high in grace.—</L>
+<STAGE>Exeunt. Da'uolos stayes Fernando.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Madam, I will omit no Art,</L>
+<L>My honour'd Lord <HI>Fernando.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>To me, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Let me beseech your Lordship</L>
+<L>To excuse me, in the noblenesse of your wisedome,</L>
+<L>If I exceed good manners: I am one, my Lord,</L>
+<L>Who in the admiration of your perfect vertues,</L>
+<L>Doe so truly honour and reuerence your deserts,</L>
+<L>That there is not a creature beares life</L>
+<L>Shall more faithfully study to doe you seruice</L>
+<L>In all offices of duty, and vowes of due respect.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Good Sir, you bind me to you: is this all?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>I beseech your care a little, good my Lord; what I</L>
+<L>Haue to speake, concernes your reputation and best fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Fer,</SPEAKER>
+<L>How's that? my Reputation? lay aside</L>
+<L><PB REF="8"/>
+Superfluous Ceremony; speake, what is't?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>I doe repute my selfe</L>
+<L>The blessed'st man aliue, that I shall be the first</L>
+<L>Giues your Lordship newes of your perpetuall comfort.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>As how?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>If singular beauty, vnimitable vertues, honor, youth,</L>
+<L>And absolute goodnesse be a fortune, all those are at once</L>
+<L>Offered to your particular choyce.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Without delayes, which way?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>The great and gracious Lady <HI>Fiormonda</HI> loue you,</L>
+<L>Infinitely loues you.—But, my Lord, as euer you tendered</L>
+<L>A seruant to your pleasures, let mee not be reueal'd, that</L>
+<L>I gaue you notice on't.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Sure you are strangely out of tune, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>R. D:</SPEAKER>
+<L>Please but to speake to her, be but Courtly ceremonius</L>
+<L>With her, vse once but the language of affection, if I</L>
+<L>Mis-report ought besides my knowledge, let me neuer</L>
+<L>Haue place in your good opinion: oh, these women, my Lord</L>
+<L>Are as brittle mettle as your glasses, as smooth, as slippery:</L>
+<L>Their very first substance was quicke-sands; let 'em looke</L>
+<L>Neuer so demurely, one phillip choakes them: my Lord,</L>
+<L>Shee loues you I know it.—But I beseech your Lordship</L>
+<L>Not to discouer me; I would not for the world shee</L>
+<L>Should know that you know it by me.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I vnderstand you, and to thanke your care</L>
+<L>Will studie to requite it; and I vow</L>
+<L>She neuer shall haue notice of your newes</L>
+<L>By me, or by my meanes. And, worthy Sir,</L>
+<L>Let me alike inioyne you not to spaake</L>
+<L>A word of that I vnderstand her loue;</L>
+<L>And as for me, my word shall be your suretie</L>
+<L>I'le not as much as giue her cause to thinke</L>
+<L>I euer heard it.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Nay, my Lord,</L>
+<L>Whatsoeuer I inferre, you may breake with her in it</L>
+<L>If you please, for rather than silence should hinder</L>
+<L>You one step to such a fortune, I will expose my selfe</L>
+<L><PB REF="8"/>
+To any rebuke for your sake, my good Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>You shall not, indeed Sir, I am still your friend,</L>
+<L>And will proue so; for the present I am forc'd</L>
+<L>To attend the Duke, good houres befall ye, I must leaue you.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Gon already; S'foot I ha marr'd all, this is worse and worse, he's as cold as Hemlocke; if her Highnesse knows how I haue gone to worke, she'll thanke me scuruily: a pox of all dull braines; I tooke the cleane contrary course: there is a mysterie in this slight carelesnesse of his, I must si<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>t it, and I will find it. vd's me, foole my selfe out of my wit: well, I'le choose some fitter opportunity to inueagle him, and till then, smooth her vp, that hee is a man ouerioyed with the report.———</P>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Ferentes and Colona.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Madam, by this light I vow my selfe your seruant; onely yours, inespecially yours: time, like a turne-coat, may order and disorder the outward fashions of our bodies, but shall neuer inforce a change on the constancy of my minde, sweet <HI>Colona,</HI> faire <HI>Colona,</HI> young and sprightfull Lady, doe not let me in the best of my youth, languish in my earnest affections.</P>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Why should you seeke, my Lord, to purchase glory</L>
+<L>By the disgrace of a silly maid?</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>That I confesse too;</P>
+<P>I am euery way so vnworthy of the first fruits of thy em∣braces, so farbeneath the riches of thy merit, that it can be no honor to thy fame, to rank me in the number of thy seruants, yet proue me how true, how firme I will stand to thy plea∣sures, to thy command; and as time shall serue be euer thine Now prethe deere <HI>Colona.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Col,</SPEAKER>
+<L>Well, well, my Lord, I haue no heart of flint;</L>
+<L>Or if I had, you know by cunning words</L>
+<L>How to out-weare it.—But.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>But what? doe not pitty thy owne gentlenesse,</L>
+<L>Louely <HI>Colona;</HI> shall I speake? shall I? say</L>
+<L><PB REF="9"/>
+But I, and our wishes are made vp.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>How shall I say I, when my feares say no?</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>You wil not faile to meet two houres hence, sweet.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>No; yes, yes, I would haue said, how my tongue trips.</L>
+</SP>
+<SP>
+<SPEAKER>Fere.</SPEAKER>
+<L>I take that promise, &amp; that double yes as an assurance</L>
+<L>Of thy faith, in the groue (good sweet remember)</L>
+<L>In any case alone (d'ee marke loue) not as much as your</L>
+<L>Dutchesse little dog, (you'll not forget) two houres hence,</L>
+<L>(Thinke on't, and misse not,) till then—</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Oh, if you should proue false, and loue another?</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>Defie me then; I'le be all thine, and a seruant</L>
+<L>Onely to thee, onely to thee.——</L>
+<STAGE>Exit Colona.</STAGE>
+<L>Very passing good, three honest women in our Courts</L>
+<L>Here of <HI>Italy,</HI> are enough to discredit a whole Nation</L>
+<L>Of that sexe: he that is not a Cuckold, or a Bastard,</L>
+<L>Is a strangely happy man; for a chaste wife, or a mother</L>
+<L>That neuer stept awry, are wonders, wonders in <HI>Italy.</HI></L>
+<L>S'life I haue got the feat on't, and am euery day</L>
+<L>More actiue in my trade; 'tis a sweet sinne, this slip</L>
+<L>Of mortality, and I haue tasted enough for one</L>
+<L>Passion of my senses: Here comes more worke for me:</L>
+<STAGE>Enter Iulia.</STAGE>
+<L>And how does my owne <HI>Iulia,</HI> mew vpon this sadnesse?</L>
+<L>What's the matter you are melancholly?</L>
+<L>Whither away, wench?</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>'Tis well, the time has bin when your smooth tongue</L>
+<L>Would not haue mock'd my griefes, and had I bin more</L>
+<L>Chary of mine honor, you had still bin lowly as you were.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>Lowly? why I am sure I cannot be much more lowly</L>
+<L>Then I am to thee, thou bring'st me on my bare knees</L>
+<L>Wench, twice in euery foure and twenty houres, besides</L>
+<L>Halfe turnes instead of Beuers; what must we next</L>
+<L>Doe, sweet-heart?</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Breake vowes on your side, I expect no other,</L>
+<L>But euery day looke when some newer choice</L>
+<L>May violate your honour and my trust.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>Indeed forsooth, how <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>hey by that la, I hope I neglect</L>
+<L><PB REF="9"/>
+No opportunity to your <HI>Nunquam satis,</HI> to be call'd</L>
+<L>In question for; goe, thou art as fretting as an old</L>
+<L>Grogrum, by this hand I loue thee for't, it becomes thee</L>
+<L>So prettily to be angry: well, if thou should'st dye,</L>
+<L>Farewell all loue with me for euer: goe, I'le meet</L>
+<L>Thee soone in thy Ladies backe lobby, I will, wench,</L>
+<L>Looke for me.</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>But shall I be resolu'd you will be mine?</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>All thine; I will reserue my best ability,</L>
+<L>My heart, my honour, onely to thee, onely to thee:</L>
+<L>Pitty of my blood away, I heare company</L>
+<L>Comming on: remember soone I am all thine,</L>
+<L>I will liue perpetually onely to thee, away.—</L>
+<STAGE>Exit Iul.</STAGE>
+<L>S'foot I wonder about what time of the yeare</L>
+<L>I was begot; sure it was when the Moone was</L>
+<L>In coniunction, and all the other Planets</L>
+<L>Drunke at a Morrice-dance: I am haunted</L>
+<L>Aboue patience, my mind is not as infinite to doe,</L>
+<L>As my occasions are proffered of doing: Chastity! I am</L>
+<L>An Eunuch, if I think<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> there be any such thing; or</L>
+<L>If there be, 'tis amongst vs men, for I neuer found it</L>
+<L>In a woman, throughly tempted, yet: I haue a shrewd hard</L>
+<L>Taske comming on, but let it passe: who comes now?</L>
+<STAGE>Enter Fernando.</STAGE>
+<L>My Lord, the Dukes friend! I will striue to be inward with</L>
+<L>Him, my Noble Lord <HI>Fernando.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>My Lord <HI>Ferentes,</HI> I should change some words</L>
+<L>Of consequence wi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> you; but since I am,</L>
+<L>For this time, busied in more serious thoughts,</L>
+<L>I'le picke some fitter opportunity.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>I will wait your pleasure, my Lord,—Good day to</L>
+<L>Your Lordship.———</L>
+<STAGE>Exit Feren.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Traytor to friendship, whither shall I runne,</L>
+<L>That lost to reason cannot sway the float</L>
+<L>Of the vnruly faction in my bloud?</L>
+<L>The Dutchesse, oh the Dutchesse! in her smiles</L>
+<L>Are all my ioyes abstracted; death to my thoughts,</L>
+<L><PB REF="10"/>
+My other plague comes to me.</L>
+<STAGE>Enter Fiormonda and Iulia.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>My Lord <HI>Fernando,</HI> what, so hard at study?</L>
+<L>You are a kind companion to your selfe,</L>
+<L>That loue to be alone so.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam, no;</L>
+<L>I rather chose this leasure to admire</L>
+<L>The glories of this little world, the Court,</L>
+<L>Where like so many starres on seuerall thrones,</L>
+<L>Beauty and greatnesse shine in proper Orbes,</L>
+<L>Sweet matter for my meditation.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>So, so, Sir, (leaue vs <HI>Iulia)</HI> your owne proofe</L>
+<STAGE>Exit Iul.</STAGE>
+<L>By trauell and prompt obseruation,</L>
+<L>Instruct you how to place the vse of speech;</L>
+<L>But since you are at leisure, pray let's sit;</L>
+<L>Wee'll passe the time a little in discourse:</L>
+<L>What haue you seene abroad?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>No wonders, Lady,</L>
+<L>Like these I see at home.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>At home! as how?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Your pardon, if my tongue (the voyce of truth)</L>
+<L>Report but what is warranted by sight.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>What sight?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Looke in your glasse, and you shall see</L>
+<L>A miracle.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>What miracle?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Your Beauty,</L>
+<L>So farre aboue all beauties else abroad,</L>
+<L>As you are in your owne, superlatiue.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Fie, fie, your wit hath too much edge.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Would that,</L>
+<L>Or any thing, that I could challenge mine,</L>
+<L>Were but of value to expresse how much</L>
+<L>I serue in loue the sister of my Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>'Tis for your Princes sake then, not for mine.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>For you in him, and much for him in you.</L>
+<L>I must acknowledge, Madam, I obserue</L>
+<L><PB REF="10"/>
+In your affects a thing to me most strange,</L>
+<L>Which makes me so much honour you the more.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Pray tell it.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Gladly, Lady:</L>
+<L>I see how opposite to youth and custome</L>
+<L>You s<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>t before you in your Tableture</L>
+<L>Of your remembrance, the becomming griefes</L>
+<L>Of a most loyall Lady; for the losse</L>
+<L>Of so renown'd a Prince as was your Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Now good my Lord, no more of him.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Of him!</L>
+<L>I know it is a needlesse taske in me</L>
+<L>To set him forth in his deserued praise,</L>
+<L>You better can record it; For you find</L>
+<L>How much more hee exceeded other men</L>
+<L>In most Heroick vertues of account,</L>
+<L>So much more was your losse in losing him.</L>
+<L>Of him! his praise should be a field too large,</L>
+<L>Too spacious, for so meane an Orator</L>
+<L>As I, to range in.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Sir, enough; 'tis true,</L>
+<L>He well deseru'd your labour; on his death-bed</L>
+<L>This Ring hee gaue mee, bade mee neuer part</L>
+<L>With this, but to the man I lou'd as dearely</L>
+<L>As I lou'd him; yet since you know which way</L>
+<L>To blaze his worth so rightly, in returne</L>
+<L>To your deserts, weare this for him and me.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>'Tis yours.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Me thought you said, he charg'd you</L>
+<L>Not to imparrit but to him you lou'd</L>
+<L>As dearely as you lou'd him.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>True, I said so.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>O then farre be it, my vnhallowed hand</L>
+<L>With any rude intrusion should vnuaile</L>
+<L>A Testament enacted by the dead.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Why man, that Testament is disanull'd,</L>
+<L><PB REF="11"/>
+And <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ncell'd quite by vs that liue: looke here,</L>
+<L>My bloud is not yet freez'd; for better instance</L>
+<L>Be iudge your selfe, experience is no danger:</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>old are my sighs; but feele, my lips are warme.</L>
+<STAGE>(kisses him</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What meanes the vertuous Marquesse?</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>To new kisse</L>
+<L>The oath to thee, which whiles he liu'd was his:</L>
+<L>Hast thou yet power to loue?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>To loue?</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>To meet</L>
+<L>Sweetnesse of language in discourse as sweet.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam, 'twere dulnesse, past the ignorance</L>
+<L>Of common block heads, not to vnderstand</L>
+<L>Whereto this fauour tends; and 'tis a fortune</L>
+<L>So much aboue my Fate, that I could wish</L>
+<L>No greater happinesse on earth; but know,</L>
+<L>Long since, I vow'd to liue a single life.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>What was't you said?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I said I made a vow.</L>
+<STAGE>Enter Biancha, Petruchio, Colona, Da'uolos.</STAGE>
+<L>Blessed deliuerance!</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Preuented? mischiefe on this interruption.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Lord <HI>Fernando</HI> you encounter fitly,</L>
+<L>I haue a suit t'ee.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>'Tis my duty, Madam,</L>
+<L>To be commanded.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Since my Lord the Duke</L>
+<L>Is now dispos'd to mirth, the time serues well</L>
+<L>For mediation, that he would be pleas'd</L>
+<L>To take the Lord <HI>Roseilli</HI> to his grace,</L>
+<L>He is a Noble Gentleman: I dare</L>
+<L>Ingage my credit, loyall to the state:</L>
+<L>And, Sister, one that euer stroue (me thought)</L>
+<L>By speciall seruice, and obsequious care,</L>
+<L>To win respect from you; it were a part</L>
+<L>Of gracious fauour, if you pleas'd to ioyne</L>
+<L>With vs, in being sutors to the Duke</L>
+<L><PB REF="11"/>
+For his returne to Court.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>To Court! indeed</L>
+<L>You haue some cause to speake; he vndertooke</L>
+<L>Most Champion-like to win the prize at tilt,</L>
+<L>In honour of your picture.—Marry did he:</L>
+<L>There's not a Groome o'th Querry, could haue matcht</L>
+<L>The jolly riding man; pray get him backe,</L>
+<L>I doe not need his seruice, Madam, I.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Not need it, sister? why? I hope you thinke</L>
+<L>'Tis no necessity in me to moue it,</L>
+<L>More then respect of honour.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Honour? puh,</L>
+<L>Honour is talk'd of more than knowne by some.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Sister, these words I vnderstand not.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Swell not vnruly thoughts:</L>
+<L>Madam, the motion you propose, proceeds</L>
+<L>From the true touch of goodnesse; 'tis a plea</L>
+<L>Wherein my tongue and knee shall ioyntly striue</L>
+<L>To beg his Highnesse for <HI>Roseillie's</HI> cause:</L>
+<L>Your iudgement rightly speakes him; there is not</L>
+<L>In any Court of Christendome, a man</L>
+<L>For quality or trust more absolute.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>How? is't euen so?</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>I shall for euer blesse</L>
+<L>Your Highnesse for your gracious kind esteems</L>
+<L>Of my dishartned kinsman; and to adde</L>
+<L>Encouragement to what you vndertake,</L>
+<L>I dare affirme, 'tis no important fault</L>
+<L>Hath caus'd the Dukes distaste.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>I hope so too.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Let your Highnes, and you al, my Lords, take adui<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e</L>
+<L>How you motion his Excellency on <HI>Roseillie's</HI> behalfe:</L>
+<L>There is more danger in that man than is fit to be</L>
+<L>Publikely reported; I could wish things were other wise</L>
+<L>For his owne sake; but I'le assure ye, you will exceedingly</L>
+<L>Alter his Excellencies disposition (he now is in) if you but</L>
+<L>Mention the name of <HI>Roseilli</HI> to his eare; I am so much</L>
+<L><PB REF="12"/>
+Acquainted in the processe of his actions.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>If it be so, I am the sorrier, Sir:</L>
+<L>I'me loth to moue my Lord vnto offence,</L>
+<L>Yet I'le aduenture chiding.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Oh had I <HI>India's</HI> gold, I'de giue it all</L>
+<L>T' exchange one priuate word, one minutes breath</L>
+<L>With this hart-wounding beauty.</L>
+<STAGE>Enter Duke, Ferentes, and Nibrassa.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Prethe no more, <HI>Ferentes,</HI> by the faith</L>
+<L>I owe to honour, thou hast made me laugh</L>
+<L>Beside my spleene; <HI>Fernando,</HI> hadst thou heard</L>
+<L>The pleasant humour of <HI>Maurucio's</HI> dotage</L>
+<L>Discours'd, how in the winter of his age</L>
+<L>He is become a Louer, thou wouldst sweare</L>
+<L>A Morris-dance were but a Tragedy</L>
+<L>Compar'd to that: well, we will see the youth:</L>
+<L>What Councell hold you now, sirs?</L>
+</SP>
+<SP>
+<SPEAKER>Bia.</SPEAKER>
+<L>We, my Lord, were talking of the horsmanship in <HI>France</HI></L>
+<L>Which, as your friend reports, he thinks exceeds</L>
+<L>All other Nations.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>How? why, haue not we</L>
+<L>As gallant Riders here?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>None that I know.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Pish, your affection leads you; I dare</L>
+<L>Wage a thousand Ducats not a man in <HI>France</HI></L>
+<L>Out-rides <HI>Roseilli.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>I shall quit this wrong.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>I said as much, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I haue not seene</L>
+<L>His practice, since my comming backe.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Where is he?</L>
+<L>How is't we see him not?</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>What's this? what's this?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I heare he was commanded from the Court.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Oh confusion on this villanous occasion.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>True; but we meant a day or two at most,</L>
+<L>Should be his furthest terme; not yet return'd?</L>
+<L><PB REF="12"/>
+Where's <HI>D'auolos?</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>You know our minds,</L>
+<L>How comes it thus to passe, we misse <HI>Roseilli.</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>My Lord, in a sudden discontent I heare he departed towards <HI>Beneuento,</HI> determining (as I am giuen to vnder∣stand) to passe to <HI>Si<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>l,</HI> minding to visit his Cozen <HI>Don Pedro de Toledo,</HI> in the Spanish Court.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>The Spanish Court! now by the blessed bones</L>
+<L>Of good S. <HI>Francis,</HI> let there postes be sent</L>
+<L>To call him backe, or I will poste thy head</L>
+<L>Beneath my foot; ha! you, you know my mind,</L>
+<L>Looke that you get him backe; the Spanish Court,</L>
+<L>And without our Commission,—say!</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Here's fine jugling.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Good Sir be not so mou'd.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Fie, fie, <HI>Biancha;</HI></L>
+<L>'Tis such a grosse indignity, I'de rather</L>
+<L>Haue lost seuen yeares reuenue.—The Spanish Court!</L>
+<L>How now, what ayles our sister?</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>On the sudden</L>
+<L>I fall a bleeding, 'tis an ominous signe;</L>
+<L>Pray heauen it turne to good.—Your highnes leaue.—</L>
+<STAGE>Exit</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Looke to her; come <HI>Fernando,</HI> come <HI>Biancha,</HI></L>
+<L>Let's striue to ouerpasse this cholericke heat:</L>
+<L>Sirra, see that you trifle not. How we,</L>
+<L>Who sway the mannage of authority,</L>
+<L>May be abus'd by smooth officious agents?</L>
+<L>But looke well to our sister.——</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Nephew, please you</L>
+<L>To see your friend to night?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Yes, Vnckle, yes:</L>
+<L>Thus bodies walke vnsold; mine eyes but followes</L>
+<L>My heart intomb'd in yonder goodly shrine:</L>
+<L>Life without her, is but death's subtill snares,</L>
+<L>And I am but a Coffin to my cares.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB REF="13"/>
+<HEAD>Actus Secundus.</HEAD>
+<SP>
+<STAGE>Enter Maurucio looking in a glasse, trimming his Beard; Giacopo brushing him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>BEard be confin'd to neatnesse, that no haire</L>
+<L>May stouer vp to pricke my mistris lip,</L>
+<L>More rude than bristles of a Porcupine.</L>
+<L><HI>Giacopo.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Am I all sweet behind?</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>I haue no Powlterers nose, but your apparell sits</L>
+<L>About you most debonarely.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>But <HI>Giacopo,</HI> with what grace doe my words pro∣ceed out of my mouth? haue I a mouing countenance? is there harmony in my voyce? canst thou perceiue, as it were, a hansomenesse of shape in my very breath, as it is formed into syllable, <HI>Giacopo?</HI></P>
+<STAGE>Enter Duke, Lords and Ladies aboue.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>Yes indeed, Sir, I doe feele a sauour as pleasant as—a Glister-pipe,——Calamus or Ciuet.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Obserue him and be silent.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Hold thou the glasse, <HI>Giacopo,</HI> and marke me with what exceeding comlinesse I could court the Lady Marquesse if it come to the push.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Sister, you are his ayme.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>A subiect fit</L>
+<L>To be the stall of laughter.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>That's your musicke.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Thus I reuerse my pace, and thus stalkingly in Courtly gate I aduance, one, two, and three.—Good, I kisse my hand, make my Congee, settle my countenance, and thus begin.—Hold vp the glasse higher, <HI>Giacopo.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>Thus high, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>'Tis well, now marke me:</L>
+<L><PB REF="13"/>
+Most excellent Marquesse, most faire La-dy,</L>
+<L>Let not old age, or haires that are sil-uer</L>
+<L>Dis-parage my desire; for it may be</L>
+<L>I am then other greene youth nimb-ler:</L>
+<L>Since I am your gra-ces seruant so true,</L>
+<L>Great Lady then loue me for my ver-tue.</L>
+<L>Oh <HI>Giacopo! Petrach</HI> was a dunce, <HI>Dantes</HI> a Iig-maker,</L>
+<L><HI>S'anazar</HI> a goose, and <HI>Ar<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>osto</HI> a puck-fist to me:</L>
+<L>I tell thee, <HI>Giacopo,</HI> I am wrap'd with fury,</L>
+<L>And haue beene for these six nights together</L>
+<L>Drunke with the pure liquor of <HI>Helycon.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>I thinke no lesse, Sir;</L>
+<L>For you looke as wild, and talke as idlely</L>
+<L>As if you had not slept these nine yeares.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>What thinke you of this language, sister?</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Sir, I thinke, in princes Courts, no age nor greatnes</L>
+<L>But must admit the foole; in me 'twere folly</L>
+<L>To scorne what greater states than I haue bin.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>O, but you are too generall.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>A foole;</L>
+<L>I thanke your Highnesse; many a womans wit</L>
+<L>Haue thought themselues much better, was much worse.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>You still mistake me.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Silence, note the rest.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>God-a-mercy braines; <HI>Giocopo,</HI> I haue it.</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>What? my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>A conceit, <HI>Giacopo,</HI> and a fine one; downe on thy knees, <HI>Giocopo,</HI> and worship my wit; giue me both thy eares: thus it is, I will haue my picture drawn most composituously in a squire table of some too foot long, from the crowne of the head to the waste downward, no further.</P>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>Then you'le looke like a dwarfe, Sir, being cut off by the middle.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Speake not thou, but wonder at the conceit that followes; In my bosome on my left side. I will haue a lease of blood-red crimson veluet (as it were part of my doublet) open; Which being open'd, <HI>Giacopo,</HI> (now marke) I will
+<PB REF="14"/>
+haue a cleare and most transparent Chrystall in the forme of a heart.—(Singular admirable.) When I haue framed this, I will, as some rare outlandish peece of workemanship, bestow it on the most faire and illustrious Lady <HI>Fiormonda.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>But now, Sir, for the conceit.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P><HI>Simplicity</HI> and <HI>Ignorance,</HI> prate no more: blockhead, dost not vnderstand yet? why this being to her instead of a Looking-glasse, she shall no oftner powder her haire, surfell her cheekes, cleanse her teeth, or conforme the haires of her eye-browes, but hauing occasion to vse this glasse (which for the rarenesse and richnesse of it, she will hourely doe) but she shall as often gaze on my picture, remember me, and behold the excellence of her excellencies beauty, in the prospectiue and mirror, as it were, in my heart.</P>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>I marry, Sir, this is something.</L>
+<L><HI>All aboue.</HI> Ha, ha, ha.——</L>
+<STAGE>Exit Fiormonda.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My sister's gone in anger.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Who's that laughs? search with thine eyes, <HI>Giacopo.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>O my Lord, my Lord, you haue gotten an euerlasting fame; the Dukes grace, and the Dutchesse grace, and my Lord <HI>Fernando's</HI> grace, with all the rabble of Courtiers, haue heard euery word, looke where they stand: now you shall be made a Count for your wit, and I Lord for my Counsell.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Be shrew the chance, we are discouer'd.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Pitty,—oh my wisdome! I must speake to them.</L>
+<L>O Duke most great, and most renowed Dutchesse!</L>
+<L>Excuse my apprehension, which not much-is:</L>
+<L>'Tis loue, my Lord, that's all the hurt you see,</L>
+<L><HI>Angelica</HI> her selfe plead for me.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>We pardon you, most wise and learned Lord,</L>
+<L>And that we may all glorifie your wit,</L>
+<L>Intreat your wisdomes company to day,</L>
+<L>To grace our talke with your graue discourse:</L>
+<L>What sayes your mighty eloquence?</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P><HI>Giacopo,</HI> helpe me; his Grace has put mee out my owne Bias, and I know not what to answer in forme.</P>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>Vd's me, tell him you'll come.</L>
+</SP>
+<SP>
+<PB REF="14"/>
+<SPEAKER>Mau.</SPEAKER>
+<L>Yes, I will come, my Lord the Duke, I will.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>We take your word, and wish your honor health.</L>
+<L>Away then; come <HI>Biancha,</HI> we haue found</L>
+<L>A salue for mellancholy. Mirth &amp; ease.—</L>
+<STAGE>Exit Duke cum suis.</STAGE>
+</SP>
+<LIST>
+<ITEM>Manent</ITEM>
+<ITEM>Biancha</ITEM>
+<ITEM>&amp; Fernando.</ITEM>
+</LIST>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>I'le see the jolly louer and his glasse</L>
+<L>Take leaue of one another.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Are they gone?</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>O my Lord, I doe now smell newes.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>What newes, <HI>Giacopo?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>The Duke has a smackering towards you, and you shall clap vp with his sister, the widow, suddenly.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>She is mine, <HI>Giacopo,</HI> she is mine; aduance the glasse, <HI>Giacapo,</HI> that I may practise as I passe, to walke a portly grace like a Marquesse; to which degree I am now a climbing.</P>
+<P>Thus doe we march to honors hauen of blisse,</P>
+<P>To ride in triumph through <HI>Persepolis.</HI></P>
+<STAGE>Exit Gia, going back<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ward with the glasse, Mau. complementing.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Now, as I liue,</L>
+<L>Here's laughter worthy our presence;</L>
+<L>I will not lose him so.——</L>
+<STAGE>She is going out.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>To me, my Lord!</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Please but to heare</L>
+<L>The story of a Cast-away in loue;</L>
+<L>And ô let not the passage of a jest</L>
+<L>Make slight a sadder subiect, who hath plac'd</L>
+<L>All happinesse in your diuiner eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Lord, the time——</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>The time! yet heare me speake,</L>
+<L>For I must speake or burst: I haue a soule</L>
+<L>So anchor'd downe with cares in seas of woe,</L>
+<L>That passion, and the vowes I owe to you,</L>
+<L>Haue chang'd me to a leane <HI>Anatomy,</HI></L>
+<L>Sweet Princesse of my life—</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Forbeare, or I shall—</L>
+</SP>
+<SP>
+<PB REF="15"/>
+<SPEAKER>Fer.</SPEAKER>
+<L>Yet as you honour vertue, doe not freeze</L>
+<L>My hopes to more discomfort, then as yet</L>
+<L>My feares suggest; no <HI>beauty</HI> so adornes</L>
+<L>The composition of a well-built mind,</L>
+<L>As <HI>pitty:</HI> heare me out.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>No more; I spare</L>
+<L>To tell you what you are; and must confesse,</L>
+<L>Doe almost hate my judgement, that it once</L>
+<L>Thought goodnesse dwelt in you: remember now</L>
+<L>It is the third time since your treacherous tongue</L>
+<L>Hath pleaded treason to my care and fame;</L>
+<L>Yet for the friendship 'twixt my Lord and you,</L>
+<L>I haue not voye'd your follies; if you dare</L>
+<L>To speake a fourth time, you shall rue your lust:</L>
+<L>Tis all no better; learne, and loue your selfe.</L>
+<STAGE>—Exit</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Gon! oh my sorrowes! how am I vndone?</L>
+<L>Not speake againe? no, no, in her chast brest</L>
+<L><HI>Vertue</HI> and <HI>resolution</HI> haue discharg'd</L>
+<L>All female weaknesse: I haue su'd and su'd,</L>
+<L>Kneel'd, wept, and begg'd; but teares, and vowes, and words,</L>
+<L>Moue her no more then summer-winds a rocke:</L>
+<L>I must resolue to checke this rage of blood,</L>
+<L>And will; she is all ycie to my fires,</L>
+<L>Yet euen that yee inflames in me desires.</L>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Petruchio and Roseilli.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Is't possible the Duke should be so mou'd?</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>'Tis true; you haue no enemy at Court</L>
+<L>But her, for whom you pine so much in loue:</L>
+<L>Then master your affections; I am sory you hug your ruine so.</L>
+<L>What say you to the proiect I propos'd?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>I entertaine it, with a greater ioy</L>
+<L>Then shame can checke.</L>
+<STAGE>Enter Fernando.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>You are come as I could wish, my Cozen is resolu'd.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Without delay</L>
+<L>Prapare your selfe, and meet at Courtanon,</L>
+<L>Some halfe houre hence; and <HI>Cupid</HI> blesse your ioy,</L>
+</SP>
+<SP>
+<PB REF="15"/>
+<SPEAKER>Ros.</SPEAKER>
+<L>Is euer man was bounden to a friend—</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>No more; away: loues rage is yet vnknown,</L>
+<STAGE>Exeut</STAGE>
+<L>In his (aye me) too well, I feele my owne:</L>
+<L>So, now I am alone, now let me thinke;</L>
+<L>Shee is the Dutchesse; say she be: A Creature</L>
+<L>Sow'd vp in painted cloth, might so be styl'd,</L>
+<L>That's but a name; shee's married too, she is,</L>
+<L>And therefore better might distinguish loue:</L>
+<L>She's young, and faire; why, Madam, that's the bait</L>
+<L>Inuites me more to hope; she's the Dukes wife;</L>
+<L>Who knowes not this? she's bosom'd to my friend:</L>
+<L><HI>There, there,</HI> I am quite lost: will not be won;</L>
+<L>Still worse and worse; abhorres to heare me speake:</L>
+<L>Eternall mischiefe, I must vrge no more:</L>
+<L>For were I not beleapred in my soule,</L>
+<L>Here were enough to quench the flames of hell.</L>
+<L>What then? pish, I must not speake, I'le write.</L>
+<L>Come then, sad Secretary to my plaints,</L>
+<L>Plead thou my faith, for words are turn'd to sighs.</L>
+<STAGE>he draws a letter.</STAGE>
+<L>What sayes this paper?—<HI>he reads to himselfe.</HI></L>
+<STAGE>Enter D'aurlos with two Pictures.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Now is the time; alone; reading a letter; good; how now? striking his brest? what, in the name of policy, should this meane? tearing his haire? passion, by all the hopes of my life, <HI>plaine passion:</HI> now I perceiue it; if this bee not a fit of some violent affection, I am an asse in vnderstan∣ding; why 'tis plaine, plainer and plainer: Loue in the ex∣treamest: oh for the party, who now? the greatnesse of his spirits is to high cherish'd to be caught with some ordinary stuffe, and if it bee my Lady <HI>Fiormonda,</HI> I am strangely mi∣stooke: well, that I haue fit occasion soone to vnderstand: I haue here two pictures, newly drawne, to bee sent for a present to the Abbot of <HI>Monacho,</HI> the Dutchesse Vncle, her owne and my Ladies: I'le obserue which of these may, per∣haps, bewray him:—a turnes about, my noble Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Y'are welcome, Sir, I thanke you</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Me, my Lord? for what, my Lord?</L>
+</SP>
+<SP>
+<PB REF="16"/>
+<SPEAKER>Fer.</SPEAKER>
+<L>Who's there? I cry you merey, <HI>D'auolos,</HI></L>
+<L>I tooke you for another, pray excuse me;</L>
+<L>What is't you beare there?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>No secret, my Lord, but may be imparted to you:</L>
+<L>A couple of Pictures, my good Lord, please you see them.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I care not much for pictures: but whose are they?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Th'one is for my Lords sister, the other is the Dutchesse.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Ha, <HI>D'auolos,</HI> the Dutchesses?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Yes, my Lord:—sure the word startled him—</L>
+<L>—Obserue that.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>You told me, master Secretary, once,</L>
+<L>You ow'd me loue.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Seruice, my honour'd Lord, howsoeuer you please to terme it.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>'Twere rudenesse to be sutor for a sight,</L>
+<L>Yet trust me, Sir, I'le be all secret.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>I beseech your Lordship;</P>
+<P>They are, as I am, constant to your pleasure:</P>
+<P>This (my Lord) is the widow Marquesses, as it now newly came from the Picture-drawers, the oyle yet greene a sweet Picture; and in my iudgement, Art hath not bin a niggard in striuing to equall the life. <HI>Michael Angelo</HI> himselfe needed not blush to owne the workmanship.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>A very pretty Picture;</L>
+<L>But, kind Signior, to whose vse is it?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>For the Dukes, my Lord, who determines to send it with all speed as a present to <HI>Paul Baglione,</HI> Vnckle to the Dutchesse; that he may see the riches of two such lustres as shine in the Court of <HI>Pauy.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Pray Sir, the other?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>This (my Lord) is for the Dutchesse <HI>Biancha,</HI> a wondrous sweet Picture, if you well obserue with what sin∣gularity the Arts-man hath stroue to set forth each limbe in exquisitest proportion, not missing a haire.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>A haire?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>She cannot more formally,</P>
+<P><PB REF="16"/>
+Or (if it may be lawfull to vse the word) more really, behold her owne <HI>Symetry</HI> in her glasse, then in taking a sensible view of this counterfeit: when I first saw it, I verily almost was of a mind that this was her very lip.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Lip!</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>How constantly he dwels vpon this portrayture? Nay, I'le assure your Lordship there is no defect of cunning. His eye is fixt as if it were incorporated there.—Were not the party her selfe aliue to witnesse that there is a Creature compos'd of flesh and blood, as naturally inriched with such harmony of admirall beauty, as is here artificially counter∣feited, a very curious eye might repute it as an imaginary rapture of some transported conceit, to ayme at an impossi∣bility; whose very first gaze is of force almost to perswade a substantiall loue in a setled heart.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Loue! heart.</L>
+</SP>
+<SP>
+<SPEAKER>R D.</SPEAKER>
+<L>My honor'd Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Oh heauens!</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>I am confirm'd.—Whst ayles your Lordship?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>You need not praise it, Sir, it selfe is praise.</L>
+<L>How neere had I forgot my selfe?—I thanke you.</L>
+<L>'Tis such a picture as might well become</L>
+<L>The shrine of some fain'd <HI>Venus;</HI> I am dazeld</L>
+<L>With looking on't:—pray Sir conuey it hencc.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>I am all your seruant:—blessed, blessed discouery!</L>
+<L>Please you to command me?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>No, gentle Sir: I'me lost beyond my senses.</L>
+<L>D'ee heare Sir, good where dwels the picture maker?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>By the Castles farther draw-bridge, neare <HI>Galzazzo's</HI> statue; his name is <HI>Alphonso Trinultio</HI>—happy aboue all fate.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>You say enough, my thanks t'ee.</L>
+<STAGE>Exit R. D.</STAGE>
+<L>Were that picture</L>
+<L>But rated at my Lordship, 'twere too cheape.</L>
+<L>I feare I spoke or did I know not what,</L>
+<L>All sense of prouidence was in mine eye.</L>
+<STAGE>Enter Ferentes, Maurucio, and Giacopo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fere.</SPEAKER>
+<P>Youth in threescore years and ten; trust me (my Lord
+<PB REF="17"/>
+<HI>Maurucio)</HI> you are now younger in the iudgement of those that compare your former age with your latter, by seuen and twenty yeares, then you were three yeares agoe: by all my fideli<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>y, 'tis a miracle: the Ladies wonder at you.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Let them wonder; I am wise, as I am Courtly.</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>The Ladies, my Lord, call him the <HI>Greene broome</HI> of the Court, he sweeps all before him, and sweare he has a stab∣bing wit: it is a very glister to laughter-</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Nay, I know I can tickle 'em at my pleasure:</L>
+<L>I am stiffe and strong, <HI>Ferentes.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>A Rhedish root is a speare of steele in comparison of</L>
+<L>I know what.—</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>The Marquesse doth loue you.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>She doth loue me.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>And begins to doe you infinite grace. <HI>Maurucio,</HI> infinite grace.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I'le take this time:</L>
+<L>Good houre, my Lords, to both.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Right Princely <HI>Fernando,</HI> the best of the <HI>Fernando's:</HI> by the pith of generation, the man I looke for. His Highnes hath sent to find you out; hee is determin'd to weather his owne proper individuall person, for two dayes space, in my Lord <HI>Narbassa's</HI> forrest, to hunt the Deere, rhe Bucke, the Roe, and eke the Barren Doe.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Is his Highnesse preparing to hunt?</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Yes, my Lord, and resolu'd tolye forth for the breuiating the prolixity of some superfluous transmigration of the Suns double Cadence to the western <HI>Horizon,</HI> my most perspicuous good Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>Oh, Sir, let mee beseech you to speake in your owne mother tongue—two dayes absence—well—my Lord <HI>Maurucio,</HI> I haue a sute t'ee.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>My Lord <HI>Fernando,</HI> I haue a sute to you.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>That you wil accept from me a very choice token of my loue, will you grant it?</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Will you grant mine?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What is't?</L>
+</SP>
+<SP>
+<PB REF="17"/>
+<SPEAKER>Mau.</SPEAKER>
+<P>Onely to know what the sute is, you please to P<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>∣ferre to me.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Why 'tis, my Lord, a Foole.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>A Foole?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>As very a Foole</P>
+<P>As your Lordship is—hopefull to see in any time of your life.</P>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>Now good my Lord part not with the Foole on any termes.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>I beseech you, my Lord, has the foole qualities?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<P>Very rare ones:</P>
+<P>You shall not heare him speake one wise word in a months conuerse; passing temperate of dyet, for keep him from meat foure and twenty houres, and he will fast a whole day and a night together: vnlesse you vrge him to sweare, there sel∣dome comes an oath from his mouth: and of a Foole, my Lord, to tell yee the plaine truth, had'a but halfe as much wit as you, my Lord, he would be in short time three quar∣ters as arrant wise as your Lordship.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P><HI>Giacopo,</HI> these are very rare elements in a creature of little vnderstanding: oh, that I long to see him.</P>
+<STAGE>Enter Petruchio, and Roseillilike a soole.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>A very harmlesse Ideot,</L>
+<L>And as you could wish, looke where he comes.</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Nephew, here is the thing you sent for:</L>
+<L>Come hither Foole, come 'tis a good foole.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Here, my Lord,</L>
+<L>I freely giue you the Foole, pray vse him well for my sake.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>I take the Foole most thankefully at your hands, my Lord: Hast any qualities, my pretty foole? wilt dwell with me?</P>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>A, a, a, a, I.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>I neuer beheld a more naturall Creature in my life.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Vncle, the Duke I heare prepares to hunt:</L>
+<L>Let's in and wait. Farewel <HI>Maurucio.</HI>—</L>
+<STAGE>Exit Fer. et Petr:</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Beast that I am, not to aske the fooles name:</L>
+<L>'Tis no matter, Foole is a sufficient title to call</L>
+<L><PB REF="18"/>
+The greatest Lord in the Court by, if he be no wiser then he.</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>Oh my Lord, what an arrant excellent pretty creature 'tis? come hony, hony, hony, come.</P>
+</SP>
+<SP>
+<SPEAKER>Fere.</SPEAKER>
+<L>You are beholding to my Lord <HI>Fernando</HI> for this gift.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>True; oh that he could but speake methodically!</L>
+<L>Canst speake, Foole?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Can speake; De e e e e—</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>'Tis a present for an Emperor: What an excellent instrument were this to purchase a sute, or a monopoly from the Dukes eare?</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>I haue it, I am wise and fortunate; <HI>Giacopo,</HI> I will leaue all conceits, and instead of my picture, offer the Lady Marquesse this mortall man of weake brayne.</P>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>My Lord you haue most rarely bethought you;</L>
+<L>For so shall she no oftner see the Foole,</L>
+<L>But she shall remember you better,</L>
+<L>Then by a thousand Looking-glasses.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>She will most graciously entertaine it.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>I may tell you, <HI>Ferentes,</HI> there's not a great woman amongst forty, but knowes how to make sport with a Foole. Dost know how old thou art, sirrah?</P>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Dud—a clap cheek for nowne sake gaffer. h ee e e e e.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Alas, you must aske him no questions; but clap him on the cheeke: I vnderstand his language; your Foole is tho tender hearted'st creature that is.</P>
+<STAGE>Enter Fiormonda, D'auolos, Iulia.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>No more, thou hast, in this discouery,</L>
+<L>Exceeded all my fauours, <HI>D'auolos.</HI></L>
+<L>Is't mistris Madam Dutchesse? braue reuenge.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>But had your Grace seene the infinite appetite of lust in the piercing adultery of his eye, you would—</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Or change him, or confound him, prompt dissembler!</L>
+<L>Is here the bond of his Religious vow?</L>
+<L>And that, now when the Duke is rid abroad,</L>
+<L>My Gentleman will stay behind, is sicke—or so.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Not altogether in health, it was the excuse he made.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Most fit opportunitie:</L>
+<L><PB REF="18"/>
+Her grace comes iust i'th nicke; let me study.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>Lose no time, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>To her, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Vouchsafe to stay thy foot, most <HI>Cynthian</HI> hue.</L>
+<L>And from a Creature, euer vow'd thy seruant,</L>
+<L>Accept this gift; most rare, most fi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>, most new,</L>
+<L>The earnest penhy of a loue so seruent.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>What meanes the jolly youth?</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Nothing, sweet Princesse,</P>
+<P>But onely to present your grace with this sweet fac'd Foole: please you to accept him to make you merry; I'le assure your Grace, he is a very whole some Foole.</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>A foole? you might as well ha giuen your selfe:</L>
+<L>Whence is he?</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Now, iust very now, giuen me out of speciall fauour, by the Lord <HI>Fernando,</HI> Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>By him? well, I accept him; thanke you for't:</L>
+<L>And in requitall, take that Tooth picker.</L>
+<L>'Tis yours.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>A Tooth-picker; I kisse your bounty: no quibble now?</L>
+<L>And Madam,</L>
+<L>If I grow sicke, to make my spirits quicker,</L>
+<L>I will reuiue them with this sweet Tooth-picker.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Make vse on't as you list; here <HI>D'auolos,</HI></L>
+<L>Take in the Foole.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Come, sweet heart, wilt along with me?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>V v vmh—v v vmh—won not, won not—v v vmh</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Wilt goe with me, chicke?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Will goe, te e e—goe will goe—</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Come <HI>D'auolos,</HI> obserue to night; 'tis late:</L>
+<L>Or I will win my choyce, or curse my fate.</L>
+<STAGE>Exit Fior. Ros. &amp; D'auolos.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>This was wisely done now: S'foot you purchase A fauour from a Creature, my Lord, the greatest King of the earth wud be proud of.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Giacope!</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<PB REF="19"/>
+<SPEAKER>Mau.</SPEAKER>
+<P>Come behind me, <HI>Giacopo;</HI> I am big with conceit and must be deliuered of poetry, in the eternall commenda∣tion of this gracious <HI>Tooth-picker:</HI> but first, I hold it a most healthy policy to make a flight supper.</P>
+<P>For meat's the food that must preserue our liues,</P>
+<P>And now's the time, when mortals whet their kniues on thresholds, shoo-soles, Cart-wheeles, &amp;c. Away <HI>Giacopo.</HI></P>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Colona with lights, Biancha, Fiormonda, Iulia, Fernando, and D'auolos; Colona placeth the lights on a Table, and sets downe a Chesse-board.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>'Tis yet but early night, too soone to sleepe:</L>
+<L>Sister, shall's haue a mate at Chesse?</L>
+</SP>
+<SP>
+<SPEAKER>Fior,</SPEAKER>
+<L>A mate!</L>
+<L>No, Madam; you are growne too hard for me:</L>
+<L>My Lord <HI>Fernando</HI> is a fitter match.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>He's a well practiz'd gamester:</L>
+<L>Well, I care not, how cunning so er'e he be,</L>
+<L>To passe an houre; I'le try your skill, my Lord;</L>
+<L>Reach here the Chesse-board.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Are you so apt to try his skill, Madam Dutchesse?</L>
+<L>Very good.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I shall bewray too much my ignorance</L>
+<L>In striuing with your Highnesse; 'tis a game</L>
+<L>I lose at still, by ouersight.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Well, well, I feare you not, let's too't.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>You need not, Madam.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Marry needs she not; how gladly will shee too't? 'tis a <HI>Rooke</HI> to a <HI>Queene,</HI> she heaues a <HI>pawne</HI> to a <HI>Knights place;</HI> by'rlady, if all be truly noted, to a <HI>Dukes place;</HI> and that's be∣side the play, I can tell ye.</P>
+<STAGE>Fernando and Dutchesse, play.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Madam, I must <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ntreat excuse; I feele</L>
+<L>The temper of my body not in case</L>
+<L>To iudge the strife.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Lights for our sister, sirs:</L>
+<L>Good rest t'ee; I'le but end my game and follow.</L>
+<STAGE><PB REF="19"/>
+Fiormrnda takes her leaue, attended by D'auolos and Iulia: as she goes out, she speakes to D'auolos.—</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Let 'em haue time enough, and as thou canst,</L>
+<L>Be neare to heare their Courtship, <HI>D'auolos.</HI></L>
+</SP>
+<SP>
+<SPEAKER>R, D.</SPEAKER>
+<L>Madam, I shall obserue 'em with all cunning secrecy.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L><HI>Colona,</HI> attend our sister to her chamber.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>I shall Madam.—</L>
+<STAGE>Exit Fior. Col. Iul. &amp; R. D.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Play.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I must not lose th'aduantage of the game:</L>
+<L>Madam, your Queene is lost.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Clergy helpe me;</L>
+<L>My Queene! and nothing for it but a pawne?</L>
+<L>Why then the game's lost too; but play.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What Madam?</L>
+<STAGE>Fernando often lookes about.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>You must needs play well,</L>
+<L>You are so studious.—</L>
+<L>Fie vpon't, you study past patience:—</L>
+<L>What d'ee dreame on? here's demurring</L>
+<L>Would weary out a statue.—Good now play.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Forgiue me, let my knees for euer stick</L>
+<STAGE>he kneels.</STAGE>
+<L>Nayl'd to the ground, as earthy as my feares;</L>
+<L>E're I arise, to part away so curst</L>
+<L>In my vnbounded anguish, as the rage</L>
+<L>Of flame's, beyond all Vtterance of words,</L>
+<L>Deuoure me; lightned by your sacred eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>What meanes the man?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>To lay before your feet</L>
+<L>In lowest vassalage, the bleeding heart</L>
+<L>That sighes the tender of a suit disdain'd.</L>
+<L><HI>Great Lady</HI> pitty me, my youth, my wounds,</L>
+<L>And doe not thinke, that I haue cull'd this time</L>
+<L>From motions swiftest measure, to vnclaspe</L>
+<L>The booke of lust; if purity of loue</L>
+<L>Haue residenee in vertues quest; loe here,</L>
+<L>Bent lower in my heart than on my knee,</L>
+<L>I beg compassion to a loue, as chast</L>
+<L>As softnesse of desire can intimate.</L>
+<STAGE><PB REF="20"/>
+Enter D'auolos, ieering and listening.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>At it already? admirable hast.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Am I againe betray'd?—bad man.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Keepe in</L>
+<L>Bright Angell, that seuerer breath, to coole</L>
+<L>That heat of cruelty, which swayes the Temple</L>
+<L>Of your too stony breast; you cannot vrge</L>
+<L>One reason to rebuke my trembling plea,</L>
+<L>Which I haue not, with many nights expence,</L>
+<L>Examin'd; but, O <HI>Madam,</HI> still I find</L>
+<L>No Physicke strong to cure a tottur'd mind,</L>
+<L>But freedome from the torture it sustaines.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Not kissing yet? still on vour knees? O for a plump Bed and cleane sheets, to comfort the aking of his shinnes! We shall haue 'em clip anon, and lispe kisses; here's ceremo∣ny with a vengeance.</P>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Rise vp, we charge you, rise; looke on our face.</L>
+<STAGE>he ri∣seth.</STAGE>
+<L>What see you there that may perswade a hope</L>
+<L>Of lawlesse loue? Know, most <HI>vnworthy man,</HI></L>
+<L>So much we ha<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e the basenesse of thy lust,</L>
+<L>As were none liuing of thy sexe but thee,</L>
+<L>We had much rather prostitute our blood</L>
+<L>To some inuenom'd Serpent, then admit</L>
+<L>Thy bestiall dalliance: couldst thou dare to speake</L>
+<L>Againe, when we forbad? no, <HI>wretched thing,</HI></L>
+<L>Take this for answer; If thou henceforth ope</L>
+<L>Thy leprous mouth to tempt our eare againe,</L>
+<L>We shall not onely certifie our Lord</L>
+<L>Of thy <HI>disease in friendship,</HI> but reuenge</L>
+<L>Thy boldnesse with the forfeit of thy life.</L>
+<L>Thinke on't.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Now, now, now the game is a foot, your gray Iennet with the white face is curried, forsooth; please your Lord∣ship leape vp into the saddle, forsooth;—poore Duke, how does thy head ake now?</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Stay, goe not hence in choller, <HI>blessed woman!</HI></L>
+<L>Y'haue school'd me, lend me hearing; though the float</L>
+<L><PB REF="20"/>
+Of infinite desires swell to a tide</L>
+<L>Too high so soone to ebbe, yet by this hand,</L>
+<STAGE>kisses her hand</STAGE>
+<L>This glorious gracious hand of yours—</L>
+</SP>
+<SP>
+<SPEAKER>R, D.</SPEAKER>
+<L>I marry, the match is made, clap hands and too't ho.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I sweare,</L>
+<L>Henceforth I neuer will asmuch in word,</L>
+<L>In letter, or in sillable, presume</L>
+<L>To make a repetition of my griefe<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></L>
+<L>Good night t'ee: if when I am dead you rip</L>
+<L>This Coffin of my heart, <HI>there shall you read</HI></L>
+<L><HI>With constant eyes, what now my tongue defines,</HI></L>
+<L><HI>Biancha's name caru'd out in bloody lines.</HI></L>
+<L>For euer, Lady, now good night.</L>
+<STAGE>Enter with lights.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Good night:</L>
+<L>Rest in your goodnesse; lights there; Sir good night.</L>
+<STAGE>Exeunt sundry wayes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>So, <HI>via</HI>—to be cuckold (mercy and prouidence) is as natural to a married man, as to eat sleep or weare a night∣cap. Friends! I will rather trust mine arme in the throat of a Lion, my purse with a Curtezan, my necke with the chance on a Dye, or my Religion in a Synagogue of Iewes, then my wife with a friend; wherein doe Princes exceed the poorest peasant that euer was yoak'd to a sixpenny strumpet, but that the hornes of the one are mounted some two inches higher by a <HI>Choppine</HI> then the other? oh <HI>Acteon!</HI> the goodliest headed beast of the Forrest, amongst wild cattle, is a Stag; and the goodliest beast amongst tame fooles in a Corporation is a Cuckold.</P>
+<STAGE>Enter Fiormonda.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Speake <HI>D'auolos,</HI> how thriues intelligence?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Aboue the preuention of Fate, Madam: I saw him kneele make pittifull faces, kisse hands and forefingers, rise and by this time he is vp, vp Madam: dobtlesse the youth aymes to be Duke, for hee is gotten into the Dukes seat an hower agoe.</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Is't true?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Oracle, oracle; siege was laid, parley admitted, com∣sition
+<PB REF="21"/>
+offered, and the Fort entrred; there's no interruption, the Duke will be at home to morrow (gentle <HI>Animal)</HI> what d'ee resolue?</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>To stirre vp Tragedies as blacke as braue;</L>
+<L>And sending the Lecher panting to his grane.—</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Branchae, her haire about her eares, in her night mantle; she drawes a Curtaine, where <HI>Fernando</HI> is discouered in bed, sleeping, she sets downe the Candle before the Bed, and goes to the Bed side.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Resolue, and doe; 'tis done, What, are those eyes</L>
+<L>Which lately were so ouerdrown'd in teares,</L>
+<L>So easie to take rest? Oh happy man!</L>
+<L>How sweetly sleepe hath seal'd vp sorrowes here?</L>
+<L>But I will call him: What? <HI>My Lord, my Lord,</HI></L>
+<L>My Lord Fernando.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Who cals me?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Lord,</L>
+<L>Sleeping or waking?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Ha! who is't?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>'Tis I:</L>
+<L>Haue you forgot my voyce? or is your eare</L>
+<L>But vsefull to your eye?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam, the Dutchesse?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Shee, 'tis she; sit vp,</L>
+<L>Sit vp and wonder, whiles my sorrowes swell:</L>
+<L>The nights are short, and I haue much to say.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Is't possible, 'tis you?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>'Tis possible;</L>
+<L>Why doe you thinke I come?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Why! to crowne ioyes,</L>
+<L>And make me master of my best desires.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>'Tis true, you guesse aright; sit vp and listen.</L>
+<L>With shame and passion now I must confesse,</L>
+<L>Since first mine eyes beheld you, in my heart</L>
+<L>You haue beene onely King; if there can be</L>
+<L>A violence in loue, then I haue felt</L>
+<L>That tyranny; be record to my soule,</L>
+<L><PB REF="21"/>
+The Iustice which I for this folly feare:</L>
+<L><HI>Fernando,</HI> in short words, how e're my tongue</L>
+<L>Did often chide thy loue, each word thou spak<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>st</L>
+<L>Was musicke to my eare; was neuer poore</L>
+<L>Poore wretched woman liu'd, that lou'd like me;</L>
+<L>So truly, so vnfainedly.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Oh Madam—</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>To witnesse that I speake is truth,—looke here,</L>
+<L>Thus singly I aduenture to thy bed,</L>
+<L>And doe confesse my weaknesse; if thou tempt'st</L>
+<L>My bosome to thy pleasures, I will yeeld.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Perpetuall happinesse!</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Now heare me out:</L>
+<L>When first <HI>Caraffa, Pauy's Duke,</HI> my Lord,</L>
+<L>Saw me, he lou'd me; and without respect</L>
+<L>Of dower, tooke me to his bed and bosome,</L>
+<L>Aduanc'd me to the title<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> possesse;</L>
+<L>Not mou'd by <HI>Counsell,</HI> or remou'd by <HI>greatnesse,</HI></L>
+<L>Which to requite, betwixt my soule and heauen,</L>
+<L>I vow'd a vow to liue a constant wife;</L>
+<L>I haue done so: nor was there in the world</L>
+<L>A man created, could haue broke that truth</L>
+<L>For all the glories of the earth, but thou;</L>
+<L>But thou, <HI>Fernando:</HI> Doe I loue thee now?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Beyond imagination.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>True, I doe,</L>
+<L>Beyond imagination: if no pledge</L>
+<L>Of loue can instance what I speake is true,</L>
+<L>But losse of my best ioyes, here, here, <HI>Fernando,</HI></L>
+<L>Be satisfied, and ruine me.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What d'ee meane?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>To giue my body vp to thy embraces,</L>
+<L>A pleasure that I neuer wish'd to thriue in,</L>
+<L>Before this fatall minute: marke me now;</L>
+<L>If thou dost spoyle me of this <HI>robe of <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ame,</HI></L>
+<L>By my best comforts, here I vow agen,</L>
+<L>To thee, to heauen, to the world, to time,</L>
+<L><PB REF="22"/>
+E're yet the morning shall new christen day,</L>
+<L>I'le kill my selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>How madam, how?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>I will:</L>
+<L>Doe what thou wilt, 'tis in thy choyce; what say yee?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Pish, doe you come to try me? tell me, first,</L>
+<L>Will you but grant a kisse?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Yes, take it; that,</L>
+<L>Or what thy heart can wish: I am all thine.</L>
+<STAGE>Kisses her.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Oh me—Come, come, how many women pray</L>
+<L>Were euer heard or read of, granted loue,</L>
+<L>And did as you protest you will?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L><HI>Fernando;</HI></L>
+<L>Iest not at my calamity: I kneele:—</L>
+<STAGE>She kneeln.</STAGE>
+<L>By these disheauel'd hayres, these wretched teares,</L>
+<L>By all that's good, if what I speake, my heart</L>
+<L>Vowes not eternally, then thinke, my Lord,</L>
+<L>Was neuer man su'd to me I deny'd,</L>
+<L>Thinke me a common and most cunning whore,</L>
+<L>And let my sinnes be written on my graue,</L>
+<L>My name rest in reproofe.—Doe as you list</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I must beleeue ye, yet I hope anon,</L>
+<L>When you are parted from me, you will say</L>
+<L>I was a good cold easie-spirited man:</L>
+<L>Nay, laugh at my simplicity; say, will ye?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>No by the faith I owe my Bridall vowes:</L>
+<L>But euer hold thee much much dearer farre</L>
+<L>Then all my ioyes on earth, by this chast kisse.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>You haue preuail'd, and heauen forbid that <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></L>
+<L>Should by a want on appetite prophane</L>
+<L>This sacred Temple; 'tis enough for me</L>
+<L>You'll please to call me seruant.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Nay, be thine:</L>
+<L>Command my power, my bosome; and I'le write</L>
+<L>This loue within the tables of my heart.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Enough; I'le master passion, and triumph</L>
+<L>In being conquer'd; adding to it this,</L>
+<L><PB REF="22"/>
+In you my loue, as it begun, shall end.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>The latter I new vow—but day comes on,</L>
+<L>What now we leaue vnfinish'd of content,</L>
+<L>Each houre shall perfect vp: Sweet, let's part.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>This kisse,—best life good rest.</L>
+<STAGE>Kisse.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian,</SPEAKER>
+<L>All mine to thee.</L>
+<L>Remember this, and thinke I speake thy words:</L>
+<L><HI>When I am dead, rip vp my heart and read</HI></L>
+<L><HI>With constant eyes, what now my tongue defines,</HI></L>
+<L><HI>Fernando's name caru'd out in bloody lines.</HI></L>
+<L>Once more good rest, Sweet.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Your most faithfull seruant.</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus Tertius.</HEAD>
+<SP>
+<STAGE>Enter Nibrassa chasing, after him Iulia weeping<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></STAGE>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>GEt from me, strumpet, in famous whore, leprosie of my blood, make thy moane to Ballad singers, and Rimers, they'll Iigge out thy wretchednesse and abominati∣ons to new tunes; as for me, I renounce thee, th'art no daugh∣ter of mine, I disclayne the legitimation of thy birth, and Curse the houre of thy Natiuity.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Pray Sir vouchsafe me hearing.</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<L>With child I shame to my graue!</L>
+<L>Oh whoore, wretched beyond vtterance or reformation!</L>
+<L>What would'st say?</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Sir, by the honor of my mothers hearse,</L>
+<L>He has protested marriage, pledg'd his faith:</L>
+<L>If vowes haue any force, I am his wife.</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>His faith?</P>
+<P>Why thou foole, thou wickedly credulous foole,</P>
+<P>Canst thou imagine Luxury is obseruant of Religion? No, no, it is with a frequent Lecher as vsuall to for sweare as to sweare, their piety is in making idolatry a worship, their
+<PB REF="23"/>
+harts and their tongues are as different as thou (thou whorel) and a Virgin.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>You are too violent, his truth will proue</L>
+<L>His constancy, and so excuse my fault.</L>
+</SP>
+<SP>
+<SPEAKER>Nibr.</SPEAKER>
+<P>Shamelesse woman! this beleefe will damne thee: how will thy Lady Marquesse iustly reproue me, for prefer∣ring to her seruice a monster of so lewd and impudent a life? Looke too't; if thy smooth diuell leaue thee to thy infamy, I will neuer pitty thy mortall pangs, neuer lodge thee vnder my roofe, neuer owne thee for my childe; mercy bee my witnesse.—</P>
+<STAGE>Enter Petruchio, leading Colona.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Hide not thy folly by vnwise excuse.</L>
+<L>Thou art vndone, <HI>Colona;</HI> no entreaties,</L>
+<L>No warning, no perswasion, could put off</L>
+<L>The habit of thy dotage on that man</L>
+<L>Of much deceit, <HI>Ferentes:</HI> would thine eyes</L>
+<L>Had seene me in my graue, e're I had knowne</L>
+<L>The staine of this thine honour.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Good my Lord,</L>
+<L>Reclaime your incredulitie; my fault</L>
+<L>Proceeds from lawfull composition</L>
+<L>Of Wedlocke; he hath seal'd his oath to mine,</L>
+<L>To be my husband.</L>
+</SP>
+<SP>
+<SPEAKER>Nibr.</SPEAKER>
+<P>Husband? hey da! is't euen so? nay then we haue partners in affliction: if my jolly gallants long Clapper haue strucke on both sides, all is well: <HI>Petruchio,</HI> thou art not wise enough to be a Parator; come hither man, come hither, speak softly, is thy daughter with child?</P>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>With child, <HI>Nibrassa?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>Fo, doe not trick me off, I ouerheard your gabling; Harke in thine eare, so is mine too.</P>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Alas, my Lord, by whom?</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>Innocent by whom: what an idle question is that? One Cocke hath trod both our Hens, <HI>Ferentes, Ferentes:</HI> who else? How dost take it? me thi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>kes thou att wondrous pa∣tient: Why, I am mad, starke mad.</P>
+</SP>
+<SP>
+<PB REF="23"/>
+<SPEAKER>Petr.</SPEAKER>
+<L>How like you this, <HI>Colona,</HI> 'tis too true?</L>
+<L>Did not this man protest to be your husband?</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Ay me, to me he did.</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>What else, what else, <HI>Petruchio?</HI> and Madam, my quondam daughter, I hope h'aue past some huge words of matrimony to you too.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Alas, to me he did.</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>And how many more, the great <HI>Iucubus</HI> of hel knows best: <HI>Petruchio,</HI> giue me your hand, mine owne daughter in this arme, and yours, <HI>Colona,</HI> in this; there, there, sit ye down together; neuer rise, as you hope to inherit our blessings, till you haue plotted some braue reuenge: thinke vpon it to purpose, and you shall want no seconds to further it, be secret one to another: Come, <HI>Petruchio,</HI> let 'em alone, the wenches will demurre on't, and for the processe, wee'll giue 'em courage.</P>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>You counsell wisely, I approue your plot:</L>
+<L>Thinke on your shames, and who it was that wrought 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>I, I, I, leaue them alone: to worke, wenches, to worke.—</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>We are quite ruin'd.</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>True, <HI>Colona,</HI></L>
+<L>Betray'd to infamy, deceiu'd and mock'd</L>
+<L>By an vnconstant Villaine; what shall's doe?</L>
+<L>I am with childe.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Hey-ho, and so am I:</L>
+<L>But what shall's doe now?</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>This; with cunning words</L>
+<L>First proue his loue; he knowes I am with child.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>And so he knowes I am: I told him on't</L>
+<L>Last meeting in the lobby, and in troth</L>
+<L>The false deceiuer laugh'd.</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Now by the starres he did the like to me,</L>
+<L>And said, 'twas well I was so hap'ly sped.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Those very words</L>
+<L>He vs'd to me; it fretted me to'th heart:</L>
+<L>I'le be reueng'd.</L>
+<STAGE><PB REF="24"/>
+Enter Ferentes, and Morona an old Lady.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Peace, here's a noyse me thinkes:</L>
+<L>Let's rise, wee'll take a time to talke of this?</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Will yee? hold: death of my delights, haue yee lost all sense of shame? y'are best rore about the Court, that I haue beene your womans-barber, and trimm'd yee, kinde <HI>Morona.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<P>Defiance to thy kindnesse, th'ast robd me of my good name, didst promise to loue none but mee, mee, onely mee; swor'st, like an vnconscionable villaine, to marry mee the twelfth day of the month, two months since; didst make my bed thine owne, mine house thine owne, mine, all and euery thing thine owne, I will exclaime to the world on thee, and begge Iustice of the Duke himselfe: Villaine, I will.</P>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Yet againe; nay, and if you be in that mood, shut vp your fore-shop, I'le be your Iourny-man no longer: why wise <HI>Madam Dryfist,</HI> could your mouldy braine bee so addle, to imagine I would marry a stale widdow at six and forty? Marry gip, are there not varieries enough of thirteene? come, stop your <HI>Clap-dish,</HI> or I'le purchase a Carting for you: By this light, I haue toyl'd more with this <HI>tough Carrion hen,</HI> then with ten <HI>Quailes,</HI> scarce growne into their <HI>first Feathers.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<P>O Treason to all honesty or Religion, speake thou periur'd-damnable-vngracious-defiler of women, who shall father my child which thou hast begotten?</P>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Why thee, Country woman; th'ast a larger purse to pay for the nursing: nay, if you'll needs haue the world know how you, reputed <HI>a graue-Matron-like Motherly-Madam,</HI> kick'd vp your heeles like a Iennet, whose mark is new come into her mouth, ee'ne doe, doe; the worst can be said of me is, that I was ill aduis'd to <HI>digge for gold in a Cole-pit:</HI> Are you answer'd?</P>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<L>Answer'd?</L>
+</SP>
+<SP>
+<SPEAKER>Iul</SPEAKER>
+<L>Let's fall amongst'em,—Loue—how is't chick? ha.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>My deere <HI>Ferentes,</HI> my betrothed Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Excellent: oh for three Barbary stone horses to top three Flanders Mares? why how now Wenehes, what means this?</P>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>Mor.</SPEAKER>
+<L>Out vpon me, here's more of his truls.</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Loue, you must goe with me.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Good Loue, let's walke.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>I must rid my hands of'em, or they'll ride on my shoulders; by your leaue, Ladies: here's none but is of <HI>Com∣mon Counsaile</HI> one with another: in short, there are three of ye with child, you tell me <HI>by me:</HI> all of you I cannot satisfie, (nor indeed hansomely any of ye) you all hope I should mar∣ry you, which for that it is impossible to be done, I am con∣tent to haue neither of ye; for your looking big on the mat∣ter, keepe your owne Counsailes, I'le not bewray ye; but for mariage, heauen blesse ye, &amp; me frō ye; this is my resolution.</P>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>How, not me!</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Not me!</L>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<L>Not me!</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Nor you, nor you, nor you.</P>
+<P>And to giue you some satisfaction, I'le yeeld you reasons: you, <HI>Colona,</HI> had a pretty art in your dalliance, but your fault was, you were <HI>too suddenly won;</HI> you, <HI>Madam Morona,</HI> could haue pleas'd wel enough some three or foure &amp; thirty yeares agoe, but you are <HI>too old;</HI> you, <HI>Iulia,</HI> were young enough, but your fault is, you haue a <HI>scuruy face;</HI> now euery one knowing her proper defect, thanke me, that I euer vouchsaf'd you the honor of my bed once in your liues: if you want clouts, al I'le promise, is to rip vp an old shirt or two; so wishing a speedy deliuerāce to al your burdēs, I cōmond you to your patience</P>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<L>Excellent.</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Notable.</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Vnmatch'd Villaine.</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Madam, though strangers, yet we vuderstand</L>
+<L>Your wrongs doe equall ours; which to reuenge,</L>
+<L>Please but to ioyne with vs, and wee'll redeeme</L>
+<L>Our losse of honour, by a braue exploit.</L>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<P>I embrace your motion, Ladies, with gladnesse, and will striue by any action to ranke with you in any danger.</P>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Come Gentlewomen, let's together then,</L>
+<L>Thrice happy maids that neuer trusted men.—</L>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB REF="25"/>
+Enter Duke, Biancha supported by Fernando, Fior<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>nda, Petru∣chio, Nibrassa, Ferentes, and D'auolos.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L><HI>Roseilli</HI> will not come then? will not? well,</L>
+<L>His pride shall ruine him.—Our letters speake</L>
+<L>The Dutchesse Vncle will be here to morrow.</L>
+<L>To morrow, <HI>D'auolos.</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>To morrow night, my Lord, but not to make more then one dayes abode here: for his Holinesse has commanded him to be at <HI>Rome</HI> the tenth of this month, the Conclaue of Cardinals not being resolu'd to sit till his comming.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Your Vncle (Sweet-hart) at his next returne,</L>
+<L>Must be saluted Cardinall: <HI>Ferentes,</HI></L>
+<L>Be it your charge to thinke on some deuice</L>
+<L>To entertaine the present with delight.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>My Lord, in honour to the Court of <HI>Pauy,</HI></L>
+<L>I'le ioyne with you: <HI>Ferentes,</HI> not long since,</L>
+<L>I saw in <HI>Bruxils,</HI> at my being there,</L>
+<L>The Duke of <HI>Brabant</HI> welcome the Arch-bishop</L>
+<L>Of <HI>Mentz</HI> with rare conceit, euen on a sudden</L>
+<L>Perform'd by Knights and Ladies of his Court,</L>
+<L>In nature of an Anticke; which, me thought,</L>
+<L>(For that I ne're before saw women Anticks)</L>
+<L>Was for the newnesse strange, and much commended.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Now good my Lord <HI>Fernando</HI> further this</L>
+<L>In any wise, it cannot but content.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>If she intreat, 'tis ten to one the man</L>
+<L>Is won before hand.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Friend, thou honour'st me:</L>
+<L>But can it be so speedily perform'd?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I'le vndertake it, if the Ladies please</L>
+<L>To exercise in person onely that;</L>
+<L>And we must haue a Foole, or such an one</L>
+<L>As can with Art well act him.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>I shall fit yee,</L>
+<L>I haue a naturall.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Best of all, Madam; then nothing wants:</L>
+<L>You must make one, <HI>Ferentes.</HI></L>
+</SP>
+<SP>
+<PB REF="25"/>
+<SPEAKER>Feren.</SPEAKER>
+<L>With my best <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> and dexterity, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>This fals out happily, <HI>Nibrassa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<L>We could not wish it better:</L>
+<L>Heauen is an vnbrib'd Iustice.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Wee'll meet our Vncle in a solemne grace</L>
+<L>Of zealous presence, as becomes the Church:</L>
+<L>See all the Quire be ready, <HI>D'auolos.</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>I haue already made your Highnesse pleasure known to them.</P>
+</SP>
+<SP>
+<SPEAKER>Bian</SPEAKER>
+<L>Your lip, my Lord!</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<P>Perhaps your teeth haue bled, wip't with my hand∣kercher; giue me, I'le doo't my selfe.—Speake, shall I steale a kisse? beleeue me, my Lord, I long.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Not for the world.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Apparant impudence.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Beshrew my heart, but that's not so good.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Ha, what's that thou mislik'st <HI>D'auolos?</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Nothing, my Lord,—but I was hammering a conceit of mine own, which cannot (I find) in so short a time thriue, as a dayes practise.</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Well put off, Secretary.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>We are too sad, me thinkes the life of mirth</L>
+<L>Should still be fed where we are;</L>
+<L>Where's <HI>Maurucio?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Feren</SPEAKER>
+<P>And't please your Highnesse, hee's of late growne so affectionately inward with my Lady Marquesses Foole, that I presume he is confident, there are few wise men wor∣thy of his society, who are not as innocently harmelesse as that creature; it is almost impossible to seperate them, and 'tis a question which of the two is the wiser man.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Would a were here, I haue a kind of dulnesse</L>
+<L>Hangs on me since my hunting, that I feele</L>
+<L>As 'twere a disposition to be sicke, my head is euer aking.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>A shrewd ominous token; I like not that neither.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Againe! what is't you like not?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>I beseech your Highnesse excuse me; I am so busie
+<PB REF="26"/>
+with his friuolous proiect, and can bring it to no shape, that it almost confounds my capacity.</P>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Lord, you were best to try a set at Maw;</L>
+<L>I and your friend, to passe away the time,</L>
+<L>Will vndertake your Highnesse and your sist<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>er</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>The game's too tedious.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>'Tis a peeuish play,</L>
+<L>Your <HI>Knaue</HI> will heaue the <HI>Queene</HI> out, or your <HI>King;</HI></L>
+<L>Besides, 'tis all on fortune.</L>
+<STAGE>Enter Maurucio, Roseillilike a foole, and Giacopo.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Blesse thee, most excellent Duke; I here present thee as worthy and learned a Gentleman, as euer I (and yet I haue liued threescore yeares) conuers'd with; take it from me, I haue try'd him, and is worthy to be priuy-Counsayler to the greatest <HI>Turke in Christendome:</HI> of a most apparant and deep vnderstanding, slow of speech, but speaks to the purpose; Come forward, Sir, and appeare before his Highnesse in your owne proper Elements.</P>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Will—tye—to da new toate sure la now.</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>A very senselesse Gentleman, and please your High∣nesse, one that has a great deale of little wit, as they say.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Oh Sir, had you heard him as I did, deliuer whole histories in the <HI>Tangay tongue,</HI> you would sweare there were not such a linguist breath'd againe; and did I but perfectly vnderstand his language, I would be confident, in lesse then two houres, to distinguish the meaning of Bird, Beast, or Fish, naturally, as I my selfe speake Italian, my Lord.—Well, he has rare qualities.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Now prethe question him, <HI>Maurucio.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>I will, my Lord.</L>
+<L>Tell me, rare scholler, which in thy opinion,</L>
+<L>Doth cause the strongest breath,—<HI>garlick</HI> or <HI>onyon?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>Answer him, brother foole; doe, doe, speak thy mind <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>hucke, doe.</P>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Haue bid seen all da fyne knack, and d'ee</L>
+<L>Naghtye tat-tle of da kna<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ue, dad la haue so.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>We vnderstand him not.</L>
+</SP>
+<SP>
+<PB REF="26"/>
+<SPEAKER>Mau.</SPEAKER>
+<L>Admirable, I protest, Duke; marke oh Duke, mark!</L>
+<L>What did I aske him, <HI>Giacopo?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>Which caused the strongest breath, garlicke or ony∣ons, I take it, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Right, right by <HI>Hellicon;</HI> and his answer is, that a knane has a stronger breath then any of 'em; wisedome (or I am an Asse) in the highest, a direct Figure; put it downe, <HI>Giacopo</HI></P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>How happy is that Ideot, whose ambition</L>
+<L>Is but to eat, and sleepe, and shun the rod:</L>
+<L>Men that haue more of wit, and vse it ill,</L>
+<L>Are fooles in proofe.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>True, my Lord, there's many</L>
+<L>Who thinke themselues most wise, that are most fooles.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Bitter girds if all were knowne,—but—</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>But what? speake out; plague on your muttering</L>
+<L>Grumbling, I heare you, Sir, what is't?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Nothing, I protest, to your Highnesse pertinent, to any moment.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Wel, Sir, remember.—Friend, you promis'd study.</L>
+<L>I am not well in temper; come <HI>Biancha,</HI></L>
+<L>Attend our friend <HI>Ferentes.</HI></L>
+<STAGE>exeunt. manent Fer. Ros. Feren. et Mau.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L><HI>Ferentes,</HI> take <HI>Maurucio</HI> in with you</L>
+<L>He must be one in action,</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>Come, my Lord, I shall intreat your helpe.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I'le stay the Foole:</L>
+<L>And follow instantly.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Yes, pray, my Lord.</L>
+<STAGE>Exeunt Feren. et Mau.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer</SPEAKER>
+<L>How thriue your hopes now, Couzen?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Are we safe?</L>
+<L>Then let me cast my selfe beneath thy foot,</L>
+<L>True ver<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>uous Lord: Know then, Sir, her proud heart</L>
+<L>Is onely flx'd on you in such extremes</L>
+<L>Of violence and passion, that I feare,</L>
+<L>Or shee'll enioy you, or shee'll ruine you.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>M<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>, Cooze; by all the ioyes I wish to taste,</L>
+<L>Shee is as farre beneath thy thought, as I</L>
+<L><PB REF="27"/>
+In soule aboue her malice.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>I obseru'd</L>
+<L>Euen now, a kind of dangerous pretence</L>
+<L>In an vn-ioynted phrase from <HI>D'auolos:</HI></L>
+<L>I know not hir intent, but this I know,</L>
+<L>He has a working braine, is minister</L>
+<L>To all my Ladies counsels; and (my Lord)</L>
+<L>Pray heauen there haue not any thing befalne</L>
+<L>Within the knowledge of his subtill Art,</L>
+<L>To doe you mischife.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Pish; should he or hell</L>
+<L>Affront me in the passage of my <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</L>
+<L>I'd<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> crush them into Atomies.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>I, doe; admit you could, meane time, my Lord,</L>
+<L>Be nearest to your selfe, what I can learne</L>
+<L>You shall be soone inform'd of: here is all</L>
+<L>We fooles can catch the wise in; to vnknot</L>
+<L>By priuilege of coxcombes, what they plot.—</L>
+<STAGE>Exeunt</STAGE>
+<STAGE>Enter Duke and D'auolos.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Thou art a Traytor: doe not thinke the glosse</L>
+<L>Of smooth euasion, by your cunning <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>sts,</L>
+<L>And coynage of your polliticians braine,</L>
+<L>Shall jig me off: I'le know't, I vow I will.</L>
+<L>Did not I note your darke abrupted ends</L>
+<L>Of words halfe spoke? your <HI>wel's, if all were knowne?</HI></L>
+<L>Your short, <HI>I like not that?</HI> your girds, and <HI>Buts?</HI></L>
+<L>Yes (Sir) I did: such broken language argues</L>
+<L>More matter then your subtilty shall hide:</L>
+<L>Tell me, what is't? by Honors selfe I'le know.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>What would you know, my Lord? I confesse I owe my life and seruice to you, as to my Prince; the one you haue, the other you may take from me at your pleasure: should I deuise matter to feed your distrust, or suggest likelihoods without appearance? what would you haue me say? I know nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Thou ly'st, <HI>dissembler;</HI> on thy brow I read</L>
+<L>D<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>stracted herrors figur'd in thy <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ookes.</L>
+<L><PB REF="27"/>
+On thy alleageance, <HI>D'auolos,</HI> as e're</L>
+<L>Thou hop'st to liue in grace with vs, vnfold</L>
+<L>What by thy party halting of thy speech</L>
+<L>Thy knowledge can discouer: By the faith</L>
+<L>We beare to sacred Iustice, we protest,</L>
+<L>Be it or good, or eui<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>l, thy reward</L>
+<L>Shall be our speciall thanks, and loue vn-term'd:</L>
+<L>Speake, on thy duty, we thy Prince command.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Oh my disaster! my Lord, I am so charm'd by those powerfull repetitions of loue and duty, that I cannot con∣ceale what I know of your dishonor.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Dishonor! then my soule is cleft with feare:</L>
+<L>I halfe presage my misery, say on;</L>
+<L>Speake it at once, for I am great with griefe.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>I trust your Highnesse will pardon mee, yet I will not deliuer a sillable which shall be lesse innocent then truth it selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>By all our wish of ioyes, we pardon thee.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Get from me cowardly seruility, my seruice is no∣ble, and my loyalty an Armour of brasse: in short, my Lord, and plaine discouery, you are a <HI>Cuckold.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Keepe in the word,—a <HI>Cuckold:</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P><HI>Fernande</HI> is your Riuall, has stolne your Dutchesse heart, murther'd friendship, hornes your head, and laughes at your hornes.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>My heart is split.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Take courage, be a Prince in resolution; I knew it would nettle you in the fire of your composition, and was loath to haue g<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>uen the first report of this more then ridicu∣lous blemish to all patience or moderation. But, oh my Lord, what would not a subiect doe to approue his loyalty to his Soueraigne? yet, good Sir, take it as quietly as you can: I must needs say, 'tis a soule fault, but what man is hee vnd<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> the Sun, that is free from the Careere of his destiny? may be she will in time reclaime the errors of her youth: or 'twere a great happinesse in you, if you could not beleeue it; that's the surest way, my Lord, in my poore counsell.</P>
+</SP>
+<SP>
+<PB REF="28"/>
+<SPEAKER>Duke.</SPEAKER>
+<L>The ycie current of my frozen blood</L>
+<L>Is kindled vp in Agonies as hot</L>
+<L>As slames of burning sulphure: oh my sate!</L>
+<L>A Cuckold? had my Duke domes whole inheritance</L>
+<L>Beene rent, mine honors leueld in the dust,</L>
+<L>So <HI>she,</HI> that <HI>wicked woman,</HI> might haue slept</L>
+<L>Chast in my bosome, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> had beene all a sport.</L>
+<L>And <HI>he,</HI> that <HI>Villaine,</HI> viper to my heart,</L>
+<L>That <HI>he</HI> should be the man!</L>
+<L>That <HI>he</HI> should be the man; death aboue vtterance!</L>
+<L>Take heed you proue this true.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>If not,</L>
+<L>I'le teare thee ioynt by ioynt.—Pew, me thinks</L>
+<L>I<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> should not be; <HI>Biancha!</HI> why, I tooke her</L>
+<L>From lower then a bondage; hell of hels?</L>
+<L>See that you make it good.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>As for that, would it were as good as I would make it, I can (if you will temper your distractions) but bring you where you shall see it; no more.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>See it?</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>I, see it, if that be proofe sufficient: I for my part, will slacke no seruice that may testifie my simplicitie.</P>
+<STAGE>Enter Fernando.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Enough:—what newes <HI>Fernando?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Sir, the Abbot is now vpon arri<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>all, all your seruants</L>
+<L>Attend your presence.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>We will giue him welcome</L>
+<L>As shall befit our loue and his respect:</L>
+<L>Come mine owne best <HI>Fernando,</HI> my deere friend.—</L>
+<STAGE>Exeunt</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Excellent! now for a horned Moone.</P>
+<STAGE>Sound of Musicke.</STAGE>
+<P>But I heare the preparation for the entertainement of this <HI>great Abbot,</HI> let him come and goe, that matters nothing to this; whiles hee rides abroad in hope to purchase a purple hat, our Duke shall as earnestly heat the <HI>pericranion</HI> of his noddle, with a yellow hood at home: I heare 'em comming.</P>
+<STAGE><PB REF="28"/>
+Loud Musicke.</STAGE>
+<STAGE>Enter 3. or 4. with Torches: after the Duke, Fernando, Biancha, Fiormonda, Petruchio, Nibrassa at one doore. Enter at another doore, two Fryars, Abbot, and attendants: The Duke and Abbot meet and salute, Biancha and the rest salute, and are saluted; they ranke themselues, and goe o<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e the Quire singing, D'auolos onely stayes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>On to your vittailes; some of yee, I know, seed vp∣on wormewood.</P>
+<STAGE>Exit. Enter Petruchio and Nibrassa with napkins, as from supper.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>The Duke's on rising; are you ready ho?</L>
+<L><HI>Within.</HI> All ready.</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<P>Then, <HI>Petruchio,</HI> arme thy selfe with courage and resolution, and doe not shrinke from being stayed on thy owne vertue.</P>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>I am resolu'd.—fresh lights, I heare 'em comming.</L>
+<STAGE>Enter some with lights: the Duke, Abbot, Biancha, Fiormonda, Fernando and D'auolos.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Right Reuerend Vncle, tho our minds be scanted</L>
+<L>In giuing welcome as our hearts would wish,</L>
+<L>Yet we will striue to shew how much we ioy</L>
+<L>Your presence, with a Courtly shew of mirth.</L>
+<L>Please you to sit.</L>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>Great Duke, your worthy honours to me,</L>
+<L>Shall still haue place in my best thanks:</L>
+<L>Since you in me so much respect the Church,</L>
+<L>Thus much I'le promise; at my next returne,</L>
+<L>His <HI>Holinesse</HI> shall grant an Indulgence</L>
+<L>Both large and generall.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Our humble duty</L>
+<L>Seat you, my Lords: now let the Masquers enter.</L>
+<STAGE>Enter in an Anticke fashion, Ferentes, Roseilli, and Mau∣rucio at seuerall doores, they dance a little: suddenly to them enter Colona, Iulia, Morona in odde shapes, and dance; the men gaze at them, are at a stand, and are inuited by the women to dance, they dance together sundry changes, at last they close Ferentes in, Maurucio and Roseilli being
+<PB REF="29"/>
+shooks off, and standing at seuerall ends of the S<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>age gazing: The women hold hands and dance about Ferentes in diuers comple∣mentall offers of Courtship; at length they suddenly fall vpon him, and stab him, he fal<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> downe, and they run out at seuerall doores.</STAGE>
+<STAGE>Cease Musicke.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<P>Vncase me; I am slaine in iest, a pox vpon your outlan<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>sh feminine Antiks: pull off my Visor; I shall bleed to death, ere I haue time to feele where I am hurt: Duke, I am slaine, off with my visor, for heauens sake off with my visor.</P>
+<STAGE>They vnmaske him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Slai<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e? take this visor off; we are betray'd:</L>
+<L>Ceaze on them, two are yonder, hold, <HI>Ferentes;</HI></L>
+<L>Follow the rest, apparant treachery.</L>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> St. <HI>Bennet,</HI> what a sight is this?</L>
+<STAGE>Enter <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, Colona, and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> vnmask'd, euery one hauing a child in their armes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>B<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> not amaz'd, great Princes, but vouchsafe</L>
+<L>Your audience; we are they haue done this deed:</L>
+<L>Looke here, the pledges of this false mans lust,</L>
+<L>Betray'd in our simplicities: He swore,</L>
+<L>And pawn'd his truth to marry each of vs;</L>
+<L>Abus'd vs all, vnable to reuenge</L>
+<L>Our publike shames, but by his publike fall,</L>
+<L>Which thus we haue contri<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>'d; nor doe we blush</L>
+<L>To call the glory of this murther ours:</L>
+<L>We did it, and wee'll iustifie the deed.</L>
+<L>For when in sad complaints we claym'd his vowes,</L>
+<L>His answer was reproach; villaine, is't true?</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>I was too <HI>quickly wonne,</HI> you slaue.</L>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<L>I was <HI>too old,</HI> you dogge.</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>I (and I neuer shall forget the wrong)</L>
+<L>I was not <HI>faire enough,</HI> not <HI>faire enough</HI></L>
+<L>For thee, thou monster; let me cut his gall,</L>
+<STAGE>she stabs him.</STAGE>
+<L>Not <HI>faire enough!</HI> oh scorne! not <HI>faire enough?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>O, o, oh.—</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Forbeare, you monstrous women, doe not adde</L>
+<L><PB REF="29"/>
+Mu<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ther to lust: your liues shall pay this forfeit.</L>
+</SP>
+<SP>
+<SPEAKER>Feren.</SPEAKER>
+<L>Pox vpon all Codpeece extrauagancy.</L>
+<L>I am pepper'd—oh, oh, oh—Duke forgiue me.</L>
+<L>Had I rid any tame beasts, but Barbary wild Colts,</L>
+<L>I had not bin thus jerk'd out of the saddle.</L>
+<L>My forfeit was in my blood, and my life hath answer'd it.</L>
+<L>Vengeance on all wild whores, I say,—oh 'tis true;</L>
+<L>Farewell generation of Hackneyes.—ooh.</L>
+<STAGE>dyes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>He is dead, to prison with those monstrous strum∣pets.</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Stay, I'le answer for my daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Nib.</SPEAKER>
+<L>And I for mine:—oh well done, girles.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I for yon Gentlewoman, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Good my Lord, I am an innocent in the businesse.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>To prison with him; beare the body hence.</L>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>Her<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>'s fatall sad presages, but 'tis iust,</L>
+<L>He dyes by murther, that hath liu'd in lust.</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus Quartus.</HEAD>
+<SP>
+<STAGE>Enter Duke, Fiormonda, and D'auolos,</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>ARt thou <HI>Caraffa?</HI> is there in thy veynes</L>
+<L>One drop of blood that issued from the loynes</L>
+<L>Of <HI>Pauy's</HI> ancient Dukes? or dost thou sit</L>
+<L>On great <HI>Lorenzo's</HI> seat, our glorious father,</L>
+<L>And canst not blush to be so farre beneath</L>
+<L>The spirit of Heroicke ancestors?</L>
+<L>Canst thou ingrosse a slauish shame? which men,</L>
+<L>Far far below the Region of thy state,</L>
+<L>Not more abhorre, then study to reuenge.</L>
+<L>Thou an I<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>alian? I could burst with rage,</L>
+<L>To thinke I haue a brother so befool'd,</L>
+<L>In <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> patience to a harlots lust.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>One, my Lord, that doth so palpably, so apparantly
+<PB REF="30"/>
+make her Adulteries a Trophey, whiles the poting-sticke to her vnsatiate and more then goatish abomination, jeeres at, and flouts your sleepish, and more then sleepish security.</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>What is she, but the sallow-coloured brat</L>
+<L>Of some vnlanded banckrupt? taught to catch</L>
+<L>The casie fancies of young prodigall bloods,</L>
+<L>In springes of her stewe-instructed Art? Here's your most</L>
+<L>Vertuous Dutchesse, your rare peece.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>More base in the infinitenesse of her sensuality,</L>
+<L>Then corruption can infect: to clip and inueagle</L>
+<L>Your friend too, oh vnsufferable! A friend? how of</L>
+<L>All men are you most vnfortunate? to poure out</L>
+<L>Your soule into the bosome of such a creature,</L>
+<L>As holds it Religion to make your owne trust a key,</L>
+<L>To open the passage to your owne wines wombe,</L>
+<L>To be drunke in the priuacies of your bed:</L>
+<L>Thinke vpon that, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Be gentle in your tortutes, ee'ne for pitty;</L>
+<L>For pitty's cause I begge it.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Be a Prince?</L>
+<L>Th'hadst better, Duke, thou hadst bin borne a peasant.</L>
+<L>Now boyes will sing thy scandall in the streets,</L>
+<L>Tune Ballads to thy infamy, get mony</L>
+<L>By making Pageants of thee, and inuent</L>
+<L>Some strangely-shap'd <HI>man-beast,</HI> that may for hornes</L>
+<L>Resemble thee, and call it <HI>Pauy's</HI> Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Endlesse immortall plague.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>There's the mischiefe, Sir:</P>
+<P>In the meane time you shall bee sure to haue a Bastard, (of whom you did not so much as beget a little toe, a left eare, or halfe the further side of an vpper lip) inherit both your Throne and Name; this would kill the soule of very pati∣ence it selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Forbeare; the ashy palenesse of my cheeke</L>
+<L>Is scarletted in ruddy flakes of wrath:</L>
+<L>And like some bearded met<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> shall sucke vp,</L>
+<L><PB REF="30"/>
+With swiftest terror, all those dusky mists</L>
+<L>That ouercloud Compassion in our brest.</L>
+<L>You haue rouz'd a sleeping Lion, whom no Art,</L>
+<L>No sawning smoothnesse shall reclaime, but blood.</L>
+<L>And <HI>Sister</HI> thou, thou <HI>Roderico,</HI> thou,</L>
+<L>From whom I take the surfeit of my bane,</L>
+<L>Henceforth no more so eagerly pursue,</L>
+<L>To whet my dulnesse; you shall see <HI>Caraffa</HI></L>
+<L>Equall his birth, and matchlesse in reuenge.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Why now I heare you speake in maiesty.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>And it becomes my Lord most Princely.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Does it? come hither, Sister; thou art neere</L>
+<L>In nature, and as neere to me in loue.</L>
+<L>I loue thee; yes, by yon bright firmament,</L>
+<L>I loue thee dearely: but obserue me well:</L>
+<L>If any priuate grudge, or female spleene,</L>
+<L>Malice, or enuy, or such womans frailty,</L>
+<L>Haue spurr'd thee on to set my soule on fire,</L>
+<L>Without apparent certainty; I vow</L>
+<L>And vow againe, by all Princely blood,</L>
+<L>Hadst thou a double soule, or were the liues</L>
+<L>Of fathers, mothers, children, or the hearts</L>
+<L>Of all our Tribes in thine, I would vnrip</L>
+<L>That wombe of bloody mischiefe with these nayles,</L>
+<L>Where such a cursed plot as this was hatcht.</L>
+<L>But <HI>D'auolos,</HI> for thee—no more; to worke</L>
+<L>A yet more strong impression in my braine,</L>
+<L>You must produce an instance to mine eye,</L>
+<L>Both present and apparent.—nay, you shall—Or—</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Or what? you will be mad? be rather wise:</L>
+<L>Thinke on <HI>Ferentes</HI> first, and thinke by whom</L>
+<L>The harmlesse youth was slaughter'd: had he liu'd,</L>
+<L>He would haue told you tales: <HI>Fernando</HI> fear'd it;</L>
+<L>And to preuent him, vnder shew, forsooth,</L>
+<L>Of rare deuice, most trimly cut him off.</L>
+<L>Haue you yet eyes, Duke?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Shrewdly vrg'd,—'tis piercing</L>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Fior.</SPEAKER>
+<L>For looking on a sight shall split your soule<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></L>
+<L>You shall not care, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> vndertake my selfe</L>
+<L>To do't some two dayes hence, for need to night,</L>
+<L>But that you are in Court.</L>
+</SP>
+<SP>
+<SPEAKER><HI>R.</HI> D.</SPEAKER>
+<P>Right; wud you desire, my Lord, to see them ex∣change <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, sucking one anothers lips, nay, begetting an heire to the Dukedome, or practising more then the very act of adultery it selfe? Giue but a little way by a fained absence, and you shall find 'em—I blush to speake doing what: I am mad to thinke on't, you are most shamefully, most sin∣fully, most scornfully cornuted.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>D'ee play vpon me? as I am your Prince,</L>
+<L>There's some shall rore for this: why what was I,</L>
+<L>Both to be thought or made so vild a thing?</L>
+<L>Stay—<HI>Madam Marquesse,</HI>—ho <HI>Roderico,</HI> you Sir,</L>
+<L>Beare witnesse, that if euer I neglect</L>
+<L>One day, one houre, one minute, to weare out</L>
+<L>With toyle of plot, or practice of conceit,</L>
+<L>My busie skull, till I haue found a death</L>
+<L>More horrid then the Bull of <HI>Phalaris,</HI></L>
+<L>Or all the fabling Poets; dreaming whips:</L>
+<L>If euer I take rest, or force a smile</L>
+<L>Which is not borrowed from a Royall vengeance,</L>
+<L>Before I know which way to satisfie</L>
+<L>Fury and wrong: (nay kneele downe) let me dye</L>
+<L>More wretched then despaire, reproach, contempt,</L>
+<L>Langhter and pouerty it selfe can make me:</L>
+<L>Let's rise on all sides, friends; now all's agreed;</L>
+<L>If the Moone serue, some that are safe shall bleed.</L>
+<STAGE>Enter Fernando, Biancha, and Morona.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Lord the Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L><HI>Biancha!</HI> ha, how is't?</L>
+<L>How is't, <HI>Biancha?</HI> what <HI>Fernando?</HI> come,</L>
+<L>Shal's shake hands, sirs? faith this is kindly done:</L>
+<L>Here's three as one; welcome <HI>deere Wise, sweet Fri<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>nd.</HI></L>
+</SP>
+<SP>
+<SPEAKER><HI>R.</HI> D.</SPEAKER>
+<L>I doe not like this now, it shewes scuruily to me,</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Lord we haue a <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> our friend and I.</L>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Duke.</SPEAKER>
+<L>She puts my friend before most kindly still.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Must ioyne.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>What must?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>My Lord!</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Must ioyne, you say.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>That you will please to set <HI>Maurucio</HI></L>
+<L>At liberty: this Gentle woman here,</L>
+<L>Hath by agreement made betwixt them two,</L>
+<L>Obtain'd him for her husband; good my Lord</L>
+<L>Let me intreat, I dare ingage mine honour</L>
+<L>He's <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>nnocent in any wilfull fault.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Your honour, Madam! now beshrew you for't,</L>
+<L>T'ingage your honour on so slight a ground:</L>
+<L>Honour's a precious Iewell, I can tell you;</L>
+<L>Nay, 'tis <HI>Biancha.</HI>—Goe too, D'auolos,</L>
+<L>Bring vs <HI>Maurucio</HI> hither.</L>
+</SP>
+<SP>
+<SPEAKER><HI>R.</HI> D.</SPEAKER>
+<L>I shall, my Lord.——</L>
+<STAGE>Exit D'auolos<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></STAGE>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<L>I humbly thanke your grace.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>And, Royall Sir, since <HI>Iulia</HI> and <HI>Colona;</HI></L>
+<L>Chiefe Actors in <HI>Ferentes</HI> tragicke end,</L>
+<L>Were, through their Ladies mediation,</L>
+<L>Freed by your gracious pardon; I, in pitty.</L>
+<L>Tendered this widowes friendlesse misery;</L>
+<L>For whose reprieue I shall in humblest duty</L>
+<L>Be euer thankfull.</L>
+<STAGE>Enter D'auolos, Maurucio in poore rags, and Giacopo weeping.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Come you my learned Counsell, doe not rore;</L>
+<L>If I must hang, why then lament therefore:</L>
+<L>You may reioyce, and both, no doubt, be great</L>
+<L>To serue your Prince, when I am turn'd wormes meat.</L>
+<L>I feare my lands, and all I haue, is begg'd,</L>
+<L>Else, woe is me, why should I be so ragg'd?</L>
+</SP>
+<SP>
+<SPEAKER><HI>R.</HI> D.</SPEAKER>
+<L>Come on, Sir, the Duke stayes for you.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>O how my stomacke doth begin to puke!</L>
+<L>When I doe heare that onely word, the Duke.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>You Sir, looke on that woman; are you pleas'd,</L>
+<L>If we remit your body from the jayle,</L>
+<L><PB REF="32"/>
+To take her for your wife.</L>
+</SP>
+<SP>
+<SPEAKER>Man,</SPEAKER>
+<L>On that condition, Prince, with all my heart.</L>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<L>Yes, I warrant your grace, he is content.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Why, foolish man, hast thou so soone forgot</L>
+<L>The publike sh<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>me of her abus'd wombe?</L>
+<L>Her being mother to a Bastards birth?</L>
+<L>Or caust thou but imagine she will be</L>
+<L>True to thy bed, who to her selfe was false?</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>Phew, Sir, doe not stand vpon that, that's a matter of nothing, you know.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Nay, and shall please your good grace, and it come to that, I care not; as good men as I haue lyen in foule sheets I am sure; the linnen has not beene much the worse for the wearing a little: I will haue her with all my-heart.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>And shalt: <HI>Fernando,</HI> thou shalt haue the grace</L>
+<L>To ioyne their hands, put 'em together, friend.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Yes, doe my Lord, bring you the Bridegroom hither,</L>
+<L>I'le giue the Bride my selfe.</L>
+</SP>
+<SP>
+<SPEAKER><HI>R.</HI> D.</SPEAKER>
+<P>Here's argument to jealousie, as good as drinke to the dropsie, shee will share any disgrace with him: I could not wish it better.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Euen so: well, doe it.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Here, <HI>Maurucio,</HI> long liue a happy couple.</L>
+<STAGE>ioyne their bands.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>'Tis enough,—now know our pleasure henceforth.</L>
+<L>'Tis our will, if euer thou, <HI>Maurucio,</HI> or thy wife,</L>
+<L>Be seene within a dozen miles at Court,</L>
+<L>We will recall our mercy: no intreat</L>
+<L>Shall warrant thee a minute of thy life:</L>
+<L>Wee'll haue no seruile slauery of lust</L>
+<L>Shall breath neere vs; dispatch and get ye hence,</L>
+<L><HI>Biancha,</HI> come with me.—oh my cle<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>t soule!</L>
+<STAGE>Exit Duke et Biancha,</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>How's that? must I come no more neere the Court?</L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<L>O pittifull, not neere the Court, Sir.</L>
+</SP>
+<SP>
+<SPEAKER><HI>R.</HI> D.</SPEAKER>
+<P>Not by a dozen miles, indeed Sir: your only course I can aduise you, is to passe to <HI>Naples,</HI> and set vp a house of
+<PB REF="32"/>
+Carnality, there are very faire and frequent suburbs, and you need not feare the contagion of any pestilent disease, for the worst is very proper to the place.</P>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>'Tis a strange sentence.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>'Tis, and sudden too,</L>
+<L>And not without some mysterie.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Will you goe, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Not neere the Court?</L>
+</SP>
+<SP>
+<SPEAKER>Mor.</SPEAKER>
+<P>What matter is it, Sweet-heart, feare nothing, Loue, you shall haue new change of apparell, good <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, wholesome attendance, and wee will li<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e like pigeons, my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<L>Wilt thou forsake me, <HI>Giacopo?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Gia.</SPEAKER>
+<P>I forsake yee? no, not as long as I haue a whole eare on my head, come what will come.</P>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L><HI>Maurucio,</HI> you did once proffer true loue</L>
+<L>To me, but since you are more thriftier sped,</L>
+<L>For old affections sake here take this gold,</L>
+<L>Spend it for my sake.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam, you doe nobly;</L>
+<L>And that's for me, <HI>Maurucio.</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Will ye goe, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Mau.</SPEAKER>
+<P>Yes, I will goe; and I humbly thank your Lordship and Ladiship: <HI>Pauy,</HI> sweet <HI>Pauy</HI> farwel: come wife, come <HI>Gia-</HI></P>
+<P>Now is the time that we away must lag, <HI>(copo.</HI></P>
+<P>And march in pompe with baggage and with bag:</P>
+<P>O poore <HI>Maurucio!</HI> what hast thou mis-doue?</P>
+<P>To end thy life when life was new begun.</P>
+<P>A <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ew to all; for Lords and Ladies see</P>
+<P>My wofull plight; and Squires of low degree:</P>
+</SP>
+<SP>
+<SPEAKER><HI>R.</HI> D.</SPEAKER>
+<L>Away, away, sirs.—</L>
+<STAGE>Exeunt. manent Fior. et Fer<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>My Lord <HI>Fernando.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Doe you note my brothers odde distractions?</L>
+<L>You were wont to bosome in his Counsailes;</L>
+<L>I am sure you know the ground on't.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Not I, in troth.</L>
+</SP>
+<SP>
+<PB REF="33"/>
+<SPEAKER>Fior.</SPEAKER>
+<L>Is't possible? what would you say, my Lord,</L>
+<L>If he, out of some melancholly spleene,</L>
+<L>Edg'd on by some thank picking Parasite,</L>
+<L>Should now proue iealous? I mistrust it shrewdly.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What Madam? iealous?</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Yes; for but obserue,</L>
+<L>A Prince, whose eye is chooser to his heart,</L>
+<L>Is seldome steddy in the lists of loue,</L>
+<L>Vnlesse the party he affects doe match</L>
+<L>His ranke in equall portion, or in friends:</L>
+<L>I neuer yet, out of report, or else</L>
+<L>By warranted description, haue obseru'd</L>
+<L>The nature of phantasticke Iealousie,</L>
+<L>If not in him; yet on my conscience now,</L>
+<L>He has no cause.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Ca<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>se, Madam! by this light</L>
+<L>I'le pledge my soule against a vse-lesse rush.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>I neuer thought her lesse, yet trust me, Sir,</L>
+<L>No merit can be greater than your praise,</L>
+<L>Whereat I strangely wonder; how a man</L>
+<L>Vow'd, as you told me, to a single life,</L>
+<L>Should so much Deifie the Saints, from whom</L>
+<L>You haue disclaym'd deuotion.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Madam, 'tis true;</L>
+<L>From them I haue, but from their vertues neuer.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>You are too wise, <HI>Fernando:</HI> to be plaine.</L>
+<L>You are in loue; nay shrinke not, man, you are:</L>
+<L><HI>Biancha</HI> is your ayme; why doe you blush?</L>
+<L>She is, I know she is.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>My ayme?</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Yes, yours;</L>
+<L>I hope I talke no newes: <HI>Fernando,</HI> know</L>
+<L>Thou runst to thy confusion, if in time</L>
+<L>Thou dost not wisely shun that <HI>Circe's</HI> charme.</L>
+<L>Vnkindest man! I haue too long conceal'd</L>
+<L>My hidden flames, when still in silent signes</L>
+<L>I Courted thee for loue; without respect</L>
+<L><PB REF="33"/>
+To youth or state, and yet thou art vnkind.</L>
+<L><HI>Fernando,</HI> leaue that Sorceresse, if not</L>
+<L>For loue of me, for pitty of thy selfe.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Injurious woman, I defie thy lust:</L>
+<L>'Tis not your subtile sifting shall creepe</L>
+<L>Into the secrets of a heart vnsoyl'd:</L>
+<L>You are my Princes sister, else your malice</L>
+<L>Had rayl'd it selfe to death; but as for me,</L>
+<L>Be record all my fate, I doe detest</L>
+<L>Your fury or affection.—Iudge the rest.</L>
+<STAGE>Exit Fer.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>What gone! well, goe thy wayes; I see the mor<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></L>
+<L>I humble my firme loue, the more he shuns</L>
+<L>Both it and me: so plaine! then 'tis too late</L>
+<L>To hope; change peeuish passion to contempt:</L>
+<L>What euer rages in my blood I feele,</L>
+<L>Foole he shall know I was not borne to kneele,</L>
+<STAGE>Exit. Enter D'auolos and Iulia.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L><HI>Iulia</HI> mine owne—speake softly.</L>
+<L>What? hast thou learn'd out any thing of this pale widgeon?</L>
+<L>Speake soft, what does she say?</L>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Fo, more then all; there's not an houre shall passe,</L>
+<L>But I shall haue intelligence, she sweares.</L>
+<L>Whole nights; you know my mind, I hope you'll giue</L>
+<L>The gowne you promis'd me.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Honest <HI>Iulia,</HI> peace: th'art a woman worth a king∣dome: let me neuer be beleeued now, but I thinke it will bee my destiny to be thy husband at last: what tho thou haue a child, or perhaps two?</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<L>Neuer but one, I sweare.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Well, one; is that such a matter? I like thee the better for't: it shewes thou hast a good tenant-able and fer∣tile wombe, worth twenty of your barren, dry, bloodlesse deuourers of youth; but come, I will talke with thee more priuately; the Duke has a iourney in hand, and will not be long absent: see, 'a is come already.—let's passe away easily.</P>
+<STAGE>Exeunt. Enter Duke and Biancha.</STAGE>
+</SP>
+<SP>
+<PB REF="34"/>
+<SPEAKER>Duke.</SPEAKER>
+<L>Troubled! yes, I haue cause: O <HI>Blancha!</HI></L>
+<L>Here wa<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> my fa<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e engrauen in thy brow,</L>
+<L>This smoo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>h <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> pol<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>sht table; in thy cheeks</L>
+<L>Nature sum<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>'d vp thy dower: 'twas not wealth,</L>
+<L>The Myser<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> god, n<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>r Royalty of blood,</L>
+<L>Adua<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>c'd thee to my bed; b<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>t loue, and hope</L>
+<L>Of Vertue, that might equall those sweet lookes:</L>
+<L>If then thou shouldst betray my trust, thy faith,</L>
+<L>To the pollution of a base desire,</L>
+<L>Thou wert a wretched woman.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Speakes your loue,</L>
+<L>Or <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>eare, my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Both, both; <HI>Biancha,</HI> know,</L>
+<L>Th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ightly languish of my d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ll vnrest</L>
+<L>Hath stampt a strong opinion; for me tho<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ght</L>
+<L>(Marke what I say) as I in glorious pompe</L>
+<L>Was sitting on my Throne, whiles I had hemm'd</L>
+<L>My best b<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>lou'd <HI>Biancha</HI> in mine armes,</L>
+<L>She reacht my cap of State, and cast it downe</L>
+<L>Beneath her foot, and spurn'd it in the dust;</L>
+<L>Whiles I (oh 'twas a dreame too full of fate)</L>
+<L>Was stooping downe to reach it; on my head,</L>
+<L><HI>Fernando,</HI> like a Tray to<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> to his vowes,</L>
+<L>Clapt, in disgrace, a Coronet of horues:</L>
+<L>But by the honour of anoynted kings,</L>
+<L>Were both of you hid in a rocke of fire,</L>
+<L>Guarded by ministers of flaming hell,</L>
+<L>I haue a sword ('<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>is here) should make my way</L>
+<L>Through fire, through darknesse, death, and all</L>
+<L>To hew your lust ingendred flesh to shreds,</L>
+<L>Pound you to morter, cut your throats, and mince</L>
+<L>Your <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>lesh to mites; I will,—<GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> not,—I will.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Mercy protect me, will ye murder me?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Yes.—Oh! I cry thee mercy.—how the rage</L>
+<L>Of my vndreamt of wrongs, made me forget</L>
+<L>All sense of suff<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>rance! blame me not, <HI>Biancha;</HI></L>
+<L>One such another dreame would quite d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>stract</L>
+<L><PB REF="34"/>
+Reason and selfe humanity; yet tell me,</L>
+<L>Was't not an ominous vision?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>'Twas, my Lord;</L>
+<L>Yet but a vision; for did such a guilt</L>
+<L>Hang on mine honour, 'twere no blame in you</L>
+<L>If you did stab me to the heart.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>The heart?</L>
+<L>Nay, strumpet, to the soule; and teare it off</L>
+<L>From life, to damne it in immortall death</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Alas, what doe you meane, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>I am mad.—</L>
+<L>Forgiue me, good <HI>Biancha;</HI> still me thinkes</L>
+<L>I dreame, and dreame anew: now prethe chide me.</L>
+<L>Sicknesse, and these diuisions, so distract</L>
+<L>My senses, that I take things possible</L>
+<L>As if they were: which to remoue, I meane</L>
+<L>To speed me streight to <HI>Luca;</HI> where, perhaps,</L>
+<L>Absence and bathing in those healthfull springs</L>
+<L>May soone recouer me: meane time, deare sweet,</L>
+<L>Pitty my troubled heart; griefes are extreame;</L>
+<L>Yet, Sweet, when I am gone, thinke on my dreame.</L>
+<L>Who waits without, ho? is prouision ready,</L>
+<L>To passe to <HI>Luca?</HI></L>
+<STAGE>Enter Petr. Nibr. Fior. D'auolos, Ros. &amp; Fernand<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>It attends your Highnesse.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Friend, hold; take here from me this Iewel, this:</L>
+<STAGE>Gin<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>s him Biancha.</STAGE>
+<L>Be she your care till my returne from <HI>Luca:</HI></L>
+<L>Honest <HI>Fernando,</HI> wife respect my friend,</L>
+<L>Let's goe: but heare ye wife, thinke on my dreame.</L>
+<STAGE>Exeunt omnes, but Ros. et Petr.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>Couzen, one word with you: doth not this Cloud</L>
+<L>Acquaint you with strange nouelties? The Duke</L>
+<L>Is lately much distemper'd; what he meanes</L>
+<L>By journeying now to <HI>Luca,</HI> is to me</L>
+<L>A r<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ddle; can you cleare my doubt?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>O Sir!</L>
+<L><PB REF="35"/>
+My feares exceed my knowledge, yet I note</L>
+<L>No lesse then you inferre: all is not well,</L>
+<L>Would 'twere: whosoeuer thriue, I shall be sure</L>
+<L>Neuer to rise to my vn-hop'd desires:</L>
+<L>But Couzen, I shall tell you more anon;</L>
+<L>Meane time pray send my Lord <HI>Fernando</HI> to me,</L>
+<L>I couet much to speake with him.</L>
+<STAGE>Enter Fernando.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>And see,</L>
+<L>He comes himselfe; I'le leaue you both together.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>The Duke is horst for <HI>Luca:</HI> how now Cooze,</L>
+<L>How prosper you in loue?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>As still I hop'd:</L>
+<L>My Lord you are vndone.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Vndone I in what?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Lost; and I feare your life is bought and sold;</L>
+<L>I'le tell you how: late in my Ladies chamber,</L>
+<L>As I by ehance lay slumbering on the mats,</L>
+<L>In comes the Lady Marquesse, and with her,</L>
+<L><HI>Iulia</HI> and <HI>D'auolos;</HI> where sitting downe,</L>
+<L>Not doubting me, Madam (quoth <HI>D'auolas)</HI></L>
+<L>We haue discouer'd now the neast of shame:</L>
+<L>In short, my Lord, (for you already know</L>
+<L>As much as they reported) there was told</L>
+<L>The circumstance of all your priuate loue</L>
+<L>And meetings with the Dutchesse; when at last</L>
+<L>False <HI>D'auolos</HI> concluded with an oath,</L>
+<L>Wee'll make (quoth he) his hart-strings crack for this.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Speaking of me?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Of you: I (quoth the Marquesse)</L>
+<L>Were not the Duke a baby, he would seeke</L>
+<L>Swift vengeance; for he knew it long agoe.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Let him know it; yet I vow</L>
+<L>Shee is as loyall in her plighted faith,</L>
+<L>As is the Sunne in heauen: but put case</L>
+<L>She were not; and the Duke did know she were not,</L>
+<L>This Sword lift vp, and guided by this Arme,</L>
+<L><PB REF="35"/>
+Shall guard her from an armed troupe of Fiends,</L>
+<L>And all the earth beside.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>You are too safe</L>
+<L>In your destruction.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Dambe him,—hee shall feele—</L>
+<L>But peace, who comes?</L>
+<STAGE>Enter Colona.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>My Lord, the Dutchesse craues a word with you:</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Where is shee?</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>In her chamber.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Here haue a plum for Ie'ee—</L>
+</SP>
+<SP>
+<SPEAKER>Col.</SPEAKER>
+<L>Come foole, I'le giue thee plums enow, come foole.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Let slaues in mind be seruile to their feares,</L>
+<L>Our heart is high in-starr'd in brighter Spheres.</L>
+<STAGE>Exit Fer. et Col<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ros,</SPEAKER>
+<L>I see him lost already,</L>
+<L>If all preuaile not, we shall know too late,</L>
+<L>No toyle can shun the violence of Fate.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>Actus Quintus.</HEAD>
+<SP>
+<STAGE>Enter aboue, Fernand<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>NOW fly reuenge, and wound the lower earth,</L>
+<L>That I, en-sphear'd aboue, may crosse the race</L>
+<L>Of Loue despis'd, and triumph o're their graues,</L>
+<L>Who scorne the low-bent thraldome of my heart.</L>
+<STAGE>A Curtaine drawne, below are discouered Biancha in her night attire, leaning on a Cushion at a Table, holding Fer∣nando by the hand.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bia.</SPEAKER>
+<L>Why shouldst thou not be mine? why should the laws</L>
+<L>The Iron lawes of Ceremony, barre</L>
+<L>Mutuall embraces? what's a vow? a vow?</L>
+<L>Can there be sinne in vnity? Could I</L>
+<L>As well dispense with Conscience, as renounce</L>
+<L><PB REF="36"/>
+The out-side of my titles, the poore stile</L>
+<L>Of <HI>Dutchesse;</HI> I had rather change my life</L>
+<L>With any waiting-woman in the land,</L>
+<L>To purchase one nights rest with thee <HI>Fernondo,</HI></L>
+<L>Then be <HI>Caraffa's</HI> Spouse a thousand yeares.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Treason to wedlocke, this would make you sweat.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Lady of all, what I am, as before,</L>
+<L>To suruiue you, or I will see you first,</L>
+<L>Or widowed or buried: if the last,</L>
+<L>By all the comfort I can wish to tast</L>
+<L>By your faire eyes, that sepulcher that holds</L>
+<L>Your Coffin, shall encoffin me aliue:</L>
+<L>I signe it with this seale.———</L>
+<STAGE>Kisses her.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Ignoble strumpet.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>You shall not sweare, take off that oath againe,</L>
+<L>Or thus I will inforce it.———</L>
+<STAGE>Shee kisses him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Vse that force,</L>
+<L>And make me periur'd; for whiles your lips</L>
+<L>Are made the booke, it is a sport to sweare,</L>
+<L>And glory to forsweare.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Here's fast and loo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e;</L>
+<L>Which for a Ducat, now the game's on foot.</L>
+<STAGE>Whiles they are kissing, Enter Duke with his sword drawne, D'auolos in like manner, Petruchio, Nibrassa, and a Guard.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Colona within.</SPEAKER>
+<P>Helpe, helpe, Madam, you are betrayed, Ma∣dam, helpe, helpe.</P>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Is there confidence in credit now, Sir? beleefe in your owne eyes? doe you see? doe you see, Sir? Can you be∣hold it without lightning?</P>
+</SP>
+<SP>
+<SPEAKER>Col. within.</SPEAKER>
+<L>Helpe, Madam, helpe.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>What noyse is that, I heard one cry.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Ha! did you? know you who I am?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Yes; Th'art <HI>Pauy's</HI> Duke,</L>
+<L>Drest like a hangman: see, I am vnarm'd,</L>
+<L>Yet doe not feare thee; tho the Coward doubt</L>
+<L>Of what I could haue done, hath made thee steale</L>
+<L><PB REF="36"/>
+Th'aduantage of this time, yet Duke I dare</L>
+<L>Thy worst, for murder sits vpon thy cheekes:</L>
+<L>Too't man.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>I am too angry in my rage,</L>
+<L>To scourge thee vnprouided; take him hence:</L>
+<L>Away wi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>h him.——</L>
+<STAGE>They take hold on him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Vn-hand me.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>You must goe, Sir:</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Duke, doe not shame thy manhood to lay hands</L>
+<L>On that most innocent Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Yet againe:</L>
+<L>Confine him to his Chamber.</L>
+<STAGE>Exit D'a. et guard, with I'er.</STAGE>
+<L>Leaue vs all;</L>
+<L>None stay, not one, shut vp the dores.</L>
+<STAGE>Exeunt omnes, but Du. et Bia</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fio.</SPEAKER>
+<L>Now shew thy <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> my brother, braue <HI>Caraffa.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Woman, stand forth before me,—wretched whore.</L>
+<L>What canst thou hope for?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Death; I wish no lesse:</L>
+<L>You told me you had dreamt; and, gentle Duke,</L>
+<L>Vnlesse you be mistooke, you are now awak'd.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Strumpet I am, and in my hand hold vp</L>
+<L>The edge that must vncut thy twist of life.</L>
+<L>Dost thou not shake?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>For what? to see a weake</L>
+<L>Faint trembl<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ng arme aduance a leaden blade?</L>
+<L>Alas good man, put vp, put vp; thine eyes</L>
+<L>Are likelier much to weepe, then armes to strike:</L>
+<L>What wud you doe now, pray?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>What! shamelesse harlot;</L>
+<L>Rip vp the Cradle of thy cursed wombe,</L>
+<L>In which the mixture of that Traytors lust</L>
+<L>Impostumes for a birth of Bastardy:</L>
+<L>Yet come, and if thou think'st thou canst deserue</L>
+<L>One mite of mercy, e're the boundlesse spleene</L>
+<L>Of just-consuming wrath ore-swell my reason,</L>
+<L>Tell me, bad woman, tell me what could moue</L>
+<L>Thy heart to cra<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e variety of youth?</L>
+</SP>
+<SP>
+<PB REF="37"/>
+<SPEAKER>Bian.</SPEAKER>
+<L>I tell yee, if you needs would be resolu'd,</L>
+<L>I held <HI>Fernando</HI> much the properer man.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Shamelesse intolerable whoore.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>What ayles you?</L>
+<L>Can you imagine, Sir, the name of Duke</L>
+<L>Could make a crooked leg, a scambling foot.</L>
+<L>A tolerable face, a wearish hand,</L>
+<L>A bloodlesse lip, or such an vntrimm'd beard</L>
+<L>As yours, fit for a Ladies pleasure, no:</L>
+<L>I wonder you could thinke 'twere possible,</L>
+<L>When I had once but look'd on your <HI>Fernando,</HI></L>
+<L>I euer could loue you againe? Fye, fie,</L>
+<L>Now by my life, I thought that long agoe</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> had knowne it; and beene glad you had a friend:</L>
+<L>Your wife did thinke so well of.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>O my starres!</L>
+<L>Here's impudence aboue all history:</L>
+<L>Why thou detested Reprobate in vertue;</L>
+<L>Durst thou, without a blush, before mine eyes,</L>
+<L>Speake such immodest language?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Dare? yes faith,</L>
+<L>You see I dare: I know what you would say now;</L>
+<L>You would faine tell me how exceeding much</L>
+<L>I am beholding to you, that vouchsaf'd</L>
+<L>Me, from a simple Gentlewomans place,</L>
+<L>The honour of your bed: 'tis true, you did;</L>
+<L>But why? 'twas but because you thought I had</L>
+<L>A sparke of beauty more then you had seene.</L>
+<L>To answer this, my reason is the like,</L>
+<L>The selfe same appetite which led you on</L>
+<L>To marry me, led me to loue your friend:</L>
+<L>O hee's a gallant man! if euer yet</L>
+<L>Mine eyes beheld a miracle, compos'd</L>
+<L>Of flesh and blood, <HI>Fernando</HI> has my voyce.</L>
+<L>I must confesse, my Lord, that for a Prince,</L>
+<L>Handsome enough you are, and no more:</L>
+<L>But to compare your selfe with him, trust me</L>
+<L><PB REF="37"/>
+You are too much in fault: shall I aduise you?</L>
+<L>Harke in your eare; thanke heauen he was so slow</L>
+<L>As not to wrong your sheets; for as I liue,</L>
+<L>The fault was his, not mine.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Take this, take all.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Excellent, excellent! the pangs of death are musick</L>
+<L>Forgiue me, my good Genius, I had thought (to this.</L>
+<L>I matcht a woman, but I find she is</L>
+<L>A diuell, worser then the worst in hell.</L>
+<L>Nay, nay, since we are in, ee'ne come, say on,</L>
+<L>I marke you to a sillable: you say,</L>
+<L>The fault was his, not yours: why, <HI>vertuous Mistresse,</HI></L>
+<L>Can you imagine you haue so much art</L>
+<L>Which may perswade me, you and your close <HI>marke-man</HI></L>
+<L>Did not a little trafficke in my right?</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Looke what I said, 'tis true. For know it now,</L>
+<L>I must confesse I mist no meanes, no time,</L>
+<L>To winne him to my bosome; but so much,</L>
+<L>So holily, with such Religion,</L>
+<L>He kept the lawes of friendship, that my sute</L>
+<L>Was held but, in comparison, a iest;</L>
+<L>Nor did I ofter vrge the violence</L>
+<L>Of my aflection, but as oft he vrg'd</L>
+<L>The sacred vowes of faith 'twixt friend and friend:</L>
+<L>Yet be assured, my Lord, if euer language</L>
+<L>Of cunning seruile flatteries, intreaties,</L>
+<L>Or what in me is, could procure his loue,</L>
+<L>I would not blush to speake it.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Such another</L>
+<L>As thou art, (miserable Creature) would</L>
+<L>Sinke the whole sexe of women: yet confesse</L>
+<L>What witch-craft vs'd the wretch to charme the ar<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></L>
+<L>Of the once spotlesse temple of thy mind?</L>
+<L>For without witch-craft it could ne're be done.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Phew—and you be in these tunes, Sir, I'le leaue:</L>
+<L>You know the best, and worst, and all.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Nay then</L>
+<L><PB REF="38"/>
+Thou tempt'st me <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>o thy ruine; come <HI>blacke angell,</HI></L>
+<L>Faire diuell, in thy prayers reckon vp</L>
+<L>The summe, in grosse, of all thy vayned follies:</L>
+<L>There, amongst other, weepe in teares of blood,</L>
+<L>For one aboue the rest; <HI>Adultery,</HI></L>
+<L><HI>Adultery, Biancha;</HI> such a guilt,</L>
+<L>As were the sluces of thine eyes let vp,</L>
+<L>Teares cannot wash it off: 'tis not the tyde</L>
+<L>Of triuiall wontonnesse from youth to youth,</L>
+<L>But thy abusing of thy lawfull bed,</L>
+<L>Thy husbands bed; his, in whose brest thou sleep'st:</L>
+<L>His, that did prize thee more then all the trash</L>
+<L>Which hoarding worldlings make an Idoll of:</L>
+<L>When thou shalt find the Catalogue enrold</L>
+<L>Of thy mis-d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>eds, there shall be writ, in Text,</L>
+<L>Thy bastarding, the issues of a Prince.</L>
+<L>Now turne thine eyes into thy houering soule,</L>
+<L>And doe not hope for life: would Angels sing</L>
+<L>A <HI>r<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>quiem</HI> at my hearse? but to dispense</L>
+<L>With my Reuenge on thee, 'twere all in vaine:</L>
+<L>Prepare to dye.</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>I, doe; and to the point</L>
+<L>Of thy sharpe sword, with open brest I'le runne</L>
+<L>Halfe way thus naked: doe not shrinke, <HI>Caraffa,</HI></L>
+<L>This dants not me: but in the latter act.</L>
+<L>Of thy R<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>uenge, 'tis all the sute I aske</L>
+<L>At my last gaspe, to spare thy noble friend;</L>
+<L>For life to me, without him, were a death.</L>
+</SP>
+<SP>
+<SPEAKER>Duk.</SPEAKER>
+<L>Not this; I'le none of this: 'tis not so fit:</L>
+<STAGE>casts away his sword.</STAGE>
+<L>Why should I kill her? she may liue and change,</L>
+<L>Or—</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Dost thou halt? faint Coward, dost thou wish.</L>
+<L>To blemish all thy glorious Ancestors?</L>
+<L>Is this thy Courage?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Ha I say you so too?</L>
+<L>Giue me thy hand, <HI>Biancha.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>Here.</L>
+</SP>
+<SP>
+<PB REF="38"/>
+<SPEAKER>Duke.</SPEAKER>
+<L>Farewell.</L>
+<L>Thus goe in euerlasting sleepe to dwell:</L>
+<STAGE>draws his ponyard and s<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>abs her.</STAGE>
+<L>Here's blood for lust, &amp; sacrifice for wrong</L>
+</SP>
+<SP>
+<SPEAKER>Bian.</SPEAKER>
+<L>'Tis brauely done; thou hast strucke home at once:</L>
+<L>Liue to repent too late: Commend my loue</L>
+<L>To thy true friend, my loue to him that owes it,</L>
+<L>Ny Tragedy to thee, my hart to—to—<HI>Fernand.</HI> oo oh.</L>
+<STAGE>(dies</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Sister she's dead.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Then, whiles thy rage is warme,</L>
+<L>Pursue the ca<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>er of her trespasses.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Good:</L>
+<STAGE>takes vp his sword &amp; exi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></STAGE>
+<L>I<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>le slake no time whiles I am hot in blood.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Here's royall vengeance: this becomes the state</L>
+<L>Of his disgrace, and my vnbounded fate.—</L>
+<STAGE>recedot Fior. Enter Fernando, Nibrassa, &amp; Petruchio.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>May we giue credit to your words, my Lord?</L>
+<L>Speake on your honour.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Let me dye accurst,</L>
+<L>If euer, through the progresse of my life.</L>
+<L>I did as much as reape the benefit</L>
+<L>Of any fauour from her, saue a kisse:</L>
+<L>A better woman neuer blest the earth.</L>
+</SP>
+<SP>
+<SPEAKER>Nibr.</SPEAKER>
+<L>Be shrew my heart, young Lord, but I beleeue thee:</L>
+<L>Alas, kind Lady, 'tis a Lordship to a dozen of poynts,</L>
+<L>But the j<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>alous mad man will in his fury,</L>
+<L>Offer her some violence.</L>
+</SP>
+<SP>
+<SPEAKER>Petr.</SPEAKER>
+<L>If it be thus, 'twere fit you rather kept</L>
+<L>A guard about you for your owne defence,</L>
+<L>Then to be guarded for security</L>
+<L>Of his Reuenge; he's extreamely mou'd.</L>
+</SP>
+<SP>
+<SPEAKER>Nibr.</SPEAKER>
+<P>Passion of my body, my Lord, if'a come in his odde fits to you, in the case you are,'a might cut your throat e're you could prouide a weapon of defence: nay, rather then it shal be so, hold take my sword in your hand, 'tis none of the sprusest, but 'tis a tough fox, wil not faile his master: Come what wil come, take it, I'le answer'<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> I: in the meane time, <HI>Pe∣truchio</HI> and I wil back to the Dutchesse lodging.—</P>
+<STAGE>he giues Fer. his sword.</STAGE>
+</SP>
+<SP>
+<PB REF="39"/>
+<SPEAKER>Petr.</SPEAKER>
+<L>Well thought on; and in despight of all his rage,</L>
+<L>Rescue the vertuous Lady.</L>
+</SP>
+<SP>
+<SPEAKER>Nibr.</SPEAKER>
+<L>Looke to your selfe, my Lord, the Duke comes.</L>
+<STAGE>Enter Duke, his Sword in one hand, and in the other a bloody Dagger,</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Stand, and behold thy executioner,</L>
+<L>Thou <HI>glorious Traeytor:</HI> I will keepe no forme</L>
+<L>Of Ceremonius law, to try thy guilt:</L>
+<L>Looke here, 'tis written on my ponyards point,</L>
+<L>The bloody euidence of thy vntruth,</L>
+<L>Wherein thy Conscience, and the wrathfull rod</L>
+<L>Of heauens scourge for lust, at once giue vp</L>
+<L>The verdict of thy crying villanies.</L>
+<L>I see th'art arm'd; prepare, I craue no odds,</L>
+<L>Greater then is the iustice of my cause.</L>
+<L>Fight, or I'le kill thee.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Duke I feare thee not:</L>
+<L>But first I charge thee, as thou art a Prince,</L>
+<L>Tell me, how hast thou vs'd thy Dutchesse?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>How?</L>
+<L>To adde affliction to thy trembling ghost,</L>
+<L>Looke on my daggers crimson dye, and i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>dge.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Not dead?</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Not dead? yes, by my Honor's truth: why foole,</L>
+<L>Dost thinke I'le hug my iniuries? no, Traytor;</L>
+<L>I'le mixe your soules together in your deaths,</L>
+<L>As you did both your bodies in her life:</L>
+<L>Haue at thee.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Stay, I yeeld my weapon vp:—</L>
+<STAGE>he lets fall his weapon.</STAGE>
+<L>Here, here's my bosome; as thou ar<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> a Duke,</L>
+<L>Dost honour goodnesse, if the <HI>ch<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>st Biancha</HI></L>
+<L>Be murther'd, murther me.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Faint hearted Coward,</L>
+<L>Art thou so poore in spirit? <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> and <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ight,</L>
+<L>Or, by the glories of my nou<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> and <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>me,</L>
+<L>I'<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>e kill thee basely.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Doe but heare me first,</L>
+<L><PB REF="39"/>
+Vnfortunate <HI>Caraffa;</HI> thou hast butcher'd</L>
+<L>An Innocent, a wife as free from lust</L>
+<L>As any termes of Art can Deifie.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Pish, this is stale dissimulation,</L>
+<L>I'le heare no more.</L>
+</SP>
+<SP>
+<SPEAKER>Fe<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</SPEAKER>
+<L>If euer I vnshrin'd</L>
+<L>The Altar of her purity, or tasted</L>
+<L>More of her loue, then what without controule</L>
+<L>Or blame, a brother from a sister might,</L>
+<L>Racke me to Atomies: I must confesse</L>
+<L>I haue too much abus'd thee; did exceed</L>
+<L>In lawlesse Courtship ('tis too true) I did:</L>
+<L>But by the honour which I owe to goodnesse,</L>
+<L>For any actuall folly I am free.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>'Tis false: as much in death for thee she spake.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>By yonder starry roofe 'tis true. <HI>O Duke!</HI></L>
+<L>Couldst thou reare vp another world like this,</L>
+<L>Another like to that, and more, or more,</L>
+<L>Herein thou art most wretched; all the wealth</L>
+<L>Of all those worlds could not redeeme the losse</L>
+<L>Of such a spotlesse wife: glorious <HI>Biancha,</HI></L>
+<L>Reigne in the triumph of thy martyrdome,</L>
+<L>Earth was vnworthy of thee.</L>
+</SP>
+<SP>
+<SPEAKER>Nib. et Petr.</SPEAKER>
+<L>Now on our liues we both beleeue him.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L><HI>Fernando,</HI> dar'st thou sweare vpon my sword</L>
+<L>To iustifie thy words?</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>I dare: looke here,——</L>
+<STAGE>Kisses the Sword.</STAGE>
+<L>'Tis not the feare of death doth prompt my tongue,</L>
+<L>For I would wish to dye; and thou shalt know,</L>
+<L>Poore <HI>miserabl<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> Duke,</HI> since she is dead,</L>
+<L>I'le hold all life a hell.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L><HI>Biancha</HI> chast!</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>As vertues selfe is good,</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Chast, chast, and kild by me; to her</L>
+<STAGE>Offers to stabbe himselfe, and is stayed by Fer.</STAGE>
+<L>I offer vp this remnant of my—</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Hold,</L>
+<L>Be gentler to thy selfe.</L>
+</SP>
+<SP>
+<PB REF="40"/>
+<SPEAKER>Petr.</SPEAKER>
+<L>Alas my Lord, this is a wise mans carriage.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Whither now,</L>
+<L>Shall I run from the day, where neuer man</L>
+<L>Nor eye, nor eye of heauen, may see a dogge</L>
+<L>So hatefull as I am? <HI>Biancha</HI> chaste,</L>
+<L>Had not the furie of some h<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>llish rage</L>
+<L>Blinded all reasons sight, I might haue se<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ne</L>
+<L>Her clearenesse in her confidence to dye.</L>
+<L>—your leaue—</L>
+<STAGE>Kneeles downe, holds vp his hand<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> s<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>akes a little and riseth</STAGE>
+<L>Tis done, come friend, now for her loue,</L>
+<L>Her loue that praisd thee in the pangs of death,</L>
+<L>Ile hold thee deere: Lords, do not care for me,</L>
+<STAGE>En<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>, D'aualos</STAGE>
+<L>I am too wise to dye yet—oh <HI>Biancha.</HI></L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>The Lord Abbot of <HI>Monacho,</HI> sir, is in his return from <HI>Rome,</HI> lodg'd last night late in the Citie, very priuately; and hearing the report of your journey, onely intends to visite your Dutchesse to morrow.</P>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Slaue, torture me no more, note him my Lords,</L>
+<L>If you would choose a diuell in the shape</L>
+<L>Of man, an <HI>Arch-arch-diuell,</HI> there stands one.</L>
+<L>Weele meete our Vnckle—order straight <HI>Petruchio</HI></L>
+<L>Our Dutchesse may be coffin'd, 'tis our will</L>
+<L>She forth with be interr'd with all the speed</L>
+<L>And priuacy you may, '<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>th' Colledge Church</L>
+<L>Amongst <HI>Caraffa's</HI> ancient monuments.</L>
+<L>Some three daies hence wee'le keepe her funerall.</L>
+<L>Damn'd villaine, bloody villaine—oh <HI>Biancha,</HI></L>
+<L>No counsaile from our cruell wils can win vs,</L>
+<L>"But ils once done we beare our guilt within vs.</L>
+<STAGE>Exeunt omnes, manet D'ouolos.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>God boyee. Arch-arch-diuell: why I am paid,</P>
+<P>Here's bounty for good seruice; beshrew my heart it is a right princely rewa<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>d: now must I say my prayers, that I haue liu'd to so ripe an age to haue my head stri<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ken off; I cannot tell, 'tmay be my Lady <HI>Fiormonda</HI> will stand on my behalfe to the Duke: that's but a single hope; a disgrac'd
+<PB REF="40"/>
+Courtier oftner findes enemies to sinke him when hee is fal∣ling, then friends to releeue him: I must resolue to stand to the hazard of all brunts now. Come what may, I will not dye like a Cow, and the world shall know it.—</P>
+<STAGE>Exit:</STAGE>
+<STAGE>Enter Fiormonda, and Roseilli discouered.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Wonder not, Madam, here behold the man</L>
+<L>Whom your disdaine hath metamorphosed:</L>
+<L>Thus long haue I bin clouded in this shape,</L>
+<L>Led on by Loue; and in that loue, despaire:</L>
+<L>If not the sight of our distracted Court,</L>
+<L>Nor pitty of my bondage, can reclay me</L>
+<L>The greatnesse of your scorne, yet let me know</L>
+<L>My latest doome from you.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Strange miracle!</L>
+<L><HI>Roseilli</HI> I must honour thee: thy truth,</L>
+<L>Like a transparent mirror, represents</L>
+<L>My reason with my errors. Noble Lord,</L>
+<L>That better dost deserue a better fate,</L>
+<L>Forgiue me; if my heart can entertaine</L>
+<L>Another thought of loue, it shall be thine.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Blessed for euer, blessed be the words:</L>
+<L>In death you haue reuiu'd me.</L>
+<STAGE>Enter D'auoles.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Whom haue we here? <HI>Roseilli</HI> the supposed foole?</L>
+<L>'Tis he; nay then helpe me a brazen face;</L>
+<L>My honourable Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Beare off, blood-thirsty man, come not neere me.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Madam, I trust the seruice—</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Fellow, learne to new liue the way to thrift</L>
+<L>For thee in grace, is a repentant shrift.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Ill has thy life beene, worse will be thy end;</L>
+<L>Men flesht in blood, know seldome to amend.</L>
+<STAGE>Enter Seruant.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<P>His Highnesse commends his loue to you, and ex∣pects your presence: he is ready to passe to the Church, only staying for my <HI>Lord Abbot</HI> to associate him. Withall, his pleasure is, that you <HI>D'auolos</HI> forbeare. to ranke in this so∣lemnity
+<PB REF="41"/>
+in the place of Secretary, else to be there as a priuate man; pleaseth you to goe.—</P>
+<STAGE>Exeunt. m<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>net D'auolo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>.</STAGE>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>As a priuate man! what remedy? This way they must come, and here I will stand to fall amongst <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>em in the reere.</P>
+<STAGE>A sad sound of soft <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>. The Tombe i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> dis<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>uered.</STAGE>
+<STAGE>Enter foure with Torches, after them two Fryars, after the Duke in mourning manner, after <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> the Abbot, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> monda, Co∣lona, Iuliae, Roseilli, Petruchio, Nibrassa, and a guard. D'a∣uolos following behinde. Comming neere the Tombe they all <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>eele, making shew of Ceremony. The Duke goes to the Tombe, layes his hand on it.</STAGE>
+<STAGE>Musicke cease.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Peace and sweet rest sleep here; let not the touch</L>
+<L>Of this my impious hand, prophane the shrine</L>
+<L>Of fairest purity, which houers yet</L>
+<L>About those blessed bones inhearst within:</L>
+<L>If in the bosome of this sacred Tombe,</L>
+<L><HI>Biancha</HI> thy disturbed ghost doth range;</L>
+<L>Behold, I offer vp the sacrifice</L>
+<L>Of bleeding teares, shed from a faithfull spring;</L>
+<L>Roaring oblations of a mourning heart.</L>
+<L>To thee, offended spirit, I confesse</L>
+<L>I am <HI>Caraffa,</HI> hee, that wretched man,</L>
+<L>That Butcher, who in my enraged spleene</L>
+<L>Slaughtered the <HI>life of Innocence and Beauty:</HI></L>
+<L>Now come I to pay tribute to those wounds</L>
+<L>Which I digg'd vp, and reconcile the wrongs</L>
+<L>My fury wrought; and my Contrition mournes.</L>
+<L>So chast, so deare a wife was neuer man,</L>
+<L>But I, enioy'd: yet in the bloome and pride</L>
+<L>Of all her yeares, vntimely tooke her life.</L>
+<L>Enough; set ope the Tombe, that I may take</L>
+<L>My last farewell, and bury griefes with her.</L>
+<STAGE>One goes to open the Tombe, out of which ariseth Fernando in his winding sheet, onely his face discouered; as Caraeffa is go∣ing in, he puts him backe.</STAGE>
+</SP>
+<SP>
+<PB REF="41"/>
+<SPEAKER>Fer.</SPEAKER>
+<L>Forbeare; what art thou that dost rudely presse</L>
+<L>Into the confines of forsaken-graues?</L>
+<L>Has death no priuilege? Com'st thou, <HI>Caraffa,</HI></L>
+<L>To practise yet a rape vpon the dead? Inhumane Tyrant,</L>
+<L>Whats'euer thou intend'st, know this place</L>
+<L>Is poynted out for my inheritance:</L>
+<L>Here lyes the monument of all my hopes.</L>
+<L>Had eager Lust intrunk'd my conquered soule,</L>
+<L>I had not buried liuing ioyes in death:</L>
+<L>Goe, Reuell in thy pallace, and be proud</L>
+<L>To boast thy famous murthers: let thy smooth</L>
+<L>Low-fawning parasites renowne thy Act:</L>
+<L>Thou com'st not here.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L><HI>Fernando,</HI> man of darknesse,</L>
+<L>Neuer till now (before these dreadfull fights)</L>
+<L>Did I abhorre thy friendship; thou hast rob'd</L>
+<L>My resolution of a glorious name.</L>
+<L>Come out, or by the thunder of my rage,</L>
+<L>Thou dy'st a death more fearefull then the scourge</L>
+<L>Of death can whip thee with.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Of death? poore Duke:</L>
+<L>Why that's the ayme I shoot at: 'tis not threats,</L>
+<L>(Ma<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ger thy power, of the spight of hell)</L>
+<L>Shall rent that honour: let life-hugging slaues,</L>
+<L>Whose hands imbrued in Butcheries like thine,</L>
+<L>Shake terror to their soules, be loath to dye:</L>
+<L>See, I am cloath'd in robes that fit the graue:</L>
+<L>I pitty thy defyance.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Guard lay hands,</L>
+<L>And drag him out.</L>
+</SP>
+<SP>
+<SPEAKER>Fer.</SPEAKER>
+<L>Yes, let 'em, here's my shield</L>
+<STAGE>As théy goe to fetch him him out, he drinkes off a Violl of poyson.</STAGE>
+<L>Here's health to Victory.—</L>
+<L>Now doe thy worst.</L>
+<L>Ferewell Duke, once I haue out-stript thy plots:</L>
+<L>Not all the cunning <HI>Antidotes of Art</HI></L>
+<L>Can warrant me twelue minutes of my life:</L>
+<L>It workes, it workes already, brauely, brauely.—</L>
+<L><PB REF="42"/>
+Now, now I feele it teare each seuerall ioynt:</L>
+<L>O royall poyson? trusty friend? split, split</L>
+<L>Both heart and gall asunder; excellen<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> bane!</L>
+<L><HI>Roseilli</HI> loue my memory; well search'd out</L>
+<L>Swift nimble venome, torture euery veyne.</L>
+<L>I, come <HI>Biancha,</HI>—cruell torment feast,</L>
+<L>Feast on, doe; Duke farewell. Thus I—hot flames</L>
+<L>Conclude my Loue—and seale it in my bosome, oh—</L>
+<STAGE>dies.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>Most desperate end!</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>None stirre:</L>
+<L>Who steps a foot, steps to his vtter ruine.</L>
+<L>And art thou gone? <HI>Fernando,</HI> art thou gone?</L>
+<L>Thou wert a friend vnma<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>ch'd, rest in thy fame.</L>
+<L>Sister, when I haue finisht my last dayes,</L>
+<L>Lodge me, my wife, and this vnequali<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>d friend,</L>
+<L>All in one monument. Now to my vowes:</L>
+<L>Neuer henceforth let any passionate tongue</L>
+<L>Mention <HI>Biancha's</HI> and <HI>Caraffa's</HI> name,</L>
+<L>But let each letter in that tragicke sound</L>
+<L>Beget a sigh, and euery sigh a teare:</L>
+<L>Children vnborne, and widowes whose leane cheeks</L>
+<L>Are furrowed vp by age, shall weepe whole nights,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>peating but the story of our fates;</L>
+<L>Whiles in the period, closing vp their tale,</L>
+<L>They must conclude, how for <HI>Biancha's</HI> loue,</L>
+<L><HI>Caraffa</HI> in reuenge of wrongs to her,</L>
+<L>Thus on h<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>r Altar sacrific'd his life.——</L>
+<STAGE>stabs himselfe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>Oh hold the Dukes hand.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Saue my brother, saue him.</L>
+</SP>
+<SP>
+<SPEAKER>Duke.</SPEAKER>
+<L>Doe, doe, I was too willing to strike home</L>
+<L>To be preuented: Fooles, why could you dreame</L>
+<L>I would out-liue my out-rage sprightfull flood</L>
+<L>Run out in Riuers? oh that these thicke streames</L>
+<L>Could gather head, and make a standing poole,</L>
+<L>That jealous husbands here might bathe in blood.</L>
+<L>So; I grow sweetly empty; all the pipes</L>
+<L>Of <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>fe vn-ve<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>sell life; now heauens wipe out</L>
+<L><PB REF="42"/>
+The writing of my sinne: <HI>Biancha,</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>us</L>
+<L>I creepe to thee—to thee—to thee <HI>Bi—an—cha.</HI></L>
+<STAGE>d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>es.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>He's dead already, Madam.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>Aboue hope, here's labour sau'd, I could blesse the Destinies</L>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>Would I had neuer seene it.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Since 'tis thus,</L>
+<L>My Lord <HI>Roseilli,</HI> in the true requita<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>l</L>
+<L>Of your continued loue, I here possesse</L>
+<L>You of the Dukedome; and with it, of me,</L>
+<L>In presence of this holy Abbot.</L>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>Lady, then</L>
+<L>From my hand take your husband; long enioy</L>
+<STAGE>hee <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>oynes their hands.</STAGE>
+<L>Each to each others comfort and content.</L>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<L>Long liue <HI>Roseilli.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>First thanke to heauen, next Lady to your loue;</L>
+<L>Lastly, my Lords, to all: and that the entrance</L>
+<L>Into this principality may giue</L>
+<L>Faire hopes of being worthy of our place,</L>
+<L>Our first worke shall be justice.—<HI>D'auolo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/></HI></L>
+<L>Stand forth.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<L>My gracious Lord:</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>No, gracelesse villaine,</L>
+<L>I am no Lord of thine: Guard take him hence,</L>
+<L>Conuey him to the prisons top; in chaines</L>
+<L>Hang him aliue; whosoeuer lends a bit</L>
+<L>Of bread to feed him, dyes: speake not against it,</L>
+<L>I will be deafe to mercy.—Beare him hence.</L>
+</SP>
+<SP>
+<SPEAKER>R. D.</SPEAKER>
+<P>Mercy, new Duke: here's my comfort, I make but one in the number of the Tragedy of Princes.</P>
+<STAGE>ex<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>t.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Madam, a second charge is to performe</L>
+<L>Your brother's Testament; wee'll reare a Tombe</L>
+<L>To those vnhappy Louers, which shall tell</L>
+<L>Their fatall Loues to all posterity.</L>
+<L>Thus then for you, henceforth I here dismisse</L>
+<L>The mutuall comforts of our marriage-bed:</L>
+<L>Learne to new liue, my vowes v<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/>mou'd shall stand:</L>
+<L><PB REF="43"/>
+And since your life hath beene so much vn-euen,</L>
+<L>Bethinke, in time, to make your peace with heauen.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>Oh me! is this your loue?</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>'Tis your desert:</L>
+<L>Which no perswasion shall remoue.</L>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>'Tis fit:</L>
+<L>Purge frailty with repentance.</L>
+</SP>
+<SP>
+<SPEAKER>Fior.</SPEAKER>
+<L>I embrace it:</L>
+<L>Happy too late, since lust hath made me foule,</L>
+<L>Henceforth I'le dresse my <HI>Bride-bed</HI> in my soule.</L>
+</SP>
+<SP>
+<SPEAKER>Ros.</SPEAKER>
+<L>Please yo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters" DISP="•…"/> to walke, Lord Abbot.</L>
+</SP>
+<SP>
+<SPEAKER>Abbot.</SPEAKER>
+<L>Yes, set on:</L>
+<L>No age hath heard, nor Chronicle can say,</L>
+<L>That euer here befell a sadder day.—</L>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="43"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

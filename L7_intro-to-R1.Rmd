@@ -128,7 +128,25 @@ v1
 v1[4]
 ```
 
-The other important data structure is called a data frame. This is probably the most useful for sophisticated analyses, because it renders the data in a table that is very similar to a spreadsheet. It is also more than that: a data frame is actually a special kind of list of vectors and factors that have the same length. 
+[Jeff Rydberg-Cox](https://daedalus.umkc.edu/StatisticalMethods/preparing-literary-data.html) provides some helpful tips for preparing data for R processing:
+
+- Download the text(s) from a source repository.
+
+- Remove extraneous material from the text(s).
+
+- Transform the text(s) to answer your research questions.
+
+Get used to the functions that help you understand R: `?` and `example()`.
+
+```{r}
+?c
+
+example(c, echo = FALSE) # change the echo value to TRUE to get the results
+```
+
+The `c` function is widely used, but it is really only useful for creating small data sets. Many of you will probably want to load text files.
+
+The other important data structure is called a data frame. This is probably the most useful for sophisticated analyses, because it renders the data in a table that is similar to a spreadsheet. It is also more than that: a data frame is actually a special kind of list of vectors and factors that have the same length. 
 
 It is important to input your data in an Excel or Google docs spreadsheet and then export that data into a comma separated value (.csv) or tab separated value (.tsv) file.
 
@@ -169,7 +187,7 @@ metadata$nationality
 ```
 This is a fairly simple example to show you the syntax and meaning of a data frame, but most of you will be loading data into R. (Though you should remember that the `data.frame` fucntion is often used in code to transform lists.) Usually that data comes from a spreadsheet software (Microsoft Excel, Apple Numbers, Google Sheets).
 
-To **load** data we use the `read.csv` or `read.table` function. (See Gries, p. 53-54.) From our GitHub site, download the bow-in-the-cloud-metadata-box1.csv file. Let's use that to run some experiments on data frames.
+To **load** data we use the `read.csv` or `read.table` function. (See Gries, pp. 53-54.) From our GitHub site, download the bow-in-the-cloud-metadata-box1.csv file. Let's use that to run some experiments on data frames.
 
 ```{r}
 rm(list = ls(all=TRUE))
@@ -193,36 +211,6 @@ write.table(bow.metadata, file = "bow-metadata-df.csv", sep = "\t", quote = FALS
 In your working directory you should now have a new csv file that looks quite similar to the original spreadsheet. Again, not particularly interesting here, but in many cases you will find yourself turning vectors into data frames in R, and then outputting your results into csv files. It's also important to know the difference between the `read.csv` and `write.table` functions.
 
 ### Reading Data in R
-
-There are other important kinds of R data formats that you should know. The first is a vector, which is a single variable consisting of an ordered collection numbers and/or words. An easy way to create a vector is to use the `c` command, which basically means "combine."
-
-```{r}
-v1 <- c("i", "wait", "with", "bated", "breath")
-
-# confirm the value of the variable by running v1
-v1
-
-# identify a specific value by indicating it is brackets
-v1[4]
-```
-
-Get used to the functions that help you understand R: `?` and `example()`.
-
-```{r}
-?c
-
-example(c, echo = FALSE) # change the echo value to TRUE to get the results
-```
-
-The `c` function is widely used, but it is really only useful for creating small data sets. Many of you will probably want to load text files.
-
-[Jeff Rydberg-Cox](https://daedalus.umkc.edu/StatisticalMethods/preparing-literary-data.html) provides some helpful tips for preparing data for R processing:
-
-- Download the text(s) from a source repository.
-
-- Remove extraneous material from the text(s).
-
-- Transform the text(s) to answer your research questions.
 
 The best way to load text files is with the `scan` function. First, download a text file of Dickens's [*Great Expectations*](https://www.dropbox.com/s/qji9ueb46ajait9/dickens_great-expectations.txt?dl=0) onto your working directory (it is also available in our corpus directory, in the c19-20 subdirectory).
 
