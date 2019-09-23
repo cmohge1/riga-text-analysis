@@ -215,22 +215,16 @@ oppose()
 # in the GUI I have chosen Craig's zeta, which was used above, except I have checked the boxes for visualising differences: "Markers" and "Identify Points".
 ```
 
-The `imposters` fucntion is a technique of authorship verification, based on the General Imposters method.
-
-It compares a disputed text against (a) some texts by a potential author of that text, and (b) several texts written by people who could not have written it (aka the imposters).
-In many random iterations it estimates if the text in question was more likely written by the candidate, or by any of the imposters. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
-
-```{r}
-imposters()
-```
-
 
 What can you gather from here about the probability of majority authorship?
 
 Rolling Stylometry technique (which slices an input text into equal-sized samples and compares them sequentially with reference data; it is good at finding local idiosyncrasies in longer texts). It can also analyse collaborative works and try to determine the authorship of fragments extracted from them. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
 
 ```{r}
-rolling.classify()
+rolling.classify(write.png.file = TRUE, mfw = 100, training.set.sampling = "normal.sampling", slice.size = 5000, slice.overlap = 4500)
 ```
+What you're seeing is a series of "windows" of the test text as against the reference texts. By “windowing” I mean that each reference text is divided into consecutive, equal-sized samples. It employs the relative frequencies of a (preferably small) set of n words which were also frequent in the reference collection. As Eder et al suggest, " If the curve for a text would show a sudden drop at a given position, this could be indicative of a stylistic change in the text (which might, for instance, be caused by one author taking over from another."
+
+The vertical lines in the plot can be thought to mark the position of certain events in the test text, either a change in chapter or a change in style.
 
 To learn more about stylo, consult [Eder, Rybicki, and Kestemont's documentation](https://4bc8d809-a-62cb3a1a-s-sites.googlegroups.com/site/computationalstylistics/stylo/stylo_howto.pdf?attachauth=ANoY7coDX7i5IQiUFMzj3t5plryJdzEX6HalsOFNYcY0MuEkRjEcgRdxintmXDmiTmrk9iiKOLNf_u-sXgosAnlG75tz1USWfoHiNe4rhFuFjoyqPfPaFIb3W4q63VxJ3a4Etpec8SMrqdMRMvkeApHeHzPNO3zvvUwmieVvBW3H68wOsWG2ZRRc4_nO0rM5dm2cb4obSiqjRe4_-VaDfN2vshvxBf_fwtvvzmzQGpCH5U9hnvTQb-M%3D&attredirects=0).

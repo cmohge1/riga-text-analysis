@@ -807,6 +807,7 @@ oppose()
 <!-- rnb-text-begin -->
 
 
+
 What can you gather from here about the probability of majority authorship?
 
 Rolling Stylometry technique (which slices an input text into equal-sized samples and compares them sequentially with reference data; it is good at finding local idiosyncrasies in longer texts). It can also analyse collaborative works and try to determine the authorship of fragments extracted from them. This requires that the working directory contains two subdirectories: "reference_set" and "test_set."
@@ -818,19 +819,34 @@ Rolling Stylometry technique (which slices an input text into equal-sized sample
 <!-- rnb-chunk-begin -->
 
 
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucm9sbGluZy5jbGFzc2lmeSgpXG5gYGAifQ== -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuaW1wb3N0ZXJzKClcblxuYGBgIn0= -->
 
 ```r
-rolling.classify()
+imposters()
+
 ```
 
 <!-- rnb-source-end -->
+
+<!-- rnb-output-begin eyJkYXRhIjoiRXJyb3IgaW4gaW1wb3N0ZXJzKCkgOiBcbiAgYXJndW1lbnQgXCJyZWZlcmVuY2Uuc2V0XCIgaXMgbWlzc2luZywgd2l0aCBubyBkZWZhdWx0XG4ifQ== -->
+
+```
+Error in imposters() : 
+  argument "reference.set" is missing, with no default
+```
+
+
+
+<!-- rnb-output-end -->
 
 <!-- rnb-chunk-end -->
 
 
 <!-- rnb-text-begin -->
 
+What you're seeing is a series of "windows" of the test text as against the reference texts. By “windowing” I mean that each reference text is divided into consecutive, equal-sized samples. It employs the relative frequencies of a (preferably small) set of n words which were also frequent in the reference collection. As Eder et al suggest, " If the curve for a text would show a sudden drop at a given position, this could be indicative of a stylistic change in the text (which might, for instance, be caused by one author taking over from another."
+
+The vertical lines in the plot can be thought to mark the position of certain events in the test text, either a change in chapter or a change in style.
 
 To learn more about stylo, consult [Eder, Rybicki, and Kestemont's documentation](https://4bc8d809-a-62cb3a1a-s-sites.googlegroups.com/site/computationalstylistics/stylo/stylo_howto.pdf?attachauth=ANoY7coDX7i5IQiUFMzj3t5plryJdzEX6HalsOFNYcY0MuEkRjEcgRdxintmXDmiTmrk9iiKOLNf_u-sXgosAnlG75tz1USWfoHiNe4rhFuFjoyqPfPaFIb3W4q63VxJ3a4Etpec8SMrqdMRMvkeApHeHzPNO3zvvUwmieVvBW3H68wOsWG2ZRRc4_nO0rM5dm2cb4obSiqjRe4_-VaDfN2vshvxBf_fwtvvzmzQGpCH5U9hnvTQb-M%3D&attredirects=0).
 
