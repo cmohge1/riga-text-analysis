@@ -1,0 +1,313 @@
+---
+title: "Tidy text analysis, part 1"
+output:
+  html_document:
+    toc: yes
+  html_notebook:
+    theme: united
+    toc: yes
+---
+
+## Using TidyText for distant reading
+
+For these two lessons we will be modifying code from Julia Silge and David Robinson's [*Text Mining with R: A Tidy Approach*](https://www.tidytextmining.com/).
+
+Before getting started, make sure you have set your working directory.
+
+```{r warning = FALSE}
+setwd("~/Desktop")
+```
+
+We did this to situate ourselves correctly within the filing system: we set our working directory to a reasonable place, the Desktop.
+
+Note that the squiggly line (~) tells the system to return to the root (or home) directory, and your Desktop should be the next step (/) from the root. In Windows you would need to type out the file path, so something like `C:\Users\[username]\Desktop`.
+
+Next we load the necessary libraries for these lessons. **Note**: If you get error messages, you will need to install the libraries by navigating to the "Packages" tab on the right-side panel of RStudio. Then click "Install," enter the name of the package, and install it.
+
+```{r warning=FALSE, message=FALSE}
+library(tidytext)
+library(dplyr)
+library(stringr)
+library(glue)
+library(tidyverse)
+library(tidyr)
+library(ggplot2)
+library(gutenbergr)
+```
+
+Before going into more details, I will briefly explain the 'tidy' approach to data that will be used in the following. The tidy approach assumes three principles regarding data structure:^[For more on this, see Hadley Wickham's “Tidy Data,” *Journal of Statistical Software* 59 (2014): 1–23. https://doi.org/10.18637/jss.v059.i10.]
+
+- Each variable is a column
+- Each observation is a row
+- Each type of observational unit is a table
+
+What results is a **table with one-token-per-row**. (Recall that a token is any meaningful unit of text: usually it is a word, but it can also be an n-gram, sentence, or even a root of a word.)
+
+```{r}
+pound_poem <- c("The apparition of these faces in the crowd;", "Petals on a wet, black bough.")
+
+pound_poem
+```
+
+Here we have created a character vector like we did before: the vector consists of two strings of text. In order to transform this into tidy format, we need to transform it into a data frame (here called a 'tibble', a type of data frame in R that is more convenient for text-based analysis).
+
+```{r}
+pound_poem_df <- tibble(line = 1:2, text = pound_poem)
+
+pound_poem_df
+```
+
+While better, this format is still not useful for tidy text analysis because we still need each word to be individually accounted for. To accomplish this act of tokenization, use the `unnest_tokens` function.
+
+```{r}
+pound_poem_df %>% unnest_tokens(word, text)
+# the unnest_tokens function requires two arguments: the output column name (word), and the input column that the text comes from (text)
+```
+
+Notice how each word is in its own row, but also that its original line number is still intact. That is the basic logic of tidy text analysis. Now let's apply this to a larger data set. 
+
+**Using the `gutenbergr`package with tidytext:**
+
+By running the gutenberg_authors function, you can see the file format of the names.
+
+```{r}
+gutenberg_authors
+```
+
+Let's run our first file loading function. 
+
+```{r}
+# this searches gutenberg for titles with the author name specified after the 'str_detect' function
+gutenberg_works(str_detect(author, "Livy"))$title
+```
+
+Did you notice anything wrong with this? The first result duplicates some of the content of the fourth, so we should not use that first text id. Remember, the first rule of scholarship is TRUST NO ONE. In computing, never trust your data. So we'll narrow the ingestion of the gutenberg ids to start with the second result.
+
+```{r message=FALSE}
+# creates a variable that takes all the gutenberg ids of 
+ids <- gutenberg_works(str_detect(author, "Livy"))$gutenberg_id[2:5]
+
+livy <- gutenbergr::gutenberg_download(ids)
+livy <- livy %>%
+  group_by(gutenberg_id) %>%
+  mutate(line = row_number()) %>%
+  ungroup()
+```
+
+Here we created a new vector called ```livy``` and invoked the 'gutenberg_works' function to find Livy. What does the ```gutenberg_download``` function do? Again, type in the ? before the function to receive a description from the R Documentation. Try the `example` function, too.
+
+Also, from the code above you might be wondering what the ```$``` and ```%>%``` symbols mean. The ```$``` refers to a variable. The ```%>%``` is a connector (a pipe) that mimics nesting. The rule is that the object on the left side is passed as the first argument to the function on the right hand side, so considering the last two lines, ```mutate(line = row_number()) %>% ungroup()``` is the same as ```ungroup(mutate(line = row_number()))```. It just makes the code (and particularly multi-step functions) more readable.^[Granted, it is not part of R's base code, but it was defined by the `magrittr` package and is now widely used in the ```dplyr``` and ```tidyr``` packages.]
+
+```{r}
+?gutenberg_download
+```
+
+Now let's see what we have downloaded. R has a summary function to show metadata about the new vector we just created, ```livy```.
+
+```{r}
+summary(livy)
+```
+
+Now we transform this into a tidy data set.
+
+```{r}
+tidy_livy <- livy %>%
+  unnest_tokens(output = word, input = text, token = "words")
+  
+tidy_livy %>% 
+  count(word, sort = TRUE) %>%
+  filter(n > 4000) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()
+```
+
+Now we are mostly seeing functions words in these results. But what is interesting about the function words? Notice the prominence of pronouns, for example.
+
+Of course you will want to complement these results with substantive results (i.e., with stop words filtered out).
+
+```{r}
+data(stop_words)
+
+tidy_livy <- tidy_livy %>%
+  anti_join(stop_words)
+
+livy_plot <- tidy_livy %>% 
+  count(word, sort = TRUE) %>%
+  filter(n > 600) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n)) +
+  geom_col() +
+  ylab("Word frequencies in Livy's History of Rome") +
+  coord_flip()
+
+livy_plot
+```
+
+In the visual above, you might want to locate the button in the upper right corner 'Show in New Window', so that you can zoom the results out.
+
+We might also want to read (or have a searchable list in a table) of the word frequencies. The first code block below renders the results above in a table, and the second code block writes all of the results into a csv (spreadsheet) file.
+
+```{r}
+tidy_livy %>%
+  count(word, sort = TRUE)
+
+livy_words <- tidy_livy %>%
+  count(word, sort = TRUE)
+
+write_csv(livy_words, "livy_words.csv")
+
+# Note that if you want to retain the tidy data (that is, the title-line-word columns in multiple works, say),
+# then you would just invoke the tidy_livy variable: write_csv(tidy_livy, "livy_words.csv")
+```
+
+Much of what we have done can also be done in [Voyant Tools](http://voyant-tools.org/), to be sure. However, we have been able to load data *faster* in R, and we have also organized the data is tidytext tables that allow us to make judgments about the similarities and differences between the works in the corpus. It is also important to stress that you retain more control over organizing and manipulating your data with R, whereas in Voyant you are beholden to unstructured text files in a pre-built visualization interface.
+
+To illustrate this flexibility, let's investigate the data in ways that are unique to R (and programming in general).
+
+We might want to make similar calculations by book, which is easier now due to the tidy data structure.
+
+```{r}
+livy_word_freqs_by_book <- tidy_livy %>%
+  group_by(gutenberg_id) %>%
+  count(word, sort = TRUE) %>%
+  ungroup()
+
+livy_word_freqs_by_book %>%
+    filter(n > 250) %>%
+    ggplot(mapping = aes(x = word, y = n)) +
+    geom_col() +
+    coord_flip()
+```
+
+This shows you the general trend of each word that is used more than 250 times in alphabetical order. We can also break up the results into individual graphs for each book.
+
+```{r}
+livy_word_freqs_by_book %>%
+    filter(n > 250) %>%
+    ggplot(mapping = aes(x = word, y = n)) +
+    geom_col() +
+    coord_flip() + facet_wrap(facets = ~ gutenberg_id)
+```
+
+This might appear to be an overwhelming picture, but it is an immediate display of similarities and differences between books. Granted, they are slightly out of order (id 10907 is The History of Rome, Books 09 to 26, and 12582 is Books 01 to 08), but you can immediately notice how the first half differs from the second in its content.  
+
+We could re-engineer the code in the previous examples to look more closely at these results. First we'll narrow our data set to the more interesting id numbers mentioned already.
+
+```{r}
+livy2 <- gutenberg_download(c(10907, 44318))
+
+livy_tidy2 <- livy2 %>%
+  group_by(gutenberg_id) %>%
+  mutate(line = row_number()) %>%
+  ungroup()
+
+livy_tidy2 <- livy_tidy2 %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words)
+
+livy_word_freqs_by_book <- livy_tidy2 %>%
+  group_by(gutenberg_id) %>%
+  count(word, sort = TRUE) %>%
+  ungroup()
+
+livy_word_freqs_by_book %>%
+    filter(n > 210) %>%
+    ggplot(mapping = aes(x = word, y = n)) +
+    geom_col() +
+    coord_flip() + facet_wrap(facets = ~ gutenberg_id)
+
+```
+
+What is the most consistent word used throughout Livy's *History*?
+
+Let's now compare these results to another important chronicler, from a different era: Herodotus.
+
+```{r}
+herodotus <- gutenberg_download(c(2707, 2456))
+```
+
+This downloads the two-volume *Histories* of Herodotus e-text (note that the c values are the gutenberg ids of two vols of Herodotus' Histories. The ids can be found by searching for texts on gutenberg.org, clicking on the Bibrec tab, and copying the EBook-No.).
+
+```{r}
+tidy_herodotus <- herodotus %>%
+  unnest_tokens(word, text)
+
+tidy_herodotus %>%
+  count(word, sort = TRUE)
+```
+
+What are the differences here with the Livy results?
+
+Now let's filter out the stop words again.
+
+```{r}
+tidy_herodotus <- herodotus %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words) 
+
+tidy_herodotus %>%
+  count(word, sort = TRUE)
+```
+
+We could also add into the mix yet another text. Let's try Edward Gibbon.
+
+```{r}
+gibbon <- gutenberg_works(author == "Gibbon, Edward") %>%
+  gutenberg_download(meta_fields = "title")
+
+tidy_gibbon <- gibbon %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words)
+
+tidy_gibbon %>%
+  count(word, sort = TRUE)
+```
+
+
+Let's visualize the differences.
+
+```{r}
+frequency <- bind_rows(mutate(tidy_livy, author = "Livy"),
+                       mutate(tidy_herodotus, author = "Herodotus"),
+                       mutate(tidy_gibbon, author = "Edward Gibbon")) %>% 
+  mutate(word = str_extract(word, "['a-z']+")) %>%
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n / sum(n)) %>% 
+  select(-n) %>% 
+  spread(author, proportion) %>% 
+  gather(author, proportion, `Livy`:`Herodotus`)
+```
+
+```{r message=FALSE}
+library(scales)
+ggplot(frequency, aes(x = proportion, y = `Edward Gibbon`, color = abs(`Edward Gibbon` - proportion))) +
+  geom_abline(color = "gray40", lty = 2) +
+  geom_jitter(alpha = 0.1, size = 2.5, width = 0.3, height = 0.3) +
+  geom_text(aes(label = word), check_overlap = TRUE, vjust = 1.5) +
+  scale_x_log10(labels = percent_format()) +
+  scale_y_log10(labels = percent_format()) +
+  scale_color_gradient(limits = c(0, 0.001), low = "darkslategray4", high = "gray75") +
+  facet_wrap(~author, ncol = 2) +
+  theme(legend.position="none") +
+  labs(y = "Edward Gibbon", x = NULL)
+```
+
+Words that group near the upper end of the diagonal line in these plots have similar frequencies in both sets of texts.
+
+```{r}
+cor.test(data = frequency[frequency$author == "Livy",],
+         ~ proportion + `Edward Gibbon`)
+```
+
+```{r}
+cor.test(data = frequency[frequency$author == "Herodotus",],
+         ~ proportion + `Edward Gibbon`)
+```
+
+What this proves (statistically) is that the word frequencies of Gibbon are more correlated to Herodotus than to Livy---which is fascinating, given that Gibbon what writing about the same subject as Livy! 
+
+What else can you infer from these comparisons?

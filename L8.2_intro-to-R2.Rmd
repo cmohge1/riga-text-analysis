@@ -228,7 +228,7 @@ which.min(father.freqs)
 Create a vector that confines your results to only the paragraphs with dialogue.
 
 ```{r}
-dialogue.v <- grep('("([^"]|"")*")', novel.lines.v) # grep is another regex function
+dialogue.v <- grep('"(.*?)"', novel.lines.v) # grep is another regex function
 
 novel.lines.v[dialogue.v][1:20] 
 # check your work by finding all the dialogue lines in novel.lines.v
@@ -337,6 +337,6 @@ Now we can visualise these two word searches.
 ```{r}
 colnames(fathers.sons.m) <- c("father", "son")
 
-barplot(fathers.sons.m, beside=T, col="grey")
-```
+barplot(fathers.sons.m, beside=T, col="grey", ylab = "relative word frequency")
 
+```

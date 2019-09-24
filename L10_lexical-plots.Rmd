@@ -1,0 +1,118 @@
+---
+title: "Lexical dispersion plots; parts of speech tagging"
+output:
+  html_document:
+    toc: yes
+  html_notebook:
+    theme: united
+    toc: yes
+---
+
+## Creating lexical dispersion plots
+
+First you need set your working directory (for me, that is seted("~/git-space/hacking-moby-dick/")). 
+
+Then you load two libraries:
+
+library("rJava")
+
+library("qdap")
+
+```{r include=FALSE}
+seted("~/git-space/hacking-moby-dick/")
+library("rJava")
+library("qdap")
+```
+
+Next you will load the texts as you have done before with the `scan` function and combine them into one text vector.
+
+```{r}
+ed.drood.text <- scan(file = "corpus/c19-20_prose/dickens_edwin-drood.txt", what = "characters", sep = "\n")
+great.exp.text <- scan(file = "corpus/c19-20_prose/dickens_great-expectations.txt", what = "characters", sep = "\n")
+pickwick.text <- scan(file = "corpus/c19-20_prose/dickens_pickwick-papers.txt", what = "characters", sep = "\n")
+
+dickens.texts <- c(pickwick.text, great.exp.text, ed.drood.text)
+```
+
+Now we just run a dispersion_plot function that finds select terms and places them in relation to each other in the space of the text. You can type in whichever terms you would like to map by changing them in the "c" (combine) function.
+
+```{r}
+dispersion_plot(dickens.texts, c("poor", "strange", "dead", "death", "father", "son", "dark"), color = "black", bg.color = "grey90", horiz.color = "grey85", total.color = "black", symbol = "|", title = "Lexical Dispersion Plot in three novels by Charles Dickens", rev.factor = TRUE, wrap = "'", xlab = NULL, ylab = "Word Frequencies", size = 5, plot = TRUE)
+```
+
+This gives you a general impression of co-occuring words in three texts by Dickens from early, middle, and late periods of his career. This gives you a sense of the consistency of certain concepts. You could also generate plots for each text by referring to the above single-work veriables.
+
+```{r}
+dispersion_plot(ed.drood.text, c("poor", "strange", "dead", "death", "father", "son", "dark"), color = "black", bg.color = "grey90", horiz.color = "grey85", total.color = "black", symbol = "|", title = "Lexical Dispersion Plot in three novels by Charles Dickens", rev.factor = TRUE, wrap = "'", xlab = NULL, ylab = "Word Frequencies", size = 5, plot = TRUE)
+```
+
+#label each graph as a column, following the order of each "zoo" invocation" 
+colnames(z) <- c("Measure for Measure", "Henry VIII", "Antoy and Cleopatra")
+
+plot(z, main = "Lexical richness comparison, with hapax analysis", 
+     xlab = "# of markings", 
+     type = "h", 
+     plot.type = "multiple", 
+     col = 1, led = 10)
+
+## POS tagging and functions
+
+As is now typical, we need to load the appropriate libraries--this time, for natural language processing.
+
+```{r}
+library(openNLP)
+library (NLP)
+library (openNLPmodels.en)
+library (tm)
+library (stringr)
+library (gsubfn)
+library (plyr)
+```
+
+Earlier in the course we briefly mentioned parts-of-speech tagging, which is essential for corpus analysis on the grammatical level. Before we used Laurence Anthony's open-source tool [TagAnt](). However, you can use other programming tools to pos-tag your text. Here is a function that does this. The way it works is that we are going to run this function first, then load a text.
+
+```{r}
+extractPOS <- function(x, thisPOSregex) {
+  x <- as.String(x)
+  wordAnnotation <- annotate(x, list(Maxent_Sent_Token_Annotator(), Maxent_Word_Token_Annotator()))
+  POSAnnotation <- annotate(x, Maxent_POS_Tag_Annotator(), wordAnnotation)
+  POSwords <- subset(POSAnnotation, type == "word")
+  tags <- sapply(POSwords$features, '[[', "POS")
+  thisPOSindex <- grep(thisPOSregex, tags)
+  tokenizedAndTagged <- sprintf("%s/%s", x[POSwords][thisPOSindex], tags[thisPOSindex])
+  untokenizedAndTagged <- paste(tokenizedAndTagged, collapse = " ")
+  untokenizedAndTagged
+}
+```
+
+```{r}
+great.exp.tagged <- scan(file = "corpus/c19-20_prose/dickens_great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
+```
+
+Now what we can do is to call upon the loaded text file, process it with POS tags, then extract the pos tags from the tagged file.
+
+```{r}
+#to extract verbs
+ed.verbs <- lapply(ed.drood.text, extractPOS, "(VB|VBD|VBG|VBN|VBP|VBZ)")
+ed.verbs.txt <- tolower(ed.verbs)
+ed.verbs.list <- strsplit(ed.verbs.txt, "/\\w+\\W", perl = TRUE)
+ed.verbs.v <- unlist(ed.verbs.list)
+ed.verbs.freq.list <- table(ed.verbs.v)
+ed.verbs.sorted <- sort(ed.verbs.freq.list, decreasing = TRUE)
+ed.verbs.sorted[1:50]
+write.csv(ed.verbs.sorted, "edwin-drood-verbs.csv")
+```
+
+```{r}
+# to extract nouns
+ed.nouns <- lapply(ed.tagged, extractPOS, "(NN|NNS|NNP|NNPS)")
+ed.nouns
+ed.nouns.txt <- tolower(ed.nouns)
+ed.nouns.list <- strsplit(ed.nouns.txt, "/\\w+\\W", perl = TRUE)
+ed.nouns.v <- unlist(ed.nouns.list)
+ed.nouns.freq.list <- table(ed.nouns.v)
+ed.nouns.sorted <- sort(ed.nouns.freq.list, decreasing = TRUE)
+ed.nouns.sorted
+write.csv(ed.nouns.sorted, "edwin-drood-nouns.csv")
+```
+
