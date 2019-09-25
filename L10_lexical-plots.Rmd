@@ -10,7 +10,7 @@ output:
 
 ## Creating lexical dispersion plots
 
-First you need set your working directory (for me, that is seted("~/git-space/hacking-moby-dick/")). 
+First you need set your working directory. For me, that is `setwd("~/Desktop")`. 
 
 Then you load two libraries:
 
@@ -19,7 +19,6 @@ library("rJava")
 library("qdap")
 
 ```{r include=FALSE}
-seted("~/git-space/hacking-moby-dick/")
 library("rJava")
 library("qdap")
 ```
@@ -46,30 +45,21 @@ This gives you a general impression of co-occuring words in three texts by Dicke
 dispersion_plot(ed.drood.text, c("poor", "strange", "dead", "death", "father", "son", "dark"), color = "black", bg.color = "grey90", horiz.color = "grey85", total.color = "black", symbol = "|", title = "Lexical Dispersion Plot in three novels by Charles Dickens", rev.factor = TRUE, wrap = "'", xlab = NULL, ylab = "Word Frequencies", size = 5, plot = TRUE)
 ```
 
-#label each graph as a column, following the order of each "zoo" invocation" 
-colnames(z) <- c("Measure for Measure", "Henry VIII", "Antoy and Cleopatra")
-
-plot(z, main = "Lexical richness comparison, with hapax analysis", 
-     xlab = "# of markings", 
-     type = "h", 
-     plot.type = "multiple", 
-     col = 1, led = 10)
-
 ## POS tagging and functions
 
-As is now typical, we need to load the appropriate libraries--this time, for natural language processing.
+The following code allows you to process a scanned text and extract its parts of speech. As is now typical, we need to load the appropriate libraries--this time, for natural language processing.
 
 ```{r}
 library(openNLP)
-library (NLP)
-library (openNLPmodels.en)
-library (tm)
-library (stringr)
-library (gsubfn)
-library (plyr)
+library(NLP)
+library(openNLPmodels.en)
+library(tm)
+library(stringr)
+library(gsubfn)
+library(plyr)
 ```
 
-Earlier in the course we briefly mentioned parts-of-speech tagging, which is essential for corpus analysis on the grammatical level. Before we used Laurence Anthony's open-source tool [TagAnt](). However, you can use other programming tools to pos-tag your text. Here is a function that does this. The way it works is that we are going to run this function first, then load a text.
+Earlier in the course we briefly mentioned parts-of-speech tagging, which is essential for corpus analysis on the grammatical level. Before we used Laurence Anthony's open-source tool [TagAnt](http://www.laurenceanthony.net/software/tagant/). However, you can use other programming tools to pos-tag your text. Here is a function that does something similar. The way it works is that we are going to run this function first.
 
 ```{r}
 extractPOS <- function(x, thisPOSregex) {
@@ -85,15 +75,17 @@ extractPOS <- function(x, thisPOSregex) {
 }
 ```
 
+Then we will load a text and assign a variable that distinguishes it as a tagged text.
+
 ```{r}
-great.exp.tagged <- scan(file = "corpus/c19-20_prose/dickens_great-expectations.txt", what="character", sep="\n", encoding = "UTF-8")
+ed.drood.text.tagged <- scan(file = "corpus/c19-20_prose/dickens_edwin-drood.txt", what="character", sep="\n", encoding = "UTF-8")
 ```
 
 Now what we can do is to call upon the loaded text file, process it with POS tags, then extract the pos tags from the tagged file.
 
 ```{r}
 #to extract verbs
-ed.verbs <- lapply(ed.drood.text, extractPOS, "(VB|VBD|VBG|VBN|VBP|VBZ)")
+ed.verbs <- lapply(ed.drood.text.tagged, extractPOS, "(VB|VBD|VBG|VBN|VBP|VBZ)")
 ed.verbs.txt <- tolower(ed.verbs)
 ed.verbs.list <- strsplit(ed.verbs.txt, "/\\w+\\W", perl = TRUE)
 ed.verbs.v <- unlist(ed.verbs.list)
