@@ -116,3 +116,4 @@ ed.nouns.sorted
 write.csv(ed.nouns.sorted, "edwin-drood-nouns.csv")
 ```
 
+You could also use the `cbind` function (like we did in lecture 8.2) to combine the previous two noun and verb lists and create a new matrix that shows both.
