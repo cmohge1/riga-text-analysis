@@ -20,9 +20,13 @@ alice_words <- data_frame(file = paste0('corpus/c19-20_prose/carroll_alice.txt')
   mutate(line_number = row_number()) %>%
   ungroup() %>%
   unnest_tokens(word, text)
+
+alice_words
+
+alice_words$word[5:25]
 ```
 
-Next you invoke the 'inner_join' function which is essentially a way of conflating a data set against another. Here we are joining the text data from Herodotus with a dictionary of sentiment words that assigns relative values to each word.
+Next you invoke the 'inner_join' function which is essentially a way of conflating (or comparing) a data set against another. This is much easier to accomplish when the data is in tidy format. Here we are joining the text data from Lewis Carrol's *Alice in Wonderland* with a dictionary of sentiment words that assigns positive or negative values to each word.
 
 ```{r}
 alice_words_sentiment <- inner_join(alice_words,
@@ -38,12 +42,12 @@ Did you notice the `get_sentiments` function? What is happening is that you are 
 get_sentiments("bing")
 ```
 
-We get a binary result. Another useful dictionary (probably better for more complex or historical texts) is "aFinn".
+We get a binary sentiment result (positive or negative). Another useful dictionary (probably better for more complex or historical texts) is "aFinn".
 ```{r}
 get_sentiments("afinn")
 ```
 
-Here we get a range of sentiment values. The other dictionary (a binary one with 'yes' or 'no' values, with corresponding categories, if 'yes') is called `nrc`.
+Here we get a range of sentiment values. The other dictionary called `nrc`, offers a binary one with 'yes' or 'no' values, with corresponding categories, if 'yes'.
 
 ```{r}
 get_sentiments("nrc")
@@ -64,7 +68,7 @@ alice_words_sentiment %>% ggplot(aes(x = index, y = net_sentiment, fill = file))
   scale_y_continuous("Bing net Sentiment")
 ```
 
-Let's make this interesting: let's compare these results to another children's author. 
+Let's make this interesting by comparing these results to another children's author from our corpus. 
 
 ```{r}
 edgeworth_words <- data_frame(file = paste0('corpus/c19-20_prose/edgeworth_parents.txt')) %>%
@@ -89,7 +93,7 @@ edgeworth_words_sentiment %>% ggplot(aes(x = index, y = net_sentiment, fill = fi
 
 ```
 
-That's quite a difference. Clearly Lewis Carrol's *Alice* is more sinister on the single-word level. Let's break down the Carrol results into more understandable graphs.
+Clearly Lewis Carrol's *Alice* is more sinister on the single-word level. Let's break down the Carrol results into more understandable graphs.
 
 ```{r}
 alice.bing_word_counts <- alice_words %>%
@@ -111,16 +115,27 @@ alice.bing_word_counts <- bing_word_counts %>%
 
 alice.bing_word_counts
 ```
-I hope you're noticing that the top negative word is likely wrong: "miss," which probably refers to the indefinite unmarried woman. Let try this with another sentiment dictionary.
+You're probably noticing that the top negative word is likely wrong: "miss," which probably refers to the indefinite unmarried woman. You could create a custom stop word list to filter out words that you do not want.
+
+```{r}
+custom_stop_words <- bind_rows(tibble(word = c("miss"), lexicon = c("custom")), 
+                               stop_words)
+
+custom_stop_words
+```
+
+
+Let try this with another sentiment dictionary.
 
 
 ```{r}
 alice.nrc_word_counts <- alice_words %>%
+   anti_join(custom_stop_words) %>%
   inner_join(get_sentiments("nrc")) %>%
   count(word, sentiment, sort = TRUE) %>%
   ungroup()
 
-alice.nrc_word_counts %>%
+alice.nrc_word_counts %>% 
   group_by(sentiment) %>%
   top_n(20) %>%
   ungroup() %>%
@@ -133,17 +148,33 @@ alice.nrc_word_counts %>%
   coord_flip()
 ```
 
-Here we have different categories of sentiment words, and it seems to be more accurate than the bing calculations. You can use the code below to combine the two sentiment dictionary results in an overall trajectory.
+Here we have different categories of sentiment words, and it seems to be more accurate than the bing calculations. 
+
+We can also use the tidy `filter()` function to focus on a specific category of sentiment.
+
+```{r}
+nrc_joy <- get_sentiments("nrc") %>% 
+  filter(sentiment == "joy")
+
+alice.joy.word.counts <- alice_words %>%
+  inner_join(nrc_joy) %>% # here we can just inner_join with our new nrc_joy variable
+  count(word, sentiment, sort = TRUE) %>%
+  ungroup()
+
+alice.joy.word.counts
+```
+
+
+You can use the code below to combine the two sentiment dictionary results in an overall trajectory.
 
 ```{r}
 bing_and_nrc <- bind_rows(alice_words %>% 
-                            inner_join(get_sentiments("bing")) %>%
-                            mutate(method = "Bing et al."),
-                          alice_words %>% 
-                            inner_join(get_sentiments("nrc") %>% 
-                                         filter(sentiment %in% c("positive", 
-                                                                 "negative"))) %>%
-                            mutate(method = "NRC")) %>%
+  inner_join(get_sentiments("bing")) %>%
+  mutate(method = "Bing"),
+  alice_words %>% 
+  inner_join(get_sentiments("nrc") %>% 
+  filter(sentiment %in% c("positive", "negative"))) %>%
+  mutate(method = "NRC")) %>%
   count(method, index = line_number %/% 80, sentiment) %>%
   spread(sentiment, n, fill = 0) %>%
   mutate(sentiment = positive - negative)
@@ -154,7 +185,7 @@ bing_and_nrc %>%
   facet_wrap(~method, ncol = 1, scales = "free_y")
 ```
 
-As you can see the bing dictionary generally scores the text more negatively than the nrc. Let's now compare this to another  
+As you can see the bing dictionary generally scores the text more negatively than the nrc. Let's now compare this to Edgeworth.  
 
 ```{r}
 edg.nrc_word_counts <- edgeworth_words %>%
@@ -170,13 +201,13 @@ edg.nrc_word_counts %>%
   ggplot(aes(word, n, fill = sentiment)) +
   geom_col(show.legend = FALSE) +
   facet_wrap(~sentiment, scales = "free_y") +
-  labs(y = "Word Frequency of Sentiment Words in Herodotus",
+  labs(y = "Word Frequency of Sentiment Words in Edgeworth",
        x = NULL) +
   coord_flip()
 summary(bing_word_counts)
 ```
 
-Another way to re-orient the sentiment results is to create a word cloud. Sometimes these can be useful for assessing the total weight of positivity or negativity in a corpus.
+Another way to re-orient the sentiment results is to create a word cloud. Sometimes these can be useful for assessing the total weight of positivity or negativity in a text.
 
 ```{r message=FALSE}
 library(wordcloud)
@@ -222,15 +253,13 @@ alice_words %>%
 ### Accessing more context: 2-n gram frequencies
 
 ```{r}
-hm_ws_bigrams <- hm_ws_table %>%
-  unnest_tokens(bigram, markings, token = "ngrams", n = 2)
-hm_ws_bigrams
-write.csv(hm_ws_bigrams, file = "hm_ws_bigrams.csv")
-hm_ws_bigrams %>%
+alice_bigrams <- alice_words %>%
+  unnest_tokens(bigram, word, token = "ngrams", n = 2)
+alice_bigrams %>%
   count(bigram, sort = TRUE)
 
 # use separate function to filter out stopwords
-bigrams_sep <- hm_ws_bigrams %>%
+bigrams_sep <- alice_bigrams %>%
   separate(bigram, c("word1", "word2"), sep = " ")
 
 bigrams_filtered <- bigrams_sep %>%
@@ -247,21 +276,16 @@ sub_bigram_counts
 
 ```{r}
 # calculate tri-grams
-hm_ws_trigrams <- hm_ws_table %>%
-  unnest_tokens(trigram, markings, token = "ngrams", n = 3) %>%
+alice_trigrams <- alice_words %>%
+  unnest_tokens(trigram, word, token = "ngrams", n = 3) %>%
   separate(trigram, c("word1", "word2", "word3"), sep = " ") %>%
   filter(!word1 %in% stop_words$word,
   !word2 %in% stop_words$word,
   !word3 %in% stop_words$word) %>%
   count(word1, word2, word3, sort = TRUE)
 
-hm_ws_trigrams
+alice_trigrams
 ```
-
-
-bigrams_filtered %>% 
-  filter(word2 == "death") %>%
-  count(play, word1, sort = TRUE)
 
 ### Using bigrams to provide contextual sentiment
 
@@ -299,7 +323,7 @@ not_words %>%
 ```
 
 
-Now let's add to this by accounting for negation words
+Now let's add to this by accounting for negation words.
 
 ```{r}
 negation_words <- c("not", "no", "never", "without")
