@@ -13,7 +13,7 @@ output:
 Let's continue with two of our authors from the previous section: Herodotus and Livy. Now we will create a 'words' vector that goes through the standard tidytext process of uploading a text file, creating a dataframe of words and row numbers, and tokenizing the words in the text file.
 
 ```{r}
-alice_words <- data_frame(file = paste0('corpus/c19-20_prose/carroll_alice.txt')) %>%
+alice_words <- tibble(file = paste0('corpus/c19-20_prose/carroll_alice.txt')) %>%
   mutate(text = map(file, read_lines)) %>%
   unnest() %>%
   group_by(file = str_sub(basename(file), 1, -5)) %>%
@@ -101,7 +101,7 @@ alice.bing_word_counts <- alice_words %>%
   count(word, sentiment, sort = TRUE) %>%
   ungroup()
 
-alice.bing_word_counts <- bing_word_counts %>%
+alice.bing_word_counts <- alice.bing_word_counts %>%
   group_by(sentiment) %>%
   top_n(20) %>%
   ungroup() %>%
@@ -115,7 +115,7 @@ alice.bing_word_counts <- bing_word_counts %>%
 
 alice.bing_word_counts
 ```
-You're probably noticing that the top negative word is likely wrong: "miss," which probably refers to the indefinite unmarried woman. You could create a custom stop word list to filter out words that you do not want.
+You may notice that the top negative word is likely wrong: "miss," which probably refers to the indefinite unmarried woman. You could create a custom stop word list to filter out words that you do not want.
 
 ```{r}
 custom_stop_words <- bind_rows(tibble(word = c("miss"), lexicon = c("custom")), 
