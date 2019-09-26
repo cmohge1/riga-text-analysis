@@ -245,7 +245,7 @@ get_sentiments("afinn")
 
 alice_words %>%
   inner_join(get_sentiments("afinn")) %>%
-  count(word, value, sort = TRUE) %>% # notice here that you're calling on a different observation ("score") instead of the "sentiment" in the previous example: that's due to the tibble structure of the dictionary
+  count(word, value, sort = TRUE) %>% # notice here that you're calling on a different observation ("value") instead of the "sentiment" in the previous example: that's due to the tibble structure of the dictionary
   acast(word ~ value, value.var = "n", fill = 0) %>%
   comparison.cloud(max.words = 1000, scale = c(1,.25), 
                    random.order = FALSE,
