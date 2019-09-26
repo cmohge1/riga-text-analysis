@@ -331,9 +331,11 @@ sherlock <- gutenberg_download(c(1661))
 tidy_grimm <- grimm %>%
   unnest_tokens(word, text) %>%
   anti_join(stop_words)
+
 tidy_stoker <- stoker %>%
   unnest_tokens(word, text) %>%
   anti_join(stop_words)
+
 tidy_sherlock <- sherlock %>%
   unnest_tokens(word, text) %>%
   anti_join(stop_words)
