@@ -3,6 +3,7 @@
 ## 16–26 September 2019
 
 **Riga Technical University**
+**Riga, Latvia**
 
 **Module tutors:**
 
@@ -111,14 +112,20 @@ network graph). [CO]
 
 Lecture 10: \[CO\] Lexical dispersion plot; Put POS tags into use. \[CO\]
 
+[Access the R notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L10_lexical-plots.Rmd).
+
 Lecture 11: Tidy text in R: texts into dataframes, gutenbergr package and corpus comparison. \[CO\]
+
+[Access the R notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L11_tidy-text-1.Rmd).
 
 **Thursday 26 Sep**
 
 Lecture 12: Tidy text in R: sentiment analysis \[CO\].
 
+[Access the R notebook](https://raw.githubusercontent.com/cmohge1/riga-text-analysis/master/L12-tidy-text-2.Rmd).
+
 A critique of
-sentiment analysis \[MS\]. Course review
+sentiment analysis \[MS\]; Course review.
 
 **Suggested Readings**
 
