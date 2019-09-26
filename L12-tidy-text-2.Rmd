@@ -299,10 +299,11 @@ bigrams_sep %>%
 
 
 ```{r}
+AFINN <- get_sentiments("afinn")
 not_words <- bigrams_sep %>%
   filter(word1 == "not") %>%
   inner_join(AFINN, by = c(word2 = "word")) %>%
-  count(word2, score, sort = TRUE) %>%
+  count(word2, value, sort = TRUE) %>%
   ungroup()
 
 not_words
@@ -311,11 +312,11 @@ not_words
 
 ```{r}
 not_words %>%
-  mutate(contribution = n * score) %>%
+  mutate(contribution = n * value) %>%
   arrange(desc(abs(contribution))) %>%
   head(20) %>%
   mutate(word2 = reorder(word2, contribution)) %>%
-  ggplot(aes(word2, n * score, fill = n * score > 0)) +
+  ggplot(aes(word2, n * value, fill = n * value > 0)) +
   geom_col(show.legend = FALSE) +
   xlab("Words preceded by \"not\"") +
   ylab("Sentiment score * number of occurrences") +
@@ -333,18 +334,18 @@ negation_words <- c("not", "no", "never", "without")
 negated_words <- bigrams_sep %>%
   filter(word1 %in% negation_words) %>%
   inner_join(AFINN, by = c(word2 = "word")) %>%
-  count(word1, word2, score, sort = TRUE) %>%
+  count(word1, word2, value, sort = TRUE) %>%
   ungroup()
 ```
 
 
 ```{r}
 negated_words %>%
-  mutate(contribution = n * score) %>%
+  mutate(contribution = n * value) %>%
   arrange(desc(abs(contribution))) %>%
   head(25) %>%
   mutate(word2 = reorder(word2, contribution)) %>%
-  ggplot(aes(word2, n * score, fill = n * score > 0)) +
+  ggplot(aes(word2, n * value, fill = n * value > 0)) +
   geom_col(show.legend = FALSE) +
   xlab("Words preceded by a negation") +
   ylab("Sentiment score * number of occurrences") +
