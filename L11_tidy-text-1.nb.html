@@ -196,6 +196,16 @@ $(document).ready(function () {
 <p>Next we load the necessary libraries for these lessons. <strong>Note</strong>: If you get error messages, you will need to install the libraries by navigating to the “Packages” tab on the right-side panel of RStudio. Then click “Install,” enter the name of the package, and install it.</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeSh0aWR5dGV4dClcbmxpYnJhcnkoZHBseXIpXG5saWJyYXJ5KHN0cmluZ3IpXG5saWJyYXJ5KGdsdWUpXG5saWJyYXJ5KHRpZHl2ZXJzZSlcbmxpYnJhcnkodGlkeXIpXG5saWJyYXJ5KGdncGxvdDIpXG5saWJyYXJ5KGd1dGVuYmVyZ3IpXG5gYGAifQ== -->
+<pre class="r"><code>library(tidytext)
+library(dplyr)
+library(stringr)
+library(glue)
+library(tidyverse)
+library(tidyr)
+library(ggplot2)
+library(gutenbergr)</code></pre>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <p>Before going into more details, I will briefly explain the ‘tidy’ approach to data that will be used in the following. The tidy approach assumes three principles regarding data structure:<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></p>
@@ -258,6 +268,16 @@ gutenberg_works(str_detect(author, &quot;Livy&quot;))$title</code></pre>
 <p>Did you notice anything wrong with this? The first result duplicates some of the content of the fourth, so we should not use that first text id. Remember, the first rule of scholarship is TRUST NO ONE. In computing, never trust your data. So we’ll narrow the ingestion of the gutenberg ids to start with the second result.</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyBjcmVhdGVzIGEgdmFyaWFibGUgdGhhdCB0YWtlcyBhbGwgdGhlIGd1dGVuYmVyZyBpZHMgb2YgXG5pZHMgPC0gZ3V0ZW5iZXJnX3dvcmtzKHN0cl9kZXRlY3QoYXV0aG9yLCBcIkxpdnlcIikpJGd1dGVuYmVyZ19pZFsyOjVdXG5cbmxpdnkgPC0gZ3V0ZW5iZXJncjo6Z3V0ZW5iZXJnX2Rvd25sb2FkKGlkcylcbmxpdnkgPC0gbGl2eSAlPiVcbiAgZ3JvdXBfYnkoZ3V0ZW5iZXJnX2lkKSAlPiVcbiAgbXV0YXRlKGxpbmUgPSByb3dfbnVtYmVyKCkpICU+JVxuICB1bmdyb3VwKClcbmBgYCJ9 -->
+<pre class="r"><code># creates a variable that takes all the gutenberg ids of 
+ids &lt;- gutenberg_works(str_detect(author, &quot;Livy&quot;))$gutenberg_id[2:5]
+
+livy &lt;- gutenbergr::gutenberg_download(ids)
+livy &lt;- livy %&gt;%
+  group_by(gutenberg_id) %&gt;%
+  mutate(line = row_number()) %&gt;%
+  ungroup()</code></pre>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <p>Here we created a new vector called <code>livy</code> and invoked the ‘gutenberg_works’ function to find Livy. What does the <code>gutenberg_download</code> function do? Again, type in the ? before the function to receive a description from the R Documentation. Try the <code>example</code> function, too.</p>
@@ -280,6 +300,19 @@ gutenberg_works(str_detect(author, &quot;Livy&quot;))$title</code></pre>
 <p>Now we transform this into a tidy data set.</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxudGlkeV9saXZ5IDwtIGxpdnkgJT4lXG4gIHVubmVzdF90b2tlbnMob3V0cHV0ID0gd29yZCwgaW5wdXQgPSB0ZXh0LCB0b2tlbiA9IFwid29yZHNcIilcbiAgXG50aWR5X2xpdnkgJT4lIFxuICBjb3VudCh3b3JkLCBzb3J0ID0gVFJVRSkgJT4lXG4gIGZpbHRlcihuID4gNDAwMCkgJT4lXG4gIG11dGF0ZSh3b3JkID0gcmVvcmRlcih3b3JkLCBuKSkgJT4lXG4gIGdncGxvdChhZXMod29yZCwgbikpICtcbiAgZ2VvbV9jb2woKSArXG4gIHhsYWIoTlVMTCkgK1xuICBjb29yZF9mbGlwKClcbmBgYCJ9 -->
+<pre class="r"><code>tidy_livy &lt;- livy %&gt;%
+  unnest_tokens(output = word, input = text, token = &quot;words&quot;)
+  
+tidy_livy %&gt;% 
+  count(word, sort = TRUE) %&gt;%
+  filter(n &gt; 4000) %&gt;%
+  mutate(word = reorder(word, n)) %&gt;%
+  ggplot(aes(word, n)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()</code></pre>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <p>Now we are mostly seeing functions words in these results. But what is interesting about the function words? Notice the prominence of pronouns, for example.</p>
@@ -379,11 +412,21 @@ livy_word_freqs_by_book %&gt;%
 <p>Let’s now compare these results to another important chronicler, from a different era: Herodotus.</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuaGVyb2RvdHVzIDwtIGd1dGVuYmVyZ19kb3dubG9hZChjKDI3MDcsIDI0NTYpKVxuYGBgIn0= -->
+<pre class="r"><code>herodotus &lt;- gutenberg_download(c(2707, 2456))</code></pre>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <p>This downloads the two-volume <em>Histories</em> of Herodotus e-text (note that the c values are the gutenberg ids of two vols of Herodotus’ Histories. The ids can be found by searching for texts on gutenberg.org, clicking on the Bibrec tab, and copying the EBook-No.).</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxudGlkeV9oZXJvZG90dXMgPC0gaGVyb2RvdHVzICU+JVxuICB1bm5lc3RfdG9rZW5zKHdvcmQsIHRleHQpXG5cbnRpZHlfaGVyb2RvdHVzICU+JVxuICBjb3VudCh3b3JkLCBzb3J0ID0gVFJVRSlcbmBgYCJ9 -->
+<pre class="r"><code>tidy_herodotus &lt;- herodotus %&gt;%
+  unnest_tokens(word, text)
+
+tidy_herodotus %&gt;%
+  count(word, sort = TRUE)</code></pre>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <p>What are the differences here with the Livy results?</p>

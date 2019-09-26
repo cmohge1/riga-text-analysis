@@ -8,7 +8,7 @@ output:
     toc: yes
 ---
 
-## Part III: Using TidyText to perform sentiment analysis
+## Using TidyText to perform sentiment analysis
 
 Let's continue with two of our authors from the previous section: Herodotus and Livy. Now we will create a 'words' vector that goes through the standard tidytext process of uploading a text file, creating a dataframe of words and row numbers, and tokenizing the words in the text file.
 
@@ -36,7 +36,24 @@ livy_words_sentiment <- inner_join(livy_words,
   mutate(net_sentiment = positive - negative)
 ```
 
-Using the ggplot library, we can visualise the results. 
+Did you notice the `get_sentiments` function? What is happening is that you are calling an inner_join function that includes an instruction to compare the tidy words tibble to a sentiment dictionary called "bing." Let's have a look at this.
+
+```{r}
+get_sentiments("bing")
+```
+
+We get a binary result. Another useful dictionary (probably better for more complex or historical texts) is AFinn.
+```{r}
+get_sentiments("afinn")
+```
+
+Here we get a range of sentiment values.
+
+Silge and Robinson provide a useful flowchart of how this works.
+
+![tidy-sentiment.png](tidy-sentiment.png)
+
+Back to our results: Using the ggplot library, we can visualise the results. 
 
 ```{r}
 livy_words_sentiment %>% ggplot(aes(x = index, y = net_sentiment, fill = file)) + 
@@ -150,13 +167,120 @@ herodotus_words %>%
                    colors = c("red", "blue"))
 ```
 
+### Accessing more context: 2-n gram frequencies
+
+```{r}
+hm_ws_bigrams <- hm_ws_table %>%
+  unnest_tokens(bigram, markings, token = "ngrams", n = 2)
+hm_ws_bigrams
+write.csv(hm_ws_bigrams, file = "hm_ws_bigrams.csv")
+hm_ws_bigrams %>%
+  count(bigram, sort = TRUE)
+
+# use separate function to filter out stopwords
+bigrams_sep <- hm_ws_bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams_filtered <- bigrams_sep %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word)
+
+# new bigram counts with substantive words
+sub_bigram_counts <- bigrams_filtered %>%
+  count(word1, word2, sort = TRUE)
+
+sub_bigram_counts
+```
+
+
+```{r}
+# calculate tri-grams
+hm_ws_trigrams <- hm_ws_table %>%
+  unnest_tokens(trigram, markings, token = "ngrams", n = 3) %>%
+  separate(trigram, c("word1", "word2", "word3"), sep = " ") %>%
+  filter(!word1 %in% stop_words$word,
+  !word2 %in% stop_words$word,
+  !word3 %in% stop_words$word) %>%
+  count(word1, word2, word3, sort = TRUE)
+
+hm_ws_trigrams
+```
+
+
+bigrams_filtered %>% 
+  filter(word2 == "death") %>%
+  count(play, word1, sort = TRUE)
+
+### Using bigrams to provide contextual sentiment
+
+```{r}
+bigrams_sep %>%
+  filter(word1 == "not") %>%
+  count(word1, word2, sort = TRUE)
+```
+
+
+```{r}
+not_words <- bigrams_sep %>%
+  filter(word1 == "not") %>%
+  inner_join(AFINN, by = c(word2 = "word")) %>%
+  count(word2, score, sort = TRUE) %>%
+  ungroup()
+
+not_words
+```
+
+
+```{r}
+not_words %>%
+  mutate(contribution = n * score) %>%
+  arrange(desc(abs(contribution))) %>%
+  head(20) %>%
+  mutate(word2 = reorder(word2, contribution)) %>%
+  ggplot(aes(word2, n * score, fill = n * score > 0)) +
+  geom_col(show.legend = FALSE) +
+  xlab("Words preceded by \"not\"") +
+  ylab("Sentiment score * number of occurrences") +
+  coord_flip()
+
+# run dev.off() if you get a graphics error
+```
+
+
+Now let's add to this by accounting for negation words
+
+```{r}
+negation_words <- c("not", "no", "never", "without")
+
+negated_words <- bigrams_sep %>%
+  filter(word1 %in% negation_words) %>%
+  inner_join(AFINN, by = c(word2 = "word")) %>%
+  count(word1, word2, score, sort = TRUE) %>%
+  ungroup()
+```
+
+
+```{r}
+negated_words %>%
+  mutate(contribution = n * score) %>%
+  arrange(desc(abs(contribution))) %>%
+  head(25) %>%
+  mutate(word2 = reorder(word2, contribution)) %>%
+  ggplot(aes(word2, n * score, fill = n * score > 0)) +
+  geom_col(show.legend = FALSE) +
+  xlab("Words preceded by a negation") +
+  ylab("Sentiment score * number of occurrences") +
+  coord_flip()
+```
+
+
 ## Exercise 3
 
-Load your own texts (either from your own corpus or from a digital repository like Perseus or Project Gutenberg).
+1. Load your own texts (either from your our corpus or from a digital repository like or Project Gutenberg).
 
-Posit a new question--or questions--about what you would like to investigate further. 
+2. Posit a new question--or questions--about what you would like to investigate further. 
 
-Modify a code block(s) from Part I of the R Notebook to answer your question.
+3. Modify a code block(s) from the R Notebook to answer your question.
 
 ```{r}
 
