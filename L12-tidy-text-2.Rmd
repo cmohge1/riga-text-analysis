@@ -10,7 +10,19 @@ output:
 
 ## Using TidyText to perform sentiment analysis
 
-Let's continue with two of our authors from the previous section: Herodotus and Livy. Now we will create a 'words' vector that goes through the standard tidytext process of uploading a text file, creating a dataframe of words and row numbers, and tokenizing the words in the text file.
+```{r}
+library(tidytext)
+library(magritter)
+library(dplyr)
+library(stringr)
+library(glue)
+library(tidyverse)
+library(tidyr)
+library(ggplot2)
+library(gutenbergr)
+```
+
+Now we will create a 'words' vector that goes through the standard tidytext process of uploading a text file, creating a dataframe of words and row numbers, and tokenizing the words in the text file.
 
 ```{r}
 alice_words <- tibble(file = paste0('corpus/c19-20_prose/carroll_alice.txt')) %>%
@@ -97,6 +109,7 @@ Clearly Lewis Carrol's *Alice* is more sinister on the single-word level. Let's 
 
 ```{r}
 alice.bing_word_counts <- alice_words %>%
+  anti_join(custom_stop_words) %>%
   inner_join(get_sentiments("bing")) %>%
   count(word, sentiment, sort = TRUE) %>%
   ungroup()
@@ -118,7 +131,7 @@ alice.bing_word_counts
 You may notice that the top negative word is likely wrong: "miss," which probably refers to the indefinite unmarried woman. You could create a custom stop word list to filter out words that you do not want.
 
 ```{r}
-custom_stop_words <- bind_rows(tibble(word = c("miss"), lexicon = c("custom")), 
+custom_stop_words <- bind_rows(tibble(word = c("miss", "mock", "like"), lexicon = c("custom")), 
                                stop_words)
 
 custom_stop_words
@@ -300,6 +313,7 @@ bigrams_sep %>%
 
 ```{r}
 AFINN <- get_sentiments("afinn")
+
 not_words <- bigrams_sep %>%
   filter(word1 == "not") %>%
   inner_join(AFINN, by = c(word2 = "word")) %>%
