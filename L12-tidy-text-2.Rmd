@@ -130,7 +130,7 @@ Let try this with another sentiment dictionary.
 
 ```{r}
 alice.nrc_word_counts <- alice_words %>%
-   anti_join(custom_stop_words) %>%
+  anti_join(custom_stop_words) %>%
   inner_join(get_sentiments("nrc")) %>%
   count(word, sentiment, sort = TRUE) %>%
   ungroup()
@@ -238,13 +238,15 @@ alice_words %>%
                    random.order = FALSE,
                    colors = c("red", "blue"))
 ```
+
 ```{r}
 # for a comparison, create a sentiment wordcloud of the Alice results using the afinn dictionary
+get_sentiments("afinn")
 
 alice_words %>%
   inner_join(get_sentiments("afinn")) %>%
-  count(word, score, sort = TRUE) %>% # notice here that you're calling on a different observation ("score") instead of the "sentiment" in the previous example: that's due to the tibble structure of the dictionary
-  acast(word ~ score, value.var = "n", fill = 0) %>%
+  count(word, value, sort = TRUE) %>% # notice here that you're calling on a different observation ("score") instead of the "sentiment" in the previous example: that's due to the tibble structure of the dictionary
+  acast(word ~ value, value.var = "n", fill = 0) %>%
   comparison.cloud(max.words = 1000, scale = c(1,.25), 
                    random.order = FALSE,
                    colors = c("red", "blue"))
