@@ -252,11 +252,15 @@ tidy_herodotus %>%
   count(word, sort = TRUE)
 ```
 
-We could also add into the mix yet another text. Let's try Edward Gibbon.
+We could also add into the mix yet another text. Let's try Edward Gibbon's majesterial *Decline and Fall of the Roman Empire*.
 
 ```{r}
-gibbon <- gutenberg_works(author == "Gibbon, Edward") %>%
-  gutenberg_download(meta_fields = "title")
+gutenberg_works(str_detect(author, "Gibbon, Edward"))
+
+eg.ids <- gutenberg_works(str_detect(author, "Gibbon, Edward"))$gutenberg_id[1:6]
+eg.ids
+
+gibbon <- gutenbergr::gutenberg_download(eg.ids)
 
 tidy_gibbon <- gibbon %>%
   unnest_tokens(word, text) %>%
@@ -270,6 +274,9 @@ tidy_gibbon %>%
 Let's visualize the differences.
 
 ```{r}
+tidy_livy
+tidy_herodotus
+tidy_gibbon
 frequency <- bind_rows(mutate(tidy_livy, author = "Livy"),
                        mutate(tidy_herodotus, author = "Herodotus"),
                        mutate(tidy_gibbon, author = "Edward Gibbon")) %>% 
@@ -308,6 +315,62 @@ cor.test(data = frequency[frequency$author == "Herodotus",],
          ~ proportion + `Edward Gibbon`)
 ```
 
-What this proves (statistically) is that the word frequencies of Gibbon are more correlated to Herodotus than to Livy---which is fascinating, given that Gibbon what writing about the same subject as Livy! 
+What this proves (statistically) is that the word frequencies of Gibbon are more correlated to Herodotus than to Livy---which is fascinating, given that Gibbon what writing about the same subject as Livy! The differences are subtle, though. 
 
 What else can you infer from these comparisons?
+
+### Exercise
+
+Use the above code to create tidy text tibbles for three related authors, and try to visualise their respective proportion of word similarities.
+
+```{r}
+stoker <- gutenberg_download(c(345))
+grimm <- gutenberg_download(c(52521))
+sherlock <- gutenberg_download(c(1661))
+
+tidy_grimm <- grimm %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words)
+tidy_stoker <- stoker %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words)
+tidy_sherlock <- sherlock %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words)
+
+frequency <- bind_rows(mutate(tidy_grimm, author = "Brothers Grimm"),
+                       mutate(tidy_stoker, author = "Bram Stoker"),
+                       mutate(tidy_sherlock, author = "Conan Doyle")) %>% 
+  mutate(word = str_extract(word, "['a-z']+")) %>%
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n / sum(n)) %>% 
+  select(-n) %>% 
+  spread(author, proportion) %>% 
+  gather(author, proportion, `Brothers Grimm`:`Bram Stoker`)
+
+ggplot(frequency, aes(x = proportion, y = `Conan Doyle`, color = abs(`Conan Doyle` - proportion))) +
+  geom_abline(color = "gray40", lty = 2) +
+  geom_jitter(alpha = 0.1, size = 2.5, width = 0.3, height = 0.3) +
+  geom_text(aes(label = word), check_overlap = TRUE, vjust = 1.5) +
+  scale_x_log10(labels = percent_format()) +
+  scale_y_log10(labels = percent_format()) +
+  scale_color_gradient(limits = c(0, 0.001), low = "darkslategray4", high = "gray75") +
+  facet_wrap(~author, ncol = 2) +
+  theme(legend.position="none") +
+  labs(y = "Conan Doyle", x = NULL)
+```
+
+**BONUS**: If you have created the visualisation above, run the correlational word frequency test. How correlated are the word frequencies between the three authors you chose?
+
+```{r}
+cor.test(data = frequency[frequency$author == "Bram Stoker",],
+         ~ proportion + `Conan Doyle`)
+```
+
+```{r}
+cor.test(data = frequency[frequency$author == "Brothers Grimm",],
+         ~ proportion + `Conan Doyle`)
+```
+
+There you go--based on word frequencies, Sherlock Holmes is more correlated to a night-stalking vampire than he is with nocturnal fairy tails. Now it's up to you to make sense of these comparisons by returning to the texts in question and reading them closely!
