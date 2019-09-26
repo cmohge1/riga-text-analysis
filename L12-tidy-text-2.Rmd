@@ -36,18 +36,23 @@ livy_words_sentiment <- inner_join(livy_words,
   mutate(net_sentiment = positive - negative)
 ```
 
-Did you notice the `get_sentiments` function? What is happening is that you are calling an inner_join function that includes an instruction to compare the tidy words tibble to a sentiment dictionary called "bing." Let's have a look at this.
+Did you notice the `get_sentiments` function? What is happening is that you are calling an `inner_join` function that includes an instruction to compare the tidy words tibble to a sentiment dictionary called "bing." Let's have a look at this.
 
 ```{r}
 get_sentiments("bing")
 ```
 
-We get a binary result. Another useful dictionary (probably better for more complex or historical texts) is AFinn.
+We get a binary result. Another useful dictionary (probably better for more complex or historical texts) is "aFinn".
 ```{r}
 get_sentiments("afinn")
 ```
 
-Here we get a range of sentiment values.
+Here we get a range of sentiment values. The other dictionary (a binary one with 'yes' or 'no' values, with corresponding categories, if 'yes') is called `nrc`.
+
+```{r}
+get_sentiments("nrc")
+```
+
 
 Silge and Robinson provide a useful flowchart of how this works.
 
